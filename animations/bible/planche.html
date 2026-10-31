@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<title>Racines — planche du casting</title>
+<style>html,body{margin:0;background:#2a1a10;height:100%}#scene{width:100vw;height:56.25vw;max-height:100vh}</style>
+</head>
+<body>
+<div id="scene"></div>
+<script src="../lib/vendor/gsap.min.js"></script>
+<script src="../lib/racines.js"></script>
+<script src="../lib/decors.js"></script>
+<script src="personnages.js"></script>
+<script>
+  // ?vue=casting (défaut) | expressions
+  const vue = new URLSearchParams(location.search).get('vue') || 'casting';
+  R.init(document.getElementById('scene'));
+  R.voile.setAttribute('opacity', 0);
+  R.scene('planche', 1, (sc) => {
+    const D = R.D;
+    D.ciel(sc.monde, '#f3e2bf', '#e6c896');
+    D.sol(sc.monde, 900, '#c8834a');
+    if (vue === 'casting') {
+      const ordre = ['geant', 'colosse', 'filiforme', 'elancee', 'trapu', 'ronde', 'ancien', 'enfant', 'dwo', 'soxo', 'kwere'];
+      ordre.forEach((k, i) => {
+        const def = CASTING[k];
+        const p = sc.perso(def, null, { x: 110 + i * 172, y: 900, s: 0.85 });
+        const t = R._txt(sc.monde, 110 + i * 172, 960, `${def.id} ${def.nom.replace(/^(Le |La |L')/, '')}`, 18, { fill: '#2a1408' });
+      });
+      sc.animal(BESTIAIRE.hyene, { x: 1820, y: 1040, s: 0.6 });
+    } else {
+      const k = new URLSearchParams(location.search).get('perso') || 'ronde';
+      Object.keys(R.EXPRESSIONS).forEach((e, i) => {
+        const x = 120 + (i % 6) * 300, y = i < 6 ? 470 : 960;
+        const p = sc.perso(CASTING[k], null, Object.assign({ x, y, s: 1.0 }, R.EXPRESSIONS[e]));
+        R._txt(sc.monde, x, y + 50, e, 28, { fill: '#2a1408' });
+      });
+    }
+  });
+  R.tl.seek(0.5); R.rendre();
+</script>
+</body>
+</html>
