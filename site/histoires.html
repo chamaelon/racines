@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Les 30 récits — Racines</title>
+<link rel="stylesheet" href="commun/app.css">
+</head>
+<body>
+<main class="page">
+  <h1 style="font-size:34px;margin:6px 0">Les 30 récits</h1>
+  <div class="barre-filtres" role="search">
+    <input id="recherche" type="search" placeholder="Chercher…" aria-label="Chercher un récit">
+    <select id="type" aria-label="Type de récit"><option value="">Tous les types</option></select>
+    <select id="peuple" aria-label="Peuple"><option value="">Tous les peuples</option></select>
+    <span id="compte" class="meta" style="align-self:center"></span>
+  </div>
+  <div id="catalogue"></div>
+</main>
+<script src="commun/catalogue.js"></script>
+<script src="commun/geo.js"></script>
+<script src="commun/app.js"></script>
+<script>
+(function () {
+  var A = window.RACINES_APP, C = A.C, $ = function (s) { return document.querySelector(s); };
+  A.nav('histoires.html', true);
+  [...new Set(C.histoires.map(function (h) { return h.type; }))].sort().forEach(function (t) { $('#type').add(new Option(t, t)); });
+  [...new Set(C.histoires.map(function (h) { return h.peuple; }))].sort().forEach(function (p) { $('#peuple').add(new Option(p, p)); });
+  function rendre() {
+    var t = $('#recherche').value.trim().toLowerCase(), ty = $('#type').value, pe = $('#peuple').value;
+    var l = C.histoires.filter(function (h) { return (!ty || h.type === ty) && (!pe || h.peuple === pe) && (!t || (h.titre + ' ' + h.peuple + ' ' + h.resume + ' ' + window.GEO[h.dossier].lieu).toLowerCase().includes(t)); });
+    $('#compte').textContent = l.length + (l.length > 1 ? ' récits' : ' récit');
+    $('#catalogue').innerHTML = C.regions.map(function (r, i) {
+      var hs = l.filter(function (h) { return h.region === i; });
+      if (!hs.length) return '';
+      return '<h2 style="font-size:24px;margin-top:18px">' + A.echap(r) + '</h2><div class="grille">' + hs.map(function (h) {
+        return '<a class="fiche" href="lecteur.html?h=' + h.dossier + '"><img src="commun/vignettes/' + h.dossier + '.jpg" alt="" loading="lazy"><div><h3>' + A.echap(h.titre) + (A.Carnet.get(h.dossier).vu ? ' <span style="color:var(--vert)">✓</span>' : '') + '</h3><span class="meta">' + A.echap(h.peuple) + ' · ' + A.echap(h.type) + ' · ' + A.mmss(h.duree) + '</span><p>' + A.echap(h.resume) + '</p><span class="badge ' + h.statut + '">' + A.etiquette(h) + '</span></div></a>';
+      }).join('') + '</div>';
+    }).join('') || '<p>Aucun récit ne correspond.</p>';
+  }
+  ['#recherche', '#type', '#peuple'].forEach(function (s) { $(s).addEventListener('input', rendre); });
+  rendre();
+})();
+</script>
+</body>
+</html>

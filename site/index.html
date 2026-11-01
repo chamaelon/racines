@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Racines — carte des contes et légendes du Burkina Faso</title>
+<meta name="description" content="Carte interactive des contes, légendes et récits historiques du Burkina Faso : 30 récits animés, avec voix off, ambiances et musique.">
+<meta name="theme-color" content="#0d0f24">
+<link rel="stylesheet" href="commun/vendor/maplibre-gl.css">
+<link rel="stylesheet" href="commun/app.css">
+</head>
+<body>
+<main>
+  <h1 class="lecteur-seul">Racines : carte interactive des récits du Burkina Faso</h1>
+  <div id="carte" aria-label="Carte interactive du Burkina Faso"></div>
+  <div id="carte-svg" class="cache"></div>
+
+  <div class="filtres" role="search">
+    <input id="f-texte" type="search" placeholder="Chercher un récit, un lieu…" aria-label="Chercher un récit ou un lieu">
+    <select id="f-type" aria-label="Filtrer par type de récit"><option value="">Tous les types</option></select>
+    <select id="f-peuple" aria-label="Filtrer par peuple"><option value="">Tous les peuples</option></select>
+  </div>
+
+  <div class="outils-carte">
+    <button id="b-3d" class="bouton" type="button">Vue 2D</button>
+    <button id="b-centre" class="bouton" type="button">Recentrer</button>
+    <div class="legende">
+      <div><i style="background:#d19a42"></i>Plus de récits, plus de relief</div>
+      <div><i style="background:#2c2f55"></i>Région à collecter</div>
+      <div><i style="background:var(--or);border-radius:50%"></i>Récit <i style="background:var(--vert);border-radius:50%;margin-left:8px"></i>Déjà vu</div>
+    </div>
+    <p id="note-svg" class="legende cache" style="margin:0">Carte simplifiée : votre appareil n'affiche pas la 3D.</p>
+  </div>
+
+  <aside class="panneau" aria-label="Récits">
+    <div id="panneau-corps" class="panneau-corps" aria-live="polite"></div>
+  </aside>
+  <div id="infobulle" class="infobulle cache" role="tooltip"></div>
+
+  <div id="intro" class="intro cache">
+    <p class="sur-titre">Patrimoine oral · Burkina Faso</p>
+    <h1>Racines</h1>
+    <p>Treize régions, trente récits, des voix à transmettre.</p>
+    <p class="etat" id="intro-etat"></p>
+    <button id="intro-passer" class="bouton" type="button">Passer l'introduction</button>
+  </div>
+</main>
+<noscript><p style="position:fixed;inset:0;z-index:99;padding:40px;background:#0d0f24">Racines a besoin de JavaScript pour afficher la carte et lire les récits.</p></noscript>
+<script src="commun/vendor/maplibre-gl.js"></script>
+<script src="commun/catalogue.js"></script>
+<script src="commun/geo.js"></script>
+<script src="commun/pistes.js"></script>
+<script src="commun/carte-donnees.js"></script>
+<script src="commun/app.js"></script>
+<script src="commun/carte.js"></script>
+</body>
+</html>

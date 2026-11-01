@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Carnet de voyage — Racines</title>
+<link rel="stylesheet" href="commun/app.css">
+</head>
+<body>
+<main class="page">
+  <h1 style="font-size:34px;margin:6px 0">Carnet de voyage</h1>
+  <p class="texte">Votre progression reste sur cet appareil. Chaque récit vu et chaque question réussie s'y inscrit.</p>
+  <div class="chiffres" style="max-width:560px"><div><b id="n-vus"></b><span>récits vus</span></div><div><b id="n-quiz"></b><span>questions réussies</span></div><div><b id="n-peuples"></b><span>peuples rencontrés</span></div></div>
+  <div class="progression" style="max-width:560px"><i id="barre"></i></div>
+  <h2 style="margin-top:24px;font-size:24px">Tampons</h2>
+  <div id="tampons" class="grille"></div>
+  <button id="vider" class="bouton" type="button">Effacer ma progression</button>
+</main>
+<script src="commun/catalogue.js"></script>
+<script src="commun/geo.js"></script>
+<script src="commun/app.js"></script>
+<script>
+(function () {
+  var A = window.RACINES_APP, C = A.C, $ = function (s) { return document.querySelector(s); };
+  A.nav('carnet.html', true);
+  function rendre() {
+    var vus = C.histoires.filter(function (h) { return A.Carnet.get(h.dossier).vu; });
+    $('#n-vus').textContent = vus.length + '/' + C.histoires.length;
+    $('#n-quiz').textContent = A.Carnet.quiz() + '/' + C.histoires.length;
+    $('#n-peuples').textContent = new Set(vus.map(function (h) { return h.peuple; })).size;
+    $('#barre').style.width = vus.length / C.histoires.length * 100 + '%';
+    $('#tampons').innerHTML = C.histoires.map(function (h) {
+      var c = A.Carnet.get(h.dossier);
+      return '<a class="fiche" href="lecteur.html?h=' + h.dossier + '" style="' + (c.vu ? '' : 'opacity:.45') + '"><img src="commun/vignettes/' + h.dossier + '.jpg" alt="" loading="lazy"><div><h3>' + A.echap(h.titre) + '</h3><span class="meta">' + (c.vu ? (c.quiz ? 'Vu · question réussie ✓' : 'Vu ✓') : 'À découvrir') + '</span></div></a>';
+    }).join('');
+  }
+  $('#vider').onclick = function () { if (confirm('Effacer toute votre progression ?')) { A.Carnet.vider(); rendre(); } };
+  rendre();
+})();
+</script>
+</body>
+</html>
