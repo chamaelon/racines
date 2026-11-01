@@ -1,0 +1,8 @@
+import{n as e,t}from"./personnages-BGzDPLcf.js";import{t as n}from"./index-Bro0h7sf.js";var r=[`Approche, le feu est allumé. Ici, chaque région du Burkina Faso garde ses récits.`,`Touche la carte, choisis un lieu, puis lis, écoute ou vis son histoire.`,`Ce que tu auras entendu, à toi de le raconter à ton tour.`];function i(){let i=document.createElement(`div`);i.className=`veillee`,i.setAttribute(`role`,`dialog`),i.setAttribute(`aria-modal`,`true`),i.setAttribute(`aria-label`,`Le griot ouvre la veillée`),i.innerHTML=`<div class="veillee-carte">
+    <canvas width="256" height="512" aria-hidden="true"></canvas>
+    <div>
+      <p class="sur-titre">Le griot</p>
+      <p class="veillee-texte" aria-live="polite"></p>
+      <div class="rangee"><button type="button" class="bouton fort" data-suite>Continuer</button><button type="button" class="bouton discret" data-passer>Passer</button></div>
+    </div>
+  </div>`,document.body.append(i),e(i.querySelector(`canvas`).getContext(`2d`),t.griot,!1);let a=i.querySelector(`.veillee-texte`),o=i.querySelector(`[data-suite]`),s=0,c=()=>{n.definirPref(`intro`,!0),i.remove(),document.getElementById(`app`).focus()},l=()=>{a.textContent=r[s],o.textContent=s===r.length-1?`Entrer dans la veillée`:`Continuer`};o.addEventListener(`click`,()=>{s++,s>=r.length?c():l()}),i.querySelector(`[data-passer]`).addEventListener(`click`,c),i.addEventListener(`keydown`,e=>{e.key===`Escape`&&c()}),l(),o.focus()}export{i as ouvrirVeillee};
