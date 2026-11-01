@@ -13,6 +13,8 @@ export function creerDialogue(racine, { personnages, vitesse, surLettre, surParo
   const portrait = box.querySelector('.j-portrait');
   const texte = box.querySelector('.j-texte');
   const suite = box.querySelector('.j-suite');
+  // Une seule annonce par réplique : le lecteur d'écran n'a pas à suivre la machine à écrire.
+  const annonce = racine.querySelector('.j-annonce');
   let tape = false, passer = null, avancerRes = null, voix = null;
 
   const stopVoix = () => { if (voix) { voix.pause(); voix = null; } };
@@ -24,6 +26,7 @@ export function creerDialogue(racine, { personnages, vitesse, surLettre, surParo
     const p = personnages[n.speaker];
     nom.textContent = p.nom;
     nom.style.background = p.couleur;
+    annonce.textContent = `${p.nom} : ${n.text}`;
     const g = portrait.getContext('2d'); g.clearRect(0, 0, portrait.width, portrait.height);
     dessinerPortrait(portrait, p.style);
     surParole(n.speaker);

@@ -59,7 +59,8 @@ export async function monter(el, ctx) {
       <div class="j-info-corps"></div>
       <button type="button" class="j-btn">Fermer</button>
     </div>
-    <div class="j-boite cache" aria-live="polite">
+    <p class="lecteur-seul j-annonce" aria-live="polite"></p>
+    <div class="j-boite cache">
       <div class="j-etiquette"><canvas class="j-portrait" width="96" height="96" aria-hidden="true"></canvas><span class="j-nom"></span></div>
       <div class="j-texte"></div>
       <div class="j-choix"></div>
@@ -161,12 +162,12 @@ export async function monter(el, ctx) {
       zone.classList.remove('cache');
       zone.querySelector('button').focus({ preventScroll: true });
       return new Promise((res) => {
-        zone.addEventListener('click', (e) => {
+        zone.onclick = (e) => {
           const b = e.target.closest('button'); if (!b) return;
           zone.classList.add('cache');
           if ('rejouer' in b.dataset) res({ next: histoire.start, reset: true });
           else res(choices[+b.dataset.c]);
-        }, { once: false });
+        };
       });
     },
   };
@@ -272,8 +273,7 @@ export async function monter(el, ctx) {
     if ('pReprendre' in b.dataset) fermerPause();
     if ('pRecommencer' in b.dataset) {
       store.sauvegarder(id, null);
-      location.hash = `#/recit/${r.id}`;
-      setTimeout(() => { location.hash = `#/jouer/${r.id}`; }, 0);
+      location.reload();
     }
   });
 

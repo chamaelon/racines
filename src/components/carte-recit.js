@@ -49,7 +49,7 @@ export function carteRecit(r, { regionNom, langues }) {
       ${illustration(r)}
       <div class="carte-recit-corps">
         <p class="etiquettes"><span class="etiquette type-${r.type}">${TYPES[r.type].nom}</span>${r.jouable ? '<span class="etiquette jouable">▶ Jouable</span>' : ''}${fini ? '<span class="etiquette fini">✓ Terminé</span>' : ''}</p>
-        <h3>${esc(r.titre)}</h3>
+        <h2>${esc(r.titre)}</h2>
         <p class="meta">${esc(regionNom)} · ${esc(r.peuple)}</p>
         ${audio ? `<p class="meta">Audio : ${esc(audio)}</p>` : ''}
       </div>

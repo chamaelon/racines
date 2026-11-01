@@ -147,7 +147,7 @@ export class Rendu {
     // En portrait, la boîte de dialogue couvre le bas : on vise plus bas pour remonter la scène.
     const portrait = this.camera.aspect < 1;
     this.camera.position.set(cam.x + px, -0.4 - py, cam.z);
-    this.camera.lookAt(cam.x * 0.9, portrait ? -4.2 : -1.3, 0);
+    this.camera.lookAt(cam.x * 0.9, portrait ? -2.6 : -1.3, 0);
     this.mouthT += dt;
     const flip = this.mouthT > 0.11;
     if (flip) this.mouthT = 0;

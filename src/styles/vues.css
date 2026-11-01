@@ -88,11 +88,11 @@
 .carte-recit a:hover { transform: translateY(-3px); box-shadow: var(--ombre); }
 .illustration { display: block; width: 100%; aspect-ratio: 16 / 9; }
 .carte-recit-corps { padding: 11px 13px 13px; }
-.carte-recit h3 { margin: 0 0 4px; font-size: 16.5px; }
+.carte-recit h2 { margin: 0 0 4px; font-size: 16.5px; }
 
 /* ---- Fiche récit ---- */
 .fiche-entete { display: grid; grid-template-columns: 1fr minmax(220px, 300px); gap: 26px; align-items: start; margin-bottom: 14px; }
-.mini-carte { background: var(--nuit); border-radius: var(--rayon); padding: 8px; }
+.mini-carte { background: var(--nuit); border-radius: var(--rayon); padding: 8px; aspect-ratio: 1000 / 744; }
 .mini-carte svg { width: 100%; height: auto; display: block; }
 .mini-carte .regions path { fill: #5a3a22; cursor: default; }
 .mini-carte .regions path.choisie { fill: var(--ocre); }
@@ -122,7 +122,7 @@
 .lecteur .segments button[aria-pressed=true] { background: var(--ocre); color: var(--nuit); }
 .lecteur audio { width: 100%; display: block; margin-bottom: 8px; color-scheme: dark; }
 .audio-a-venir { font-size: 14.5px; color: var(--ocre-clair); margin: 0 0 8px; }
-.sous-titres { position: relative; max-height: 136px; overflow-y: auto; display: flex; flex-direction: column; gap: 1px; }
+.sous-titres { position: relative; height: 136px; overflow-y: auto; display: flex; flex-direction: column; gap: 1px; }
 .sous-titres button { background: none; border: 0; color: #d9c7a8; text-align: left; font: 400 15.5px/1.4 var(--corps); padding: 3px 6px; border-radius: 6px; cursor: pointer; }
 .sous-titres button:hover { background: var(--nuit-3); }
 .sous-titres button.actif { background: var(--ocre); color: var(--nuit); font-weight: 700; }

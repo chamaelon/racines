@@ -70,7 +70,7 @@ export function creerRelief(cadre, o) {
   // La caméra recule sur les cadres étroits pour garder tout le pays en vue.
   const depart = () => {
     const a = (cadre.clientWidth || 1) / (cadre.clientHeight || 1);
-    const k = Math.max(1.15, 1.75 / a);
+    const k = Math.max(1.3, 2.05 / a);
     camera.position.set(0, 560 * k, 640 * k);
     controls.target.set(0, 0, 30);
   };
