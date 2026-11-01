@@ -9,7 +9,8 @@ animations/
 ├── lib/                 moteur commun (racines.js), éléments de décor (decors.js), GSAP local
 ├── bible/               casting réutilisable, décors composés, bible.md, planche.html
 ├── histoires/
-│   └── 03-wuro-pilon/   00-ecriture/ecriture.md · textes/fr.js · scenes.js · index.html
+│   ├── 01-wuro-masque/  00-ecriture/ecriture.md · textes/fr.js · scenes.js · index.html
+│   └── 03-wuro-pilon/   (pilote, même structure)
 └── registre.md          quelles histoires utilisent quels personnages et décors
 ```
 

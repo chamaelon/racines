@@ -25,29 +25,8 @@
     }
   }
 
-  /** Petite bouffée de particules (pool créé par D.particules). */
-  function bouffee(tl, pool, at, k) {
-    const ps = pool.liste, mx = +ps[0].getAttribute('cx'), my = +ps[0].getAttribute('cy');
-    for (let j = 0; j < 4; j++) {
-      const p = ps[(k * 4 + j) % ps.length];
-      const dx = (j - 1.5) * 22 + ((k * 7) % 5) * 3, dy = -25 - ((k + j) % 3) * 12;
-      tl.fromTo(p, { attr: { cx: mx, cy: my }, opacity: 0.9 }, { attr: { cx: mx + dx, cy: my + dy }, opacity: 0, duration: 0.55, ease: 'power1.out', immediateRender: false }, at);
-    }
-  }
-
-  /** Lumière qui tombe du ciel jusqu'au sol (arrivée d'un esprit). */
-  function chute(tl, parent, couleur, x, y, at, duree) {
-    const l = D.lumiere(parent, 0, 0, 18, couleur);
-    l.setAttribute('opacity', 0);
-    tl.fromTo(l, { x, y: y - 1300, opacity: 1 }, { y, duration: duree || 0.7, ease: 'power2.in', immediateRender: false }, at);
-    tl.to(l, { scale: 4, opacity: 0, transformOrigin: '50% 50%', duration: 0.5 }, at + (duree || 0.7));
-    return l;
-  }
-
-  /** Apparition / disparition d'un objet tenu. */
-  const montrer = (tl, g, at, d) => tl.to(g, { opacity: 1, duration: d || 0.25 }, at);
-  const cacher = (tl, g, at, d) => tl.to(g, { opacity: 0, duration: d || 0.25 }, at);
-  const objet = (g, visible) => { g.setAttribute('opacity', visible ? 1 : 0); return g; };
+  const bouffee = (tl, pool, at, k) => R.jaillir(tl, pool, at, k);
+  const { chute, montrer, cacher, objet } = R;
 
   // =================================================================== 1 · La création
   R.scene('La création', 30, (sc, tl) => {
@@ -376,8 +355,8 @@
     tl.set(sc.cam, { x: 960, y: 640, z: 1.35 }, 21);
     R.fonduEntree(tl, 21, 0.6);
     R.cartouche(tl, 21.5, 4, 'perso_sanou', 'droite');
-    R.pose(tl, bado, { lean: 28, bA: 55, cA: 10 }, 22, 0.6);
-    R.pose(tl, sanou, { lean: 30, bA: 55, cA: 10 }, 22.1, 0.6);
+    R.pose(tl, bado, { lean: 28, bA: 85, cA: 10 }, 22, 0.6);
+    R.pose(tl, sanou, { lean: 30, bA: 85, cA: 10 }, 22.1, 0.6);
     R.expr(tl, bado, 'colere', 22.4); R.expr(tl, sanou, 'colere', 22.4);
     tl.to(canari, { y: 840, duration: 0.5 }, 22.8);
     tl.to(bado.p, { lean: -6, duration: 0.45, yoyo: true, repeat: 5 }, 23);

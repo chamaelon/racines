@@ -34,7 +34,7 @@ la taille, la forme de tête, la carrure et la coiffure.
 |---|---|---|---|---|
 | C01 | `geant` | 430 px, boubou long, halo | ovale haute, barbe blanche, yeux en amande | Wuro (n°1, 3), divinités, Jaba Lompo (devin), ancêtre céleste (n°20) |
 | C02 | `ronde` | 205 px, petite et ronde | ronde, grands yeux, joues, foulard | Hamé, mères, Tenin Coulibaly (n°5) |
-| C03 | `colosse` | 275 px, épaules larges | carrée, petits yeux, sourcils épais, scarifications, barbe courte | Bado le forgeron, guerriers, Famagan (n°16) |
+| C03 | `colosse` | 275 px, épaules larges | carrée, petits yeux, sourcils épais, scarifications, barbe courte | Bado le forgeron (n°3), le premier forgeron (n°1), guerriers, Famagan (n°16) |
 | C04 | `filiforme` | 295 px, jambes longues, corps fil | longue, cheveux en brosse | Sanou, chasseurs (Rialé n°23, chasseur du gyil n°14), messagers |
 | C05 | `enfant` | 135 px | grosse tête ronde, deux touffes | Tiko, enfants, Ouédraogo enfant |
 | C06 | `ancien` | 225 px, voûté (lean 14) | poire, chauve, barbiche blanche, bonnet | Yéli, chefs de terre (n°26), devins, rois âgés |
@@ -57,9 +57,12 @@ distingue sur la planche, puis l'ajouter à ce tableau.
 | D03 | `cosmos` | noir étoilé | — |
 | D04 | `champ` | champ de mil sec et champ vert superposés (fondus), ciel d'orage | `vert`, `soleil` |
 | D05 | `cour` | muret, maison, grenier, canari | `ciel`, `voute`, `etoiles`, `grenierX` |
+| D06 | `bois` | bois sacré : rideau d'arbres, grand arbre-autel, rônier ; `r.devant()` ajoute des feuillages au premier plan | `ciel` (soir, nuit), `arbreX` |
 
 Accessoires : mortier, pilon, canari, gerbe, bâton, éventail, feuilles, sac, siège (tronc),
-pluie, éclair, particules, lumière (esprit en vol), nuage.
+pluie, éclair, particules, lumière (esprit en vol), nuage ; **forge** : feu (flammes animables),
+enclume, marteau, houe ; tourbillon de poussière ; costume de feuilles vide
+(`masqueFeuilles`, à passer à `sc.anime()` pour qu'il frissonne).
 
 ## Moteur ([`../lib/racines.js`](../lib/racines.js))
 
@@ -70,3 +73,11 @@ pluie, éclair, particules, lumière (esprit en vol), nuage.
 - Aides : `R.pose`, `R.expr`, `R.parle` (bouche qui mime), `R.marche`, `R.danse`, `R.saut`,
   `R.cam`, `R.secousse`, `R.fonduEntree/Sortie`, `R.eclairBlanc`, `R.titre`, `R.cartouche`,
   `R.generique`, `perso.tenir(objet, 'A'|'R', {vertical})`.
+- Objets et effets : `R.objet(g, visible)`, `R.montrer` / `R.cacher` (objet tenu qui apparaît),
+  `R.chute` (lumière qui tombe du ciel), `R.jaillir` (poussière, étincelles, feuilles),
+  `R.plan(sc, tl, début, fin)` (sous-plan d'une scène, `g.sous` à passer aux décors),
+  `sc.anime(o)` (accessoire animé à chaque image).
+- **Angles composés** : `lean` + = buste penché en avant. Le bras suit le buste : son angle réel
+  vaut `bA − lean`. Pour frapper vers le sol en se penchant, il faut donc un `bA` plus grand.
+- GSAP : avec `stagger`, mettre `repeat`/`yoyo` **dans** l'objet `stagger`, sinon toute la
+  vague se répète et la scène s'allonge.

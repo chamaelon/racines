@@ -299,6 +299,84 @@
       return g;
     },
 
+    /** Feu (forge, cuisine, veillée) : pierres et flammes. Animer g.flammes (scale) et g.lueur. */
+    feu(parent, x, y, s) {
+      const g = el('g', { transform: `translate(${x},${y}) scale(${s || 1})` }, parent);
+      const lueur = el('ellipse', { cx: 0, cy: -34, rx: 110, ry: 80, fill: '#ffb347', opacity: 0.4, filter: 'url(#flou)' }, g);
+      const flammes = el('g', {}, g);
+      for (const [dx, h, c] of [[-14, 62, '#e8572a'], [13, 76, '#f08a24'], [0, 50, '#ffd166']]) {
+        el('path', { d: `M${dx - 17},0 Q${dx - 20},${-h * 0.55} ${dx},${-h} Q${dx + 20},${-h * 0.55} ${dx + 17},0Z`, fill: c }, flammes);
+      }
+      for (const px of [-32, -11, 11, 32]) el('ellipse', { cx: px, cy: -2, rx: 13, ry: 8, fill: '#5d5a55', stroke: '#33312e', 'stroke-width': 2 }, g);
+      g.flammes = flammes; g.lueur = lueur;
+      return g;
+    },
+
+    /** Enclume de forgeron : pierre de fer posée sur un billot. Surface de frappe à y − 62·s. */
+    enclume(parent, x, y, s) {
+      const g = el('g', { transform: `translate(${x},${y}) scale(${s || 1})` }, parent);
+      el('path', { d: 'M-30,0 L-24,-40 L24,-40 L30,0Z', fill: '#6b4a32', stroke: '#3f2a1a', 'stroke-width': 3 }, g);
+      el('path', { d: 'M-38,-40 L-42,-62 L36,-62 Q56,-58 60,-50 L32,-40Z', fill: '#4d4f57', stroke: '#2b2c31', 'stroke-width': 3 }, g);
+      el('line', { x1: -36, y1: -58, x2: 34, y2: -58, stroke: '#8a8d96', 'stroke-width': 3 }, g);
+      return g;
+    },
+
+    /** Marteau de forge, à tenir dans l'axe de l'avant-bras (sans `vertical`). */
+    marteau() {
+      const g = el('g', {});
+      el('line', { x1: 0, y1: -8, x2: 0, y2: 52, stroke: '#7a5232', 'stroke-width': 7, 'stroke-linecap': 'round' }, g);
+      el('rect', { x: -17, y: 46, width: 34, height: 21, rx: 4, fill: '#55585f', stroke: '#2b2c31', 'stroke-width': 2 }, g);
+      return g;
+    },
+
+    /** Houe (daba) : manche court, lame de fer. À tenir dans l'axe de l'avant-bras. */
+    houe() {
+      const g = el('g', {});
+      el('line', { x1: 0, y1: -12, x2: 0, y2: 72, stroke: '#7a5232', 'stroke-width': 7, 'stroke-linecap': 'round' }, g);
+      el('path', { d: 'M-5,62 L26,68 Q36,82 25,94 L-3,80Z', fill: '#6d7079', stroke: '#33353b', 'stroke-width': 2 }, g);
+      return g;
+    },
+
+    /** Tourbillon de poussière. Placer avec gsap (x, y) ; faire osciller g.anneaux. */
+    tourbillon(parent, s) {
+      const g = el('g', {}, parent);
+      const inner = el('g', { transform: `scale(${s || 1})` }, g);
+      el('ellipse', { cx: 0, cy: -190, rx: 110, ry: 210, fill: '#c9a678', opacity: 0.3, filter: 'url(#flou)' }, inner);
+      const anneaux = [];
+      for (let i = 0; i < 9; i++) {
+        anneaux.push(el('ellipse', { cx: 0, cy: -18 - i * 44, rx: 20 + i * 14, ry: 8 + i * 2.6, fill: 'none', stroke: i % 2 ? '#c9a678' : '#a98256', 'stroke-width': 9 - i * 0.5, opacity: 0.85 }, inner));
+      }
+      g.anneaux = anneaux;
+      return g;
+    },
+
+    /** Costume de feuilles de Dwo, vide (posé sur sa perche) : mêmes proportions que le
+     *  personnage S01. g.p.frisson s'anime ; passer g à sc.anime() pour le faire frissonner. */
+    masqueFeuilles(parent, x, y, s) {
+      const g = el('g', { transform: `translate(${x},${y}) scale(${s || 1})` }, parent || null);
+      const r = rng(11), franges = [];
+      el('line', { x1: 0, y1: -300, x2: 0, y2: 0, stroke: '#5b3a24', 'stroke-width': 8 }, g);
+      for (let k = 0; k < 6; k++) {
+        const yy = -255 + k * 38, larg = 40 + k * 6;
+        const rang = el('g', { transform: `translate(0,${yy})` }, g);
+        for (let i = 0; i < 14; i++) {
+          const xx = -larg + (i / 13) * larg * 2, l = 42 + r() * 26;
+          const col = ['#5f8d3a', '#4c7330', '#76a050', '#b5893b'][Math.floor(r() * 4)];
+          el('path', { d: `M${xx},0 q${(r() - 0.5) * 16},${l * 0.5} ${(r() - 0.5) * 12},${l}`, stroke: col, 'stroke-width': 7, fill: 'none', 'stroke-linecap': 'round' }, rang);
+        }
+        franges.push({ rang, y: yy });
+      }
+      const cy = -296, rx = 26, ry = 38;
+      for (let i = -3; i <= 3; i++) el('path', { d: `M${i * rx * 0.22},${cy - ry * 1.2} q${i * 4},-30 ${i * 9},-48`, stroke: i % 2 ? '#4f7d2c' : '#6a9a35', 'stroke-width': 7, fill: 'none', 'stroke-linecap': 'round' }, g);
+      el('path', { d: `M0,${cy - ry * 1.5} L${rx * 0.9},${cy - ry * 0.3} L${rx * 0.7},${cy + ry} L${-rx * 0.7},${cy + ry} L${-rx * 0.9},${cy - ry * 0.3} Z`, fill: '#8a5a32', stroke: '#5a3a20', 'stroke-width': 2.5 }, g);
+      for (const sx of [-1, 1]) el('ellipse', { cx: sx * 9, cy: cy - 2, rx: 6, ry: 4.5, fill: '#2a160a' }, g);
+      el('path', { d: `M0,${cy + 4} l3,14 l-4,1`, stroke: '#5a3a20', 'stroke-width': 2.5, fill: 'none' }, g);
+      g.franges = franges;
+      g.p = { frisson: 0.4 };
+      g.rendre = (t) => franges.forEach((f, i) => f.rang.setAttribute('transform', `translate(${Math.sin(t * 9 + i) * 3 * g.p.frisson},${f.y}) rotate(${Math.sin(t * 7 + i * 1.3) * 6 * g.p.frisson})`));
+      return g;
+    },
+
     /** Mur bas de concession (cour). */
     muret(parent, x0, x1, y, h, couleur) {
       const c = couleur || PAL.banco;

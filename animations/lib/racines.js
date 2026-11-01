@@ -7,7 +7,7 @@
  *    et la capture image par image est déterministe.
  *  - Coordonnées du monde : 1920 × 1080. Personnage : origine aux pieds, y vers le haut négatif.
  *  - Angles de pose en degrés : bras/cuisse 0 = pendant, + = vers l'avant ; coude + = plié
- *    vers l'avant ; genou + = plié vers l'arrière.
+ *    vers l'avant ; genou + = plié vers l'arrière ; lean + = buste penché vers l'avant.
  */
 (function () {
   const NS = 'http://www.w3.org/2000/svg';
@@ -389,7 +389,7 @@
 
       const hy = g.hanche;
       this.corps.setAttribute('transform', `translate(0,${bob + dy})`);
-      this.buste.setAttribute('transform', `rotate(${-p.lean},0,${hy})`);
+      this.buste.setAttribute('transform', `rotate(${p.lean},0,${hy})`);
       this.jA.cuisse.setAttribute('transform', `translate(0,${hy}) rotate(${-jA2})`);
       this.jA.tibia.setAttribute('transform', `translate(0,${g.cuisse}) rotate(${gA2})`);
       this.jR.cuisse.setAttribute('transform', `translate(${-3},${hy}) rotate(${-jR2})`);
@@ -412,7 +412,7 @@
 
       for (const o of this.tenus) {
         const ang = o.main === 'R' ? bR + p.cR : bA + p.cA;
-        const rot = o.opts.vertical ? ang + p.lean : (o.opts.angle || 0);
+        const rot = o.opts.vertical ? ang - p.lean : (o.opts.angle || 0);
         o.wrap.setAttribute('transform', `rotate(${rot})`);
       }
 
@@ -531,6 +531,8 @@
       sc.perso = (def, costume, pose, parent) => { const a = new Perso(parent || monde, def, costume, pose); this.acteurs.push({ a, sc }); return a; };
       sc.animal = (def, pose, parent) => { const a = new Animal(parent || monde, def, pose); this.acteurs.push({ a, sc }); return a; };
       sc.calque = () => el('g', {}, monde);
+      // Objet animé hors casting (accessoire qui frissonne…) : { rendre(t) } appelé à chaque image.
+      sc.anime = (o) => { this.acteurs.push({ a: o, sc }); return o; };
       const debut = this.scenes.reduce((s, x) => s + x.duree, 0);
       sc.debut = debut;
       const tl = gsap.timeline();
@@ -614,6 +616,40 @@
     eclairBlanc(tl, at, duree) {
       tl.fromTo(this.flash, { opacity: 0 }, { opacity: 1, duration: 0.06, immediateRender: false }, at);
       tl.to(this.flash, { opacity: 0, duration: duree || 0.6, ease: 'power2.in' }, at + 0.08);
+    },
+
+    /** Sous-plan d'une scène : groupe visible de `debut` à `fin` (temps locaux). `g.sous` se
+     *  passe aux décors composés comme une scène. */
+    plan(sc, tl, debut, fin) {
+      const g = el('g', { style: 'display:none' }, sc.monde);
+      tl.set(g, { display: 'inline' }, debut);
+      if (fin !== undefined) tl.set(g, { display: 'none' }, fin);
+      g.sous = { calque: () => el('g', {}, g), monde: g };
+      return g;
+    },
+    /** Objets tenus ou posés : visibilité initiale, apparition, disparition. */
+    objet(g, visible) { g.setAttribute('opacity', visible ? 1 : 0); return g; },
+    montrer(tl, g, at, d) { tl.to(g, { opacity: 1, duration: d || 0.25 }, at); },
+    cacher(tl, g, at, d) { tl.to(g, { opacity: 0, duration: d || 0.25 }, at); },
+    /** Lumière qui tombe du ciel jusqu'au sol (arrivée d'un esprit). */
+    chute(tl, parent, couleur, x, y, at, duree) {
+      const l = R.D.lumiere(parent, 0, 0, 18, couleur);
+      l.setAttribute('opacity', 0);
+      tl.fromTo(l, { x, y: y - 1300, opacity: 1 }, { y, duration: duree || 0.7, ease: 'power2.in', immediateRender: false }, at);
+      tl.to(l, { scale: 4, opacity: 0, transformOrigin: '50% 50%', duration: 0.5 }, at + (duree || 0.7));
+      return l;
+    },
+    /** Bouffée de particules (pool de D.particules) : poussière, étincelles, feuilles.
+     *  k varie la gerbe d'un coup à l'autre. o : { n, ecart, haut, duree }. */
+    jaillir(tl, pool, at, k, o) {
+      o = o || {};
+      const ps = pool.liste, mx = +ps[0].getAttribute('cx'), my = +ps[0].getAttribute('cy');
+      const n = o.n || 4, ec = o.ecart || 22, ht = o.haut || 25;
+      for (let j = 0; j < n; j++) {
+        const p = ps[(k * n + j) % ps.length];
+        const dx = (j - (n - 1) / 2) * ec + ((k * 7) % 5) * 3, dy = -ht - ((k + j) % 3) * ht * 0.48;
+        tl.fromTo(p, { attr: { cx: mx, cy: my }, opacity: 0.9 }, { attr: { cx: mx + dx, cy: my + dy }, opacity: 0, duration: o.duree || 0.55, ease: 'power1.out', immediateRender: false }, at);
+      }
     },
 
     // ---------------------------------------------------------------- Textes (traduisibles)

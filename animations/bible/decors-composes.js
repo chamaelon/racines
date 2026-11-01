@@ -103,6 +103,35 @@ window.DECORS = (function () {
       return r;
     },
 
+    /** D06 — Bois sacré : rideau d'arbres serrés, grand arbre-autel au centre droit.
+     *  Options : ciel (soir par défaut, nuit), arbreX. `r.devant()` ajoute des feuillages au
+     *  premier plan (à appeler APRÈS les personnages). Sol à 880. */
+    bois(sc, o) {
+      o = o || {};
+      const fond = sc.calque();
+      const nuit = o.ciel === 'nuit';
+      const c = CIELS[o.ciel || 'soir'];
+      const r = { fond };
+      r.ciel = D.ciel(fond, c[0], c[1]);
+      if (nuit) { r.etoiles = D.etoiles(fond, 120, 41); r.lune = D.lune(fond, 420, 160, 44); }
+      D.collines(fond, 740, nuit ? '#1b2140' : '#6d5a5a', 31, 40);
+      const fonce = nuit ? '#1a2c22' : '#3f6430', moyen = nuit ? '#223a2b' : '#4f7a38';
+      for (let i = 0; i < 10; i++) D.karite(fond, -700 + i * 380, 820 + (i % 2) * 10, 0.75 + (i % 3) * 0.12, i % 2 ? fonce : moyen);
+      D.sol(fond, 880, nuit ? '#4a3424' : '#8a6040', nuit ? '#2a1c14' : '#6a4630');
+      r.arbre = D.karite(fond, o.arbreX || 1480, 890, 1.7, nuit ? '#24402c' : '#456e34');
+      D.ronier(fond, 180, 885, 1.15);
+      D.herbes(fond, 880, 90, 37, nuit ? '#4a5a2a' : '#7a7a32', [-900, 2800]);
+      if (nuit) r.nuitVoile = R.el('rect', { x: -1000, y: -3000, width: 3920, height: 6000, fill: '#0b1030', opacity: 0.35 }, fond);
+      r.devant = () => {
+        const g = sc.calque();
+        for (const [x, y, s] of [[-180, 1010, 1.3], [2120, 1000, 1.4]]) {
+          for (const [cx, cy, rr] of [[-60, -40, 90], [40, -80, 110], [120, -20, 80]]) R.el('circle', { cx: x + cx * s, cy: y + cy * s, r: rr * s, fill: nuit ? '#0f1c15' : '#2d4a22' }, g);
+        }
+        return g;
+      };
+      return r;
+    },
+
     /** D03 — Cosmos : noir, étoiles, horizon qui peut surgir. */
     cosmos(sc) {
       const fond = sc.calque();
