@@ -10,29 +10,50 @@
 <script src="../lib/vendor/gsap.min.js"></script>
 <script src="../lib/racines.js"></script>
 <script src="../lib/decors.js"></script>
+<script src="../lib/betes.js"></script>
 <script src="personnages.js"></script>
+<script src="decors-composes.js"></script>
 <script>
-  // ?vue=casting (défaut) | expressions
-  const vue = new URLSearchParams(location.search).get('vue') || 'casting';
+  // ?vue=casting (défaut) | casting2 | expressions&perso=<clé> | bestiaire | decor&d=<nom>[&ciel=nuit]
+  const q = new URLSearchParams(location.search);
+  const vue = q.get('vue') || 'casting';
   R.init(document.getElementById('scene'));
   R.voile.setAttribute('opacity', 0);
   R.scene('planche', 1, (sc) => {
     const D = R.D;
-    D.ciel(sc.monde, '#f3e2bf', '#e6c896');
-    D.sol(sc.monde, 900, '#c8834a');
-    if (vue === 'casting') {
-      const ordre = ['geant', 'colosse', 'filiforme', 'elancee', 'trapu', 'ronde', 'ancien', 'enfant', 'dwo', 'soxo', 'kwere'];
+    const fondSimple = () => { D.ciel(sc.monde, '#f3e2bf', '#e6c896'); D.sol(sc.monde, 900, '#c8834a'); };
+    const etiquette = (x, y, txt) => R._txt(sc.monde, x, y, txt, 18, { fill: '#2a1408' });
+    if (vue === 'casting' || vue === 'casting2') {
+      fondSimple();
+      const ordre = vue === 'casting'
+        ? ['geant', 'colosse', 'filiforme', 'elancee', 'trapu', 'ronde', 'ancien', 'enfant', 'dwo', 'soxo', 'kwere']
+        : ['europeen', 'guerrier', 'fille', 'vieille', 'roi', 'bebe', 'genie', 'esprit', 'rocher'];
       ordre.forEach((k, i) => {
         const def = CASTING[k];
-        const p = sc.perso(def, null, { x: 110 + i * 172, y: 900, s: 0.85 });
-        const t = R._txt(sc.monde, 110 + i * 172, 960, `${def.id} ${def.nom.replace(/^(Le |La |L')/, '')}`, 18, { fill: '#2a1408' });
+        sc.perso(def, null, { x: 110 + i * 190, y: 900, s: 0.85 });
+        etiquette(110 + i * 190, 960, `${def.id} ${def.nom.replace(/^(Le |La |L')/, '')}`);
       });
-      sc.animal(BESTIAIRE.hyene, { x: 1820, y: 1040, s: 0.6 });
+      if (vue === 'casting') sc.animal(BESTIAIRE.hyene, { x: 1820, y: 1040, s: 0.6 });
+    } else if (vue === 'bestiaire') {
+      fondSimple();
+      const B = BESTIAIRE;
+      const ligne1 = [['cheval', 150], ['chevalBlanc', 450], ['gazelle', 720], ['zebu', 960], ['elephant', 1300], ['chien', 1600], ['lievre', 1800]];
+      ligne1.forEach(([k, x]) => { sc.bete(B[k], { x, y: 520, s: k === 'elephant' ? 0.8 : 1 }); etiquette(x, 560, B[k].nom); });
+      const ligne2 = [['crocodile', 230], ['silure', 600, 800], ['serpent', 900], ['crapaud', 1080], ['araignee', 1230], ['poule', 1380], ['pintade', 1500], ['cameleon', 1680]];
+      ligne2.forEach(([k, x, y]) => { sc.bete(B[k], { x, y: y || 900 }); etiquette(x, 950, B[k].nom); });
+      const cav = sc.bete(B.cheval, { x: 1780, y: 900, s: 0.7 });
+      cav.monter(sc.perso(CASTING.guerrier, { tete: { type: 'turban', couleur: '#1d2a5c', voile: true } }));
+      etiquette(1780, 950, 'cavalier');
+    } else if (vue === 'decor') {
+      const d = q.get('d') || 'tiebele';
+      DECORS[d](sc, { ciel: q.get('ciel') || undefined, ruine: q.get('ruine') === '1' });
+      sc.perso(CASTING.trapu, null, { x: 960, y: 880 });
     } else {
-      const k = new URLSearchParams(location.search).get('perso') || 'ronde';
+      fondSimple();
+      const k = q.get('perso') || 'ronde';
       Object.keys(R.EXPRESSIONS).forEach((e, i) => {
         const x = 120 + (i % 6) * 300, y = i < 6 ? 470 : 960;
-        const p = sc.perso(CASTING[k], null, Object.assign({ x, y, s: 1.0 }, R.EXPRESSIONS[e]));
+        sc.perso(CASTING[k], null, Object.assign({ x, y, s: 1.0 }, R.EXPRESSIONS[e]));
         R._txt(sc.monde, x, y + 50, e, 28, { fill: '#2a1408' });
       });
     }

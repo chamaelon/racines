@@ -122,8 +122,9 @@
         el('line', { x1: 0, y1: g.tibia, x2: g.ep * 1.4, y2: g.tibia, stroke: c.pieds || couleur, 'stroke-width': g.ep, 'stroke-linecap': 'round' }, tibia);
         return { cuisse, tibia };
       };
-      this.jR = jambe(peauDos);
-      this.jA = jambe(peau);
+      // Pantalon : costume.jambes colore les jambes (sinon la peau)
+      this.jR = jambe(c.jambes ? teinte(c.jambes, -0.25) : peauDos);
+      this.jA = jambe(c.jambes || peau);
 
       // Buste : tout ce qui s'incline (lean) autour des hanches
       this.buste = el('g', {}, this.corps);
@@ -226,6 +227,18 @@
           const yy = y + (h * i) / 4;
           el('path', { d: `M${x + 4},${yy} l${w / 4},-6 l${w / 4},6 l${w / 4},-6 l${w / 4 - 8},6`, stroke: col, 'stroke-width': 2.5, fill: 'none' }, G);
         }
+      } else if (piece.motif === 'amulettes') {
+        // Tunique de chasseur couverte d'amulettes (gris-gris) en cuir
+        for (let i = 0; i < 3; i++) for (let j = 0; j < 3; j++)
+          el('rect', { x: x + w * (0.15 + i * 0.27), y: y + h * (0.12 + j * 0.3), width: 7, height: 9, rx: 1.5, fill: col, stroke: teinte(col, -0.3), 'stroke-width': 1 }, G);
+      } else if (piece.motif === 'boutons') {
+        el('line', { x1: x + w / 2, y1: y, x2: x + w / 2, y2: y + h, stroke: teinte(piece.couleur, -0.25), 'stroke-width': 2 }, G);
+        for (let j = 0; j < 4; j++) el('circle', { cx: x + w / 2 + 4, cy: y + h * (0.15 + j * 0.22), r: 2.4, fill: col }, G);
+      } else if (piece.motif === 'galons') {
+        // Uniforme : bande à la taille et épaulettes
+        el('rect', { x, y: y + h * 0.82, width: w, height: 6, fill: col }, G);
+        el('rect', { x: x - 2, y: y - 2, width: 12, height: 5, fill: col }, G);
+        el('rect', { x: x + w - 10, y: y - 2, width: 12, height: 5, fill: col }, G);
       }
     }
 
@@ -263,6 +276,7 @@
       if (ch === 'tresses') {
         for (let i = -2; i <= 2; i++) el('path', { d: `M${i * rx * 0.35},${cy - ry * 0.8} q${i * 6},${ry * 1.2} ${i * 10},${ry * 1.7}`, stroke: chc, 'stroke-width': 6, fill: 'none', 'stroke-linecap': 'round' }, G);
       }
+      if (ch === 'longs') el('path', { d: `M${-rx * 1.05},${cy - ry * 0.2} Q${-rx * 1.3},${cy + ry * 1.6} ${-rx * 0.6},${cy + ry * 2.2} L${rx * 0.2},${cy + ry * 1.2} Q${rx * 0.9},${cy - ry * 1.4} ${-rx * 1.05},${cy - ry * 0.2}Z`, fill: chc }, G);
       if (ch === 'chignon') el('ellipse', { cx: -rx * 0.15, cy: cy - ry * 1.15, rx: rx * 0.55, ry: ry * 0.5, fill: chc }, G);
 
       // Forme de tête
@@ -290,7 +304,7 @@
         el('circle', { cx: -rx * 0.55, cy: cy - ry * 0.95, r: rx * 0.32, fill: chc }, G);
         el('circle', { cx: rx * 0.55, cy: cy - ry * 0.95, r: rx * 0.32, fill: chc }, G);
       }
-      if (ch === 'tresses' || ch === 'chignon') el('path', { d: `M${-rx * 0.98},${cy - ry * 0.1} Q0,${cy - ry * 1.45} ${rx * 0.98},${cy - ry * 0.1} Q0,${cy - ry * 0.75} ${-rx * 0.98},${cy - ry * 0.1}Z`, fill: chc }, G);
+      if (ch === 'tresses' || ch === 'chignon' || ch === 'longs') el('path', { d: `M${-rx * 0.98},${cy - ry * 0.1} Q0,${cy - ry * 1.45} ${rx * 0.98},${cy - ry * 0.1} Q0,${cy - ry * 0.75} ${-rx * 0.98},${cy - ry * 0.1}Z`, fill: chc }, G);
       if (ch === 'zigzag') {
         el('path', { d: `M${-rx},${cy - ry * 0.4} l${rx * 0.25},${-ry * 1.1} l${rx * 0.2},${ry * 0.5} l${rx * 0.3},${-ry * 1.0} l${rx * 0.25},${ry * 0.6} l${rx * 0.3},${-ry * 0.9} l${rx * 0.2},${ry * 0.6} l${rx * 0.5},${-ry * 0.7} l${-rx * 0.1},${ry * 1.4} Z`, fill: chc, stroke: teinte(chc, -0.3), 'stroke-width': 2 }, G);
       }
@@ -308,6 +322,38 @@
         el('path', { d: `M${-rx * 0.8},${cy - ry * 0.62} Q${-rx * 0.6},${cy - ry * 1.5} 0,${cy - ry * 1.85} Q${rx * 0.6},${cy - ry * 1.5} ${rx * 0.8},${cy - ry * 0.62} Z`, fill: t.couleur, stroke: teinte(t.couleur, -0.3), 'stroke-width': 2 }, G);
         el('path', { d: `M${-rx * 0.25},${cy - ry * 1.62} L0,${cy - ry * 2.05} L${rx * 0.25},${cy - ry * 1.62} Z`, fill: '#6b3a1e' }, G);
         el('path', { d: `M${-rx * 0.78},${cy - ry * 0.75} Q0,${cy - ry * 0.9} ${rx * 0.78},${cy - ry * 0.75}`, stroke: '#6b3a1e', 'stroke-width': 5, fill: 'none' }, G);
+      } else if (t && t.type === 'turban') {
+        // Turban enroulé, pan qui tombe derrière la nuque
+        const tc = t.couleur, tb = teinte(tc, -0.3);
+        el('path', { d: `M${-rx * 0.8},${cy - ry * 0.3} q${-rx * 0.5},${ry * 0.6} ${-rx * 0.35},${ry * 1.3} l${rx * 0.3},${-ry * 0.1} q${-rx * 0.05},${-ry * 0.6} ${rx * 0.3},${-ry * 1.0}Z`, fill: tb }, G);
+        el('path', { d: `M${-rx * 1.05},${cy - ry * 0.2} Q${-rx * 1.15},${cy - ry * 1.5} 0,${cy - ry * 1.55} Q${rx * 1.15},${cy - ry * 1.5} ${rx * 1.05},${cy - ry * 0.2} Q0,${cy - ry * 0.5} ${-rx * 1.05},${cy - ry * 0.2}Z`, fill: tc, stroke: tb, 'stroke-width': 2 }, G);
+        for (let i = 0; i < 3; i++) el('path', { d: `M${-rx * 0.95},${cy - ry * (0.45 + i * 0.32)} Q0,${cy - ry * (0.75 + i * 0.32)} ${rx * 0.95},${cy - ry * (0.45 + i * 0.32)}`, stroke: tb, 'stroke-width': 2, fill: 'none' }, G);
+        if (t.voile) el('path', { d: `M${-rx * 0.95},${cy + ry * 0.05} Q0,${cy + ry * 0.35} ${rx * 1.0},${cy + ry * 0.05} L${rx * 0.9},${cy + ry * 0.95} Q0,${cy + ry * 1.15} ${-rx * 0.9},${cy + ry * 0.95}Z`, fill: tc, stroke: tb, 'stroke-width': 2 }, G);
+      } else if (t && t.type === 'casque') {
+        // Casque colonial (casque de liège)
+        el('ellipse', { cx: 0, cy: cy - ry * 0.45, rx: rx * 1.45, ry: ry * 0.16, fill: t.couleur, stroke: teinte(t.couleur, -0.3), 'stroke-width': 2 }, G);
+        el('path', { d: `M${-rx * 0.95},${cy - ry * 0.45} Q${-rx * 1.0},${cy - ry * 1.6} 0,${cy - ry * 1.62} Q${rx * 1.0},${cy - ry * 1.6} ${rx * 0.95},${cy - ry * 0.45}Z`, fill: t.couleur, stroke: teinte(t.couleur, -0.3), 'stroke-width': 2 }, G);
+        el('path', { d: `M${-rx * 0.92},${cy - ry * 0.62} Q0,${cy - ry * 0.75} ${rx * 0.92},${cy - ry * 0.62}`, stroke: teinte(t.couleur, -0.35), 'stroke-width': 4, fill: 'none' }, G);
+      } else if (t && t.type === 'couronne') {
+        const tc = t.couleur || '#e9c46a';
+        el('path', { d: `M${-rx * 0.85},${cy - ry * 0.55} L${-rx * 0.9},${cy - ry * 1.35} L${-rx * 0.45},${cy - ry * 1.0} L0,${cy - ry * 1.55} L${rx * 0.45},${cy - ry * 1.0} L${rx * 0.9},${cy - ry * 1.35} L${rx * 0.85},${cy - ry * 0.55} Q0,${cy - ry * 0.75} ${-rx * 0.85},${cy - ry * 0.55}Z`, fill: tc, stroke: teinte(tc, -0.35), 'stroke-width': 2 }, G);
+        for (const x of [-0.45, 0, 0.45]) el('circle', { cx: rx * x, cy: cy - ry * 0.75, r: 3.5, fill: t.pierres || '#b23a2a' }, G);
+      } else if (t && t.type === 'chasseur') {
+        // Bonnet de chasseur dozo : calotte ocre, rabats, amulettes et petites cornes
+        const tc = t.couleur || '#a0703a', tb = teinte(tc, -0.3);
+        for (const s of [-1, 1]) el('path', { d: `M${s * rx * 0.55},${cy - ry * 0.9} q${s * rx * 0.25},${-ry * 0.5} ${s * rx * 0.1},${-ry * 0.85}`, stroke: '#efe6cf', 'stroke-width': 5, fill: 'none', 'stroke-linecap': 'round' }, G);
+        el('path', { d: `M${-rx * 1.0},${cy + ry * 0.2} L${-rx * 1.0},${cy - ry * 0.5} Q0,${cy - ry * 1.65} ${rx * 1.0},${cy - ry * 0.5} L${rx * 1.0},${cy + ry * 0.2} L${rx * 0.75},${cy + ry * 0.2} L${rx * 0.75},${cy - ry * 0.35} Q0,${cy - ry * 0.6} ${-rx * 0.75},${cy - ry * 0.35} L${-rx * 0.75},${cy + ry * 0.2}Z`, fill: tc, stroke: tb, 'stroke-width': 2 }, G);
+        for (const x of [-0.5, 0, 0.5]) el('rect', { x: rx * x - 3.5, y: cy - ry * 1.05, width: 7, height: 8, rx: 1.5, fill: '#5a3a20' }, G);
+      } else if (t && t.type === 'calotte') {
+        el('path', { d: `M${-rx * 0.9},${cy - ry * 0.45} Q0,${cy - ry * 1.5} ${rx * 0.9},${cy - ry * 0.45} Q0,${cy - ry * 0.6} ${-rx * 0.9},${cy - ry * 0.45}Z`, fill: t.couleur, stroke: teinte(t.couleur, -0.3), 'stroke-width': 2 }, G);
+        if (t.motifCouleur) el('path', { d: `M${-rx * 0.8},${cy - ry * 0.65} Q0,${cy - ry * 0.85} ${rx * 0.8},${cy - ry * 0.65}`, stroke: t.motifCouleur, 'stroke-width': 3, fill: 'none', 'stroke-dasharray': '4 4' }, G);
+      } else if (t && t.type === 'kepi') {
+        el('path', { d: `M${-rx * 0.85},${cy - ry * 0.4} L${-rx * 0.75},${cy - ry * 1.4} L${rx * 0.75},${cy - ry * 1.4} L${rx * 0.85},${cy - ry * 0.4}Z`, fill: t.couleur, stroke: teinte(t.couleur, -0.35), 'stroke-width': 2 }, G);
+        el('path', { d: `M${rx * 0.7},${cy - ry * 0.42} l${rx * 0.6},${ry * 0.12} l${-rx * 0.6},${ry * 0.08}Z`, fill: '#1d140f' }, G);
+        el('rect', { x: -rx * 0.8, y: cy - ry * 0.62, width: rx * 1.6, height: 5, fill: t.bande || '#b23a2a' }, G);
+      } else if (t && t.type === 'chechia') {
+        el('path', { d: `M${-rx * 0.7},${cy - ry * 0.55} L${-rx * 0.55},${cy - ry * 1.5} L${rx * 0.55},${cy - ry * 1.5} L${rx * 0.7},${cy - ry * 0.55}Z`, fill: t.couleur || '#b23a2a', stroke: teinte(t.couleur || '#b23a2a', -0.35), 'stroke-width': 2 }, G);
+        el('path', { d: `M${rx * 0.1},${cy - ry * 1.5} q${rx * 0.5},${ry * 0.2} ${rx * 0.4},${ry * 0.8}`, stroke: '#1d2a5c', 'stroke-width': 3, fill: 'none' }, G);
       }
 
       // Visage (décalé vers l'avant pour suggérer le 3/4)
@@ -354,6 +400,7 @@
       // Barbe (dessinée après la bouche, mais sous le menton)
       if (d.barbe === 'barbiche') el('path', { d: `M${-rx * 0.15},${cy + ry * 0.92} q${rx * 0.15},${ry * 0.55} ${rx * 0.3},0`, fill: d.barbeCouleur || '#ddd', stroke: d.barbeCouleur || '#ddd', 'stroke-width': 3 }, V);
       if (d.barbe === 'longue') el('path', { d: `M${-rx * 0.7},${cy + ry * 0.55} Q${-rx * 0.5},${cy + ry * 2.1} 0,${cy + ry * 2.3} Q${rx * 0.5},${cy + ry * 2.1} ${rx * 0.7},${cy + ry * 0.55} Q0,${cy + ry * 1.05} ${-rx * 0.7},${cy + ry * 0.55}Z`, fill: d.barbeCouleur || '#f2efe6', stroke: '#b9a77e', 'stroke-width': 2 }, V);
+      if (d.barbe === 'moustache' || d.moustache) el('path', { d: `M${-rx * 0.38},${this.mouthY - 3} Q${-rx * 0.2},${this.mouthY - 11} 0,${this.mouthY - 6} Q${rx * 0.2},${this.mouthY - 11} ${rx * 0.38},${this.mouthY - 3} Q0,${this.mouthY - 5} ${-rx * 0.38},${this.mouthY - 3}Z`, fill: d.barbeCouleur || '#5a3a20' }, V);
       if (d.barbe === 'courte') el('path', { d: `M${-rx * 0.8},${cy + ry * 0.45} Q0,${cy + ry * 1.35} ${rx * 0.8},${cy + ry * 0.45} Q0,${cy + ry * 1.0} ${-rx * 0.8},${cy + ry * 0.45}Z`, fill: d.barbeCouleur || '#1d140f' }, V);
     }
 
@@ -530,6 +577,7 @@
       const sc = { nom, g, monde, cam: { x: W / 2, y: H / 2, z: 1, r: 0 }, duree };
       sc.perso = (def, costume, pose, parent) => { const a = new Perso(parent || monde, def, costume, pose); this.acteurs.push({ a, sc }); return a; };
       sc.animal = (def, pose, parent) => { const a = new Animal(parent || monde, def, pose); this.acteurs.push({ a, sc }); return a; };
+      sc.bete = (def, pose, parent) => { const a = new R.Bete(parent || monde, def, pose); this.acteurs.push({ a, sc }); return a; };
       sc.calque = () => el('g', {}, monde);
       // Objet animé hors casting (accessoire qui frissonne…) : { rendre(t) } appelé à chaque image.
       sc.anime = (o) => { this.acteurs.push({ a: o, sc }); return o; };
@@ -701,7 +749,15 @@
       const tl = this.tl;
       const q = new URLSearchParams(location.search);
       const barre = document.getElementById('barre');
-      if (q.get('capture')) { document.body.classList.add('capture'); if (barre) barre.style.display = 'none'; tl.seek(parseFloat(q.get('t') || 0)); this.rendre(); window.__pret = true; return; }
+      if (q.get('capture')) {
+        // Mode capture (export vidéo) : pas de lecture ; l'outil d'export appelle __aller(t) image par image.
+        document.body.classList.add('capture'); if (barre) barre.style.display = 'none';
+        window.__aller = (t) => { tl.seek(t); this.rendre(); };
+        window.__duree = tl.duration();
+        window.__aller(parseFloat(q.get('t') || 0));
+        window.__pret = true;
+        return;
+      }
       if (!barre) return;
       const bouton = barre.querySelector('#lecture'), curseur = barre.querySelector('#curseur'), temps = barre.querySelector('#temps'), liste = barre.querySelector('#scenes');
       curseur.max = tl.duration();

@@ -1,0 +1,5 @@
+# Vidéos exportées (lourdes, régénérables avec outils/exporter.ps1)
+videos/*.mp4
+
+videos/journaux/
+
