@@ -23,12 +23,14 @@ async function jouerJusquaLaFin(page, plan = []) {
     const piste = page.locator('.mj-piste');
     const reponse = page.locator('.mj-reponses button:not([disabled])');
     const suiteMini = page.locator('.mj-suite');
+    const tam = page.locator('.mj-tams button:not([disabled])');
     if (await page.locator('.j-info').isVisible()) await page.locator('.j-info > button').click();
     else if (await suiteExplore.isVisible()) {
       const objet = page.locator('.j-explore-liste button:not(.trouve)').first();
       if (await objet.count()) await objet.click(); else await suiteExplore.click();
     } else if (await choix.count()) await choix.nth(plan.shift() ?? 0).click();
     else if (await piste.isVisible()) await page.keyboard.press('Space');
+    else if (await page.locator('.mj-tams').count()) { if (await tam.count()) await tam.first().click().catch(() => {}); else await page.waitForTimeout(100); }
     else if (await suiteMini.count()) await suiteMini.click();
     else if (await reponse.count()) await reponse.first().click();
     else if (await page.locator('.j-boite').isVisible()) await page.locator('.j-boite').click({ position: { x: 5, y: 5 }, timeout: 3000 }).catch(() => {});
@@ -158,4 +160,20 @@ test('carte : clic sur une région et un marqueur, relief 3D', async ({ page }, 
   await page.locator('[data-relief]').click();
   await expect(page.locator('.relief-canvas')).toHaveCount(0);
   expect(erreurs, info.project.name).toEqual([]);
+});
+
+test.describe("moins d'animations", () => {
+  test.use({ reducedMotion: 'reduce' });
+  test('le système le demande : parallaxe coupée et mode lecture proposé', async ({ page }) => {
+    const erreurs = await preparer(page, { prefs: { ...PREFS, prefs: { son: false, vitesse: 1, intro: true } } });
+    await page.goto('./#/jouer/yennenga');
+    const lien = page.locator('[data-lecture]');
+    await expect(lien).toBeVisible();
+    await lien.click();
+    await expect(page.locator('.j-lecture')).toBeVisible();
+    await page.getByRole('button', { name: /Commencer/ }).click();
+    // Le texte s'affiche d'un coup, sans machine à écrire
+    await expect(page.locator('.j-texte')).toContainText('avant lui.');
+    expect(erreurs).toEqual([]);
+  });
 });
