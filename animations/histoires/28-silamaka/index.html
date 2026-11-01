@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Silamaka et Poullori — Racines</title>
+<style>
+  html, body { margin: 0; height: 100%; background: #000; overflow: hidden; font-family: "Segoe UI", Arial, sans-serif; }
+  #scene { position: absolute; inset: 0 0 48px 0; display: flex; align-items: center; justify-content: center; }
+  #barre { position: absolute; left: 0; right: 0; bottom: 0; height: 48px; display: flex; gap: 12px; align-items: center; padding: 0 14px; background: #1a110b; color: #e8dcc4; }
+  #barre button { background: #d98a2b; border: 0; color: #1a110b; font-size: 18px; width: 44px; height: 32px; border-radius: 6px; cursor: pointer; }
+  #curseur { flex: 1; accent-color: #d98a2b; }
+  #barre select { background: #2a1a10; color: #e8dcc4; border: 1px solid #5a3a20; height: 30px; }
+  body.capture #scene { inset: 0; }
+</style>
+</head>
+<body>
+<div id="scene"></div>
+<div id="barre">
+  <button id="lecture" title="Lecture / pause (espace)">▶</button>
+  <input id="curseur" type="range" min="0" step="0.01" value="0">
+  <span id="temps">0:00</span>
+  <select id="scenes" title="Aller à la scène"><option value="0">Scènes…</option></select>
+</div>
+
+<script src="../../lib/vendor/gsap.min.js"></script>
+<script src="../../lib/racines.js"></script>
+<script src="../../lib/decors.js"></script>
+<script src="../../lib/betes.js"></script>
+<script src="../../lib/gestes.js"></script>
+<script src="../../bible/personnages.js"></script>
+<script src="../../bible/decors-composes.js"></script>
+<!-- Textes à l'écran : un fichier par langue (?lang=fr, ?lang=mos…) -->
+<script src="textes/fr.js"></script>
+<script src="scenes.js"></script>
+</body>
+</html>
