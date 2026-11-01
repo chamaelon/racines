@@ -268,3 +268,31 @@
     return lueurs;
   };
 })();
+
+/* Ajout : cavalerie. */
+(function () {
+  const G = R.G;
+  /**
+   * Cavaliers : [[x, dir, s?], …] → chevaux montés (ch.cav = le cavalier).
+   * o : { def (CASTING), habit, arme ('lance' | 'sabre' | 'arc' | null), cheval (fiche BESTIAIRE), sol, parent }.
+   */
+  G.cavaliers = (sc, liste, o) => {
+    o = o || {};
+    return liste.map(([x, dir, s], i) => {
+      const ch = sc.bete(o.cheval || BESTIAIRE.cheval, { x, y: (o.sol || 880) + (i % 2) * 12, dir: dir || 1, s: s || 1 }, o.parent);
+      const c = sc.perso(o.def || CASTING.guerrier, o.habit || HABITS.cavalier, {}, o.parent);
+      ch.monter(c);
+      const arme = o.arme === undefined ? 'lance' : o.arme;
+      if (arme === 'lance') c.tenir(R.D.lance(220), 'A', { vertical: true });
+      if (arme === 'sabre') c.tenir(R.D.sabre(), 'A');
+      if (arme === 'arc') c.tenir(R.D.arc(), 'R', { vertical: true });
+      ch.cav = c;
+      return ch;
+    });
+  };
+  /** Charge ou chevauchée d'un groupe vers x (décalés). */
+  G.chevaucher = (tl, groupe, x, at, duree, o) => {
+    o = o || {};
+    groupe.forEach((ch, i) => R.marche(tl, ch, x + i * (o.ecart || 170) * (ch.p.dir > 0 ? -1 : 1), at + i * (o.decalage || 0.25), duree, { pas: o.pas || Math.round(duree * 2.6), amp: o.amp || 1.4 }));
+  };
+})();
