@@ -1,0 +1,380 @@
+{
+  "id": "lievre-hyene",
+  "titre": "Le lièvre et l'hyène",
+  "presentation": "Un conte de veillée, à jouer dans la peau du lièvre. L'hyène veut manger sans travailler : à toi de trouver comment partager la récolte. Réponds bien aux devinettes !",
+  "start": "intro",
+  "langueAudio": "mos",
+  "audioProvisoire": true,
+  "personnages": {
+    "griot": {
+      "nom": "Le griot",
+      "style": "griot",
+      "couleur": "#8a5a12"
+    },
+    "lievre": {
+      "nom": "Le lièvre",
+      "style": "lievre",
+      "couleur": "#6a4a1e"
+    },
+    "hyene": {
+      "nom": "L'hyène",
+      "style": "hyene",
+      "couleur": "#4a4a2a"
+    },
+    "marchande": {
+      "nom": "La marchande",
+      "style": "marchande",
+      "couleur": "#a3201b"
+    }
+  },
+  "distribution": {
+    "brousse": {
+      "lievre": {
+        "x": 2,
+        "echelle": 0.8
+      },
+      "hyene": {
+        "x": -2.4,
+        "echelle": 1.05
+      }
+    },
+    "champ": {
+      "lievre": {
+        "x": 2.2,
+        "echelle": 0.8
+      },
+      "hyene": {
+        "x": -2.6,
+        "echelle": 1.05
+      }
+    },
+    "marche": {
+      "lievre": {
+        "x": 2.4,
+        "echelle": 0.8
+      },
+      "marchande": {
+        "x": -0.4
+      },
+      "hyene": {
+        "x": -3.6,
+        "echelle": 1.05
+      }
+    },
+    "nuit": {
+      "lievre": {
+        "x": 2.2,
+        "echelle": 0.8
+      },
+      "hyene": {
+        "x": -2.4,
+        "echelle": 1.05
+      }
+    },
+    "village": {
+      "lievre": {
+        "x": 2,
+        "echelle": 0.8
+      },
+      "hyene": {
+        "x": -2.2,
+        "echelle": 1.05
+      }
+    }
+  },
+  "nodes": {
+    "intro": {
+      "scene": "brousse",
+      "speaker": "griot",
+      "text": "Écoutez bien, vous tous. Ce conte vient du temps où les bêtes parlaient encore, et où les greniers sonnaient creux.",
+      "next": "hyene1",
+      "audio": {
+        "mos": "audio/lievre-hyene/intro.mos.mp3"
+      }
+    },
+    "hyene1": {
+      "speaker": "hyene",
+      "text": "Te voilà, petit lièvre ! Trouve-moi à manger, ou c'est toi que je mange.",
+      "next": "choix1",
+      "audio": {
+        "mos": "audio/lievre-hyene/hyene1.mos.mp3"
+      }
+    },
+    "choix1": {
+      "speaker": "griot",
+      "text": "Le lièvre est bien petit, et l'hyène a de grandes dents. Que répond-il ?",
+      "choices": [
+        {
+          "label": "« Cultivons un champ ensemble, nous partagerons. »",
+          "next": "accord",
+          "add": {
+            "ruse": 1
+          },
+          "tag": "champ commun"
+        },
+        {
+          "label": "« Je vais t'apporter mes dernières provisions. »",
+          "next": "offrande",
+          "tag": "provisions données"
+        }
+      ],
+      "audio": {
+        "mos": "audio/lievre-hyene/choix1.mos.mp3"
+      }
+    },
+    "offrande": {
+      "speaker": "griot",
+      "text": "Le lièvre vide son terrier. L'hyène engloutit tout et revient dès le lendemain, plus affamée encore. Il faut trouver autre chose.",
+      "next": "accord",
+      "audio": {
+        "mos": "audio/lievre-hyene/offrande.mos.mp3"
+      }
+    },
+    "accord": {
+      "speaker": "lievre",
+      "text": "Ensemble, faisons un champ. Je travaille, tu surveilles. À toi ce qui pousse au-dessus de la terre, à moi ce qui pousse au-dessous.",
+      "next": "hyene2",
+      "audio": {
+        "mos": "audio/lievre-hyene/accord.mos.mp3"
+      }
+    },
+    "hyene2": {
+      "speaker": "hyene",
+      "text": "Le dessus, c'est là que sont les beaux épis ! J'accepte, et je vais dormir à l'ombre.",
+      "next": "choix2",
+      "audio": {
+        "mos": "audio/lievre-hyene/hyene2.mos.mp3"
+      }
+    },
+    "choix2": {
+      "scene": "champ",
+      "speaker": "griot",
+      "text": "La pluie arrive, c'est le moment de semer. Que sème le lièvre ?",
+      "choices": [
+        {
+          "label": "Des arachides, qui mûrissent sous la terre",
+          "next": "arachide",
+          "add": {
+            "ruse": 1
+          },
+          "tag": "arachides"
+        },
+        {
+          "label": "Du mil, qui mûrit au-dessus de la terre",
+          "next": "mil1",
+          "tag": "mil"
+        }
+      ],
+      "audio": {
+        "mos": "audio/lievre-hyene/choix2.mos.mp3"
+      }
+    },
+    "arachide": {
+      "speaker": "griot",
+      "text": "À la récolte, l'hyène reçoit des brassées de feuilles. Le lièvre, lui, emplit ses paniers de graines.",
+      "next": "marche1",
+      "audio": {
+        "mos": "audio/lievre-hyene/arachide.mos.mp3"
+      }
+    },
+    "mil1": {
+      "speaker": "griot",
+      "text": "À la récolte, l'hyène emporte tous les épis. Le lièvre n'a que des racines à mâcher : il se promet d'être plus malin l'an prochain.",
+      "next": "marche1",
+      "audio": {
+        "mos": "audio/lievre-hyene/mil1.mos.mp3"
+      }
+    },
+    "marche1": {
+      "scene": "marche",
+      "speaker": "griot",
+      "explore": [
+        "calebasse",
+        "soumbala",
+        "to"
+      ],
+      "text": "Au marché, on vend, on goûte, on se moque de tout le monde. Regarde ce qu'il y a sur les étals.",
+      "next": "marchande1",
+      "audio": {
+        "mos": "audio/lievre-hyene/marche1.mos.mp3"
+      }
+    },
+    "marchande1": {
+      "speaker": "marchande",
+      "text": "Lièvre, on dit que l'hyène te cherche partout et qu'elle n'est pas de bonne humeur.",
+      "next": "hyene3",
+      "audio": {
+        "mos": "audio/lievre-hyene/marchande1.mos.mp3"
+      }
+    },
+    "hyene3": {
+      "speaker": "hyene",
+      "text": "Cette année, je prends le dessous ! Et ne t'avise pas de me tromper une seconde fois.",
+      "next": "choix3",
+      "audio": {
+        "mos": "audio/lievre-hyene/hyene3.mos.mp3"
+      }
+    },
+    "choix3": {
+      "speaker": "griot",
+      "text": "Une nouvelle saison commence. Que sème le lièvre maintenant que l'hyène a choisi le dessous ?",
+      "choices": [
+        {
+          "label": "Du mil, et elle n'aura que les racines",
+          "next": "mil2",
+          "add": {
+            "ruse": 1
+          },
+          "tag": "mil, deuxième année"
+        },
+        {
+          "label": "Des arachides, pour lui laisser une chance",
+          "next": "arachide2",
+          "set": {
+            "genereux": true
+          },
+          "tag": "arachides, deuxième année"
+        }
+      ],
+      "audio": {
+        "mos": "audio/lievre-hyene/choix3.mos.mp3"
+      }
+    },
+    "mil2": {
+      "speaker": "griot",
+      "text": "L'hyène tire sur les tiges et ne trouve que des racines. Le lièvre, lui, bat ses épis en chantant.",
+      "next": "nuit1",
+      "audio": {
+        "mos": "audio/lievre-hyene/mil2.mos.mp3"
+      }
+    },
+    "arachide2": {
+      "speaker": "griot",
+      "text": "L'hyène déterre les arachides et mange enfin à sa faim. Pour la première fois, elle regarde le lièvre sans grogner.",
+      "next": "nuit1",
+      "audio": {
+        "mos": "audio/lievre-hyene/arachide2.mos.mp3"
+      }
+    },
+    "nuit1": {
+      "scene": "nuit",
+      "speaker": "griot",
+      "text": "Un soir, sur le chemin du retour, deux yeux brillent dans le noir.",
+      "next": "hyene4",
+      "audio": {
+        "mos": "audio/lievre-hyene/nuit1.mos.mp3"
+      }
+    },
+    "hyene4": {
+      "speaker": "hyene",
+      "text": "Tu es bien malin, paraît-il. Réponds à ma devinette, ou je te croque.",
+      "next": "devinette",
+      "audio": {
+        "mos": "audio/lievre-hyene/hyene4.mos.mp3"
+      }
+    },
+    "devinette": {
+      "minigame": "devinette",
+      "question": "J'ai une case sans porte ni fenêtre, et pourtant quelqu'un en sortira. Qui suis-je ?",
+      "reponses": [
+        {
+          "label": "L'œuf",
+          "correct": true
+        },
+        {
+          "label": "Le grenier"
+        },
+        {
+          "label": "Le terrier"
+        }
+      ],
+      "gagne": "Bien répondu : l'œuf n'a ni porte ni fenêtre !",
+      "perdu": "Ce n'était pas ça : la réponse était l'œuf.",
+      "tags": {
+        "win": "devinette réussie",
+        "lose": "devinette manquée"
+      },
+      "next": "aiguillage"
+    },
+    "aiguillage": {
+      "route": [
+        {
+          "when": {
+            "devinette": "lose"
+          },
+          "next": "fuite"
+        },
+        {
+          "when": {
+            "genereux": true
+          },
+          "next": "partage"
+        },
+        {
+          "when": {
+            "ruse": {
+              "gte": 2
+            }
+          },
+          "next": "malice"
+        }
+      ],
+      "next": "partage"
+    },
+    "malice": {
+      "scene": "village",
+      "speaker": "griot",
+      "text": "L'hyène, vexée, s'en va en ricanant. Le lièvre rentre au village avec ses paniers, et on raconte ses tours à chaque veillée.",
+      "next": "malice2",
+      "audio": {
+        "mos": "audio/lievre-hyene/malice.mos.mp3"
+      }
+    },
+    "malice2": {
+      "speaker": "griot",
+      "end": "malice",
+      "text": "La force prend, la malice partage à sa façon : qui ne travaille pas ne choisit pas sa récolte.",
+      "audio": {
+        "mos": "audio/lievre-hyene/malice2.mos.mp3"
+      }
+    },
+    "partage": {
+      "scene": "village",
+      "speaker": "lievre",
+      "text": "Hyène, ta force fait peur, mais elle ne fait pas pousser le mil. Prends une daba : celui qui travaille mange.",
+      "next": "partage2",
+      "audio": {
+        "mos": "audio/lievre-hyene/partage.mos.mp3"
+      }
+    },
+    "partage2": {
+      "speaker": "griot",
+      "end": "partage",
+      "text": "On dit qu'ils cultivèrent côte à côte une saison entière. Une saison seulement, car une hyène reste une hyène, mais personne n'eut faim cette année-là.",
+      "audio": {
+        "mos": "audio/lievre-hyene/partage2.mos.mp3"
+      }
+    },
+    "fuite": {
+      "speaker": "griot",
+      "text": "Le lièvre n'attend pas la suite. Il bondit entre les pattes de l'hyène et disparaît dans le noir.",
+      "next": "fuite2",
+      "audio": {
+        "mos": "audio/lievre-hyene/fuite.mos.mp3"
+      }
+    },
+    "fuite2": {
+      "speaker": "griot",
+      "end": "fuite",
+      "text": "Il court encore, dit-on. Et depuis ce temps, le lièvre dort d'un œil.",
+      "audio": {
+        "mos": "audio/lievre-hyene/fuite2.mos.mp3"
+      }
+    }
+  },
+  "fins": {
+    "malice": "Le lièvre malin : on raconte ses tours à la veillée",
+    "partage": "Le champ partagé : personne n'a faim cette année-là",
+    "fuite": "La fuite : le lièvre dort d'un œil"
+  }
+}
