@@ -1,0 +1,415 @@
+{
+  "id": "yennenga",
+  "titre": "La légende de Yennenga",
+  "presentation": "Un griot te raconte l'histoire de la princesse guerrière de Gambaga. Tes choix changent le récit. Clique sur les objets qui brillent pour découvrir la culture du terroir.",
+  "start": "intro",
+  "langueAudio": "mos",
+  "audioProvisoire": true,
+  "personnages": {
+    "griot": {
+      "nom": "Le griot",
+      "style": "griot",
+      "couleur": "#8a5a12"
+    },
+    "nedega": {
+      "nom": "Naaba Nédega",
+      "style": "roi",
+      "couleur": "#2f3f8f"
+    },
+    "yennenga": {
+      "nom": "Yennenga",
+      "style": "guerriere",
+      "couleur": "#a3201b"
+    },
+    "riale": {
+      "nom": "Rialé",
+      "style": "chasseur",
+      "couleur": "#5a3d1c"
+    },
+    "enfant": {
+      "nom": "Ouédraogo",
+      "style": "enfant",
+      "couleur": "#8a5a12"
+    }
+  },
+  "distribution": {
+    "palais": {
+      "nedega": -2.2,
+      "yennenga": 2.2
+    },
+    "champ": {
+      "nedega": -2.4,
+      "yennenga": 2.4
+    },
+    "nuit": {
+      "yennenga": -1
+    },
+    "foret": {
+      "riale": 2.2,
+      "yennenga": -2.2
+    },
+    "village": {
+      "yennenga": -1.6,
+      "riale": 1.8,
+      "enfant": 0.1
+    }
+  },
+  "nodes": {
+    "intro": {
+      "scene": "palais",
+      "speaker": "griot",
+      "text": "Approche, enfant, et tends l'oreille. Ce que je vais te dire, mon père me l'a dit, et son père le lui avait dit avant lui.",
+      "next": "intro2",
+      "audio": {
+        "mos": "audio/yennenga/intro.mos.mp3"
+      }
+    },
+    "intro2": {
+      "speaker": "griot",
+      "text": "Il y a bien longtemps, à Gambaga, au royaume dagomba, régnait le Naaba Nédega. Sa fille Yennenga montait à cheval mieux que tous ses guerriers.",
+      "next": "explore1",
+      "audio": {
+        "mos": "audio/yennenga/intro2.mos.mp3"
+      }
+    },
+    "explore1": {
+      "speaker": "griot",
+      "explore": [
+        "tambour",
+        "canari"
+      ],
+      "text": "Regarde autour de toi. Clique sur les objets qui brillent pour les découvrir.",
+      "next": "nedega1",
+      "audio": {
+        "mos": "audio/yennenga/explore1.mos.mp3"
+      }
+    },
+    "nedega1": {
+      "speaker": "nedega",
+      "text": "Yennenga ! Encore une victoire. Sans toi, nos ennemis seraient déjà à nos portes.",
+      "next": "yen1",
+      "audio": {
+        "mos": "audio/yennenga/nedega1.mos.mp3"
+      }
+    },
+    "yen1": {
+      "speaker": "yennenga",
+      "text": "Père, je combats pour toi depuis l'enfance. Aujourd'hui, je voudrais un mari et un foyer.",
+      "next": "nedega2",
+      "audio": {
+        "mos": "audio/yennenga/yen1.mos.mp3"
+      }
+    },
+    "nedega2": {
+      "speaker": "nedega",
+      "text": "Un mari ? Jamais. Ma meilleure guerrière reste auprès de moi.",
+      "next": "choix1",
+      "audio": {
+        "mos": "audio/yennenga/nedega2.mos.mp3"
+      }
+    },
+    "choix1": {
+      "speaker": "griot",
+      "text": "Que doit faire Yennenga ?",
+      "choices": [
+        {
+          "label": "Semer un champ de gombo et le laisser se flétrir",
+          "next": "gombo",
+          "set": {
+            "gombo": true
+          },
+          "add": {
+            "courage": 1
+          },
+          "tag": "champ de gombo"
+        },
+        {
+          "label": "Se taire et repartir au combat",
+          "next": "silence",
+          "set": {
+            "gombo": false
+          },
+          "tag": "silence"
+        }
+      ],
+      "audio": {
+        "mos": "audio/yennenga/choix1.mos.mp3"
+      }
+    },
+    "gombo": {
+      "scene": "champ",
+      "speaker": "griot",
+      "text": "Yennenga sème un champ de gombo. Quand les fruits mûrissent, elle ne les récolte pas : ils sèchent sur pied.",
+      "next": "gombo2",
+      "audio": {
+        "mos": "audio/yennenga/gombo.mos.mp3"
+      }
+    },
+    "gombo2": {
+      "speaker": "nedega",
+      "text": "Pourquoi laisses-tu pourrir ce champ, ma fille ?",
+      "next": "gombo3",
+      "audio": {
+        "mos": "audio/yennenga/gombo2.mos.mp3"
+      }
+    },
+    "gombo3": {
+      "speaker": "yennenga",
+      "text": "Comme ces gombos, père, je me flétris sans avoir donné de fruits.",
+      "next": "refus",
+      "audio": {
+        "mos": "audio/yennenga/gombo3.mos.mp3"
+      }
+    },
+    "silence": {
+      "speaker": "griot",
+      "text": "Yennenga se tait. Les saisons passent, les batailles aussi, mais son cœur reste lourd.",
+      "next": "refus",
+      "audio": {
+        "mos": "audio/yennenga/silence.mos.mp3"
+      }
+    },
+    "refus": {
+      "route": [
+        {
+          "when": {
+            "gombo": true
+          },
+          "next": "refusA"
+        }
+      ],
+      "next": "refusB"
+    },
+    "refusA": {
+      "scene": "palais",
+      "speaker": "nedega",
+      "text": "J'ai compris ton message, ma fille. Mais ma réponse ne change pas.",
+      "next": "nuit1",
+      "audio": {
+        "mos": "audio/yennenga/refusA.mos.mp3"
+      }
+    },
+    "refusB": {
+      "scene": "palais",
+      "speaker": "nedega",
+      "text": "Tu sembles triste, ma fille. Mais la guerre a besoin de toi.",
+      "next": "nuit1",
+      "audio": {
+        "mos": "audio/yennenga/refusB.mos.mp3"
+      }
+    },
+    "nuit1": {
+      "scene": "nuit",
+      "speaker": "griot",
+      "explore": [
+        "etalon"
+      ],
+      "text": "Cette nuit-là, Yennenga ne dort pas. Son étalon piaffe dans l'enclos.",
+      "next": "choix2",
+      "audio": {
+        "mos": "audio/yennenga/nuit1.mos.mp3"
+      }
+    },
+    "choix2": {
+      "speaker": "griot",
+      "text": "Partir ou rester ?",
+      "choices": [
+        {
+          "label": "Fuir sur son étalon, déguisée en homme",
+          "next": "fuite",
+          "add": {
+            "courage": 1
+          },
+          "tag": "fuite"
+        },
+        {
+          "label": "Rester, par loyauté envers son père",
+          "next": "rester",
+          "tag": "reste"
+        }
+      ],
+      "audio": {
+        "mos": "audio/yennenga/choix2.mos.mp3"
+      }
+    },
+    "rester": {
+      "speaker": "griot",
+      "text": "Yennenga reste. Elle devient la plus grande guerrière que Gambaga ait connue…",
+      "next": "rester2",
+      "audio": {
+        "mos": "audio/yennenga/rester.mos.mp3"
+      }
+    },
+    "rester2": {
+      "speaker": "griot",
+      "end": "alternative",
+      "text": "…c'est ce que racontent certains, tard dans la nuit. Mais ce n'est pas ainsi que finit la légende. Veux-tu entendre la vraie fin ?",
+      "choices": [
+        {
+          "label": "Oui, revenir à cette nuit-là",
+          "next": "nuit1"
+        }
+      ],
+      "audio": {
+        "mos": "audio/yennenga/rester2.mos.mp3"
+      }
+    },
+    "fuite": {
+      "scene": "course",
+      "speaker": "griot",
+      "text": "Elle saute sur son cheval et file vers le nord. Mais les cavaliers du roi la poursuivent !",
+      "next": "course",
+      "audio": {
+        "mos": "audio/yennenga/fuite.mos.mp3"
+      }
+    },
+    "course": {
+      "minigame": "course_cheval",
+      "consigne": "Les cavaliers du roi te poursuivent ! Tape vite sur ESPACE ou sur l'écran pour galoper.",
+      "gagne": "Semés !",
+      "perdu": "Rattrapée…",
+      "tags": {
+        "win": "course gagnée",
+        "lose": "course perdue"
+      },
+      "route": [
+        {
+          "when": {
+            "course": "win"
+          },
+          "next": "courseOK"
+        }
+      ],
+      "next": "courseKO"
+    },
+    "courseOK": {
+      "speaker": "griot",
+      "text": "Son étalon vole au-dessus des herbes. Les cavaliers disparaissent derrière elle.",
+      "next": "foret1",
+      "audio": {
+        "mos": "audio/yennenga/courseOK.mos.mp3"
+      }
+    },
+    "courseKO": {
+      "speaker": "griot",
+      "text": "Les cavaliers la rattrapent presque… quand un orage éclate et efface ses traces. Le ciel a choisi son camp.",
+      "next": "foret1",
+      "audio": {
+        "mos": "audio/yennenga/courseKO.mos.mp3"
+      }
+    },
+    "foret1": {
+      "scene": "foret",
+      "speaker": "griot",
+      "text": "Épuisé, l'étalon s'arrête devant une case, au cœur d'une forêt inconnue.",
+      "next": "riale1",
+      "audio": {
+        "mos": "audio/yennenga/foret1.mos.mp3"
+      }
+    },
+    "riale1": {
+      "speaker": "riale",
+      "text": "Qui va là ? Un cavalier, seul, dans ma forêt ?",
+      "next": "yen2",
+      "audio": {
+        "mos": "audio/yennenga/riale1.mos.mp3"
+      }
+    },
+    "yen2": {
+      "speaker": "yennenga",
+      "text": "Je ne suis pas un cavalier. Je suis Yennenga, fille du Naaba Nédega.",
+      "next": "riale2",
+      "audio": {
+        "mos": "audio/yennenga/yen2.mos.mp3"
+      }
+    },
+    "riale2": {
+      "speaker": "riale",
+      "text": "Je m'appelle Rialé. Je chasse l'éléphant. Repose-toi : ici, personne ne te trouvera.",
+      "next": "explore2",
+      "audio": {
+        "mos": "audio/yennenga/riale2.mos.mp3"
+      }
+    },
+    "explore2": {
+      "speaker": "griot",
+      "explore": [
+        "defenses"
+      ],
+      "text": "Découvre la case du chasseur avant de continuer.",
+      "next": "courage",
+      "audio": {
+        "mos": "audio/yennenga/explore2.mos.mp3"
+      }
+    },
+    "courage": {
+      "route": [
+        {
+          "when": {
+            "courage": {
+              "gte": 2
+            }
+          },
+          "next": "riale3"
+        }
+      ],
+      "next": "mariage"
+    },
+    "riale3": {
+      "speaker": "riale",
+      "text": "Défier un roi, puis traverser la brousse de nuit… Je n'ai jamais vu un tel courage.",
+      "next": "mariage",
+      "audio": {
+        "mos": "audio/yennenga/riale3.mos.mp3"
+      }
+    },
+    "mariage": {
+      "speaker": "griot",
+      "text": "Yennenga et Rialé s'aiment et se marient. De leur union naît un fils.",
+      "next": "fin1",
+      "audio": {
+        "mos": "audio/yennenga/mariage.mos.mp3"
+      }
+    },
+    "fin1": {
+      "scene": "village",
+      "speaker": "yennenga",
+      "text": "Nous l'appellerons Ouédraogo, « l'étalon mâle », en souvenir du cheval qui m'a conduite jusqu'à toi.",
+      "next": "explore3",
+      "audio": {
+        "mos": "audio/yennenga/fin1.mos.mp3"
+      }
+    },
+    "explore3": {
+      "speaker": "griot",
+      "explore": [
+        "case-ronde"
+      ],
+      "text": "Regarde le village qui grandit autour d'eux.",
+      "next": "fin2",
+      "audio": {
+        "mos": "audio/yennenga/explore3.mos.mp3"
+      }
+    },
+    "fin2": {
+      "speaker": "griot",
+      "text": "Ouédraogo deviendra l'ancêtre des Mossi. Et aujourd'hui encore, à Ouagadougou, le grand prix du FESPACO s'appelle l'Étalon d'or de Yennenga.",
+      "next": "fin3",
+      "audio": {
+        "mos": "audio/yennenga/fin2.mos.mp3"
+      }
+    },
+    "fin3": {
+      "speaker": "griot",
+      "end": "principale",
+      "text": "Mon conte s'arrête ici. Celui qui l'a entendu doit le raconter à son tour.",
+      "audio": {
+        "mos": "audio/yennenga/fin3.mos.mp3"
+      }
+    }
+  },
+  "fins": {
+    "principale": "La vraie fin : Ouédraogo, l'ancêtre des Mossi",
+    "alternative": "La fin qu'on raconte tard la nuit : Yennenga reste à Gambaga"
+  }
+}

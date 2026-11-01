@@ -27,7 +27,7 @@ window.RACINES_APP = (function () {
     const n = document.createElement('nav');
     n.className = 'nav' + (pleine ? ' pleine' : '');
     n.setAttribute('aria-label', 'Navigation principale');
-    n.innerHTML = `<a class="marque" href="index.html">Racines</a><div class="liens">${liens.map(([u, t], i) =>
+    n.innerHTML = `<a class="marque" href="../index.html" title="Retour à la plateforme Racines">← Racines</a><div class="liens">${liens.map(([u, t], i) =>
       `<a href="${u}"${u === active ? ' aria-current="page"' : ''}${i > 2 ? ' class="secondaire"' : ''}>${t}</a>`).join('')}</div>`;
     document.body.prepend(n);
     const ic = document.createElement('link');

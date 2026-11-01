@@ -1,0 +1,1683 @@
+[
+  {
+    "id": "yennenga",
+    "titre": "La légende de Yennenga",
+    "type": "legende",
+    "genre": "Légende",
+    "localites": [
+      "tenkodogo"
+    ],
+    "peuple": "Mossi",
+    "langues": [
+      "mos"
+    ],
+    "resume": "La princesse guerrière fuit sur son étalon blanc, rencontre le chasseur Rialé et devient la mère d'Ouédraogo.",
+    "texte": "textes/yennenga.fr.md",
+    "texteLocal": {},
+    "audio": {
+      "mos": {
+        "src": "audio/yennenga/mos.mp3",
+        "vtt": "audio/yennenga/fr.vtt",
+        "provisoire": true,
+        "duree": 110
+      }
+    },
+    "jouable": "stories/yennenga.json",
+    "morale": "On peut aimer les siens et refuser le destin qu'ils ont choisi pour soi.",
+    "personnages": [
+      "Yennenga",
+      "Le roi",
+      "Rialé"
+    ],
+    "lexique": [
+      {
+        "mot": "naaba",
+        "langue": "mos",
+        "sens": "chef, roi"
+      },
+      {
+        "mot": "Ouédraogo",
+        "langue": "mos",
+        "sens": "l'étalon, nom du fils de Yennenga dans la légende"
+      }
+    ],
+    "motsCles": [
+      "cheval",
+      "princesse",
+      "FESPACO"
+    ],
+    "sources": [
+      {
+        "titre": "Archives de l'Aude, chefferies du Burkina",
+        "url": "https://archivesdepartementales.aude.fr/sites/default/files/media/downloads/AD11_004Phv007_001.pdf"
+      }
+    ],
+    "patrimoine": [
+      "etalon",
+      "tambour",
+      "canari",
+      "defenses",
+      "case-ronde"
+    ],
+    "film": "23-yennenga",
+    "lecture": 2,
+    "statut": "a_valider"
+  },
+  {
+    "id": "lievre-hyene",
+    "titre": "Le lièvre et l'hyène",
+    "type": "conte",
+    "genre": "Conte",
+    "localites": [
+      "ouagadougou"
+    ],
+    "peuple": "Mossi",
+    "langues": [
+      "mos"
+    ],
+    "resume": "L'hyène veut bien manger sans travailler. Le lièvre lui propose un champ commun et un partage : le dessus pour l'une, le dessous pour l'autre.",
+    "texte": "textes/lievre-hyene.fr.md",
+    "texteLocal": {},
+    "audio": {
+      "mos": {
+        "src": "audio/lievre-hyene/mos.mp3",
+        "vtt": "audio/lievre-hyene/fr.vtt",
+        "provisoire": true,
+        "duree": 80
+      }
+    },
+    "jouable": "stories/lievre-hyene.json",
+    "morale": "La force prend, la malice partage à sa façon : qui ne travaille pas ne choisit pas sa récolte.",
+    "personnages": [
+      "Le griot",
+      "Le lièvre",
+      "L'hyène"
+    ],
+    "lexique": [
+      {
+        "mot": "Soamba",
+        "langue": "mos",
+        "sens": "le lièvre, héros malin des contes mossi"
+      },
+      {
+        "mot": "tô",
+        "langue": "mos",
+        "sens": "pâte de mil ou de sorgho, plat de tous les jours"
+      }
+    ],
+    "motsCles": [
+      "ruse",
+      "champ",
+      "arachide",
+      "mil",
+      "devinette"
+    ],
+    "sources": [
+      {
+        "titre": "Tradition orale, à recouper auprès de conteurs"
+      }
+    ],
+    "patrimoine": [
+      "calebasse",
+      "soumbala",
+      "to"
+    ],
+    "film": null,
+    "lecture": 1,
+    "statut": "a_valider"
+  },
+  {
+    "id": "naaba-wobgo",
+    "titre": "Naaba Wobgo et la résistance de 1896",
+    "type": "histoire",
+    "genre": "Récit historique",
+    "localites": [
+      "ouagadougou"
+    ],
+    "peuple": "Mossi",
+    "langues": [
+      "mos"
+    ],
+    "resume": "Quand la colonne française de Voulet et Chanoine marche sur Ouagadougou, le souverain mossi tente de résister. Sa ville brûle, et il finit sa vie en exil.",
+    "texte": "textes/naaba-wobgo.fr.md",
+    "texteLocal": {},
+    "audio": {
+      "fr": {
+        "src": "audio/naaba-wobgo/fr.mp3",
+        "vtt": "audio/naaba-wobgo/fr.vtt",
+        "provisoire": true,
+        "duree": 61
+      }
+    },
+    "jouable": null,
+    "morale": "À retenir : la conquête du pays mossi s'est faite par la force, face à un souverain qui a refusé de se soumettre.",
+    "personnages": [
+      "Naaba Wobgo (Boukary Koutou)",
+      "Paul Voulet",
+      "Julien Chanoine",
+      "George Ekem Ferguson",
+      "Sighiri"
+    ],
+    "lexique": [
+      {
+        "mot": "naaba",
+        "langue": "mos",
+        "sens": "chef, roi"
+      },
+      {
+        "mot": "Moogho Naaba",
+        "langue": "mos",
+        "sens": "titre du souverain de Ouagadougou"
+      }
+    ],
+    "motsCles": [
+      "1896",
+      "résistance",
+      "Voulet",
+      "Ouagadougou",
+      "colonisation"
+    ],
+    "sources": [
+      {
+        "titre": "Wobgho (Wikipédia, en anglais)",
+        "url": "https://en.wikipedia.org/wiki/Wobgho"
+      },
+      {
+        "titre": "Paul Voulet (Britannica)",
+        "url": "https://www.britannica.com/biography/Paul-Voulet"
+      },
+      {
+        "titre": "Archives de l'Aude, chefferies du Burkina",
+        "url": "https://archivesdepartementales.aude.fr/sites/default/files/media/downloads/AD11_004Phv007_001.pdf"
+      }
+    ],
+    "patrimoine": [
+      "tambour",
+      "etalon"
+    ],
+    "film": null,
+    "lecture": 1,
+    "statut": "a_valider"
+  },
+  {
+    "id": "tiefo-amoro",
+    "titre": "Tiéfo Amoro et la chute de Noumoudara (1897)",
+    "type": "histoire",
+    "genre": "Récit historique",
+    "localites": [
+      "noumoudara"
+    ],
+    "peuple": "Tiéfo",
+    "langues": [
+      "dyu"
+    ],
+    "resume": "En 1897, Samory Touré assiège Noumoudara, principal centre des Tiéfo. La forteresse tombe après une semaine de siège.",
+    "texte": "textes/tiefo-amoro.fr.md",
+    "texteLocal": {},
+    "audio": {
+      "dyu": {
+        "src": "audio/tiefo-amoro/dyu.mp3",
+        "vtt": "audio/tiefo-amoro/fr.vtt",
+        "provisoire": true,
+        "duree": 59
+      }
+    },
+    "jouable": null,
+    "morale": "À retenir : avant même la conquête coloniale, les peuples de l'Ouest ont dû défendre leurs cités contre les grands empires conquérants.",
+    "personnages": [
+      "Tiéfo Amoro",
+      "Samory Touré"
+    ],
+    "lexique": [
+      {
+        "mot": "Noumoudara",
+        "langue": "fr",
+        "sens": "principal centre des Tiéfo, aujourd'hui dans la région du Guiriko"
+      },
+      {
+        "mot": "Samory Touré",
+        "langue": "fr",
+        "sens": "bâtisseur d'un empire ouest-africain, capturé par les Français en 1898"
+      }
+    ],
+    "motsCles": [
+      "1897",
+      "Samory",
+      "siège",
+      "forteresse",
+      "Tiéfo"
+    ],
+    "sources": [
+      {
+        "titre": "Noumoudara (Wikipédia, en anglais)",
+        "url": "https://en.wikipedia.org/wiki/Noumoudara"
+      },
+      {
+        "titre": "Sidwaya, l'histoire de Tiefo Amoro contée à Bobo-Dioulasso",
+        "url": "https://www.sidwaya.info/rehabilitation-des-personnalites-historiques-lhistoire-de-tiefo-amoro-contee-a-bobo-dioulasso/"
+      }
+    ],
+    "patrimoine": [
+      "tambour",
+      "bogolan"
+    ],
+    "film": null,
+    "lecture": 1,
+    "statut": "a_valider"
+  },
+  {
+    "id": "silures-dafra",
+    "titre": "Les silures sacrés de Dafra",
+    "type": "legende",
+    "genre": "Légende",
+    "localites": [
+      "bobo-dioulasso"
+    ],
+    "peuple": "Bobo",
+    "langues": [
+      "bbo",
+      "dyu"
+    ],
+    "resume": "À la source du Houet, les silures protègent la ville et exaucent les vœux. Un pêcheur imprudent l'apprend à ses dépens.",
+    "texte": "textes/silures-dafra.fr.md",
+    "texteLocal": {},
+    "audio": {
+      "dyu": {
+        "src": "audio/silures-dafra/dyu.mp3",
+        "vtt": "audio/silures-dafra/fr.vtt",
+        "provisoire": true,
+        "duree": 114
+      }
+    },
+    "jouable": null,
+    "morale": "On ne prend pas à la légère ce qu'une ville entière protège.",
+    "personnages": [
+      "Awa",
+      "Mah",
+      "Le pêcheur"
+    ],
+    "lexique": [
+      {
+        "mot": "silure",
+        "langue": "fr",
+        "sens": "poisson d'eau douce à barbillons, sacré à Dafra"
+      },
+      {
+        "mot": "Houet",
+        "langue": "fr",
+        "sens": "le cours d'eau de Bobo-Dioulasso, dont la source est à Dafra"
+      }
+    ],
+    "motsCles": [],
+    "sources": [
+      {
+        "titre": "Dafra, communication EASA 2008",
+        "url": "https://nomadit.co.uk/conference/easa08/paper/2795"
+      }
+    ],
+    "patrimoine": [
+      "calebasse",
+      "tambour"
+    ],
+    "film": "02-silures-dafra",
+    "lecture": 2,
+    "statut": "a_valider"
+  },
+  {
+    "id": "kinkirsi",
+    "titre": "Les kinkirsi, génies de la brousse",
+    "type": "legende",
+    "genre": "Légende",
+    "localites": [
+      "kaya"
+    ],
+    "peuple": "Mossi",
+    "langues": [
+      "mos"
+    ],
+    "resume": "Dans la tradition mossi, les kinkirsi sont des génies qui circulent en brousse et qu'on associe à la naissance des jumeaux.",
+    "texte": "textes/kinkirsi.fr.md",
+    "texteLocal": {},
+    "audio": {},
+    "jouable": null,
+    "morale": "Le monde visible n'est pas seul : on y marche avec égards.",
+    "personnages": [
+      "Les kinkirsi",
+      "Les jumeaux"
+    ],
+    "lexique": [
+      {
+        "mot": "kinkirsi",
+        "langue": "mos",
+        "sens": "génies ; au singulier kinkirga"
+      }
+    ],
+    "motsCles": [
+      "génies",
+      "brousse",
+      "jumeaux",
+      "miel"
+    ],
+    "sources": [
+      {
+        "titre": "Doris Bonnet, IRD, génies et procréation chez les Mossi",
+        "url": "https://horizon.documentation.ird.fr/exl-doc/pleins_textes/pleins_textes_4/sci_hum/03213.pdf"
+      },
+      {
+        "titre": "Burkina24, 15 mai et histoire des Mossé",
+        "url": "https://burkina24.com/?p=367872"
+      }
+    ],
+    "patrimoine": [
+      "calebasse",
+      "canari"
+    ],
+    "film": null,
+    "lecture": 1,
+    "statut": "a_valider"
+  },
+  {
+    "id": "bilissi",
+    "titre": "La part de Bilissi",
+    "type": "conte",
+    "genre": "Légende",
+    "localites": [
+      "dori"
+    ],
+    "peuple": "Peul",
+    "langues": [
+      "fuf"
+    ],
+    "resume": "Un tyran exige la meilleure part de chaque bête sacrifiée, jusqu'à ce qu'un jeune berger lui joue un tour pimenté.",
+    "texte": "textes/bilissi.fr.md",
+    "texteLocal": {},
+    "audio": {
+      "fuf": {
+        "src": "audio/bilissi/fuf.mp3",
+        "vtt": "audio/bilissi/fr.vtt",
+        "provisoire": true,
+        "duree": 95
+      }
+    },
+    "jouable": null,
+    "morale": "Un tyran dont on se moque ne fait plus peur.",
+    "personnages": [
+      "Hamadi",
+      "La femme"
+    ],
+    "lexique": [
+      {
+        "mot": "Macina",
+        "langue": "fr",
+        "sens": "région peule du Mali d'où vient ce récit"
+      }
+    ],
+    "motsCles": [
+      "berger",
+      "piment",
+      "Peul"
+    ],
+    "sources": [
+      {
+        "titre": "Burkina24, La part de Bilissi",
+        "url": "https://burkina24.com/?p=1418"
+      }
+    ],
+    "patrimoine": [
+      "calebasse",
+      "chapeau-sapone"
+    ],
+    "film": "27-bilissi",
+    "lecture": 1,
+    "statut": "a_valider"
+  },
+  {
+    "id": "thila-bateba",
+    "titre": "Les thila et les bateba",
+    "type": "legende",
+    "genre": "Mythe",
+    "localites": [
+      "gaoua"
+    ],
+    "peuple": "Lobi",
+    "langues": [
+      "lob"
+    ],
+    "resume": "Les esprits thila demandent à Kambiré de sculpter des statuettes gardiennes, les bateba, pour protéger sa maison.",
+    "texte": "textes/thila-bateba.fr.md",
+    "texteLocal": {},
+    "audio": {},
+    "jouable": null,
+    "morale": "Une maison se garde par ce qu'on y honore autant que par ses murs.",
+    "personnages": [
+      "Le père",
+      "La devineresse",
+      "Un thila"
+    ],
+    "lexique": [
+      {
+        "mot": "thila",
+        "langue": "lob",
+        "sens": "esprits, dans la tradition lobi"
+      },
+      {
+        "mot": "bateba",
+        "langue": "lob",
+        "sens": "statuettes gardiennes de la maison"
+      }
+    ],
+    "motsCles": [],
+    "sources": [
+      {
+        "titre": "Tradition orale, à recouper auprès de conteurs"
+      }
+    ],
+    "patrimoine": [
+      "case-ronde",
+      "canari"
+    ],
+    "film": "09-thila-bateba",
+    "lecture": 1,
+    "statut": "a_valider"
+  },
+  {
+    "id": "wuro-masque",
+    "titre": "Wuro et le masque de feuilles",
+    "type": "legende",
+    "genre": "Mythe",
+    "localites": [
+      "pays-bobo"
+    ],
+    "peuple": "Bobo",
+    "langues": [
+      "bbo",
+      "dyu"
+    ],
+    "resume": "Après la création, le dieu Wuro confie au premier forgeron le masque de feuilles : son fils Dwo, qui rétablit l'ordre du monde.",
+    "texte": "textes/wuro-masque.fr.md",
+    "texteLocal": {},
+    "audio": {},
+    "jouable": null,
+    "morale": "Ce qui nous est confié pour réparer le monde se porte avec respect.",
+    "personnages": [
+      "Le cultivateur",
+      "Le jeune",
+      "Le forgeron",
+      "Wuro"
+    ],
+    "lexique": [
+      {
+        "mot": "Wuro",
+        "langue": "bbo",
+        "sens": "le dieu créateur, dans ce récit"
+      },
+      {
+        "mot": "Dwo",
+        "langue": "bbo",
+        "sens": "le masque de feuilles, « fils » de Wuro"
+      }
+    ],
+    "motsCles": [],
+    "sources": [
+      {
+        "titre": "IRD, les masques bobo",
+        "url": "https://horizon.documentation.ird.fr/exl-doc/pleins_textes/divers20-07/010044886.pdf"
+      }
+    ],
+    "patrimoine": [
+      "case-ronde",
+      "tambour"
+    ],
+    "film": "01-wuro-masque",
+    "lecture": 2,
+    "statut": "a_valider"
+  },
+  {
+    "id": "wuro-pilon",
+    "titre": "Wuro blessé par le pilon",
+    "type": "legende",
+    "genre": "Mythe",
+    "localites": [
+      "pays-bwa"
+    ],
+    "peuple": "Bwaba",
+    "langues": [
+      "bwa",
+      "dyu"
+    ],
+    "resume": "Blessé par une femme qui pile le mil, Wuro s'éloigne dans le ciel et envoie ses trois fils, Dwo, Soxo et Kwere, aider les hommes.",
+    "texte": "textes/wuro-pilon.fr.md",
+    "texteLocal": {},
+    "audio": {},
+    "jouable": null,
+    "morale": "Une blessure peut éloigner ceux qui s'aiment sans rompre ce qui les relie.",
+    "personnages": [
+      "Wuro",
+      "Hame",
+      "Bado",
+      "Sanou",
+      "Yeli"
+    ],
+    "lexique": [
+      {
+        "mot": "Dwo",
+        "langue": "bwa",
+        "sens": "le fils de Wuro lié à la renaissance"
+      },
+      {
+        "mot": "Soxo",
+        "langue": "bwa",
+        "sens": "le fils de Wuro lié à la brousse"
+      },
+      {
+        "mot": "Kwere",
+        "langue": "bwa",
+        "sens": "le fils de Wuro lié à la foudre"
+      }
+    ],
+    "motsCles": [],
+    "sources": [
+      {
+        "titre": "Bwa people",
+        "url": "https://www.chise.org/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/Bwa_people.html"
+      }
+    ],
+    "patrimoine": [
+      "to",
+      "calebasse"
+    ],
+    "film": "03-wuro-pilon",
+    "lecture": 2,
+    "statut": "a_valider"
+  },
+  {
+    "id": "gazelle",
+    "titre": "Les deux traits de la gazelle",
+    "type": "conte",
+    "genre": "Conte",
+    "localites": [
+      "solenzo"
+    ],
+    "peuple": "Bwaba",
+    "langues": [
+      "bwa",
+      "dyu"
+    ],
+    "resume": "La gazelle orgueilleuse perd la course contre le caméléon rusé : ses larmes de honte laissent deux traits noirs sur son museau.",
+    "texte": "textes/gazelle.fr.md",
+    "texteLocal": {},
+    "audio": {},
+    "jouable": null,
+    "morale": "L'orgueil court vite, mais la patience arrive souvent la première.",
+    "personnages": [
+      "La gazelle",
+      "Le caméléon"
+    ],
+    "lexique": [
+      {
+        "mot": "caméléon",
+        "langue": "fr",
+        "sens": "petit reptile lent, héros rusé de ce conte"
+      }
+    ],
+    "motsCles": [],
+    "sources": [
+      {
+        "titre": "Takam Tikou, contes bwaba",
+        "url": "https://takamtikou.bnf.fr/print/pdf/node/974"
+      }
+    ],
+    "patrimoine": [
+      "calebasse"
+    ],
+    "film": "04-gazelle",
+    "lecture": 2,
+    "statut": "a_valider"
+  },
+  {
+    "id": "tenin-1915",
+    "titre": "Tenin Coulibaly et la révolte de 1915",
+    "type": "histoire",
+    "genre": "Récit historique",
+    "localites": [
+      "pays-bwa"
+    ],
+    "peuple": "Bwaba",
+    "langues": [
+      "bwa",
+      "dyu"
+    ],
+    "resume": "Une femme enceinte envoyée au travail forcé : l'injustice qui fait entrer les Bwaba dans la guerre du Bani-Volta.",
+    "texte": "textes/tenin-1915.fr.md",
+    "texteLocal": {},
+    "audio": {},
+    "jouable": null,
+    "morale": "À retenir : une injustice faite à une seule personne peut soulever tout un peuple.",
+    "personnages": [
+      "Le commandant",
+      "Le chef",
+      "Le garde",
+      "Le mari",
+      "Le forgeron",
+      "La conteuse"
+    ],
+    "lexique": [
+      {
+        "mot": "Bani-Volta",
+        "langue": "fr",
+        "sens": "nom donné à la guerre anticoloniale de 1915-1916"
+      },
+      {
+        "mot": "travail forcé",
+        "langue": "fr",
+        "sens": "travail imposé sans liberté par l'administration coloniale"
+      }
+    ],
+    "motsCles": [],
+    "sources": [
+      {
+        "titre": "Burkina24, révolte bwa de 1915-1916",
+        "url": "https://burkina24.com/2016/09/29/revolte-bwa-de-1915-1916-le-cours-dhistoire-de-linspecteur-gnimien/"
+      }
+    ],
+    "patrimoine": [
+      "faso-dan-fani"
+    ],
+    "film": "05-tenin-1915",
+    "lecture": 2,
+    "statut": "a_valider"
+  },
+  {
+    "id": "bona-1915",
+    "titre": "Le soulèvement de Bona",
+    "type": "histoire",
+    "genre": "Récit historique",
+    "localites": [
+      "bona"
+    ],
+    "peuple": "Marka (Dafing)",
+    "langues": [
+      "mkr",
+      "dyu"
+    ],
+    "resume": "Un prédicateur annonce la fin du pouvoir des Blancs ; le 17 novembre 1915, l'insurrection éclate à Bona.",
+    "texte": "textes/bona-1915.fr.md",
+    "texteLocal": {},
+    "audio": {},
+    "jouable": null,
+    "morale": "À retenir : une parole d'espoir peut devenir un soulèvement.",
+    "personnages": [
+      "Le prédicateur",
+      "La foule",
+      "Le chef",
+      "Le commandant",
+      "L'ancien"
+    ],
+    "lexique": [
+      {
+        "mot": "Datomon",
+        "langue": "fr",
+        "sens": "le village du prédicateur, dans le récit"
+      },
+      {
+        "mot": "Dafing",
+        "langue": "fr",
+        "sens": "autre nom des Marka"
+      }
+    ],
+    "motsCles": [],
+    "sources": [
+      {
+        "titre": "Burkina24, révolte bwa de 1915-1916",
+        "url": "https://burkina24.com/2016/09/29/revolte-bwa-de-1915-1916-le-cours-dhistoire-de-linspecteur-gnimien/"
+      }
+    ],
+    "patrimoine": [
+      "faso-dan-fani"
+    ],
+    "film": "06-bona-1915",
+    "lecture": 1,
+    "statut": "a_valider"
+  },
+  {
+    "id": "pics-sindou",
+    "titre": "Les esprits des pics de Sindou",
+    "type": "legende",
+    "genre": "Légende",
+    "localites": [
+      "sindou"
+    ],
+    "peuple": "Senoufo",
+    "langues": [
+      "sen",
+      "dyu"
+    ],
+    "resume": "Fuyant les razzias, les Senoufo s'installent entre les pics : les esprits des rochers les protègent à jamais.",
+    "texte": "textes/pics-sindou.fr.md",
+    "texteLocal": {},
+    "audio": {},
+    "jouable": null,
+    "morale": "Un peuple garde ce qui l'a protégé en le respectant.",
+    "personnages": [
+      "Nakan"
+    ],
+    "lexique": [
+      {
+        "mot": "razzia",
+        "langue": "fr",
+        "sens": "attaque rapide pour piller et capturer"
+      }
+    ],
+    "motsCles": [],
+    "sources": [
+      {
+        "titre": "Burkina24, pics de Sindou",
+        "url": "https://burkina24.com/?p=24127"
+      }
+    ],
+    "patrimoine": [
+      "case-ronde",
+      "balafon"
+    ],
+    "film": "07-pics-sindou",
+    "lecture": 1,
+    "statut": "a_valider"
+  },
+  {
+    "id": "tene-balafon",
+    "titre": "Téné et le balafon des génies",
+    "type": "conte",
+    "genre": "Conte",
+    "localites": [
+      "orodara"
+    ],
+    "peuple": "Senoufo",
+    "langues": [
+      "sen",
+      "dyu"
+    ],
+    "resume": "Téné suit une musique dans la nuit et tombe sous le charme des génies ; les chasseurs dozo vont la chercher.",
+    "texte": "textes/tene-balafon.fr.md",
+    "texteLocal": {},
+    "audio": {},
+    "jouable": null,
+    "morale": "Toute belle musique ne mérite pas qu'on la suive dans la nuit.",
+    "personnages": [
+      "La mère",
+      "Le père",
+      "Zie",
+      "Le maître",
+      "Le génie"
+    ],
+    "lexique": [
+      {
+        "mot": "balafon",
+        "langue": "dyu",
+        "sens": "xylophone à lames de bois et calebasses"
+      },
+      {
+        "mot": "dozo",
+        "langue": "dyu",
+        "sens": "chasseur membre d'une confrérie"
+      }
+    ],
+    "motsCles": [],
+    "sources": [
+      {
+        "titre": "Contes et légendes du Burkina-Faso (pays senoufo)",
+        "url": "https://www.perlego.com/fr/book/5468181/contes-et-lgendes-du-burkinafaso-pdf"
+      }
+    ],
+    "patrimoine": [
+      "balafon",
+      "bogolan"
+    ],
+    "film": "08-tene-balafon",
+    "lecture": 2,
+    "statut": "a_valider"
+  },
+  {
+    "id": "dyoro",
+    "titre": "Le Dyoro, la traversée",
+    "type": "legende",
+    "genre": "Légende",
+    "localites": [
+      "volta-noire"
+    ],
+    "peuple": "Lobi",
+    "langues": [
+      "lob"
+    ],
+    "resume": "La traversée légendaire de la Volta noire, origine du grand passage initiatique lobi.",
+    "texte": "textes/dyoro.fr.md",
+    "texteLocal": {},
+    "audio": {},
+    "jouable": null,
+    "morale": "On ne devient pas adulte sans traverser quelque chose.",
+    "personnages": [
+      "Le doyen",
+      "L'ancien"
+    ],
+    "lexique": [
+      {
+        "mot": "Dyoro",
+        "langue": "lob",
+        "sens": "la grande initiation lobi, dont les pratiques ne sont pas montrées"
+      }
+    ],
+    "motsCles": [],
+    "sources": [
+      {
+        "titre": "Tradition orale, à recouper auprès de conteurs"
+      }
+    ],
+    "patrimoine": [
+      "calebasse"
+    ],
+    "film": "10-dyoro",
+    "lecture": 1,
+    "statut": "a_valider"
+  },
+  {
+    "id": "loropeni",
+    "titre": "Les ruines de Loropéni",
+    "type": "histoire",
+    "genre": "Récit historique",
+    "localites": [
+      "loropeni"
+    ],
+    "peuple": "Gan, Lohron / Koulango",
+    "langues": [
+      "gan"
+    ],
+    "resume": "Une forteresse de pierre, l'or extrait des rivières, puis l'abandon : le premier site burkinabè inscrit à l'UNESCO.",
+    "texte": "textes/loropeni.fr.md",
+    "texteLocal": {},
+    "audio": {},
+    "jouable": null,
+    "morale": "À retenir : les pierres gardent la mémoire de ceux qui les ont dressées.",
+    "personnages": [
+      "Le chef",
+      "L'orfèvre",
+      "Le marchand"
+    ],
+    "lexique": [
+      {
+        "mot": "Touna",
+        "langue": "fr",
+        "sens": "chefs actuels descendant des anciens occupants, selon la fiche"
+      },
+      {
+        "mot": "UNESCO",
+        "langue": "fr",
+        "sens": "le site est inscrit au patrimoine mondial depuis 2009"
+      }
+    ],
+    "motsCles": [],
+    "sources": [
+      {
+        "titre": "UNESCO, ruines de Loropéni",
+        "url": "https://whc.unesco.org/document/152097"
+      }
+    ],
+    "patrimoine": [
+      "case-ronde"
+    ],
+    "film": "11-loropeni",
+    "lecture": 1,
+    "statut": "a_valider"
+  },
+  {
+    "id": "obire",
+    "titre": "Le royaume gan d'Obiré",
+    "type": "histoire",
+    "genre": "Récit historique",
+    "localites": [
+      "obire"
+    ],
+    "peuple": "Gan",
+    "langues": [
+      "gan"
+    ],
+    "resume": "Deuil, tombeaux des rois, conseil des anciens et intronisation : la succession d'un roi gan.",
+    "texte": "textes/obire.fr.md",
+    "texteLocal": {},
+    "audio": {},
+    "jouable": null,
+    "morale": "À retenir : un royaume survit à ses rois par les règles de leur succession.",
+    "personnages": [
+      "Le visiteur",
+      "Le roi",
+      "L'ancien"
+    ],
+    "lexique": [
+      {
+        "mot": "Gan",
+        "langue": "fr",
+        "sens": "peuple du Sud-Ouest du pays, royaume d'Obiré"
+      }
+    ],
+    "motsCles": [],
+    "sources": [
+      {
+        "titre": "Madeleine Père, Le royaume gan d'Obiré (Paris, 2005)"
+      }
+    ],
+    "patrimoine": [
+      "tambour"
+    ],
+    "film": "12-obire",
+    "lecture": 1,
+    "statut": "a_valider"
+  },
+  {
+    "id": "zenuo",
+    "titre": "Zenuo, le premier Dagara",
+    "type": "legende",
+    "genre": "Légende",
+    "localites": [
+      "pays-dagara"
+    ],
+    "peuple": "Dagara",
+    "langues": [
+      "dag"
+    ],
+    "resume": "Le chasseur Zenuo et sa femme traversent la Volta et fondent le premier foyer là où les pintades tournent.",
+    "texte": "textes/zenuo.fr.md",
+    "texteLocal": {},
+    "audio": {},
+    "jouable": null,
+    "morale": "Un foyer se fonde là où l'on sait lire les signes.",
+    "personnages": [
+      "Zenuo",
+      "L'ancien",
+      "Nyole"
+    ],
+    "lexique": [
+      {
+        "mot": "pintade",
+        "langue": "fr",
+        "sens": "volaille de la savane, qui indique ici le lieu du foyer"
+      }
+    ],
+    "motsCles": [],
+    "sources": [
+      {
+        "titre": "Takam Tikou, contes dagara",
+        "url": "https://takamtikou.bnf.fr/print/pdf/node/2712"
+      }
+    ],
+    "patrimoine": [
+      "case-ronde",
+      "dolo"
+    ],
+    "film": "13-zenuo",
+    "lecture": 1,
+    "statut": "a_valider"
+  },
+  {
+    "id": "gyil",
+    "titre": "Le gyil des génies",
+    "type": "legende",
+    "genre": "Légende",
+    "localites": [
+      "dano"
+    ],
+    "peuple": "Dagara",
+    "langues": [
+      "dag"
+    ],
+    "resume": "Un chasseur surprend les génies de brousse jouant du xylophone et rapporte l'instrument aux hommes.",
+    "texte": "textes/gyil.fr.md",
+    "texteLocal": {},
+    "audio": {},
+    "jouable": null,
+    "morale": "Ce qu'on rapporte de la brousse se partage, et se paie parfois.",
+    "personnages": [
+      "Le génie",
+      "Bayuo"
+    ],
+    "lexique": [
+      {
+        "mot": "gyil",
+        "langue": "dag",
+        "sens": "xylophone des Dagara"
+      }
+    ],
+    "motsCles": [],
+    "sources": [
+      {
+        "titre": "Tradition orale, à recouper auprès de conteurs"
+      }
+    ],
+    "patrimoine": [
+      "balafon",
+      "dolo"
+    ],
+    "film": "14-gyil",
+    "lecture": 1,
+    "statut": "a_valider"
+  },
+  {
+    "id": "guimbi",
+    "titre": "Guimbi Ouattara, la reine de Bobo",
+    "type": "histoire",
+    "genre": "Récit historique",
+    "localites": [
+      "bobo-dioulasso"
+    ],
+    "peuple": "Dioula",
+    "langues": [
+      "dyu"
+    ],
+    "resume": "Une femme puissante de la fin du XIXe siècle accueille les explorateurs et tient tête au roi Tiéba de Sikasso.",
+    "texte": "textes/guimbi.fr.md",
+    "texteLocal": {},
+    "audio": {},
+    "jouable": null,
+    "morale": "À retenir : l'autorité d'une femme a pu peser dans la politique de son temps.",
+    "personnages": [
+      "Guimbi",
+      "L'explorateur",
+      "Tiéba",
+      "L'envoyé",
+      "La griotte"
+    ],
+    "lexique": [
+      {
+        "mot": "Sya",
+        "langue": "dyu",
+        "sens": "autre nom de Bobo-Dioulasso"
+      }
+    ],
+    "motsCles": [],
+    "sources": [
+      {
+        "titre": "Tradition orale, à recouper auprès de conteurs"
+      }
+    ],
+    "patrimoine": [
+      "bogolan",
+      "soumbala"
+    ],
+    "film": "15-guimbi",
+    "lecture": 1,
+    "statut": "a_valider"
+  },
+  {
+    "id": "famagan",
+    "titre": "Famagan et le Gwiriko",
+    "type": "histoire",
+    "genre": "Récit historique",
+    "localites": [
+      "bobo-dioulasso"
+    ],
+    "peuple": "Dioula",
+    "langues": [
+      "dyu"
+    ],
+    "resume": "Au XVIIIe siècle, des guerriers venus de Kong fondent un royaume autour de Bobo-Dioulasso.",
+    "texte": "textes/famagan.fr.md",
+    "texteLocal": {},
+    "audio": {},
+    "jouable": null,
+    "morale": "À retenir : les royaumes naissent de rencontres, et de conquêtes.",
+    "personnages": [
+      "Famagan",
+      "Le chef",
+      "Le rival"
+    ],
+    "lexique": [
+      {
+        "mot": "Gwiriko",
+        "langue": "dyu",
+        "sens": "le royaume fondé autour de Bobo-Dioulasso"
+      }
+    ],
+    "motsCles": [],
+    "sources": [
+      {
+        "titre": "Tradition orale, à recouper auprès de conteurs"
+      }
+    ],
+    "patrimoine": [
+      "tambour"
+    ],
+    "film": "16-famagan",
+    "lecture": 1,
+    "statut": "a_valider"
+  },
+  {
+    "id": "landolo",
+    "titre": "Landolo et le grand caïlcédrat",
+    "type": "conte",
+    "genre": "Conte",
+    "localites": [
+      "tougan"
+    ],
+    "peuple": "Samo (San)",
+    "langues": [
+      "san"
+    ],
+    "resume": "Un orphelin maltraité trouve un protecteur dans un arbre géant, qui nourrira tout le village pendant la sécheresse.",
+    "texte": "textes/landolo.fr.md",
+    "texteLocal": {},
+    "audio": {},
+    "jouable": null,
+    "morale": "Celui qu'on méprise peut devenir celui qui sauve.",
+    "personnages": [
+      "La marâtre",
+      "Landolo",
+      "Le villageois",
+      "Landolo adulte"
+    ],
+    "lexique": [
+      {
+        "mot": "caïlcédrat",
+        "langue": "fr",
+        "sens": "grand arbre d'ombre de la savane"
+      }
+    ],
+    "motsCles": [],
+    "sources": [
+      {
+        "titre": "CNLJ/BnF, Landolo (pays san)",
+        "url": "https://cnlj.bnf.fr/sites/default/files/revues_document_joint/PUBLICATION_7529.pdf"
+      }
+    ],
+    "patrimoine": [
+      "calebasse",
+      "to"
+    ],
+    "film": "17-landolo",
+    "lecture": 1,
+    "statut": "a_valider"
+  },
+  {
+    "id": "rakire",
+    "titre": "Le rakiré entre Samo et Mossi",
+    "type": "legende",
+    "genre": "Légende",
+    "localites": [
+      "pays-samo"
+    ],
+    "peuple": "Samo et Mossi",
+    "langues": [
+      "san",
+      "mos"
+    ],
+    "resume": "D'une ancienne guerre naît une alliance : depuis, Samo et Mossi se moquent les uns des autres, mais ne se battent plus.",
+    "texte": "textes/rakire.fr.md",
+    "texteLocal": {},
+    "audio": {},
+    "jouable": null,
+    "morale": "Mieux vaut se moquer les uns des autres que se battre.",
+    "personnages": [
+      "Le chef mossi",
+      "Le chef samo",
+      "Le Samo",
+      "Le Mossi"
+    ],
+    "lexique": [
+      {
+        "mot": "rakiré",
+        "langue": "mos",
+        "sens": "parenté à plaisanterie, alliance entre peuples ou familles"
+      }
+    ],
+    "motsCles": [],
+    "sources": [
+      {
+        "titre": "Tradition orale, à recouper auprès de conteurs"
+      }
+    ],
+    "patrimoine": [
+      "dolo",
+      "tambour"
+    ],
+    "film": "18-rakire",
+    "lecture": 1,
+    "statut": "a_valider"
+  },
+  {
+    "id": "vur",
+    "titre": "Le mystère du vur",
+    "type": "legende",
+    "genre": "Récit religieux",
+    "localites": [
+      "reo"
+    ],
+    "peuple": "Lyela",
+    "langues": [
+      "lyl"
+    ],
+    "resume": "Un vol, un innocent accusé, et la puissance du vur qui fait éclater la vérité. Aucune pratique du culte n'est montrée.",
+    "texte": "textes/vur.fr.md",
+    "texteLocal": {},
+    "audio": {},
+    "jouable": null,
+    "morale": "La vérité finit par éclater, même quand l'innocent est seul.",
+    "personnages": [
+      "Le voisin",
+      "L'ancien",
+      "Le voleur"
+    ],
+    "lexique": [
+      {
+        "mot": "vur",
+        "langue": "lyl",
+        "sens": "puissance religieuse chez les Lyela ; aucune pratique du culte n'est montrée"
+      }
+    ],
+    "motsCles": [],
+    "sources": [
+      {
+        "titre": "Le vur chez les Lyela",
+        "url": "https://www.relbib.de/Record/1644566540"
+      }
+    ],
+    "patrimoine": [
+      "canari"
+    ],
+    "film": "19-vur",
+    "lecture": 1,
+    "statut": "a_valider"
+  },
+  {
+    "id": "ancetre-ciel",
+    "titre": "L'ancêtre tombé du ciel",
+    "type": "legende",
+    "genre": "Mythe",
+    "localites": [
+      "tiebele"
+    ],
+    "peuple": "Kassena",
+    "langues": [
+      "kas"
+    ],
+    "resume": "L'ancêtre de Kollo descend du ciel avec sa femme et fonde le village de Tiébélé aux murs peints.",
+    "texte": "textes/ancetre-ciel.fr.md",
+    "texteLocal": {},
+    "audio": {},
+    "jouable": null,
+    "morale": "Un village se souvient d'où il vient, jusque sur ses murs.",
+    "personnages": [
+      "L'ancêtre",
+      "Le vieux",
+      "L'enfant"
+    ],
+    "lexique": [
+      {
+        "mot": "Kollo",
+        "langue": "kas",
+        "sens": "l'ancêtre dont parle le mythe"
+      }
+    ],
+    "motsCles": [],
+    "sources": [
+      {
+        "titre": "IRD, traditions kassena",
+        "url": "https://horizon.documentation.ird.fr/exl-doc/pleins_textes/pleins_textes_5/b_fdi_16-17/22618.pdf"
+      },
+      {
+        "titre": "Afrik.com, Tiébélé",
+        "url": "https://www.afrik.com/burkina-faso-tiebele-l-art-a-fleur-de-murs"
+      }
+    ],
+    "patrimoine": [
+      "case-ronde",
+      "canari"
+    ],
+    "film": "20-ancetre-ciel",
+    "lecture": 1,
+    "statut": "a_valider"
+  },
+  {
+    "id": "crocodile",
+    "titre": "Le crocodile qui sauva l'ancêtre",
+    "type": "legende",
+    "genre": "Légende",
+    "localites": [
+      "po"
+    ],
+    "peuple": "Kassena",
+    "langues": [
+      "kas"
+    ],
+    "resume": "Perdu et mourant de soif, un chasseur est guidé par un crocodile vers une mare cachée : depuis, le crocodile est sacré.",
+    "texte": "textes/crocodile.fr.md",
+    "texteLocal": {},
+    "audio": {},
+    "jouable": null,
+    "morale": "On n'oublie pas celui qui nous a sauvés.",
+    "personnages": [
+      "Abem",
+      "L'enfant"
+    ],
+    "lexique": [
+      {
+        "mot": "mare",
+        "langue": "fr",
+        "sens": "petit plan d'eau, ici refuge du crocodile sacré"
+      }
+    ],
+    "motsCles": [],
+    "sources": [
+      {
+        "titre": "IRD, traditions kassena",
+        "url": "https://horizon.documentation.ird.fr/exl-doc/pleins_textes/pleins_textes_5/b_fdi_16-17/22618.pdf"
+      }
+    ],
+    "patrimoine": [
+      "canari"
+    ],
+    "film": "21-crocodile",
+    "lecture": 1,
+    "statut": "a_valider"
+  },
+  {
+    "id": "babatou",
+    "titre": "Face aux cavaliers de Babatou",
+    "type": "histoire",
+    "genre": "Récit historique",
+    "localites": [
+      "leo"
+    ],
+    "peuple": "Gourounsi",
+    "langues": [
+      "nun"
+    ],
+    "resume": "À la fin du XIXe siècle, des villages gourounsi s'organisent contre les cavaliers venus capturer des esclaves.",
+    "texte": "textes/babatou.fr.md",
+    "texteLocal": {},
+    "audio": {},
+    "jouable": null,
+    "morale": "À retenir : des villages isolés ont su s'unir pour résister.",
+    "personnages": [
+      "Le guetteur",
+      "Le chef"
+    ],
+    "lexique": [
+      {
+        "mot": "razzia",
+        "langue": "fr",
+        "sens": "attaque rapide pour capturer des esclaves"
+      }
+    ],
+    "motsCles": [],
+    "sources": [
+      {
+        "titre": "Tradition orale, à recouper auprès de conteurs"
+      }
+    ],
+    "patrimoine": [
+      "tambour"
+    ],
+    "film": "22-babatou",
+    "lecture": 1,
+    "statut": "a_valider"
+  },
+  {
+    "id": "lingani",
+    "titre": "Les Lingani de Tangaré",
+    "type": "legende",
+    "genre": "Légende",
+    "localites": [
+      "tangare"
+    ],
+    "peuple": "Bissa",
+    "langues": [
+      "bsa"
+    ],
+    "resume": "Nul ne porte la couronne sans être passé par les Lingani de Tangaré : un prétendant pressé l'apprend à ses dépens.",
+    "texte": "textes/lingani.fr.md",
+    "texteLocal": {},
+    "audio": {},
+    "jouable": null,
+    "morale": "Le pouvoir qu'on prend sans suivre la coutume ne tient pas.",
+    "personnages": [
+      "Le prétendant",
+      "Le guide"
+    ],
+    "lexique": [
+      {
+        "mot": "Lingani",
+        "langue": "bsa",
+        "sens": "famille gardienne d'un rôle dans l'intronisation, selon la fiche"
+      }
+    ],
+    "motsCles": [],
+    "sources": [
+      {
+        "titre": "Bissa people",
+        "url": "https://wikipedia.com/wiki/Bissa_people"
+      }
+    ],
+    "patrimoine": [
+      "tambour",
+      "etalon"
+    ],
+    "film": "24-lingani",
+    "lecture": 1,
+    "statut": "a_valider"
+  },
+  {
+    "id": "jaba-lompo",
+    "titre": "Jaba Lompo, le devin ancêtre",
+    "type": "legende",
+    "genre": "Légende",
+    "localites": [
+      "fada"
+    ],
+    "peuple": "Gulmancé",
+    "langues": [
+      "gur"
+    ],
+    "resume": "Selon une tradition, le devin Jaba Lompo descend du ciel et fonde Bingo, qui deviendra Fada N'Gourma.",
+    "texte": "textes/jaba-lompo.fr.md",
+    "texteLocal": {},
+    "audio": {},
+    "jouable": null,
+    "morale": "Chaque peuple garde son propre récit des commencements.",
+    "personnages": [
+      "Jaba"
+    ],
+    "lexique": [
+      {
+        "mot": "Bingo",
+        "langue": "gur",
+        "sens": "ancien nom donné à Fada N'Gourma dans le récit"
+      }
+    ],
+    "motsCles": [],
+    "sources": [
+      {
+        "titre": "Diaba Lompo",
+        "url": "https://en.wikipedia.org/wiki/Diaba_Lompo"
+      }
+    ],
+    "patrimoine": [
+      "canari",
+      "chapeau-sapone"
+    ],
+    "film": "25-jaba-lompo",
+    "lecture": 1,
+    "statut": "a_valider"
+  },
+  {
+    "id": "maitres-terre",
+    "titre": "Les maîtres de la terre",
+    "type": "legende",
+    "genre": "Légende",
+    "localites": [
+      "aribinda"
+    ],
+    "peuple": "Kurumba",
+    "langues": [
+      "kur"
+    ],
+    "resume": "Les conquérants ont le pouvoir, mais la terre ne donne rien sans les premiers occupants, gardiens des autels.",
+    "texte": "textes/maitres-terre.fr.md",
+    "texteLocal": {},
+    "audio": {},
+    "jouable": null,
+    "morale": "Le pouvoir se conquiert, la terre se respecte.",
+    "personnages": [
+      "Le maître",
+      "Le chef"
+    ],
+    "lexique": [
+      {
+        "mot": "Nyonyonsé",
+        "langue": "kur",
+        "sens": "premiers occupants, gardiens des autels de la terre"
+      }
+    ],
+    "motsCles": [],
+    "sources": [
+      {
+        "titre": "Archives de l'Aude, chefferies du Burkina",
+        "url": "https://archivesdepartementales.aude.fr/sites/default/files/media/downloads/AD11_004Phv007_001.pdf"
+      }
+    ],
+    "patrimoine": [
+      "canari",
+      "soumbala"
+    ],
+    "film": "26-maitres-terre",
+    "lecture": 1,
+    "statut": "a_valider"
+  },
+  {
+    "id": "silamaka",
+    "titre": "Silamaka et Poullori",
+    "type": "legende",
+    "genre": "Épopée",
+    "localites": [
+      "sahel-peul"
+    ],
+    "peuple": "Peul",
+    "langues": [
+      "fuf"
+    ],
+    "resume": "Un héros, son compagnon fidèle et un serpent protecteur refusent de payer le tribut au roi.",
+    "texte": "textes/silamaka.fr.md",
+    "texteLocal": {},
+    "audio": {},
+    "jouable": null,
+    "morale": "La fidélité d'un compagnon vaut plus qu'un tribut.",
+    "personnages": [
+      "Silamaka",
+      "Le griot"
+    ],
+    "lexique": [
+      {
+        "mot": "tribut",
+        "langue": "fr",
+        "sens": "ce qu'un peuple soumis doit payer à un roi"
+      }
+    ],
+    "motsCles": [],
+    "sources": [
+      {
+        "titre": "Tradition orale, à recouper auprès de conteurs"
+      }
+    ],
+    "patrimoine": [
+      "etalon",
+      "calebasse"
+    ],
+    "film": "28-silamaka",
+    "lecture": 1,
+    "statut": "a_valider"
+  },
+  {
+    "id": "liptako",
+    "titre": "L'émirat du Liptako",
+    "type": "histoire",
+    "genre": "Récit historique",
+    "localites": [
+      "dori"
+    ],
+    "peuple": "Peul",
+    "langues": [
+      "fuf"
+    ],
+    "resume": "Au début du XIXe siècle, les Peuls de Dori fondent un État après une guerre contre les Gulmancé.",
+    "texte": "textes/liptako.fr.md",
+    "texteLocal": {},
+    "audio": {},
+    "jouable": null,
+    "morale": "À retenir : Dori fut la capitale d'un État peul du XIXe siècle.",
+    "personnages": [
+      "Le cultivateur",
+      "Le berger",
+      "Le chef gulmancé",
+      "Le marabout",
+      "L'émir"
+    ],
+    "lexique": [
+      {
+        "mot": "Liptako",
+        "langue": "fuf",
+        "sens": "l'émirat, aujourd'hui nom d'une région du pays"
+      }
+    ],
+    "motsCles": [],
+    "sources": [
+      {
+        "titre": "Archives de l'Aude, chefferies du Burkina",
+        "url": "https://archivesdepartementales.aude.fr/sites/default/files/media/downloads/AD11_004Phv007_001.pdf"
+      }
+    ],
+    "patrimoine": [
+      "etalon"
+    ],
+    "film": "29-liptako",
+    "lecture": 1,
+    "statut": "a_valider"
+  },
+  {
+    "id": "crapaud",
+    "titre": "Pourquoi le crapaud chante la nuit",
+    "type": "conte",
+    "genre": "Conte",
+    "localites": [
+      "oudalan"
+    ],
+    "peuple": "Songhaï",
+    "langues": [
+      "ses"
+    ],
+    "resume": "Le crapaud vantard est ridiculisé au grand concours de chant : depuis, il ne chante plus que la nuit.",
+    "texte": "textes/crapaud.fr.md",
+    "texteLocal": {},
+    "audio": {},
+    "jouable": null,
+    "morale": "Qui se vante le jour peut finir par ne chanter que la nuit.",
+    "personnages": [
+      "Le crapaud",
+      "L'éléphant"
+    ],
+    "lexique": [
+      {
+        "mot": "crapaud",
+        "langue": "fr",
+        "sens": "héros vantard de ce conte"
+      }
+    ],
+    "motsCles": [],
+    "sources": [
+      {
+        "titre": "Takam Tikou, contes songhaï",
+        "url": "https://takamtikou.bnf.fr/print/pdf/node/1308"
+      }
+    ],
+    "patrimoine": [
+      "calebasse"
+    ],
+    "film": "30-crapaud",
+    "lecture": 1,
+    "statut": "a_valider"
+  }
+]

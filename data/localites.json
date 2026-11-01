@@ -1,0 +1,677 @@
+[
+  {
+    "id": "pays-bobo",
+    "nom": "Pays bobo",
+    "region": "guiriko",
+    "coords": [
+      11.52,
+      -3.93
+    ],
+    "peuples": [
+      "Bobo"
+    ],
+    "langues": [
+      "bbo",
+      "dyu"
+    ],
+    "recits": [
+      "wuro-masque"
+    ],
+    "patrimoine": [
+      "case-ronde",
+      "tambour"
+    ],
+    "approx": true
+  },
+  {
+    "id": "bobo-dioulasso",
+    "nom": "Bobo-Dioulasso",
+    "region": "guiriko",
+    "coords": [
+      11.18,
+      -4.3
+    ],
+    "peuples": [
+      "Bobo",
+      "Dioula"
+    ],
+    "langues": [
+      "bbo",
+      "dyu"
+    ],
+    "recits": [
+      "silures-dafra",
+      "guimbi",
+      "famagan"
+    ],
+    "patrimoine": [
+      "calebasse",
+      "tambour",
+      "bogolan",
+      "soumbala"
+    ]
+  },
+  {
+    "id": "pays-bwa",
+    "nom": "Pays bwa",
+    "region": "bankui",
+    "coords": [
+      12.03,
+      -3.5
+    ],
+    "peuples": [
+      "Bwaba"
+    ],
+    "langues": [
+      "bwa",
+      "dyu"
+    ],
+    "recits": [
+      "wuro-pilon",
+      "tenin-1915"
+    ],
+    "patrimoine": [
+      "to",
+      "calebasse",
+      "faso-dan-fani"
+    ],
+    "approx": true
+  },
+  {
+    "id": "solenzo",
+    "nom": "Solenzo",
+    "region": "bankui",
+    "coords": [
+      12.18,
+      -4.08
+    ],
+    "peuples": [
+      "Bwaba"
+    ],
+    "langues": [
+      "bwa",
+      "dyu"
+    ],
+    "recits": [
+      "gazelle"
+    ],
+    "patrimoine": [
+      "calebasse"
+    ],
+    "approx": true
+  },
+  {
+    "id": "bona",
+    "nom": "Bona",
+    "region": "bankui",
+    "coords": [
+      12.42,
+      -3.5
+    ],
+    "peuples": [
+      "Marka"
+    ],
+    "langues": [
+      "mkr",
+      "dyu"
+    ],
+    "recits": [
+      "bona-1915"
+    ],
+    "patrimoine": [
+      "faso-dan-fani"
+    ],
+    "approx": true
+  },
+  {
+    "id": "sindou",
+    "nom": "Pics de Sindou",
+    "region": "tannounyan",
+    "coords": [
+      10.67,
+      -5.17
+    ],
+    "peuples": [
+      "Senoufo"
+    ],
+    "langues": [
+      "sen",
+      "dyu"
+    ],
+    "recits": [
+      "pics-sindou"
+    ],
+    "patrimoine": [
+      "case-ronde",
+      "balafon"
+    ]
+  },
+  {
+    "id": "orodara",
+    "nom": "Orodara",
+    "region": "guiriko",
+    "coords": [
+      10.97,
+      -4.91
+    ],
+    "peuples": [
+      "Senoufo"
+    ],
+    "langues": [
+      "sen",
+      "dyu"
+    ],
+    "recits": [
+      "tene-balafon"
+    ],
+    "patrimoine": [
+      "balafon",
+      "bogolan"
+    ],
+    "approx": true
+  },
+  {
+    "id": "gaoua",
+    "nom": "Gaoua",
+    "region": "djoro",
+    "coords": [
+      10.33,
+      -3.18
+    ],
+    "peuples": [
+      "Lobi"
+    ],
+    "langues": [
+      "lob"
+    ],
+    "recits": [
+      "thila-bateba"
+    ],
+    "patrimoine": [
+      "case-ronde",
+      "canari"
+    ]
+  },
+  {
+    "id": "volta-noire",
+    "nom": "Volta noire, pays lobi",
+    "region": "djoro",
+    "coords": [
+      10.02,
+      -2.92
+    ],
+    "peuples": [
+      "Lobi"
+    ],
+    "langues": [
+      "lob"
+    ],
+    "recits": [
+      "dyoro"
+    ],
+    "patrimoine": [
+      "calebasse"
+    ],
+    "approx": true
+  },
+  {
+    "id": "loropeni",
+    "nom": "Loropéni",
+    "region": "djoro",
+    "coords": [
+      10.3,
+      -3.58
+    ],
+    "peuples": [
+      "Gan",
+      "Lohron",
+      "Koulango"
+    ],
+    "langues": [
+      "gan"
+    ],
+    "recits": [
+      "loropeni"
+    ],
+    "patrimoine": [
+      "case-ronde"
+    ]
+  },
+  {
+    "id": "obire",
+    "nom": "Obiré",
+    "region": "djoro",
+    "coords": [
+      10.5,
+      -3.42
+    ],
+    "peuples": [
+      "Gan"
+    ],
+    "langues": [
+      "gan"
+    ],
+    "recits": [
+      "obire"
+    ],
+    "patrimoine": [
+      "tambour"
+    ],
+    "approx": true
+  },
+  {
+    "id": "pays-dagara",
+    "nom": "Pays dagara",
+    "region": "djoro",
+    "coords": [
+      10.88,
+      -3
+    ],
+    "peuples": [
+      "Dagara"
+    ],
+    "langues": [
+      "dag"
+    ],
+    "recits": [
+      "zenuo"
+    ],
+    "patrimoine": [
+      "case-ronde",
+      "dolo"
+    ],
+    "approx": true
+  },
+  {
+    "id": "dano",
+    "nom": "Dano",
+    "region": "djoro",
+    "coords": [
+      11.15,
+      -3.06
+    ],
+    "peuples": [
+      "Dagara"
+    ],
+    "langues": [
+      "dag"
+    ],
+    "recits": [
+      "gyil"
+    ],
+    "patrimoine": [
+      "balafon",
+      "dolo"
+    ],
+    "approx": true
+  },
+  {
+    "id": "tougan",
+    "nom": "Tougan",
+    "region": "sourou",
+    "coords": [
+      13.07,
+      -3.07
+    ],
+    "peuples": [
+      "Samo"
+    ],
+    "langues": [
+      "san"
+    ],
+    "recits": [
+      "landolo"
+    ],
+    "patrimoine": [
+      "calebasse",
+      "to"
+    ],
+    "approx": true
+  },
+  {
+    "id": "pays-samo",
+    "nom": "Pays samo",
+    "region": "sourou",
+    "coords": [
+      13.25,
+      -2.6
+    ],
+    "peuples": [
+      "Samo",
+      "Mossi"
+    ],
+    "langues": [
+      "san",
+      "mos"
+    ],
+    "recits": [
+      "rakire"
+    ],
+    "patrimoine": [
+      "dolo",
+      "tambour"
+    ],
+    "approx": true
+  },
+  {
+    "id": "reo",
+    "nom": "Réo",
+    "region": "nando",
+    "coords": [
+      12.32,
+      -2.47
+    ],
+    "peuples": [
+      "Lyela"
+    ],
+    "langues": [
+      "lyl"
+    ],
+    "recits": [
+      "vur"
+    ],
+    "patrimoine": [
+      "canari"
+    ],
+    "approx": true
+  },
+  {
+    "id": "tiebele",
+    "nom": "Tiébélé",
+    "region": "nazinon",
+    "coords": [
+      11.1,
+      -0.97
+    ],
+    "peuples": [
+      "Kassena"
+    ],
+    "langues": [
+      "kas"
+    ],
+    "recits": [
+      "ancetre-ciel"
+    ],
+    "patrimoine": [
+      "case-ronde",
+      "canari"
+    ]
+  },
+  {
+    "id": "po",
+    "nom": "Pô",
+    "region": "nazinon",
+    "coords": [
+      11.17,
+      -1.25
+    ],
+    "peuples": [
+      "Kassena"
+    ],
+    "langues": [
+      "kas"
+    ],
+    "recits": [
+      "crocodile"
+    ],
+    "patrimoine": [
+      "canari"
+    ],
+    "approx": true
+  },
+  {
+    "id": "leo",
+    "nom": "Léo",
+    "region": "nando",
+    "coords": [
+      11.1,
+      -2.1
+    ],
+    "peuples": [
+      "Gourounsi"
+    ],
+    "langues": [
+      "nun"
+    ],
+    "recits": [
+      "babatou"
+    ],
+    "patrimoine": [
+      "tambour"
+    ],
+    "approx": true
+  },
+  {
+    "id": "tenkodogo",
+    "nom": "Tenkodogo",
+    "region": "nakambe",
+    "coords": [
+      11.78,
+      -0.37
+    ],
+    "peuples": [
+      "Mossi"
+    ],
+    "langues": [
+      "mos"
+    ],
+    "recits": [
+      "yennenga"
+    ],
+    "patrimoine": [
+      "etalon",
+      "tambour",
+      "canari",
+      "defenses",
+      "case-ronde"
+    ]
+  },
+  {
+    "id": "tangare",
+    "nom": "Tangaré, Garango",
+    "region": "nakambe",
+    "coords": [
+      11.8,
+      -0.62
+    ],
+    "peuples": [
+      "Bissa"
+    ],
+    "langues": [
+      "bsa"
+    ],
+    "recits": [
+      "lingani"
+    ],
+    "patrimoine": [
+      "tambour",
+      "etalon"
+    ],
+    "approx": true
+  },
+  {
+    "id": "fada",
+    "nom": "Fada N'Gourma",
+    "region": "goulmou",
+    "coords": [
+      12.06,
+      0.36
+    ],
+    "peuples": [
+      "Gulmancé"
+    ],
+    "langues": [
+      "gur"
+    ],
+    "recits": [
+      "jaba-lompo"
+    ],
+    "patrimoine": [
+      "canari",
+      "chapeau-sapone"
+    ]
+  },
+  {
+    "id": "aribinda",
+    "nom": "Aribinda",
+    "region": "soum",
+    "coords": [
+      14.23,
+      -0.87
+    ],
+    "peuples": [
+      "Kurumba"
+    ],
+    "langues": [
+      "kur"
+    ],
+    "recits": [
+      "maitres-terre"
+    ],
+    "patrimoine": [
+      "canari",
+      "soumbala"
+    ],
+    "approx": true
+  },
+  {
+    "id": "dori",
+    "nom": "Dori",
+    "region": "liptako",
+    "coords": [
+      14.03,
+      -0.03
+    ],
+    "peuples": [
+      "Peul"
+    ],
+    "langues": [
+      "fuf"
+    ],
+    "recits": [
+      "bilissi",
+      "liptako"
+    ],
+    "patrimoine": [
+      "calebasse",
+      "chapeau-sapone",
+      "etalon"
+    ]
+  },
+  {
+    "id": "sahel-peul",
+    "nom": "Sahel peul",
+    "region": "soum",
+    "coords": [
+      14.02,
+      -1.2
+    ],
+    "peuples": [
+      "Peul"
+    ],
+    "langues": [
+      "fuf"
+    ],
+    "recits": [
+      "silamaka"
+    ],
+    "patrimoine": [
+      "etalon",
+      "calebasse"
+    ],
+    "approx": true
+  },
+  {
+    "id": "oudalan",
+    "nom": "Oudalan, pays songhaï",
+    "region": "liptako",
+    "coords": [
+      14.45,
+      -0.24
+    ],
+    "peuples": [
+      "Songhaï"
+    ],
+    "langues": [
+      "ses"
+    ],
+    "recits": [
+      "crapaud"
+    ],
+    "patrimoine": [
+      "calebasse"
+    ],
+    "approx": true
+  },
+  {
+    "id": "ouagadougou",
+    "nom": "Ouagadougou",
+    "region": "kadiogo",
+    "coords": [
+      12.37,
+      -1.52
+    ],
+    "peuples": [
+      "Mossi"
+    ],
+    "langues": [
+      "mos"
+    ],
+    "recits": [
+      "lievre-hyene",
+      "naaba-wobgo"
+    ],
+    "patrimoine": [
+      "calebasse",
+      "soumbala",
+      "to",
+      "tambour",
+      "etalon"
+    ]
+  },
+  {
+    "id": "noumoudara",
+    "nom": "Noumoudara",
+    "region": "guiriko",
+    "coords": [
+      10.97,
+      -4.62
+    ],
+    "peuples": [
+      "Tiéfo"
+    ],
+    "langues": [
+      "dyu"
+    ],
+    "recits": [
+      "tiefo-amoro"
+    ],
+    "patrimoine": [
+      "tambour",
+      "bogolan"
+    ],
+    "approx": true
+  },
+  {
+    "id": "kaya",
+    "nom": "Kaya",
+    "region": "kuilse",
+    "coords": [
+      13.09,
+      -1.08
+    ],
+    "peuples": [
+      "Mossi"
+    ],
+    "langues": [
+      "mos"
+    ],
+    "recits": [
+      "kinkirsi"
+    ],
+    "patrimoine": [
+      "calebasse",
+      "canari"
+    ]
+  }
+]

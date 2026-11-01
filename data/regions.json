@@ -1,0 +1,19 @@
+[
+  { "id": "bankui", "nom": "Bankui", "ancien": "Boucle du Mouhoun", "chefLieu": "Dédougou", "provinces": ["Mouhoun", "Balé", "Banwa"] },
+  { "id": "djoro", "nom": "Djôrô", "ancien": "Sud-Ouest", "chefLieu": "Gaoua", "provinces": ["Bougouriba", "Ioba", "Noumbiel", "Poni"] },
+  { "id": "goulmou", "nom": "Goulmou", "ancien": "Est", "chefLieu": "Fada N'Gourma", "provinces": ["Gourma", "Kompienga"] },
+  { "id": "guiriko", "nom": "Guiriko", "ancien": "Hauts-Bassins", "chefLieu": "Bobo-Dioulasso", "provinces": ["Houet", "Kénédougou", "Tuy"] },
+  { "id": "kadiogo", "nom": "Kadiogo", "ancien": "Centre", "chefLieu": "Ouagadougou", "provinces": ["Kadiogo"] },
+  { "id": "kuilse", "nom": "Kuilsé", "ancien": "Centre-Nord", "chefLieu": "Kaya", "provinces": ["Bam", "Namentenga", "Sanmatenga"] },
+  { "id": "liptako", "nom": "Liptako", "ancien": "Sahel, partie est", "chefLieu": "Dori", "provinces": ["Oudalan", "Séno", "Yagha"] },
+  { "id": "nakambe", "nom": "Nakambé", "ancien": "Centre-Est", "chefLieu": "Tenkodogo", "provinces": ["Boulgou", "Koulpélogo", "Kouritenga"] },
+  { "id": "nando", "nom": "Nando", "ancien": "Centre-Ouest", "chefLieu": "Koudougou", "provinces": ["Boulkiemdé", "Sanguié", "Sissili", "Ziro"] },
+  { "id": "nazinon", "nom": "Nazinon", "ancien": "Centre-Sud", "chefLieu": "Manga", "provinces": ["Bazèga", "Nahouri", "Zoundwéogo"] },
+  { "id": "oubri", "nom": "Oubri", "ancien": "Plateau-Central", "chefLieu": "Ziniaré", "provinces": ["Oubritenga", "Ganzourgou", "Kourwéogo"] },
+  { "id": "sirba", "nom": "Sirba", "ancien": "Est, partie nord", "chefLieu": "Bogandé", "provinces": ["Gnagna", "Komondjari"] },
+  { "id": "soum", "nom": "Soum", "ancien": "Sahel, partie ouest", "chefLieu": "Djibo", "provinces": ["Soum"] },
+  { "id": "sourou", "nom": "Sourou", "ancien": "Boucle du Mouhoun, partie nord", "chefLieu": "Tougan", "provinces": ["Kossi", "Nayala", "Sourou"] },
+  { "id": "tannounyan", "nom": "Tannounyan", "ancien": "Cascades", "chefLieu": "Banfora", "provinces": ["Comoé", "Léraba"] },
+  { "id": "tapoa", "nom": "Tapoa", "ancien": "Est, partie est", "chefLieu": "Diapaga", "provinces": ["Tapoa"] },
+  { "id": "yaadga", "nom": "Yaadga", "ancien": "Nord", "chefLieu": "Ouahigouya", "provinces": ["Loroum", "Passoré", "Yatenga", "Zondoma"] }
+]
