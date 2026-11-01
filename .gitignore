@@ -147,3 +147,14 @@ vite.config.ts.timestamp-*
 
 # Turbo Repo
 .turbo
+
+#fichiers locaux non suivis
+local/
+
+# spec
+.claude
+.specify
+
+# tests
+test-results/
+playwright-report/

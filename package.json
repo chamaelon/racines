@@ -1,0 +1,28 @@
+{
+  "name": "racines",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Plateforme web multimédia et carte interactive des contes et légendes du Burkina Faso",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "build:map": "node scripts/build-map.js",
+    "bouche-trous": "node scripts/bouche-trous.js",
+    "validate": "node scripts/validate.js",
+    "test": "vitest run",
+    "test:e2e": "playwright test"
+  },
+  "dependencies": {
+    "@fontsource/cinzel": "^5.3.0",
+    "@fontsource/nunito": "^5.3.0",
+    "three": "^0.187.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "mapshaper": "^0.7.101",
+    "vite": "^8.3.5",
+    "vitest": "^5.0.5"
+  }
+}

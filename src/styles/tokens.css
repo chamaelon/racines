@@ -1,0 +1,22 @@
+:root {
+  --ocre: #e0a43a;
+  --ocre-clair: #f6d98e;
+  --terre: #7a3b1d;
+  --terre-vive: #a24d22;
+  --nuit: #140e0a;
+  --nuit-2: #241812;
+  --nuit-3: #33241a;
+  --papier: #fbf1dc;
+  --papier-2: #f2dfb8;
+  --encre: #2a1a10;
+  --encre-douce: #5e4531;
+  --conte: #a84b12;
+  --legende: #a11a4f;
+  --histoire: #17646f;
+  --vert: #2e7d32;
+  --rayon: 12px;
+  --ombre: 0 8px 26px rgba(20, 14, 10, .28);
+  --titre: Cinzel, Georgia, serif;
+  --corps: Nunito, system-ui, sans-serif;
+  --entete: 58px;
+}
