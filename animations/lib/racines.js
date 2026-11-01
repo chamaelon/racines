@@ -209,6 +209,8 @@
         if (haut.motif) this._motif(G, haut, -ew + 2, g.epaule + 6, ew * 2 - 4, yh - g.epaule - 6);
         this.jupeLong = Math.max(this.jupeLong, yb - yh);
       }
+      // Femme enceinte : ventre arrondi vers l'avant, couleur du haut (ou de la peau)
+      if (c.ventre) { const vc = (haut.couleur) || d.peau; el('ellipse', { cx: hw * 0.35, cy: g.hanche - (g.hanche - g.epaule) * 0.28, rx: hw * 0.9 + 4, ry: (g.hanche - g.epaule) * 0.3, fill: vc, stroke: teinte(vc, -0.3), 'stroke-width': 2 }, G); }
       if (c.ceinture) el('rect', { x: -hw - 6, y: g.hanche - 10, width: hw * 2 + 12, height: 7, rx: 3, fill: c.ceinture }, G);
       if (c.collier) {
         for (let i = -2; i <= 2; i++) el('circle', { cx: i * (ew * 0.3), cy: g.epaule + 3 + Math.abs(i) * -1.5 + 4 - Math.abs(i) * 0, r: 3.2, fill: c.collier }, G);
