@@ -31,4 +31,4 @@
 - **Polices :** Cinzel et Nunito sont servies depuis le site (paquets fontsource) plutôt que par Google Fonts. Il n'y a donc aucun appel réseau externe.
 - **Déploiement :** GitHub Actions publie dans la branche `gh-pages`, avec `keep_files`, pour garder les films et le studio qui s'y trouvent déjà.
 - **Tests de bout en bout :** lancés en local avec Edge (`npm run test:e2e`), pas en CI.
-- **Fonctions P3 :** mini-jeu `rythme` écrit et prêt, mais utilisé par aucune histoire pour l'instant. Traduction des menus et service worker non faits.
+- **Fonctions P3 :** le mini-jeu `rythme` et le générateur de récit sont faits. La traduction des menus et le service worker ne le sont pas.

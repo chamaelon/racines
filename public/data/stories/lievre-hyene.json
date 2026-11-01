@@ -202,7 +202,7 @@
     "marchande1": {
       "speaker": "marchande",
       "text": "Lièvre, on dit que l'hyène te cherche partout et qu'elle n'est pas de bonne humeur.",
-      "next": "hyene3",
+      "next": "tamtam1",
       "audio": {
         "mos": "audio/lievre-hyene/marchande1.mos.mp3"
       }
@@ -369,6 +369,55 @@
       "text": "Il court encore, dit-on. Et depuis ce temps, le lièvre dort d'un œil.",
       "audio": {
         "mos": "audio/lievre-hyene/fuite2.mos.mp3"
+      }
+    },
+    "tamtam1": {
+      "speaker": "griot",
+      "text": "Les tam-tams du marché s'emballent. Si le lièvre suit le rythme, la foule dansera autour de lui, et l'hyène ne le trouvera pas tout de suite.",
+      "next": "tamtam",
+      "audio": {
+        "mos": "audio/lievre-hyene/tamtam1.mos.mp3"
+      }
+    },
+    "tamtam": {
+      "minigame": "rythme",
+      "consigne": "Écoute le tam-tam, puis reproduis le rythme.",
+      "sequence": [
+        0,
+        2,
+        1,
+        3
+      ],
+      "gagne": "La foule danse, le lièvre disparaît au milieu d'elle !",
+      "perdu": "Le rythme s'est perdu, et la foule s'écarte…",
+      "tags": {
+        "win": "rythme tenu",
+        "lose": "rythme perdu"
+      },
+      "route": [
+        {
+          "when": {
+            "rythme": "win"
+          },
+          "next": "tamtamOK"
+        }
+      ],
+      "next": "tamtamKO"
+    },
+    "tamtamOK": {
+      "speaker": "griot",
+      "text": "Le lièvre gagne un peu de temps. Mais l'hyène a du flair, et elle finit par le retrouver derrière un étal.",
+      "next": "hyene3",
+      "audio": {
+        "mos": "audio/lievre-hyene/tamtamOK.mos.mp3"
+      }
+    },
+    "tamtamKO": {
+      "speaker": "griot",
+      "text": "Le lièvre reste seul au milieu de la place, bien en vue. L'hyène arrive droit sur lui.",
+      "next": "hyene3",
+      "audio": {
+        "mos": "audio/lievre-hyene/tamtamKO.mos.mp3"
       }
     }
   },

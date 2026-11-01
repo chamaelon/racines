@@ -42,6 +42,9 @@ Après un enregistrement de fiche, recaler les repères de temps du fichier fr.v
 | `public/audio/lievre-hyene/partage2.mos.mp3` | Le griot | On dit qu'ils cultivèrent côte à côte une saison entière. Une saison seulement, car une hyène reste une hyène, mais personne n'eut faim cette année-là. |
 | `public/audio/lievre-hyene/fuite.mos.mp3` | Le griot | Le lièvre n'attend pas la suite. Il bondit entre les pattes de l'hyène et disparaît dans le noir. |
 | `public/audio/lievre-hyene/fuite2.mos.mp3` | Le griot | Il court encore, dit-on. Et depuis ce temps, le lièvre dort d'un œil. |
+| `public/audio/lievre-hyene/tamtam1.mos.mp3` | Le griot | Les tam-tams du marché s'emballent. Si le lièvre suit le rythme, la foule dansera autour de lui, et l'hyène ne le trouvera pas tout de suite. |
+| `public/audio/lievre-hyene/tamtamOK.mos.mp3` | Le griot | Le lièvre gagne un peu de temps. Mais l'hyène a du flair, et elle finit par le retrouver derrière un étal. |
+| `public/audio/lievre-hyene/tamtamKO.mos.mp3` | Le griot | Le lièvre reste seul au milieu de la place, bien en vue. L'hyène arrive droit sur lui. |
 
 ### La légende de Yennenga, en mooré
 
