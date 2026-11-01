@@ -218,3 +218,20 @@ window.BESTIAIRE = {
   pintade: { id: 'A15', nom: 'La Pintade', type: 'oiseau', couleur: '#3a3a48', motif: 'points', teteCouleur: '#e8e0d0', crete: '#c0392b', taille: 55 },
   cameleon: { id: 'A16', nom: 'Le Caméléon', type: 'cameleon', couleur: '#6aa04a', couleur2: '#c8a040', taille: 80 },
 };
+
+/*
+ * Habits communs à plusieurs histoires (à passer comme `costume` : sc.perso(CASTING.x, HABITS.y)).
+ * Les histoires peuvent aussi définir leurs propres COSTUMES locaux.
+ */
+window.HABITS = {
+  garde: { haut: { type: 'tunique', couleur: '#2f3f8f', motif: 'galons', motifCouleur: '#c8323a' }, manches: '#2f3f8f', bas: { type: 'short', couleur: '#2f3f8f' }, ceinture: '#7a4a25', tete: { type: 'chechia', couleur: '#c8323a' } },
+  chasseur: { haut: { type: 'tunique', couleur: '#a0703a', motif: 'amulettes', motifCouleur: '#5a3a20' }, bas: { type: 'short', couleur: '#7a5230' }, tete: { type: 'chasseur' } },
+  marabout: { haut: { type: 'boubou', couleur: '#f4f0e6', motif: 'bandes', motifCouleur: '#c9c0a8', long: 1.8 }, manches: '#f4f0e6', tete: { type: 'turban', couleur: '#f4f0e6' } },
+  cavalier: { haut: { type: 'boubou', couleur: '#24305a', motif: 'bandes', motifCouleur: '#4a5a8a', long: 1.3 }, manches: '#24305a', tete: { type: 'turban', couleur: '#1d2a5c', voile: true } },
+  peul: { haut: { type: 'tunique', couleur: '#3a5a9a', motif: 'bandes', motifCouleur: '#e8eefc' }, bas: { type: 'short', couleur: '#e8dcc0' }, tete: { type: 'chapeau', couleur: '#d9b26a' } },
+  guerrier: { bas: { type: 'pagne', couleur: '#7a4a25' }, ceinture: '#2b1a0e', collier: '#efe6cf', bracelets: '#efe6cf' },
+  notable: { haut: { type: 'boubou', couleur: '#5b3a6a', motif: 'chevrons', motifCouleur: '#e9c46a', long: 1.7 }, manches: '#5b3a6a', tete: { type: 'calotte', couleur: '#efe6cf', motifCouleur: '#5b3a6a' } },
+  forgeron: { bas: { type: 'pagne', couleur: '#5a3a22' }, ceinture: '#2b1a0e', bracelets: '#9aa0a8' },
+  villageois: { haut: { type: 'tunique', couleur: '#6b8f71', motif: 'bandes', motifCouleur: '#2f4a33' }, bas: { type: 'short', couleur: '#e8dcc0' }, tete: null },
+  villageoise: { haut: { type: 'camisole', couleur: '#c8553d' }, bas: { type: 'jupe', couleur: '#efe0bd', motif: 'bandes', motifCouleur: '#7a4a25' }, collier: '#e9c46a' },
+};

@@ -227,3 +227,44 @@
 
   R.G = G;
 })();
+
+/* Ajouts : armes à feu (récits du XIXe et du début du XXe siècle). */
+(function () {
+  const G = R.G;
+  /** Fusil porté canon vers le haut (sur l'épaule), à donner à perso.tenir(…, 'R', { vertical: true }). */
+  G.fusilHaut = () => { const g = R.el('g', { transform: 'rotate(180)' }); g.appendChild(R.D.fusil()); return g; };
+  /** Coup de fusil : éclair au canon et fumée. */
+  G.tir = (tl, parent, x, y, at) => {
+    const f = R.el('circle', { cx: x, cy: y, r: 16, fill: '#fff3b0', opacity: 0 }, parent);
+    tl.fromTo(f, { opacity: 1 }, { opacity: 0, duration: 0.15, immediateRender: false }, at);
+    const fum = R.D.fumee(parent, x, y, 10);
+    R.jaillir(tl, fum, at, Math.round(at * 3), { n: 6, ecart: 14, haut: 50, duree: 1.4 });
+  };
+  /** Groupe de gardes armés : [[x, dir], …]. */
+  G.gardes = (sc, liste, sol, parent) => liste.map(([x, dir]) => {
+    const g = sc.perso(CASTING.guerrier, HABITS.garde, { x, y: sol || 880, dir }, parent);
+    g.arme = g.tenir(G.fusilHaut(), 'R', { vertical: true });
+    g.armeJoue = R.objet(R.D.fusil(), false);
+    g.tenir(g.armeJoue, 'A', { angle: 0 });
+    return g;
+  });
+  /** Épauler : le fusil passe de l'épaule à la position de tir (bras tendu), puis revient après `duree`. */
+  G.epauler = (tl, g, at, duree) => {
+    tl.set(g.arme, { opacity: 0 }, at); tl.set(g.armeJoue, { opacity: 1 }, at);
+    R.pose(tl, g, { bA: 88, cA: 0, bR: 75, cR: 40 }, at, 0.3);
+    if (duree) {
+      tl.set(g.arme, { opacity: 1 }, at + duree); tl.set(g.armeJoue, { opacity: 0 }, at + duree);
+      R.pose(tl, g, { bA: 8, cA: 12, bR: -8, cR: 12 }, at + duree, 0.3);
+    }
+  };
+  /** Silhouettes de villages au loin, avec lueurs de feu (révolte, veillée) : renvoie les lueurs. */
+  G.villagesAuLoin = (parent, n, couleur) => {
+    const lueurs = [];
+    for (let i = 0; i < n; i++) {
+      const x = -200 + i * (2400 / n), y = 800 + (i % 2) * 40;
+      R.D.maison(parent, x, y, 160, 90, { couleur: couleur || '#3a2a26' });
+      lueurs.push(R.el('circle', { cx: x + 60, cy: y - 120, r: 50, fill: '#ff9a3c', opacity: 0, filter: 'url(#flou)' }, parent));
+    }
+    return lueurs;
+  };
+})();

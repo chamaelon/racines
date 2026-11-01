@@ -14,22 +14,10 @@
     cultivateur: { haut: { type: 'tunique', couleur: '#6b8f71', motif: 'bandes', motifCouleur: '#2f4a33' }, bas: { type: 'short', couleur: '#e8dcc0' }, tete: null },
     forgeron: { bas: { type: 'pagne', couleur: '#5a3a22' }, ceinture: '#2b1a0e', bracelets: '#9aa0a8' },
   };
-  /** Fusil porté canon vers le haut (sur l'épaule). */
-  const fusilHaut = () => { const g = R.el('g', { transform: 'rotate(180)' }); g.appendChild(D.fusil()); return g; };
+  const fusilHaut = G.fusilHaut, tir = G.tir;
   /** Pierre à porter sur la tête. */
   const pierre = () => { const g = R.el('g', {}); R.el('path', { d: 'M-24,0 Q-28,-22 -6,-30 Q22,-32 26,-10 Q26,0 -24,0Z', fill: '#8f8478', stroke: '#5a5248', 'stroke-width': 2 }, g); return g; };
-  /** Coup de fusil : éclair au canon et fumée. */
-  function tir(tl, parent, x, y, at) {
-    const f = R.el('circle', { cx: x, cy: y, r: 16, fill: '#fff3b0', opacity: 0 }, parent);
-    tl.fromTo(f, { opacity: 1 }, { opacity: 0, duration: 0.15, immediateRender: false }, at);
-    const fum = D.fumee(parent, x, y, 10);
-    R.jaillir(tl, fum, at, Math.round(at * 3), { n: 6, ecart: 14, haut: 50, duree: 1.4 });
-  }
-  const gardesDe = (sc, liste, parent) => liste.map(([x, dir]) => {
-    const g = sc.perso(C.guerrier, COSTUMES.garde, { x, y: SOL, dir }, parent);
-    g.arme = g.tenir(fusilHaut(), 'R', { vertical: true });
-    return g;
-  });
+  const gardesDe = (sc, liste, parent) => G.gardes(sc, liste, SOL, parent);
 
   // =================================================================== 1 · Le village
   R.scene('Le village', 28, (sc, tl) => {
@@ -267,7 +255,7 @@
     // Échange de tirs : flèches, fumée
     G.tirer(tl, insurges[1], sc.monde, 9, 1180, 640, 0.5);
     G.tirer(tl, insurges[3], sc.monde, 9.6, 1330, 600, 0.6);
-    R.pose(tl, gardes[1], { bR: 90, cR: 0, bA: 90, cA: 20 }, 10, 0.3);
+    G.epauler(tl, gardes[1], 10, 6); G.epauler(tl, gardes[0], 10.4, 5.5);
     tir(tl, sc.monde, 1260, 700, 10.8);
     tir(tl, sc.monde, 1110, 690, 11.6);
     G.tirer(tl, insurges[2], sc.monde, 11.5, 960, 650, 0.5);
