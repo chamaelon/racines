@@ -16,7 +16,8 @@ param(
   [int]$Paralleles = 3,
   [string[]]$Seulement,
   [switch]$Refaire,
-  [switch]$IgnorerMoteur   # ne pas réexporter quand seuls lib/ ou bible/ ont changé
+  [switch]$IgnorerMoteur,  # ne pas réexporter quand seuls lib/ ou bible/ ont changé
+  [int]$PortBase = 9400    # changer pour lancer deux exports-tout en même temps
 )
 $ErrorActionPreference = 'Stop'
 $animations = Split-Path $PSScriptRoot -Parent
@@ -43,7 +44,7 @@ Write-Host "À exporter ($($file.Count)) : $($file -join ', ')"
 
 $pwsh = (Get-Process -Id $PID).Path
 $enCours = @{}
-$port = 9400
+$port = $PortBase
 $queue = [Collections.Queue]::new([object[]]$file)
 while ($queue.Count -or $enCours.Count) {
   while ($queue.Count -and $enCours.Count -lt $Paralleles) {

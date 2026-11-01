@@ -44,6 +44,38 @@ la taille, la forme de tête, la carrure et la coiffure.
 | S02 | `soxo` | 225 px, cornu | cornes, yeux de braise, jupe d'herbes | Soxo, génies de brousse (n°14) |
 | S03 | `kwere` | 310 px, très fin, halo bleu | cheveux-éclairs jaunes | Kwere, esprits du ciel |
 | A01 | `hyene` | quadrupède | — | hyène (n°3, 30) |
+| C09 | `europeen` | 265 px, élancé, peau claire | longue, moustache, casque colonial | commandants, explorateurs, visiteurs |
+| C10 | `guerrier` | 285 px, athlétique | ovale, tresses, barbiche | cavaliers, gardes, héros (Silamaka, Famagan) |
+| C11 | `fille` | 180 px | ronde, grands yeux, tresses | fillettes, jeunes héroïnes |
+| C12 | `vieille` | 200 px, courbée | poire, petits yeux, foulard | grand-mères, devineresses, gardiennes |
+| C13 | `roi` | 262 px, corpulent | ronde large, barbe courte | rois, chefs, tyrans (Bilissi) |
+| C14 | `bebe` | 92 px | grosse tête ronde | nouveau-nés (Ouédraogo) |
+| S04 | `genie` | 132 px, peau verdâtre | cheveux longs, yeux de braise | génies de brousse (kontomblé) |
+| S05 | `esprit` | 300 px, bleuté, halo | ovale allongé | thila, ancêtres, esprits |
+| S06 | `rocher` | 340 px, massif, halo | carrée de pierre | esprits des rochers (Sindou) |
+
+**Habits communs** (`HABITS` dans `personnages.js`) : garde, chasseur (dozo), marabout, cavalier
+(turban voilé), peul (chapeau), guerrier, notable, forgeron, villageois, villageoise. Options
+d'habits : `jambes` (pantalon), `ventre` (femme enceinte), motifs `amulettes`, `boutons`,
+`galons` ; couvre-chefs `turban` (+ `voile`), `casque`, `couronne`, `chasseur`, `calotte`,
+`kepi`, `chechia` ; cheveux `longs` ; barbe `moustache`.
+
+### Bestiaire (`BESTIAIRE`, moteur `lib/betes.js`)
+
+`sc.bete(BESTIAIRE.x, pose)`. Pose : `marche, marcheAmp, tete, gueule, queue, couche, yeux,
+cabre` (cheval), `trompe` (éléphant), `traits` (gazelle), `dresse` (serpent), `gonfle` (crapaud),
+`teinte2`, `langue` (caméléon). `cheval.monter(perso)` met un cavalier en selle.
+
+| Id | Clé | Type | Id | Clé | Type |
+|---|---|---|---|---|---|
+| A01 | `hyene` | (Animal, ancien moteur) | A09 | `crocodile` | crocodile |
+| A02 | `cheval` | quadrupède | A10 | `silure` | poisson |
+| A03 | `chevalBlanc` | quadrupède | A11 | `serpent` | serpent |
+| A04 | `gazelle` | quadrupède | A12 | `crapaud` | crapaud |
+| A05 | `zebu`, `zebuRoux` | quadrupède | A13 | `araignee` | araignée |
+| A06 | `elephant` | quadrupède | A14, A15 | `poule`, `pintade` | oiseau |
+| A07 | `chien` | quadrupède | A16 | `cameleon` | caméléon |
+| A08 | `lievre` | quadrupède | | | |
 
 **Ajouter un personnage** : nouvelle fiche dans `personnages.js` (id suivant), vérifier qu'elle se
 distingue sur la planche, puis l'ajouter à ce tableau.
@@ -58,6 +90,28 @@ distingue sur la planche, puis l'ajouter à ce tableau.
 | D04 | `champ` | champ de mil sec et champ vert superposés (fondus), ciel d'orage | `vert`, `soleil` |
 | D05 | `cour` | muret, maison, grenier, canari | `ciel`, `voute`, `etoiles`, `grenierX` |
 | D06 | `bois` | bois sacré : rideau d'arbres, grand arbre-autel, rônier ; `r.devant()` ajoute des feuillages au premier plan | `ciel` (soir, nuit), `arbreX` |
+| D07 | `tiebele` | cases rondes peintes (Kassena) | `ciel`, `nuit` |
+| D08 | `sahel` | dunes, acacias, cases peules en dôme | `ciel`, `campement` |
+| D09 | `pics` | aiguilles de grès de Sindou | `ciel` |
+| D10 | `gorge` | falaises, cascade, bassin (Dafra) ; `r.cascade`, `r.bassin.eau` | `ciel` |
+| D11 | `riviere` | grand fleuve, rives ; `r.vagues` | `ciel`, `riveProche` |
+| D12 | `forteresse` | enceinte de pierre (Loropéni) | `ciel`, `ruine` |
+| D13 | `ville` | mosquée soudano-sahélienne, maisons | `ciel`, `mosqueeX`, `mosqueeS` |
+| D14 | `poste` | poste colonial, drapeau, chantier | `ciel`, `posteX` |
+| D15 | `soukala` | maison-forteresse lobi, échelle | `ciel`, `maisonX` |
+| D16 | `palais` | cour royale : mur, trône, parasol, tambours | `ciel`, `troneX`, `parasol` |
+
+`brousse` accepte aussi `mare` (x d'un point d'eau) et `nuit`.
+
+Accessoires ajoutés au lot 2 : arc, flèche, lance, fusil, bouclier, sabre, baguette, calebasse,
+torche, sceptre, balafon, tambour, statuette (bateba), pirogue, trône, parasol, autel, cauris,
+drapeau, tas (or, pierres), rocher, mare, fumée ; arbres caïlcédrat et acacia ; case ronde (peinte
+ou non), case en dôme, mosquée, mur de pierre, pic, soukala, poste colonial, dune, falaise.
+
+**Gestes** (`R.G`, `lib/gestes.js`) : saluer, incliner, agenouiller/relever, prier, pointer,
+pleurer, dialogue, frapper, tomber, tirer (arc), épauler et tir (fusil), piocher, piler,
+balafon, notes, forger, flamber, surLaTete, donner, apparition, foule, exprFoule, danseFoule,
+peurFoule, calmeFoule, gardes, cavaliers, chevaucher, villagesAuLoin, sousSol.
 
 Accessoires : mortier, pilon, canari, gerbe, bâton, éventail, feuilles, sac, siège (tronc),
 pluie, éclair, particules, lumière (esprit en vol), nuage ; **forge** : feu (flammes animables),
