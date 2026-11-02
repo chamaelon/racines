@@ -44,7 +44,7 @@ export async function monter(el, ctx) {
     <canvas class="j-canvas" aria-hidden="true"></canvas>
     <div class="j-lecture cache"></div>
     <div class="j-haut">
-      <div class="j-fil" aria-label="Les choix déjà faits"></div>
+      <div class="j-fil" role="group" aria-label="Les choix déjà faits"></div>
       <button type="button" class="j-btn" data-moteur aria-pressed="false">Moteur</button>
       <button type="button" class="j-btn" data-son aria-pressed="true">Son</button>
       <button type="button" class="j-btn" data-pause>Pause</button>
@@ -172,15 +172,15 @@ export async function monter(el, ctx) {
     },
   };
 
-  // ---- Démarrage
+  // ---- Démarrage : l'écran titre n'a besoin que du ciel du premier décor ; Three.js attend le clic.
+  const ciel = DECORS[histoire.nodes[histoire.start].scene].ciel;
+  racine.style.background = `linear-gradient(${ciel[0]}, ${ciel[1]})`;
   async function preparerRendu() {
     if (lecture) return passerEnLecture();
     try {
       const { Rendu } = await import('../scenes/rendu.js');
       if (ctrl.signal.aborted) return null;
       rendu = new Rendu(q('.j-canvas'), { histoire, reduit: reduit(), patrimoine });
-      const n0 = histoire.nodes[histoire.start];
-      if (n0.scene) rendu.charger(n0.scene);
       q('.j-canvas').addEventListener('webglcontextlost', () => { /* le navigateur gère la perte ; le dialogue reste utilisable */ });
     } catch (e) {
       console.warn('3D indisponible, mode lecture :', e);
@@ -194,16 +194,13 @@ export async function monter(el, ctx) {
     const scene = q('.j-lecture');
     scene.classList.remove('cache');
     rendu = new RenduLecture(scene);
-    const n0 = histoire.nodes[histoire.start];
-    if (n0.scene) rendu.charger(n0.scene);
     return rendu;
   }
-  const pretRendu = preparerRendu();
 
   async function lancer(avecSon, sauvegarde) {
     if (avecSon !== undefined) { son = avecSon; store.definirPref('son', son); }
     q('.j-titre').classList.add('cache');
-    await pretRendu;
+    await preparerRendu();
     if (ctrl.signal.aborted) return;
     enJeu = true;
     majSon();
