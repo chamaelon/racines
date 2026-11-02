@@ -1,0 +1,192 @@
+{
+  "id": "tene-balafon",
+  "titre": "Téné et le balafon des génies",
+  "presentation": "Une nuit, une musique plus belle que toutes monte de la brousse. Téné se lève et disparaît. Tu pars avec les chasseurs dozo pour la ramener.",
+  "start": "n1",
+  "personnages": {
+    "griot": {
+      "nom": "Le griot",
+      "style": "griot",
+      "couleur": "#8a5a12"
+    },
+    "tene": {
+      "nom": "Téné",
+      "style": "jeune_fille",
+      "couleur": "#a03a55"
+    },
+    "zie": {
+      "nom": "Le vieux Ziè",
+      "style": "griot",
+      "couleur": "#8a5a12"
+    },
+    "mere": {
+      "nom": "La mère",
+      "style": "femme",
+      "couleur": "#1f6f6b"
+    },
+    "maitre": {
+      "nom": "Le maître dozo",
+      "style": "chasseur",
+      "couleur": "#5a3d1c"
+    },
+    "genie": {
+      "nom": "Le chef des génies",
+      "style": "genie",
+      "couleur": "#264a7a"
+    }
+  },
+  "distribution": {
+    "village": {
+      "tene": -2.4,
+      "zie": 2.4
+    },
+    "veillee": {
+      "mere": -2.4,
+      "zie": 2.4
+    },
+    "bois": {
+      "tene": -3,
+      "maitre": -0.2,
+      "genie": 3
+    },
+    "marche": {
+      "tene": 0.9,
+      "zie": -3.8,
+      "mere": 4.2
+    }
+  },
+  "nodes": {
+    "n1": {
+      "speaker": "griot",
+      "text": "Le soir, au village, le vieux Ziè jouait du balafon. Et Téné dansait. Regarde l'instrument.",
+      "scene": "village",
+      "explore": [
+        "balafon",
+        "bogolan"
+      ],
+      "next": "n2"
+    },
+    "n2": {
+      "speaker": "griot",
+      "text": "Une nuit, une autre musique monte de la brousse, plus belle que celle de Ziè. Téné se lève sans bruit. Elle part vers le son.",
+      "next": "n3"
+    },
+    "n3": {
+      "speaker": "mere",
+      "text": "Téné ! Ma fille n'est plus là !",
+      "scene": "veillee",
+      "next": "n4"
+    },
+    "n4": {
+      "speaker": "zie",
+      "text": "Cette nuit, j'ai entendu jouer en brousse.",
+      "next": "n5"
+    },
+    "n5": {
+      "speaker": "griot",
+      "text": "Les génies ! Que fait la famille ?",
+      "choices": [
+        {
+          "label": "Elle va trouver les chasseurs dozo",
+          "next": "dozo",
+          "tag": "dozo appelés"
+        },
+        {
+          "label": "Le père part seul, tout de suite",
+          "next": "seul",
+          "tag": "père parti seul"
+        }
+      ]
+    },
+    "seul": {
+      "speaker": "griot",
+      "text": "Il marche jusqu'au matin, il appelle, et seule la musique lui répond. Il revient épuisé. Il reste une nuit pour bien faire.",
+      "choices": [
+        {
+          "label": "Aller trouver les dozo",
+          "next": "dozo",
+          "tag": "dozo appelés"
+        },
+        {
+          "label": "Attendre que Téné revienne d'elle-même",
+          "next": "attente",
+          "tag": "attente"
+        }
+      ]
+    },
+    "attente": {
+      "speaker": "griot",
+      "text": "Elle ne revient pas. Les soirs de lune, dit-on, quelqu'un danse encore dans la clairière, sans nom et sans village. Tu pourrais recommencer pour changer cela.",
+      "end": "nuit"
+    },
+    "dozo": {
+      "speaker": "griot",
+      "text": "Le maître consulte ses amulettes et lève son chasse-mouche. Les dozo partent avec leur chien. Au loin, la musique revient.",
+      "next": "n6"
+    },
+    "n6": {
+      "minigame": "rythme",
+      "tags": {
+        "win": "rythme tenu",
+        "lose": "rythme perdu"
+      },
+      "sequence": [
+        3,
+        1,
+        2,
+        0
+      ],
+      "consigne": "Retiens l'air des génies pour guider le chien jusqu'à la clairière.",
+      "gagne": "Le chien lève la tête et file droit : vous tenez la bonne direction.",
+      "perdu": "Vous tournez un moment, puis le chien retrouve la piste.",
+      "next": "n7"
+    },
+    "n7": {
+      "speaker": "griot",
+      "text": "Dans une clairière, les génies jouent à la lune. Téné danse, et elle ne peut plus s'arrêter. Elle a tout oublié : son nom, sa mère, son village.",
+      "scene": "bois",
+      "next": "n8"
+    },
+    "n8": {
+      "speaker": "griot",
+      "text": "Le maître lève son chasse-mouche. Un éclair, et tout s'arrête. Que dit-il ?",
+      "choices": [
+        {
+          "label": "« Rendez cette enfant à sa mère. »",
+          "next": "rendre",
+          "tag": "demande ferme"
+        },
+        {
+          "label": "« Je vous combats tous ! »",
+          "next": "combat",
+          "tag": "menace"
+        }
+      ]
+    },
+    "combat": {
+      "speaker": "genie",
+      "text": "Personne ne combat la brousse chez elle, chasseur. Parle mieux, ou repars seul.",
+      "next": "n9"
+    },
+    "n9": {
+      "speaker": "maitre",
+      "text": "Rendez cette enfant à sa mère.",
+      "next": "rendre"
+    },
+    "rendre": {
+      "speaker": "genie",
+      "text": "Garde ce balafon, enfant. Il est à toi.",
+      "next": "n10"
+    },
+    "n10": {
+      "speaker": "griot",
+      "text": "Téné s'éveille comme d'un long rêve. À la fête des récoltes, elle joue le balafon des génies, et tout le village danse.",
+      "scene": "marche",
+      "end": "canon"
+    }
+  },
+  "fins": {
+    "canon": "Version du griot : le balafon des génies",
+    "nuit": "Autre chemin : Téné danse encore"
+  }
+}

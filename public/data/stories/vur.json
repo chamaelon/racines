@@ -1,0 +1,203 @@
+{
+  "id": "vur",
+  "titre": "Le mystère du vur",
+  "presentation": "Le mil d'Ebéyé a disparu, et tout le village accuse un berger de passage. Tu es parmi les voisins. Le vur n'est jamais montré, et rien ne se dira de lui ici : ce récit parle de ce que la peur fait à un coupable.",
+  "start": "n1",
+  "personnages": {
+    "griot": {
+      "nom": "Le griot",
+      "style": "griot",
+      "couleur": "#8a5a12"
+    },
+    "ebeye": {
+      "nom": "Ebéyé",
+      "style": "vieille",
+      "couleur": "#5b3a6b"
+    },
+    "voisin": {
+      "nom": "Le voisin",
+      "style": "paysan",
+      "couleur": "#6a4a1e"
+    },
+    "ancien": {
+      "nom": "L'ancien",
+      "style": "ancien",
+      "couleur": "#4a4a4a"
+    },
+    "berger": {
+      "nom": "Le berger",
+      "style": "jeune",
+      "couleur": "#2c6e49"
+    },
+    "voleur": {
+      "nom": "Le jeune homme",
+      "style": "forgeron",
+      "couleur": "#3e3626"
+    }
+  },
+  "distribution": {
+    "village": {
+      "voisin": -2.4,
+      "ancien": 0,
+      "berger": 2.8
+    },
+    "veillee": {
+      "voleur": -2.2,
+      "ebeye": 2.2
+    },
+    "brousse": {
+      "ancien": -2,
+      "berger": 2.4
+    }
+  },
+  "nodes": {
+    "n1": {
+      "speaker": "griot",
+      "text": "Dans un village lyela, chacun connaît son voisin, et chacun croit tout savoir de lui. Ebéyé, une veuve, garde dans son grenier tout le mil de l'année. Cette nuit-là, une ombre vide le grenier.",
+      "scene": "veillee",
+      "explore": [
+        "canari"
+      ],
+      "next": "n2"
+    },
+    "n2": {
+      "speaker": "griot",
+      "text": "Au matin, le village s'assemble. Un berger de passage arrive.",
+      "scene": "village",
+      "next": "n3"
+    },
+    "n3": {
+      "speaker": "voisin",
+      "text": "C'est lui ! C'est forcément lui !",
+      "next": "n4"
+    },
+    "n4": {
+      "speaker": "griot",
+      "text": "Il a beau nier, personne ne l'écoute. Et toi, que dis-tu ?",
+      "choices": [
+        {
+          "label": "« Sans preuve, on ne condamne personne. »",
+          "next": "preuve",
+          "tag": "prudence",
+          "set": {
+            "prudent": true
+          }
+        },
+        {
+          "label": "« Chassons-le, on sera tranquilles. »",
+          "next": "chasse",
+          "tag": "accusation"
+        }
+      ]
+    },
+    "chasse": {
+      "speaker": "ancien",
+      "text": "Sans preuve, on ne condamne personne. Tu le sais pourtant.",
+      "next": "n5"
+    },
+    "n5": {
+      "speaker": "griot",
+      "text": "L'ancien te demande de redire ton avis devant tous. Le maintiens-tu ?",
+      "choices": [
+        {
+          "label": "Non, tu retires ce que tu as dit",
+          "next": "preuve",
+          "tag": "avis retiré",
+          "set": {
+            "prudent": true
+          }
+        },
+        {
+          "label": "Oui, le berger doit partir",
+          "next": "injuste",
+          "tag": "avis maintenu"
+        }
+      ]
+    },
+    "injuste": {
+      "speaker": "griot",
+      "text": "La foule te suit. Le berger reprend la route sous les pierres. Mais le mil ne revient pas, et le voleur, lui, reste au village. Ce chemin n'est pas celui du récit.",
+      "end": "injuste"
+    },
+    "preuve": {
+      "speaker": "griot",
+      "text": "Les anciens se réunissent. Personne n'a rien vu, et chacun soupçonne l'autre. Ils décident de s'en remettre au vur.",
+      "next": "n6"
+    },
+    "n6": {
+      "speaker": "griot",
+      "text": "Ils partent vers le lieu du vur. Veux-tu les suivre ?",
+      "choices": [
+        {
+          "label": "Non, ce n'est pas à toi d'y aller",
+          "next": "reste",
+          "tag": "respect"
+        },
+        {
+          "label": "Oui, tu voudrais voir",
+          "next": "voir",
+          "tag": "curiosité"
+        }
+      ]
+    },
+    "voir": {
+      "speaker": "griot",
+      "text": "On n'en dira pas plus. Il n'y a rien à montrer : seulement le vent, une lumière, et le noir. Tu rentres sans rien avoir vu.",
+      "next": "reste"
+    },
+    "reste": {
+      "speaker": "griot",
+      "text": "Les nuits suivantes, un jeune homme ne dort plus. C'est lui qui a pris le mil. Une nuit, il rapporte le sac au pied du grenier. Mais Ebéyé est là.",
+      "scene": "veillee",
+      "next": "n7"
+    },
+    "n7": {
+      "speaker": "voleur",
+      "text": "C'est moi. Pardonne-moi, je n'en peux plus.",
+      "next": "n8"
+    },
+    "n8": {
+      "speaker": "ebeye",
+      "text": "Dis-le à ceux qui ont accusé le berger.",
+      "next": "n9"
+    },
+    "n9": {
+      "minigame": "devinette",
+      "tags": {
+        "win": "bonne réponse",
+        "lose": "réponse manquée"
+      },
+      "question": "Le voleur n'est confondu par personne. Qu'est-ce qui l'a poussé à revenir ?",
+      "reponses": [
+        {
+          "label": "La peur et le remords",
+          "correct": true
+        },
+        {
+          "label": "Une récompense promise"
+        },
+        {
+          "label": "Un témoin qui l'a vu"
+        }
+      ],
+      "gagne": "Oui : la peur et le remords le rongeaient.",
+      "perdu": "Non : personne ne l'a vu. Ce sont la peur et le remords qui le rongeaient.",
+      "next": "n10"
+    },
+    "n10": {
+      "speaker": "ancien",
+      "text": "Tu l'as dit toi-même. C'est bien.",
+      "scene": "brousse",
+      "next": "n11"
+    },
+    "n11": {
+      "speaker": "griot",
+      "text": "On présente des excuses au berger, qui reprend sa route. Et le voleur travaillera le champ de la veuve. Le vur veille, dit-on. La vérité finit toujours par se savoir.",
+      "end": "canon"
+    }
+  },
+  "fins": {
+    "canon": "Version du griot : la vérité se sait toujours",
+    "injuste": "Autre chemin : le berger est chassé, le voleur dort mal"
+  }
+}

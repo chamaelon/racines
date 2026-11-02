@@ -1,0 +1,176 @@
+{
+  "id": "lingani",
+  "titre": "Les Lingani de Tangaré",
+  "presentation": "À Garango, la chefferie a sa règle. Un homme n'attend pas et pose la couronne sur sa tête. Tu accompagnes les anciens. La préparation du chef à Tangaré reste secrète : le jeu n'en montre rien.",
+  "start": "n1",
+  "personnages": {
+    "griot": {
+      "nom": "Le griot",
+      "style": "griot",
+      "couleur": "#8a5a12"
+    },
+    "pretendant": {
+      "nom": "Le prétendant",
+      "style": "cavalier",
+      "couleur": "#6b2d1a"
+    },
+    "ancien": {
+      "nom": "L'ancien",
+      "style": "ancien",
+      "couleur": "#4a4a4a"
+    },
+    "guide": {
+      "nom": "Le guide",
+      "style": "griot",
+      "couleur": "#8a5a12"
+    },
+    "elu": {
+      "nom": "L'élu",
+      "style": "jeune",
+      "couleur": "#2c6e49"
+    }
+  },
+  "distribution": {
+    "palais": {
+      "pretendant": -2,
+      "ancien": 2.4
+    },
+    "brousse": {
+      "guide": -2.2,
+      "elu": 2.2
+    },
+    "village": {
+      "elu": -2,
+      "ancien": 2.4
+    }
+  },
+  "nodes": {
+    "n1": {
+      "speaker": "griot",
+      "text": "À Garango, en pays bissa, la chefferie a sa règle. Elle est ancienne, et elle ne se discute pas. Le chef est mort, et le pays est en deuil. Mais déjà, on regarde la couronne.",
+      "scene": "palais",
+      "next": "n2"
+    },
+    "n2": {
+      "speaker": "pretendant",
+      "text": "Je n'ai besoin de personne.",
+      "next": "n3"
+    },
+    "n3": {
+      "speaker": "griot",
+      "text": "Il pose la couronne lui-même sur sa tête. La couronne glisse et tombe. Il la ramasse. Elle retombe encore. Un orage éclate, et le mil se couche dans les champs.",
+      "explore": [
+        "tambour",
+        "etalon"
+      ],
+      "next": "n4"
+    },
+    "n4": {
+      "speaker": "griot",
+      "text": "Les gens se détournent de lui. Toi, parmi les anciens, que proposes-tu ?",
+      "choices": [
+        {
+          "label": "Aller chercher celui que le conseil a désigné",
+          "next": "elu",
+          "tag": "élu cherché"
+        },
+        {
+          "label": "Lui laisser une dernière chance",
+          "next": "chance",
+          "tag": "dernière chance"
+        }
+      ]
+    },
+    "chance": {
+      "speaker": "griot",
+      "text": "Il remet la couronne. Elle tombe. L'orage redouble. Tous attendent que tu parles.",
+      "choices": [
+        {
+          "label": "Aller chercher l'élu du conseil",
+          "next": "elu",
+          "tag": "élu cherché"
+        },
+        {
+          "label": "Lui dire de la tenir avec les deux mains",
+          "next": "raccourci",
+          "tag": "couronne retenue"
+        }
+      ]
+    },
+    "raccourci": {
+      "speaker": "griot",
+      "text": "Il la tient à deux mains, et il ne peut plus rien faire d'autre. La pluie gâte tout, et le pays perd son chef sans en avoir de nouveau. Cette fin n'est pas dans la légende.",
+      "end": "raccourci"
+    },
+    "elu": {
+      "speaker": "griot",
+      "text": "Les anciens conduisent l'élu sur la route de Tangaré, le village des Lingani, les gardiens du pouvoir.",
+      "scene": "brousse",
+      "next": "n5"
+    },
+    "n5": {
+      "minigame": "devinette",
+      "tags": {
+        "win": "bonne réponse",
+        "lose": "réponse manquée"
+      },
+      "question": "Comment appelle-t-on les gardiens du pouvoir de Tangaré ?",
+      "reponses": [
+        {
+          "label": "Les Lingani",
+          "correct": true
+        },
+        {
+          "label": "Les Dozo"
+        },
+        {
+          "label": "Les Touna"
+        }
+      ],
+      "gagne": "Oui, les Lingani.",
+      "perdu": "Ce sont les Lingani.",
+      "next": "n6"
+    },
+    "n6": {
+      "speaker": "guide",
+      "text": "Voici celui qui vient.",
+      "next": "n7"
+    },
+    "n7": {
+      "speaker": "griot",
+      "text": "L'élu entre dans la case. Nul ne sait ce qui s'y passe. Que feras-tu pendant ce temps ?",
+      "choices": [
+        {
+          "label": "Attendre dehors, avec les autres",
+          "next": "dehors",
+          "tag": "attente"
+        },
+        {
+          "label": "Coller l'oreille à la paroi",
+          "next": "oreille",
+          "tag": "curiosité"
+        }
+      ]
+    },
+    "oreille": {
+      "speaker": "guide",
+      "text": "Écarte-toi. La préparation reste secrète, et nous n'en dirons pas plus.",
+      "next": "dehors"
+    },
+    "dehors": {
+      "speaker": "griot",
+      "text": "Le jour du couronnement arrive. La couronne se pose sur sa tête, et elle tient. Doucement, la pluie revient sur le pays.",
+      "scene": "village",
+      "next": "n8"
+    },
+    "n8": {
+      "speaker": "griot",
+      "text": "Aujourd'hui encore, dit-on, nul ne règne à Garango sans passer par Tangaré. Le pouvoir qu'on prend sans suivre la coutume ne tient pas.",
+      "end": "canon"
+    }
+  },
+  "fins": {
+    "canon": "Version du griot : nul ne règne sans passer par Tangaré",
+    "raccourci": "Autre chemin : la couronne retombe encore"
+  }
+}

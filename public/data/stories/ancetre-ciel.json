@@ -1,0 +1,191 @@
+{
+  "id": "ancetre-ciel",
+  "titre": "L'ancêtre tombé du ciel",
+  "presentation": "Par un trou dans les nuages, un ancêtre et son épouse regardent une terre vide. Une corde de lumière se déroule. Descends avec eux, et aide le premier village à ne pas oublier d'où il vient.",
+  "start": "n1",
+  "personnages": {
+    "griot": {
+      "nom": "Le griot",
+      "style": "griot",
+      "couleur": "#8a5a12"
+    },
+    "ancetre": {
+      "nom": "L'ancêtre",
+      "style": "createur",
+      "couleur": "#8a6a00"
+    },
+    "epouse": {
+      "nom": "Son épouse",
+      "style": "femme",
+      "couleur": "#1f6f6b"
+    },
+    "vieux": {
+      "nom": "Le vieux",
+      "style": "ancien",
+      "couleur": "#4a4a4a"
+    },
+    "enfant": {
+      "nom": "L'enfant",
+      "style": "enfant",
+      "couleur": "#a0670f"
+    },
+    "peintre": {
+      "nom": "Une femme de Tiébélé",
+      "style": "femme",
+      "couleur": "#1f6f6b"
+    }
+  },
+  "distribution": {
+    "ciel": {
+      "ancetre": -2,
+      "epouse": 2
+    },
+    "brousse": {
+      "ancetre": -2.2,
+      "epouse": 2.2
+    },
+    "village": {
+      "vieux": -2.4,
+      "enfant": 2.4
+    },
+    "marche": {
+      "peintre": -1.9,
+      "enfant": 4.2
+    }
+  },
+  "nodes": {
+    "n1": {
+      "speaker": "griot",
+      "text": "Là-haut, au-dessus des nuages, il y avait un pays d'en haut. Rien n'y manquait. Par un trou dans les nuages, l'ancêtre de Kollo regardait la terre.",
+      "scene": "ciel",
+      "next": "n2"
+    },
+    "n2": {
+      "speaker": "griot",
+      "text": "Le monde est vide, sans une case et sans une voix. Une corde de lumière se déroule jusqu'au sol. Descendent-ils ?",
+      "choices": [
+        {
+          "label": "Oui, ils prennent la corde",
+          "next": "descend",
+          "tag": "corde prise"
+        },
+        {
+          "label": "Ils regardent encore un moment",
+          "next": "regarde",
+          "tag": "hésitation"
+        }
+      ]
+    },
+    "regarde": {
+      "speaker": "epouse",
+      "text": "Rien n'y bouge. Si personne n'y va, rien n'y bougera jamais.",
+      "next": "descend"
+    },
+    "descend": {
+      "speaker": "griot",
+      "text": "Longtemps, ils glissent, entre ciel et terre. Une terre vide les attend, là où sera Tiébélé. Le sol est sec. Que faire d'abord ?",
+      "scene": "brousse",
+      "choices": [
+        {
+          "label": "Appeler la pluie du pays d'en haut",
+          "next": "pluie",
+          "tag": "pluie appelée"
+        },
+        {
+          "label": "Bâtir une case tout de suite",
+          "next": "case",
+          "tag": "case d'abord"
+        }
+      ]
+    },
+    "case": {
+      "speaker": "griot",
+      "text": "La terre s'effrite entre leurs mains. Sans eau, on ne bâtit rien, et rien n'y poussera.",
+      "next": "pluie"
+    },
+    "pluie": {
+      "speaker": "ancetre",
+      "text": "Pluie du pays d'en haut, viens à moi !",
+      "next": "n3"
+    },
+    "n3": {
+      "speaker": "griot",
+      "text": "Les nuages s'ouvrent, et la terre boit enfin. Ils bâtissent une première case ronde, et ils ouvrent un champ. Regarde.",
+      "explore": [
+        "case-ronde",
+        "canari"
+      ],
+      "next": "n4"
+    },
+    "n4": {
+      "speaker": "griot",
+      "text": "Les années passent, et des enfants naissent. Les femmes prennent de la terre et des pierres de couleur. Que peignent-elles sur les murs ?",
+      "scene": "village",
+      "choices": [
+        {
+          "label": "Des motifs venus du ciel",
+          "next": "motifs",
+          "tag": "motifs du ciel"
+        },
+        {
+          "label": "Rien : le mur nu suffit",
+          "next": "nu",
+          "tag": "mur nu"
+        }
+      ]
+    },
+    "nu": {
+      "speaker": "griot",
+      "text": "Les enfants grandissent sans plus rien savoir du pays d'en haut. Cette fin n'existe que dans le jeu, car à Tiébélé les femmes ont peint.",
+      "end": "blanc"
+    },
+    "motifs": {
+      "speaker": "vieux",
+      "text": "Notre père est venu d'en haut, souvenez-vous.",
+      "next": "n5"
+    },
+    "n5": {
+      "speaker": "griot",
+      "text": "Bien plus tard, naîtra la chefferie de Tiébélé.",
+      "next": "n6"
+    },
+    "n6": {
+      "speaker": "enfant",
+      "text": "Dis, qui a peint ces murs ?",
+      "scene": "marche",
+      "next": "n7"
+    },
+    "n7": {
+      "minigame": "devinette",
+      "tags": {
+        "win": "bonne réponse",
+        "lose": "réponse manquée"
+      },
+      "question": "Que répond la femme de Tiébélé à l'enfant, d'après ce que tu viens de vivre ?",
+      "reponses": [
+        {
+          "label": "Les femmes : on peint pour ne pas oublier d'où l'on vient",
+          "correct": true
+        },
+        {
+          "label": "Le chef : on peint pour faire peur aux ennemis"
+        },
+        {
+          "label": "Personne : les murs se colorent seuls"
+        }
+      ],
+      "gagne": "Oui : les femmes, pour que personne n'oublie d'où l'on vient.",
+      "perdu": "Non : ce sont les femmes, pour que personne n'oublie d'où l'on vient.",
+      "next": "n8"
+    },
+    "n8": {
+      "speaker": "griot",
+      "text": "À Tiébélé, aujourd'hui, les femmes peignent toujours leurs maisons.",
+      "end": "canon"
+    }
+  },
+  "fins": {
+    "canon": "Version du griot : les murs se souviennent",
+    "blanc": "Autre chemin : des murs sans mémoire"
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "id": "bona-1915",
+  "titre": "Le soulèvement de Bona",
+  "presentation": "1915. Le prédicateur de Datomon annonce la fin d'un pouvoir, et l'administration vient chercher des soldats. Tu suis cela depuis un village marka, jusqu'au serment de Bona. Tes choix changent ton regard, pas les faits.",
+  "start": "n1",
+  "personnages": {
+    "griot": {
+      "nom": "Le griot",
+      "style": "griot",
+      "couleur": "#8a5a12"
+    },
+    "predicateur": {
+      "nom": "Le prédicateur",
+      "style": "marabout",
+      "couleur": "#2c5f6e"
+    },
+    "chefv": {
+      "nom": "Le chef",
+      "style": "ancien",
+      "couleur": "#4a4a4a"
+    },
+    "commandant": {
+      "nom": "Le commandant",
+      "style": "commandant",
+      "couleur": "#5c5a3c"
+    },
+    "mere": {
+      "nom": "Une mère",
+      "style": "femme",
+      "couleur": "#1f6f6b"
+    },
+    "ancien": {
+      "nom": "L'ancien",
+      "style": "griot",
+      "couleur": "#8a5a12"
+    }
+  },
+  "distribution": {
+    "sahel": {
+      "predicateur": -1.8,
+      "mere": 2.6
+    },
+    "village": {
+      "commandant": -2.6,
+      "chefv": 2.4
+    },
+    "veillee": {
+      "ancien": -2.2,
+      "chefv": 2.2
+    },
+    "ruines": {
+      "ancien": -1
+    }
+  },
+  "nodes": {
+    "n1": {
+      "speaker": "griot",
+      "text": "1915. À Datomon, la mosquée se dresse au cœur du pays marka. La guerre des Blancs est loin. Mais ses exigences arrivent jusqu'ici.",
+      "scene": "sahel",
+      "next": "n2"
+    },
+    "n2": {
+      "speaker": "predicateur",
+      "text": "Écoutez ! Un messie viendra. Le pouvoir des Blancs prendra fin.",
+      "next": "n3"
+    },
+    "n3": {
+      "speaker": "griot",
+      "text": "Un prédicateur parle chaque jour devant la mosquée. La foule l'écoute et commence à espérer. Et toi, tu restes l'écouter, ou tu vas voir ce qui se passe plus loin ?",
+      "choices": [
+        {
+          "label": "Tu restes écouter la foule",
+          "next": "foule",
+          "tag": "parmi la foule"
+        },
+        {
+          "label": "Tu vas au village, où l'on parle de recrutement",
+          "next": "recrut",
+          "tag": "vers le village"
+        }
+      ]
+    },
+    "foule": {
+      "speaker": "griot",
+      "text": "« Quand viendra-t-il ? Dis-nous quand ! » Tout le monde veut une date. Puis une autre nouvelle arrive : on recrute.",
+      "next": "recrut"
+    },
+    "recrut": {
+      "speaker": "commandant",
+      "text": "Ils partiront. Ce sont les ordres.",
+      "scene": "village",
+      "next": "n4"
+    },
+    "n4": {
+      "speaker": "chefv",
+      "text": "Nos fils sont nos bras pour les champs.",
+      "next": "n5"
+    },
+    "n5": {
+      "speaker": "griot",
+      "text": "Les gardes emmènent les jeunes hommes. Les mères pleurent au bord du chemin.",
+      "explore": [
+        "faso-dan-fani"
+      ],
+      "next": "n6"
+    },
+    "n6": {
+      "speaker": "griot",
+      "text": "Une nuit, à Bona, les anciens se réunissent autour de l'autel. Ils tendent la main au-dessus de lui, et ils font serment.",
+      "scene": "veillee",
+      "next": "n7"
+    },
+    "n7": {
+      "speaker": "griot",
+      "text": "Dans le noir, les tambours de guerre commencent à parler. Écoute.",
+      "next": "n8"
+    },
+    "n8": {
+      "minigame": "rythme",
+      "tags": {
+        "win": "rythme tenu",
+        "lose": "rythme perdu"
+      },
+      "sequence": [
+        1,
+        0,
+        3,
+        0
+      ],
+      "consigne": "Reproduis le rythme des tambours de guerre de Bona.",
+      "gagne": "Les tambours portent la nouvelle dans la nuit.",
+      "perdu": "Le rythme se cherche, mais les tambours continuent.",
+      "next": "n9"
+    },
+    "n9": {
+      "speaker": "griot",
+      "text": "Le 17 novembre 1915, l'insurrection éclate à Bona. Les flèches répondent aux fusils, derrière le muret de banco, et la colonne recule. La nouvelle court de village en village, et des cavaliers portent le message.",
+      "scene": "course",
+      "next": "n10"
+    },
+    "n10": {
+      "minigame": "course_cheval",
+      "tags": {
+        "win": "course gagnée",
+        "lose": "course perdue"
+      },
+      "consigne": "Porte le message ! Tape vite sur ESPACE ou sur l'écran pour galoper de village en village.",
+      "gagne": "Le message est passé.",
+      "perdu": "D'autres cavaliers prennent le relais.",
+      "next": "n11"
+    },
+    "n11": {
+      "speaker": "griot",
+      "text": "Le soulèvement s'étend aux villages marka et bwa. Mais en 1916, la révolte est réprimée. À Bona, il ne reste que des ruines. Le pays a payé très cher ce refus.",
+      "scene": "ruines",
+      "next": "n12"
+    },
+    "n12": {
+      "speaker": "ancien",
+      "text": "Nos pères ont dit non.",
+      "next": "n13"
+    },
+    "n13": {
+      "minigame": "devinette",
+      "tags": {
+        "win": "bonne réponse",
+        "lose": "réponse manquée"
+      },
+      "question": "À quelle date l'insurrection éclate-t-elle à Bona ?",
+      "reponses": [
+        {
+          "label": "Le 17 novembre 1915",
+          "correct": true
+        },
+        {
+          "label": "Le 5 août 1960"
+        },
+        {
+          "label": "Le 1er janvier 1916"
+        }
+      ],
+      "gagne": "Oui, le 17 novembre 1915.",
+      "perdu": "C'était le 17 novembre 1915.",
+      "route": [
+        {
+          "when": {
+            "devinette": "win"
+          },
+          "next": "bien"
+        }
+      ],
+      "next": "relire"
+    },
+    "relire": {
+      "speaker": "ancien",
+      "text": "Reviens à Bona. Une date se garde comme un serment.",
+      "end": "relire"
+    },
+    "bien": {
+      "speaker": "ancien",
+      "text": "Ne l'oublions pas.",
+      "end": "canon"
+    }
+  },
+  "fins": {
+    "canon": "Mémoire : nos pères ont dit non",
+    "relire": "Mémoire à reprendre : retourne à Bona"
+  }
+}

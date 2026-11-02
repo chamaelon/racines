@@ -1,0 +1,180 @@
+{
+  "id": "maitres-terre",
+  "titre": "Les maîtres de la terre",
+  "presentation": "Le chef des conquérants commande les hommes, mais la terre lui refuse ses fruits. Tu le conseilles : faut-il forcer, ou aller voir le vieil homme qui parle aux autels ?",
+  "start": "n1",
+  "personnages": {
+    "griot": {
+      "nom": "Le griot",
+      "style": "griot",
+      "couleur": "#8a5a12"
+    },
+    "maitre": {
+      "nom": "Le maître de la terre",
+      "style": "ancien",
+      "couleur": "#4a4a4a"
+    },
+    "chef": {
+      "nom": "Le chef des cavaliers",
+      "style": "cavalier",
+      "couleur": "#6b2d1a"
+    },
+    "cavalier": {
+      "nom": "Un cavalier",
+      "style": "garde",
+      "couleur": "#1d2a66"
+    }
+  },
+  "distribution": {
+    "sahel": {
+      "maitre": -2.4,
+      "chef": 2.4
+    },
+    "champ": {
+      "chef": -2.4,
+      "cavalier": 2.4
+    },
+    "village": {
+      "maitre": -2.2,
+      "chef": 2.2
+    }
+  },
+  "nodes": {
+    "n1": {
+      "speaker": "griot",
+      "text": "Le Nord est un pays de sable et de vent. La terre n'y donne rien sans raison. Le maître de la terre descend des premiers occupants. Il connaît les autels.",
+      "scene": "sahel",
+      "next": "n2"
+    },
+    "n2": {
+      "speaker": "maitre",
+      "text": "Terre, reçois ceci, et donne-nous à manger.",
+      "explore": [
+        "canari",
+        "soumbala"
+      ],
+      "next": "n3"
+    },
+    "n3": {
+      "speaker": "griot",
+      "text": "Il fait l'offrande, et le mil pousse. Un jour, des cavaliers viennent d'ailleurs. Ils s'imposent par la force, et leur chef occupe le village.",
+      "next": "n4"
+    },
+    "n4": {
+      "speaker": "griot",
+      "text": "Le chef fait semer ses champs. Mais la terre refuse ses fruits. Rien ne pousse, et ses cavaliers ont faim.",
+      "scene": "champ",
+      "next": "n5"
+    },
+    "n5": {
+      "speaker": "chef",
+      "text": "Mes hommes ont faim. Pourquoi rien ne pousse ?",
+      "next": "n6"
+    },
+    "n6": {
+      "speaker": "griot",
+      "text": "Toi qui le conseilles, que dis-tu ?",
+      "choices": [
+        {
+          "label": "« Va voir le vieil homme. »",
+          "next": "voir",
+          "tag": "conseil de paix"
+        },
+        {
+          "label": "« Fais semer deux fois plus, sous la menace. »",
+          "next": "force",
+          "tag": "conseil de force"
+        }
+      ]
+    },
+    "force": {
+      "speaker": "griot",
+      "text": "On sème deux fois plus. Il pousse deux fois rien. Le chef baisse-t-il enfin les yeux ?",
+      "choices": [
+        {
+          "label": "Oui, il va voir le vieil homme",
+          "next": "voir",
+          "tag": "yeux baissés"
+        },
+        {
+          "label": "Non, il frappe plus fort",
+          "next": "finforce",
+          "tag": "obstination"
+        }
+      ]
+    },
+    "finforce": {
+      "speaker": "griot",
+      "text": "Les cavaliers finissent par partir, le ventre vide. Le pouvoir se conquiert, la terre se respecte. Ce chef ne l'a pas compris.",
+      "end": "force"
+    },
+    "voir": {
+      "speaker": "chef",
+      "text": "Vieux père, ta terre me refuse.",
+      "scene": "village",
+      "next": "n7"
+    },
+    "n7": {
+      "speaker": "maitre",
+      "text": "Elle ne te connaît pas encore.",
+      "next": "n8"
+    },
+    "n8": {
+      "speaker": "chef",
+      "text": "Présente-moi à elle.",
+      "next": "n9"
+    },
+    "n9": {
+      "minigame": "devinette",
+      "tags": {
+        "win": "bonne réponse",
+        "lose": "réponse manquée"
+      },
+      "question": "Quel partage conclut l'accord entre les deux hommes ?",
+      "reponses": [
+        {
+          "label": "Le chef commande les hommes, le maître parle à la terre",
+          "correct": true
+        },
+        {
+          "label": "Le chef parle aux autels, le maître commande"
+        },
+        {
+          "label": "Tous deux quittent le pays"
+        }
+      ],
+      "gagne": "C'est cela : tu commanderas les hommes, et je parlerai à la terre.",
+      "perdu": "Non : le chef commande les hommes, et seul le maître parle à la terre.",
+      "next": "n10"
+    },
+    "n10": {
+      "speaker": "griot",
+      "text": "Seul le maître de la terre parle aux autels. Ensemble, ils font l'offrande, et la pluie revient.",
+      "next": "n11"
+    },
+    "n11": {
+      "speaker": "maitre",
+      "text": "La terre te reconnaît.",
+      "next": "n12"
+    },
+    "n12": {
+      "speaker": "chef",
+      "text": "Puis-je semer ?",
+      "next": "n13"
+    },
+    "n13": {
+      "speaker": "maitre",
+      "text": "Sème, mon fils.",
+      "next": "n14"
+    },
+    "n14": {
+      "speaker": "griot",
+      "text": "Aujourd'hui encore, le chef consulte le maître de la terre.",
+      "end": "canon"
+    }
+  },
+  "fins": {
+    "canon": "Version du griot : sème, mon fils",
+    "force": "Autre chemin : les champs restent vides"
+  }
+}

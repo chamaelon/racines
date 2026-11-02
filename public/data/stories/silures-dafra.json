@@ -1,0 +1,212 @@
+{
+  "id": "silures-dafra",
+  "titre": "Les silures sacrés de Dafra",
+  "presentation": "À Dafra, l'eau et les silures se protègent ensemble. Tu suis Awa jusqu'à la gorge, puis tu restes auprès de Mah, la gardienne, quand un pêcheur étranger arrive.",
+  "start": "n1",
+  "personnages": {
+    "griot": {
+      "nom": "Le griot",
+      "style": "griot",
+      "couleur": "#8a5a12"
+    },
+    "awa": {
+      "nom": "Awa",
+      "style": "femme",
+      "couleur": "#1f6f6b"
+    },
+    "mah": {
+      "nom": "Mah, la gardienne",
+      "style": "vieille",
+      "couleur": "#5b3a6b"
+    },
+    "pecheur": {
+      "nom": "Le pêcheur",
+      "style": "paysan",
+      "couleur": "#6a4a1e"
+    }
+  },
+  "distribution": {
+    "fleuve": {
+      "awa": -3,
+      "mah": 2.6
+    },
+    "village": {
+      "awa": -2.2,
+      "mah": 2.4
+    },
+    "brousse": {
+      "pecheur": -2,
+      "mah": 2.4
+    }
+  },
+  "nodes": {
+    "n1": {
+      "speaker": "griot",
+      "text": "Dans une gorge, à la source du Houet, l'eau tombe en cascade depuis toujours. Sous sa surface vivent de grands poissons moustachus : les silures.",
+      "scene": "fleuve",
+      "next": "n2"
+    },
+    "n2": {
+      "speaker": "griot",
+      "text": "Autour de cette source a grandi Sya, l'ancienne Bobo-Dioulasso. Regarde ce qu'on apporte ici.",
+      "explore": [
+        "calebasse",
+        "tambour"
+      ],
+      "next": "n3"
+    },
+    "n3": {
+      "speaker": "awa",
+      "text": "Silures de Dafra, je vous en prie, donnez-moi un enfant.",
+      "next": "n4"
+    },
+    "n4": {
+      "speaker": "mah",
+      "text": "Fais ton vœu, et attends.",
+      "next": "n5"
+    },
+    "n5": {
+      "speaker": "griot",
+      "text": "Awa a le cœur lourd. Avant de partir, que laisse-t-elle au bord de l'eau ?",
+      "choices": [
+        {
+          "label": "Une offrande pour nourrir les silures",
+          "next": "offrande",
+          "tag": "offrande"
+        },
+        {
+          "label": "Rien, elle a déjà tout dit",
+          "next": "oubli",
+          "tag": "sans offrande"
+        }
+      ]
+    },
+    "oubli": {
+      "speaker": "mah",
+      "text": "On n'oublie pas de nourrir ceux qu'on implore. Reviens avec une poignée de nourriture.",
+      "next": "offrande"
+    },
+    "offrande": {
+      "speaker": "griot",
+      "text": "Un silure saute hors de l'eau. Le vœu est entendu. Et bientôt, Awa berce son enfant.",
+      "next": "n6"
+    },
+    "n6": {
+      "speaker": "griot",
+      "text": "Mais un jour arrive un pêcheur étranger, un harpon sur l'épaule.",
+      "scene": "brousse",
+      "next": "n7"
+    },
+    "n7": {
+      "speaker": "mah",
+      "text": "Ici, personne ne pêche. Ces poissons sont sacrés.",
+      "next": "n8"
+    },
+    "n8": {
+      "speaker": "pecheur",
+      "text": "Des poissons sacrés ! Ils finiront dans ma marmite.",
+      "next": "n9"
+    },
+    "n9": {
+      "speaker": "griot",
+      "text": "Il lance son harpon, prend un silure et repart, content de lui. Derrière lui, le ciel s'assombrit, et la cascade se tarit goutte après goutte.",
+      "next": "n10"
+    },
+    "n10": {
+      "speaker": "griot",
+      "text": "À Sya, les canaris restent vides. Toi qui as tout vu, que fais-tu ?",
+      "choices": [
+        {
+          "label": "Tu pars chercher le pêcheur",
+          "next": "chercher",
+          "tag": "pêcheur recherché",
+          "add": {
+            "pardon": 1
+          }
+        },
+        {
+          "label": "Tu attends que les anciens décident",
+          "next": "attendre",
+          "tag": "attente"
+        }
+      ]
+    },
+    "attendre": {
+      "speaker": "griot",
+      "text": "Les jours passent. Les anciens parlent, l'eau ne revient pas. Le pêcheur, loin de là, tombe malade.",
+      "next": "n11"
+    },
+    "n11": {
+      "speaker": "griot",
+      "text": "Il reste une chance : qu'il revienne de lui-même, ou qu'on aille le trouver.",
+      "choices": [
+        {
+          "label": "Aller le trouver maintenant",
+          "next": "chercher",
+          "tag": "pêcheur recherché",
+          "add": {
+            "pardon": 1
+          }
+        },
+        {
+          "label": "Laisser faire le temps",
+          "next": "seche",
+          "tag": "laissé au temps"
+        }
+      ]
+    },
+    "seche": {
+      "speaker": "griot",
+      "text": "On dit qu'en ce temps-là, la soif a vidé bien des cours de Sya, et que chacun a appris trop tard à quoi tenait la source.",
+      "end": "secheresse"
+    },
+    "chercher": {
+      "speaker": "griot",
+      "text": "Tu le trouves dans son campement, tremblant de fièvre, le silure encore entre ses mains. Il revient avec toi à la gorge.",
+      "next": "n12"
+    },
+    "n12": {
+      "speaker": "pecheur",
+      "text": "Pardonne-moi, gardienne. Je ne savais pas.",
+      "next": "n13"
+    },
+    "n13": {
+      "speaker": "griot",
+      "text": "Il rend le poisson à l'eau. Mah nourrit les silures. Et l'eau revient.",
+      "next": "n14"
+    },
+    "n14": {
+      "minigame": "devinette",
+      "tags": {
+        "win": "bonne réponse",
+        "lose": "réponse manquée"
+      },
+      "question": "Que font encore les visiteurs de Dafra aujourd'hui ?",
+      "reponses": [
+        {
+          "label": "Ils nourrissent les silures et leur confient leurs vœux",
+          "correct": true
+        },
+        {
+          "label": "Ils pêchent le silure pour la fête"
+        },
+        {
+          "label": "Ils remplissent des jarres pour la ville"
+        }
+      ],
+      "gagne": "C'est cela : on nourrit les silures, et on leur confie ses vœux.",
+      "perdu": "Non : à Dafra, on nourrit les silures, et on leur confie ses vœux.",
+      "next": "n15"
+    },
+    "n15": {
+      "speaker": "griot",
+      "text": "On ne prend pas à la légère ce qu'une ville entière protège.",
+      "scene": "fleuve",
+      "end": "canon"
+    }
+  },
+  "fins": {
+    "canon": "Version du griot : l'eau revient à Dafra",
+    "secheresse": "Autre chemin : personne n'a rendu le silure à temps"
+  }
+}

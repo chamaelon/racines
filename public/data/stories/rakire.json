@@ -1,0 +1,189 @@
+{
+  "id": "rakire",
+  "titre": "Le rakiré entre Samo et Mossi",
+  "presentation": "Samo et Mossi se sont battus toute la journée, et personne n'a gagné. La nuit tombe sur les blessés des deux camps. Dans le noir, c'est à toi de tendre la gourde.",
+  "start": "n1",
+  "personnages": {
+    "griot": {
+      "nom": "Le griot",
+      "style": "griot",
+      "couleur": "#8a5a12"
+    },
+    "samo": {
+      "nom": "Le chef samo",
+      "style": "cavalier",
+      "couleur": "#6b2d1a"
+    },
+    "mossi": {
+      "nom": "Le chef mossi",
+      "style": "roi",
+      "couleur": "#2f3f8f"
+    },
+    "femme": {
+      "nom": "La femme samo",
+      "style": "femme",
+      "couleur": "#1f6f6b"
+    },
+    "archer": {
+      "nom": "L'archer samo",
+      "style": "chasseur",
+      "couleur": "#5a3d1c"
+    },
+    "cavalier": {
+      "nom": "Le cavalier mossi",
+      "style": "cavalier",
+      "couleur": "#6b2d1a"
+    }
+  },
+  "distribution": {
+    "champ": {
+      "samo": -2.4,
+      "mossi": 2.4
+    },
+    "veillee": {
+      "archer": -2.2,
+      "cavalier": 2.2
+    },
+    "village": {
+      "samo": -2.2,
+      "mossi": 2.2
+    },
+    "marche": {
+      "archer": -1.9,
+      "cavalier": 4.2
+    }
+  },
+  "nodes": {
+    "n1": {
+      "speaker": "griot",
+      "text": "Dans le pays samo, la vie suivait son cours. Jusqu'à ce jour-là, où des cavaliers mossi approchent dans un nuage de poussière.",
+      "scene": "champ",
+      "next": "n2"
+    },
+    "n2": {
+      "speaker": "mossi",
+      "text": "Cette terre est désormais à nous.",
+      "next": "n3"
+    },
+    "n3": {
+      "speaker": "griot",
+      "text": "Le chef samo appelle ses archers. Les flèches contre les chevaux. On se bat toute la journée, et personne ne gagne.",
+      "next": "n4"
+    },
+    "n4": {
+      "speaker": "griot",
+      "text": "La nuit tombe. Il ne reste que des blessés, des deux camps, tous abandonnés. Un archer et un cavalier se regardent. L'archer a encore de l'eau. Que fait-il ?",
+      "scene": "veillee",
+      "choices": [
+        {
+          "label": "Il tend sa gourde à l'autre",
+          "next": "gourde",
+          "tag": "gourde tendue",
+          "add": {
+            "paix": 1
+          }
+        },
+        {
+          "label": "Il la garde serrée contre lui",
+          "next": "garde",
+          "tag": "gourde gardée"
+        }
+      ]
+    },
+    "garde": {
+      "speaker": "griot",
+      "text": "Le cavalier gémit toute la nuit. Une femme samo arrive, s'arrête devant lui, hésite. Va-t-elle le soigner ?",
+      "choices": [
+        {
+          "label": "Oui, elle le soigne malgré tout",
+          "next": "soin",
+          "tag": "blessé soigné",
+          "add": {
+            "paix": 1
+          }
+        },
+        {
+          "label": "Non, c'est un ennemi",
+          "next": "rancune",
+          "tag": "blessé laissé"
+        }
+      ]
+    },
+    "rancune": {
+      "speaker": "griot",
+      "text": "Au matin, chacun compte ses morts, et chacun jure de les venger. Trop de sang pour rien. Ce n'est pas la fin que l'on raconte, heureusement.",
+      "end": "rancune"
+    },
+    "gourde": {
+      "speaker": "griot",
+      "text": "Une femme samo arrive, s'arrête devant un cavalier mossi. Elle hésite, puis elle le soigne.",
+      "next": "soin"
+    },
+    "soin": {
+      "speaker": "griot",
+      "text": "Un cavalier, à son tour, panse un archer samo. Plus personne ne se souvient du camp de l'autre.",
+      "next": "n5"
+    },
+    "n5": {
+      "speaker": "samo",
+      "text": "Trop de sang pour rien.",
+      "scene": "village",
+      "next": "n6"
+    },
+    "n6": {
+      "speaker": "mossi",
+      "text": "Plus jamais de sang entre nous.",
+      "next": "n7"
+    },
+    "n7": {
+      "speaker": "griot",
+      "text": "Ils boivent, l'un après l'autre, dans la même calebasse. Regarde ce qui les relie.",
+      "explore": [
+        "dolo",
+        "tambour"
+      ],
+      "next": "n8"
+    },
+    "n8": {
+      "speaker": "griot",
+      "text": "Le temps a passé. Au marché, un Samo et un Mossi se croisent. À toi de lancer la plaisanterie.",
+      "scene": "marche",
+      "choices": [
+        {
+          "label": "« Vous, les Mossi, vous mangez trop ! »",
+          "next": "blague",
+          "tag": "plaisanterie"
+        },
+        {
+          "label": "« Toi, je ne te parle pas. »",
+          "next": "froid",
+          "tag": "silence"
+        }
+      ]
+    },
+    "froid": {
+      "speaker": "cavalier",
+      "text": "Comment ? Pas un mot ? Tu veux donc que je croie que vous êtes fâchés ? Vous, les Samo, vous parlez trop !",
+      "next": "n9"
+    },
+    "n9": {
+      "speaker": "archer",
+      "text": "Et vous, les Mossi, vous mangez trop !",
+      "next": "fin"
+    },
+    "blague": {
+      "speaker": "cavalier",
+      "text": "Et vous, les Samo, vous parlez trop !",
+      "next": "fin"
+    },
+    "fin": {
+      "speaker": "griot",
+      "text": "Depuis ce temps, ils se moquent les uns des autres, et personne ne se fâche. C'est le rakiré : une façon de se dire « plus jamais la guerre ».",
+      "end": "canon"
+    }
+  },
+  "fins": {
+    "canon": "Version du griot : plus jamais la guerre",
+    "rancune": "Autre chemin : on recommencera demain"
+  }
+}

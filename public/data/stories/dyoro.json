@@ -1,0 +1,175 @@
+{
+  "id": "dyoro",
+  "titre": "Le Dyoro, la traversée",
+  "presentation": "Les ancêtres lobi ont traversé la Volta noire pour vivre. Tu marches avec eux. Le jeu raconte le passage de la légende et rien de l'initiation : ce qui s'y passe reste secret.",
+  "start": "n1",
+  "personnages": {
+    "griot": {
+      "nom": "Le griot",
+      "style": "griot",
+      "couleur": "#8a5a12"
+    },
+    "doyen": {
+      "nom": "Le doyen",
+      "style": "ancien",
+      "couleur": "#4a4a4a"
+    },
+    "enfant": {
+      "nom": "L'enfant",
+      "style": "enfant",
+      "couleur": "#a0670f"
+    },
+    "ancien": {
+      "nom": "L'ancien",
+      "style": "ancien",
+      "couleur": "#4a4a4a"
+    }
+  },
+  "distribution": {
+    "champ": {
+      "doyen": -2.4,
+      "enfant": 2.4
+    },
+    "fleuve": {
+      "doyen": -2.6,
+      "enfant": 2.2
+    },
+    "village": {
+      "ancien": -2.2,
+      "enfant": 2.2
+    }
+  },
+  "nodes": {
+    "n1": {
+      "speaker": "griot",
+      "text": "Autrefois, sur la rive est de la Volta noire, la terre ne nourrissait plus personne. Le doyen rassemble les siens.",
+      "scene": "champ",
+      "next": "n2"
+    },
+    "n2": {
+      "speaker": "doyen",
+      "text": "Il faut partir. Prenez ce qui compte.",
+      "explore": [
+        "calebasse"
+      ],
+      "next": "n3"
+    },
+    "n3": {
+      "speaker": "griot",
+      "text": "Ils arrivent sur la rive. L'eau est haute, et les crocodiles guettent. Personne n'ose avancer. Que fait le doyen ?",
+      "scene": "fleuve",
+      "choices": [
+        {
+          "label": "Il s'approche seul, et il parle au fleuve",
+          "next": "parle",
+          "tag": "parole au fleuve"
+        },
+        {
+          "label": "Il fait construire des radeaux en silence",
+          "next": "radeaux",
+          "tag": "radeaux"
+        }
+      ]
+    },
+    "radeaux": {
+      "speaker": "griot",
+      "text": "Le premier radeau tourne, et revient à la rive. Le deuxième aussi. Le fleuve ne se laisse pas prendre ainsi. Que décide le doyen ?",
+      "choices": [
+        {
+          "label": "Il va parler au fleuve",
+          "next": "parle",
+          "tag": "parole au fleuve"
+        },
+        {
+          "label": "Il reste ici, sur la mauvaise terre",
+          "next": "rive",
+          "tag": "retour"
+        }
+      ]
+    },
+    "rive": {
+      "speaker": "griot",
+      "text": "Ils restent, et la faim reste avec eux. Cette fin n'existe que dans le jeu : les Lobi, eux, racontent le passage.",
+      "end": "rive"
+    },
+    "parle": {
+      "speaker": "doyen",
+      "text": "Fleuve, laisse passer tes enfants. Nous viendrons te saluer, nous et ceux qui naîtront.",
+      "next": "n4"
+    },
+    "n4": {
+      "speaker": "griot",
+      "text": "La lumière se pose sur l'eau, et les vagues se calment. Ils entrent dans le fleuve main dans la main. Marche à leur rythme, sans rompre la file.",
+      "next": "n5"
+    },
+    "n5": {
+      "minigame": "rythme",
+      "tags": {
+        "win": "rythme tenu",
+        "lose": "rythme perdu"
+      },
+      "sequence": [
+        0,
+        0,
+        2,
+        1
+      ],
+      "consigne": "Reproduis le pas de la file pour traverser sans lâcher les mains.",
+      "gagne": "La file tient, et l'enfant passe sur les épaules des hommes.",
+      "perdu": "La file vacille, on se rattrape, et l'enfant passe sur les épaules des hommes.",
+      "next": "n6"
+    },
+    "n6": {
+      "speaker": "griot",
+      "text": "Les crocodiles les regardent passer, sans attaquer. Sur la rive ouest, ils touchent une terre nouvelle, et ils remercient le fleuve.",
+      "next": "n7"
+    },
+    "n7": {
+      "speaker": "griot",
+      "text": "Bien des générations plus tard, les jeunes refont ce passage : c'est le Dyoro, la grande initiation.",
+      "scene": "village",
+      "next": "n8"
+    },
+    "n8": {
+      "speaker": "enfant",
+      "text": "Et là-bas, qu'est-ce qu'ils font ? Dis-le-moi !",
+      "next": "n9"
+    },
+    "n9": {
+      "speaker": "griot",
+      "text": "Le récit s'arrête ici, car ce qui s'y passe reste secret. Que réponds-tu à l'enfant ?",
+      "choices": [
+        {
+          "label": "« Ils partent en silence, et ils reviennent changés. C'est tout ce qu'on sait. »",
+          "next": "retour",
+          "tag": "récit respecté"
+        },
+        {
+          "label": "« Ça ne se demande pas. Écoutons plutôt les anciens. »",
+          "next": "tait",
+          "tag": "question laissée"
+        }
+      ]
+    },
+    "tait": {
+      "speaker": "griot",
+      "text": "L'enfant baisse les yeux, puis il sourit. Le soir, il écoute les anciens, sans plus rien demander.",
+      "end": "secret"
+    },
+    "retour": {
+      "speaker": "ancien",
+      "text": "Ils ont traversé, comme nous.",
+      "next": "n10"
+    },
+    "n10": {
+      "speaker": "griot",
+      "text": "Le village les accueille en dansant. Le soir, les anciens s'assoient au bord de l'eau. Le fleuve se souvient.",
+      "end": "canon"
+    }
+  },
+  "fins": {
+    "canon": "Version du griot : le fleuve se souvient",
+    "rive": "Autre chemin : on reste sur la rive",
+    "secret": "Le secret gardé : tu as choisi de ne pas demander"
+  }
+}

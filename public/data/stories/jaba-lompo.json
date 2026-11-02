@@ -1,0 +1,185 @@
+{
+  "id": "jaba-lompo",
+  "titre": "Jaba Lompo, le devin ancêtre",
+  "presentation": "Un géant étranger arrive au pays de l'Est sur un cheval blanc, et les gens se méfient. Ce récit est une tradition parmi d'autres sur l'origine des Gulmancé. Jette les cauris avec lui.",
+  "start": "n1",
+  "personnages": {
+    "griot": {
+      "nom": "Le griot",
+      "style": "griot",
+      "couleur": "#8a5a12"
+    },
+    "jaba": {
+      "nom": "Jaba Lompo",
+      "style": "devin",
+      "couleur": "#47306b"
+    },
+    "villageois": {
+      "nom": "Le villageois",
+      "style": "paysan",
+      "couleur": "#6a4a1e"
+    },
+    "enfant": {
+      "nom": "L'enfant",
+      "style": "enfant",
+      "couleur": "#a0670f"
+    },
+    "fils": {
+      "nom": "Son fils",
+      "style": "cavalier",
+      "couleur": "#6b2d1a"
+    }
+  },
+  "distribution": {
+    "ciel": {
+      "jaba": 0
+    },
+    "village": {
+      "jaba": -2.2,
+      "villageois": 2.6,
+      "enfant": 0.4
+    },
+    "brousse": {
+      "jaba": -2.2,
+      "fils": 2.4
+    },
+    "palais": {
+      "jaba": -2,
+      "fils": 2.4
+    }
+  },
+  "nodes": {
+    "n1": {
+      "speaker": "griot",
+      "text": "Les traditions ne s'accordent pas sur l'origine des Gulmancé. Selon l'une d'elles, Jaba Lompo descendit du ciel sur un cheval blanc, au treizième siècle.",
+      "scene": "ciel",
+      "next": "n2"
+    },
+    "n2": {
+      "speaker": "griot",
+      "text": "Celle que voici n'est pas la seule. Écoute-la comme on écoute un voisin.",
+      "next": "n3"
+    },
+    "n3": {
+      "speaker": "villageois",
+      "text": "Qui est ce géant ? Il n'a rien à faire ici. Un enfant est malade, et on n'a pas le temps pour les étrangers.",
+      "scene": "village",
+      "next": "n4"
+    },
+    "n4": {
+      "speaker": "griot",
+      "text": "Tu es au village. Que proposes-tu ?",
+      "choices": [
+        {
+          "label": "De lui amener l'enfant",
+          "next": "enfant",
+          "tag": "confiance"
+        },
+        {
+          "label": "De le renvoyer d'où il vient",
+          "next": "renvoi",
+          "tag": "méfiance"
+        }
+      ]
+    },
+    "renvoi": {
+      "speaker": "griot",
+      "text": "On lui montre le chemin. Il repart sans un mot, et on ne saura jamais ce qu'il savait. Ce chemin n'est pas la tradition rapportée ici.",
+      "end": "mefiance"
+    },
+    "enfant": {
+      "speaker": "jaba",
+      "text": "Amenez-moi cet enfant.",
+      "next": "n5"
+    },
+    "n5": {
+      "speaker": "griot",
+      "text": "Il se penche sur l'enfant malade, et l'enfant se relève. Alors on l'écoute. Il jette les cauris, et il lit l'avenir dans leur chute.",
+      "explore": [
+        "canari",
+        "chapeau-sapone"
+      ],
+      "next": "n6"
+    },
+    "n6": {
+      "minigame": "devinette",
+      "tags": {
+        "win": "bonne réponse",
+        "lose": "réponse manquée"
+      },
+      "question": "Avec quoi Jaba Lompo lit-il l'avenir ?",
+      "reponses": [
+        {
+          "label": "Des cauris",
+          "correct": true
+        },
+        {
+          "label": "Les étoiles"
+        },
+        {
+          "label": "Des feuilles de karité"
+        }
+      ],
+      "gagne": "Oui, les cauris. Et une vision lui apparaît.",
+      "perdu": "Ce sont les cauris. Et une vision lui apparaît.",
+      "next": "n7"
+    },
+    "n7": {
+      "speaker": "jaba",
+      "text": "Là-bas, sur la colline, s'élèvera votre ville.",
+      "next": "n8"
+    },
+    "n8": {
+      "speaker": "griot",
+      "text": "Il marche jusqu'à ce lieu et plante son bâton : ici sera la ville. Ce fut Bingo, qui deviendra Fada N'Gourma. Les maisons montent autour du bâton.",
+      "scene": "brousse",
+      "next": "n9"
+    },
+    "n9": {
+      "speaker": "griot",
+      "text": "On vient de loin pour le consulter. Il est à la fois devin et chef. Ses fils ont grandi. Que leur demande-t-il ?",
+      "choices": [
+        {
+          "label": "De partir fonder d'autres royaumes",
+          "next": "fonder",
+          "tag": "royaumes à fonder"
+        },
+        {
+          "label": "De rester tous autour de lui",
+          "next": "rester",
+          "tag": "fils gardés"
+        }
+      ]
+    },
+    "rester": {
+      "speaker": "fils",
+      "text": "Père, la colline est petite, et nous sommes nombreux. Laisse-nous aller.",
+      "next": "n10"
+    },
+    "n10": {
+      "speaker": "griot",
+      "text": "Jaba Lompo sourit. C'est bien ce qu'il voulait entendre.",
+      "next": "fonder"
+    },
+    "fonder": {
+      "speaker": "jaba",
+      "text": "Mes fils, fondez d'autres royaumes.",
+      "scene": "palais",
+      "next": "n11"
+    },
+    "n11": {
+      "speaker": "griot",
+      "text": "Ils partent dans des directions différentes, pour étendre le pays gulmancé. Fada N'Gourma se souvient de son fondateur.",
+      "next": "n12"
+    },
+    "n12": {
+      "speaker": "griot",
+      "text": "C'est une tradition parmi d'autres, et elle mérite d'être écoutée. Chaque peuple garde son propre récit des commencements.",
+      "end": "canon"
+    }
+  },
+  "fins": {
+    "canon": "Une tradition : Fada N'Gourma se souvient",
+    "mefiance": "Autre chemin : on renvoie l'étranger"
+  }
+}

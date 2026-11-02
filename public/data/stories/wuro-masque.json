@@ -1,0 +1,204 @@
+{
+  "id": "wuro-masque",
+  "titre": "Wuro et le masque de feuilles",
+  "presentation": "Wuro a créé la terre, puis il s'est éloigné. Les hommes se déchirent et le forgeron reste seul devant sa forge éteinte. C'est à toi de le guider jusqu'au masque de feuilles.",
+  "start": "n1",
+  "personnages": {
+    "griot": {
+      "nom": "Le griot",
+      "style": "griot",
+      "couleur": "#8a5a12"
+    },
+    "wuro": {
+      "nom": "Wuro",
+      "style": "createur",
+      "couleur": "#8a6a00"
+    },
+    "forgeron": {
+      "nom": "Le forgeron",
+      "style": "forgeron",
+      "couleur": "#3e3626"
+    },
+    "jeune": {
+      "nom": "Le jeune",
+      "style": "jeune",
+      "couleur": "#2c6e49"
+    },
+    "cultivateur": {
+      "nom": "Le cultivateur",
+      "style": "paysan",
+      "couleur": "#6a4a1e"
+    },
+    "dwo": {
+      "nom": "Dwo",
+      "style": "masque",
+      "couleur": "#3f5f1e"
+    },
+    "ancien": {
+      "nom": "L'Ancien",
+      "style": "ancien",
+      "couleur": "#4a4a4a"
+    }
+  },
+  "distribution": {
+    "ciel": {
+      "wuro": 0
+    },
+    "champ": {
+      "cultivateur": -2.4,
+      "jeune": 2.4
+    },
+    "veillee": {
+      "forgeron": -1
+    },
+    "bois": {
+      "wuro": 2.6,
+      "forgeron": -2.6,
+      "dwo": 0
+    },
+    "village": {
+      "dwo": 0,
+      "ancien": -3,
+      "forgeron": 3
+    }
+  },
+  "nodes": {
+    "n1": {
+      "speaker": "griot",
+      "text": "Au commencement, il n'y avait que la nuit. Puis Wuro abaissa les mains, et la terre monta. Il lança une boule de feu vers l'horizon : ce fut le soleil.",
+      "scene": "ciel",
+      "next": "n2"
+    },
+    "n2": {
+      "speaker": "wuro",
+      "text": "La terre est belle, mais personne ne la foule.",
+      "next": "n3"
+    },
+    "n3": {
+      "speaker": "griot",
+      "text": "Wuro modèle un tertre, et un homme en sort, massif et silencieux. Que lui donne-t-il d'abord ?",
+      "choices": [
+        {
+          "label": "Le feu et l'enclume",
+          "next": "feu",
+          "tag": "le feu reçu"
+        },
+        {
+          "label": "Une maison toute faite",
+          "next": "maison",
+          "tag": "une maison demandée"
+        }
+      ]
+    },
+    "maison": {
+      "speaker": "wuro",
+      "text": "Une maison se bâtit. Prends d'abord le feu, et le marteau.",
+      "next": "feu"
+    },
+    "feu": {
+      "speaker": "griot",
+      "text": "L'homme frappe, et la première houe naît. Il est forgeron. Il donne une houe à chacun, le mil se lève, et Wuro s'éloigne dans le ciel. Mais sans lui, les hommes oublient vite.",
+      "scene": "champ",
+      "next": "n4"
+    },
+    "n4": {
+      "speaker": "cultivateur",
+      "text": "Recule ta houe, ce champ est à moi !",
+      "next": "n5"
+    },
+    "n5": {
+      "speaker": "jeune",
+      "text": "Ton champ s'arrête au piquet !",
+      "next": "n6"
+    },
+    "n6": {
+      "speaker": "griot",
+      "text": "Un tourbillon de poussière traverse le village, arrache le toit d'un grenier. Un enfant pleure.",
+      "next": "n7"
+    },
+    "n7": {
+      "speaker": "griot",
+      "text": "Cette nuit-là, le forgeron reste seul devant sa forge éteinte. Que fait-il ?",
+      "scene": "veillee",
+      "choices": [
+        {
+          "label": "Il appelle Wuro",
+          "next": "appel",
+          "tag": "Wuro appelé"
+        },
+        {
+          "label": "Il va dormir, ce n'est plus son affaire",
+          "next": "dormir",
+          "tag": "abandon"
+        }
+      ]
+    },
+    "dormir": {
+      "speaker": "griot",
+      "text": "Le lendemain, le tourbillon revient. Puis encore le lendemain. La forge reste froide, et on ne sait plus à qui le champ appartient.",
+      "end": "seul"
+    },
+    "appel": {
+      "speaker": "forgeron",
+      "text": "Wuro ! Les hommes se déchirent. Réponds-moi !",
+      "next": "n8"
+    },
+    "n8": {
+      "speaker": "griot",
+      "text": "Une étoile grossit, puis glisse vers le bois sacré. Le forgeron y entre. Les feuilles du grand arbre tombent et forment un costume, surmonté d'un masque de bois.",
+      "scene": "bois",
+      "next": "n9"
+    },
+    "n9": {
+      "speaker": "wuro",
+      "text": "Voici mon fils, Dwo. Toi, forgeron, porte-le. Va. Rends-leur l'ordre.",
+      "next": "n10"
+    },
+    "n10": {
+      "speaker": "griot",
+      "text": "À l'aube, les feuilles frémissent au-dessus d'un toit. Dwo sort. Les villageois reculent. Mais l'Ancien s'avance, le reconnaît et s'incline.",
+      "scene": "village",
+      "next": "n11"
+    },
+    "n11": {
+      "speaker": "griot",
+      "text": "Dwo danse, et tout le village frappe dans ses mains. Suis la cadence !",
+      "explore": [
+        "case-ronde",
+        "tambour"
+      ],
+      "next": "n12"
+    },
+    "n12": {
+      "minigame": "rythme",
+      "tags": {
+        "win": "rythme tenu",
+        "lose": "rythme perdu"
+      },
+      "sequence": [
+        2,
+        0,
+        2,
+        1
+      ],
+      "consigne": "Frappe le rythme de la danse de Dwo.",
+      "gagne": "Le village entier suit la danse.",
+      "perdu": "Le rythme hésite, mais Dwo danse quand même.",
+      "next": "n13"
+    },
+    "n13": {
+      "speaker": "griot",
+      "text": "Il secoue ses feuilles entre les deux querelleurs. Ils baissent les bras et se serrent la main. Le tourbillon revient : Dwo lui fait face, et le tourbillon s'éteint.",
+      "next": "n14"
+    },
+    "n14": {
+      "speaker": "griot",
+      "text": "Depuis ce jour, quand le désordre revient, on sort le masque de feuilles. Et là-haut, une étoile veille.",
+      "end": "canon"
+    }
+  },
+  "fins": {
+    "canon": "Version du griot : le masque rend l'ordre",
+    "seul": "Autre chemin : la forge reste éteinte"
+  }
+}

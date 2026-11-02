@@ -1,0 +1,178 @@
+{
+  "id": "obire",
+  "titre": "Le royaume gan d'Obiré",
+  "presentation": "À Obiré, le vieux roi s'éteint et le trône ne doit pas rester vide. Tu suis le jeune messager de la cour. Le jeu ne montre rien de la préparation secrète du roi, et tes choix ne changent pas l'histoire.",
+  "start": "n1",
+  "personnages": {
+    "griot": {
+      "nom": "Le griot",
+      "style": "griot",
+      "couleur": "#8a5a12"
+    },
+    "roi": {
+      "nom": "Le vieux roi",
+      "style": "roi",
+      "couleur": "#2f3f8f"
+    },
+    "visiteur": {
+      "nom": "Le visiteur",
+      "style": "marabout",
+      "couleur": "#2c5f6e"
+    },
+    "ancien": {
+      "nom": "L'ancien",
+      "style": "ancien",
+      "couleur": "#4a4a4a"
+    },
+    "prince": {
+      "nom": "Le prince",
+      "style": "jeune",
+      "couleur": "#2c6e49"
+    },
+    "messager": {
+      "nom": "Le messager",
+      "style": "enfant",
+      "couleur": "#a0670f"
+    }
+  },
+  "distribution": {
+    "palais": {
+      "roi": -2.4,
+      "visiteur": 2.6
+    },
+    "bois": {
+      "ancien": -2.2,
+      "messager": 2.2
+    },
+    "village": {
+      "prince": -2.2,
+      "ancien": 2.2
+    }
+  },
+  "nodes": {
+    "n1": {
+      "speaker": "griot",
+      "text": "À Obiré, dans le sud-ouest du Burkina, la royauté gan se transmet depuis des générations. Le vieux roi reçoit dans sa cour.",
+      "scene": "palais",
+      "next": "n2"
+    },
+    "n2": {
+      "speaker": "griot",
+      "text": "Devant le roi, on s'agenouille. Comment se présente le visiteur ?",
+      "choices": [
+        {
+          "label": "À genoux, avec des salutations",
+          "next": "genoux",
+          "tag": "salutations"
+        },
+        {
+          "label": "Debout, en appelant le roi par son nom",
+          "next": "debout",
+          "tag": "maladresse"
+        }
+      ]
+    },
+    "debout": {
+      "speaker": "griot",
+      "text": "Un murmure traverse la cour. Le visiteur comprend, et il s'agenouille comme les autres.",
+      "next": "genoux"
+    },
+    "genoux": {
+      "speaker": "visiteur",
+      "text": "Puissant roi, nous t'apportons nos salutations.",
+      "next": "n3"
+    },
+    "n3": {
+      "speaker": "roi",
+      "text": "Soyez les bienvenus chez moi.",
+      "next": "n4"
+    },
+    "n4": {
+      "speaker": "griot",
+      "text": "Mais le roi tousse. Il est fatigué, et tout le monde le voit. Un soir, la nouvelle tombe : le roi est mort.",
+      "next": "n5"
+    },
+    "n5": {
+      "speaker": "griot",
+      "text": "Les tambours l'annoncent. Regarde celui qui porte la nouvelle.",
+      "explore": [
+        "tambour"
+      ],
+      "next": "n6"
+    },
+    "n6": {
+      "minigame": "rythme",
+      "tags": {
+        "win": "rythme tenu",
+        "lose": "rythme perdu"
+      },
+      "sequence": [
+        0,
+        3,
+        0,
+        3
+      ],
+      "consigne": "Les tambours annoncent le deuil au pays. Reproduis leur rythme.",
+      "gagne": "Le message porte jusqu'aux derniers villages.",
+      "perdu": "Le rythme tremble, mais d'autres tambours le reprennent.",
+      "next": "n7"
+    },
+    "n7": {
+      "speaker": "griot",
+      "text": "Le cortège prend le chemin du bois, vers les tombeaux des rois.",
+      "scene": "bois",
+      "next": "n8"
+    },
+    "n8": {
+      "speaker": "ancien",
+      "text": "Ancêtres, un des vôtres vous rejoint.",
+      "next": "n9"
+    },
+    "n9": {
+      "speaker": "griot",
+      "text": "Ici, les rois disparus veillent toujours sur leur peuple. Le conseil des anciens se réunit, les cauris sont jetés, et un prince est choisi. On le conduit à l'écart.",
+      "next": "n10"
+    },
+    "n10": {
+      "speaker": "messager",
+      "text": "Il est préparé en secret, loin des regards. Dois-je aller voir ?",
+      "next": "n11"
+    },
+    "n11": {
+      "speaker": "griot",
+      "text": "Toi qui le demandes, que fais-tu ?",
+      "choices": [
+        {
+          "label": "Tu restes là où on t'a dit d'attendre",
+          "next": "attend",
+          "tag": "respect du secret"
+        },
+        {
+          "label": "Tu t'approches pour regarder",
+          "next": "regard",
+          "tag": "curiosité"
+        }
+      ]
+    },
+    "regard": {
+      "speaker": "ancien",
+      "text": "Ce qui se fait là-bas n'est pas pour tes yeux, ni pour ce récit. Rentre chez toi. Tu ne verras pas le jour de l'intronisation depuis la cour.",
+      "end": "regard"
+    },
+    "attend": {
+      "speaker": "griot",
+      "text": "Le jour de l'intronisation arrive. Le parasol royal s'ouvre au-dessus du nouveau roi. Les tambours et les danses disent au pays que la chaîne n'est pas rompue.",
+      "scene": "village",
+      "next": "n12"
+    },
+    "n12": {
+      "speaker": "griot",
+      "text": "Aujourd'hui encore, la royauté gan continue à Obiré. Un royaume survit à ses rois par les règles de leur succession.",
+      "end": "canon"
+    }
+  },
+  "fins": {
+    "canon": "La chaîne n'est pas rompue",
+    "regard": "Tu as voulu trop en voir"
+  }
+}

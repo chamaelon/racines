@@ -1,0 +1,201 @@
+{
+  "id": "naaba-wobgo",
+  "titre": "Naaba Wobgo et la résistance de 1896",
+  "presentation": "En 1896, Ouagadougou est la capitale d'un royaume mossi ancien, et une colonne française marche sur elle. Tu suis les événements comme jeune page de la cour. Tes choix changent ton regard, jamais les faits, et les sources ne s'accordent pas sur tous les détails.",
+  "start": "n1",
+  "personnages": {
+    "griot": {
+      "nom": "Le griot",
+      "style": "griot",
+      "couleur": "#8a5a12"
+    },
+    "naaba": {
+      "nom": "Naaba Wobgo",
+      "style": "roi",
+      "couleur": "#2f3f8f"
+    },
+    "ferguson": {
+      "nom": "George Ekem Ferguson",
+      "style": "explorateur",
+      "couleur": "#6a5a2c"
+    },
+    "voulet": {
+      "nom": "Paul Voulet",
+      "style": "commandant",
+      "couleur": "#5c5a3c"
+    },
+    "page": {
+      "nom": "Le page",
+      "style": "enfant",
+      "couleur": "#a0670f"
+    },
+    "griotte": {
+      "nom": "La griotte",
+      "style": "griotte",
+      "couleur": "#7a3b1d"
+    }
+  },
+  "distribution": {
+    "palais": {
+      "naaba": -2,
+      "ferguson": 2.4
+    },
+    "village": {
+      "naaba": -2.2,
+      "page": 2.2
+    },
+    "brousse": {
+      "naaba": -2.2,
+      "page": 2.2
+    },
+    "nuit": {
+      "voulet": -1
+    }
+  },
+  "nodes": {
+    "n1": {
+      "speaker": "griot",
+      "text": "À la fin du XIXe siècle, Ouagadougou est la capitale d'un royaume mossi ancien. Son souverain, Boukary Koutou, a pris à son avènement le nom de Naaba Wobgo.",
+      "scene": "palais",
+      "explore": [
+        "tambour"
+      ],
+      "next": "n2"
+    },
+    "n2": {
+      "speaker": "griot",
+      "text": "En 1894, il signe un traité d'amitié avec George Ekem Ferguson, envoyé des Britanniques. Les Français contestent cet accord : ils convoitent eux aussi la région.",
+      "next": "n3"
+    },
+    "n3": {
+      "speaker": "ferguson",
+      "text": "Voici le traité. Il parle d'amitié entre nous.",
+      "next": "n4"
+    },
+    "n4": {
+      "speaker": "griot",
+      "text": "Toi, le page, que regardes-tu pendant que l'on signe ?",
+      "choices": [
+        {
+          "label": "Le visage du souverain, qui ne dit rien de plus",
+          "next": "visage",
+          "tag": "la cour"
+        },
+        {
+          "label": "La route : on dit que d'autres arrivent",
+          "next": "route",
+          "tag": "la route"
+        }
+      ]
+    },
+    "visage": {
+      "speaker": "griot",
+      "text": "Il sait qu'un papier n'arrête pas une colonne. Mais c'est aujourd'hui tout ce qu'on lui propose.",
+      "next": "colonne"
+    },
+    "route": {
+      "speaker": "griot",
+      "text": "Tu entends parler d'hommes en armes loin au sud et à l'ouest. Personne n'en sait encore beaucoup.",
+      "next": "colonne"
+    },
+    "colonne": {
+      "speaker": "griot",
+      "text": "En 1896, la colonne de Paul Voulet et Julien Chanoine marche sur le pays mossi.",
+      "scene": "nuit",
+      "next": "n5"
+    },
+    "n5": {
+      "speaker": "voulet",
+      "text": "Ouagadougou sera prise.",
+      "next": "n6"
+    },
+    "n6": {
+      "speaker": "griot",
+      "text": "Naaba Wobgo tente de résister, et sa ville est incendiée. Voulet s'empare de Ouagadougou.",
+      "next": "n7"
+    },
+    "n7": {
+      "speaker": "griot",
+      "text": "Le page doit-il rester ou fuir avec le souverain ? L'histoire sera la même, seul ton récit change.",
+      "choices": [
+        {
+          "label": "Rester et voir ce que devient la ville",
+          "next": "ville",
+          "tag": "témoin de la ville"
+        },
+        {
+          "label": "Suivre le souverain",
+          "next": "suivre",
+          "tag": "avec le souverain"
+        }
+      ]
+    },
+    "ville": {
+      "speaker": "griot",
+      "text": "Le souverain est déposé, et Voulet installe à sa place son frère Sighiri. Les sources ne s'accordent pas sur la date exacte de cette déposition.",
+      "scene": "village",
+      "next": "quiz"
+    },
+    "suivre": {
+      "speaker": "naaba",
+      "text": "Je demande de l'aide aux Britanniques.",
+      "scene": "brousse",
+      "next": "n8"
+    },
+    "n8": {
+      "speaker": "griot",
+      "text": "L'aide ne vient pas. Le souverain est déposé, et son frère Sighiri installé à sa place. Les sources ne s'accordent pas sur les conditions exactes de sa fuite.",
+      "next": "quiz"
+    },
+    "quiz": {
+      "speaker": "griot",
+      "text": "Il se réfugie en Gold Coast, l'actuel Ghana, et il y meurt en 1904.",
+      "next": "n9"
+    },
+    "n9": {
+      "minigame": "devinette",
+      "tags": {
+        "win": "bonne réponse",
+        "lose": "réponse manquée"
+      },
+      "question": "En quelle année la colonne de Voulet et Chanoine marche-t-elle sur le pays mossi ?",
+      "reponses": [
+        {
+          "label": "1896",
+          "correct": true
+        },
+        {
+          "label": "1904"
+        },
+        {
+          "label": "1960"
+        }
+      ],
+      "gagne": "Oui, en 1896.",
+      "perdu": "C'était en 1896. 1904 est l'année de sa mort.",
+      "route": [
+        {
+          "when": {
+            "devinette": "win"
+          },
+          "next": "bien"
+        }
+      ],
+      "next": "relire"
+    },
+    "relire": {
+      "speaker": "griotte",
+      "text": "Reviens m'écouter : ces dates, on les doit à ceux qui les ont vécues.",
+      "end": "relire"
+    },
+    "bien": {
+      "speaker": "griot",
+      "text": "À retenir : la conquête du pays mossi s'est faite par la force, face à un souverain qui a refusé de se soumettre.",
+      "end": "canon"
+    }
+  },
+  "fins": {
+    "canon": "Mémoire : un souverain qui a refusé de se soumettre",
+    "relire": "Mémoire à reprendre : réécoute les dates"
+  }
+}
