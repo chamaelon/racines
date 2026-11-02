@@ -1,0 +1,655 @@
+{
+ "id": "loropeni",
+ "titre": "Les ruines de Loropéni",
+ "peuple": "Gan, Lohron / Koulango",
+ "langues_cibles": [
+  "fr",
+  "gan"
+ ],
+ "pistes": [
+  {
+   "id": "titre",
+   "type": "titre",
+   "chemin": "titre",
+   "texte": "Les ruines de Loropéni"
+  },
+  {
+   "id": "presentation",
+   "type": "presentation",
+   "chemin": "presentation",
+   "texte": "De longs murs de pierre sortent de la brousse. Qui les a bâtis, et pourquoi ? Remonte le temps, choisis ce que tu veux voir, puis réponds à l'enquête. Tes choix changent ce que tu découvres, jamais les faits."
+  },
+  {
+   "id": "personnages.griot.nom",
+   "type": "personnage",
+   "chemin": "personnages.griot.nom",
+   "texte": "Le griot"
+  },
+  {
+   "id": "personnages.guide.nom",
+   "type": "personnage",
+   "chemin": "personnages.guide.nom",
+   "texte": "La guide"
+  },
+  {
+   "id": "personnages.chef.nom",
+   "type": "personnage",
+   "chemin": "personnages.chef.nom",
+   "texte": "Le chef"
+  },
+  {
+   "id": "personnages.orfevre.nom",
+   "type": "personnage",
+   "chemin": "personnages.orfevre.nom",
+   "texte": "L'orfèvre"
+  },
+  {
+   "id": "personnages.marchand.nom",
+   "type": "personnage",
+   "chemin": "personnages.marchand.nom",
+   "texte": "Le marchand"
+  },
+  {
+   "id": "personnages.laveuse.nom",
+   "type": "personnage",
+   "chemin": "personnages.laveuse.nom",
+   "texte": "La laveuse d'or"
+  },
+  {
+   "id": "fins.canon",
+   "type": "fin",
+   "chemin": "fins.canon",
+   "texte": "Enquête réussie : le mystère reste entier, les pierres aussi"
+  },
+  {
+   "id": "fins.hate",
+   "type": "fin",
+   "chemin": "fins.hate",
+   "texte": "Enquête à reprendre : les pierres ont encore à dire"
+  },
+  {
+   "id": "n1",
+   "type": "replique",
+   "chemin": "nodes.n1.text",
+   "noeud": "n1",
+   "partie": "Les murs dans la brousse (jeu)",
+   "personnage": "La guide",
+   "intonation": "grave",
+   "intonation_statut": "proposée",
+   "texte": "Aujourd'hui, dans le sud-ouest du Burkina, de longs murs de pierre sortent de la brousse. Remontons le temps : les pierres se relèvent, une à une.",
+   "genre": "adulte/femme",
+   "duree_ms": 11080,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n2",
+   "type": "replique",
+   "chemin": "nodes.n2.text",
+   "noeud": "n2",
+   "partie": "La forteresse relevée (jeu)",
+   "personnage": "Le chef",
+   "intonation": "vif",
+   "intonation_statut": "proposée",
+   "texte": "Plus haut, ce mur doit tenir des siècles !",
+   "genre": "adulte/homme",
+   "duree_ms": 3870,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n3",
+   "type": "replique",
+   "chemin": "nodes.n3.text",
+   "noeud": "n3",
+   "partie": "La forteresse relevée (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Les Lohron ou les Koulango, ancêtres des chefs Touna, occupent le lieu. Leurs murs de latérite montent, rangée après rangée. Que veux-tu voir d'abord ?",
+   "genre": "adulte/homme",
+   "duree_ms": 10850,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n3.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.n3.choices.0.label",
+   "texte": "D'où vient l'or"
+  },
+  {
+   "id": "nodes.n3.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.n3.choices.0.tag",
+   "texte": "la piste de l'or"
+  },
+  {
+   "id": "nodes.n3.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.n3.choices.1.label",
+   "texte": "Comment on l'échange"
+  },
+  {
+   "id": "nodes.n3.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.n3.choices.1.tag",
+   "texte": "le marché"
+  },
+  {
+   "id": "or",
+   "type": "replique",
+   "chemin": "nodes.or.text",
+   "noeud": "or",
+   "partie": "L'or du gravier (jeu)",
+   "personnage": "La laveuse d'or",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "On lave le gravier à la calebasse. Au fond, quelques paillettes brillent. C'est long et dur, mais ces grains font la richesse de tout un pays.",
+   "genre": "adulte/femme",
+   "duree_ms": 11080,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n4",
+   "type": "replique",
+   "chemin": "nodes.n4.text",
+   "noeud": "n4",
+   "partie": "L'or du gravier (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Veux-tu voir aussi le marché ?",
+   "genre": "adulte/homme",
+   "duree_ms": 2580,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n4.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.n4.choices.0.label",
+   "texte": "Oui, allons voir les marchands"
+  },
+  {
+   "id": "nodes.n4.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.n4.choices.0.tag",
+   "texte": "le marché"
+  },
+  {
+   "id": "nodes.n4.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.n4.choices.1.label",
+   "texte": "Non, passons à la suite"
+  },
+  {
+   "id": "nodes.n4.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.n4.choices.1.tag",
+   "texte": "marché négligé"
+  },
+  {
+   "id": "echange",
+   "type": "replique",
+   "chemin": "nodes.echange.text",
+   "noeud": "echange",
+   "partie": "Les marchands (jeu)",
+   "personnage": "Le griot",
+   "intonation": "joyeux",
+   "intonation_statut": "proposée",
+   "texte": "Dans la forteresse, les orfèvres fondent l'or. Les marchands arrivent de loin, et ils échangent le sel et les étoffes contre l'or.",
+   "genre": "adulte/homme",
+   "duree_ms": 9260,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n5",
+   "type": "replique",
+   "chemin": "nodes.n5.text",
+   "noeud": "n5",
+   "partie": "Les marchands (jeu)",
+   "personnage": "L'orfèvre",
+   "intonation": "joyeux",
+   "intonation_statut": "proposée",
+   "texte": "Touche-le : il est pur.",
+   "genre": "adulte/homme",
+   "duree_ms": 2350,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n6",
+   "type": "replique",
+   "chemin": "nodes.n6.text",
+   "noeud": "n6",
+   "partie": "Les marchands (jeu)",
+   "personnage": "Le marchand",
+   "intonation": "joyeux",
+   "intonation_statut": "proposée",
+   "texte": "Beau, mais trop cher pour moi.",
+   "genre": "âgé/homme",
+   "duree_ms": 2730,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n7",
+   "type": "replique",
+   "chemin": "nodes.n7.text",
+   "noeud": "n7",
+   "partie": "Les marchands (jeu)",
+   "personnage": "L'orfèvre",
+   "intonation": "vif",
+   "intonation_statut": "proposée",
+   "texte": "Alors, plus de sel !",
+   "genre": "adulte/homme",
+   "duree_ms": 2350,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "abandon",
+   "type": "replique",
+   "chemin": "nodes.abandon.text",
+   "noeud": "abandon",
+   "partie": "L'abandon, puis 2009 (jeu)",
+   "personnage": "La guide",
+   "intonation": "grave",
+   "intonation_statut": "proposée",
+   "texte": "Puis la forteresse est abandonnée. Personne ne sait vraiment pourquoi. La brousse reprend les murs, et les arbres poussent entre les pierres.",
+   "genre": "adulte/femme",
+   "duree_ms": 9410,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n8.question",
+   "type": "jeu",
+   "chemin": "nodes.n8.question",
+   "texte": "Quelle année Loropéni est-il inscrit au patrimoine mondial de l'UNESCO ?"
+  },
+  {
+   "id": "nodes.n8.gagne",
+   "type": "jeu",
+   "chemin": "nodes.n8.gagne",
+   "texte": "Oui, en 2009 : c'est le premier site du Burkina Faso inscrit au patrimoine mondial."
+  },
+  {
+   "id": "nodes.n8.perdu",
+   "type": "jeu",
+   "chemin": "nodes.n8.perdu",
+   "texte": "C'était en 2009 : le premier site du Burkina Faso inscrit au patrimoine mondial."
+  },
+  {
+   "id": "nodes.n8.reponses.0.label",
+   "type": "jeu",
+   "chemin": "nodes.n8.reponses.0.label",
+   "texte": "2009"
+  },
+  {
+   "id": "nodes.n8.reponses.1.label",
+   "type": "jeu",
+   "chemin": "nodes.n8.reponses.1.label",
+   "texte": "1960"
+  },
+  {
+   "id": "nodes.n8.reponses.2.label",
+   "type": "jeu",
+   "chemin": "nodes.n8.reponses.2.label",
+   "texte": "1991"
+  },
+  {
+   "id": "nodes.n8.tags.win",
+   "type": "parcours",
+   "chemin": "nodes.n8.tags.win",
+   "texte": "bonne réponse"
+  },
+  {
+   "id": "nodes.n8.tags.lose",
+   "type": "parcours",
+   "chemin": "nodes.n8.tags.lose",
+   "texte": "réponse manquée"
+  },
+  {
+   "id": "relire",
+   "type": "replique",
+   "chemin": "nodes.relire.text",
+   "noeud": "relire",
+   "partie": "L'abandon, puis 2009 (jeu)",
+   "personnage": "La guide",
+   "intonation": "grave",
+   "intonation_statut": "proposée",
+   "texte": "Rien n'est perdu : les pierres ne bougeront pas d'ici. Tu peux recommencer l'enquête.",
+   "genre": "adulte/femme",
+   "duree_ms": 6070,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "bien",
+   "type": "replique",
+   "chemin": "nodes.bien.text",
+   "noeud": "bien",
+   "partie": "L'abandon, puis 2009 (jeu)",
+   "personnage": "La guide",
+   "intonation": "grave",
+   "intonation_statut": "proposée",
+   "texte": "Le mystère reste entier. Mais les pierres sont toujours là, et elles gardent la mémoire de ceux qui les ont dressées.",
+   "genre": "adulte/femme",
+   "duree_ms": 8730,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "film-001",
+   "type": "film",
+   "partie": "Film d'animation, de 00:02.0 à 00:07.9",
+   "horodatage": {
+    "debut_ms": 2000,
+    "fin_ms": 7900
+   },
+   "personnage": "Narrateur",
+   "intonation": "sobre",
+   "intonation_statut": "scénario",
+   "texte": "Les ruines de Loropéni. Un récit historique, simplifié pour l'image.",
+   "genre": "adulte/libre",
+   "duree_ms": 5900,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-002",
+   "type": "film",
+   "partie": "Film d'animation, de 00:09.0 à 00:14.7",
+   "horodatage": {
+    "debut_ms": 9000,
+    "fin_ms": 14700
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Aujourd'hui, dans le sud-ouest du Burkina, de longs murs de pierre sortent de la brousse.",
+   "genre": "adulte/libre",
+   "duree_ms": 5700,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-003",
+   "type": "film",
+   "partie": "Film d'animation, de 00:18.0 à 00:23.5",
+   "horodatage": {
+    "debut_ms": 18000,
+    "fin_ms": 23500
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Qui les a bâtis ? Et pourquoi ? Remontons le temps.",
+   "genre": "adulte/libre",
+   "duree_ms": 5500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-004",
+   "type": "film",
+   "partie": "Film d'animation, de 00:30.0 à 00:37.0",
+   "horodatage": {
+    "debut_ms": 30000,
+    "fin_ms": 37000
+   },
+   "personnage": "Narrateur",
+   "intonation": "mystérieux",
+   "intonation_statut": "scénario",
+   "texte": "Les pierres se relèvent, une à une. La forteresse se dresse à nouveau, il y a plusieurs siècles.",
+   "genre": "adulte/libre",
+   "duree_ms": 7000,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-005",
+   "type": "film",
+   "partie": "Film d'animation, de 00:50.0 à 00:58.0",
+   "horodatage": {
+    "debut_ms": 50000,
+    "fin_ms": 58000
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Les Lohron ou les Koulango, ancêtres des chefs Touna, occupent le lieu. Leurs murs de latérite montent, rangée après rangée.",
+   "genre": "adulte/libre",
+   "duree_ms": 8000,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-006",
+   "type": "film",
+   "partie": "Film d'animation, de 00:58.0 à 01:01.0",
+   "horodatage": {
+    "debut_ms": 58000,
+    "fin_ms": 61000
+   },
+   "personnage": "CHEF",
+   "intonation": "ferme",
+   "intonation_statut": "scénario",
+   "texte": "Plus haut, ce mur doit tenir des siècles !",
+   "genre": "adulte/homme",
+   "duree_ms": 3000,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-007",
+   "type": "film",
+   "partie": "Film d'animation, de 01:05.0 à 01:08.4",
+   "horodatage": {
+    "debut_ms": 65000,
+    "fin_ms": 68400
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Il protège ce que le pays a de plus précieux.",
+   "genre": "adulte/libre",
+   "duree_ms": 3400,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-008",
+   "type": "film",
+   "partie": "Film d'animation, de 01:28.0 à 01:32.7",
+   "horodatage": {
+    "debut_ms": 88000,
+    "fin_ms": 92700
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "L'or. On le tire de la terre et des rivières de la région.",
+   "genre": "adulte/libre",
+   "duree_ms": 4700,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-009",
+   "type": "film",
+   "partie": "Film d'animation, de 01:40.0 à 01:46.1",
+   "horodatage": {
+    "debut_ms": 100000,
+    "fin_ms": 106100
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Les femmes lavent le gravier à la calebasse. Au fond, quelques paillettes brillent.",
+   "genre": "adulte/libre",
+   "duree_ms": 6100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-010",
+   "type": "film",
+   "partie": "Film d'animation, de 01:54.0 à 01:58.5",
+   "horodatage": {
+    "debut_ms": 114000,
+    "fin_ms": 118500
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "C'est long et dur, mais ces grains font la richesse de tout un pays.",
+   "genre": "adulte/libre",
+   "duree_ms": 4500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-011",
+   "type": "film",
+   "partie": "Film d'animation, de 02:08.0 à 02:12.4",
+   "horodatage": {
+    "debut_ms": 128000,
+    "fin_ms": 132400
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Dans la forteresse, les orfèvres fondent l'or et le travaillent.",
+   "genre": "adulte/libre",
+   "duree_ms": 4400,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-012",
+   "type": "film",
+   "partie": "Film d'animation, de 02:20.0 à 02:25.6",
+   "horodatage": {
+    "debut_ms": 140000,
+    "fin_ms": 145600
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Les marchands arrivent de loin. Ils échangent le sel et les étoffes contre l'or.",
+   "genre": "adulte/libre",
+   "duree_ms": 5600,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-013",
+   "type": "film",
+   "partie": "Film d'animation, de 02:33.5 à 02:35.9",
+   "horodatage": {
+    "debut_ms": 153500,
+    "fin_ms": 155900
+   },
+   "personnage": "ORFEVRE",
+   "intonation": "fier",
+   "intonation_statut": "scénario",
+   "texte": "Touche-le : il est pur.",
+   "genre": "âgé/libre",
+   "duree_ms": 2400,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-014",
+   "type": "film",
+   "partie": "Film d'animation, de 02:36.0 à 02:38.4",
+   "horodatage": {
+    "debut_ms": 156000,
+    "fin_ms": 158400
+   },
+   "personnage": "MARCHAND",
+   "intonation": "négociateur",
+   "intonation_statut": "scénario",
+   "texte": "Beau, mais trop cher pour moi.",
+   "genre": "adulte/homme",
+   "duree_ms": 2400,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-015",
+   "type": "film",
+   "partie": "Film d'animation, de 02:38.5 à 02:41.3",
+   "horodatage": {
+    "debut_ms": 158500,
+    "fin_ms": 161300
+   },
+   "personnage": "ORFEVRE",
+   "intonation": "amusé",
+   "intonation_statut": "scénario",
+   "texte": "Alors, plus de sel !",
+   "genre": "âgé/libre",
+   "duree_ms": 2800,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-016",
+   "type": "film",
+   "partie": "Film d'animation, de 02:48.0 à 02:54.0",
+   "horodatage": {
+    "debut_ms": 168000,
+    "fin_ms": 174000
+   },
+   "personnage": "Narrateur",
+   "intonation": "joyeux",
+   "intonation_statut": "scénario",
+   "texte": "Le chef reçoit l'or dans sa cour. Les tambours résonnent, et l'on danse.",
+   "genre": "adulte/libre",
+   "duree_ms": 6000,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-017",
+   "type": "film",
+   "partie": "Film d'animation, de 03:20.0 à 03:25.2",
+   "horodatage": {
+    "debut_ms": 200000,
+    "fin_ms": 205200
+   },
+   "personnage": "Narrateur",
+   "intonation": "grave",
+   "intonation_statut": "scénario",
+   "texte": "Puis la forteresse est abandonnée. Personne ne sait vraiment pourquoi.",
+   "genre": "adulte/libre",
+   "duree_ms": 5200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-018",
+   "type": "film",
+   "partie": "Film d'animation, de 03:31.0 à 03:36.2",
+   "horodatage": {
+    "debut_ms": 211000,
+    "fin_ms": 216200
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Peu à peu, la brousse reprend les murs, et les arbres poussent entre les pierres.",
+   "genre": "adulte/libre",
+   "duree_ms": 5200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-019",
+   "type": "film",
+   "partie": "Film d'animation, de 03:52.0 à 03:58.9",
+   "horodatage": {
+    "debut_ms": 232000,
+    "fin_ms": 238900
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "En 2009, Loropéni devient le premier site du Burkina Faso inscrit au patrimoine mondial de l'UNESCO.",
+   "genre": "adulte/libre",
+   "duree_ms": 6900,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-020",
+   "type": "film",
+   "partie": "Film d'animation, de 04:02.0 à 04:07.0",
+   "horodatage": {
+    "debut_ms": 242000,
+    "fin_ms": 247000
+   },
+   "personnage": "Narrateur",
+   "intonation": "doux",
+   "intonation_statut": "scénario",
+   "texte": "Le mystère reste entier. Mais les pierres sont toujours là.",
+   "genre": "adulte/libre",
+   "duree_ms": 5000,
+   "duree_statut": "mesurée sur le film"
+  }
+ ]
+}

@@ -1,0 +1,332 @@
+# Jaba Lompo, le devin ancêtre : fiches des bandes-son
+# Généré par « npm run bandes-son » depuis pistes.json. Modifier pistes.json, pas ce fichier.
+
+piste: n1
+histoire: Jaba Lompo, le devin ancêtre
+partie: Le cheval blanc (jeu)
+personnage: Le griot
+fichier: jaba-lompo-n1-<langue>.m4a
+intonation: solennel (proposée)
+texte: Les traditions ne s'accordent pas sur l'origine des Gulmancé. Selon l'une d'elles, Jaba Lompo descendit du ciel sur un cheval blanc, au treizième siècle.
+genre: adulte/homme
+duree: 10020ms (estimée)
+
+piste: n2
+histoire: Jaba Lompo, le devin ancêtre
+partie: Le cheval blanc (jeu)
+personnage: Le griot
+fichier: jaba-lompo-n2-<langue>.m4a
+intonation: solennel (proposée)
+texte: Celle que voici n'est pas la seule. Écoute-la comme on écoute un voisin.
+genre: adulte/homme
+duree: 5540ms (estimée)
+
+piste: n3
+histoire: Jaba Lompo, le devin ancêtre
+partie: Le géant au village (jeu)
+personnage: Le villageois
+fichier: jaba-lompo-n3-<langue>.m4a
+intonation: posé (proposée)
+texte: Qui est ce géant ? Il n'a rien à faire ici. Un enfant est malade, et on n'a pas le temps pour les étrangers.
+genre: adulte/homme
+duree: 10170ms (estimée)
+
+piste: n4
+histoire: Jaba Lompo, le devin ancêtre
+partie: Le géant au village (jeu)
+personnage: Le griot
+fichier: jaba-lompo-n4-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Tu es au village. Que proposes-tu ?
+genre: adulte/homme
+duree: 3260ms (estimée)
+
+piste: renvoi
+histoire: Jaba Lompo, le devin ancêtre
+partie: Le géant au village (jeu)
+personnage: Le griot
+fichier: jaba-lompo-renvoi-<langue>.m4a
+intonation: posé (proposée)
+texte: On lui montre le chemin. Il repart sans un mot, et on ne saura jamais ce qu'il savait. Ce chemin n'est pas la tradition rapportée ici.
+genre: adulte/homme
+duree: 10930ms (estimée)
+
+piste: enfant
+histoire: Jaba Lompo, le devin ancêtre
+partie: Le géant au village (jeu)
+personnage: Jaba Lompo
+fichier: jaba-lompo-enfant-<langue>.m4a
+intonation: posé (proposée)
+texte: Amenez-moi cet enfant.
+genre: âgé/homme
+duree: 1440ms (estimée)
+
+piste: n5
+histoire: Jaba Lompo, le devin ancêtre
+partie: Le géant au village (jeu)
+personnage: Le griot
+fichier: jaba-lompo-n5-<langue>.m4a
+intonation: posé (proposée)
+texte: Il se penche sur l'enfant malade, et l'enfant se relève. Alors on l'écoute. Il jette les cauris, et il lit l'avenir dans leur chute.
+genre: adulte/homme
+duree: 10320ms (estimée)
+
+piste: n7
+histoire: Jaba Lompo, le devin ancêtre
+partie: Le géant au village (jeu)
+personnage: Jaba Lompo
+fichier: jaba-lompo-n7-<langue>.m4a
+intonation: posé (proposée)
+texte: Là-bas, sur la colline, s'élèvera votre ville.
+genre: âgé/homme
+duree: 3260ms (estimée)
+
+piste: n8
+histoire: Jaba Lompo, le devin ancêtre
+partie: Le bâton planté à Bingo (jeu)
+personnage: Le griot
+fichier: jaba-lompo-n8-<langue>.m4a
+intonation: posé (proposée)
+texte: Il marche jusqu'à ce lieu et plante son bâton : ici sera la ville. Ce fut Bingo, qui deviendra Fada N'Gourma. Les maisons montent autour du bâton.
+genre: adulte/homme
+duree: 11460ms (estimée)
+
+piste: n9
+histoire: Jaba Lompo, le devin ancêtre
+partie: Le bâton planté à Bingo (jeu)
+personnage: Le griot
+fichier: jaba-lompo-n9-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: On vient de loin pour le consulter. Il est à la fois devin et chef. Ses fils ont grandi. Que leur demande-t-il ?
+genre: adulte/homme
+duree: 9940ms (estimée)
+
+piste: rester
+histoire: Jaba Lompo, le devin ancêtre
+partie: Le bâton planté à Bingo (jeu)
+personnage: Son fils
+fichier: jaba-lompo-rester-<langue>.m4a
+intonation: posé (proposée)
+texte: Père, la colline est petite, et nous sommes nombreux. Laisse-nous aller.
+genre: adulte/homme
+duree: 5080ms (estimée)
+
+piste: n10
+histoire: Jaba Lompo, le devin ancêtre
+partie: Le bâton planté à Bingo (jeu)
+personnage: Le griot
+fichier: jaba-lompo-n10-<langue>.m4a
+intonation: posé (proposée)
+texte: Jaba Lompo sourit. C'est bien ce qu'il voulait entendre.
+genre: adulte/homme
+duree: 4020ms (estimée)
+
+piste: fonder
+histoire: Jaba Lompo, le devin ancêtre
+partie: Les fils et les royaumes (jeu)
+personnage: Jaba Lompo
+fichier: jaba-lompo-fonder-<langue>.m4a
+intonation: posé (proposée)
+texte: Mes fils, fondez d'autres royaumes.
+genre: âgé/homme
+duree: 2350ms (estimée)
+
+piste: n11
+histoire: Jaba Lompo, le devin ancêtre
+partie: Les fils et les royaumes (jeu)
+personnage: Le griot
+fichier: jaba-lompo-n11-<langue>.m4a
+intonation: posé (proposée)
+texte: Ils partent dans des directions différentes, pour étendre le pays gulmancé. Fada N'Gourma se souvient de son fondateur.
+genre: adulte/homme
+duree: 7590ms (estimée)
+
+piste: n12
+histoire: Jaba Lompo, le devin ancêtre
+partie: Les fils et les royaumes (jeu)
+personnage: Le griot
+fichier: jaba-lompo-n12-<langue>.m4a
+intonation: posé (proposée)
+texte: C'est une tradition parmi d'autres, et elle mérite d'être écoutée. Chaque peuple garde son propre récit des commencements.
+genre: adulte/homme
+duree: 7590ms (estimée)
+
+piste: film-001
+histoire: Jaba Lompo, le devin ancêtre
+partie: Film d'animation, de 00:02.0 à 00:07.5
+personnage: Narrateur
+fichier: jaba-lompo-film-001-<langue>.m4a
+intonation: solennel (scénario)
+texte: Jaba Lompo, le devin ancêtre. Une légende gulmancé.
+genre: adulte/libre
+duree: 5500ms (mesurée sur le film)
+
+piste: film-002
+histoire: Jaba Lompo, le devin ancêtre
+partie: Film d'animation, de 00:09.0 à 00:17.6
+personnage: Narrateur
+fichier: jaba-lompo-film-002-<langue>.m4a
+intonation: posé (proposée)
+texte: Les traditions ne s'accordent pas sur l'origine des Gulmancé. Certaines refusent de les lier aux Mossi, et parlent d'un homme venu d'ailleurs.
+genre: adulte/libre
+duree: 8600ms (mesurée sur le film)
+
+piste: film-003
+histoire: Jaba Lompo, le devin ancêtre
+partie: Film d'animation, de 00:28.0 à 00:32.8
+personnage: Narrateur
+fichier: jaba-lompo-film-003-<langue>.m4a
+intonation: mystérieux (scénario)
+texte: Selon l'une d'elles, Jaba Lompo descendit du ciel sur un cheval blanc.
+genre: adulte/libre
+duree: 4800ms (mesurée sur le film)
+
+piste: film-004
+histoire: Jaba Lompo, le devin ancêtre
+partie: Film d'animation, de 00:47.0 à 00:50.8
+personnage: Narrateur
+fichier: jaba-lompo-film-004-<langue>.m4a
+intonation: posé (proposée)
+texte: Il arriva au pays de l'Est, au treizième siècle.
+genre: adulte/libre
+duree: 3800ms (mesurée sur le film)
+
+piste: film-005
+histoire: Jaba Lompo, le devin ancêtre
+partie: Film d'animation, de 01:04.0 à 01:07.2
+personnage: Narrateur
+fichier: jaba-lompo-film-005-<langue>.m4a
+intonation: posé (proposée)
+texte: Les gens se méfiaient de ce géant étranger.
+genre: adulte/libre
+duree: 3200ms (mesurée sur le film)
+
+piste: film-006
+histoire: Jaba Lompo, le devin ancêtre
+partie: Film d'animation, de 01:10.5 à 01:12.9
+personnage: JABA
+fichier: jaba-lompo-film-006-<langue>.m4a
+intonation: doux (scénario)
+texte: Amenez-moi cet enfant.
+genre: esprit, créature : voix grave/libre
+duree: 2400ms (mesurée sur le film)
+
+piste: film-007
+histoire: Jaba Lompo, le devin ancêtre
+partie: Film d'animation, de 01:16.0 à 01:22.1
+personnage: Narrateur
+fichier: jaba-lompo-film-007-<langue>.m4a
+intonation: ému (scénario)
+texte: Il se pencha sur un enfant malade, et l'enfant se releva. Alors on l'écouta.
+genre: adulte/libre
+duree: 6100ms (mesurée sur le film)
+
+piste: film-008
+histoire: Jaba Lompo, le devin ancêtre
+partie: Film d'animation, de 01:44.0 à 01:48.1
+personnage: Narrateur
+fichier: jaba-lompo-film-008-<langue>.m4a
+intonation: posé (proposée)
+texte: Il jetait les cauris, et il lisait l'avenir dans leur chute.
+genre: adulte/libre
+duree: 4100ms (mesurée sur le film)
+
+piste: film-009
+histoire: Jaba Lompo, le devin ancêtre
+partie: Film d'animation, de 01:54.0 à 01:57.7
+personnage: Narrateur
+fichier: jaba-lompo-film-009-<langue>.m4a
+intonation: mystérieux (scénario)
+texte: Une vision lui apparut : une ville sur une colline.
+genre: adulte/libre
+duree: 3700ms (mesurée sur le film)
+
+piste: film-010
+histoire: Jaba Lompo, le devin ancêtre
+partie: Film d'animation, de 02:04.0 à 02:08.0
+personnage: JABA
+fichier: jaba-lompo-film-010-<langue>.m4a
+intonation: inspiré (scénario)
+texte: Là-bas, sur la colline, s'élèvera votre ville.
+genre: esprit, créature : voix grave/libre
+duree: 4000ms (mesurée sur le film)
+
+piste: film-011
+histoire: Jaba Lompo, le devin ancêtre
+partie: Film d'animation, de 02:20.0 à 02:24.8
+personnage: Narrateur
+fichier: jaba-lompo-film-011-<langue>.m4a
+intonation: posé (proposée)
+texte: Il marcha jusqu'à ce lieu et planta son bâton : ici sera la ville.
+genre: adulte/libre
+duree: 4800ms (mesurée sur le film)
+
+piste: film-012
+histoire: Jaba Lompo, le devin ancêtre
+partie: Film d'animation, de 02:30.0 à 02:33.8
+personnage: Narrateur
+fichier: jaba-lompo-film-012-<langue>.m4a
+intonation: posé (proposée)
+texte: Ce fut Bingo, qui deviendra Fada N'Gourma.
+genre: adulte/libre
+duree: 3800ms (mesurée sur le film)
+
+piste: film-013
+histoire: Jaba Lompo, le devin ancêtre
+partie: Film d'animation, de 02:41.0 à 02:43.9
+personnage: Narrateur
+fichier: jaba-lompo-film-013-<langue>.m4a
+intonation: posé (proposée)
+texte: Les maisons montèrent autour du bâton.
+genre: adulte/libre
+duree: 2900ms (mesurée sur le film)
+
+piste: film-014
+histoire: Jaba Lompo, le devin ancêtre
+partie: Film d'animation, de 03:00.0 à 03:04.0
+personnage: Narrateur
+fichier: jaba-lompo-film-014-<langue>.m4a
+intonation: posé (proposée)
+texte: Jaba Lompo y siégea, à la fois devin et chef.
+genre: adulte/libre
+duree: 4000ms (mesurée sur le film)
+
+piste: film-015
+histoire: Jaba Lompo, le devin ancêtre
+partie: Film d'animation, de 03:12.0 à 03:14.9
+personnage: Narrateur
+fichier: jaba-lompo-film-015-<langue>.m4a
+intonation: posé (proposée)
+texte: On venait de loin pour le consulter.
+genre: adulte/libre
+duree: 2900ms (mesurée sur le film)
+
+piste: film-016
+histoire: Jaba Lompo, le devin ancêtre
+partie: Film d'animation, de 03:36.0 à 03:39.2
+personnage: JABA
+fichier: jaba-lompo-film-016-<langue>.m4a
+intonation: paternel (scénario)
+texte: Mes fils, fondez d'autres royaumes.
+genre: esprit, créature : voix grave/libre
+duree: 3200ms (mesurée sur le film)
+
+piste: film-017
+histoire: Jaba Lompo, le devin ancêtre
+partie: Film d'animation, de 03:42.0 à 03:47.3
+personnage: Narrateur
+fichier: jaba-lompo-film-017-<langue>.m4a
+intonation: posé (proposée)
+texte: Et ses fils partirent dans des directions différentes, pour étendre le pays gulmancé.
+genre: adulte/libre
+duree: 5300ms (mesurée sur le film)
+
+piste: film-018
+histoire: Jaba Lompo, le devin ancêtre
+partie: Film d'animation, de 04:10.0 à 04:18.8
+personnage: Narrateur
+fichier: jaba-lompo-film-018-<langue>.m4a
+intonation: doux (scénario)
+texte: Aujourd'hui, Fada N'Gourma se souvient de son fondateur. C'est une tradition parmi d'autres, et elle mérite d'être écoutée.
+genre: adulte/libre
+duree: 8800ms (mesurée sur le film)

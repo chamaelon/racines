@@ -1,0 +1,322 @@
+# Face aux cavaliers de Babatou : fiches des bandes-son
+# Généré par « npm run bandes-son » depuis pistes.json. Modifier pistes.json, pas ce fichier.
+
+piste: n1
+histoire: Face aux cavaliers de Babatou
+partie: Le village et les cavaliers zarma (jeu)
+personnage: Le griot
+fichier: babatou-n1-<langue>.m4a
+intonation: posé (proposée)
+texte: Fin du dix-neuvième siècle. Dans un village gourounsi, la vie suit le rythme des saisons. Mais dans la brousse passent les cavaliers zarma de Babatou. Ils capturent des hommes pour les vendre.
+genre: adulte/homme
+duree: 13510ms (estimée)
+
+piste: n2
+histoire: Face aux cavaliers de Babatou
+partie: Le village et les cavaliers zarma (jeu)
+personnage: Le griot
+fichier: babatou-n2-<langue>.m4a
+intonation: posé (proposée)
+texte: Alors, chaque village apprend à veiller. Sur un toit, un guetteur ne quitte pas l'horizon.
+genre: adulte/homme
+duree: 6600ms (estimée)
+
+piste: n3
+histoire: Face aux cavaliers de Babatou
+partie: Le village et les cavaliers zarma (jeu)
+personnage: Le guetteur
+fichier: babatou-n3-<langue>.m4a
+intonation: vif (proposée)
+texte: La poussière ! Les cavaliers arrivent !
+genre: jeune/homme
+duree: 3260ms (estimée)
+
+piste: n4
+histoire: Face aux cavaliers de Babatou
+partie: Le village et les cavaliers zarma (jeu)
+personnage: Le griot
+fichier: babatou-n4-<langue>.m4a
+intonation: posé (proposée)
+texte: Le tambour d'alerte doit résonner jusqu'aux champs. À toi.
+genre: adulte/homme
+duree: 4020ms (estimée)
+
+piste: n6
+histoire: Face aux cavaliers de Babatou
+partie: Le village et les cavaliers zarma (jeu)
+personnage: Le chef
+fichier: babatou-n6-<langue>.m4a
+intonation: vif (proposée)
+texte: Personne ne fuit. Chacun à sa place !
+genre: âgé/homme
+duree: 3640ms (estimée)
+
+piste: n7
+histoire: Face aux cavaliers de Babatou
+partie: Le village et les cavaliers zarma (jeu)
+personnage: Le griot
+fichier: babatou-n7-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Les femmes et les enfants se cachent dans les cases aux murs épais. Où te places-tu ?
+genre: adulte/homme
+duree: 7060ms (estimée)
+
+piste: fosses
+histoire: Face aux cavaliers de Babatou
+partie: Le village et les cavaliers zarma (jeu)
+personnage: Le griot
+fichier: babatou-fosses-<langue>.m4a
+intonation: posé (proposée)
+texte: Tu creuses, puis tu couvres la fosse de branches. Tu ne verras l'attaque que par le bruit.
+genre: adulte/homme
+duree: 7210ms (estimée)
+
+piste: toits
+histoire: Face aux cavaliers de Babatou
+partie: Le village et les cavaliers zarma (jeu)
+personnage: Le griot
+fichier: babatou-toits-<langue>.m4a
+intonation: posé (proposée)
+texte: Tu prépares tes flèches. D'ici, on voit toute la brousse.
+genre: adulte/homme
+duree: 4550ms (estimée)
+
+piste: attaque
+histoire: Face aux cavaliers de Babatou
+partie: La charge (jeu)
+personnage: Le griot
+fichier: babatou-attaque-<langue>.m4a
+intonation: posé (proposée)
+texte: Les cavaliers chargent, certains de leur victoire. Mais les chevaux tombent dans les pièges, et depuis les toits, les flèches pleuvent. Les cavaliers font demi-tour.
+genre: adulte/homme
+duree: 10850ms (estimée)
+
+piste: n8
+histoire: Face aux cavaliers de Babatou
+partie: Le soir de la victoire (jeu)
+personnage: Le griot
+fichier: babatou-n8-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Le village a tenu. Ce soir-là, on chante la victoire. Mais les colonnes de captifs marchent toujours ailleurs. Quelle leçon en tire le chef ?
+genre: adulte/homme
+duree: 10850ms (estimée)
+
+piste: seul
+histoire: Face aux cavaliers de Babatou
+partie: Le soir de la victoire (jeu)
+personnage: Le griot
+fichier: babatou-seul-<langue>.m4a
+intonation: chuchoté (proposée)
+texte: Ce ne fut pas leur choix : les voisins ont compris la leçon, et ils se sont alliés. Seuls, ils sont des proies. Reprends cette veillée pour la vivre comme eux.
+genre: adulte/homme
+duree: 13130ms (estimée)
+
+piste: unis
+histoire: Face aux cavaliers de Babatou
+partie: L'alliance des villages (jeu)
+personnage: Le griot
+fichier: babatou-unis-<langue>.m4a
+intonation: posé (proposée)
+texte: Les villages voisins comprennent la leçon. Ils échangent des messagers, et ils s'allient.
+genre: adulte/homme
+duree: 5690ms (estimée)
+
+piste: n9
+histoire: Face aux cavaliers de Babatou
+partie: L'alliance des villages (jeu)
+personnage: Le griot
+fichier: babatou-n9-<langue>.m4a
+intonation: posé (proposée)
+texte: Aujourd'hui, on se souvient encore de cette résistance, et de ceux qu'on n'a pas pu sauver.
+genre: adulte/homme
+duree: 6680ms (estimée)
+
+piste: film-001
+histoire: Face aux cavaliers de Babatou
+partie: Film d'animation, de 00:02.0 à 00:08.2
+personnage: Narrateur
+fichier: babatou-film-001-<langue>.m4a
+intonation: sobre (scénario)
+texte: Face aux cavaliers de Babatou. Un récit historique, simplifié pour l'image.
+genre: adulte/libre
+duree: 6200ms (mesurée sur le film)
+
+piste: film-002
+histoire: Face aux cavaliers de Babatou
+partie: Film d'animation, de 00:09.0 à 00:15.5
+personnage: Narrateur
+fichier: babatou-film-002-<langue>.m4a
+intonation: posé (proposée)
+texte: Fin du dix-neuvième siècle. Dans un village gourounsi, la vie suit le rythme des saisons.
+genre: adulte/libre
+duree: 6500ms (mesurée sur le film)
+
+piste: film-003
+histoire: Face aux cavaliers de Babatou
+partie: Film d'animation, de 00:28.0 à 00:32.2
+personnage: Narrateur
+fichier: babatou-film-003-<langue>.m4a
+intonation: posé (proposée)
+texte: Mais dans la brousse, passent les cavaliers zarma de Babatou.
+genre: adulte/libre
+duree: 4200ms (mesurée sur le film)
+
+piste: film-004
+histoire: Face aux cavaliers de Babatou
+partie: Film d'animation, de 00:40.0 à 00:46.2
+personnage: Narrateur
+fichier: babatou-film-004-<langue>.m4a
+intonation: grave (scénario)
+texte: Ils capturent des hommes pour les vendre. Des colonnes de captifs marchent, encordés.
+genre: adulte/libre
+duree: 6200ms (mesurée sur le film)
+
+piste: film-005
+histoire: Face aux cavaliers de Babatou
+partie: Film d'animation, de 01:03.0 à 01:09.5
+personnage: Narrateur
+fichier: babatou-film-005-<langue>.m4a
+intonation: posé (proposée)
+texte: Alors, chaque village apprend à veiller. Sur un toit, un guetteur ne quitte pas l'horizon.
+genre: adulte/libre
+duree: 6500ms (mesurée sur le film)
+
+piste: film-006
+histoire: Face aux cavaliers de Babatou
+partie: Film d'animation, de 01:14.3 à 01:18.7
+personnage: GUETTEUR
+fichier: babatou-film-006-<langue>.m4a
+intonation: essoufflé (scénario)
+texte: La poussière ! Les cavaliers arrivent !
+genre: enfant/libre
+duree: 4400ms (mesurée sur le film)
+
+piste: film-007
+histoire: Face aux cavaliers de Babatou
+partie: Film d'animation, de 01:21.0 à 01:24.2
+personnage: Narrateur
+fichier: babatou-film-007-<langue>.m4a
+intonation: posé (proposée)
+texte: Le tambour d'alerte résonne jusqu'aux champs.
+genre: adulte/libre
+duree: 3200ms (mesurée sur le film)
+
+piste: film-008
+histoire: Face aux cavaliers de Babatou
+partie: Film d'animation, de 01:31.5 à 01:35.6
+personnage: CHEF
+fichier: babatou-film-008-<langue>.m4a
+intonation: ferme (scénario)
+texte: Personne ne fuit. Chacun à sa place !
+genre: âgé/libre
+duree: 4100ms (mesurée sur le film)
+
+piste: film-009
+histoire: Face aux cavaliers de Babatou
+partie: Film d'animation, de 01:37.0 à 01:40.8
+personnage: Narrateur
+fichier: babatou-film-009-<langue>.m4a
+intonation: posé (proposée)
+texte: Les femmes et les enfants se cachent dans les cases aux murs épais.
+genre: adulte/libre
+duree: 3800ms (mesurée sur le film)
+
+piste: film-010
+histoire: Face aux cavaliers de Babatou
+partie: Film d'animation, de 01:47.0 à 01:51.2
+personnage: Narrateur
+fichier: babatou-film-010-<langue>.m4a
+intonation: posé (proposée)
+texte: Les hommes creusent des fosses, puis ils les couvrent de branches.
+genre: adulte/libre
+duree: 4200ms (mesurée sur le film)
+
+piste: film-011
+histoire: Face aux cavaliers de Babatou
+partie: Film d'animation, de 01:58.0 à 02:00.7
+personnage: Narrateur
+fichier: babatou-film-011-<langue>.m4a
+intonation: posé (proposée)
+texte: Les arcs et les flèches sont prêts.
+genre: adulte/libre
+duree: 2700ms (mesurée sur le film)
+
+piste: film-012
+histoire: Face aux cavaliers de Babatou
+partie: Film d'animation, de 02:10.0 à 02:15.8
+personnage: Narrateur
+fichier: babatou-film-012-<langue>.m4a
+intonation: tendu (scénario)
+texte: L'attaque arrive. Les cavaliers chargent, certains de leur victoire.
+genre: adulte/libre
+duree: 5800ms (mesurée sur le film)
+
+piste: film-013
+histoire: Face aux cavaliers de Babatou
+partie: Film d'animation, de 02:21.0 à 02:23.8
+personnage: Narrateur
+fichier: babatou-film-013-<langue>.m4a
+intonation: posé (proposée)
+texte: Mais les chevaux tombent dans les pièges.
+genre: adulte/libre
+duree: 2800ms (mesurée sur le film)
+
+piste: film-014
+histoire: Face aux cavaliers de Babatou
+partie: Film d'animation, de 02:51.0 à 02:54.3
+personnage: Narrateur
+fichier: babatou-film-014-<langue>.m4a
+intonation: posé (proposée)
+texte: Depuis les toits, les flèches pleuvent.
+genre: adulte/libre
+duree: 3300ms (mesurée sur le film)
+
+piste: film-015
+histoire: Face aux cavaliers de Babatou
+partie: Film d'animation, de 03:03.0 à 03:07.7
+personnage: Narrateur
+fichier: babatou-film-015-<langue>.m4a
+intonation: ferme (scénario)
+texte: Les cavaliers font demi-tour. Le village a tenu.
+genre: adulte/libre
+duree: 4700ms (mesurée sur le film)
+
+piste: film-016
+histoire: Face aux cavaliers de Babatou
+partie: Film d'animation, de 03:15.0 à 03:18.3
+personnage: Narrateur
+fichier: babatou-film-016-<langue>.m4a
+intonation: joyeux (scénario)
+texte: Ce soir-là, on chante la victoire.
+genre: adulte/libre
+duree: 3300ms (mesurée sur le film)
+
+piste: film-017
+histoire: Face aux cavaliers de Babatou
+partie: Film d'animation, de 03:30.0 à 03:37.9
+personnage: Narrateur
+fichier: babatou-film-017-<langue>.m4a
+intonation: posé (proposée)
+texte: Les villages voisins comprennent la leçon. Seuls, ils sont des proies. Unis, ils se défendent.
+genre: adulte/libre
+duree: 7900ms (mesurée sur le film)
+
+piste: film-018
+histoire: Face aux cavaliers de Babatou
+partie: Film d'animation, de 03:47.0 à 03:50.4
+personnage: Narrateur
+fichier: babatou-film-018-<langue>.m4a
+intonation: posé (proposée)
+texte: Ils échangent des messagers, et ils s'allient.
+genre: adulte/libre
+duree: 3400ms (mesurée sur le film)
+
+piste: film-019
+histoire: Face aux cavaliers de Babatou
+partie: Film d'animation, de 04:04.0 à 04:10.0
+personnage: Narrateur
+fichier: babatou-film-019-<langue>.m4a
+intonation: doux (scénario)
+texte: Aujourd'hui, on se souvient encore de cette résistance, et de ceux qu'on n'a pas pu sauver.
+genre: adulte/libre
+duree: 6000ms (mesurée sur le film)

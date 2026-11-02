@@ -1,0 +1,846 @@
+{
+ "id": "silures-dafra",
+ "titre": "Les silures sacrés de Dafra",
+ "peuple": "Bobo",
+ "langues_cibles": [
+  "fr",
+  "bbo",
+  "dyu"
+ ],
+ "pistes": [
+  {
+   "id": "titre",
+   "type": "titre",
+   "chemin": "titre",
+   "texte": "Les silures sacrés de Dafra"
+  },
+  {
+   "id": "presentation",
+   "type": "presentation",
+   "chemin": "presentation",
+   "texte": "À Dafra, l'eau et les silures se protègent ensemble. Tu suis Awa jusqu'à la gorge, puis tu restes auprès de Mah, la gardienne, quand un pêcheur étranger arrive."
+  },
+  {
+   "id": "personnages.griot.nom",
+   "type": "personnage",
+   "chemin": "personnages.griot.nom",
+   "texte": "Le griot"
+  },
+  {
+   "id": "personnages.awa.nom",
+   "type": "personnage",
+   "chemin": "personnages.awa.nom",
+   "texte": "Awa"
+  },
+  {
+   "id": "personnages.mah.nom",
+   "type": "personnage",
+   "chemin": "personnages.mah.nom",
+   "texte": "Mah, la gardienne"
+  },
+  {
+   "id": "personnages.pecheur.nom",
+   "type": "personnage",
+   "chemin": "personnages.pecheur.nom",
+   "texte": "Le pêcheur"
+  },
+  {
+   "id": "fins.canon",
+   "type": "fin",
+   "chemin": "fins.canon",
+   "texte": "Version du griot : l'eau revient à Dafra"
+  },
+  {
+   "id": "fins.secheresse",
+   "type": "fin",
+   "chemin": "fins.secheresse",
+   "texte": "Autre chemin : personne n'a rendu le silure à temps"
+  },
+  {
+   "id": "n1",
+   "type": "replique",
+   "chemin": "nodes.n1.text",
+   "noeud": "n1",
+   "partie": "Le temps des fondateurs (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Dans une gorge, à la source du Houet, l'eau tombe en cascade depuis toujours. Sous sa surface vivent de grands poissons moustachus : les silures.",
+   "genre": "adulte/homme",
+   "duree_ms": 10550,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n2",
+   "type": "replique",
+   "chemin": "nodes.n2.text",
+   "noeud": "n2",
+   "partie": "Le temps des fondateurs (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Autour de cette source a grandi Sya, l'ancienne Bobo-Dioulasso. Regarde ce qu'on apporte ici.",
+   "genre": "adulte/homme",
+   "duree_ms": 6070,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n3",
+   "type": "replique",
+   "chemin": "nodes.n3.text",
+   "noeud": "n3",
+   "partie": "Le temps des fondateurs (jeu)",
+   "personnage": "Awa",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Silures de Dafra, je vous en prie, donnez-moi un enfant.",
+   "genre": "adulte/femme",
+   "duree_ms": 4400,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n4",
+   "type": "replique",
+   "chemin": "nodes.n4.text",
+   "noeud": "n4",
+   "partie": "Le temps des fondateurs (jeu)",
+   "personnage": "Mah, la gardienne",
+   "intonation": "doux",
+   "intonation_statut": "proposée",
+   "texte": "Fais ton vœu, et attends.",
+   "genre": "âgée/femme",
+   "duree_ms": 2350,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n5",
+   "type": "replique",
+   "chemin": "nodes.n5.text",
+   "noeud": "n5",
+   "partie": "Le temps des fondateurs (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Awa a le cœur lourd. Avant de partir, que laisse-t-elle au bord de l'eau ?",
+   "genre": "adulte/homme",
+   "duree_ms": 6450,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n5.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.n5.choices.0.label",
+   "texte": "Une offrande pour nourrir les silures"
+  },
+  {
+   "id": "nodes.n5.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.n5.choices.0.tag",
+   "texte": "offrande"
+  },
+  {
+   "id": "nodes.n5.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.n5.choices.1.label",
+   "texte": "Rien, elle a déjà tout dit"
+  },
+  {
+   "id": "nodes.n5.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.n5.choices.1.tag",
+   "texte": "sans offrande"
+  },
+  {
+   "id": "oubli",
+   "type": "replique",
+   "chemin": "nodes.oubli.text",
+   "noeud": "oubli",
+   "partie": "Le temps des fondateurs (jeu)",
+   "personnage": "Mah, la gardienne",
+   "intonation": "doux",
+   "intonation_statut": "proposée",
+   "texte": "On n'oublie pas de nourrir ceux qu'on implore. Reviens avec une poignée de nourriture.",
+   "genre": "âgée/femme",
+   "duree_ms": 5920,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "offrande",
+   "type": "replique",
+   "chemin": "nodes.offrande.text",
+   "noeud": "offrande",
+   "partie": "Le temps des fondateurs (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Un silure saute hors de l'eau. Le vœu est entendu. Et bientôt, Awa berce son enfant.",
+   "genre": "adulte/homme",
+   "duree_ms": 7130,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n6",
+   "type": "replique",
+   "chemin": "nodes.n6.text",
+   "noeud": "n6",
+   "partie": "Le pêcheur étranger (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Mais un jour arrive un pêcheur étranger, un harpon sur l'épaule.",
+   "genre": "adulte/homme",
+   "duree_ms": 4630,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n7",
+   "type": "replique",
+   "chemin": "nodes.n7.text",
+   "noeud": "n7",
+   "partie": "Le pêcheur étranger (jeu)",
+   "personnage": "Mah, la gardienne",
+   "intonation": "doux",
+   "intonation_statut": "proposée",
+   "texte": "Ici, personne ne pêche. Ces poissons sont sacrés.",
+   "genre": "âgée/femme",
+   "duree_ms": 3790,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n8",
+   "type": "replique",
+   "chemin": "nodes.n8.text",
+   "noeud": "n8",
+   "partie": "Le pêcheur étranger (jeu)",
+   "personnage": "Le pêcheur",
+   "intonation": "vif",
+   "intonation_statut": "proposée",
+   "texte": "Des poissons sacrés ! Ils finiront dans ma marmite.",
+   "genre": "adulte/homme",
+   "duree_ms": 4020,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n9",
+   "type": "replique",
+   "chemin": "nodes.n9.text",
+   "noeud": "n9",
+   "partie": "Le pêcheur étranger (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Il lance son harpon, prend un silure et repart, content de lui. Derrière lui, le ciel s'assombrit, et la cascade se tarit goutte après goutte.",
+   "genre": "adulte/homme",
+   "duree_ms": 10700,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n10",
+   "type": "replique",
+   "chemin": "nodes.n10.text",
+   "noeud": "n10",
+   "partie": "Le pêcheur étranger (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "À Sya, les canaris restent vides. Toi qui as tout vu, que fais-tu ?",
+   "genre": "adulte/homme",
+   "duree_ms": 6220,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n10.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.n10.choices.0.label",
+   "texte": "Tu pars chercher le pêcheur"
+  },
+  {
+   "id": "nodes.n10.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.n10.choices.0.tag",
+   "texte": "pêcheur recherché"
+  },
+  {
+   "id": "nodes.n10.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.n10.choices.1.label",
+   "texte": "Tu attends que les anciens décident"
+  },
+  {
+   "id": "nodes.n10.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.n10.choices.1.tag",
+   "texte": "attente"
+  },
+  {
+   "id": "attendre",
+   "type": "replique",
+   "chemin": "nodes.attendre.text",
+   "noeud": "attendre",
+   "partie": "Le pêcheur étranger (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Les jours passent. Les anciens parlent, l'eau ne revient pas. Le pêcheur, loin de là, tombe malade.",
+   "genre": "adulte/homme",
+   "duree_ms": 7810,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n11",
+   "type": "replique",
+   "chemin": "nodes.n11.text",
+   "noeud": "n11",
+   "partie": "Le pêcheur étranger (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Il reste une chance : qu'il revienne de lui-même, ou qu'on aille le trouver.",
+   "genre": "adulte/homme",
+   "duree_ms": 5920,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n11.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.n11.choices.0.label",
+   "texte": "Aller le trouver maintenant"
+  },
+  {
+   "id": "nodes.n11.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.n11.choices.0.tag",
+   "texte": "pêcheur recherché"
+  },
+  {
+   "id": "nodes.n11.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.n11.choices.1.label",
+   "texte": "Laisser faire le temps"
+  },
+  {
+   "id": "nodes.n11.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.n11.choices.1.tag",
+   "texte": "laissé au temps"
+  },
+  {
+   "id": "seche",
+   "type": "replique",
+   "chemin": "nodes.seche.text",
+   "noeud": "seche",
+   "partie": "Le pêcheur étranger (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "On dit qu'en ce temps-là, la soif a vidé bien des cours de Sya, et que chacun a appris trop tard à quoi tenait la source.",
+   "genre": "adulte/homme",
+   "duree_ms": 10480,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "chercher",
+   "type": "replique",
+   "chemin": "nodes.chercher.text",
+   "noeud": "chercher",
+   "partie": "Le pêcheur étranger (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Tu le trouves dans son campement, tremblant de fièvre, le silure encore entre ses mains. Il revient avec toi à la gorge.",
+   "genre": "adulte/homme",
+   "duree_ms": 9260,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n12",
+   "type": "replique",
+   "chemin": "nodes.n12.text",
+   "noeud": "n12",
+   "partie": "Le pêcheur étranger (jeu)",
+   "personnage": "Le pêcheur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Pardonne-moi, gardienne. Je ne savais pas.",
+   "genre": "adulte/homme",
+   "duree_ms": 3030,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n13",
+   "type": "replique",
+   "chemin": "nodes.n13.text",
+   "noeud": "n13",
+   "partie": "Le pêcheur étranger (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Il rend le poisson à l'eau. Mah nourrit les silures. Et l'eau revient.",
+   "genre": "adulte/homme",
+   "duree_ms": 5840,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n14.question",
+   "type": "jeu",
+   "chemin": "nodes.n14.question",
+   "texte": "Que font encore les visiteurs de Dafra aujourd'hui ?"
+  },
+  {
+   "id": "nodes.n14.gagne",
+   "type": "jeu",
+   "chemin": "nodes.n14.gagne",
+   "texte": "C'est cela : on nourrit les silures, et on leur confie ses vœux."
+  },
+  {
+   "id": "nodes.n14.perdu",
+   "type": "jeu",
+   "chemin": "nodes.n14.perdu",
+   "texte": "Non : à Dafra, on nourrit les silures, et on leur confie ses vœux."
+  },
+  {
+   "id": "nodes.n14.reponses.0.label",
+   "type": "jeu",
+   "chemin": "nodes.n14.reponses.0.label",
+   "texte": "Ils nourrissent les silures et leur confient leurs vœux"
+  },
+  {
+   "id": "nodes.n14.reponses.1.label",
+   "type": "jeu",
+   "chemin": "nodes.n14.reponses.1.label",
+   "texte": "Ils pêchent le silure pour la fête"
+  },
+  {
+   "id": "nodes.n14.reponses.2.label",
+   "type": "jeu",
+   "chemin": "nodes.n14.reponses.2.label",
+   "texte": "Ils remplissent des jarres pour la ville"
+  },
+  {
+   "id": "nodes.n14.tags.win",
+   "type": "parcours",
+   "chemin": "nodes.n14.tags.win",
+   "texte": "bonne réponse"
+  },
+  {
+   "id": "nodes.n14.tags.lose",
+   "type": "parcours",
+   "chemin": "nodes.n14.tags.lose",
+   "texte": "réponse manquée"
+  },
+  {
+   "id": "n15",
+   "type": "replique",
+   "chemin": "nodes.n15.text",
+   "noeud": "n15",
+   "partie": "Une ville protège ses silures (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "On ne prend pas à la légère ce qu'une ville entière protège.",
+   "genre": "adulte/homme",
+   "duree_ms": 4860,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "film-001",
+   "type": "film",
+   "partie": "Film d'animation, de 00:02.0 à 00:07.4",
+   "horodatage": {
+    "debut_ms": 2000,
+    "fin_ms": 7400
+   },
+   "personnage": "Narrateur",
+   "intonation": "solennel",
+   "intonation_statut": "scénario",
+   "texte": "Les silures sacrés de Dafra. Une légende de Bobo-Dioulasso.",
+   "genre": "adulte/libre",
+   "duree_ms": 5400,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-002",
+   "type": "film",
+   "partie": "Film d'animation, de 00:08.0 à 00:13.3",
+   "horodatage": {
+    "debut_ms": 8000,
+    "fin_ms": 13300
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Dans une gorge, à la source du Houet, l'eau tombe en cascade depuis toujours.",
+   "genre": "adulte/libre",
+   "duree_ms": 5300,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-003",
+   "type": "film",
+   "partie": "Film d'animation, de 00:14.0 à 00:18.4",
+   "horodatage": {
+    "debut_ms": 14000,
+    "fin_ms": 18400
+   },
+   "personnage": "Narrateur",
+   "intonation": "mystérieux",
+   "intonation_statut": "scénario",
+   "texte": "Sous sa surface vivent de grands poissons moustachus : les silures.",
+   "genre": "adulte/libre",
+   "duree_ms": 4400,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-004",
+   "type": "film",
+   "partie": "Film d'animation, de 00:21.0 à 00:29.3",
+   "horodatage": {
+    "debut_ms": 21000,
+    "fin_ms": 29300
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Un jour, au temps des fondateurs, un chasseur assoiffé trouva ce lieu. Il but, et il laissa une offrande en remerciement.",
+   "genre": "adulte/libre",
+   "duree_ms": 8300,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-005",
+   "type": "film",
+   "partie": "Film d'animation, de 00:34.0 à 00:39.3",
+   "horodatage": {
+    "debut_ms": 34000,
+    "fin_ms": 39300
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Près de la source, une ville grandit : Sya, l'ancienne Bobo-Dioulasso.",
+   "genre": "adulte/libre",
+   "duree_ms": 5300,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-006",
+   "type": "film",
+   "partie": "Film d'animation, de 00:44.0 à 00:49.5",
+   "horodatage": {
+    "debut_ms": 44000,
+    "fin_ms": 49500
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Ses habitants venaient chercher l'eau à Dafra, et ils n'oubliaient jamais de nourrir les silures.",
+   "genre": "adulte/libre",
+   "duree_ms": 5500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-007",
+   "type": "film",
+   "partie": "Film d'animation, de 01:02.0 à 01:08.1",
+   "horodatage": {
+    "debut_ms": 62000,
+    "fin_ms": 68100
+   },
+   "personnage": "Narrateur",
+   "intonation": "tendre",
+   "intonation_statut": "scénario",
+   "texte": "Awa, une jeune femme de Sya, n'avait pas d'enfant. Son cœur était lourd.",
+   "genre": "adulte/libre",
+   "duree_ms": 6100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-008",
+   "type": "film",
+   "partie": "Film d'animation, de 01:10.0 à 01:13.6",
+   "horodatage": {
+    "debut_ms": 70000,
+    "fin_ms": 73600
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Un matin, elle prit le chemin de la gorge.",
+   "genre": "adulte/libre",
+   "duree_ms": 3600,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-009",
+   "type": "film",
+   "partie": "Film d'animation, de 01:18.0 à 01:22.3",
+   "horodatage": {
+    "debut_ms": 78000,
+    "fin_ms": 82300
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Mah, la gardienne de Dafra, l'y attendait.",
+   "genre": "adulte/libre",
+   "duree_ms": 4300,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-010",
+   "type": "film",
+   "partie": "Film d'animation, de 01:24.0 à 01:28.5",
+   "horodatage": {
+    "debut_ms": 84000,
+    "fin_ms": 88500
+   },
+   "personnage": "AWA",
+   "intonation": "timide, plein d'espoir",
+   "intonation_statut": "scénario",
+   "texte": "Silures de Dafra, je vous en prie, donnez-moi un enfant.",
+   "genre": "adulte/femme",
+   "duree_ms": 4500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-011",
+   "type": "film",
+   "partie": "Film d'animation, de 01:30.0 à 01:32.6",
+   "horodatage": {
+    "debut_ms": 90000,
+    "fin_ms": 92600
+   },
+   "personnage": "MAH",
+   "intonation": "bienveillant",
+   "intonation_statut": "scénario",
+   "texte": "Fais ton vœu, et attends.",
+   "genre": "âgé/libre",
+   "duree_ms": 2600,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-012",
+   "type": "film",
+   "partie": "Film d'animation, de 01:35.0 à 01:39.7",
+   "horodatage": {
+    "debut_ms": 95000,
+    "fin_ms": 99700
+   },
+   "personnage": "Narrateur",
+   "intonation": "émerveillé",
+   "intonation_statut": "scénario",
+   "texte": "Un silure sauta hors de l'eau. Le vœu était entendu.",
+   "genre": "adulte/libre",
+   "duree_ms": 4700,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-013",
+   "type": "film",
+   "partie": "Film d'animation, de 01:45.0 à 01:51.0",
+   "horodatage": {
+    "debut_ms": 105000,
+    "fin_ms": 111000
+   },
+   "personnage": "Narrateur",
+   "intonation": "joyeux",
+   "intonation_statut": "scénario",
+   "texte": "Et bientôt, Awa berça son enfant. Elle revint à Dafra pour dire merci.",
+   "genre": "adulte/libre",
+   "duree_ms": 6000,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-014",
+   "type": "film",
+   "partie": "Film d'animation, de 02:08.0 à 02:12.8",
+   "horodatage": {
+    "debut_ms": 128000,
+    "fin_ms": 132800
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Mais un jour arriva un pêcheur étranger, avec un harpon sur l'épaule.",
+   "genre": "adulte/libre",
+   "duree_ms": 4800,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-015",
+   "type": "film",
+   "partie": "Film d'animation, de 02:17.0 à 02:22.1",
+   "horodatage": {
+    "debut_ms": 137000,
+    "fin_ms": 142100
+   },
+   "personnage": "MAH",
+   "intonation": "ferme",
+   "intonation_statut": "scénario",
+   "texte": "Ici, personne ne pêche. Ces poissons sont sacrés.",
+   "genre": "âgé/libre",
+   "duree_ms": 5100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-016",
+   "type": "film",
+   "partie": "Film d'animation, de 02:23.0 à 02:28.2",
+   "horodatage": {
+    "debut_ms": 143000,
+    "fin_ms": 148200
+   },
+   "personnage": "Narrateur",
+   "intonation": "inquiet",
+   "intonation_statut": "scénario",
+   "texte": "Il éclata de rire. Il lança son harpon et prit un silure.",
+   "genre": "adulte/libre",
+   "duree_ms": 5200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-017",
+   "type": "film",
+   "partie": "Film d'animation, de 02:40.0 à 02:46.0",
+   "horodatage": {
+    "debut_ms": 160000,
+    "fin_ms": 166000
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Il repartit, content de lui. Derrière lui, le ciel s'assombrit.",
+   "genre": "adulte/libre",
+   "duree_ms": 6000,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-018",
+   "type": "film",
+   "partie": "Film d'animation, de 02:52.0 à 02:55.8",
+   "horodatage": {
+    "debut_ms": 172000,
+    "fin_ms": 175800
+   },
+   "personnage": "Narrateur",
+   "intonation": "grave",
+   "intonation_statut": "scénario",
+   "texte": "Alors la cascade se tarit, goutte après goutte.",
+   "genre": "adulte/libre",
+   "duree_ms": 3800,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-019",
+   "type": "film",
+   "partie": "Film d'animation, de 03:03.0 à 03:09.3",
+   "horodatage": {
+    "debut_ms": 183000,
+    "fin_ms": 189300
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "À Sya, les canaris restèrent vides. Les habitants revenaient des puits les mains vides.",
+   "genre": "adulte/libre",
+   "duree_ms": 6300,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-020",
+   "type": "film",
+   "partie": "Film d'animation, de 03:16.0 à 03:20.5",
+   "horodatage": {
+    "debut_ms": 196000,
+    "fin_ms": 200500
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Et loin de là, dans son campement, le pêcheur tomba malade.",
+   "genre": "adulte/libre",
+   "duree_ms": 4500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-021",
+   "type": "film",
+   "partie": "Film d'animation, de 03:32.0 à 03:36.3",
+   "horodatage": {
+    "debut_ms": 212000,
+    "fin_ms": 216300
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Tremblant, il revint à la gorge avec le silure entre les mains.",
+   "genre": "adulte/libre",
+   "duree_ms": 4300,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-022",
+   "type": "film",
+   "partie": "Film d'animation, de 03:38.6 à 03:42.4",
+   "horodatage": {
+    "debut_ms": 218600,
+    "fin_ms": 222400
+   },
+   "personnage": "PECHEUR",
+   "intonation": "brisé",
+   "intonation_statut": "scénario",
+   "texte": "Pardonne-moi, gardienne. Je ne savais pas.",
+   "genre": "adulte/homme",
+   "duree_ms": 3800,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-023",
+   "type": "film",
+   "partie": "Film d'animation, de 03:44.0 à 03:48.9",
+   "horodatage": {
+    "debut_ms": 224000,
+    "fin_ms": 228900
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Il rendit le poisson à l'eau. Mah nourrit les silures.",
+   "genre": "adulte/libre",
+   "duree_ms": 4900,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-024",
+   "type": "film",
+   "partie": "Film d'animation, de 03:52.0 à 03:57.2",
+   "horodatage": {
+    "debut_ms": 232000,
+    "fin_ms": 237200
+   },
+   "personnage": "Narrateur",
+   "intonation": "joyeux",
+   "intonation_statut": "scénario",
+   "texte": "Et l'eau revint. Les habitants accoururent pour fêter son retour.",
+   "genre": "adulte/libre",
+   "duree_ms": 5200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-025",
+   "type": "film",
+   "partie": "Film d'animation, de 04:17.0 à 04:23.1",
+   "horodatage": {
+    "debut_ms": 257000,
+    "fin_ms": 263100
+   },
+   "personnage": "Narrateur",
+   "intonation": "apaisé",
+   "intonation_statut": "scénario",
+   "texte": "Aujourd'hui encore, à Dafra, les visiteurs nourrissent les silures, et ils leur confient leurs vœux.",
+   "genre": "adulte/libre",
+   "duree_ms": 6100,
+   "duree_statut": "mesurée sur le film"
+  }
+ ]
+}

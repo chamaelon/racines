@@ -1,0 +1,362 @@
+# Le soulèvement de Bona : fiches des bandes-son
+# Généré par « npm run bandes-son » depuis pistes.json. Modifier pistes.json, pas ce fichier.
+
+piste: n1
+histoire: Le soulèvement de Bona
+partie: 1915 à Datomon (jeu)
+personnage: Le griot
+fichier: bona-1915-n1-<langue>.m4a
+intonation: posé (proposée)
+texte: 1915. À Datomon, la mosquée se dresse au cœur du pays marka. La guerre des Blancs est loin. Mais ses exigences arrivent jusqu'ici.
+genre: adulte/homme
+duree: 10090ms (estimée)
+
+piste: n2
+histoire: Le soulèvement de Bona
+partie: 1915 à Datomon (jeu)
+personnage: Le prédicateur
+fichier: bona-1915-n2-<langue>.m4a
+intonation: vif (proposée)
+texte: Écoutez ! Un messie viendra. Le pouvoir des Blancs prendra fin.
+genre: âgé/homme
+duree: 5080ms (estimée)
+
+piste: n3
+histoire: Le soulèvement de Bona
+partie: 1915 à Datomon (jeu)
+personnage: Le griot
+fichier: bona-1915-n3-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Un prédicateur parle chaque jour devant la mosquée. La foule l'écoute et commence à espérer. Et toi, tu restes l'écouter, ou tu vas voir ce qui se passe plus loin ?
+genre: adulte/homme
+duree: 12980ms (estimée)
+
+piste: foule
+histoire: Le soulèvement de Bona
+partie: 1915 à Datomon (jeu)
+personnage: Le griot
+fichier: bona-1915-foule-<langue>.m4a
+intonation: enlevé (proposée)
+texte: « Quand viendra-t-il ? Dis-nous quand ! » Tout le monde veut une date. Puis une autre nouvelle arrive : on recrute.
+genre: adulte/homme
+duree: 9710ms (estimée)
+
+piste: recrut
+histoire: Le soulèvement de Bona
+partie: Le recrutement (jeu)
+personnage: Le commandant
+fichier: bona-1915-recrut-<langue>.m4a
+intonation: posé (proposée)
+texte: Ils partiront. Ce sont les ordres.
+genre: adulte/homme
+duree: 2880ms (estimée)
+
+piste: n4
+histoire: Le soulèvement de Bona
+partie: Le recrutement (jeu)
+personnage: Le chef
+fichier: bona-1915-n4-<langue>.m4a
+intonation: grave (proposée)
+texte: Nos fils sont nos bras pour les champs.
+genre: âgé/homme
+duree: 3340ms (estimée)
+
+piste: n5
+histoire: Le soulèvement de Bona
+partie: Le recrutement (jeu)
+personnage: Le griot
+fichier: bona-1915-n5-<langue>.m4a
+intonation: posé (proposée)
+texte: Les gardes emmènent les jeunes hommes. Les mères pleurent au bord du chemin.
+genre: adulte/homme
+duree: 5540ms (estimée)
+
+piste: n6
+histoire: Le soulèvement de Bona
+partie: Le serment de Bona (jeu)
+personnage: Le griot
+fichier: bona-1915-n6-<langue>.m4a
+intonation: chuchoté (proposée)
+texte: Une nuit, à Bona, les anciens se réunissent autour de l'autel. Ils tendent la main au-dessus de lui, et ils font serment.
+genre: adulte/homme
+duree: 9410ms (estimée)
+
+piste: n7
+histoire: Le soulèvement de Bona
+partie: Le serment de Bona (jeu)
+personnage: Le griot
+fichier: bona-1915-n7-<langue>.m4a
+intonation: chuchoté (proposée)
+texte: Dans le noir, les tambours de guerre commencent à parler. Écoute.
+genre: adulte/homme
+duree: 4930ms (estimée)
+
+piste: n9
+histoire: Le soulèvement de Bona
+partie: 17 novembre 1915 (jeu)
+personnage: Le griot
+fichier: bona-1915-n9-<langue>.m4a
+intonation: tendu (proposée)
+texte: Le 17 novembre 1915, l'insurrection éclate à Bona. Les flèches répondent aux fusils, derrière le muret de banco, et la colonne recule. La nouvelle court de village en village, et des cavaliers portent le message.
+genre: adulte/homme
+duree: 14800ms (estimée)
+
+piste: n11
+histoire: Le soulèvement de Bona
+partie: 1916 : les ruines (jeu)
+personnage: Le griot
+fichier: bona-1915-n11-<langue>.m4a
+intonation: grave (proposée)
+texte: Le soulèvement s'étend aux villages marka et bwa. Mais en 1916, la révolte est réprimée. À Bona, il ne reste que des ruines. Le pays a payé très cher ce refus.
+genre: adulte/homme
+duree: 13280ms (estimée)
+
+piste: n12
+histoire: Le soulèvement de Bona
+partie: 1916 : les ruines (jeu)
+personnage: L'ancien
+fichier: bona-1915-n12-<langue>.m4a
+intonation: grave (proposée)
+texte: Nos pères ont dit non.
+genre: adulte/homme
+duree: 2200ms (estimée)
+
+piste: relire
+histoire: Le soulèvement de Bona
+partie: 1916 : les ruines (jeu)
+personnage: L'ancien
+fichier: bona-1915-relire-<langue>.m4a
+intonation: grave (proposée)
+texte: Reviens à Bona. Une date se garde comme un serment.
+genre: adulte/homme
+duree: 4400ms (estimée)
+
+piste: bien
+histoire: Le soulèvement de Bona
+partie: 1916 : les ruines (jeu)
+personnage: L'ancien
+fichier: bona-1915-bien-<langue>.m4a
+intonation: grave (proposée)
+texte: Ne l'oublions pas.
+genre: adulte/homme
+duree: 1440ms (estimée)
+
+piste: film-001
+histoire: Le soulèvement de Bona
+partie: Film d'animation, de 00:02.0 à 00:08.2
+personnage: Narrateur
+fichier: bona-1915-film-001-<langue>.m4a
+intonation: sobre (scénario)
+texte: Le soulèvement de Bona. Un récit du pays marka, simplifié pour l'image.
+genre: adulte/libre
+duree: 6200ms (mesurée sur le film)
+
+piste: film-002
+histoire: Le soulèvement de Bona
+partie: Film d'animation, de 00:09.0 à 00:14.2
+personnage: Narrateur
+fichier: bona-1915-film-002-<langue>.m4a
+intonation: posé (proposée)
+texte: 1915. À Datomon, la mosquée se dresse au cœur du pays marka.
+genre: adulte/libre
+duree: 5200ms (mesurée sur le film)
+
+piste: film-003
+histoire: Le soulèvement de Bona
+partie: Film d'animation, de 00:18.0 à 00:23.1
+personnage: Narrateur
+fichier: bona-1915-film-003-<langue>.m4a
+intonation: posé (proposée)
+texte: La guerre des Blancs est loin. Mais ses exigences arrivent jusqu'ici.
+genre: adulte/libre
+duree: 5100ms (mesurée sur le film)
+
+piste: film-004
+histoire: Le soulèvement de Bona
+partie: Film d'animation, de 00:28.0 à 00:34.3
+personnage: PREDICATEUR
+fichier: bona-1915-film-004-<langue>.m4a
+intonation: inspiré (scénario)
+texte: Écoutez ! Un messie viendra. Le pouvoir des Blancs prendra fin.
+genre: âgé/libre
+duree: 6300ms (mesurée sur le film)
+
+piste: film-005
+histoire: Le soulèvement de Bona
+partie: Film d'animation, de 00:37.0 à 00:43.4
+personnage: Narrateur
+fichier: bona-1915-film-005-<langue>.m4a
+intonation: posé (proposée)
+texte: Un prédicateur parle chaque jour devant la mosquée. La foule l'écoute et commence à espérer.
+genre: adulte/libre
+duree: 6400ms (mesurée sur le film)
+
+piste: film-006
+histoire: Le soulèvement de Bona
+partie: Film d'animation, de 00:51.0 à 00:54.8
+personnage: FOULE
+fichier: bona-1915-film-006-<langue>.m4a
+intonation: murmure plein d'espoir (scénario)
+texte: Quand viendra-t-il ? Dis-nous quand !
+genre: adulte/femme
+duree: 3800ms (mesurée sur le film)
+
+piste: film-007
+histoire: Le soulèvement de Bona
+partie: Film d'animation, de 01:08.0 à 01:13.8
+personnage: Narrateur
+fichier: bona-1915-film-007-<langue>.m4a
+intonation: posé (proposée)
+texte: Puis arrive le recrutement. L'administration veut des soldats pour sa guerre.
+genre: adulte/libre
+duree: 5800ms (mesurée sur le film)
+
+piste: film-008
+histoire: Le soulèvement de Bona
+partie: Film d'animation, de 01:15.5 à 01:18.0
+personnage: CHEF
+fichier: bona-1915-film-008-<langue>.m4a
+intonation: digne (scénario)
+texte: Nos fils sont nos bras pour les champs.
+genre: âgé/libre
+duree: 2500ms (mesurée sur le film)
+
+piste: film-009
+histoire: Le soulèvement de Bona
+partie: Film d'animation, de 01:18.0 à 01:21.2
+personnage: COMMANDANT
+fichier: bona-1915-film-009-<langue>.m4a
+intonation: sec (scénario)
+texte: Ils partiront. Ce sont les ordres.
+genre: adulte/homme
+duree: 3200ms (mesurée sur le film)
+
+piste: film-010
+histoire: Le soulèvement de Bona
+partie: Film d'animation, de 01:24.0 à 01:29.2
+personnage: Narrateur
+fichier: bona-1915-film-010-<langue>.m4a
+intonation: grave (scénario)
+texte: Les gardes emmènent les jeunes hommes. Les mères pleurent au bord du chemin.
+genre: adulte/libre
+duree: 5200ms (mesurée sur le film)
+
+piste: film-011
+histoire: Le soulèvement de Bona
+partie: Film d'animation, de 01:47.0 à 01:51.7
+personnage: Narrateur
+fichier: bona-1915-film-011-<langue>.m4a
+intonation: posé (proposée)
+texte: Une nuit, à Bona, les anciens se réunissent autour de l'autel.
+genre: adulte/libre
+duree: 4700ms (mesurée sur le film)
+
+piste: film-012
+histoire: Le soulèvement de Bona
+partie: Film d'animation, de 01:55.0 à 01:58.8
+personnage: Narrateur
+fichier: bona-1915-film-012-<langue>.m4a
+intonation: ferme (scénario)
+texte: Ils tendent la main au-dessus de lui, et ils font serment.
+genre: adulte/libre
+duree: 3800ms (mesurée sur le film)
+
+piste: film-013
+histoire: Le soulèvement de Bona
+partie: Film d'animation, de 02:06.0 à 02:10.0
+personnage: Narrateur
+fichier: bona-1915-film-013-<langue>.m4a
+intonation: posé (proposée)
+texte: Dans le noir, les tambours de guerre commencent à parler.
+genre: adulte/libre
+duree: 4000ms (mesurée sur le film)
+
+piste: film-014
+histoire: Le soulèvement de Bona
+partie: Film d'animation, de 02:22.0 à 02:26.9
+personnage: Narrateur
+fichier: bona-1915-film-014-<langue>.m4a
+intonation: ferme (scénario)
+texte: Le 17 novembre 1915, l'insurrection éclate à Bona.
+genre: adulte/libre
+duree: 4900ms (mesurée sur le film)
+
+piste: film-015
+histoire: Le soulèvement de Bona
+partie: Film d'animation, de 02:30.0 à 02:35.8
+personnage: Narrateur
+fichier: bona-1915-film-015-<langue>.m4a
+intonation: posé (proposée)
+texte: La colonne arrive. Les flèches répondent aux fusils derrière le muret de banco.
+genre: adulte/libre
+duree: 5800ms (mesurée sur le film)
+
+piste: film-016
+histoire: Le soulèvement de Bona
+partie: Film d'animation, de 02:45.0 à 02:49.4
+personnage: Narrateur
+fichier: bona-1915-film-016-<langue>.m4a
+intonation: posé (proposée)
+texte: Les défenseurs franchissent le muret, et la colonne recule.
+genre: adulte/libre
+duree: 4400ms (mesurée sur le film)
+
+piste: film-017
+histoire: Le soulèvement de Bona
+partie: Film d'animation, de 03:07.0 à 03:12.7
+personnage: Narrateur
+fichier: bona-1915-film-017-<langue>.m4a
+intonation: posé (proposée)
+texte: La nouvelle court de village en village. Des cavaliers portent le message.
+genre: adulte/libre
+duree: 5700ms (mesurée sur le film)
+
+piste: film-018
+histoire: Le soulèvement de Bona
+partie: Film d'animation, de 03:18.0 à 03:21.4
+personnage: Narrateur
+fichier: bona-1915-film-018-<langue>.m4a
+intonation: posé (proposée)
+texte: Le soulèvement s'étend aux villages marka et bwa.
+genre: adulte/libre
+duree: 3400ms (mesurée sur le film)
+
+piste: film-019
+histoire: Le soulèvement de Bona
+partie: Film d'animation, de 03:37.0 à 03:43.9
+personnage: Narrateur
+fichier: bona-1915-film-019-<langue>.m4a
+intonation: grave (scénario)
+texte: Mais en 1916, la révolte est réprimée. À Bona, il ne reste que des ruines.
+genre: adulte/libre
+duree: 6900ms (mesurée sur le film)
+
+piste: film-020
+histoire: Le soulèvement de Bona
+partie: Film d'animation, de 03:50.0 à 03:53.1
+personnage: Narrateur
+fichier: bona-1915-film-020-<langue>.m4a
+intonation: posé (proposée)
+texte: Le pays a payé très cher ce refus.
+genre: adulte/libre
+duree: 3100ms (mesurée sur le film)
+
+piste: film-021
+histoire: Le soulèvement de Bona
+partie: Film d'animation, de 04:07.0 à 04:09.2
+personnage: ANCIEN
+fichier: bona-1915-film-021-<langue>.m4a
+intonation: posé (scénario)
+texte: Nos pères ont dit non.
+genre: âgé/libre
+duree: 2200ms (mesurée sur le film)
+
+piste: film-022
+histoire: Le soulèvement de Bona
+partie: Film d'animation, de 04:10.5 à 04:12.6
+personnage: ANCIEN
+fichier: bona-1915-film-022-<langue>.m4a
+intonation: posé (scénario)
+texte: Ne l'oublions pas.
+genre: âgé/libre
+duree: 2100ms (mesurée sur le film)

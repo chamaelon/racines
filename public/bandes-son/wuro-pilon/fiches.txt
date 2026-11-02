@@ -1,0 +1,542 @@
+# Wuro blessé par le pilon : fiches des bandes-son
+# Généré par « npm run bandes-son » depuis pistes.json. Modifier pistes.json, pas ce fichier.
+
+piste: n1
+histoire: Wuro blessé par le pilon
+partie: Quand le ciel touchait les toits (jeu)
+personnage: Le griot
+fichier: wuro-pilon-n1-<langue>.m4a
+intonation: posé (proposée)
+texte: Dans la nuit d'avant le monde, Wuro alluma les étoiles une à une. En ce temps-là, le ciel touchait presque les toits, et Wuro marchait parmi les hommes.
+genre: adulte/homme
+duree: 11690ms (estimée)
+
+piste: n2
+histoire: Wuro blessé par le pilon
+partie: Quand le ciel touchait les toits (jeu)
+personnage: Wuro
+fichier: wuro-pilon-n2-<langue>.m4a
+intonation: solennel (proposée)
+texte: Semez ce mil à la saison des pluies. La terre vous le rendra au centuple.
+genre: voix solennelle/libre
+duree: 6300ms (estimée)
+
+piste: n3
+histoire: Wuro blessé par le pilon
+partie: Quand le ciel touchait les toits (jeu)
+personnage: Le griot
+fichier: wuro-pilon-n3-<langue>.m4a
+intonation: posé (proposée)
+texte: Regarde la cour où Hamé pile le mil.
+genre: adulte/homme
+duree: 3340ms (estimée)
+
+piste: n4
+histoire: Wuro blessé par le pilon
+partie: Quand le ciel touchait les toits (jeu)
+personnage: Le griot
+fichier: wuro-pilon-n4-<langue>.m4a
+intonation: posé (proposée)
+texte: Wuro arrive, fatigué, et s'assoit près d'elle. Sa main reste suspendue au-dessus du mortier. Hamé pile de plus en plus vite. Et le pilon frappe la main de Wuro.
+genre: adulte/homme
+duree: 12520ms (estimée)
+
+piste: n5
+histoire: Wuro blessé par le pilon
+partie: Quand le ciel touchait les toits (jeu)
+personnage: Hamé
+fichier: wuro-pilon-n5-<langue>.m4a
+intonation: vif (proposée)
+texte: Pardon, Wuro ! Je ne t'avais pas vu !
+genre: adulte/femme
+duree: 4170ms (estimée)
+
+piste: n6
+histoire: Wuro blessé par le pilon
+partie: Quand le ciel touchait les toits (jeu)
+personnage: Le griot
+fichier: wuro-pilon-n6-<langue>.m4a
+intonation: posé (proposée)
+texte: Wuro regarde Hamé, sans colère. Il s'élève lentement, et le ciel monte avec lui, très haut.
+genre: adulte/homme
+duree: 7130ms (estimée)
+
+piste: n7
+histoire: Wuro blessé par le pilon
+partie: Le monde déréglé (jeu)
+personnage: Le griot
+fichier: wuro-pilon-n7-<langue>.m4a
+intonation: posé (proposée)
+texte: Sans Wuro, le monde se dérègle. La pluie ne vient plus, et le mil sèche sur pied.
+genre: adulte/homme
+duree: 7360ms (estimée)
+
+piste: n8
+histoire: Wuro blessé par le pilon
+partie: Le monde déréglé (jeu)
+personnage: Bado
+fichier: wuro-pilon-n8-<langue>.m4a
+intonation: vif (proposée)
+texte: Cette eau est pour ma famille !
+genre: adulte/homme
+duree: 2960ms (estimée)
+
+piste: n9
+histoire: Wuro blessé par le pilon
+partie: Le monde déréglé (jeu)
+personnage: Sanou
+fichier: wuro-pilon-n9-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Et la mienne, qu'elle meure de soif ?
+genre: adulte/homme
+duree: 3490ms (estimée)
+
+piste: n10
+histoire: Wuro blessé par le pilon
+partie: Le monde déréglé (jeu)
+personnage: Le griot
+fichier: wuro-pilon-n10-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Le petit Tiko tombe malade. Que fait le village ?
+genre: adulte/homme
+duree: 4400ms (estimée)
+
+piste: silence
+histoire: Wuro blessé par le pilon
+partie: Le monde déréglé (jeu)
+personnage: Le griot
+fichier: wuro-pilon-silence-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Personne n'appelle. Si personne ne lève les yeux, le ciel peut-il encore répondre ? Veux-tu qu'ils essaient une dernière fois ?
+genre: adulte/homme
+duree: 9030ms (estimée)
+
+piste: finsilence
+histoire: Wuro blessé par le pilon
+partie: Le monde déréglé (jeu)
+personnage: Le griot
+fichier: wuro-pilon-finsilence-<langue>.m4a
+intonation: posé (proposée)
+texte: Ceci n'est pas ce que raconte le griot : c'est ce qui serait arrivé si plus personne n'avait appelé. Une blessure peut éloigner, mais le silence sépare tout à fait.
+genre: adulte/homme
+duree: 12300ms (estimée)
+
+piste: priere
+histoire: Wuro blessé par le pilon
+partie: Wuro entend (jeu)
+personnage: Wuro
+fichier: wuro-pilon-priere-<langue>.m4a
+intonation: solennel (proposée)
+texte: Je les entends. Du haut du ciel, j'ouvre les mains : trois lumières, mes trois fils.
+genre: voix solennelle/libre
+duree: 7130ms (estimée)
+
+piste: n11
+histoire: Wuro blessé par le pilon
+partie: Wuro entend (jeu)
+personnage: Le griot
+fichier: wuro-pilon-n11-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Trois malheurs attendent. Par lequel commencer ?
+genre: adulte/homme
+duree: 3260ms (estimée)
+
+piste: kwere
+histoire: Wuro blessé par le pilon
+partie: Wuro entend (jeu)
+personnage: Le griot
+fichier: wuro-pilon-kwere-<langue>.m4a
+intonation: solennel (proposée)
+texte: Kwere frappe le sol de son bâton. Les nuages s'amoncellent, la pluie tombe enfin, et le mil se redresse.
+genre: adulte/homme
+duree: 8120ms (estimée)
+
+piste: n12
+histoire: Wuro blessé par le pilon
+partie: Les remèdes de la brousse (jeu)
+personnage: Le griot
+fichier: wuro-pilon-n12-<langue>.m4a
+intonation: mystérieux (proposée)
+texte: Puis, dans la brousse, Yéli cherche des remèdes quand la hyène surgit. Soxo tend la main, et la bête se couche. Il cueille les feuilles qui guérissent.
+genre: adulte/homme
+duree: 11610ms (estimée)
+
+piste: soxo
+histoire: Wuro blessé par le pilon
+partie: Wuro entend (jeu)
+personnage: Le griot
+fichier: wuro-pilon-soxo-<langue>.m4a
+intonation: mystérieux (proposée)
+texte: Dans la brousse, Yéli cherche des remèdes quand la hyène surgit. Soxo tend la main, et la bête se couche. Il cueille les feuilles qui guérissent.
+genre: adulte/homme
+duree: 11080ms (estimée)
+
+piste: n13
+histoire: Wuro blessé par le pilon
+partie: Wuro entend (jeu)
+personnage: Le griot
+fichier: wuro-pilon-n13-<langue>.m4a
+intonation: mystérieux (proposée)
+texte: Puis Kwere frappe le sol de son bâton. La pluie tombe enfin, et le mil se redresse.
+genre: adulte/homme
+duree: 7210ms (estimée)
+
+piste: dwo
+histoire: Wuro blessé par le pilon
+partie: Le masque de feuilles (jeu)
+personnage: Le griot
+fichier: wuro-pilon-dwo-<langue>.m4a
+intonation: joyeux (proposée)
+texte: Tiko se relève. Enfin vient Dwo, le masque de feuilles. Il tourne, il saute. Accompagne-le.
+genre: adulte/homme
+duree: 7200ms (estimée)
+
+piste: n15
+histoire: Wuro blessé par le pilon
+partie: Le masque de feuilles (jeu)
+personnage: Le griot
+fichier: wuro-pilon-n15-<langue>.m4a
+intonation: joyeux (proposée)
+texte: Le soir, Hamé pile de nouveau, plus doucement. Elle lève les yeux vers le ciel, devenu très haut. Une étoile lui répond.
+genre: adulte/homme
+duree: 9710ms (estimée)
+
+piste: film-001
+histoire: Wuro blessé par le pilon
+partie: Film d'animation, de 00:02.0 à 00:06.1
+personnage: Narrateur
+fichier: wuro-pilon-film-001-<langue>.m4a
+intonation: solennel (scénario)
+texte: Wuro et le pilon. Un mythe des Bwaba.
+genre: adulte/libre
+duree: 4100ms (mesurée sur le film)
+
+piste: film-002
+histoire: Wuro blessé par le pilon
+partie: Film d'animation, de 00:07.0 à 00:11.2
+personnage: Narrateur
+fichier: wuro-pilon-film-002-<langue>.m4a
+intonation: posé (proposée)
+texte: Dans la nuit d'avant le monde, Wuro alluma les étoiles une à une.
+genre: adulte/libre
+duree: 4200ms (mesurée sur le film)
+
+piste: film-003
+histoire: Wuro blessé par le pilon
+partie: Film d'animation, de 00:14.0 à 00:19.7
+personnage: Narrateur
+fichier: wuro-pilon-film-003-<langue>.m4a
+intonation: posé (proposée)
+texte: Il fit monter la terre, couler le fleuve, et d'un souffle, il fit pousser les arbres.
+genre: adulte/libre
+duree: 5700ms (mesurée sur le film)
+
+piste: film-004
+histoire: Wuro blessé par le pilon
+partie: Film d'animation, de 00:32.0 à 00:38.2
+personnage: Narrateur
+fichier: wuro-pilon-film-004-<langue>.m4a
+intonation: posé (proposée)
+texte: En ce temps-là, le ciel touchait presque les toits. Wuro marchait parmi les hommes.
+genre: adulte/libre
+duree: 6200ms (mesurée sur le film)
+
+piste: film-005
+histoire: Wuro blessé par le pilon
+partie: Film d'animation, de 00:40.0 à 00:47.1
+personnage: Narrateur
+fichier: wuro-pilon-film-005-<langue>.m4a
+intonation: tendre (scénario)
+texte: Tiko, un enfant du village, courait autour de ses jambes. Wuro le souleva jusqu'au ciel.
+genre: adulte/libre
+duree: 7100ms (mesurée sur le film)
+
+piste: film-006
+histoire: Wuro blessé par le pilon
+partie: Film d'animation, de 00:51.0 à 00:54.4
+personnage: Narrateur
+fichier: wuro-pilon-film-006-<langue>.m4a
+intonation: posé (proposée)
+texte: Au forgeron Bado, il offrit le mil.
+genre: adulte/libre
+duree: 3400ms (mesurée sur le film)
+
+piste: film-007
+histoire: Wuro blessé par le pilon
+partie: Film d'animation, de 01:00.5 à 01:06.0
+personnage: WURO
+fichier: wuro-pilon-film-007-<langue>.m4a
+intonation: chaleureux (scénario)
+texte: Semez ceci à la saison des pluies. La terre vous le rendra au centuple.
+genre: esprit, créature : voix grave/libre
+duree: 5500ms (mesurée sur le film)
+
+piste: film-008
+histoire: Wuro blessé par le pilon
+partie: Film d'animation, de 01:17.0 à 01:20.2
+personnage: Narrateur
+fichier: wuro-pilon-film-008-<langue>.m4a
+intonation: posé (proposée)
+texte: Dans sa cour, Hamé pilait le mil.
+genre: adulte/libre
+duree: 3200ms (mesurée sur le film)
+
+piste: film-009
+histoire: Wuro blessé par le pilon
+partie: Film d'animation, de 01:27.0 à 01:35.9
+personnage: Narrateur
+fichier: wuro-pilon-film-009-<langue>.m4a
+intonation: posé (proposée)
+texte: Wuro arriva, fatigué, et s'assit près d'elle. Il bâilla, s'étira, et sa main resta suspendue au-dessus du mortier.
+genre: adulte/libre
+duree: 8900ms (mesurée sur le film)
+
+piste: film-010
+histoire: Wuro blessé par le pilon
+partie: Film d'animation, de 01:39.0 à 01:42.9
+personnage: Narrateur
+fichier: wuro-pilon-film-010-<langue>.m4a
+intonation: inquiet (scénario)
+texte: Hamé pilait de plus en plus vite, de plus en plus haut.
+genre: adulte/libre
+duree: 3900ms (mesurée sur le film)
+
+piste: film-011
+histoire: Wuro blessé par le pilon
+partie: Film d'animation, de 01:44.5 à 01:47.4
+personnage: Narrateur
+fichier: wuro-pilon-film-011-<langue>.m4a
+intonation: bref (scénario)
+texte: Et le pilon frappa la main de Wuro.
+genre: adulte/libre
+duree: 2900ms (mesurée sur le film)
+
+piste: film-012
+histoire: Wuro blessé par le pilon
+partie: Film d'animation, de 01:50.0 à 01:55.1
+personnage: Narrateur
+fichier: wuro-pilon-film-012-<langue>.m4a
+intonation: grave (scénario)
+texte: Wuro serra sa main blessée. Sa lumière se mit à trembler.
+genre: adulte/libre
+duree: 5100ms (mesurée sur le film)
+
+piste: film-013
+histoire: Wuro blessé par le pilon
+partie: Film d'animation, de 01:57.3 à 02:01.6
+personnage: HAME
+fichier: wuro-pilon-film-013-<langue>.m4a
+intonation: affolé (scénario)
+texte: Pardon, Wuro ! Je ne t'avais pas vu !
+genre: adulte/femme
+duree: 4300ms (mesurée sur le film)
+
+piste: film-014
+histoire: Wuro blessé par le pilon
+partie: Film d'animation, de 02:04.0 à 02:08.2
+personnage: Narrateur
+fichier: wuro-pilon-film-014-<langue>.m4a
+intonation: posé (proposée)
+texte: Les villageois accoururent, puis reculèrent, effrayés.
+genre: adulte/libre
+duree: 4200ms (mesurée sur le film)
+
+piste: film-015
+histoire: Wuro blessé par le pilon
+partie: Film d'animation, de 02:12.0 à 02:18.1
+personnage: Narrateur
+fichier: wuro-pilon-film-015-<langue>.m4a
+intonation: triste (scénario)
+texte: Wuro regarda Hamé, sans colère. Il secoua la tête et s'éleva lentement.
+genre: adulte/libre
+duree: 6100ms (mesurée sur le film)
+
+piste: film-016
+histoire: Wuro blessé par le pilon
+partie: Film d'animation, de 02:21.0 à 02:27.3
+personnage: Narrateur
+fichier: wuro-pilon-film-016-<langue>.m4a
+intonation: posé (proposée)
+texte: Le ciel monta avec lui, très haut. Bientôt, il ne fut plus qu'une étoile.
+genre: adulte/libre
+duree: 6300ms (mesurée sur le film)
+
+piste: film-017
+histoire: Wuro blessé par le pilon
+partie: Film d'animation, de 02:34.0 à 02:40.6
+personnage: Narrateur
+fichier: wuro-pilon-film-017-<langue>.m4a
+intonation: grave (scénario)
+texte: Sans Wuro, le monde se dérégla. La pluie ne venait plus, et le mil séchait sur pied.
+genre: adulte/libre
+duree: 6600ms (mesurée sur le film)
+
+piste: film-018
+histoire: Wuro blessé par le pilon
+partie: Film d'animation, de 02:45.0 à 02:48.2
+personnage: Narrateur
+fichier: wuro-pilon-film-018-<langue>.m4a
+intonation: posé (proposée)
+texte: La nuit, une hyène pillait le grenier.
+genre: adulte/libre
+duree: 3200ms (mesurée sur le film)
+
+piste: film-019
+histoire: Wuro blessé par le pilon
+partie: Film d'animation, de 02:55.0 à 02:57.2
+personnage: BADO
+fichier: wuro-pilon-film-019-<langue>.m4a
+intonation: colère (scénario)
+texte: Cette eau est pour ma famille !
+genre: adulte/homme
+duree: 2200ms (mesurée sur le film)
+
+piste: film-020
+histoire: Wuro blessé par le pilon
+partie: Film d'animation, de 02:58.3 à 03:01.4
+personnage: SANOU
+fichier: wuro-pilon-film-020-<langue>.m4a
+intonation: colère (scénario)
+texte: Et la mienne, qu'elle meure de soif ?
+genre: adulte/homme
+duree: 3100ms (mesurée sur le film)
+
+piste: film-021
+histoire: Wuro blessé par le pilon
+partie: Film d'animation, de 03:05.0 à 03:07.8
+personnage: Narrateur
+fichier: wuro-pilon-film-021-<langue>.m4a
+intonation: posé (proposée)
+texte: Le petit Tiko tomba malade.
+genre: adulte/libre
+duree: 2800ms (mesurée sur le film)
+
+piste: film-022
+histoire: Wuro blessé par le pilon
+partie: Film d'animation, de 03:15.5 à 03:18.0
+personnage: YELI
+fichier: wuro-pilon-film-022-<langue>.m4a
+intonation: suppliant, voix usée (scénario)
+texte: Wuro, entends-nous !
+genre: âgé/libre
+duree: 2500ms (mesurée sur le film)
+
+piste: film-023
+histoire: Wuro blessé par le pilon
+partie: Film d'animation, de 03:19.0 à 03:21.3
+personnage: Narrateur
+fichier: wuro-pilon-film-023-<langue>.m4a
+intonation: triste (scénario)
+texte: Personne ne répondit.
+genre: adulte/libre
+duree: 2300ms (mesurée sur le film)
+
+piste: film-024
+histoire: Wuro blessé par le pilon
+partie: Film d'animation, de 03:24.0 à 03:32.8
+personnage: Narrateur
+fichier: wuro-pilon-film-024-<langue>.m4a
+intonation: posé (proposée)
+texte: Mais du haut du ciel, Wuro regardait. Il ouvrit ses mains : trois lumières plongèrent vers la terre. Ses trois fils.
+genre: adulte/libre
+duree: 8800ms (mesurée sur le film)
+
+piste: film-025
+histoire: Wuro blessé par le pilon
+partie: Film d'animation, de 03:45.0 à 03:51.3
+personnage: Narrateur
+fichier: wuro-pilon-film-025-<langue>.m4a
+intonation: fort (scénario)
+texte: Kwere, la foudre, frappa le sol de son bâton. Les nuages s'amoncelèrent.
+genre: adulte/libre
+duree: 6300ms (mesurée sur le film)
+
+piste: film-026
+histoire: Wuro blessé par le pilon
+partie: Film d'animation, de 03:58.0 à 04:01.8
+personnage: Narrateur
+fichier: wuro-pilon-film-026-<langue>.m4a
+intonation: joyeux (scénario)
+texte: La pluie tomba enfin, et le mil se redressa.
+genre: adulte/libre
+duree: 3800ms (mesurée sur le film)
+
+piste: film-027
+histoire: Wuro blessé par le pilon
+partie: Film d'animation, de 04:13.0 à 04:17.6
+personnage: Narrateur
+fichier: wuro-pilon-film-027-<langue>.m4a
+intonation: posé (proposée)
+texte: Dans la brousse, Yéli cherchait des remèdes, quand la hyène surgit.
+genre: adulte/libre
+duree: 4600ms (mesurée sur le film)
+
+piste: film-028
+histoire: Wuro blessé par le pilon
+partie: Film d'animation, de 04:25.0 à 04:30.3
+personnage: Narrateur
+fichier: wuro-pilon-film-028-<langue>.m4a
+intonation: posé (proposée)
+texte: Soxo, l'esprit de la brousse, tendit la main, et la bête se coucha.
+genre: adulte/libre
+duree: 5300ms (mesurée sur le film)
+
+piste: film-029
+histoire: Wuro blessé par le pilon
+partie: Film d'animation, de 04:33.0 à 04:37.8
+personnage: Narrateur
+fichier: wuro-pilon-film-029-<langue>.m4a
+intonation: tendre (scénario)
+texte: Il cueillit les feuilles qui guérissent. Et Tiko se releva.
+genre: adulte/libre
+duree: 4800ms (mesurée sur le film)
+
+piste: film-030
+histoire: Wuro blessé par le pilon
+partie: Film d'animation, de 04:51.0 à 04:54.7
+personnage: Narrateur
+fichier: wuro-pilon-film-030-<langue>.m4a
+intonation: posé (proposée)
+texte: Enfin vint Dwo, le masque de feuilles.
+genre: adulte/libre
+duree: 3700ms (mesurée sur le film)
+
+piste: film-031
+histoire: Wuro blessé par le pilon
+partie: Film d'animation, de 04:57.0 à 05:04.1
+personnage: Narrateur
+fichier: wuro-pilon-film-031-<langue>.m4a
+intonation: joyeux (scénario)
+texte: Il tourna, sauta, secoua ses feuilles devant Bado et Sanou. Les deux hommes se tendirent la main.
+genre: adulte/libre
+duree: 7100ms (mesurée sur le film)
+
+piste: film-032
+histoire: Wuro blessé par le pilon
+partie: Film d'animation, de 05:12.0 à 05:14.5
+personnage: Narrateur
+fichier: wuro-pilon-film-032-<langue>.m4a
+intonation: joyeux (scénario)
+texte: Et tout le village dansa.
+genre: adulte/libre
+duree: 2500ms (mesurée sur le film)
+
+piste: film-033
+histoire: Wuro blessé par le pilon
+partie: Film d'animation, de 05:29.0 à 05:36.6
+personnage: Narrateur
+fichier: wuro-pilon-film-033-<langue>.m4a
+intonation: doux (scénario)
+texte: Le soir, Hamé pile de nouveau, plus doucement. Elle lève les yeux vers le ciel, devenu très haut.
+genre: adulte/libre
+duree: 7600ms (mesurée sur le film)
+
+piste: film-034
+histoire: Wuro blessé par le pilon
+partie: Film d'animation, de 05:37.0 à 05:39.4
+personnage: Narrateur
+fichier: wuro-pilon-film-034-<langue>.m4a
+intonation: très doux (scénario)
+texte: Une étoile lui répond.
+genre: adulte/libre
+duree: 2400ms (mesurée sur le film)

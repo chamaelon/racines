@@ -60,6 +60,7 @@ export class Moteur {
     this.sauver({ noeud: id, vars: { ...this.vars }, parcours: [...this.parcours], scene: this.scene });
     appliquer(n, this.vars);
     if (n.scene && n.scene !== this.scene) { this.scene = n.scene; await this.ui.decor(n.scene); }
+    if (this.arrete) return null;
     this.ui.etat(this, n);
     if (n.text) await this.ui.dire(n, { tenir: !!(n.choices || n.explore) });
     if (this.arrete) return null;

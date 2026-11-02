@@ -4,6 +4,7 @@
  */
 import { Ambiance } from '../audio/ambiance.js';
 import * as data from '../data.js';
+import { creerFrise } from '../components/frise.js';
 import { choisir } from '../engine/choix.js';
 import { creerDialogue } from '../engine/dialogue.js';
 import { explorer } from '../engine/exploration.js';
@@ -11,9 +12,12 @@ import { lancer as lancerCourse } from '../engine/minijeux/course.js';
 import { lancer as lancerDevinette } from '../engine/minijeux/devinette.js';
 import { lancer as lancerRythme } from '../engine/minijeux/rythme.js';
 import { finsDe, Moteur } from '../engine/moteur.js';
+import { partTraduite, traduire, voixDe } from '../engine/traduction.js';
+import { activerLangue, chargerDico, languesDisponibles } from '../i18n.js';
 import { DECORS } from '../scenes/catalogue-decors.js';
 import { store } from '../store.js';
 import { definirPage, esc, reduit, webgl } from '../ui.js';
+import { cransDuRecit, etapeParNoeud, lieuDe } from '../voyage.js';
 
 const MINIJEUX = { course_cheval: lancerCourse, devinette: lancerDevinette, rythme: lancerRythme };
 const VITESSES = [['Lente', 0.6], ['Normale', 1], ['Rapide', 1.8], ['Instantanée', 0]];
@@ -36,7 +40,24 @@ export async function monter(el, ctx) {
     document.body.classList.remove('plein-ecran');
     return { demonter() {} };
   }
-  const [histoire, patrimoine, langues] = await Promise.all([data.histoire(r.jouable), data.patrimoine(), data.langues()]);
+  const [base, patrimoine, langues, voyages, localites, bilans, pistes] = await Promise.all([
+    data.histoire(r.jouable), data.patrimoine(), data.langues(), data.voyages(), data.localites(), data.bilanBandes(), data.pistes(id),
+  ]);
+  // Une langue compte dès qu'un texte existe, dans pistes.json ou dans un fichier translate-<langue>.json.
+  const bilan = structuredClone(bilans.find((b) => b.id === id).langues);
+  const dicos = {};
+  await Promise.all((await languesDisponibles()).map(async (l) => {
+    dicos[l.code] = await chargerDico(l.code);
+    bilan[l.code] = { voix: 0, ...bilan[l.code], texte: Math.max(bilan[l.code]?.texte || 0, partTraduite(base, dicos[l.code])) };
+    if (!langues[l.code]) langues[l.code] = l.nom;
+  }));
+  let langueTexte = bilan[store.pref('langueTexte')]?.texte ? store.pref('langueTexte') : 'fr';
+  let langueVoix = bilan[store.pref('langueVoix')]?.voix ? store.pref('langueVoix') : '';
+  let histoire = traduire(base, pistes, langueTexte, dicos[langueTexte]);
+  const etapes = voyages.recits[id] || [];
+  const parNoeud = etapeParNoeud(base, etapes);
+  const epoqueDe = (x) => voyages.epoques.find((e) => e.id === x);
+  const etapeDemandee = etapes[+ctx.query.etape];
   definirPage({ titre: `Vivre : ${histoire.titre}`, description: histoire.presentation });
   const fins = finsDe(histoire);
 
@@ -45,9 +66,12 @@ export async function monter(el, ctx) {
     <div class="j-lecture cache"></div>
     <div class="j-haut">
       <div class="j-fil" role="group" aria-label="Les choix déjà faits"></div>
+      <span class="j-repere" hidden></span>
+      <button type="button" class="j-btn" data-voyage>Voyager</button>
       <button type="button" class="j-btn" data-moteur aria-pressed="false">Moteur</button>
       <button type="button" class="j-btn" data-son aria-pressed="true">Son</button>
       <button type="button" class="j-btn" data-pause>Pause</button>
+      <a class="j-btn j-quitter" href="#/recit/${r.id}">✕ Quitter</a>
     </div>
     <div class="j-debug cache" aria-live="off"></div>
     <div class="j-explore cache">
@@ -61,7 +85,7 @@ export async function monter(el, ctx) {
     </div>
     <p class="lecteur-seul j-annonce" aria-live="polite"></p>
     <div class="j-boite cache">
-      <div class="j-etiquette"><canvas class="j-portrait" width="96" height="96" aria-hidden="true"></canvas><span class="j-nom"></span></div>
+      <div class="j-etiquette"><img class="j-portrait" width="96" height="96" alt=""><span class="j-nom"></span></div>
       <div class="j-texte"></div>
       <div class="j-choix"></div>
       <div class="j-suite" aria-hidden="true">continuer ▶</div>
@@ -69,11 +93,13 @@ export async function monter(el, ctx) {
     <div class="j-mini cache"></div>
     <div class="j-fin cache" role="dialog" aria-label="Fin de l'histoire"></div>
     <div class="j-pause cache" role="dialog" aria-modal="true" aria-label="Pause"></div>
+    <div class="j-voyage cache" role="dialog" aria-modal="true" aria-label="Voyager dans le temps et l'espace"></div>
     <div class="j-titre">
       <p class="sur-titre">Vivre l'histoire</p>
       <h1>${esc(histoire.titre)}</h1>
       <p>${esc(histoire.presentation)}</p>
       <p class="j-avis cache"></p>
+      <div class="j-langues" data-langues-titre></div>
       <div class="rangee" data-depart></div>
       <p><a class="j-lien" href="#/recit/${r.id}">Revenir à la fiche du récit</a></p>
     </div>
@@ -83,7 +109,7 @@ export async function monter(el, ctx) {
   const racine = q('.jeu');
   const ambiance = new Ambiance();
   const ctrl = new AbortController();
-  let rendu = null, moteur = null, lecture = !webgl() || ctx.query.lecture === '1', modePause = false, enJeu = false;
+  let rendu = null, moteur = null, lecture = !webgl() || ctx.query.lecture === '1', modePause = false, enJeu = false, enMiniJeu = false, enExploration = false, etapeCourante = -1;
 
   // ---- Son global, mémorisé
   let son = store.pref('son');
@@ -96,15 +122,14 @@ export async function monter(el, ctx) {
   btnSon.addEventListener('click', (e) => { e.stopPropagation(); son = !son; store.definirPref('son', son); majSon(); });
 
   // ---- Voix : un doublage provisoire (fichier muet) n'est pas joué
-  const langue = histoire.langueAudio;
-  const urlAudio = (n) => {
-    if (!son || histoire.audioProvisoire || !n.audio || !n.audio[langue]) return null;
-    return data.url(n.audio[langue]);
+  const urlAudio = () => {
+    const f = son && langueVoix && moteur ? voixDe(pistes, moteur.noeud, langueVoix) : null;
+    return f ? data.url(f) : null;
   };
   const vitesse = () => (reduit() && store.pref('vitesse') === 1 ? 0 : store.pref('vitesse'));
 
   const dialogue = creerDialogue(racine, {
-    personnages: histoire.personnages,
+    personnages: () => histoire.personnages,
     vitesse,
     surLettre: () => ambiance.blip(),
     surParole: (who) => rendu?.parler(who),
@@ -125,6 +150,16 @@ export async function monter(el, ctx) {
     majDebug();
   });
   const fil = q('.j-fil');
+  // ---- Où et quand : le repère en haut de l'écran suit l'étape du nœud courant
+  const repere = q('.j-repere');
+  function majRepere() {
+    const i = moteur ? parNoeud[moteur.noeud] : undefined;
+    if (i === undefined || i === etapeCourante) return;
+    etapeCourante = i;
+    const e = etapes[i], l = lieuDe(e.lieu, voyages, localites);
+    repere.textContent = `${l.nom} · ${epoqueDe(e.epoque).nom}`;
+    repere.hidden = false;
+  }
   const majFil = () => { fil.innerHTML = moteur && moteur.parcours.length ? `<span>Parcours :</span>${moteur.parcours.map((p) => `<span>${esc(p)}</span>`).join('')}` : ''; };
 
   // ---- Ce que le moteur demande à l'écran
@@ -132,17 +167,33 @@ export async function monter(el, ctx) {
   const ui = {
     async decor(nom) {
       if (!reduit()) { fondu.style.opacity = 1; await pause(460); }
-      rendu.charger(nom);
+      try {
+        await rendu.charger(nom);
+      } catch (e) {
+        // Un modèle manque ou le réseau tombe : l'histoire continue en mode lecture.
+        console.warn('Décor indisponible :', e);
+        rendu.detruire();
+        passerEnLecture();
+        rendu.charger(nom);
+      }
       ambiance.mood = DECORS[nom].mood;
       if (!reduit()) { fondu.style.opacity = 0; await pause(300); }
     },
-    etat(m, n) { rendu.cadrer(n.speaker); majFil(); majDebug(); },
+    etat(m, n) { rendu.cadrer(n.speaker); majFil(); majDebug(); majRepere(); },
     dire: (n, o) => dialogue.dire(n, o),
-    explorer: (ids) => explorer(racine, ids, { patrimoine, rendu, surTrouve: (o) => store.ajouterObjet(o) }),
+    async explorer(ids) {
+      enExploration = true;
+      await explorer(racine, ids, { patrimoine, rendu, surTrouve: (o) => store.ajouterObjet(o) });
+      enExploration = false;
+    },
     choisir: (choices) => choisir(racine, choices),
     async miniJeu(nom, n) {
       dialogue.cacher();
+      enMiniJeu = true;
+      q('[data-voyage]').disabled = true;
       const res = await MINIJEUX[nom](q('.j-mini'), n, { rendu, ambiance, signal: ctrl.signal });
+      enMiniJeu = false;
+      q('[data-voyage]').disabled = false;
       return res;
     },
     fin(fin, choices) {
@@ -178,9 +229,9 @@ export async function monter(el, ctx) {
   async function preparerRendu() {
     if (lecture) return passerEnLecture();
     try {
-      const { Rendu } = await import('../scenes/rendu.js');
+      const { Rendu3D } = await import('../scenes3d/rendu3d.js');
       if (ctrl.signal.aborted) return null;
-      rendu = new Rendu(q('.j-canvas'), { histoire, reduit: reduit(), patrimoine });
+      rendu = new Rendu3D(q('.j-canvas'), { histoire: base, recit: id, peuple: r.peuple, reduit: reduit(), patrimoine });
       q('.j-canvas').addEventListener('webglcontextlost', () => { /* le navigateur gère la perte ; le dialogue reste utilisable */ });
     } catch (e) {
       console.warn('3D indisponible, mode lecture :', e);
@@ -205,38 +256,88 @@ export async function monter(el, ctx) {
     enJeu = true;
     majSon();
     store.marquer(id, 'joue');
-    moteur = new Moteur(histoire, ui, {
+    await faireJouer(sauvegarde);
+  }
+
+  async function faireJouer(sauvegarde) {
+    const m = new Moteur(histoire, ui, {
       sauver: (s) => store.sauvegarder(id, s),
       surFin: (fin) => store.ajouterFin(id, fin),
     });
+    moteur = m;
     try {
-      await moteur.jouer(sauvegarde);
+      await m.jouer(sauvegarde);
     } catch (e) {
       console.warn(e);
       q('.j-boite').classList.remove('cache');
       q('.j-texte').textContent = `L'histoire s'arrête ici à cause d'une erreur : ${e.message}`;
       return;
     }
-    if (!ctrl.signal.aborted) location.hash = `#/recit/${id}`;
+    if (m === moteur && !ctrl.signal.aborted) location.hash = `#/recit/${id}`;
   }
+
+  // Un voyage ou un changement de langue : le moteur courant s'arrête, un autre repart de ce nœud.
+  function repartir(noeud, scene = null) {
+    if (!moteur) return;
+    const { vars, parcours } = moteur;
+    moteur.arreter();
+    dialogue.interrompre();
+    q('.j-fin').classList.add('cache');
+    q('.j-info').classList.add('cache');
+    if (enExploration) {
+      q('.j-explore').classList.add('cache');
+      rendu.finExplorer();
+      enExploration = false;
+    }
+    faireJouer({ noeud, vars, parcours, scene });
+  }
+
+  // ---- Langues : un texte non traduit reste en français ; une voix absente se tait
+  function selecteursLangues() {
+    const nom = (c) => esc(langues[c] || c);
+    const codes = Object.keys(bilan);
+    return `<label class="j-reglage"><span>Langue du texte</span><select data-l-texte>
+        ${codes.map((c) => `<option value="${c}" ${c === langueTexte ? 'selected' : ''} ${bilan[c].texte ? '' : 'disabled'}>${nom(c)}${bilan[c].texte ? (bilan[c].texte < 100 ? ` (${bilan[c].texte} %)` : '') : ' (à traduire)'}</option>`).join('')}
+      </select></label>
+      <label class="j-reglage"><span>Langue des voix</span><select data-l-voix>
+        <option value="" ${langueVoix ? '' : 'selected'}>Sans voix</option>
+        ${codes.map((c) => `<option value="${c}" ${c === langueVoix ? 'selected' : ''} ${bilan[c].voix ? '' : 'disabled'}>${nom(c)}${bilan[c].voix ? (bilan[c].voix < 100 ? ` (${bilan[c].voix} %)` : '') : ' (à enregistrer)'}</option>`).join('')}
+      </select></label>`;
+  }
+  function changerLangue(e) {
+    const t = e.target;
+    if ('lVoix' in t.dataset) { langueVoix = t.value; store.definirPref('langueVoix', t.value); return; }
+    if (!('lTexte' in t.dataset)) return;
+    langueTexte = t.value;
+    store.definirPref('langueTexte', t.value);
+    histoire = traduire(base, pistes, langueTexte, dicos[langueTexte]);
+    activerLangue(langueTexte);
+    q('.j-titre h1').textContent = histoire.titre;
+    q('.j-titre h1 + p').textContent = histoire.presentation;
+    if (moteur) repartir(moteur.noeud, moteur.scene);
+  }
+  q('[data-langues-titre]').innerHTML = selecteursLangues();
+  q('[data-langues-titre]').addEventListener('change', changerLangue);
 
   const depart = q('[data-depart]');
   const sauvegarde = store.sauvegarde(id);
   const boutons = [];
-  if (sauvegarde) boutons.push('<button type="button" class="j-btn fort grand" data-go="reprendre">Reprendre</button>');
-  boutons.push(`<button type="button" class="j-btn ${sauvegarde ? '' : 'fort grand'}" data-go="son">${sauvegarde ? 'Recommencer' : '▶ Commencer'} avec le son</button>`);
+  if (etapeDemandee) boutons.push(`<button type="button" class="j-btn fort grand" data-go="etape">▶ Aller à : ${esc(etapeDemandee.titre)}</button>`);
+  if (sauvegarde) boutons.push(`<button type="button" class="j-btn ${etapeDemandee ? '' : 'fort grand'}" data-go="reprendre">Reprendre</button>`);
+  boutons.push(`<button type="button" class="j-btn ${sauvegarde || etapeDemandee ? '' : 'fort grand'}" data-go="son">${sauvegarde ? 'Recommencer' : '▶ Commencer'} avec le son</button>`);
   boutons.push('<button type="button" class="j-btn" data-go="muet">Sans le son</button>');
   depart.innerHTML = boutons.join('');
   depart.addEventListener('click', (e) => {
     const b = e.target.closest('[data-go]'); if (!b) return;
     const g = b.dataset.go;
-    if (g === 'reprendre') lancer(undefined, sauvegarde);
+    if (g === 'etape') lancer(undefined, { noeud: etapeDemandee.noeud, vars: {}, parcours: [], scene: null });
+    else if (g === 'reprendre') lancer(undefined, sauvegarde);
     else lancer(g === 'son');
   });
   const avis = q('.j-avis');
   if (!webgl()) { avis.textContent = 'Votre appareil n\'affiche pas la 3D : l\'histoire se joue en mode lecture.'; avis.classList.remove('cache'); }
   else if (reduit() && !lecture) {
-    avis.innerHTML = 'Votre système demande moins d\'animations : la parallaxe est coupée. <a class="j-lien" href="#/jouer/' + id + '?lecture=1" data-lecture>Passer en mode lecture</a>';
+    avis.innerHTML = 'Votre système demande moins d\'animations : la caméra reste fixe. <a class="j-lien" href="#/jouer/' + id + '?lecture=1" data-lecture>Passer en mode lecture</a>';
     avis.classList.remove('cache');
     avis.querySelector('[data-lecture]').addEventListener('click', (e) => { e.preventDefault(); if (rendu) rendu.detruire(); rendu = null; passerEnLecture(); avis.classList.add('cache'); });
   }
@@ -252,7 +353,7 @@ export async function monter(el, ctx) {
       <h2>Pause</h2>
       <div class="j-reglage"><span>Son</span><button type="button" class="j-btn" data-p-son aria-pressed="${son}">${son ? 'Activé' : 'Coupé'}</button></div>
       <div class="j-reglage"><span id="j-v">Vitesse du texte</span><div role="group" aria-labelledby="j-v" class="segments">${VITESSES.map(([t, x]) => `<button type="button" data-v="${x}" aria-pressed="${v === x}">${t}</button>`).join('')}</div></div>
-      ${langue ? `<div class="j-reglage"><span>Voix en ${esc(langues[langue] || langue)}</span><span class="meta-clair">${histoire.audioProvisoire ? 'audio à venir' : 'disponible'}</span></div>` : ''}
+      ${selecteursLangues()}
       <div class="rangee">
         <button type="button" class="j-btn fort" data-p-reprendre>Reprendre</button>
         <button type="button" class="j-btn" data-p-recommencer>Recommencer</button>
@@ -263,6 +364,66 @@ export async function monter(el, ctx) {
   }
   const fermerPause = () => { modePause = false; panneauPause.classList.add('cache'); };
   q('[data-pause]').addEventListener('click', (e) => { e.stopPropagation(); ouvrirPause(); });
+  panneauPause.addEventListener('change', (e) => { changerLangue(e); if ('lTexte' in e.target.dataset) fermerPause(); });
+
+  // ---- Voyager : choisir une étape du récit, par époque ou par lieu
+  const panneauVoyage = q('.j-voyage');
+  let voyageOuvert = false, axe = 'epoque';
+  function etapesHtml(items, sousTitre) {
+    return `<ul>${items.map((e) => `<li><button type="button" class="j-etape" data-etape="${e.i}" ${e.i === etapeCourante ? 'aria-current="step"' : ''}><b>${esc(e.titre)}</b><small>${esc(sousTitre(e))}</small></button></li>`).join('')}</ul>`;
+  }
+  const avecIndex = () => etapes.map((e, i) => ({ ...e, i }));
+  function groupesParLieu() {
+    return [...new Set(etapes.map((e) => e.lieu))].map((idLieu) => {
+      const l = lieuDe(idLieu, voyages, localites), note = l.note || (l.approx ? 'lieu approché' : '');
+      return `<section class="j-voyage-groupe"><h3>${esc(l.nom)}${note ? ` <small>${esc(note)}</small>` : ''}</h3>
+        ${etapesHtml(avecIndex().filter((e) => e.lieu === idLieu), (e) => epoqueDe(e.epoque).nom)}</section>`;
+    }).join('');
+  }
+  // Par époque : la barre de temps du récit ; le curseur montre l'étape du cran choisi.
+  function majEtapesDuCran(c) {
+    panneauVoyage.querySelector('.j-voyage-liste').innerHTML = `<section class="j-voyage-groupe">
+      ${etapesHtml(avecIndex().filter((e) => e.i === c.etape), (e) => lieuDe(e.lieu, voyages, localites).nom)}</section>`;
+  }
+  function dessinerVoyage() {
+    panneauVoyage.innerHTML = `<div class="j-pause-carte j-voyage-carte">
+      <h2>Voyager</h2>
+      <p class="meta-clair">Le récit reprend à l'étape choisie, avec les choix déjà faits. Certaines scènes peuvent en dépendre.</p>
+      <div role="group" aria-label="Ranger les étapes" class="segments">
+        <button type="button" data-axe="epoque" aria-pressed="${axe === 'epoque'}">Par époque</button>
+        <button type="button" data-axe="lieu" aria-pressed="${axe === 'lieu'}">Par lieu</button>
+      </div>
+      <div class="j-voyage-frise"></div>
+      <div class="j-voyage-liste">${axe === 'lieu' ? groupesParLieu() : ''}</div>
+      <div class="rangee">
+        <button type="button" class="j-btn fort" data-v-fermer>Revenir au récit</button>
+        <a class="j-btn" href="#/carte?epoque=${etapes[Math.max(0, etapeCourante)]?.epoque || ''}">Autres récits de cette époque</a>
+      </div></div>`;
+    if (axe !== 'epoque') return;
+    const liste = cransDuRecit(voyages, id);
+    const frise = creerFrise(panneauVoyage.querySelector('.j-voyage-frise'), liste, { epoques: voyages.epoques, surCran: majEtapesDuCran });
+    const i = Math.max(0, liste.findIndex((c) => c.etape === etapeCourante));
+    frise.poser(i);
+    majEtapesDuCran(liste[i]);
+  }
+  function ouvrirVoyage() {
+    if (enMiniJeu || voyageOuvert) return;
+    voyageOuvert = true;
+    dessinerVoyage();
+    panneauVoyage.classList.remove('cache');
+    panneauVoyage.querySelector('.frise-curseur, .j-etape')?.focus();
+  }
+  const fermerVoyage = () => { voyageOuvert = false; panneauVoyage.classList.add('cache'); };
+  q('[data-voyage]').addEventListener('click', (e) => { e.stopPropagation(); ouvrirVoyage(); });
+  panneauVoyage.addEventListener('click', (e) => {
+    const b = e.target.closest('button'); if (!b) return;
+    if ('vFermer' in b.dataset) fermerVoyage();
+    if (b.dataset.axe) { axe = b.dataset.axe; dessinerVoyage(); panneauVoyage.querySelector(`[data-axe="${axe}"]`).focus(); }
+    if (b.dataset.etape !== undefined) {
+      fermerVoyage();
+      repartir(etapes[+b.dataset.etape].noeud);
+    }
+  });
   panneauPause.addEventListener('click', (e) => {
     const b = e.target.closest('button'); if (!b) return;
     if ('pSon' in b.dataset) { son = !son; store.definirPref('son', son); majSon(); b.textContent = son ? 'Activé' : 'Coupé'; b.setAttribute('aria-pressed', String(son)); }
@@ -282,12 +443,13 @@ export async function monter(el, ctx) {
   function surTouche(e) {
     if (e.key === 'Escape') {
       if (!q('.j-info').classList.contains('cache')) { q('.j-info').classList.add('cache'); return; }
+      if (voyageOuvert) { fermerVoyage(); return; }
       if (modePause) fermerPause(); else if (enJeu) ouvrirPause();
       return;
     }
     if (e.code !== 'Space' && e.code !== 'Enter') return;
     if (e.target.closest && e.target.closest('button, a, input, select, summary')) return;
-    if (modePause || !enJeu || q('.j-mini').classList.contains('tape')) return;
+    if (modePause || voyageOuvert || !enJeu || q('.j-mini').classList.contains('tape')) return;
     e.preventDefault();
     if (!e.repeat) dialogue.avancer();
   }

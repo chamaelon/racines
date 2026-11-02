@@ -1,0 +1,342 @@
+# Zenuo, le premier Dagara : fiches des bandes-son
+# Généré par « npm run bandes-son » depuis pistes.json. Modifier pistes.json, pas ce fichier.
+
+piste: n1
+histoire: Zenuo, le premier Dagara
+partie: Le village divisé (jeu)
+personnage: Le griot
+fichier: zenuo-n1-<langue>.m4a
+intonation: posé (proposée)
+texte: Zenuo était chasseur. Il connaissait la brousse mieux que personne. Mais au village, les familles ne s'entendent plus sur les limites des champs.
+genre: adulte/homme
+duree: 9790ms (estimée)
+
+piste: n2
+histoire: Zenuo, le premier Dagara
+partie: Le village divisé (jeu)
+personnage: L'ancien
+fichier: zenuo-n2-<langue>.m4a
+intonation: vif (proposée)
+texte: Ce champ n'est pas à toi !
+genre: âgé/homme
+duree: 2960ms (estimée)
+
+piste: n3
+histoire: Zenuo, le premier Dagara
+partie: Le village divisé (jeu)
+personnage: Le griot
+fichier: zenuo-n3-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Encore une dispute de terres. Que décident Zenuo et Nyolé ?
+genre: adulte/homme
+duree: 4780ms (estimée)
+
+piste: rester
+histoire: Zenuo, le premier Dagara
+partie: Le village divisé (jeu)
+personnage: Le griot
+fichier: zenuo-rester-<langue>.m4a
+intonation: posé (proposée)
+texte: Ils discutent toute une saison. Au bout du compte, chacun garde sa colère, et personne n'a plus envie de semer.
+genre: adulte/homme
+duree: 8500ms (estimée)
+
+piste: partir
+histoire: Zenuo, le premier Dagara
+partie: Le départ (jeu)
+personnage: Le griot
+fichier: zenuo-partir-<langue>.m4a
+intonation: chuchoté (proposée)
+texte: Ils prennent leurs affaires, et leur chien avec eux. Le soir, ils s'arrêtent près d'un feu et regardent les étoiles.
+genre: adulte/homme
+duree: 8500ms (estimée)
+
+piste: n4
+histoire: Zenuo, le premier Dagara
+partie: La Volta noire (jeu)
+personnage: Le griot
+fichier: zenuo-n4-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Un jour, un fleuve large leur barre la route : la Volta noire. Comment passer ?
+genre: adulte/homme
+duree: 6980ms (estimée)
+
+piste: nage
+histoire: Zenuo, le premier Dagara
+partie: La Volta noire (jeu)
+personnage: Le griot
+fichier: zenuo-nage-<langue>.m4a
+intonation: posé (proposée)
+texte: Le courant est trop fort. Ils reviennent sur la rive, trempés, et Zenuo prend sa hache : il creuse une pirogue.
+genre: adulte/homme
+duree: 9030ms (estimée)
+
+piste: pirogue
+histoire: Zenuo, le premier Dagara
+partie: L'autre rive (jeu)
+personnage: Le griot
+fichier: zenuo-pirogue-<langue>.m4a
+intonation: posé (proposée)
+texte: Sur l'autre rive, tout est nouveau. Mais où s'arrêter ? Zenuo attend un signe. Observe bien.
+genre: adulte/homme
+duree: 7430ms (estimée)
+
+piste: n6
+histoire: Zenuo, le premier Dagara
+partie: L'autre rive (jeu)
+personnage: Le griot
+fichier: zenuo-n6-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Que fait Zenuo devant cet arbre ?
+genre: adulte/homme
+duree: 2960ms (estimée)
+
+piste: loin
+histoire: Zenuo, le premier Dagara
+partie: L'autre rive (jeu)
+personnage: Le griot
+fichier: zenuo-loin-<langue>.m4a
+intonation: posé (proposée)
+texte: Ils marchent encore. Des arbres, ils en verront d'autres, mais plus de pintades. C'est une fin imaginée : la légende, elle, s'arrête à l'arbre.
+genre: adulte/homme
+duree: 10770ms (estimée)
+
+piste: arc
+histoire: Zenuo, le premier Dagara
+partie: L'autre rive (jeu)
+personnage: Zenuo
+fichier: zenuo-arc-<langue>.m4a
+intonation: posé (proposée)
+texte: C'est ici, Nyolé. C'est ici.
+genre: adulte/homme
+duree: 2650ms (estimée)
+
+piste: n7
+histoire: Zenuo, le premier Dagara
+partie: Le premier champ (jeu)
+personnage: Le griot
+fichier: zenuo-n7-<langue>.m4a
+intonation: posé (proposée)
+texte: Ensemble, ils bâtissent une case ronde et préparent le premier champ. D'autres familles arrivent. Un enfant naît. Le village a commencé.
+genre: adulte/homme
+duree: 9330ms (estimée)
+
+piste: n8
+histoire: Zenuo, le premier Dagara
+partie: Le premier champ (jeu)
+personnage: Le griot
+fichier: zenuo-n8-<langue>.m4a
+intonation: posé (proposée)
+texte: Ainsi, dit la légende, naquit le peuple des descendants de Zenuo.
+genre: adulte/homme
+duree: 4780ms (estimée)
+
+piste: film-001
+histoire: Zenuo, le premier Dagara
+partie: Film d'animation, de 00:02.0 à 00:07.4
+personnage: Narrateur
+fichier: zenuo-film-001-<langue>.m4a
+intonation: solennel (scénario)
+texte: Zenuo, le premier Dagara. Une légende fondatrice.
+genre: adulte/libre
+duree: 5400ms (mesurée sur le film)
+
+piste: film-002
+histoire: Zenuo, le premier Dagara
+partie: Film d'animation, de 00:09.0 à 00:14.5
+personnage: Narrateur
+fichier: zenuo-film-002-<langue>.m4a
+intonation: posé (proposée)
+texte: Zenuo était chasseur. Il connaissait la brousse mieux que personne.
+genre: adulte/libre
+duree: 5500ms (mesurée sur le film)
+
+piste: film-003
+histoire: Zenuo, le premier Dagara
+partie: Film d'animation, de 00:28.0 à 00:30.3
+personnage: ZENUO
+fichier: zenuo-film-003-<langue>.m4a
+intonation: lassé (scénario)
+texte: Encore une dispute de terres.
+genre: adulte/homme
+duree: 2300ms (mesurée sur le film)
+
+piste: film-004
+histoire: Zenuo, le premier Dagara
+partie: Film d'animation, de 00:32.0 à 00:36.5
+personnage: Narrateur
+fichier: zenuo-film-004-<langue>.m4a
+intonation: posé (proposée)
+texte: Au village, les familles ne s'entendaient plus sur les limites des champs.
+genre: adulte/libre
+duree: 4500ms (mesurée sur le film)
+
+piste: film-005
+histoire: Zenuo, le premier Dagara
+partie: Film d'animation, de 00:38.0 à 00:40.4
+personnage: ANCIEN
+fichier: zenuo-film-005-<langue>.m4a
+intonation: sévère (scénario)
+texte: Ce champ n'est pas à toi !
+genre: âgé/libre
+duree: 2400ms (mesurée sur le film)
+
+piste: film-006
+histoire: Zenuo, le premier Dagara
+partie: Film d'animation, de 00:42.5 à 00:44.5
+personnage: NYOLE
+fichier: zenuo-film-006-<langue>.m4a
+intonation: décidé (scénario)
+texte: Allons-nous-en.
+genre: adulte/femme
+duree: 2000ms (mesurée sur le film)
+
+piste: film-007
+histoire: Zenuo, le premier Dagara
+partie: Film d'animation, de 00:44.5 à 00:46.6
+personnage: ZENUO
+fichier: zenuo-film-007-<langue>.m4a
+intonation: calme (scénario)
+texte: Allons chercher notre terre.
+genre: adulte/homme
+duree: 2100ms (mesurée sur le film)
+
+piste: film-008
+histoire: Zenuo, le premier Dagara
+partie: Film d'animation, de 00:50.0 à 00:54.5
+personnage: Narrateur
+fichier: zenuo-film-008-<langue>.m4a
+intonation: posé (proposée)
+texte: Zenuo et sa femme Nyolé prirent leurs affaires, et leur chien avec eux.
+genre: adulte/libre
+duree: 4500ms (mesurée sur le film)
+
+piste: film-009
+histoire: Zenuo, le premier Dagara
+partie: Film d'animation, de 01:04.0 à 01:07.9
+personnage: Narrateur
+fichier: zenuo-film-009-<langue>.m4a
+intonation: posé (proposée)
+texte: Ils marchèrent des jours durant, à travers la brousse.
+genre: adulte/libre
+duree: 3900ms (mesurée sur le film)
+
+piste: film-010
+histoire: Zenuo, le premier Dagara
+partie: Film d'animation, de 01:18.0 à 01:23.2
+personnage: Narrateur
+fichier: zenuo-film-010-<langue>.m4a
+intonation: doux (scénario)
+texte: Le soir, ils s'arrêtaient près d'un feu, et ils regardaient les étoiles.
+genre: adulte/libre
+duree: 5200ms (mesurée sur le film)
+
+piste: film-011
+histoire: Zenuo, le premier Dagara
+partie: Film d'animation, de 01:40.0 à 01:44.6
+personnage: Narrateur
+fichier: zenuo-film-011-<langue>.m4a
+intonation: posé (proposée)
+texte: Un jour, un fleuve large leur barra la route : la Volta noire.
+genre: adulte/libre
+duree: 4600ms (mesurée sur le film)
+
+piste: film-012
+histoire: Zenuo, le premier Dagara
+partie: Film d'animation, de 01:51.0 à 01:55.0
+personnage: Narrateur
+fichier: zenuo-film-012-<langue>.m4a
+intonation: posé (proposée)
+texte: Zenuo creusa une pirogue, et ils se lancèrent sur l'eau.
+genre: adulte/libre
+duree: 4000ms (mesurée sur le film)
+
+piste: film-013
+histoire: Zenuo, le premier Dagara
+partie: Film d'animation, de 02:04.0 à 02:09.3
+personnage: Narrateur
+fichier: zenuo-film-013-<langue>.m4a
+intonation: ému (scénario)
+texte: Sur l'autre rive, tout était nouveau. Ils ne se retournèrent pas.
+genre: adulte/libre
+duree: 5300ms (mesurée sur le film)
+
+piste: film-014
+histoire: Zenuo, le premier Dagara
+partie: Film d'animation, de 02:20.0 à 02:24.4
+personnage: Narrateur
+fichier: zenuo-film-014-<langue>.m4a
+intonation: posé (proposée)
+texte: Mais où s'arrêter ? Zenuo attendait un signe.
+genre: adulte/libre
+duree: 4400ms (mesurée sur le film)
+
+piste: film-015
+histoire: Zenuo, le premier Dagara
+partie: Film d'animation, de 02:28.0 à 02:32.3
+personnage: Narrateur
+fichier: zenuo-film-015-<langue>.m4a
+intonation: émerveillé (scénario)
+texte: Alors un vol de pintades se mit à tourner au-dessus d'un grand arbre.
+genre: adulte/libre
+duree: 4300ms (mesurée sur le film)
+
+piste: film-016
+histoire: Zenuo, le premier Dagara
+partie: Film d'animation, de 02:33.5 à 02:36.9
+personnage: ZENUO
+fichier: zenuo-film-016-<langue>.m4a
+intonation: ému (scénario)
+texte: C'est ici, Nyolé. C'est ici.
+genre: adulte/homme
+duree: 3400ms (mesurée sur le film)
+
+piste: film-017
+histoire: Zenuo, le premier Dagara
+partie: Film d'animation, de 02:57.0 à 03:02.7
+personnage: Narrateur
+fichier: zenuo-film-017-<langue>.m4a
+intonation: posé (proposée)
+texte: Zenuo planta son arc au pied de l'arbre. Ici serait le premier foyer.
+genre: adulte/libre
+duree: 5700ms (mesurée sur le film)
+
+piste: film-018
+histoire: Zenuo, le premier Dagara
+partie: Film d'animation, de 03:08.0 à 03:12.5
+personnage: Narrateur
+fichier: zenuo-film-018-<langue>.m4a
+intonation: posé (proposée)
+texte: Ensemble, ils bâtirent une case ronde et préparèrent le premier champ.
+genre: adulte/libre
+duree: 4500ms (mesurée sur le film)
+
+piste: film-019
+histoire: Zenuo, le premier Dagara
+partie: Film d'animation, de 03:36.0 à 03:40.3
+personnage: Narrateur
+fichier: zenuo-film-019-<langue>.m4a
+intonation: joyeux (scénario)
+texte: D'autres familles arrivèrent, et elles s'installèrent à leur tour.
+genre: adulte/libre
+duree: 4300ms (mesurée sur le film)
+
+piste: film-020
+histoire: Zenuo, le premier Dagara
+partie: Film d'animation, de 03:48.0 à 03:52.4
+personnage: Narrateur
+fichier: zenuo-film-020-<langue>.m4a
+intonation: tendre (scénario)
+texte: Un enfant naquit. Le village avait commencé.
+genre: adulte/libre
+duree: 4400ms (mesurée sur le film)
+
+piste: film-021
+histoire: Zenuo, le premier Dagara
+partie: Film d'animation, de 04:10.0 à 04:15.2
+personnage: Narrateur
+fichier: zenuo-film-021-<langue>.m4a
+intonation: doux (scénario)
+texte: Ainsi, dit la légende, naquit le peuple des descendants de Zenuo.
+genre: adulte/libre
+duree: 5200ms (mesurée sur le film)

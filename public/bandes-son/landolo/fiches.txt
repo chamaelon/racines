@@ -1,0 +1,402 @@
+# Landolo et le grand caïlcédrat : fiches des bandes-son
+# Généré par « npm run bandes-son » depuis pistes.json. Modifier pistes.json, pas ce fichier.
+
+piste: n1
+histoire: Landolo et le grand caïlcédrat
+partie: Le grand caïlcédrat (jeu)
+personnage: Le griot
+fichier: landolo-n1-<langue>.m4a
+intonation: posé (proposée)
+texte: Au bord du village se dressait un arbre immense, plus vieux que tous les anciens. Landolo était orphelin. Il vivait chez sa marâtre, qui gâtait son propre fils.
+genre: adulte/homme
+duree: 11840ms (estimée)
+
+piste: n2
+histoire: Landolo et le grand caïlcédrat
+partie: Le grand caïlcédrat (jeu)
+personnage: La marâtre
+fichier: landolo-n2-<langue>.m4a
+intonation: vif (proposée)
+texte: Va chercher l'eau. Et vite !
+genre: adulte/femme
+duree: 2880ms (estimée)
+
+piste: n3
+histoire: Landolo et le grand caïlcédrat
+partie: La branche qui s'abaisse (jeu)
+personnage: Le griot
+fichier: landolo-n3-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Le fils mange à sa faim. Landolo, lui, n'a rien. Un soir, il vient pleurer au pied du grand caïlcédrat. Une branche s'abaisse, chargée de fruits. Que fait-il ?
+genre: adulte/homme
+duree: 13120ms (estimée)
+
+piste: poches
+histoire: Landolo et le grand caïlcédrat
+partie: La branche qui s'abaisse (jeu)
+personnage: Le griot
+fichier: landolo-poches-<langue>.m4a
+intonation: mystérieux (proposée)
+texte: Sur le chemin, il se retourne. La branche s'est relevée. Il revient sur ses pas.
+genre: adulte/homme
+duree: 6750ms (estimée)
+
+piste: merci
+histoire: Landolo et le grand caïlcédrat
+partie: La branche qui s'abaisse (jeu)
+personnage: Landolo
+fichier: landolo-merci-<langue>.m4a
+intonation: vif (proposée)
+texte: Grand arbre, grand arbre, écoute ma chanson.
+genre: enfant/libre
+duree: 3260ms (estimée)
+
+piste: n5
+histoire: Landolo et le grand caïlcédrat
+partie: La marâtre espionne (jeu)
+personnage: Le griot
+fichier: landolo-n5-<langue>.m4a
+intonation: posé (proposée)
+texte: La marâtre finit par s'étonner. Elle le suit et elle l'espionne. L'arbre ne lui envoie que des branches sèches.
+genre: adulte/homme
+duree: 8120ms (estimée)
+
+piste: n6
+histoire: Landolo et le grand caïlcédrat
+partie: La marâtre espionne (jeu)
+personnage: La marâtre
+fichier: landolo-n6-<langue>.m4a
+intonation: vif (proposée)
+texte: Abattez-moi cet arbre !
+genre: adulte/femme
+duree: 1820ms (estimée)
+
+piste: n7
+histoire: Landolo et le grand caïlcédrat
+partie: La marâtre espionne (jeu)
+personnage: Le griot
+fichier: landolo-n7-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Elle revient avec deux bûcherons. Les coups de hache rebondissent sur le tronc. L'arbre gronde, le vent se lève, les branches fouettent l'air. Que fait Landolo ?
+genre: adulte/homme
+duree: 11760ms (estimée)
+
+piste: colere
+histoire: Landolo et le grand caïlcédrat
+partie: La marâtre espionne (jeu)
+personnage: Le griot
+fichier: landolo-colere-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Les bûcherons s'enfuient, la marâtre aussi. Mais ils reviendront, plus nombreux, avec le feu. Landolo les arrêtera-t-il en parlant au village ?
+genre: adulte/homme
+duree: 9710ms (estimée)
+
+piste: part
+histoire: Landolo et le grand caïlcédrat
+partie: La marâtre espionne (jeu)
+personnage: Le griot
+fichier: landolo-part-<langue>.m4a
+intonation: posé (proposée)
+texte: Sans personne pour le défendre, l'arbre tombe. Vient la grande sécheresse, et il n'y a plus de fruits pour personne. Ce chemin n'est pas celui du conte.
+genre: adulte/homme
+duree: 11460ms (estimée)
+
+piste: calme
+histoire: Landolo et le grand caïlcédrat
+partie: La marâtre espionne (jeu)
+personnage: Landolo
+fichier: landolo-calme-<langue>.m4a
+intonation: vif (proposée)
+texte: Grand arbre, calme-toi, je t'en prie !
+genre: enfant/libre
+duree: 3260ms (estimée)
+
+piste: n8
+histoire: Landolo et le grand caïlcédrat
+partie: La marâtre espionne (jeu)
+personnage: Le griot
+fichier: landolo-n8-<langue>.m4a
+intonation: posé (proposée)
+texte: Et l'arbre s'apaise, pour lui. Vient l'année de la grande sécheresse. Tout meurt, sauf le caïlcédrat, dont les fruits nourrissent le village.
+genre: adulte/homme
+duree: 9710ms (estimée)
+
+piste: n9
+histoire: Landolo et le grand caïlcédrat
+partie: Le pardon (jeu)
+personnage: Le griot
+fichier: landolo-n9-<langue>.m4a
+intonation: joyeux (proposée)
+texte: La marâtre vient s'agenouiller devant Landolo, et elle demande pardon.
+genre: adulte/homme
+duree: 4250ms (estimée)
+
+piste: n10
+histoire: Landolo et le grand caïlcédrat
+partie: Le pardon (jeu)
+personnage: Le villageois
+fichier: landolo-n10-<langue>.m4a
+intonation: joyeux (proposée)
+texte: Merci, Landolo. Merci, grand arbre.
+genre: adulte/homme
+duree: 2800ms (estimée)
+
+piste: n11
+histoire: Landolo et le grand caïlcédrat
+partie: Le pardon (jeu)
+personnage: Landolo
+fichier: landolo-n11-<langue>.m4a
+intonation: vif (proposée)
+texte: Protégez cet arbre. Il vous le rendra.
+genre: enfant/libre
+duree: 3260ms (estimée)
+
+piste: n12
+histoire: Landolo et le grand caïlcédrat
+partie: Le pardon (jeu)
+personnage: Le griot
+fichier: landolo-n12-<langue>.m4a
+intonation: joyeux (proposée)
+texte: Bien des années plus tard, le grand caïlcédrat veillait toujours.
+genre: adulte/homme
+duree: 4250ms (estimée)
+
+piste: film-001
+histoire: Landolo et le grand caïlcédrat
+partie: Film d'animation, de 00:02.0 à 00:06.9
+personnage: Narrateur
+fichier: landolo-film-001-<langue>.m4a
+intonation: malicieux (scénario)
+texte: Landolo et le grand caïlcédrat. Un conte du pays san.
+genre: adulte/libre
+duree: 4900ms (mesurée sur le film)
+
+piste: film-002
+histoire: Landolo et le grand caïlcédrat
+partie: Film d'animation, de 00:09.0 à 00:14.1
+personnage: Narrateur
+fichier: landolo-film-002-<langue>.m4a
+intonation: posé (proposée)
+texte: Au bord du village se dressait un arbre immense, plus vieux que tous les anciens.
+genre: adulte/libre
+duree: 5100ms (mesurée sur le film)
+
+piste: film-003
+histoire: Landolo et le grand caïlcédrat
+partie: Film d'animation, de 00:28.0 à 00:33.4
+personnage: Narrateur
+fichier: landolo-film-003-<langue>.m4a
+intonation: posé (proposée)
+texte: Landolo était orphelin. Il vivait chez sa marâtre, qui gâtait son propre fils.
+genre: adulte/libre
+duree: 5400ms (mesurée sur le film)
+
+piste: film-004
+histoire: Landolo et le grand caïlcédrat
+partie: Film d'animation, de 00:33.5 à 00:37.1
+personnage: MARATRE
+fichier: landolo-film-004-<langue>.m4a
+intonation: sec (scénario)
+texte: Va chercher l'eau. Et vite !
+genre: adulte/femme
+duree: 3600ms (mesurée sur le film)
+
+piste: film-005
+histoire: Landolo et le grand caïlcédrat
+partie: Film d'animation, de 00:40.0 à 00:45.4
+personnage: Narrateur
+fichier: landolo-film-005-<langue>.m4a
+intonation: triste (scénario)
+texte: Le fils mangeait à sa faim. Landolo, lui, n'avait rien.
+genre: adulte/libre
+duree: 5400ms (mesurée sur le film)
+
+piste: film-006
+histoire: Landolo et le grand caïlcédrat
+partie: Film d'animation, de 01:04.0 à 01:08.5
+personnage: Narrateur
+fichier: landolo-film-006-<langue>.m4a
+intonation: posé (proposée)
+texte: Un soir, le garçon vint pleurer au pied du grand caïlcédrat.
+genre: adulte/libre
+duree: 4500ms (mesurée sur le film)
+
+piste: film-007
+histoire: Landolo et le grand caïlcédrat
+partie: Film d'animation, de 01:16.0 à 01:21.5
+personnage: Narrateur
+fichier: landolo-film-007-<langue>.m4a
+intonation: émerveillé (scénario)
+texte: Alors l'arbre s'éveilla. Une branche s'abaissa, chargée de fruits.
+genre: adulte/libre
+duree: 5500ms (mesurée sur le film)
+
+piste: film-008
+histoire: Landolo et le grand caïlcédrat
+partie: Film d'animation, de 01:30.0 à 01:33.8
+personnage: Narrateur
+fichier: landolo-film-008-<langue>.m4a
+intonation: tendre (scénario)
+texte: Landolo mangea, et il remercia le vieil arbre.
+genre: adulte/libre
+duree: 3800ms (mesurée sur le film)
+
+piste: film-009
+histoire: Landolo et le grand caïlcédrat
+partie: Film d'animation, de 01:44.0 à 01:48.3
+personnage: LANDOLO
+fichier: landolo-film-009-<langue>.m4a
+intonation: chanté, doux (scénario)
+texte: Grand arbre, grand arbre, écoute ma chanson.
+genre: enfant/libre
+duree: 4300ms (mesurée sur le film)
+
+piste: film-010
+histoire: Landolo et le grand caïlcédrat
+partie: Film d'animation, de 01:52.0 à 01:58.3
+personnage: Narrateur
+fichier: landolo-film-010-<langue>.m4a
+intonation: posé (proposée)
+texte: Chaque jour, il chantait, et l'arbre se balançait. Et le garçon grandissait.
+genre: adulte/libre
+duree: 6300ms (mesurée sur le film)
+
+piste: film-011
+histoire: Landolo et le grand caïlcédrat
+partie: Film d'animation, de 02:14.0 à 02:19.2
+personnage: Narrateur
+fichier: landolo-film-011-<langue>.m4a
+intonation: malicieux (scénario)
+texte: La marâtre finit par s'étonner. Elle le suivit et elle l'espionna.
+genre: adulte/libre
+duree: 5200ms (mesurée sur le film)
+
+piste: film-012
+histoire: Landolo et le grand caïlcédrat
+partie: Film d'animation, de 02:24.5 à 02:27.2
+personnage: MARATRE
+fichier: landolo-film-012-<langue>.m4a
+intonation: avide (scénario)
+texte: À moi aussi, donne !
+genre: adulte/femme
+duree: 2700ms (mesurée sur le film)
+
+piste: film-013
+histoire: Landolo et le grand caïlcédrat
+partie: Film d'animation, de 02:28.0 à 02:31.4
+personnage: Narrateur
+fichier: landolo-film-013-<langue>.m4a
+intonation: posé (proposée)
+texte: L'arbre ne lui envoya que des branches sèches.
+genre: adulte/libre
+duree: 3400ms (mesurée sur le film)
+
+piste: film-014
+histoire: Landolo et le grand caïlcédrat
+partie: Film d'animation, de 02:38.0 à 02:40.5
+personnage: MARATRE
+fichier: landolo-film-014-<langue>.m4a
+intonation: furieux (scénario)
+texte: Abattez-moi cet arbre !
+genre: adulte/femme
+duree: 2500ms (mesurée sur le film)
+
+piste: film-015
+histoire: Landolo et le grand caïlcédrat
+partie: Film d'animation, de 02:42.0 à 02:44.5
+personnage: Narrateur
+fichier: landolo-film-015-<langue>.m4a
+intonation: posé (proposée)
+texte: Elle revint avec deux bûcherons.
+genre: adulte/libre
+duree: 2500ms (mesurée sur le film)
+
+piste: film-016
+histoire: Landolo et le grand caïlcédrat
+partie: Film d'animation, de 02:50.0 à 02:53.1
+personnage: Narrateur
+fichier: landolo-film-016-<langue>.m4a
+intonation: tendu (scénario)
+texte: Mais les coups de hache rebondissaient sur le tronc.
+genre: adulte/libre
+duree: 3100ms (mesurée sur le film)
+
+piste: film-017
+histoire: Landolo et le grand caïlcédrat
+partie: Film d'animation, de 02:59.0 à 03:04.8
+personnage: Narrateur
+fichier: landolo-film-017-<langue>.m4a
+intonation: posé (proposée)
+texte: L'arbre se mit à gronder. Le vent se leva, et les branches fouettèrent l'air.
+genre: adulte/libre
+duree: 5800ms (mesurée sur le film)
+
+piste: film-018
+histoire: Landolo et le grand caïlcédrat
+partie: Film d'animation, de 03:07.5 à 03:11.3
+personnage: LANDOLO
+fichier: landolo-film-018-<langue>.m4a
+intonation: suppliant (scénario)
+texte: Grand arbre, calme-toi, je t'en prie !
+genre: enfant/libre
+duree: 3800ms (mesurée sur le film)
+
+piste: film-019
+histoire: Landolo et le grand caïlcédrat
+partie: Film d'animation, de 03:14.0 à 03:17.0
+personnage: Narrateur
+fichier: landolo-film-019-<langue>.m4a
+intonation: posé (proposée)
+texte: Et l'arbre s'apaisa, pour lui.
+genre: adulte/libre
+duree: 3000ms (mesurée sur le film)
+
+piste: film-020
+histoire: Landolo et le grand caïlcédrat
+partie: Film d'animation, de 03:31.0 à 03:38.4
+personnage: Narrateur
+fichier: landolo-film-020-<langue>.m4a
+intonation: grave (scénario)
+texte: Vint l'année de la grande sécheresse. Tout mourut, sauf le caïlcédrat, dont les fruits nourrirent le village.
+genre: adulte/libre
+duree: 7400ms (mesurée sur le film)
+
+piste: film-021
+histoire: Landolo et le grand caïlcédrat
+partie: Film d'animation, de 03:46.0 à 03:50.5
+personnage: Narrateur
+fichier: landolo-film-021-<langue>.m4a
+intonation: ému (scénario)
+texte: La marâtre vint s'agenouiller devant Landolo, et elle demanda pardon.
+genre: adulte/libre
+duree: 4500ms (mesurée sur le film)
+
+piste: film-022
+histoire: Landolo et le grand caïlcédrat
+partie: Film d'animation, de 03:55.0 à 03:59.3
+personnage: VILLAGEOIS
+fichier: landolo-film-022-<langue>.m4a
+intonation: reconnaissant (scénario)
+texte: Merci, Landolo. Merci, grand arbre.
+genre: adulte/femme
+duree: 4300ms (mesurée sur le film)
+
+piste: film-023
+histoire: Landolo et le grand caïlcédrat
+partie: Film d'animation, de 04:10.0 à 04:13.4
+personnage: LANDOLOADULTE
+fichier: landolo-film-023-<langue>.m4a
+intonation: posé (scénario)
+texte: Protégez cet arbre. Il vous le rendra.
+genre: adulte/homme
+duree: 3400ms (mesurée sur le film)
+
+piste: film-024
+histoire: Landolo et le grand caïlcédrat
+partie: Film d'animation, de 04:15.0 à 04:19.7
+personnage: Narrateur
+fichier: landolo-film-024-<langue>.m4a
+intonation: doux (scénario)
+texte: Bien des années plus tard, le grand caïlcédrat veillait toujours.
+genre: adulte/libre
+duree: 4700ms (mesurée sur le film)

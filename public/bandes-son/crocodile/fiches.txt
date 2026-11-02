@@ -1,0 +1,302 @@
+# Le crocodile qui sauva l'ancêtre : fiches des bandes-son
+# Généré par « npm run bandes-son » depuis pistes.json. Modifier pistes.json, pas ce fichier.
+
+piste: n1
+histoire: Le crocodile qui sauva l'ancêtre
+partie: La grande sécheresse (jeu)
+personnage: Le griot
+fichier: crocodile-n1-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Abem était chasseur, l'ancêtre d'une famille kassena. La grande sécheresse brûle la brousse, et le gibier se fait rare. Une antilope passe au loin. Que fais-tu ?
+genre: adulte/homme
+duree: 11760ms (estimée)
+
+piste: rentre
+histoire: Le crocodile qui sauva l'ancêtre
+partie: La grande sécheresse (jeu)
+personnage: Le griot
+fichier: crocodile-rentre-<langue>.m4a
+intonation: posé (proposée)
+texte: Au village, les enfants ont faim. Le lendemain, tu repars, et l'antilope est encore là. Tu la suis.
+genre: adulte/homme
+duree: 8190ms (estimée)
+
+piste: suit
+histoire: Le crocodile qui sauva l'ancêtre
+partie: La grande sécheresse (jeu)
+personnage: Le griot
+fichier: crocodile-suit-<langue>.m4a
+intonation: posé (proposée)
+texte: Tu la suis de plus en plus loin. Quand tu t'arrêtes, tu ne reconnais plus rien. Le soleil est haut, et la soif te prend. Tu secoues ta gourde : elle est vide.
+genre: adulte/homme
+duree: 14190ms (estimée)
+
+piste: n2
+histoire: Le crocodile qui sauva l'ancêtre
+partie: Le crocodile (jeu)
+personnage: Le griot
+fichier: crocodile-n2-<langue>.m4a
+intonation: posé (proposée)
+texte: Tu marches encore un peu, puis tu tombes. Quelque chose bouge dans les herbes : un crocodile, loin de toute eau. Tes mains tremblent sur ton arc.
+genre: adulte/homme
+duree: 11610ms (estimée)
+
+piste: tire
+histoire: Le crocodile qui sauva l'ancêtre
+partie: Le crocodile (jeu)
+personnage: Le griot
+fichier: crocodile-tire-<langue>.m4a
+intonation: posé (proposée)
+texte: Ta flèche part de travers, et le crocodile s'éloigne. Dans ce chemin imaginé, plus personne ne te montre la mare. On te retrouve bien tard, et ta famille n'a pas de serment à tenir.
+genre: adulte/homme
+duree: 14270ms (estimée)
+
+piste: confiance
+histoire: Le crocodile qui sauva l'ancêtre
+partie: Le crocodile (jeu)
+personnage: Le griot
+fichier: crocodile-confiance-<langue>.m4a
+intonation: posé (proposée)
+texte: Le crocodile ne mord pas. Du museau, il te pousse doucement. Tu te relèves. Il avance, puis il se retourne, comme pour dire : suis-moi.
+genre: adulte/homme
+duree: 11300ms (estimée)
+
+piste: n4
+histoire: Le crocodile qui sauva l'ancêtre
+partie: L'eau (jeu)
+personnage: Le griot
+fichier: crocodile-n4-<langue>.m4a
+intonation: posé (proposée)
+texte: Abem boit, et la vie revient. Il se tourne vers le crocodile, et il s'incline devant lui.
+genre: adulte/homme
+duree: 7360ms (estimée)
+
+piste: n5
+histoire: Le crocodile qui sauva l'ancêtre
+partie: L'eau (jeu)
+personnage: Le griot
+fichier: crocodile-n5-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Que promet-il ?
+genre: adulte/homme
+duree: 1440ms (estimée)
+
+piste: gibier
+histoire: Le crocodile qui sauva l'ancêtre
+partie: L'eau (jeu)
+personnage: Le griot
+fichier: crocodile-gibier-<langue>.m4a
+intonation: posé (proposée)
+texte: Le crocodile regarde ailleurs. Une dette de vie ne se paie pas en viande. Abem comprend, et il fait une autre promesse.
+genre: adulte/homme
+duree: 9410ms (estimée)
+
+piste: serment
+histoire: Le crocodile qui sauva l'ancêtre
+partie: Le serment (jeu)
+personnage: Le griot
+fichier: crocodile-serment-<langue>.m4a
+intonation: posé (proposée)
+texte: Et sa famille fit le serment.
+genre: adulte/homme
+duree: 2580ms (estimée)
+
+piste: n6
+histoire: Le crocodile qui sauva l'ancêtre
+partie: Le serment (jeu)
+personnage: L'enfant
+fichier: crocodile-n6-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Il ne nous mange pas ?
+genre: enfant/libre
+duree: 2580ms (estimée)
+
+piste: n7
+histoire: Le crocodile qui sauva l'ancêtre
+partie: Le serment (jeu)
+personnage: Le griot
+fichier: crocodile-n7-<langue>.m4a
+intonation: posé (proposée)
+texte: Aujourd'hui encore, pour certaines familles kassena, le crocodile reste un totem sacré. On n'oublie pas celui qui nous a sauvés.
+genre: adulte/homme
+duree: 8500ms (estimée)
+
+piste: film-001
+histoire: Le crocodile qui sauva l'ancêtre
+partie: Film d'animation, de 00:02.0 à 00:07.2
+personnage: Narrateur
+fichier: crocodile-film-001-<langue>.m4a
+intonation: solennel (scénario)
+texte: Le crocodile qui sauva l'ancêtre. Une légende kassena.
+genre: adulte/libre
+duree: 5200ms (mesurée sur le film)
+
+piste: film-002
+histoire: Le crocodile qui sauva l'ancêtre
+partie: Film d'animation, de 00:09.0 à 00:16.8
+personnage: Narrateur
+fichier: crocodile-film-002-<langue>.m4a
+intonation: posé (proposée)
+texte: Abem était chasseur, l'ancêtre d'une famille kassena. Il partit, comme chaque jour, avec son arc.
+genre: adulte/libre
+duree: 7800ms (mesurée sur le film)
+
+piste: film-003
+histoire: Le crocodile qui sauva l'ancêtre
+partie: Film d'animation, de 00:28.0 à 00:33.5
+personnage: Narrateur
+fichier: crocodile-film-003-<langue>.m4a
+intonation: grave (scénario)
+texte: Mais la grande sécheresse brûlait la brousse. Le gibier se faisait rare.
+genre: adulte/libre
+duree: 5500ms (mesurée sur le film)
+
+piste: film-004
+histoire: Le crocodile qui sauva l'ancêtre
+partie: Film d'animation, de 00:40.0 à 00:47.2
+personnage: Narrateur
+fichier: crocodile-film-004-<langue>.m4a
+intonation: posé (proposée)
+texte: Abem suivit une antilope, de plus en plus loin. Et quand il s'arrêta, il ne reconnut plus rien.
+genre: adulte/libre
+duree: 7200ms (mesurée sur le film)
+
+piste: film-005
+histoire: Le crocodile qui sauva l'ancêtre
+partie: Film d'animation, de 01:04.0 à 01:07.3
+personnage: Narrateur
+fichier: crocodile-film-005-<langue>.m4a
+intonation: posé (proposée)
+texte: Le soleil était haut, et la soif le prit.
+genre: adulte/libre
+duree: 3300ms (mesurée sur le film)
+
+piste: film-006
+histoire: Le crocodile qui sauva l'ancêtre
+partie: Film d'animation, de 01:16.0 à 01:20.2
+personnage: Narrateur
+fichier: crocodile-film-006-<langue>.m4a
+intonation: inquiet (scénario)
+texte: Il secoua sa gourde. Elle était vide.
+genre: adulte/libre
+duree: 4200ms (mesurée sur le film)
+
+piste: film-007
+histoire: Le crocodile qui sauva l'ancêtre
+partie: Film d'animation, de 01:24.0 à 01:27.4
+personnage: Narrateur
+fichier: crocodile-film-007-<langue>.m4a
+intonation: posé (proposée)
+texte: Il marcha encore un peu, puis il tomba.
+genre: adulte/libre
+duree: 3400ms (mesurée sur le film)
+
+piste: film-008
+histoire: Le crocodile qui sauva l'ancêtre
+partie: Film d'animation, de 01:39.0 à 01:44.8
+personnage: Narrateur
+fichier: crocodile-film-008-<langue>.m4a
+intonation: chuchoté (scénario)
+texte: Quelque chose bougeait dans les herbes. Un crocodile, loin de toute eau.
+genre: adulte/libre
+duree: 5800ms (mesurée sur le film)
+
+piste: film-009
+histoire: Le crocodile qui sauva l'ancêtre
+partie: Film d'animation, de 01:53.0 à 01:59.2
+personnage: Narrateur
+fichier: crocodile-film-009-<langue>.m4a
+intonation: tendu (scénario)
+texte: Abem voulut prendre son arc, mais ses mains ne lui obéissaient plus. Il ferma les yeux.
+genre: adulte/libre
+duree: 6200ms (mesurée sur le film)
+
+piste: film-010
+histoire: Le crocodile qui sauva l'ancêtre
+partie: Film d'animation, de 02:14.0 à 02:19.5
+personnage: Narrateur
+fichier: crocodile-film-010-<langue>.m4a
+intonation: émerveillé (scénario)
+texte: Le crocodile ne mordit pas. Du museau, il le poussa doucement.
+genre: adulte/libre
+duree: 5500ms (mesurée sur le film)
+
+piste: film-011
+histoire: Le crocodile qui sauva l'ancêtre
+partie: Film d'animation, de 02:27.0 à 02:34.3
+personnage: Narrateur
+fichier: crocodile-film-011-<langue>.m4a
+intonation: posé (proposée)
+texte: Abem se releva. Le crocodile avança, puis il se retourna, comme pour dire : suis-moi.
+genre: adulte/libre
+duree: 7300ms (mesurée sur le film)
+
+piste: film-012
+histoire: Le crocodile qui sauva l'ancêtre
+partie: Film d'animation, de 02:51.0 à 02:55.8
+personnage: Narrateur
+fichier: crocodile-film-012-<langue>.m4a
+intonation: joyeux (scénario)
+texte: Derrière les arbres, il y avait une mare cachée, pleine d'eau claire.
+genre: adulte/libre
+duree: 4800ms (mesurée sur le film)
+
+piste: film-013
+histoire: Le crocodile qui sauva l'ancêtre
+partie: Film d'animation, de 03:02.0 à 03:04.7
+personnage: Narrateur
+fichier: crocodile-film-013-<langue>.m4a
+intonation: posé (proposée)
+texte: Abem but, et la vie revint.
+genre: adulte/libre
+duree: 2700ms (mesurée sur le film)
+
+piste: film-014
+histoire: Le crocodile qui sauva l'ancêtre
+partie: Film d'animation, de 03:12.0 à 03:16.2
+personnage: Narrateur
+fichier: crocodile-film-014-<langue>.m4a
+intonation: ému (scénario)
+texte: Il se tourna vers le crocodile, et il s'inclina devant lui.
+genre: adulte/libre
+duree: 4200ms (mesurée sur le film)
+
+piste: film-015
+histoire: Le crocodile qui sauva l'ancêtre
+partie: Film d'animation, de 03:35.0 à 03:39.8
+personnage: ABEM
+fichier: crocodile-film-015-<langue>.m4a
+intonation: solennel (scénario)
+texte: Jamais nous ne tuerons le crocodile. Ni moi, ni mes enfants.
+genre: adulte/homme
+duree: 4800ms (mesurée sur le film)
+
+piste: film-016
+histoire: Le crocodile qui sauva l'ancêtre
+partie: Film d'animation, de 03:44.0 à 03:46.6
+personnage: Narrateur
+fichier: crocodile-film-016-<langue>.m4a
+intonation: posé (proposée)
+texte: Et sa famille fit le serment.
+genre: adulte/libre
+duree: 2600ms (mesurée sur le film)
+
+piste: film-017
+histoire: Le crocodile qui sauva l'ancêtre
+partie: Film d'animation, de 04:06.0 à 04:08.2
+personnage: ENFANT
+fichier: crocodile-film-017-<langue>.m4a
+intonation: curieux, à mi-voix (scénario)
+texte: Il ne nous mange pas ?
+genre: enfant/libre
+duree: 2200ms (mesurée sur le film)
+
+piste: film-018
+histoire: Le crocodile qui sauva l'ancêtre
+partie: Film d'animation, de 04:10.0 à 04:16.2
+personnage: Narrateur
+fichier: crocodile-film-018-<langue>.m4a
+intonation: doux (scénario)
+texte: Aujourd'hui encore, pour certaines familles kassena, le crocodile reste un totem sacré.
+genre: adulte/libre
+duree: 6200ms (mesurée sur le film)

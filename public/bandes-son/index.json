@@ -1,0 +1,556 @@
+[
+ {
+  "id": "yennenga",
+  "titre": "La légende de Yennenga",
+  "pistes": 57,
+  "langues": {
+   "fr": {
+    "texte": 100,
+    "voix": 0
+   },
+   "mos": {
+    "texte": 0,
+    "voix": 0
+   },
+   "en": {
+    "texte": 100,
+    "voix": 0
+   }
+  }
+ },
+ {
+  "id": "lievre-hyene",
+  "titre": "Le lièvre et l'hyène",
+  "pistes": 26,
+  "langues": {
+   "fr": {
+    "texte": 100,
+    "voix": 0
+   },
+   "mos": {
+    "texte": 0,
+    "voix": 0
+   }
+  }
+ },
+ {
+  "id": "naaba-wobgo",
+  "titre": "Naaba Wobgo et la résistance de 1896",
+  "pistes": 16,
+  "langues": {
+   "fr": {
+    "texte": 100,
+    "voix": 0
+   },
+   "mos": {
+    "texte": 0,
+    "voix": 0
+   }
+  }
+ },
+ {
+  "id": "tiefo-amoro",
+  "titre": "Tiéfo Amoro et la chute de Noumoudara (1897)",
+  "pistes": 13,
+  "langues": {
+   "fr": {
+    "texte": 100,
+    "voix": 0
+   },
+   "dyu": {
+    "texte": 0,
+    "voix": 0
+   }
+  }
+ },
+ {
+  "id": "silures-dafra",
+  "titre": "Les silures sacrés de Dafra",
+  "pistes": 44,
+  "langues": {
+   "fr": {
+    "texte": 100,
+    "voix": 0
+   },
+   "bbo": {
+    "texte": 0,
+    "voix": 0
+   },
+   "dyu": {
+    "texte": 0,
+    "voix": 0
+   }
+  }
+ },
+ {
+  "id": "kinkirsi",
+  "titre": "Les kinkirsi, génies de la brousse",
+  "pistes": 15,
+  "langues": {
+   "fr": {
+    "texte": 100,
+    "voix": 0
+   },
+   "mos": {
+    "texte": 0,
+    "voix": 0
+   }
+  }
+ },
+ {
+  "id": "bilissi",
+  "titre": "La part de Bilissi",
+  "pistes": 41,
+  "langues": {
+   "fr": {
+    "texte": 100,
+    "voix": 0
+   },
+   "fuf": {
+    "texte": 0,
+    "voix": 0
+   }
+  }
+ },
+ {
+  "id": "thila-bateba",
+  "titre": "Les thila et les bateba",
+  "pistes": 37,
+  "langues": {
+   "fr": {
+    "texte": 100,
+    "voix": 0
+   },
+   "lob": {
+    "texte": 0,
+    "voix": 0
+   }
+  }
+ },
+ {
+  "id": "wuro-masque",
+  "titre": "Wuro et le masque de feuilles",
+  "pistes": 52,
+  "langues": {
+   "fr": {
+    "texte": 100,
+    "voix": 0
+   },
+   "bbo": {
+    "texte": 0,
+    "voix": 0
+   },
+   "dyu": {
+    "texte": 0,
+    "voix": 0
+   }
+  }
+ },
+ {
+  "id": "wuro-pilon",
+  "titre": "Wuro blessé par le pilon",
+  "pistes": 54,
+  "langues": {
+   "fr": {
+    "texte": 100,
+    "voix": 0
+   },
+   "bwa": {
+    "texte": 0,
+    "voix": 0
+   },
+   "dyu": {
+    "texte": 0,
+    "voix": 0
+   }
+  }
+ },
+ {
+  "id": "gazelle",
+  "titre": "Les deux traits de la gazelle",
+  "pistes": 38,
+  "langues": {
+   "fr": {
+    "texte": 100,
+    "voix": 0
+   },
+   "bwa": {
+    "texte": 0,
+    "voix": 0
+   },
+   "dyu": {
+    "texte": 0,
+    "voix": 0
+   },
+   "en": {
+    "texte": 100,
+    "voix": 0
+   }
+  }
+ },
+ {
+  "id": "tenin-1915",
+  "titre": "Tenin Coulibaly et la révolte de 1915",
+  "pistes": 50,
+  "langues": {
+   "fr": {
+    "texte": 100,
+    "voix": 0
+   },
+   "bwa": {
+    "texte": 0,
+    "voix": 0
+   },
+   "dyu": {
+    "texte": 0,
+    "voix": 0
+   }
+  }
+ },
+ {
+  "id": "bona-1915",
+  "titre": "Le soulèvement de Bona",
+  "pistes": 36,
+  "langues": {
+   "fr": {
+    "texte": 100,
+    "voix": 0
+   },
+   "mkr": {
+    "texte": 0,
+    "voix": 0
+   },
+   "dyu": {
+    "texte": 0,
+    "voix": 0
+   }
+  }
+ },
+ {
+  "id": "pics-sindou",
+  "titre": "Les esprits des pics de Sindou",
+  "pistes": 35,
+  "langues": {
+   "fr": {
+    "texte": 100,
+    "voix": 0
+   },
+   "sen": {
+    "texte": 0,
+    "voix": 0
+   },
+   "dyu": {
+    "texte": 0,
+    "voix": 0
+   }
+  }
+ },
+ {
+  "id": "tene-balafon",
+  "titre": "Téné et le balafon des génies",
+  "pistes": 39,
+  "langues": {
+   "fr": {
+    "texte": 100,
+    "voix": 0
+   },
+   "sen": {
+    "texte": 0,
+    "voix": 0
+   },
+   "dyu": {
+    "texte": 0,
+    "voix": 0
+   }
+  }
+ },
+ {
+  "id": "dyoro",
+  "titre": "Le Dyoro, la traversée",
+  "pistes": 30,
+  "langues": {
+   "fr": {
+    "texte": 100,
+    "voix": 0
+   },
+   "lob": {
+    "texte": 0,
+    "voix": 0
+   }
+  }
+ },
+ {
+  "id": "loropeni",
+  "titre": "Les ruines de Loropéni",
+  "pistes": 32,
+  "langues": {
+   "fr": {
+    "texte": 100,
+    "voix": 0
+   },
+   "gan": {
+    "texte": 0,
+    "voix": 0
+   }
+  }
+ },
+ {
+  "id": "obire",
+  "titre": "Le royaume gan d'Obiré",
+  "pistes": 34,
+  "langues": {
+   "fr": {
+    "texte": 100,
+    "voix": 0
+   },
+   "gan": {
+    "texte": 0,
+    "voix": 0
+   }
+  }
+ },
+ {
+  "id": "zenuo",
+  "titre": "Zenuo, le premier Dagara",
+  "pistes": 34,
+  "langues": {
+   "fr": {
+    "texte": 100,
+    "voix": 0
+   },
+   "dag": {
+    "texte": 0,
+    "voix": 0
+   }
+  }
+ },
+ {
+  "id": "gyil",
+  "titre": "Le gyil des génies",
+  "pistes": 36,
+  "langues": {
+   "fr": {
+    "texte": 100,
+    "voix": 0
+   },
+   "dag": {
+    "texte": 0,
+    "voix": 0
+   }
+  }
+ },
+ {
+  "id": "guimbi",
+  "titre": "Guimbi Ouattara, la reine de Bobo",
+  "pistes": 38,
+  "langues": {
+   "fr": {
+    "texte": 100,
+    "voix": 0
+   },
+   "dyu": {
+    "texte": 0,
+    "voix": 0
+   }
+  }
+ },
+ {
+  "id": "famagan",
+  "titre": "Famagan et le Gwiriko",
+  "pistes": 35,
+  "langues": {
+   "fr": {
+    "texte": 100,
+    "voix": 0
+   },
+   "dyu": {
+    "texte": 0,
+    "voix": 0
+   }
+  }
+ },
+ {
+  "id": "landolo",
+  "titre": "Landolo et le grand caïlcédrat",
+  "pistes": 40,
+  "langues": {
+   "fr": {
+    "texte": 100,
+    "voix": 0
+   },
+   "san": {
+    "texte": 0,
+    "voix": 0
+   }
+  }
+ },
+ {
+  "id": "rakire",
+  "titre": "Le rakiré entre Samo et Mossi",
+  "pistes": 37,
+  "langues": {
+   "fr": {
+    "texte": 100,
+    "voix": 0
+   },
+   "san": {
+    "texte": 0,
+    "voix": 0
+   },
+   "mos": {
+    "texte": 0,
+    "voix": 0
+   }
+  }
+ },
+ {
+  "id": "vur",
+  "titre": "Le mystère du vur",
+  "pistes": 37,
+  "langues": {
+   "fr": {
+    "texte": 100,
+    "voix": 0
+   },
+   "lyl": {
+    "texte": 0,
+    "voix": 0
+   }
+  }
+ },
+ {
+  "id": "ancetre-ciel",
+  "titre": "L'ancêtre tombé du ciel",
+  "pistes": 31,
+  "langues": {
+   "fr": {
+    "texte": 100,
+    "voix": 0
+   },
+   "kas": {
+    "texte": 0,
+    "voix": 0
+   }
+  }
+ },
+ {
+  "id": "crocodile",
+  "titre": "Le crocodile qui sauva l'ancêtre",
+  "pistes": 30,
+  "langues": {
+   "fr": {
+    "texte": 100,
+    "voix": 0
+   },
+   "kas": {
+    "texte": 0,
+    "voix": 0
+   }
+  }
+ },
+ {
+  "id": "babatou",
+  "titre": "Face aux cavaliers de Babatou",
+  "pistes": 32,
+  "langues": {
+   "fr": {
+    "texte": 100,
+    "voix": 0
+   },
+   "nun": {
+    "texte": 0,
+    "voix": 0
+   }
+  }
+ },
+ {
+  "id": "lingani",
+  "titre": "Les Lingani de Tangaré",
+  "pistes": 30,
+  "langues": {
+   "fr": {
+    "texte": 100,
+    "voix": 0
+   },
+   "bsa": {
+    "texte": 0,
+    "voix": 0
+   }
+  }
+ },
+ {
+  "id": "jaba-lompo",
+  "titre": "Jaba Lompo, le devin ancêtre",
+  "pistes": 33,
+  "langues": {
+   "fr": {
+    "texte": 100,
+    "voix": 0
+   },
+   "gur": {
+    "texte": 0,
+    "voix": 0
+   }
+  }
+ },
+ {
+  "id": "maitres-terre",
+  "titre": "Les maîtres de la terre",
+  "pistes": 39,
+  "langues": {
+   "fr": {
+    "texte": 100,
+    "voix": 0
+   },
+   "kur": {
+    "texte": 0,
+    "voix": 0
+   }
+  }
+ },
+ {
+  "id": "silamaka",
+  "titre": "Silamaka et Poullori",
+  "pistes": 32,
+  "langues": {
+   "fr": {
+    "texte": 100,
+    "voix": 0
+   },
+   "fuf": {
+    "texte": 0,
+    "voix": 0
+   }
+  }
+ },
+ {
+  "id": "liptako",
+  "titre": "L'émirat du Liptako",
+  "pistes": 40,
+  "langues": {
+   "fr": {
+    "texte": 100,
+    "voix": 0
+   },
+   "fuf": {
+    "texte": 0,
+    "voix": 0
+   }
+  }
+ },
+ {
+  "id": "crapaud",
+  "titre": "Pourquoi le crapaud chante la nuit",
+  "pistes": 37,
+  "langues": {
+   "fr": {
+    "texte": 100,
+    "voix": 0
+   },
+   "ses": {
+    "texte": 0,
+    "voix": 0
+   }
+  }
+ }
+]

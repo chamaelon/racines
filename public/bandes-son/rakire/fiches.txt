@@ -1,0 +1,372 @@
+# Le rakiré entre Samo et Mossi : fiches des bandes-son
+# Généré par « npm run bandes-son » depuis pistes.json. Modifier pistes.json, pas ce fichier.
+
+piste: n1
+histoire: Le rakiré entre Samo et Mossi
+partie: Les cavaliers mossi (jeu)
+personnage: Le griot
+fichier: rakire-n1-<langue>.m4a
+intonation: posé (proposée)
+texte: Dans le pays samo, la vie suivait son cours. Jusqu'à ce jour-là, où des cavaliers mossi approchent dans un nuage de poussière.
+genre: adulte/homme
+duree: 9260ms (estimée)
+
+piste: n2
+histoire: Le rakiré entre Samo et Mossi
+partie: Les cavaliers mossi (jeu)
+personnage: Le chef mossi
+fichier: rakire-n2-<langue>.m4a
+intonation: posé (proposée)
+texte: Cette terre est désormais à nous.
+genre: adulte/homme
+duree: 2580ms (estimée)
+
+piste: n3
+histoire: Le rakiré entre Samo et Mossi
+partie: Les cavaliers mossi (jeu)
+personnage: Le griot
+fichier: rakire-n3-<langue>.m4a
+intonation: posé (proposée)
+texte: Le chef samo appelle ses archers. Les flèches contre les chevaux. On se bat toute la journée, et personne ne gagne.
+genre: adulte/homme
+duree: 9030ms (estimée)
+
+piste: n4
+histoire: Le rakiré entre Samo et Mossi
+partie: La nuit des blessés (jeu)
+personnage: Le griot
+fichier: rakire-n4-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: La nuit tombe. Il ne reste que des blessés, des deux camps, tous abandonnés. Un archer et un cavalier se regardent. L'archer a encore de l'eau. Que fait-il ?
+genre: adulte/homme
+duree: 12820ms (estimée)
+
+piste: garde
+histoire: Le rakiré entre Samo et Mossi
+partie: La nuit des blessés (jeu)
+personnage: Le griot
+fichier: rakire-garde-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Le cavalier gémit toute la nuit. Une femme samo arrive, s'arrête devant lui, hésite. Va-t-elle le soigner ?
+genre: adulte/homme
+duree: 8040ms (estimée)
+
+piste: rancune
+histoire: Le rakiré entre Samo et Mossi
+partie: La nuit des blessés (jeu)
+personnage: Le griot
+fichier: rakire-rancune-<langue>.m4a
+intonation: chuchoté (proposée)
+texte: Au matin, chacun compte ses morts, et chacun jure de les venger. Trop de sang pour rien. Ce n'est pas la fin que l'on raconte, heureusement.
+genre: adulte/homme
+duree: 11230ms (estimée)
+
+piste: gourde
+histoire: Le rakiré entre Samo et Mossi
+partie: La nuit des blessés (jeu)
+personnage: Le griot
+fichier: rakire-gourde-<langue>.m4a
+intonation: chuchoté (proposée)
+texte: Une femme samo arrive, s'arrête devant un cavalier mossi. Elle hésite, puis elle le soigne.
+genre: adulte/homme
+duree: 6600ms (estimée)
+
+piste: soin
+histoire: Le rakiré entre Samo et Mossi
+partie: La nuit des blessés (jeu)
+personnage: Le griot
+fichier: rakire-soin-<langue>.m4a
+intonation: chuchoté (proposée)
+texte: Un cavalier, à son tour, panse un archer samo. Plus personne ne se souvient du camp de l'autre.
+genre: adulte/homme
+duree: 7740ms (estimée)
+
+piste: n5
+histoire: Le rakiré entre Samo et Mossi
+partie: Trop de sang (jeu)
+personnage: Le chef samo
+fichier: rakire-n5-<langue>.m4a
+intonation: posé (proposée)
+texte: Trop de sang pour rien.
+genre: adulte/homme
+duree: 2200ms (estimée)
+
+piste: n6
+histoire: Le rakiré entre Samo et Mossi
+partie: Trop de sang (jeu)
+personnage: Le chef mossi
+fichier: rakire-n6-<langue>.m4a
+intonation: posé (proposée)
+texte: Plus jamais de sang entre nous.
+genre: adulte/homme
+duree: 2580ms (estimée)
+
+piste: n7
+histoire: Le rakiré entre Samo et Mossi
+partie: Trop de sang (jeu)
+personnage: Le griot
+fichier: rakire-n7-<langue>.m4a
+intonation: posé (proposée)
+texte: Ils boivent, l'un après l'autre, dans la même calebasse. Regarde ce qui les relie.
+genre: adulte/homme
+duree: 6220ms (estimée)
+
+piste: n8
+histoire: Le rakiré entre Samo et Mossi
+partie: Le marché, bien plus tard (jeu)
+personnage: Le griot
+fichier: rakire-n8-<langue>.m4a
+intonation: joyeux (proposée)
+texte: Le temps a passé. Au marché, un Samo et un Mossi se croisent. À toi de lancer la plaisanterie.
+genre: adulte/homme
+duree: 8270ms (estimée)
+
+piste: froid
+histoire: Le rakiré entre Samo et Mossi
+partie: Le marché, bien plus tard (jeu)
+personnage: Le cavalier mossi
+fichier: rakire-froid-<langue>.m4a
+intonation: vif (proposée)
+texte: Comment ? Pas un mot ? Tu veux donc que je croie que vous êtes fâchés ? Vous, les Samo, vous parlez trop !
+genre: adulte/homme
+duree: 10620ms (estimée)
+
+piste: n9
+histoire: Le rakiré entre Samo et Mossi
+partie: Le marché, bien plus tard (jeu)
+personnage: L'archer samo
+fichier: rakire-n9-<langue>.m4a
+intonation: vif (proposée)
+texte: Et vous, les Mossi, vous mangez trop !
+genre: adulte/homme
+duree: 3640ms (estimée)
+
+piste: blague
+histoire: Le rakiré entre Samo et Mossi
+partie: Le marché, bien plus tard (jeu)
+personnage: Le cavalier mossi
+fichier: rakire-blague-<langue>.m4a
+intonation: vif (proposée)
+texte: Et vous, les Samo, vous parlez trop !
+genre: adulte/homme
+duree: 3640ms (estimée)
+
+piste: fin
+histoire: Le rakiré entre Samo et Mossi
+partie: Le marché, bien plus tard (jeu)
+personnage: Le griot
+fichier: rakire-fin-<langue>.m4a
+intonation: joyeux (proposée)
+texte: Depuis ce temps, ils se moquent les uns des autres, et personne ne se fâche. C'est le rakiré : une façon de se dire « plus jamais la guerre ».
+genre: adulte/homme
+duree: 12450ms (estimée)
+
+piste: film-001
+histoire: Le rakiré entre Samo et Mossi
+partie: Film d'animation, de 00:02.0 à 00:06.5
+personnage: Narrateur
+fichier: rakire-film-001-<langue>.m4a
+intonation: malicieux (scénario)
+texte: Le rakiré. Une légende des Samo et des Mossi.
+genre: adulte/libre
+duree: 4500ms (mesurée sur le film)
+
+piste: film-002
+histoire: Le rakiré entre Samo et Mossi
+partie: Film d'animation, de 00:09.0 à 00:13.9
+personnage: Narrateur
+fichier: rakire-film-002-<langue>.m4a
+intonation: posé (proposée)
+texte: Dans le pays samo, la vie suivait son cours, jusqu'à ce jour-là.
+genre: adulte/libre
+duree: 4900ms (mesurée sur le film)
+
+piste: film-003
+histoire: Le rakiré entre Samo et Mossi
+partie: Film d'animation, de 00:28.0 à 00:32.4
+personnage: Narrateur
+fichier: rakire-film-003-<langue>.m4a
+intonation: tendu (scénario)
+texte: Des cavaliers mossi approchaient, dans un nuage de poussière.
+genre: adulte/libre
+duree: 4400ms (mesurée sur le film)
+
+piste: film-004
+histoire: Le rakiré entre Samo et Mossi
+partie: Film d'animation, de 00:34.0 à 00:36.4
+personnage: CHEFMOSSI
+fichier: rakire-film-004-<langue>.m4a
+intonation: hautain (scénario)
+texte: Cette terre est désormais à nous.
+genre: adulte/homme
+duree: 2400ms (mesurée sur le film)
+
+piste: film-005
+histoire: Le rakiré entre Samo et Mossi
+partie: Film d'animation, de 00:40.0 à 00:44.8
+personnage: Narrateur
+fichier: rakire-film-005-<langue>.m4a
+intonation: posé (proposée)
+texte: Le chef samo ne répondit pas. Il appela ses archers.
+genre: adulte/libre
+duree: 4800ms (mesurée sur le film)
+
+piste: film-006
+histoire: Le rakiré entre Samo et Mossi
+partie: Film d'animation, de 01:03.0 à 01:07.6
+personnage: Narrateur
+fichier: rakire-film-006-<langue>.m4a
+intonation: posé (proposée)
+texte: Et la guerre commença. Les flèches contre les chevaux.
+genre: adulte/libre
+duree: 4600ms (mesurée sur le film)
+
+piste: film-007
+histoire: Le rakiré entre Samo et Mossi
+partie: Film d'animation, de 01:16.0 à 01:19.9
+personnage: Narrateur
+fichier: rakire-film-007-<langue>.m4a
+intonation: posé (proposée)
+texte: On se battit toute la journée, et personne ne gagna.
+genre: adulte/libre
+duree: 3900ms (mesurée sur le film)
+
+piste: film-008
+histoire: Le rakiré entre Samo et Mossi
+partie: Film d'animation, de 01:30.0 à 01:33.1
+personnage: Narrateur
+fichier: rakire-film-008-<langue>.m4a
+intonation: grave (scénario)
+texte: La nuit tomba sur le champ de bataille.
+genre: adulte/libre
+duree: 3100ms (mesurée sur le film)
+
+piste: film-009
+histoire: Le rakiré entre Samo et Mossi
+partie: Film d'animation, de 01:43.0 à 01:47.5
+personnage: Narrateur
+fichier: rakire-film-009-<langue>.m4a
+intonation: posé (proposée)
+texte: Il ne restait que des blessés, des deux camps, tous abandonnés.
+genre: adulte/libre
+duree: 4500ms (mesurée sur le film)
+
+piste: film-010
+histoire: Le rakiré entre Samo et Mossi
+partie: Film d'animation, de 01:56.0 à 02:01.2
+personnage: Narrateur
+fichier: rakire-film-010-<langue>.m4a
+intonation: ému (scénario)
+texte: Deux ennemis se regardèrent. Puis l'un tendit sa gourde à l'autre.
+genre: adulte/libre
+duree: 5200ms (mesurée sur le film)
+
+piste: film-011
+histoire: Le rakiré entre Samo et Mossi
+partie: Film d'animation, de 02:18.0 à 02:22.6
+personnage: Narrateur
+fichier: rakire-film-011-<langue>.m4a
+intonation: posé (proposée)
+texte: Une femme samo arriva, et elle s'arrêta devant un cavalier mossi.
+genre: adulte/libre
+duree: 4600ms (mesurée sur le film)
+
+piste: film-012
+histoire: Le rakiré entre Samo et Mossi
+partie: Film d'animation, de 02:29.0 à 02:36.0
+personnage: Narrateur
+fichier: rakire-film-012-<langue>.m4a
+intonation: ému (scénario)
+texte: Elle hésita, puis elle le soigna. Un cavalier, à son tour, pansa un archer samo.
+genre: adulte/libre
+duree: 7000ms (mesurée sur le film)
+
+piste: film-013
+histoire: Le rakiré entre Samo et Mossi
+partie: Film d'animation, de 02:42.0 à 02:45.2
+personnage: Narrateur
+fichier: rakire-film-013-<langue>.m4a
+intonation: posé (proposée)
+texte: Plus personne ne se souvenait du camp de l'autre.
+genre: adulte/libre
+duree: 3200ms (mesurée sur le film)
+
+piste: film-014
+histoire: Le rakiré entre Samo et Mossi
+partie: Film d'animation, de 02:57.5 à 03:00.0
+personnage: CHEFSAMO
+fichier: rakire-film-014-<langue>.m4a
+intonation: grave (scénario)
+texte: Trop de sang pour rien.
+genre: adulte/homme
+duree: 2500ms (mesurée sur le film)
+
+piste: film-015
+histoire: Le rakiré entre Samo et Mossi
+partie: Film d'animation, de 03:00.5 à 03:02.6
+personnage: CHEFMOSSI
+fichier: rakire-film-015-<langue>.m4a
+intonation: grave (scénario)
+texte: Plus jamais de sang entre nous.
+genre: adulte/homme
+duree: 2100ms (mesurée sur le film)
+
+piste: film-016
+histoire: Le rakiré entre Samo et Mossi
+partie: Film d'animation, de 03:06.0 à 03:10.4
+personnage: Narrateur
+fichier: rakire-film-016-<langue>.m4a
+intonation: recueilli (scénario)
+texte: Ils burent, l'un après l'autre, dans la même calebasse.
+genre: adulte/libre
+duree: 4400ms (mesurée sur le film)
+
+piste: film-017
+histoire: Le rakiré entre Samo et Mossi
+partie: Film d'animation, de 03:16.0 à 03:20.4
+personnage: Narrateur
+fichier: rakire-film-017-<langue>.m4a
+intonation: posé (proposée)
+texte: Et ils se serrèrent dans les bras. La paix était scellée.
+genre: adulte/libre
+duree: 4400ms (mesurée sur le film)
+
+piste: film-018
+histoire: Le rakiré entre Samo et Mossi
+partie: Film d'animation, de 03:33.0 à 03:36.5
+personnage: SAMO
+fichier: rakire-film-018-<langue>.m4a
+intonation: moqueur (scénario)
+texte: Vous, les Mossi, vous mangez trop !
+genre: adulte/homme
+duree: 3500ms (mesurée sur le film)
+
+piste: film-019
+histoire: Le rakiré entre Samo et Mossi
+partie: Film d'animation, de 03:38.0 à 03:40.8
+personnage: MOSSI
+fichier: rakire-film-019-<langue>.m4a
+intonation: hilare (scénario)
+texte: Et vous, les Samo, vous parlez trop !
+genre: adulte/homme
+duree: 2800ms (mesurée sur le film)
+
+piste: film-020
+histoire: Le rakiré entre Samo et Mossi
+partie: Film d'animation, de 03:44.0 à 03:50.9
+personnage: Narrateur
+fichier: rakire-film-020-<langue>.m4a
+intonation: joyeux (scénario)
+texte: Depuis ce temps, ils se moquent les uns des autres, et personne ne se fâche. C'est le rakiré.
+genre: adulte/libre
+duree: 6900ms (mesurée sur le film)
+
+piste: film-021
+histoire: Le rakiré entre Samo et Mossi
+partie: Film d'animation, de 04:08.0 à 04:14.4
+personnage: Narrateur
+fichier: rakire-film-021-<langue>.m4a
+intonation: doux (scénario)
+texte: Aujourd'hui encore, la parenté à plaisanterie est une façon de se dire : plus jamais la guerre.
+genre: adulte/libre
+duree: 6400ms (mesurée sur le film)

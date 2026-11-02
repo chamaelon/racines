@@ -100,7 +100,8 @@
       "speaker": "griot",
       "text": "Les gardes emmènent les jeunes hommes. Les mères pleurent au bord du chemin.",
       "explore": [
-        "faso-dan-fani"
+        "faso-dan-fani",
+        "arc-fleches"
       ],
       "next": "n6"
     },

@@ -1,0 +1,312 @@
+# L'ancêtre tombé du ciel : fiches des bandes-son
+# Généré par « npm run bandes-son » depuis pistes.json. Modifier pistes.json, pas ce fichier.
+
+piste: n1
+histoire: L'ancêtre tombé du ciel
+partie: Le trou dans les nuages (jeu)
+personnage: Le griot
+fichier: ancetre-ciel-n1-<langue>.m4a
+intonation: solennel (proposée)
+texte: Là-haut, au-dessus des nuages, il y avait un pays d'en haut. Rien n'y manquait. Par un trou dans les nuages, l'ancêtre de Kollo regardait la terre.
+genre: adulte/homme
+duree: 11230ms (estimée)
+
+piste: n2
+histoire: L'ancêtre tombé du ciel
+partie: Le trou dans les nuages (jeu)
+personnage: Le griot
+fichier: ancetre-ciel-n2-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Le monde est vide, sans une case et sans une voix. Une corde de lumière se déroule jusqu'au sol. Descendent-ils ?
+genre: adulte/homme
+duree: 9030ms (estimée)
+
+piste: regarde
+histoire: L'ancêtre tombé du ciel
+partie: Le trou dans les nuages (jeu)
+personnage: Son épouse
+fichier: ancetre-ciel-regarde-<langue>.m4a
+intonation: solennel (proposée)
+texte: Rien n'y bouge. Si personne n'y va, rien n'y bougera jamais.
+genre: adulte/femme
+duree: 4930ms (estimée)
+
+piste: descend
+histoire: L'ancêtre tombé du ciel
+partie: La terre vide (jeu)
+personnage: Le griot
+fichier: ancetre-ciel-descend-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Longtemps, ils glissent, entre ciel et terre. Une terre vide les attend, là où sera Tiébélé. Le sol est sec. Que faire d'abord ?
+genre: adulte/homme
+duree: 10770ms (estimée)
+
+piste: case
+histoire: L'ancêtre tombé du ciel
+partie: La terre vide (jeu)
+personnage: Le griot
+fichier: ancetre-ciel-case-<langue>.m4a
+intonation: posé (proposée)
+texte: La terre s'effrite entre leurs mains. Sans eau, on ne bâtit rien, et rien n'y poussera.
+genre: adulte/homme
+duree: 6980ms (estimée)
+
+piste: pluie
+histoire: L'ancêtre tombé du ciel
+partie: La terre vide (jeu)
+personnage: L'ancêtre
+fichier: ancetre-ciel-pluie-<langue>.m4a
+intonation: vif (proposée)
+texte: Pluie du pays d'en haut, viens à moi !
+genre: voix solennelle/libre
+duree: 3870ms (estimée)
+
+piste: n3
+histoire: L'ancêtre tombé du ciel
+partie: La terre vide (jeu)
+personnage: Le griot
+fichier: ancetre-ciel-n3-<langue>.m4a
+intonation: posé (proposée)
+texte: Les nuages s'ouvrent, et la terre boit enfin. Ils bâtissent une première case ronde, et ils ouvrent un champ. Regarde.
+genre: adulte/homme
+duree: 8800ms (estimée)
+
+piste: n4
+histoire: L'ancêtre tombé du ciel
+partie: Les premières peintures (jeu)
+personnage: Le griot
+fichier: ancetre-ciel-n4-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Les années passent, et des enfants naissent. Les femmes prennent de la terre et des pierres de couleur. Que peignent-elles sur les murs ?
+genre: adulte/homme
+duree: 10170ms (estimée)
+
+piste: nu
+histoire: L'ancêtre tombé du ciel
+partie: Les premières peintures (jeu)
+personnage: Le griot
+fichier: ancetre-ciel-nu-<langue>.m4a
+intonation: posé (proposée)
+texte: Les enfants grandissent sans plus rien savoir du pays d'en haut. Cette fin n'existe que dans le jeu, car à Tiébélé les femmes ont peint.
+genre: adulte/homme
+duree: 10250ms (estimée)
+
+piste: motifs
+histoire: L'ancêtre tombé du ciel
+partie: Les premières peintures (jeu)
+personnage: Le vieux
+fichier: ancetre-ciel-motifs-<langue>.m4a
+intonation: grave (proposée)
+texte: Notre père est venu d'en haut, souvenez-vous.
+genre: âgé/homme
+duree: 3110ms (estimée)
+
+piste: n5
+histoire: L'ancêtre tombé du ciel
+partie: Les premières peintures (jeu)
+personnage: Le griot
+fichier: ancetre-ciel-n5-<langue>.m4a
+intonation: posé (proposée)
+texte: Bien plus tard, naîtra la chefferie de Tiébélé.
+genre: adulte/homme
+duree: 3490ms (estimée)
+
+piste: n6
+histoire: L'ancêtre tombé du ciel
+partie: Les murs de Tiébélé (jeu)
+personnage: L'enfant
+fichier: ancetre-ciel-n6-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Dis, qui a peint ces murs ?
+genre: enfant/libre
+duree: 3110ms (estimée)
+
+piste: n8
+histoire: L'ancêtre tombé du ciel
+partie: Les murs de Tiébélé (jeu)
+personnage: Le griot
+fichier: ancetre-ciel-n8-<langue>.m4a
+intonation: joyeux (proposée)
+texte: À Tiébélé, aujourd'hui, les femmes peignent toujours leurs maisons.
+genre: adulte/homme
+duree: 4020ms (estimée)
+
+piste: film-001
+histoire: L'ancêtre tombé du ciel
+partie: Film d'animation, de 00:02.0 à 00:06.7
+personnage: Narrateur
+fichier: ancetre-ciel-film-001-<langue>.m4a
+intonation: solennel (scénario)
+texte: L'ancêtre tombé du ciel. Un mythe kassena.
+genre: adulte/libre
+duree: 4700ms (mesurée sur le film)
+
+piste: film-002
+histoire: L'ancêtre tombé du ciel
+partie: Film d'animation, de 00:09.0 à 00:15.0
+personnage: Narrateur
+fichier: ancetre-ciel-film-002-<langue>.m4a
+intonation: posé (proposée)
+texte: Là-haut, au-dessus des nuages, il y avait un pays d'en haut. Rien n'y manquait.
+genre: adulte/libre
+duree: 6000ms (mesurée sur le film)
+
+piste: film-003
+histoire: L'ancêtre tombé du ciel
+partie: Film d'animation, de 00:28.0 à 00:33.4
+personnage: Narrateur
+fichier: ancetre-ciel-film-003-<langue>.m4a
+intonation: posé (proposée)
+texte: Par un trou dans les nuages, l'ancêtre de Kollo regardait la terre, tout en bas.
+genre: adulte/libre
+duree: 5400ms (mesurée sur le film)
+
+piste: film-004
+histoire: L'ancêtre tombé du ciel
+partie: Film d'animation, de 00:39.0 à 00:44.3
+personnage: Narrateur
+fichier: ancetre-ciel-film-004-<langue>.m4a
+intonation: posé (proposée)
+texte: Avec son épouse, il observait ce monde vide, sans une case et sans une voix.
+genre: adulte/libre
+duree: 5300ms (mesurée sur le film)
+
+piste: film-005
+histoire: L'ancêtre tombé du ciel
+partie: Film d'animation, de 00:58.0 à 01:03.1
+personnage: Narrateur
+fichier: ancetre-ciel-film-005-<langue>.m4a
+intonation: mystérieux (scénario)
+texte: Une corde de lumière se déroula jusqu'au sol, et ils commencèrent à descendre.
+genre: adulte/libre
+duree: 5100ms (mesurée sur le film)
+
+piste: film-006
+histoire: L'ancêtre tombé du ciel
+partie: Film d'animation, de 01:10.0 à 01:13.9
+personnage: Narrateur
+fichier: ancetre-ciel-film-006-<langue>.m4a
+intonation: posé (proposée)
+texte: Longtemps, ils glissèrent, entre ciel et terre.
+genre: adulte/libre
+duree: 3900ms (mesurée sur le film)
+
+piste: film-007
+histoire: L'ancêtre tombé du ciel
+partie: Film d'animation, de 01:19.0 à 01:22.9
+personnage: Narrateur
+fichier: ancetre-ciel-film-007-<langue>.m4a
+intonation: posé (proposée)
+texte: Une terre vide les attendait, là où sera Tiébélé.
+genre: adulte/libre
+duree: 3900ms (mesurée sur le film)
+
+piste: film-008
+histoire: L'ancêtre tombé du ciel
+partie: Film d'animation, de 01:34.0 à 01:38.6
+personnage: Narrateur
+fichier: ancetre-ciel-film-008-<langue>.m4a
+intonation: posé (proposée)
+texte: Le sol était sec. Rien n'y pousserait sans eau.
+genre: adulte/libre
+duree: 4600ms (mesurée sur le film)
+
+piste: film-009
+histoire: L'ancêtre tombé du ciel
+partie: Film d'animation, de 01:40.0 à 01:43.0
+personnage: ANCETRE
+fichier: ancetre-ciel-film-009-<langue>.m4a
+intonation: voix profonde, levé vers le ciel (scénario)
+texte: Pluie du pays d'en haut, viens à moi !
+genre: esprit, créature : voix grave/libre
+duree: 3000ms (mesurée sur le film)
+
+piste: film-010
+histoire: L'ancêtre tombé du ciel
+partie: Film d'animation, de 01:47.0 à 01:50.5
+personnage: Narrateur
+fichier: ancetre-ciel-film-010-<langue>.m4a
+intonation: joyeux (scénario)
+texte: Et les nuages s'ouvrirent, et la terre but enfin.
+genre: adulte/libre
+duree: 3500ms (mesurée sur le film)
+
+piste: film-011
+histoire: L'ancêtre tombé du ciel
+partie: Film d'animation, de 02:14.0 à 02:18.1
+personnage: Narrateur
+fichier: ancetre-ciel-film-011-<langue>.m4a
+intonation: posé (proposée)
+texte: Ils bâtirent une première case ronde, et ils ouvrirent un champ.
+genre: adulte/libre
+duree: 4100ms (mesurée sur le film)
+
+piste: film-012
+histoire: L'ancêtre tombé du ciel
+partie: Film d'animation, de 02:28.0 à 02:33.9
+personnage: Narrateur
+fichier: ancetre-ciel-film-012-<langue>.m4a
+intonation: tendre (scénario)
+texte: Ce fut le premier village. Les années passèrent, et des enfants naquirent.
+genre: adulte/libre
+duree: 5900ms (mesurée sur le film)
+
+piste: film-013
+histoire: L'ancêtre tombé du ciel
+partie: Film d'animation, de 02:55.0 à 02:59.8
+personnage: Narrateur
+fichier: ancetre-ciel-film-013-<langue>.m4a
+intonation: posé (proposée)
+texte: Les femmes prirent de la terre et des pierres de couleur, et elles peignirent les murs.
+genre: adulte/libre
+duree: 4800ms (mesurée sur le film)
+
+piste: film-014
+histoire: L'ancêtre tombé du ciel
+partie: Film d'animation, de 03:07.0 à 03:12.2
+personnage: Narrateur
+fichier: ancetre-ciel-film-014-<langue>.m4a
+intonation: émerveillé (scénario)
+texte: Elles y dessinèrent des motifs venus du ciel, pour que personne n'oublie d'où l'on venait.
+genre: adulte/libre
+duree: 5200ms (mesurée sur le film)
+
+piste: film-015
+histoire: L'ancêtre tombé du ciel
+partie: Film d'animation, de 03:35.0 à 03:38.6
+personnage: VIEUX
+fichier: ancetre-ciel-film-015-<langue>.m4a
+intonation: posé (scénario)
+texte: Notre père est venu d'en haut, souvenez-vous.
+genre: âgé/libre
+duree: 3600ms (mesurée sur le film)
+
+piste: film-016
+histoire: L'ancêtre tombé du ciel
+partie: Film d'animation, de 03:46.0 à 03:49.8
+personnage: Narrateur
+fichier: ancetre-ciel-film-016-<langue>.m4a
+intonation: posé (proposée)
+texte: Bien plus tard, naîtra la chefferie de Tiébélé.
+genre: adulte/libre
+duree: 3800ms (mesurée sur le film)
+
+piste: film-017
+histoire: L'ancêtre tombé du ciel
+partie: Film d'animation, de 04:06.0 à 04:08.9
+personnage: ENFANT
+fichier: ancetre-ciel-film-017-<langue>.m4a
+intonation: curieux (scénario)
+texte: Dis, qui a peint ces murs ?
+genre: enfant/libre
+duree: 2900ms (mesurée sur le film)
+
+piste: film-018
+histoire: L'ancêtre tombé du ciel
+partie: Film d'animation, de 04:10.0 à 04:14.8
+personnage: Narrateur
+fichier: ancetre-ciel-film-018-<langue>.m4a
+intonation: doux (scénario)
+texte: À Tiébélé, aujourd'hui, les femmes peignent toujours leurs maisons.
+genre: adulte/libre
+duree: 4800ms (mesurée sur le film)

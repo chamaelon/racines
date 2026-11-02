@@ -1,0 +1,711 @@
+{
+ "id": "gyil",
+ "titre": "Le gyil des génies",
+ "peuple": "Dagara",
+ "langues_cibles": [
+  "fr",
+  "dag"
+ ],
+ "pistes": [
+  {
+   "id": "titre",
+   "type": "titre",
+   "chemin": "titre",
+   "texte": "Le gyil des génies"
+  },
+  {
+   "id": "presentation",
+   "type": "presentation",
+   "chemin": "presentation",
+   "texte": "Les fêtes dagara sont bien tristes : personne n'a encore de gyil. Perdu dans la brousse, le chasseur Bayuo entend des génies frapper des lames de bois. Sauras-tu retenir leur musique ?"
+  },
+  {
+   "id": "personnages.griot.nom",
+   "type": "personnage",
+   "chemin": "personnages.griot.nom",
+   "texte": "Le griot"
+  },
+  {
+   "id": "personnages.bayuo.nom",
+   "type": "personnage",
+   "chemin": "personnages.bayuo.nom",
+   "texte": "Bayuo"
+  },
+  {
+   "id": "personnages.genie.nom",
+   "type": "personnage",
+   "chemin": "personnages.genie.nom",
+   "texte": "Le génie"
+  },
+  {
+   "id": "personnages.femme.nom",
+   "type": "personnage",
+   "chemin": "personnages.femme.nom",
+   "texte": "Une villageoise"
+  },
+  {
+   "id": "fins.canon",
+   "type": "fin",
+   "chemin": "fins.canon",
+   "texte": "Version du griot : le premier gyil des hommes"
+  },
+  {
+   "id": "fins.garde",
+   "type": "fin",
+   "chemin": "fins.garde",
+   "texte": "Autre chemin : un gyil gardé pour soi"
+  },
+  {
+   "id": "fins.peur",
+   "type": "fin",
+   "chemin": "fins.peur",
+   "texte": "Autre chemin : la musique reste dans la brousse"
+  },
+  {
+   "id": "n1",
+   "type": "replique",
+   "chemin": "nodes.n1.text",
+   "noeud": "n1",
+   "partie": "Les fêtes tristes (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Autrefois, les villages dagara n'avaient pas de gyil. Les fêtes étaient bien tristes : on se regardait, et on s'ennuyait.",
+   "genre": "adulte/homme",
+   "duree_ms": 8650,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n2",
+   "type": "replique",
+   "chemin": "nodes.n2.text",
+   "noeud": "n2",
+   "partie": "La musique des kontomblé (jeu)",
+   "personnage": "Le griot",
+   "intonation": "mystérieux",
+   "intonation_statut": "proposée",
+   "texte": "Un jour, Bayuo s'éloigne trop dans la brousse. La nuit tombe. Soudain, il entend un son qu'il ne connaît pas : des kontomblé, les génies de la brousse, frappent sur des lames de bois.",
+   "genre": "adulte/homme",
+   "duree_ms": 14570,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n3",
+   "type": "replique",
+   "chemin": "nodes.n3.text",
+   "noeud": "n3",
+   "partie": "La musique des kontomblé (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Que fait-il ?",
+   "genre": "adulte/homme",
+   "duree_ms": 1440,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n3.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.n3.choices.0.label",
+   "texte": "Il se cache derrière un arbre pour écouter"
+  },
+  {
+   "id": "nodes.n3.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.n3.choices.0.tag",
+   "texte": "écoute cachée"
+  },
+  {
+   "id": "nodes.n3.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.n3.choices.1.label",
+   "texte": "Il s'enfuit vers le village"
+  },
+  {
+   "id": "nodes.n3.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.n3.choices.1.tag",
+   "texte": "fuite"
+  },
+  {
+   "id": "fuite",
+   "type": "replique",
+   "chemin": "nodes.fuite.text",
+   "noeud": "fuite",
+   "partie": "La musique des kontomblé (jeu)",
+   "personnage": "Le griot",
+   "intonation": "mystérieux",
+   "intonation_statut": "proposée",
+   "texte": "Il rentre au matin, et il essaie de raconter ce qu'il a entendu. Personne ne le croit. Les fêtes restent tristes, et lui reste avec un air qu'il ne sait plus retrouver.",
+   "genre": "adulte/homme",
+   "duree_ms": 13360,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "ecoute",
+   "type": "replique",
+   "chemin": "nodes.ecoute.text",
+   "noeud": "ecoute",
+   "partie": "La musique des kontomblé (jeu)",
+   "personnage": "Le griot",
+   "intonation": "mystérieux",
+   "intonation_statut": "proposée",
+   "texte": "Il revient la nuit suivante, et la suivante encore. Ses mains, dans le vide, imitent les génies. À toi : retiens l'air.",
+   "genre": "adulte/homme",
+   "duree_ms": 9860,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n4.consigne",
+   "type": "jeu",
+   "chemin": "nodes.n4.consigne",
+   "texte": "Écoute les lames des génies, et reproduis l'air."
+  },
+  {
+   "id": "nodes.n4.gagne",
+   "type": "jeu",
+   "chemin": "nodes.n4.gagne",
+   "texte": "Tes mains ont tout retenu."
+  },
+  {
+   "id": "nodes.n4.perdu",
+   "type": "jeu",
+   "chemin": "nodes.n4.perdu",
+   "texte": "L'air t'échappe un peu, mais tes mains s'en souviennent."
+  },
+  {
+   "id": "nodes.n4.tags.win",
+   "type": "parcours",
+   "chemin": "nodes.n4.tags.win",
+   "texte": "rythme tenu"
+  },
+  {
+   "id": "nodes.n4.tags.lose",
+   "type": "parcours",
+   "chemin": "nodes.n4.tags.lose",
+   "texte": "rythme perdu"
+  },
+  {
+   "id": "n5",
+   "type": "replique",
+   "chemin": "nodes.n5.text",
+   "noeud": "n5",
+   "partie": "La musique des kontomblé (jeu)",
+   "personnage": "Le griot",
+   "intonation": "enlevé",
+   "intonation_statut": "proposée",
+   "texte": "Une branche craque. Découvert !",
+   "genre": "adulte/homme",
+   "duree_ms": 2500,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n6",
+   "type": "replique",
+   "chemin": "nodes.n6.text",
+   "noeud": "n6",
+   "partie": "La musique des kontomblé (jeu)",
+   "personnage": "Le génie",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Qui ose nous espionner ?",
+   "genre": "voix de génie/libre",
+   "duree_ms": 2200,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n7",
+   "type": "replique",
+   "chemin": "nodes.n7.text",
+   "noeud": "n7",
+   "partie": "La musique des kontomblé (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Que répond Bayuo ?",
+   "genre": "adulte/homme",
+   "duree_ms": 1820,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n7.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.n7.choices.0.label",
+   "texte": "« Je vous offre cette bière. Laissez-moi jouer ! »"
+  },
+  {
+   "id": "nodes.n7.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.n7.choices.0.tag",
+   "texte": "bière offerte"
+  },
+  {
+   "id": "nodes.n7.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.n7.choices.1.label",
+   "texte": "« Je suis perdu, je ne voulais rien. »"
+  },
+  {
+   "id": "nodes.n7.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.n7.choices.1.tag",
+   "texte": "excuse"
+  },
+  {
+   "id": "perdu",
+   "type": "replique",
+   "chemin": "nodes.perdu.text",
+   "noeud": "perdu",
+   "partie": "La musique des kontomblé (jeu)",
+   "personnage": "Le génie",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Tu mens : cela fait trois nuits que tes mains bougent derrière cet arbre. Qu'as-tu à offrir ?",
+   "genre": "voix de génie/libre",
+   "duree_ms": 7590,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n8",
+   "type": "replique",
+   "chemin": "nodes.n8.text",
+   "noeud": "n8",
+   "partie": "La musique des kontomblé (jeu)",
+   "personnage": "Le griot",
+   "intonation": "mystérieux",
+   "intonation_statut": "proposée",
+   "texte": "Il tend alors sa gourde de bière.",
+   "genre": "adulte/homme",
+   "duree_ms": 2960,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "biere",
+   "type": "replique",
+   "chemin": "nodes.biere.text",
+   "noeud": "biere",
+   "partie": "La musique des kontomblé (jeu)",
+   "personnage": "Le griot",
+   "intonation": "mystérieux",
+   "intonation_statut": "proposée",
+   "texte": "Les génies se regardent. Puis ils lui tendent les baguettes. Bayuo joue. Il a tout retenu. Regarde ce qu'il tient.",
+   "genre": "adulte/homme",
+   "duree_ms": 9100,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n9",
+   "type": "replique",
+   "chemin": "nodes.n9.text",
+   "noeud": "n9",
+   "partie": "La musique des kontomblé (jeu)",
+   "personnage": "Le génie",
+   "intonation": "mystérieux",
+   "intonation_statut": "proposée",
+   "texte": "Taille les lames dans cet arbre. Partage.",
+   "genre": "voix de génie/libre",
+   "duree_ms": 3260,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n10",
+   "type": "replique",
+   "chemin": "nodes.n10.text",
+   "noeud": "n10",
+   "partie": "Le retour de Bayuo (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Bayuo rentre. Il tient là un trésor. Qu'en fait-il ?",
+   "genre": "adulte/homme",
+   "duree_ms": 4700,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n10.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.n10.choices.0.label",
+   "texte": "Il le partage avec tout le village"
+  },
+  {
+   "id": "nodes.n10.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.n10.choices.0.tag",
+   "texte": "gyil partagé"
+  },
+  {
+   "id": "nodes.n10.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.n10.choices.1.label",
+   "texte": "Il le garde, et il se fait payer pour jouer"
+  },
+  {
+   "id": "nodes.n10.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.n10.choices.1.tag",
+   "texte": "gyil gardé"
+  },
+  {
+   "id": "garde",
+   "type": "replique",
+   "chemin": "nodes.garde.text",
+   "noeud": "garde",
+   "partie": "Le retour de Bayuo (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Il joue seul, et il vend ses notes. Un soir, ses lames sonnent faux. Les génies avaient dit : partage. Dans ce chemin imaginé, le gyil se tait.",
+   "genre": "adulte/homme",
+   "duree_ms": 12440,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "partage",
+   "type": "replique",
+   "chemin": "nodes.partage.text",
+   "noeud": "partage",
+   "partie": "Le premier gyil (jeu)",
+   "personnage": "Le griot",
+   "intonation": "joyeux",
+   "intonation_statut": "proposée",
+   "texte": "Il taille les lames et y accroche des calebasses. Dès les premières notes, les pieds se mettent à bouger, et tout le village danse.",
+   "genre": "adulte/homme",
+   "duree_ms": 10020,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n11",
+   "type": "replique",
+   "chemin": "nodes.n11.text",
+   "noeud": "n11",
+   "partie": "Le premier gyil (jeu)",
+   "personnage": "Le griot",
+   "intonation": "joyeux",
+   "intonation_statut": "proposée",
+   "texte": "Depuis, le gyil accompagne les Dagara dans les fêtes, et aussi dans le deuil. Il accompagne la vie et la mort.",
+   "genre": "adulte/homme",
+   "duree_ms": 8880,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "film-001",
+   "type": "film",
+   "partie": "Film d'animation, de 00:02.0 à 00:06.2",
+   "horodatage": {
+    "debut_ms": 2000,
+    "fin_ms": 6200
+   },
+   "personnage": "Narrateur",
+   "intonation": "malicieux",
+   "intonation_statut": "scénario",
+   "texte": "Le gyil des génies. Une légende dagara.",
+   "genre": "adulte/libre",
+   "duree_ms": 4200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-002",
+   "type": "film",
+   "partie": "Film d'animation, de 00:09.0 à 00:17.1",
+   "horodatage": {
+    "debut_ms": 9000,
+    "fin_ms": 17100
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Autrefois, les villages dagara n'avaient pas de gyil. Les fêtes étaient bien tristes : on se regardait, et on s'ennuyait.",
+   "genre": "adulte/libre",
+   "duree_ms": 8100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-003",
+   "type": "film",
+   "partie": "Film d'animation, de 00:30.0 à 00:35.1",
+   "horodatage": {
+    "debut_ms": 30000,
+    "fin_ms": 35100
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Un jour, Bayuo, un chasseur, s'éloigna trop dans la brousse.",
+   "genre": "adulte/libre",
+   "duree_ms": 5100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-004",
+   "type": "film",
+   "partie": "Film d'animation, de 00:42.0 à 00:45.8",
+   "horodatage": {
+    "debut_ms": 42000,
+    "fin_ms": 45800
+   },
+   "personnage": "Narrateur",
+   "intonation": "inquiet",
+   "intonation_statut": "scénario",
+   "texte": "La nuit tomba, et il ne retrouva plus son chemin.",
+   "genre": "adulte/libre",
+   "duree_ms": 3800,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-005",
+   "type": "film",
+   "partie": "Film d'animation, de 01:00.0 à 01:03.8",
+   "horodatage": {
+    "debut_ms": 60000,
+    "fin_ms": 63800
+   },
+   "personnage": "Narrateur",
+   "intonation": "mystérieux",
+   "intonation_statut": "scénario",
+   "texte": "Soudain, il entendit un son qu'il ne connaissait pas.",
+   "genre": "adulte/libre",
+   "duree_ms": 3800,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-006",
+   "type": "film",
+   "partie": "Film d'animation, de 01:10.0 à 01:16.1",
+   "horodatage": {
+    "debut_ms": 70000,
+    "fin_ms": 76100
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Derrière les arbres, des kontomblé, les génies de la brousse, frappaient sur des lames de bois.",
+   "genre": "adulte/libre",
+   "duree_ms": 6100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-007",
+   "type": "film",
+   "partie": "Film d'animation, de 01:22.0 à 01:27.5",
+   "horodatage": {
+    "debut_ms": 82000,
+    "fin_ms": 87500
+   },
+   "personnage": "Narrateur",
+   "intonation": "émerveillé",
+   "intonation_statut": "scénario",
+   "texte": "Bayuo oublia sa peur. Il n'avait jamais rien entendu d'aussi beau.",
+   "genre": "adulte/libre",
+   "duree_ms": 5500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-008",
+   "type": "film",
+   "partie": "Film d'animation, de 01:38.0 à 01:43.5",
+   "horodatage": {
+    "debut_ms": 98000,
+    "fin_ms": 103500
+   },
+   "personnage": "Narrateur",
+   "intonation": "chuchoté",
+   "intonation_statut": "scénario",
+   "texte": "Il revint la nuit suivante, et la suivante encore, caché derrière un arbre.",
+   "genre": "adulte/libre",
+   "duree_ms": 5500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-009",
+   "type": "film",
+   "partie": "Film d'animation, de 01:52.0 à 01:58.7",
+   "horodatage": {
+    "debut_ms": 112000,
+    "fin_ms": 118700
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "La lune changeait de place. Et ses mains, dans le vide, imitaient de mieux en mieux les génies.",
+   "genre": "adulte/libre",
+   "duree_ms": 6700,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-010",
+   "type": "film",
+   "partie": "Film d'animation, de 02:13.0 à 02:16.4",
+   "horodatage": {
+    "debut_ms": 133000,
+    "fin_ms": 136400
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Une branche craqua. Découvert !",
+   "genre": "adulte/libre",
+   "duree_ms": 3400,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-011",
+   "type": "film",
+   "partie": "Film d'animation, de 02:16.5 à 02:18.8",
+   "horodatage": {
+    "debut_ms": 136500,
+    "fin_ms": 138800
+   },
+   "personnage": "GENIE",
+   "intonation": "menaçant",
+   "intonation_statut": "scénario",
+   "texte": "Qui ose nous espionner ?",
+   "genre": "esprit, créature : voix grave/libre",
+   "duree_ms": 2300,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-012",
+   "type": "film",
+   "partie": "Film d'animation, de 02:21.5 à 02:25.0",
+   "horodatage": {
+    "debut_ms": 141500,
+    "fin_ms": 145000
+   },
+   "personnage": "BAYUO",
+   "intonation": "tremblant",
+   "intonation_statut": "scénario",
+   "texte": "Je vous offre cette bière. Laissez-moi jouer !",
+   "genre": "adulte/homme",
+   "duree_ms": 3500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-013",
+   "type": "film",
+   "partie": "Film d'animation, de 02:27.0 à 02:32.1",
+   "horodatage": {
+    "debut_ms": 147000,
+    "fin_ms": 152100
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Les génies se regardèrent. Puis ils lui tendirent les baguettes.",
+   "genre": "adulte/libre",
+   "duree_ms": 5100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-014",
+   "type": "film",
+   "partie": "Film d'animation, de 02:35.0 à 02:38.9",
+   "horodatage": {
+    "debut_ms": 155000,
+    "fin_ms": 158900
+   },
+   "personnage": "Narrateur",
+   "intonation": "ému",
+   "intonation_statut": "scénario",
+   "texte": "Bayuo joua. Il avait tout retenu.",
+   "genre": "adulte/libre",
+   "duree_ms": 3900,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-015",
+   "type": "film",
+   "partie": "Film d'animation, de 02:42.0 à 02:46.2",
+   "horodatage": {
+    "debut_ms": 162000,
+    "fin_ms": 166200
+   },
+   "personnage": "GENIE",
+   "intonation": "voix profonde",
+   "intonation_statut": "scénario",
+   "texte": "Taille les lames dans cet arbre. Partage.",
+   "genre": "esprit, créature : voix grave/libre",
+   "duree_ms": 4200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-016",
+   "type": "film",
+   "partie": "Film d'animation, de 02:54.0 à 02:58.8",
+   "horodatage": {
+    "debut_ms": 174000,
+    "fin_ms": 178800
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Au village, il tailla les lames, et il y accrocha des calebasses.",
+   "genre": "adulte/libre",
+   "duree_ms": 4800,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-017",
+   "type": "film",
+   "partie": "Film d'animation, de 03:06.0 à 03:08.8",
+   "horodatage": {
+    "debut_ms": 186000,
+    "fin_ms": 188800
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "C'était le premier gyil des hommes.",
+   "genre": "adulte/libre",
+   "duree_ms": 2800,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-018",
+   "type": "film",
+   "partie": "Film d'animation, de 03:30.0 à 03:35.8",
+   "horodatage": {
+    "debut_ms": 210000,
+    "fin_ms": 215800
+   },
+   "personnage": "Narrateur",
+   "intonation": "joyeux",
+   "intonation_statut": "scénario",
+   "texte": "Dès les premières notes, les pieds se mirent à bouger. Tout le village dansa.",
+   "genre": "adulte/libre",
+   "duree_ms": 5800,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-019",
+   "type": "film",
+   "partie": "Film d'animation, de 03:45.0 à 03:49.0",
+   "horodatage": {
+    "debut_ms": 225000,
+    "fin_ms": 229000
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Au bord de la brousse, deux génies regardaient en souriant.",
+   "genre": "adulte/libre",
+   "duree_ms": 4000,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-020",
+   "type": "film",
+   "partie": "Film d'animation, de 04:06.0 à 04:14.1",
+   "horodatage": {
+    "debut_ms": 246000,
+    "fin_ms": 254100
+   },
+   "personnage": "Narrateur",
+   "intonation": "doux",
+   "intonation_statut": "scénario",
+   "texte": "Depuis, le gyil accompagne les Dagara dans les fêtes, et aussi dans le deuil. Il accompagne la vie et la mort.",
+   "genre": "adulte/libre",
+   "duree_ms": 8100,
+   "duree_statut": "mesurée sur le film"
+  }
+ ]
+}

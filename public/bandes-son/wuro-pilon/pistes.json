@@ -1,0 +1,1016 @@
+{
+ "id": "wuro-pilon",
+ "titre": "Wuro blessé par le pilon",
+ "peuple": "Bwaba",
+ "langues_cibles": [
+  "fr",
+  "bwa",
+  "dyu"
+ ],
+ "pistes": [
+  {
+   "id": "titre",
+   "type": "titre",
+   "chemin": "titre",
+   "texte": "Wuro blessé par le pilon"
+  },
+  {
+   "id": "presentation",
+   "type": "presentation",
+   "chemin": "presentation",
+   "texte": "En ce temps-là, le ciel touchait presque les toits. Un coup de pilon va tout changer, et trois fils de Wuro devront réparer le monde. À toi de dire lequel appeler d'abord."
+  },
+  {
+   "id": "personnages.griot.nom",
+   "type": "personnage",
+   "chemin": "personnages.griot.nom",
+   "texte": "Le griot"
+  },
+  {
+   "id": "personnages.wuro.nom",
+   "type": "personnage",
+   "chemin": "personnages.wuro.nom",
+   "texte": "Wuro"
+  },
+  {
+   "id": "personnages.hame.nom",
+   "type": "personnage",
+   "chemin": "personnages.hame.nom",
+   "texte": "Hamé"
+  },
+  {
+   "id": "personnages.bado.nom",
+   "type": "personnage",
+   "chemin": "personnages.bado.nom",
+   "texte": "Bado"
+  },
+  {
+   "id": "personnages.sanou.nom",
+   "type": "personnage",
+   "chemin": "personnages.sanou.nom",
+   "texte": "Sanou"
+  },
+  {
+   "id": "personnages.yeli.nom",
+   "type": "personnage",
+   "chemin": "personnages.yeli.nom",
+   "texte": "Yéli"
+  },
+  {
+   "id": "personnages.tiko.nom",
+   "type": "personnage",
+   "chemin": "personnages.tiko.nom",
+   "texte": "Tiko"
+  },
+  {
+   "id": "personnages.soxo.nom",
+   "type": "personnage",
+   "chemin": "personnages.soxo.nom",
+   "texte": "Soxo"
+  },
+  {
+   "id": "personnages.dwo.nom",
+   "type": "personnage",
+   "chemin": "personnages.dwo.nom",
+   "texte": "Dwo"
+  },
+  {
+   "id": "fins.canon",
+   "type": "fin",
+   "chemin": "fins.canon",
+   "texte": "Version du griot : une étoile répond"
+  },
+  {
+   "id": "fins.silence",
+   "type": "fin",
+   "chemin": "fins.silence",
+   "texte": "Autre chemin : on n'a plus levé les yeux"
+  },
+  {
+   "id": "n1",
+   "type": "replique",
+   "chemin": "nodes.n1.text",
+   "noeud": "n1",
+   "partie": "Quand le ciel touchait les toits (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Dans la nuit d'avant le monde, Wuro alluma les étoiles une à une. En ce temps-là, le ciel touchait presque les toits, et Wuro marchait parmi les hommes.",
+   "genre": "adulte/homme",
+   "duree_ms": 11690,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n2",
+   "type": "replique",
+   "chemin": "nodes.n2.text",
+   "noeud": "n2",
+   "partie": "Quand le ciel touchait les toits (jeu)",
+   "personnage": "Wuro",
+   "intonation": "solennel",
+   "intonation_statut": "proposée",
+   "texte": "Semez ce mil à la saison des pluies. La terre vous le rendra au centuple.",
+   "genre": "voix solennelle/libre",
+   "duree_ms": 6300,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n3",
+   "type": "replique",
+   "chemin": "nodes.n3.text",
+   "noeud": "n3",
+   "partie": "Quand le ciel touchait les toits (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Regarde la cour où Hamé pile le mil.",
+   "genre": "adulte/homme",
+   "duree_ms": 3340,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n4",
+   "type": "replique",
+   "chemin": "nodes.n4.text",
+   "noeud": "n4",
+   "partie": "Quand le ciel touchait les toits (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Wuro arrive, fatigué, et s'assoit près d'elle. Sa main reste suspendue au-dessus du mortier. Hamé pile de plus en plus vite. Et le pilon frappe la main de Wuro.",
+   "genre": "adulte/homme",
+   "duree_ms": 12520,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n5",
+   "type": "replique",
+   "chemin": "nodes.n5.text",
+   "noeud": "n5",
+   "partie": "Quand le ciel touchait les toits (jeu)",
+   "personnage": "Hamé",
+   "intonation": "vif",
+   "intonation_statut": "proposée",
+   "texte": "Pardon, Wuro ! Je ne t'avais pas vu !",
+   "genre": "adulte/femme",
+   "duree_ms": 4170,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n6",
+   "type": "replique",
+   "chemin": "nodes.n6.text",
+   "noeud": "n6",
+   "partie": "Quand le ciel touchait les toits (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Wuro regarde Hamé, sans colère. Il s'élève lentement, et le ciel monte avec lui, très haut.",
+   "genre": "adulte/homme",
+   "duree_ms": 7130,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n7",
+   "type": "replique",
+   "chemin": "nodes.n7.text",
+   "noeud": "n7",
+   "partie": "Le monde déréglé (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Sans Wuro, le monde se dérègle. La pluie ne vient plus, et le mil sèche sur pied.",
+   "genre": "adulte/homme",
+   "duree_ms": 7360,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n8",
+   "type": "replique",
+   "chemin": "nodes.n8.text",
+   "noeud": "n8",
+   "partie": "Le monde déréglé (jeu)",
+   "personnage": "Bado",
+   "intonation": "vif",
+   "intonation_statut": "proposée",
+   "texte": "Cette eau est pour ma famille !",
+   "genre": "adulte/homme",
+   "duree_ms": 2960,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n9",
+   "type": "replique",
+   "chemin": "nodes.n9.text",
+   "noeud": "n9",
+   "partie": "Le monde déréglé (jeu)",
+   "personnage": "Sanou",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Et la mienne, qu'elle meure de soif ?",
+   "genre": "adulte/homme",
+   "duree_ms": 3490,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n10",
+   "type": "replique",
+   "chemin": "nodes.n10.text",
+   "noeud": "n10",
+   "partie": "Le monde déréglé (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Le petit Tiko tombe malade. Que fait le village ?",
+   "genre": "adulte/homme",
+   "duree_ms": 4400,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n10.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.n10.choices.0.label",
+   "texte": "Il supplie Wuro, tous ensemble"
+  },
+  {
+   "id": "nodes.n10.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.n10.choices.0.tag",
+   "texte": "prière commune"
+  },
+  {
+   "id": "nodes.n10.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.n10.choices.1.label",
+   "texte": "Chacun garde son eau et se tait"
+  },
+  {
+   "id": "nodes.n10.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.n10.choices.1.tag",
+   "texte": "silence"
+  },
+  {
+   "id": "silence",
+   "type": "replique",
+   "chemin": "nodes.silence.text",
+   "noeud": "silence",
+   "partie": "Le monde déréglé (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Personne n'appelle. Si personne ne lève les yeux, le ciel peut-il encore répondre ? Veux-tu qu'ils essaient une dernière fois ?",
+   "genre": "adulte/homme",
+   "duree_ms": 9030,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.silence.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.silence.choices.0.label",
+   "texte": "Oui, Yéli appelle encore"
+  },
+  {
+   "id": "nodes.silence.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.silence.choices.0.tag",
+   "texte": "prière de Yéli"
+  },
+  {
+   "id": "nodes.silence.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.silence.choices.1.label",
+   "texte": "Non, ils ont trop de rancune"
+  },
+  {
+   "id": "nodes.silence.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.silence.choices.1.tag",
+   "texte": "rancune"
+  },
+  {
+   "id": "finsilence",
+   "type": "replique",
+   "chemin": "nodes.finsilence.text",
+   "noeud": "finsilence",
+   "partie": "Le monde déréglé (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Ceci n'est pas ce que raconte le griot : c'est ce qui serait arrivé si plus personne n'avait appelé. Une blessure peut éloigner, mais le silence sépare tout à fait.",
+   "genre": "adulte/homme",
+   "duree_ms": 12300,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "priere",
+   "type": "replique",
+   "chemin": "nodes.priere.text",
+   "noeud": "priere",
+   "partie": "Wuro entend (jeu)",
+   "personnage": "Wuro",
+   "intonation": "solennel",
+   "intonation_statut": "proposée",
+   "texte": "Je les entends. Du haut du ciel, j'ouvre les mains : trois lumières, mes trois fils.",
+   "genre": "voix solennelle/libre",
+   "duree_ms": 7130,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n11",
+   "type": "replique",
+   "chemin": "nodes.n11.text",
+   "noeud": "n11",
+   "partie": "Wuro entend (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Trois malheurs attendent. Par lequel commencer ?",
+   "genre": "adulte/homme",
+   "duree_ms": 3260,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n11.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.n11.choices.0.label",
+   "texte": "La pluie : Kwere, la foudre"
+  },
+  {
+   "id": "nodes.n11.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.n11.choices.0.tag",
+   "texte": "Kwere d'abord"
+  },
+  {
+   "id": "nodes.n11.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.n11.choices.1.label",
+   "texte": "Le remède : Soxo, l'esprit de la brousse"
+  },
+  {
+   "id": "nodes.n11.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.n11.choices.1.tag",
+   "texte": "Soxo d'abord"
+  },
+  {
+   "id": "kwere",
+   "type": "replique",
+   "chemin": "nodes.kwere.text",
+   "noeud": "kwere",
+   "partie": "Wuro entend (jeu)",
+   "personnage": "Le griot",
+   "intonation": "solennel",
+   "intonation_statut": "proposée",
+   "texte": "Kwere frappe le sol de son bâton. Les nuages s'amoncellent, la pluie tombe enfin, et le mil se redresse.",
+   "genre": "adulte/homme",
+   "duree_ms": 8120,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n12",
+   "type": "replique",
+   "chemin": "nodes.n12.text",
+   "noeud": "n12",
+   "partie": "Les remèdes de la brousse (jeu)",
+   "personnage": "Le griot",
+   "intonation": "mystérieux",
+   "intonation_statut": "proposée",
+   "texte": "Puis, dans la brousse, Yéli cherche des remèdes quand la hyène surgit. Soxo tend la main, et la bête se couche. Il cueille les feuilles qui guérissent.",
+   "genre": "adulte/homme",
+   "duree_ms": 11610,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "soxo",
+   "type": "replique",
+   "chemin": "nodes.soxo.text",
+   "noeud": "soxo",
+   "partie": "Wuro entend (jeu)",
+   "personnage": "Le griot",
+   "intonation": "mystérieux",
+   "intonation_statut": "proposée",
+   "texte": "Dans la brousse, Yéli cherche des remèdes quand la hyène surgit. Soxo tend la main, et la bête se couche. Il cueille les feuilles qui guérissent.",
+   "genre": "adulte/homme",
+   "duree_ms": 11080,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n13",
+   "type": "replique",
+   "chemin": "nodes.n13.text",
+   "noeud": "n13",
+   "partie": "Wuro entend (jeu)",
+   "personnage": "Le griot",
+   "intonation": "mystérieux",
+   "intonation_statut": "proposée",
+   "texte": "Puis Kwere frappe le sol de son bâton. La pluie tombe enfin, et le mil se redresse.",
+   "genre": "adulte/homme",
+   "duree_ms": 7210,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "dwo",
+   "type": "replique",
+   "chemin": "nodes.dwo.text",
+   "noeud": "dwo",
+   "partie": "Le masque de feuilles (jeu)",
+   "personnage": "Le griot",
+   "intonation": "joyeux",
+   "intonation_statut": "proposée",
+   "texte": "Tiko se relève. Enfin vient Dwo, le masque de feuilles. Il tourne, il saute. Accompagne-le.",
+   "genre": "adulte/homme",
+   "duree_ms": 7200,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n14.consigne",
+   "type": "jeu",
+   "chemin": "nodes.n14.consigne",
+   "texte": "Reproduis la cadence de Dwo devant Bado et Sanou."
+  },
+  {
+   "id": "nodes.n14.gagne",
+   "type": "jeu",
+   "chemin": "nodes.n14.gagne",
+   "texte": "Bado et Sanou se tendent la main, et tout le village danse."
+  },
+  {
+   "id": "nodes.n14.perdu",
+   "type": "jeu",
+   "chemin": "nodes.n14.perdu",
+   "texte": "La cadence se perd un instant, mais Bado et Sanou se tendent la main."
+  },
+  {
+   "id": "nodes.n14.tags.win",
+   "type": "parcours",
+   "chemin": "nodes.n14.tags.win",
+   "texte": "rythme tenu"
+  },
+  {
+   "id": "nodes.n14.tags.lose",
+   "type": "parcours",
+   "chemin": "nodes.n14.tags.lose",
+   "texte": "rythme perdu"
+  },
+  {
+   "id": "n15",
+   "type": "replique",
+   "chemin": "nodes.n15.text",
+   "noeud": "n15",
+   "partie": "Le masque de feuilles (jeu)",
+   "personnage": "Le griot",
+   "intonation": "joyeux",
+   "intonation_statut": "proposée",
+   "texte": "Le soir, Hamé pile de nouveau, plus doucement. Elle lève les yeux vers le ciel, devenu très haut. Une étoile lui répond.",
+   "genre": "adulte/homme",
+   "duree_ms": 9710,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "film-001",
+   "type": "film",
+   "partie": "Film d'animation, de 00:02.0 à 00:06.1",
+   "horodatage": {
+    "debut_ms": 2000,
+    "fin_ms": 6100
+   },
+   "personnage": "Narrateur",
+   "intonation": "solennel",
+   "intonation_statut": "scénario",
+   "texte": "Wuro et le pilon. Un mythe des Bwaba.",
+   "genre": "adulte/libre",
+   "duree_ms": 4100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-002",
+   "type": "film",
+   "partie": "Film d'animation, de 00:07.0 à 00:11.2",
+   "horodatage": {
+    "debut_ms": 7000,
+    "fin_ms": 11200
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Dans la nuit d'avant le monde, Wuro alluma les étoiles une à une.",
+   "genre": "adulte/libre",
+   "duree_ms": 4200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-003",
+   "type": "film",
+   "partie": "Film d'animation, de 00:14.0 à 00:19.7",
+   "horodatage": {
+    "debut_ms": 14000,
+    "fin_ms": 19700
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Il fit monter la terre, couler le fleuve, et d'un souffle, il fit pousser les arbres.",
+   "genre": "adulte/libre",
+   "duree_ms": 5700,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-004",
+   "type": "film",
+   "partie": "Film d'animation, de 00:32.0 à 00:38.2",
+   "horodatage": {
+    "debut_ms": 32000,
+    "fin_ms": 38200
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "En ce temps-là, le ciel touchait presque les toits. Wuro marchait parmi les hommes.",
+   "genre": "adulte/libre",
+   "duree_ms": 6200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-005",
+   "type": "film",
+   "partie": "Film d'animation, de 00:40.0 à 00:47.1",
+   "horodatage": {
+    "debut_ms": 40000,
+    "fin_ms": 47100
+   },
+   "personnage": "Narrateur",
+   "intonation": "tendre",
+   "intonation_statut": "scénario",
+   "texte": "Tiko, un enfant du village, courait autour de ses jambes. Wuro le souleva jusqu'au ciel.",
+   "genre": "adulte/libre",
+   "duree_ms": 7100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-006",
+   "type": "film",
+   "partie": "Film d'animation, de 00:51.0 à 00:54.4",
+   "horodatage": {
+    "debut_ms": 51000,
+    "fin_ms": 54400
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Au forgeron Bado, il offrit le mil.",
+   "genre": "adulte/libre",
+   "duree_ms": 3400,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-007",
+   "type": "film",
+   "partie": "Film d'animation, de 01:00.5 à 01:06.0",
+   "horodatage": {
+    "debut_ms": 60500,
+    "fin_ms": 66000
+   },
+   "personnage": "WURO",
+   "intonation": "chaleureux",
+   "intonation_statut": "scénario",
+   "texte": "Semez ceci à la saison des pluies. La terre vous le rendra au centuple.",
+   "genre": "esprit, créature : voix grave/libre",
+   "duree_ms": 5500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-008",
+   "type": "film",
+   "partie": "Film d'animation, de 01:17.0 à 01:20.2",
+   "horodatage": {
+    "debut_ms": 77000,
+    "fin_ms": 80200
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Dans sa cour, Hamé pilait le mil.",
+   "genre": "adulte/libre",
+   "duree_ms": 3200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-009",
+   "type": "film",
+   "partie": "Film d'animation, de 01:27.0 à 01:35.9",
+   "horodatage": {
+    "debut_ms": 87000,
+    "fin_ms": 95900
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Wuro arriva, fatigué, et s'assit près d'elle. Il bâilla, s'étira, et sa main resta suspendue au-dessus du mortier.",
+   "genre": "adulte/libre",
+   "duree_ms": 8900,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-010",
+   "type": "film",
+   "partie": "Film d'animation, de 01:39.0 à 01:42.9",
+   "horodatage": {
+    "debut_ms": 99000,
+    "fin_ms": 102900
+   },
+   "personnage": "Narrateur",
+   "intonation": "inquiet",
+   "intonation_statut": "scénario",
+   "texte": "Hamé pilait de plus en plus vite, de plus en plus haut.",
+   "genre": "adulte/libre",
+   "duree_ms": 3900,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-011",
+   "type": "film",
+   "partie": "Film d'animation, de 01:44.5 à 01:47.4",
+   "horodatage": {
+    "debut_ms": 104500,
+    "fin_ms": 107400
+   },
+   "personnage": "Narrateur",
+   "intonation": "bref",
+   "intonation_statut": "scénario",
+   "texte": "Et le pilon frappa la main de Wuro.",
+   "genre": "adulte/libre",
+   "duree_ms": 2900,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-012",
+   "type": "film",
+   "partie": "Film d'animation, de 01:50.0 à 01:55.1",
+   "horodatage": {
+    "debut_ms": 110000,
+    "fin_ms": 115100
+   },
+   "personnage": "Narrateur",
+   "intonation": "grave",
+   "intonation_statut": "scénario",
+   "texte": "Wuro serra sa main blessée. Sa lumière se mit à trembler.",
+   "genre": "adulte/libre",
+   "duree_ms": 5100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-013",
+   "type": "film",
+   "partie": "Film d'animation, de 01:57.3 à 02:01.6",
+   "horodatage": {
+    "debut_ms": 117300,
+    "fin_ms": 121600
+   },
+   "personnage": "HAME",
+   "intonation": "affolé",
+   "intonation_statut": "scénario",
+   "texte": "Pardon, Wuro ! Je ne t'avais pas vu !",
+   "genre": "adulte/femme",
+   "duree_ms": 4300,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-014",
+   "type": "film",
+   "partie": "Film d'animation, de 02:04.0 à 02:08.2",
+   "horodatage": {
+    "debut_ms": 124000,
+    "fin_ms": 128200
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Les villageois accoururent, puis reculèrent, effrayés.",
+   "genre": "adulte/libre",
+   "duree_ms": 4200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-015",
+   "type": "film",
+   "partie": "Film d'animation, de 02:12.0 à 02:18.1",
+   "horodatage": {
+    "debut_ms": 132000,
+    "fin_ms": 138100
+   },
+   "personnage": "Narrateur",
+   "intonation": "triste",
+   "intonation_statut": "scénario",
+   "texte": "Wuro regarda Hamé, sans colère. Il secoua la tête et s'éleva lentement.",
+   "genre": "adulte/libre",
+   "duree_ms": 6100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-016",
+   "type": "film",
+   "partie": "Film d'animation, de 02:21.0 à 02:27.3",
+   "horodatage": {
+    "debut_ms": 141000,
+    "fin_ms": 147300
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Le ciel monta avec lui, très haut. Bientôt, il ne fut plus qu'une étoile.",
+   "genre": "adulte/libre",
+   "duree_ms": 6300,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-017",
+   "type": "film",
+   "partie": "Film d'animation, de 02:34.0 à 02:40.6",
+   "horodatage": {
+    "debut_ms": 154000,
+    "fin_ms": 160600
+   },
+   "personnage": "Narrateur",
+   "intonation": "grave",
+   "intonation_statut": "scénario",
+   "texte": "Sans Wuro, le monde se dérégla. La pluie ne venait plus, et le mil séchait sur pied.",
+   "genre": "adulte/libre",
+   "duree_ms": 6600,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-018",
+   "type": "film",
+   "partie": "Film d'animation, de 02:45.0 à 02:48.2",
+   "horodatage": {
+    "debut_ms": 165000,
+    "fin_ms": 168200
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "La nuit, une hyène pillait le grenier.",
+   "genre": "adulte/libre",
+   "duree_ms": 3200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-019",
+   "type": "film",
+   "partie": "Film d'animation, de 02:55.0 à 02:57.2",
+   "horodatage": {
+    "debut_ms": 175000,
+    "fin_ms": 177200
+   },
+   "personnage": "BADO",
+   "intonation": "colère",
+   "intonation_statut": "scénario",
+   "texte": "Cette eau est pour ma famille !",
+   "genre": "adulte/homme",
+   "duree_ms": 2200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-020",
+   "type": "film",
+   "partie": "Film d'animation, de 02:58.3 à 03:01.4",
+   "horodatage": {
+    "debut_ms": 178300,
+    "fin_ms": 181400
+   },
+   "personnage": "SANOU",
+   "intonation": "colère",
+   "intonation_statut": "scénario",
+   "texte": "Et la mienne, qu'elle meure de soif ?",
+   "genre": "adulte/homme",
+   "duree_ms": 3100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-021",
+   "type": "film",
+   "partie": "Film d'animation, de 03:05.0 à 03:07.8",
+   "horodatage": {
+    "debut_ms": 185000,
+    "fin_ms": 187800
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Le petit Tiko tomba malade.",
+   "genre": "adulte/libre",
+   "duree_ms": 2800,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-022",
+   "type": "film",
+   "partie": "Film d'animation, de 03:15.5 à 03:18.0",
+   "horodatage": {
+    "debut_ms": 195500,
+    "fin_ms": 198000
+   },
+   "personnage": "YELI",
+   "intonation": "suppliant, voix usée",
+   "intonation_statut": "scénario",
+   "texte": "Wuro, entends-nous !",
+   "genre": "âgé/libre",
+   "duree_ms": 2500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-023",
+   "type": "film",
+   "partie": "Film d'animation, de 03:19.0 à 03:21.3",
+   "horodatage": {
+    "debut_ms": 199000,
+    "fin_ms": 201300
+   },
+   "personnage": "Narrateur",
+   "intonation": "triste",
+   "intonation_statut": "scénario",
+   "texte": "Personne ne répondit.",
+   "genre": "adulte/libre",
+   "duree_ms": 2300,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-024",
+   "type": "film",
+   "partie": "Film d'animation, de 03:24.0 à 03:32.8",
+   "horodatage": {
+    "debut_ms": 204000,
+    "fin_ms": 212800
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Mais du haut du ciel, Wuro regardait. Il ouvrit ses mains : trois lumières plongèrent vers la terre. Ses trois fils.",
+   "genre": "adulte/libre",
+   "duree_ms": 8800,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-025",
+   "type": "film",
+   "partie": "Film d'animation, de 03:45.0 à 03:51.3",
+   "horodatage": {
+    "debut_ms": 225000,
+    "fin_ms": 231300
+   },
+   "personnage": "Narrateur",
+   "intonation": "fort",
+   "intonation_statut": "scénario",
+   "texte": "Kwere, la foudre, frappa le sol de son bâton. Les nuages s'amoncelèrent.",
+   "genre": "adulte/libre",
+   "duree_ms": 6300,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-026",
+   "type": "film",
+   "partie": "Film d'animation, de 03:58.0 à 04:01.8",
+   "horodatage": {
+    "debut_ms": 238000,
+    "fin_ms": 241800
+   },
+   "personnage": "Narrateur",
+   "intonation": "joyeux",
+   "intonation_statut": "scénario",
+   "texte": "La pluie tomba enfin, et le mil se redressa.",
+   "genre": "adulte/libre",
+   "duree_ms": 3800,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-027",
+   "type": "film",
+   "partie": "Film d'animation, de 04:13.0 à 04:17.6",
+   "horodatage": {
+    "debut_ms": 253000,
+    "fin_ms": 257600
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Dans la brousse, Yéli cherchait des remèdes, quand la hyène surgit.",
+   "genre": "adulte/libre",
+   "duree_ms": 4600,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-028",
+   "type": "film",
+   "partie": "Film d'animation, de 04:25.0 à 04:30.3",
+   "horodatage": {
+    "debut_ms": 265000,
+    "fin_ms": 270300
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Soxo, l'esprit de la brousse, tendit la main, et la bête se coucha.",
+   "genre": "adulte/libre",
+   "duree_ms": 5300,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-029",
+   "type": "film",
+   "partie": "Film d'animation, de 04:33.0 à 04:37.8",
+   "horodatage": {
+    "debut_ms": 273000,
+    "fin_ms": 277800
+   },
+   "personnage": "Narrateur",
+   "intonation": "tendre",
+   "intonation_statut": "scénario",
+   "texte": "Il cueillit les feuilles qui guérissent. Et Tiko se releva.",
+   "genre": "adulte/libre",
+   "duree_ms": 4800,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-030",
+   "type": "film",
+   "partie": "Film d'animation, de 04:51.0 à 04:54.7",
+   "horodatage": {
+    "debut_ms": 291000,
+    "fin_ms": 294700
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Enfin vint Dwo, le masque de feuilles.",
+   "genre": "adulte/libre",
+   "duree_ms": 3700,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-031",
+   "type": "film",
+   "partie": "Film d'animation, de 04:57.0 à 05:04.1",
+   "horodatage": {
+    "debut_ms": 297000,
+    "fin_ms": 304100
+   },
+   "personnage": "Narrateur",
+   "intonation": "joyeux",
+   "intonation_statut": "scénario",
+   "texte": "Il tourna, sauta, secoua ses feuilles devant Bado et Sanou. Les deux hommes se tendirent la main.",
+   "genre": "adulte/libre",
+   "duree_ms": 7100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-032",
+   "type": "film",
+   "partie": "Film d'animation, de 05:12.0 à 05:14.5",
+   "horodatage": {
+    "debut_ms": 312000,
+    "fin_ms": 314500
+   },
+   "personnage": "Narrateur",
+   "intonation": "joyeux",
+   "intonation_statut": "scénario",
+   "texte": "Et tout le village dansa.",
+   "genre": "adulte/libre",
+   "duree_ms": 2500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-033",
+   "type": "film",
+   "partie": "Film d'animation, de 05:29.0 à 05:36.6",
+   "horodatage": {
+    "debut_ms": 329000,
+    "fin_ms": 336600
+   },
+   "personnage": "Narrateur",
+   "intonation": "doux",
+   "intonation_statut": "scénario",
+   "texte": "Le soir, Hamé pile de nouveau, plus doucement. Elle lève les yeux vers le ciel, devenu très haut.",
+   "genre": "adulte/libre",
+   "duree_ms": 7600,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-034",
+   "type": "film",
+   "partie": "Film d'animation, de 05:37.0 à 05:39.4",
+   "horodatage": {
+    "debut_ms": 337000,
+    "fin_ms": 339400
+   },
+   "personnage": "Narrateur",
+   "intonation": "très doux",
+   "intonation_statut": "scénario",
+   "texte": "Une étoile lui répond.",
+   "genre": "adulte/libre",
+   "duree_ms": 2400,
+   "duree_statut": "mesurée sur le film"
+  }
+ ]
+}

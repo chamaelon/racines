@@ -3,10 +3,12 @@
  * Molette, glisser, pincement ; survol et clic sur les régions ; une liste au clavier double la carte.
  */
 import { chargerCarte, creerSvg, FORMES } from '../components/carte-svg.js';
+import { creerFrise } from '../components/frise.js';
 import { panneauLocalite } from '../components/panneau-localite.js';
 import * as data from '../data.js';
 import { store } from '../store.js';
 import { definirPage, esc, reduit, TYPES, webgl } from '../ui.js';
+import { crans, etapesFiltrees, lieuDe } from '../voyage.js';
 
 const ZOOM_MAX = 8;
 const TAILLE_MARQUEUR = 9;
@@ -15,8 +17,8 @@ const TAILLE_MARQUEUR = 9;
 const A_LA_UNE = ['yennenga', 'lievre-hyene', 'gazelle', 'guimbi'];
 
 export async function monter(el, ctx) {
-  const [{ svg, W, H, projeter }, regions, localites, recits, patrimoine, langues] = await Promise.all([
-    chargerCarte(), data.regions(), data.localites(), data.recits(), data.patrimoine(), data.langues(),
+  const [{ svg, W, H, projeter }, regions, localites, recits, patrimoine, langues, voyages] = await Promise.all([
+    chargerCarte(), data.regions(), data.localites(), data.recits(), data.patrimoine(), data.langues(), data.voyages(),
   ]);
   el.innerHTML = `<div class="carte-page">
     <section class="carte-zone" aria-label="Carte interactive du Burkina Faso">
@@ -26,6 +28,7 @@ export async function monter(el, ctx) {
         <legend>Légende et filtres</legend>
         ${Object.entries(TYPES).map(([k, t]) => `<label><input type="checkbox" data-type="${k}" checked><span class="puce type-${k}" aria-hidden="true"></span>${t.pluriel}</label>`).join('')}
       </fieldset>
+      <div class="carte-temps"></div>
       <div class="carte-boutons">
         <button type="button" class="bouton" data-zoom="1.6" aria-label="Zoomer">+</button>
         <button type="button" class="bouton" data-zoom="0.625" aria-label="Dézoomer">−</button>
@@ -64,13 +67,16 @@ export async function monter(el, ctx) {
   svg.append(groupeEtiquettes);
 
   // ---- Marqueurs : forme et couleur selon le type de récit, coche si terminé
-  const filtres = { types: new Set(Object.keys(TYPES)) };
+  const filtres = { types: new Set(Object.keys(TYPES)), epoque: null, debut: undefined, fin: undefined };
+  const periode = () => ({ epoque: filtres.epoque, debut: filtres.debut, fin: filtres.fin });
   const groupeMarqueurs = creerSvg('g', { class: 'marqueurs' });
   svg.append(groupeMarqueurs);
   const marqueurs = {};
-  localites.forEach((l) => {
+  // Les étapes situées ailleurs que sur une localité n'apparaissent qu'en voyageant dans le temps.
+  const lieuxEtapes = Object.entries(voyages.lieux).filter(([, v]) => v.coords && !v.note).map(([id, v]) => ({ id, nom: v.nom, coords: v.coords, etape: true }));
+  [...localites, ...lieuxEtapes].forEach((l) => {
     const [x, y] = projeter(l.coords);
-    const g = creerSvg('g', { class: 'marqueur', 'data-localite': l.id });
+    const g = creerSvg('g', { class: l.etape ? 'marqueur marqueur-etape' : 'marqueur', 'data-localite': l.id });
     g.dataset.x = x; g.dataset.y = y;
     g.append(creerSvg('circle', { class: 'zone-toucher', r: 2.2 }));
     g.append(creerSvg('path', { class: 'forme' }));
@@ -86,7 +92,8 @@ export async function monter(el, ctx) {
   function majMarqueurs() {
     localites.forEach((l) => {
       const rs = l.recits.map(recitDe);
-      const visibles = rs.filter((r) => filtres.types.has(r.type));
+      let visibles = rs.filter((r) => filtres.types.has(r.type));
+      if (filtres.epoque) visibles = etapesFiltrees(voyages, { ...periode(), lieu: l.id }).map((e) => recitDe(e.recit)).filter((r) => filtres.types.has(r.type));
       const g = marqueurs[l.id];
       g.classList.toggle('cache', visibles.length === 0);
       if (!visibles.length) return;
@@ -94,6 +101,15 @@ export async function monter(el, ctx) {
       g.setAttribute('data-type', type);
       g.querySelector('.forme').setAttribute('d', FORMES[type]);
       g.classList.toggle('termine', rs.some((r) => store.estTermine(r.id)));
+    });
+    lieuxEtapes.forEach((l) => {
+      const es = filtres.epoque ? etapesFiltrees(voyages, { ...periode(), lieu: l.id }).filter((e) => filtres.types.has(recitDe(e.recit).type)) : [];
+      const g = marqueurs[l.id];
+      g.classList.toggle('cache', !es.length);
+      if (!es.length) return;
+      const type = recitDe(es[0].recit).type;
+      g.setAttribute('data-type', type);
+      g.querySelector('.forme').setAttribute('d', FORMES[type]);
     });
   }
 
@@ -177,8 +193,10 @@ export async function monter(el, ctx) {
     if (e.pointerType === 'touch') return;
     const m = e.target.closest('.marqueur');
     if (m) {
-      const l = localites.find((x) => x.id === m.dataset.localite);
-      montrerBulle(e, `<strong>${esc(l.nom)}</strong>${l.recits.length} récit${l.recits.length > 1 ? 's' : ''}`);
+      const l = lieuDe(m.dataset.localite, voyages, localites);
+      const n = etapesFiltrees(voyages, { ...periode(), lieu: l.id }).length;
+      const info = filtres.epoque || !l.localite ? `${n} étape${n > 1 ? 's' : ''}` : (() => { const k = localites.find((x) => x.id === l.id).recits.length; return `${k} récit${k > 1 ? 's' : ''}`; })();
+      montrerBulle(e, `<strong>${esc(l.nom)}</strong>${info}`);
       return;
     }
     const p = e.target.closest('.regions path');
@@ -248,6 +266,16 @@ export async function monter(el, ctx) {
     if (b.dataset.zoom) zoomerSur(vue.x + vue.w / 2, vue.y + vue.h / 2, +b.dataset.zoom, 200);
     if ('centre' in b.dataset) { if (relief) relief.recentrer(); recentrer(); location.hash = '#/carte'; }
     if ('relief' in b.dataset) basculerRelief(b);
+  });
+  // La barre de temps : le curseur change l'année ; l'adresse suit sans remplir l'historique à chaque cran.
+  const lesCrans = crans(voyages);
+  let attenteFrise = null;
+  const allerTemps = (hash) => { clearTimeout(attenteFrise); attenteFrise = setTimeout(() => location.replace(hash), 90); };
+  const frise = creerFrise(el.querySelector('.carte-temps'), lesCrans, {
+    epoques: voyages.epoques,
+    surCran: (c) => allerTemps(`#/carte?epoque=${c.epoque}${c.debut === undefined ? '' : `&annee=${c.debut}`}`),
+    surEpoque: (id) => { location.hash = `#/carte?epoque=${id}`; },
+    surToutes: () => { location.hash = '#/carte'; },
   });
   el.querySelector('.carte-legende').addEventListener('change', (e) => {
     const t = e.target;
@@ -324,15 +352,54 @@ export async function monter(el, ctx) {
         : '<p class="avert">Aucun récit n\'est encore rattaché à cette région. Si vous connaissez un conteur ici, il a sa place sur cette carte.</p>'}`;
   }
 
+  // Étapes du voyage, regroupées par lieu ou par époque.
+  const lienEtape = (e) => `<li><a href="#/jouer/${e.recit}?etape=${e.index}"><span class="puce type-${recitDe(e.recit).type}" aria-hidden="true"></span><span><b>${esc(e.titre)}</b><small>${esc(recitDe(e.recit).titre)}</small></span></a></li>`;
+  function etapesDuLieu(id) {
+    const es = etapesFiltrees(voyages, { ...periode(), lieu: id });
+    if (!es.length) return '';
+    return `<h3>${filtres.epoque ? `Ici, à l'époque choisie` : 'Voyager depuis ce lieu'}</h3>
+      ${voyages.epoques.filter((p) => es.some((e) => e.epoque === p.id)).map((p) => `<p class="meta">${esc(p.nom)}, ${esc(p.periode)}</p><ul class="liste-recits">${es.filter((e) => e.epoque === p.id).map(lienEtape).join('')}</ul>`).join('')}`;
+  }
+  function panneauEpoque(p) {
+    const es = etapesFiltrees(voyages, periode()).filter((e) => filtres.types.has(recitDe(e.recit).type));
+    const lieux = [...new Set(es.map((e) => e.lieu))].map((id) => lieuDe(id, voyages, localites)).sort((a, b) => a.nom.localeCompare(b.nom));
+    const groupe = (l) => `<h3>${l.localite || (l.coords && !l.note) ? `<a href="#/carte/${l.id}">${esc(l.nom)}</a>` : esc(l.nom)}${l.note ? ` <small>${esc(l.note)}</small>` : ''}</h3><ul class="liste-recits">${es.filter((e) => e.lieu === l.id).map(lienEtape).join('')}</ul>`;
+    return `<a class="retour" href="#/carte">← Toutes les époques</a>
+      <p class="sur-titre">${esc(filtres.debut === undefined ? p.periode : filtres.fin > filtres.debut ? `${filtres.debut}-${filtres.fin}` : filtres.debut)}</p><h2>${esc(p.nom)}</h2><p>${esc(p.texte)}</p>
+      <p class="meta">${es.length} étape${es.length > 1 ? 's' : ''} dans ${lieux.length} lieu${lieux.length > 1 ? 'x' : ''}. Choisissez un lieu sur la carte, ou une étape pour y entrer.</p>
+      ${lieux.map(groupe).join('')}`;
+  }
+
+  // Sans année, c'est toute l'époque : le curseur se pose sur son premier cran.
+  function choisirEpoque(id, annee) {
+    const c = annee ? lesCrans.find((x) => x.epoque === id && +annee >= x.debut && +annee <= x.fin) : null;
+    Object.assign(filtres, { epoque: id, debut: c?.debut, fin: c?.fin });
+    if (!id) frise.poser(null);
+    else if (c) frise.poser(lesCrans.indexOf(c));
+    else frise.poser(lesCrans.findIndex((x) => x.epoque === id), id);
+    majMarqueurs();
+    if (relief) relief.majFiltres(visiblesIds());
+  }
+
   function afficher({ params, query }) {
     const idL = params[0];
     Object.values(marqueurs).forEach((g) => g.classList.remove('actif'));
+    // L'époque reste choisie quand on ouvre un lieu ; un retour à la carte entière la retire.
+    if (!idL) choisirEpoque(voyages.epoques.some((p) => p.id === query.epoque) ? query.epoque : null, query.annee);
+    const etapeSeule = idL && !localites.some((x) => x.id === idL) && lieuxEtapes.find((x) => x.id === idL);
+    if (etapeSeule) {
+      definirPage({ titre: etapeSeule.nom });
+      panneau.innerHTML = `<a class="retour" href="#/carte${filtres.epoque ? `?epoque=${filtres.epoque}${filtres.debut ? `&annee=${filtres.debut}` : ''}` : ''}">← Retour</a><p class="sur-titre">Lieu du voyage</p><h2>${esc(etapeSeule.nom)}</h2>${voyages.lieux[idL].approx ? '<p class="meta">Emplacement approché.</p>' : ''}${etapesDuLieu(idL)}`;
+      marqueurs[idL].classList.add('actif');
+      cadrerLocalite(etapeSeule);
+      return;
+    }
     if (idL) {
       const l = localites.find((x) => x.id === idL);
       if (l) {
         const region = regionParId[l.region];
         definirPage({ titre: l.nom, description: `${l.nom}, région ${region.nom} : ${l.recits.length} récit(s), peuples et patrimoine.` });
-        panneau.innerHTML = panneauLocalite(l, { region, recits, patrimoine, langues });
+        panneau.innerHTML = panneauLocalite(l, { region, recits, patrimoine, langues }) + etapesDuLieu(l.id);
         marqueurs[l.id].classList.add('actif');
         surlignerRegion(l.region);
         cadrerLocalite(l);
@@ -347,6 +414,15 @@ export async function monter(el, ctx) {
       panneau.innerHTML = panneauRegion(r);
       surlignerRegion(r.id);
       cadrerRegion(r.id);
+      panneau.scrollTop = 0;
+      return;
+    }
+    if (filtres.epoque) {
+      const p = voyages.epoques.find((x) => x.id === filtres.epoque);
+      definirPage({ titre: p.nom, description: `Les récits du Burkina Faso à l'époque : ${p.nom}.` });
+      panneau.innerHTML = panneauEpoque(p);
+      surlignerRegion(null);
+      recentrer();
       panneau.scrollTop = 0;
       return;
     }
@@ -366,6 +442,7 @@ export async function monter(el, ctx) {
     maj: afficher,
     demonter() {
       cancelAnimationFrame(anim);
+      clearTimeout(attenteFrise);
       removeEventListener('resize', surTaille);
       if (relief) relief.detruire();
     },

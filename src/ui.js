@@ -1,4 +1,6 @@
 /* Petits utilitaires d'interface partagés par les vues. */
+import { t } from './i18n.js';
+
 export const esc = (t) => String(t).replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 
 export const TYPES = {
@@ -27,6 +29,6 @@ export function webgl() {
 }
 
 // Petit rendu Markdown : paragraphes et gras suffisent pour les textes des récits.
-export const mdHtml = (md) => md.trim().split(/\n{2,}/).map((p) => `<p>${esc(p.replace(/\n/g, ' ')).replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')}</p>`).join('');
+export const mdHtml = (md) => md.trim().split(/\n{2,}/).map((p) => `<p>${esc(t(p.replace(/\n/g, ' ').trim())).replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')}</p>`).join('');
 
 export const bandeauProvisoire = () => '<p class="bandeau-provisoire"><strong>Texte provisoire.</strong> Il reste à valider auprès de sources et de conteurs.</p>';

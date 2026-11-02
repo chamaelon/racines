@@ -1,0 +1,365 @@
+{
+ "id": "kinkirsi",
+ "titre": "Les kinkirsi, génies de la brousse",
+ "peuple": "Mossi",
+ "langues_cibles": [
+  "fr",
+  "mos"
+ ],
+ "pistes": [
+  {
+   "id": "titre",
+   "type": "titre",
+   "chemin": "titre",
+   "texte": "Les kinkirsi, génies de la brousse"
+  },
+  {
+   "id": "presentation",
+   "type": "presentation",
+   "chemin": "presentation",
+   "texte": "Le soir tombe et tu rentres seul par la brousse. Ce récit n'est pas une légende fixée : c'est une scène imaginée pour découvrir ce que la tradition mossi dit des kinkirsi."
+  },
+  {
+   "id": "personnages.griot.nom",
+   "type": "personnage",
+   "chemin": "personnages.griot.nom",
+   "texte": "Le griot"
+  },
+  {
+   "id": "personnages.ancienne.nom",
+   "type": "personnage",
+   "chemin": "personnages.ancienne.nom",
+   "texte": "L'ancienne"
+  },
+  {
+   "id": "personnages.kinkirga.nom",
+   "type": "personnage",
+   "chemin": "personnages.kinkirga.nom",
+   "texte": "Un kinkirga"
+  },
+  {
+   "id": "personnages.enfant.nom",
+   "type": "personnage",
+   "chemin": "personnages.enfant.nom",
+   "texte": "L'enfant"
+  },
+  {
+   "id": "fins.canon",
+   "type": "fin",
+   "chemin": "fins.canon",
+   "texte": "Tu as marché avec égards"
+  },
+  {
+   "id": "fins.hate",
+   "type": "fin",
+   "chemin": "fins.hate",
+   "texte": "Autre chemin : le sentier t'a égaré jusqu'au matin"
+  },
+  {
+   "id": "n1",
+   "type": "replique",
+   "chemin": "nodes.n1.text",
+   "noeud": "n1",
+   "partie": "Au village (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Cette scène n'est pas un récit transmis : elle est inventée pour le jeu, à partir de descriptions publiées. Une vraie légende de Kaya reste à collecter.",
+   "genre": "adulte/homme",
+   "duree_ms": 11160,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n2",
+   "type": "replique",
+   "chemin": "nodes.n2.text",
+   "noeud": "n2",
+   "partie": "Au village (jeu)",
+   "personnage": "L'ancienne",
+   "intonation": "doux",
+   "intonation_statut": "proposée",
+   "texte": "Quand on quitte le village à la tombée du jour, on n'est jamais tout à fait seul en brousse. Les kinkirsi y circulent.",
+   "genre": "âgée/femme",
+   "duree_ms": 9490,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n3",
+   "type": "replique",
+   "chemin": "nodes.n3.text",
+   "noeud": "n3",
+   "partie": "Au village (jeu)",
+   "personnage": "L'enfant",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Un kinkirsi, c'est quoi ?",
+   "genre": "enfant/libre",
+   "duree_ms": 2350,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n4",
+   "type": "replique",
+   "chemin": "nodes.n4.text",
+   "noeud": "n4",
+   "partie": "Au village (jeu)",
+   "personnage": "L'ancienne",
+   "intonation": "doux",
+   "intonation_statut": "proposée",
+   "texte": "Des génies, organisés en groupes. Chaque groupe porte le nom de son doyen. Prends ceci avant de partir.",
+   "genre": "âgée/femme",
+   "duree_ms": 7890,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n5",
+   "type": "replique",
+   "chemin": "nodes.n5.text",
+   "noeud": "n5",
+   "partie": "Au village (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "L'ancienne te tend un peu de nourriture pour la route. Que choisis-tu de garder ?",
+   "genre": "adulte/homme",
+   "duree_ms": 6300,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n5.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.n5.choices.0.label",
+   "texte": "Du miel et du sésame"
+  },
+  {
+   "id": "nodes.n5.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.n5.choices.0.tag",
+   "texte": "miel et sésame"
+  },
+  {
+   "id": "nodes.n5.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.n5.choices.1.label",
+   "texte": "Une galette de mil bien salée"
+  },
+  {
+   "id": "nodes.n5.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.n5.choices.1.tag",
+   "texte": "galette salée"
+  },
+  {
+   "id": "sale",
+   "type": "replique",
+   "chemin": "nodes.sale.text",
+   "noeud": "sale",
+   "partie": "Au village (jeu)",
+   "personnage": "L'ancienne",
+   "intonation": "doux",
+   "intonation_statut": "proposée",
+   "texte": "Comme tu veux. Mais les kinkirsi aiment ce qui est doux : le miel, le sésame, les gâteaux de haricots, l'arachide.",
+   "genre": "âgée/femme",
+   "duree_ms": 9180,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "doux",
+   "type": "replique",
+   "chemin": "nodes.doux.text",
+   "noeud": "doux",
+   "partie": "Au village (jeu)",
+   "personnage": "L'ancienne",
+   "intonation": "doux",
+   "intonation_statut": "proposée",
+   "texte": "Tu as bien écouté. Ce qui est doux leur plaît : le miel, le sésame, les gâteaux de haricots, l'arachide.",
+   "genre": "âgée/femme",
+   "duree_ms": 8800,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "route",
+   "type": "replique",
+   "chemin": "nodes.route.text",
+   "noeud": "route",
+   "partie": "La route de nuit (jeu)",
+   "personnage": "Le griot",
+   "intonation": "mystérieux",
+   "intonation_statut": "proposée",
+   "texte": "La nuit tombe. Un petit bruit dans les herbes, et une silhouette montée sur une bête sauvage passe entre les arbres.",
+   "genre": "adulte/homme",
+   "duree_ms": 8730,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n6",
+   "type": "replique",
+   "chemin": "nodes.n6.text",
+   "noeud": "n6",
+   "partie": "La route de nuit (jeu)",
+   "personnage": "Un kinkirga",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Qui marche si fort sur notre chemin ?",
+   "genre": "voix de génie/libre",
+   "duree_ms": 3340,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n7",
+   "type": "replique",
+   "chemin": "nodes.n7.text",
+   "noeud": "n7",
+   "partie": "La route de nuit (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Que fais-tu ?",
+   "genre": "adulte/homme",
+   "duree_ms": 1440,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n7.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.n7.choices.0.label",
+   "texte": "Tu t'arrêtes et tu salues"
+  },
+  {
+   "id": "nodes.n7.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.n7.choices.0.tag",
+   "texte": "salutation"
+  },
+  {
+   "id": "nodes.n7.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.n7.choices.1.label",
+   "texte": "Tu cours sans te retourner"
+  },
+  {
+   "id": "nodes.n7.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.n7.choices.1.tag",
+   "texte": "fuite"
+  },
+  {
+   "id": "hate",
+   "type": "replique",
+   "chemin": "nodes.hate.text",
+   "noeud": "hate",
+   "partie": "La route de nuit (jeu)",
+   "personnage": "Le griot",
+   "intonation": "mystérieux",
+   "intonation_statut": "proposée",
+   "texte": "Tu cours, tu trébuches, tu ne reconnais plus les arbres. Le sentier tourne, et tourne encore. Tu ne retrouves le village qu'au matin.",
+   "genre": "adulte/homme",
+   "duree_ms": 10090,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "don",
+   "type": "replique",
+   "chemin": "nodes.don.text",
+   "noeud": "don",
+   "partie": "La route de nuit (jeu)",
+   "personnage": "Le griot",
+   "intonation": "mystérieux",
+   "intonation_statut": "proposée",
+   "texte": "Tu poses un peu de miel au pied d'un arbre, sans rien demander. La silhouette s'éloigne.",
+   "genre": "adulte/homme",
+   "duree_ms": 6830,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "sans",
+   "type": "replique",
+   "chemin": "nodes.sans.text",
+   "noeud": "sans",
+   "partie": "La route de nuit (jeu)",
+   "personnage": "Le griot",
+   "intonation": "mystérieux",
+   "intonation_statut": "proposée",
+   "texte": "Tu n'as que du sel à offrir. Tu baisses les yeux, tu laisses passer, et la silhouette s'éloigne quand même.",
+   "genre": "adulte/homme",
+   "duree_ms": 8500,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "jumeaux",
+   "type": "replique",
+   "chemin": "nodes.jumeaux.text",
+   "noeud": "jumeaux",
+   "partie": "Le retour au village (jeu)",
+   "personnage": "L'ancienne",
+   "intonation": "doux",
+   "intonation_statut": "proposée",
+   "texte": "Te voilà. On dit aussi que les kinkirsi sont liés à la venue des enfants, et surtout aux jumeaux.",
+   "genre": "âgée/femme",
+   "duree_ms": 7970,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n8.question",
+   "type": "jeu",
+   "chemin": "nodes.n8.question",
+   "texte": "Selon la tradition décrite ici, comment les jumeaux sont-ils regardés ?"
+  },
+  {
+   "id": "nodes.n8.gagne",
+   "type": "jeu",
+   "chemin": "nodes.n8.gagne",
+   "texte": "Oui : ils passent pour proches des génies, et certains pour savoir leur parler."
+  },
+  {
+   "id": "nodes.n8.perdu",
+   "type": "jeu",
+   "chemin": "nodes.n8.perdu",
+   "texte": "Non : on les regarde leur vie durant comme proches des génies."
+  },
+  {
+   "id": "nodes.n8.reponses.0.label",
+   "type": "jeu",
+   "chemin": "nodes.n8.reponses.0.label",
+   "texte": "Comme proches des génies, leur vie durant"
+  },
+  {
+   "id": "nodes.n8.reponses.1.label",
+   "type": "jeu",
+   "chemin": "nodes.n8.reponses.1.label",
+   "texte": "Comme les chefs du village"
+  },
+  {
+   "id": "nodes.n8.reponses.2.label",
+   "type": "jeu",
+   "chemin": "nodes.n8.reponses.2.label",
+   "texte": "Comme des étrangers"
+  },
+  {
+   "id": "nodes.n8.tags.win",
+   "type": "parcours",
+   "chemin": "nodes.n8.tags.win",
+   "texte": "bonne réponse"
+  },
+  {
+   "id": "nodes.n8.tags.lose",
+   "type": "parcours",
+   "chemin": "nodes.n8.tags.lose",
+   "texte": "réponse manquée"
+  },
+  {
+   "id": "n9",
+   "type": "replique",
+   "chemin": "nodes.n9.text",
+   "noeud": "n9",
+   "partie": "Le retour au village (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Le monde visible n'est pas seul : on y marche avec égards.",
+   "genre": "adulte/homme",
+   "duree_ms": 5010,
+   "duree_statut": "estimée"
+  }
+ ]
+}

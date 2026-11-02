@@ -1,5 +1,5 @@
 /* Le griot ouvre la veillée : trois phrases, puis l'écran se ferme et ne revient plus. */
-import { dessinerPersonnage, STYLES } from '../scenes/personnages.js';
+import { url } from '../data.js';
 import { store } from '../store.js';
 
 const PHRASES = [
@@ -15,7 +15,7 @@ export function ouvrirVeillee() {
   voile.setAttribute('aria-modal', 'true');
   voile.setAttribute('aria-label', 'Le griot ouvre la veillée');
   voile.innerHTML = `<div class="veillee-carte">
-    <canvas width="256" height="512" aria-hidden="true"></canvas>
+    <img src="${url('modeles/portraits/griot.webp')}" width="192" height="192" alt="">
     <div>
       <p class="sur-titre">Le griot</p>
       <p class="veillee-texte" aria-live="polite"></p>
@@ -23,7 +23,6 @@ export function ouvrirVeillee() {
     </div>
   </div>`;
   document.body.append(voile);
-  dessinerPersonnage(voile.querySelector('canvas').getContext('2d'), STYLES.griot, false);
   const texte = voile.querySelector('.veillee-texte');
   const suite = voile.querySelector('[data-suite]');
   let i = 0;

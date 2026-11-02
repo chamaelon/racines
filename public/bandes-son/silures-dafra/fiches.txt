@@ -1,0 +1,442 @@
+# Les silures sacrés de Dafra : fiches des bandes-son
+# Généré par « npm run bandes-son » depuis pistes.json. Modifier pistes.json, pas ce fichier.
+
+piste: n1
+histoire: Les silures sacrés de Dafra
+partie: Le temps des fondateurs (jeu)
+personnage: Le griot
+fichier: silures-dafra-n1-<langue>.m4a
+intonation: posé (proposée)
+texte: Dans une gorge, à la source du Houet, l'eau tombe en cascade depuis toujours. Sous sa surface vivent de grands poissons moustachus : les silures.
+genre: adulte/homme
+duree: 10550ms (estimée)
+
+piste: n2
+histoire: Les silures sacrés de Dafra
+partie: Le temps des fondateurs (jeu)
+personnage: Le griot
+fichier: silures-dafra-n2-<langue>.m4a
+intonation: posé (proposée)
+texte: Autour de cette source a grandi Sya, l'ancienne Bobo-Dioulasso. Regarde ce qu'on apporte ici.
+genre: adulte/homme
+duree: 6070ms (estimée)
+
+piste: n3
+histoire: Les silures sacrés de Dafra
+partie: Le temps des fondateurs (jeu)
+personnage: Awa
+fichier: silures-dafra-n3-<langue>.m4a
+intonation: posé (proposée)
+texte: Silures de Dafra, je vous en prie, donnez-moi un enfant.
+genre: adulte/femme
+duree: 4400ms (estimée)
+
+piste: n4
+histoire: Les silures sacrés de Dafra
+partie: Le temps des fondateurs (jeu)
+personnage: Mah, la gardienne
+fichier: silures-dafra-n4-<langue>.m4a
+intonation: doux (proposée)
+texte: Fais ton vœu, et attends.
+genre: âgée/femme
+duree: 2350ms (estimée)
+
+piste: n5
+histoire: Les silures sacrés de Dafra
+partie: Le temps des fondateurs (jeu)
+personnage: Le griot
+fichier: silures-dafra-n5-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Awa a le cœur lourd. Avant de partir, que laisse-t-elle au bord de l'eau ?
+genre: adulte/homme
+duree: 6450ms (estimée)
+
+piste: oubli
+histoire: Les silures sacrés de Dafra
+partie: Le temps des fondateurs (jeu)
+personnage: Mah, la gardienne
+fichier: silures-dafra-oubli-<langue>.m4a
+intonation: doux (proposée)
+texte: On n'oublie pas de nourrir ceux qu'on implore. Reviens avec une poignée de nourriture.
+genre: âgée/femme
+duree: 5920ms (estimée)
+
+piste: offrande
+histoire: Les silures sacrés de Dafra
+partie: Le temps des fondateurs (jeu)
+personnage: Le griot
+fichier: silures-dafra-offrande-<langue>.m4a
+intonation: posé (proposée)
+texte: Un silure saute hors de l'eau. Le vœu est entendu. Et bientôt, Awa berce son enfant.
+genre: adulte/homme
+duree: 7130ms (estimée)
+
+piste: n6
+histoire: Les silures sacrés de Dafra
+partie: Le pêcheur étranger (jeu)
+personnage: Le griot
+fichier: silures-dafra-n6-<langue>.m4a
+intonation: posé (proposée)
+texte: Mais un jour arrive un pêcheur étranger, un harpon sur l'épaule.
+genre: adulte/homme
+duree: 4630ms (estimée)
+
+piste: n7
+histoire: Les silures sacrés de Dafra
+partie: Le pêcheur étranger (jeu)
+personnage: Mah, la gardienne
+fichier: silures-dafra-n7-<langue>.m4a
+intonation: doux (proposée)
+texte: Ici, personne ne pêche. Ces poissons sont sacrés.
+genre: âgée/femme
+duree: 3790ms (estimée)
+
+piste: n8
+histoire: Les silures sacrés de Dafra
+partie: Le pêcheur étranger (jeu)
+personnage: Le pêcheur
+fichier: silures-dafra-n8-<langue>.m4a
+intonation: vif (proposée)
+texte: Des poissons sacrés ! Ils finiront dans ma marmite.
+genre: adulte/homme
+duree: 4020ms (estimée)
+
+piste: n9
+histoire: Les silures sacrés de Dafra
+partie: Le pêcheur étranger (jeu)
+personnage: Le griot
+fichier: silures-dafra-n9-<langue>.m4a
+intonation: posé (proposée)
+texte: Il lance son harpon, prend un silure et repart, content de lui. Derrière lui, le ciel s'assombrit, et la cascade se tarit goutte après goutte.
+genre: adulte/homme
+duree: 10700ms (estimée)
+
+piste: n10
+histoire: Les silures sacrés de Dafra
+partie: Le pêcheur étranger (jeu)
+personnage: Le griot
+fichier: silures-dafra-n10-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: À Sya, les canaris restent vides. Toi qui as tout vu, que fais-tu ?
+genre: adulte/homme
+duree: 6220ms (estimée)
+
+piste: attendre
+histoire: Les silures sacrés de Dafra
+partie: Le pêcheur étranger (jeu)
+personnage: Le griot
+fichier: silures-dafra-attendre-<langue>.m4a
+intonation: posé (proposée)
+texte: Les jours passent. Les anciens parlent, l'eau ne revient pas. Le pêcheur, loin de là, tombe malade.
+genre: adulte/homme
+duree: 7810ms (estimée)
+
+piste: n11
+histoire: Les silures sacrés de Dafra
+partie: Le pêcheur étranger (jeu)
+personnage: Le griot
+fichier: silures-dafra-n11-<langue>.m4a
+intonation: posé (proposée)
+texte: Il reste une chance : qu'il revienne de lui-même, ou qu'on aille le trouver.
+genre: adulte/homme
+duree: 5920ms (estimée)
+
+piste: seche
+histoire: Les silures sacrés de Dafra
+partie: Le pêcheur étranger (jeu)
+personnage: Le griot
+fichier: silures-dafra-seche-<langue>.m4a
+intonation: posé (proposée)
+texte: On dit qu'en ce temps-là, la soif a vidé bien des cours de Sya, et que chacun a appris trop tard à quoi tenait la source.
+genre: adulte/homme
+duree: 10480ms (estimée)
+
+piste: chercher
+histoire: Les silures sacrés de Dafra
+partie: Le pêcheur étranger (jeu)
+personnage: Le griot
+fichier: silures-dafra-chercher-<langue>.m4a
+intonation: posé (proposée)
+texte: Tu le trouves dans son campement, tremblant de fièvre, le silure encore entre ses mains. Il revient avec toi à la gorge.
+genre: adulte/homme
+duree: 9260ms (estimée)
+
+piste: n12
+histoire: Les silures sacrés de Dafra
+partie: Le pêcheur étranger (jeu)
+personnage: Le pêcheur
+fichier: silures-dafra-n12-<langue>.m4a
+intonation: posé (proposée)
+texte: Pardonne-moi, gardienne. Je ne savais pas.
+genre: adulte/homme
+duree: 3030ms (estimée)
+
+piste: n13
+histoire: Les silures sacrés de Dafra
+partie: Le pêcheur étranger (jeu)
+personnage: Le griot
+fichier: silures-dafra-n13-<langue>.m4a
+intonation: posé (proposée)
+texte: Il rend le poisson à l'eau. Mah nourrit les silures. Et l'eau revient.
+genre: adulte/homme
+duree: 5840ms (estimée)
+
+piste: n15
+histoire: Les silures sacrés de Dafra
+partie: Une ville protège ses silures (jeu)
+personnage: Le griot
+fichier: silures-dafra-n15-<langue>.m4a
+intonation: posé (proposée)
+texte: On ne prend pas à la légère ce qu'une ville entière protège.
+genre: adulte/homme
+duree: 4860ms (estimée)
+
+piste: film-001
+histoire: Les silures sacrés de Dafra
+partie: Film d'animation, de 00:02.0 à 00:07.4
+personnage: Narrateur
+fichier: silures-dafra-film-001-<langue>.m4a
+intonation: solennel (scénario)
+texte: Les silures sacrés de Dafra. Une légende de Bobo-Dioulasso.
+genre: adulte/libre
+duree: 5400ms (mesurée sur le film)
+
+piste: film-002
+histoire: Les silures sacrés de Dafra
+partie: Film d'animation, de 00:08.0 à 00:13.3
+personnage: Narrateur
+fichier: silures-dafra-film-002-<langue>.m4a
+intonation: posé (proposée)
+texte: Dans une gorge, à la source du Houet, l'eau tombe en cascade depuis toujours.
+genre: adulte/libre
+duree: 5300ms (mesurée sur le film)
+
+piste: film-003
+histoire: Les silures sacrés de Dafra
+partie: Film d'animation, de 00:14.0 à 00:18.4
+personnage: Narrateur
+fichier: silures-dafra-film-003-<langue>.m4a
+intonation: mystérieux (scénario)
+texte: Sous sa surface vivent de grands poissons moustachus : les silures.
+genre: adulte/libre
+duree: 4400ms (mesurée sur le film)
+
+piste: film-004
+histoire: Les silures sacrés de Dafra
+partie: Film d'animation, de 00:21.0 à 00:29.3
+personnage: Narrateur
+fichier: silures-dafra-film-004-<langue>.m4a
+intonation: posé (proposée)
+texte: Un jour, au temps des fondateurs, un chasseur assoiffé trouva ce lieu. Il but, et il laissa une offrande en remerciement.
+genre: adulte/libre
+duree: 8300ms (mesurée sur le film)
+
+piste: film-005
+histoire: Les silures sacrés de Dafra
+partie: Film d'animation, de 00:34.0 à 00:39.3
+personnage: Narrateur
+fichier: silures-dafra-film-005-<langue>.m4a
+intonation: posé (proposée)
+texte: Près de la source, une ville grandit : Sya, l'ancienne Bobo-Dioulasso.
+genre: adulte/libre
+duree: 5300ms (mesurée sur le film)
+
+piste: film-006
+histoire: Les silures sacrés de Dafra
+partie: Film d'animation, de 00:44.0 à 00:49.5
+personnage: Narrateur
+fichier: silures-dafra-film-006-<langue>.m4a
+intonation: posé (proposée)
+texte: Ses habitants venaient chercher l'eau à Dafra, et ils n'oubliaient jamais de nourrir les silures.
+genre: adulte/libre
+duree: 5500ms (mesurée sur le film)
+
+piste: film-007
+histoire: Les silures sacrés de Dafra
+partie: Film d'animation, de 01:02.0 à 01:08.1
+personnage: Narrateur
+fichier: silures-dafra-film-007-<langue>.m4a
+intonation: tendre (scénario)
+texte: Awa, une jeune femme de Sya, n'avait pas d'enfant. Son cœur était lourd.
+genre: adulte/libre
+duree: 6100ms (mesurée sur le film)
+
+piste: film-008
+histoire: Les silures sacrés de Dafra
+partie: Film d'animation, de 01:10.0 à 01:13.6
+personnage: Narrateur
+fichier: silures-dafra-film-008-<langue>.m4a
+intonation: posé (proposée)
+texte: Un matin, elle prit le chemin de la gorge.
+genre: adulte/libre
+duree: 3600ms (mesurée sur le film)
+
+piste: film-009
+histoire: Les silures sacrés de Dafra
+partie: Film d'animation, de 01:18.0 à 01:22.3
+personnage: Narrateur
+fichier: silures-dafra-film-009-<langue>.m4a
+intonation: posé (proposée)
+texte: Mah, la gardienne de Dafra, l'y attendait.
+genre: adulte/libre
+duree: 4300ms (mesurée sur le film)
+
+piste: film-010
+histoire: Les silures sacrés de Dafra
+partie: Film d'animation, de 01:24.0 à 01:28.5
+personnage: AWA
+fichier: silures-dafra-film-010-<langue>.m4a
+intonation: timide, plein d'espoir (scénario)
+texte: Silures de Dafra, je vous en prie, donnez-moi un enfant.
+genre: adulte/femme
+duree: 4500ms (mesurée sur le film)
+
+piste: film-011
+histoire: Les silures sacrés de Dafra
+partie: Film d'animation, de 01:30.0 à 01:32.6
+personnage: MAH
+fichier: silures-dafra-film-011-<langue>.m4a
+intonation: bienveillant (scénario)
+texte: Fais ton vœu, et attends.
+genre: âgé/libre
+duree: 2600ms (mesurée sur le film)
+
+piste: film-012
+histoire: Les silures sacrés de Dafra
+partie: Film d'animation, de 01:35.0 à 01:39.7
+personnage: Narrateur
+fichier: silures-dafra-film-012-<langue>.m4a
+intonation: émerveillé (scénario)
+texte: Un silure sauta hors de l'eau. Le vœu était entendu.
+genre: adulte/libre
+duree: 4700ms (mesurée sur le film)
+
+piste: film-013
+histoire: Les silures sacrés de Dafra
+partie: Film d'animation, de 01:45.0 à 01:51.0
+personnage: Narrateur
+fichier: silures-dafra-film-013-<langue>.m4a
+intonation: joyeux (scénario)
+texte: Et bientôt, Awa berça son enfant. Elle revint à Dafra pour dire merci.
+genre: adulte/libre
+duree: 6000ms (mesurée sur le film)
+
+piste: film-014
+histoire: Les silures sacrés de Dafra
+partie: Film d'animation, de 02:08.0 à 02:12.8
+personnage: Narrateur
+fichier: silures-dafra-film-014-<langue>.m4a
+intonation: posé (proposée)
+texte: Mais un jour arriva un pêcheur étranger, avec un harpon sur l'épaule.
+genre: adulte/libre
+duree: 4800ms (mesurée sur le film)
+
+piste: film-015
+histoire: Les silures sacrés de Dafra
+partie: Film d'animation, de 02:17.0 à 02:22.1
+personnage: MAH
+fichier: silures-dafra-film-015-<langue>.m4a
+intonation: ferme (scénario)
+texte: Ici, personne ne pêche. Ces poissons sont sacrés.
+genre: âgé/libre
+duree: 5100ms (mesurée sur le film)
+
+piste: film-016
+histoire: Les silures sacrés de Dafra
+partie: Film d'animation, de 02:23.0 à 02:28.2
+personnage: Narrateur
+fichier: silures-dafra-film-016-<langue>.m4a
+intonation: inquiet (scénario)
+texte: Il éclata de rire. Il lança son harpon et prit un silure.
+genre: adulte/libre
+duree: 5200ms (mesurée sur le film)
+
+piste: film-017
+histoire: Les silures sacrés de Dafra
+partie: Film d'animation, de 02:40.0 à 02:46.0
+personnage: Narrateur
+fichier: silures-dafra-film-017-<langue>.m4a
+intonation: posé (proposée)
+texte: Il repartit, content de lui. Derrière lui, le ciel s'assombrit.
+genre: adulte/libre
+duree: 6000ms (mesurée sur le film)
+
+piste: film-018
+histoire: Les silures sacrés de Dafra
+partie: Film d'animation, de 02:52.0 à 02:55.8
+personnage: Narrateur
+fichier: silures-dafra-film-018-<langue>.m4a
+intonation: grave (scénario)
+texte: Alors la cascade se tarit, goutte après goutte.
+genre: adulte/libre
+duree: 3800ms (mesurée sur le film)
+
+piste: film-019
+histoire: Les silures sacrés de Dafra
+partie: Film d'animation, de 03:03.0 à 03:09.3
+personnage: Narrateur
+fichier: silures-dafra-film-019-<langue>.m4a
+intonation: posé (proposée)
+texte: À Sya, les canaris restèrent vides. Les habitants revenaient des puits les mains vides.
+genre: adulte/libre
+duree: 6300ms (mesurée sur le film)
+
+piste: film-020
+histoire: Les silures sacrés de Dafra
+partie: Film d'animation, de 03:16.0 à 03:20.5
+personnage: Narrateur
+fichier: silures-dafra-film-020-<langue>.m4a
+intonation: posé (proposée)
+texte: Et loin de là, dans son campement, le pêcheur tomba malade.
+genre: adulte/libre
+duree: 4500ms (mesurée sur le film)
+
+piste: film-021
+histoire: Les silures sacrés de Dafra
+partie: Film d'animation, de 03:32.0 à 03:36.3
+personnage: Narrateur
+fichier: silures-dafra-film-021-<langue>.m4a
+intonation: posé (proposée)
+texte: Tremblant, il revint à la gorge avec le silure entre les mains.
+genre: adulte/libre
+duree: 4300ms (mesurée sur le film)
+
+piste: film-022
+histoire: Les silures sacrés de Dafra
+partie: Film d'animation, de 03:38.6 à 03:42.4
+personnage: PECHEUR
+fichier: silures-dafra-film-022-<langue>.m4a
+intonation: brisé (scénario)
+texte: Pardonne-moi, gardienne. Je ne savais pas.
+genre: adulte/homme
+duree: 3800ms (mesurée sur le film)
+
+piste: film-023
+histoire: Les silures sacrés de Dafra
+partie: Film d'animation, de 03:44.0 à 03:48.9
+personnage: Narrateur
+fichier: silures-dafra-film-023-<langue>.m4a
+intonation: posé (proposée)
+texte: Il rendit le poisson à l'eau. Mah nourrit les silures.
+genre: adulte/libre
+duree: 4900ms (mesurée sur le film)
+
+piste: film-024
+histoire: Les silures sacrés de Dafra
+partie: Film d'animation, de 03:52.0 à 03:57.2
+personnage: Narrateur
+fichier: silures-dafra-film-024-<langue>.m4a
+intonation: joyeux (scénario)
+texte: Et l'eau revint. Les habitants accoururent pour fêter son retour.
+genre: adulte/libre
+duree: 5200ms (mesurée sur le film)
+
+piste: film-025
+histoire: Les silures sacrés de Dafra
+partie: Film d'animation, de 04:17.0 à 04:23.1
+personnage: Narrateur
+fichier: silures-dafra-film-025-<langue>.m4a
+intonation: apaisé (scénario)
+texte: Aujourd'hui encore, à Dafra, les visiteurs nourrissent les silures, et ils leur confient leurs vœux.
+genre: adulte/libre
+duree: 6100ms (mesurée sur le film)

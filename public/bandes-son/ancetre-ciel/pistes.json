@@ -1,0 +1,661 @@
+{
+ "id": "ancetre-ciel",
+ "titre": "L'ancêtre tombé du ciel",
+ "peuple": "Kassena",
+ "langues_cibles": [
+  "fr",
+  "kas"
+ ],
+ "pistes": [
+  {
+   "id": "titre",
+   "type": "titre",
+   "chemin": "titre",
+   "texte": "L'ancêtre tombé du ciel"
+  },
+  {
+   "id": "presentation",
+   "type": "presentation",
+   "chemin": "presentation",
+   "texte": "Par un trou dans les nuages, un ancêtre et son épouse regardent une terre vide. Une corde de lumière se déroule. Descends avec eux, et aide le premier village à ne pas oublier d'où il vient."
+  },
+  {
+   "id": "personnages.griot.nom",
+   "type": "personnage",
+   "chemin": "personnages.griot.nom",
+   "texte": "Le griot"
+  },
+  {
+   "id": "personnages.ancetre.nom",
+   "type": "personnage",
+   "chemin": "personnages.ancetre.nom",
+   "texte": "L'ancêtre"
+  },
+  {
+   "id": "personnages.epouse.nom",
+   "type": "personnage",
+   "chemin": "personnages.epouse.nom",
+   "texte": "Son épouse"
+  },
+  {
+   "id": "personnages.vieux.nom",
+   "type": "personnage",
+   "chemin": "personnages.vieux.nom",
+   "texte": "Le vieux"
+  },
+  {
+   "id": "personnages.enfant.nom",
+   "type": "personnage",
+   "chemin": "personnages.enfant.nom",
+   "texte": "L'enfant"
+  },
+  {
+   "id": "personnages.peintre.nom",
+   "type": "personnage",
+   "chemin": "personnages.peintre.nom",
+   "texte": "Une femme de Tiébélé"
+  },
+  {
+   "id": "fins.canon",
+   "type": "fin",
+   "chemin": "fins.canon",
+   "texte": "Version du griot : les murs se souviennent"
+  },
+  {
+   "id": "fins.blanc",
+   "type": "fin",
+   "chemin": "fins.blanc",
+   "texte": "Autre chemin : des murs sans mémoire"
+  },
+  {
+   "id": "n1",
+   "type": "replique",
+   "chemin": "nodes.n1.text",
+   "noeud": "n1",
+   "partie": "Le trou dans les nuages (jeu)",
+   "personnage": "Le griot",
+   "intonation": "solennel",
+   "intonation_statut": "proposée",
+   "texte": "Là-haut, au-dessus des nuages, il y avait un pays d'en haut. Rien n'y manquait. Par un trou dans les nuages, l'ancêtre de Kollo regardait la terre.",
+   "genre": "adulte/homme",
+   "duree_ms": 11230,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n2",
+   "type": "replique",
+   "chemin": "nodes.n2.text",
+   "noeud": "n2",
+   "partie": "Le trou dans les nuages (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Le monde est vide, sans une case et sans une voix. Une corde de lumière se déroule jusqu'au sol. Descendent-ils ?",
+   "genre": "adulte/homme",
+   "duree_ms": 9030,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n2.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.n2.choices.0.label",
+   "texte": "Oui, ils prennent la corde"
+  },
+  {
+   "id": "nodes.n2.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.n2.choices.0.tag",
+   "texte": "corde prise"
+  },
+  {
+   "id": "nodes.n2.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.n2.choices.1.label",
+   "texte": "Ils regardent encore un moment"
+  },
+  {
+   "id": "nodes.n2.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.n2.choices.1.tag",
+   "texte": "hésitation"
+  },
+  {
+   "id": "regarde",
+   "type": "replique",
+   "chemin": "nodes.regarde.text",
+   "noeud": "regarde",
+   "partie": "Le trou dans les nuages (jeu)",
+   "personnage": "Son épouse",
+   "intonation": "solennel",
+   "intonation_statut": "proposée",
+   "texte": "Rien n'y bouge. Si personne n'y va, rien n'y bougera jamais.",
+   "genre": "adulte/femme",
+   "duree_ms": 4930,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "descend",
+   "type": "replique",
+   "chemin": "nodes.descend.text",
+   "noeud": "descend",
+   "partie": "La terre vide (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Longtemps, ils glissent, entre ciel et terre. Une terre vide les attend, là où sera Tiébélé. Le sol est sec. Que faire d'abord ?",
+   "genre": "adulte/homme",
+   "duree_ms": 10770,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.descend.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.descend.choices.0.label",
+   "texte": "Appeler la pluie du pays d'en haut"
+  },
+  {
+   "id": "nodes.descend.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.descend.choices.0.tag",
+   "texte": "pluie appelée"
+  },
+  {
+   "id": "nodes.descend.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.descend.choices.1.label",
+   "texte": "Bâtir une case tout de suite"
+  },
+  {
+   "id": "nodes.descend.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.descend.choices.1.tag",
+   "texte": "case d'abord"
+  },
+  {
+   "id": "case",
+   "type": "replique",
+   "chemin": "nodes.case.text",
+   "noeud": "case",
+   "partie": "La terre vide (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "La terre s'effrite entre leurs mains. Sans eau, on ne bâtit rien, et rien n'y poussera.",
+   "genre": "adulte/homme",
+   "duree_ms": 6980,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "pluie",
+   "type": "replique",
+   "chemin": "nodes.pluie.text",
+   "noeud": "pluie",
+   "partie": "La terre vide (jeu)",
+   "personnage": "L'ancêtre",
+   "intonation": "vif",
+   "intonation_statut": "proposée",
+   "texte": "Pluie du pays d'en haut, viens à moi !",
+   "genre": "voix solennelle/libre",
+   "duree_ms": 3870,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n3",
+   "type": "replique",
+   "chemin": "nodes.n3.text",
+   "noeud": "n3",
+   "partie": "La terre vide (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Les nuages s'ouvrent, et la terre boit enfin. Ils bâtissent une première case ronde, et ils ouvrent un champ. Regarde.",
+   "genre": "adulte/homme",
+   "duree_ms": 8800,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n4",
+   "type": "replique",
+   "chemin": "nodes.n4.text",
+   "noeud": "n4",
+   "partie": "Les premières peintures (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Les années passent, et des enfants naissent. Les femmes prennent de la terre et des pierres de couleur. Que peignent-elles sur les murs ?",
+   "genre": "adulte/homme",
+   "duree_ms": 10170,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n4.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.n4.choices.0.label",
+   "texte": "Des motifs venus du ciel"
+  },
+  {
+   "id": "nodes.n4.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.n4.choices.0.tag",
+   "texte": "motifs du ciel"
+  },
+  {
+   "id": "nodes.n4.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.n4.choices.1.label",
+   "texte": "Rien : le mur nu suffit"
+  },
+  {
+   "id": "nodes.n4.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.n4.choices.1.tag",
+   "texte": "mur nu"
+  },
+  {
+   "id": "nu",
+   "type": "replique",
+   "chemin": "nodes.nu.text",
+   "noeud": "nu",
+   "partie": "Les premières peintures (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Les enfants grandissent sans plus rien savoir du pays d'en haut. Cette fin n'existe que dans le jeu, car à Tiébélé les femmes ont peint.",
+   "genre": "adulte/homme",
+   "duree_ms": 10250,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "motifs",
+   "type": "replique",
+   "chemin": "nodes.motifs.text",
+   "noeud": "motifs",
+   "partie": "Les premières peintures (jeu)",
+   "personnage": "Le vieux",
+   "intonation": "grave",
+   "intonation_statut": "proposée",
+   "texte": "Notre père est venu d'en haut, souvenez-vous.",
+   "genre": "âgé/homme",
+   "duree_ms": 3110,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n5",
+   "type": "replique",
+   "chemin": "nodes.n5.text",
+   "noeud": "n5",
+   "partie": "Les premières peintures (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Bien plus tard, naîtra la chefferie de Tiébélé.",
+   "genre": "adulte/homme",
+   "duree_ms": 3490,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n6",
+   "type": "replique",
+   "chemin": "nodes.n6.text",
+   "noeud": "n6",
+   "partie": "Les murs de Tiébélé (jeu)",
+   "personnage": "L'enfant",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Dis, qui a peint ces murs ?",
+   "genre": "enfant/libre",
+   "duree_ms": 3110,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n7.question",
+   "type": "jeu",
+   "chemin": "nodes.n7.question",
+   "texte": "Que répond la femme de Tiébélé à l'enfant, d'après ce que tu viens de vivre ?"
+  },
+  {
+   "id": "nodes.n7.gagne",
+   "type": "jeu",
+   "chemin": "nodes.n7.gagne",
+   "texte": "Oui : les femmes, pour que personne n'oublie d'où l'on vient."
+  },
+  {
+   "id": "nodes.n7.perdu",
+   "type": "jeu",
+   "chemin": "nodes.n7.perdu",
+   "texte": "Non : ce sont les femmes, pour que personne n'oublie d'où l'on vient."
+  },
+  {
+   "id": "nodes.n7.reponses.0.label",
+   "type": "jeu",
+   "chemin": "nodes.n7.reponses.0.label",
+   "texte": "Les femmes : on peint pour ne pas oublier d'où l'on vient"
+  },
+  {
+   "id": "nodes.n7.reponses.1.label",
+   "type": "jeu",
+   "chemin": "nodes.n7.reponses.1.label",
+   "texte": "Le chef : on peint pour faire peur aux ennemis"
+  },
+  {
+   "id": "nodes.n7.reponses.2.label",
+   "type": "jeu",
+   "chemin": "nodes.n7.reponses.2.label",
+   "texte": "Personne : les murs se colorent seuls"
+  },
+  {
+   "id": "nodes.n7.tags.win",
+   "type": "parcours",
+   "chemin": "nodes.n7.tags.win",
+   "texte": "bonne réponse"
+  },
+  {
+   "id": "nodes.n7.tags.lose",
+   "type": "parcours",
+   "chemin": "nodes.n7.tags.lose",
+   "texte": "réponse manquée"
+  },
+  {
+   "id": "n8",
+   "type": "replique",
+   "chemin": "nodes.n8.text",
+   "noeud": "n8",
+   "partie": "Les murs de Tiébélé (jeu)",
+   "personnage": "Le griot",
+   "intonation": "joyeux",
+   "intonation_statut": "proposée",
+   "texte": "À Tiébélé, aujourd'hui, les femmes peignent toujours leurs maisons.",
+   "genre": "adulte/homme",
+   "duree_ms": 4020,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "film-001",
+   "type": "film",
+   "partie": "Film d'animation, de 00:02.0 à 00:06.7",
+   "horodatage": {
+    "debut_ms": 2000,
+    "fin_ms": 6700
+   },
+   "personnage": "Narrateur",
+   "intonation": "solennel",
+   "intonation_statut": "scénario",
+   "texte": "L'ancêtre tombé du ciel. Un mythe kassena.",
+   "genre": "adulte/libre",
+   "duree_ms": 4700,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-002",
+   "type": "film",
+   "partie": "Film d'animation, de 00:09.0 à 00:15.0",
+   "horodatage": {
+    "debut_ms": 9000,
+    "fin_ms": 15000
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Là-haut, au-dessus des nuages, il y avait un pays d'en haut. Rien n'y manquait.",
+   "genre": "adulte/libre",
+   "duree_ms": 6000,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-003",
+   "type": "film",
+   "partie": "Film d'animation, de 00:28.0 à 00:33.4",
+   "horodatage": {
+    "debut_ms": 28000,
+    "fin_ms": 33400
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Par un trou dans les nuages, l'ancêtre de Kollo regardait la terre, tout en bas.",
+   "genre": "adulte/libre",
+   "duree_ms": 5400,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-004",
+   "type": "film",
+   "partie": "Film d'animation, de 00:39.0 à 00:44.3",
+   "horodatage": {
+    "debut_ms": 39000,
+    "fin_ms": 44300
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Avec son épouse, il observait ce monde vide, sans une case et sans une voix.",
+   "genre": "adulte/libre",
+   "duree_ms": 5300,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-005",
+   "type": "film",
+   "partie": "Film d'animation, de 00:58.0 à 01:03.1",
+   "horodatage": {
+    "debut_ms": 58000,
+    "fin_ms": 63100
+   },
+   "personnage": "Narrateur",
+   "intonation": "mystérieux",
+   "intonation_statut": "scénario",
+   "texte": "Une corde de lumière se déroula jusqu'au sol, et ils commencèrent à descendre.",
+   "genre": "adulte/libre",
+   "duree_ms": 5100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-006",
+   "type": "film",
+   "partie": "Film d'animation, de 01:10.0 à 01:13.9",
+   "horodatage": {
+    "debut_ms": 70000,
+    "fin_ms": 73900
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Longtemps, ils glissèrent, entre ciel et terre.",
+   "genre": "adulte/libre",
+   "duree_ms": 3900,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-007",
+   "type": "film",
+   "partie": "Film d'animation, de 01:19.0 à 01:22.9",
+   "horodatage": {
+    "debut_ms": 79000,
+    "fin_ms": 82900
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Une terre vide les attendait, là où sera Tiébélé.",
+   "genre": "adulte/libre",
+   "duree_ms": 3900,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-008",
+   "type": "film",
+   "partie": "Film d'animation, de 01:34.0 à 01:38.6",
+   "horodatage": {
+    "debut_ms": 94000,
+    "fin_ms": 98600
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Le sol était sec. Rien n'y pousserait sans eau.",
+   "genre": "adulte/libre",
+   "duree_ms": 4600,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-009",
+   "type": "film",
+   "partie": "Film d'animation, de 01:40.0 à 01:43.0",
+   "horodatage": {
+    "debut_ms": 100000,
+    "fin_ms": 103000
+   },
+   "personnage": "ANCETRE",
+   "intonation": "voix profonde, levé vers le ciel",
+   "intonation_statut": "scénario",
+   "texte": "Pluie du pays d'en haut, viens à moi !",
+   "genre": "esprit, créature : voix grave/libre",
+   "duree_ms": 3000,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-010",
+   "type": "film",
+   "partie": "Film d'animation, de 01:47.0 à 01:50.5",
+   "horodatage": {
+    "debut_ms": 107000,
+    "fin_ms": 110500
+   },
+   "personnage": "Narrateur",
+   "intonation": "joyeux",
+   "intonation_statut": "scénario",
+   "texte": "Et les nuages s'ouvrirent, et la terre but enfin.",
+   "genre": "adulte/libre",
+   "duree_ms": 3500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-011",
+   "type": "film",
+   "partie": "Film d'animation, de 02:14.0 à 02:18.1",
+   "horodatage": {
+    "debut_ms": 134000,
+    "fin_ms": 138100
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Ils bâtirent une première case ronde, et ils ouvrirent un champ.",
+   "genre": "adulte/libre",
+   "duree_ms": 4100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-012",
+   "type": "film",
+   "partie": "Film d'animation, de 02:28.0 à 02:33.9",
+   "horodatage": {
+    "debut_ms": 148000,
+    "fin_ms": 153900
+   },
+   "personnage": "Narrateur",
+   "intonation": "tendre",
+   "intonation_statut": "scénario",
+   "texte": "Ce fut le premier village. Les années passèrent, et des enfants naquirent.",
+   "genre": "adulte/libre",
+   "duree_ms": 5900,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-013",
+   "type": "film",
+   "partie": "Film d'animation, de 02:55.0 à 02:59.8",
+   "horodatage": {
+    "debut_ms": 175000,
+    "fin_ms": 179800
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Les femmes prirent de la terre et des pierres de couleur, et elles peignirent les murs.",
+   "genre": "adulte/libre",
+   "duree_ms": 4800,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-014",
+   "type": "film",
+   "partie": "Film d'animation, de 03:07.0 à 03:12.2",
+   "horodatage": {
+    "debut_ms": 187000,
+    "fin_ms": 192200
+   },
+   "personnage": "Narrateur",
+   "intonation": "émerveillé",
+   "intonation_statut": "scénario",
+   "texte": "Elles y dessinèrent des motifs venus du ciel, pour que personne n'oublie d'où l'on venait.",
+   "genre": "adulte/libre",
+   "duree_ms": 5200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-015",
+   "type": "film",
+   "partie": "Film d'animation, de 03:35.0 à 03:38.6",
+   "horodatage": {
+    "debut_ms": 215000,
+    "fin_ms": 218600
+   },
+   "personnage": "VIEUX",
+   "intonation": "posé",
+   "intonation_statut": "scénario",
+   "texte": "Notre père est venu d'en haut, souvenez-vous.",
+   "genre": "âgé/libre",
+   "duree_ms": 3600,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-016",
+   "type": "film",
+   "partie": "Film d'animation, de 03:46.0 à 03:49.8",
+   "horodatage": {
+    "debut_ms": 226000,
+    "fin_ms": 229800
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Bien plus tard, naîtra la chefferie de Tiébélé.",
+   "genre": "adulte/libre",
+   "duree_ms": 3800,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-017",
+   "type": "film",
+   "partie": "Film d'animation, de 04:06.0 à 04:08.9",
+   "horodatage": {
+    "debut_ms": 246000,
+    "fin_ms": 248900
+   },
+   "personnage": "ENFANT",
+   "intonation": "curieux",
+   "intonation_statut": "scénario",
+   "texte": "Dis, qui a peint ces murs ?",
+   "genre": "enfant/libre",
+   "duree_ms": 2900,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-018",
+   "type": "film",
+   "partie": "Film d'animation, de 04:10.0 à 04:14.8",
+   "horodatage": {
+    "debut_ms": 250000,
+    "fin_ms": 254800
+   },
+   "personnage": "Narrateur",
+   "intonation": "doux",
+   "intonation_statut": "scénario",
+   "texte": "À Tiébélé, aujourd'hui, les femmes peignent toujours leurs maisons.",
+   "genre": "adulte/libre",
+   "duree_ms": 4800,
+   "duree_statut": "mesurée sur le film"
+  }
+ ]
+}

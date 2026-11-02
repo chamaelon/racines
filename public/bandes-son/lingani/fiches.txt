@@ -1,0 +1,302 @@
+# Les Lingani de Tangaré : fiches des bandes-son
+# Généré par « npm run bandes-son » depuis pistes.json. Modifier pistes.json, pas ce fichier.
+
+piste: n1
+histoire: Les Lingani de Tangaré
+partie: Le chef est mort (jeu)
+personnage: Le griot
+fichier: lingani-n1-<langue>.m4a
+intonation: posé (proposée)
+texte: À Garango, en pays bissa, la chefferie a sa règle. Elle est ancienne, et elle ne se discute pas. Le chef est mort, et le pays est en deuil. Mais déjà, on regarde la couronne.
+genre: adulte/homme
+duree: 15250ms (estimée)
+
+piste: n2
+histoire: Les Lingani de Tangaré
+partie: Le chef est mort (jeu)
+personnage: Le prétendant
+fichier: lingani-n2-<langue>.m4a
+intonation: posé (proposée)
+texte: Je n'ai besoin de personne.
+genre: adulte/homme
+duree: 2200ms (estimée)
+
+piste: n3
+histoire: Les Lingani de Tangaré
+partie: Le chef est mort (jeu)
+personnage: Le griot
+fichier: lingani-n3-<langue>.m4a
+intonation: posé (proposée)
+texte: Il pose la couronne lui-même sur sa tête. La couronne glisse et tombe. Il la ramasse. Elle retombe encore. Un orage éclate, et le mil se couche dans les champs.
+genre: adulte/homme
+duree: 13050ms (estimée)
+
+piste: n4
+histoire: Les Lingani de Tangaré
+partie: Le chef est mort (jeu)
+personnage: Le griot
+fichier: lingani-n4-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Les gens se détournent de lui. Toi, parmi les anciens, que proposes-tu ?
+genre: adulte/homme
+duree: 5840ms (estimée)
+
+piste: chance
+histoire: Les Lingani de Tangaré
+partie: Le chef est mort (jeu)
+personnage: Le griot
+fichier: lingani-chance-<langue>.m4a
+intonation: posé (proposée)
+texte: Il remet la couronne. Elle tombe. L'orage redouble. Tous attendent que tu parles.
+genre: adulte/homme
+duree: 6140ms (estimée)
+
+piste: raccourci
+histoire: Les Lingani de Tangaré
+partie: Le chef est mort (jeu)
+personnage: Le griot
+fichier: lingani-raccourci-<langue>.m4a
+intonation: posé (proposée)
+texte: Il la tient à deux mains, et il ne peut plus rien faire d'autre. La pluie gâte tout, et le pays perd son chef sans en avoir de nouveau. Cette fin n'est pas dans la légende.
+genre: adulte/homme
+duree: 14880ms (estimée)
+
+piste: elu
+histoire: Les Lingani de Tangaré
+partie: La route de Tangaré (jeu)
+personnage: Le griot
+fichier: lingani-elu-<langue>.m4a
+intonation: posé (proposée)
+texte: Les anciens conduisent l'élu sur la route de Tangaré, le village des Lingani, les gardiens du pouvoir.
+genre: adulte/homme
+duree: 7060ms (estimée)
+
+piste: n6
+histoire: Les Lingani de Tangaré
+partie: La route de Tangaré (jeu)
+personnage: Le guide
+fichier: lingani-n6-<langue>.m4a
+intonation: posé (proposée)
+texte: Voici celui qui vient.
+genre: adulte/homme
+duree: 1820ms (estimée)
+
+piste: n7
+histoire: Les Lingani de Tangaré
+partie: La route de Tangaré (jeu)
+personnage: Le griot
+fichier: lingani-n7-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: L'élu entre dans la case. Nul ne sait ce qui s'y passe. Que feras-tu pendant ce temps ?
+genre: adulte/homme
+duree: 7740ms (estimée)
+
+piste: oreille
+histoire: Les Lingani de Tangaré
+partie: La route de Tangaré (jeu)
+personnage: Le guide
+fichier: lingani-oreille-<langue>.m4a
+intonation: posé (proposée)
+texte: Écarte-toi. La préparation reste secrète, et nous n'en dirons pas plus.
+genre: adulte/homme
+duree: 4930ms (estimée)
+
+piste: dehors
+histoire: Les Lingani de Tangaré
+partie: Le couronnement (jeu)
+personnage: Le griot
+fichier: lingani-dehors-<langue>.m4a
+intonation: posé (proposée)
+texte: Le jour du couronnement arrive. La couronne se pose sur sa tête, et elle tient. Doucement, la pluie revient sur le pays.
+genre: adulte/homme
+duree: 9560ms (estimée)
+
+piste: n8
+histoire: Les Lingani de Tangaré
+partie: Le couronnement (jeu)
+personnage: Le griot
+fichier: lingani-n8-<langue>.m4a
+intonation: posé (proposée)
+texte: Aujourd'hui encore, dit-on, nul ne règne à Garango sans passer par Tangaré. Le pouvoir qu'on prend sans suivre la coutume ne tient pas.
+genre: adulte/homme
+duree: 9640ms (estimée)
+
+piste: film-001
+histoire: Les Lingani de Tangaré
+partie: Film d'animation, de 00:02.0 à 00:07.7
+personnage: Narrateur
+fichier: lingani-film-001-<langue>.m4a
+intonation: sobre (scénario)
+texte: Les Lingani de Tangaré. Une légende de pouvoir, en pays bissa.
+genre: adulte/libre
+duree: 5700ms (mesurée sur le film)
+
+piste: film-002
+histoire: Les Lingani de Tangaré
+partie: Film d'animation, de 00:09.0 à 00:16.6
+personnage: Narrateur
+fichier: lingani-film-002-<langue>.m4a
+intonation: posé (proposée)
+texte: À Garango, en pays bissa, la chefferie a sa règle. Elle est ancienne, et elle ne se discute pas.
+genre: adulte/libre
+duree: 7600ms (mesurée sur le film)
+
+piste: film-003
+histoire: Les Lingani de Tangaré
+partie: Film d'animation, de 00:28.0 à 00:34.4
+personnage: Narrateur
+fichier: lingani-film-003-<langue>.m4a
+intonation: grave (scénario)
+texte: Le chef est mort, et le pays est en deuil. Mais déjà, on regarde la couronne.
+genre: adulte/libre
+duree: 6400ms (mesurée sur le film)
+
+piste: film-004
+histoire: Les Lingani de Tangaré
+partie: Film d'animation, de 00:59.0 à 01:01.6
+personnage: Narrateur
+fichier: lingani-film-004-<langue>.m4a
+intonation: posé (proposée)
+texte: Un homme ne veut pas attendre.
+genre: adulte/libre
+duree: 2600ms (mesurée sur le film)
+
+piste: film-005
+histoire: Les Lingani de Tangaré
+partie: Film d'animation, de 01:08.0 à 01:10.7
+personnage: PRETENDANT
+fichier: lingani-film-005-<langue>.m4a
+intonation: arrogant (scénario)
+texte: Je n'ai besoin de personne.
+genre: adulte/homme
+duree: 2700ms (mesurée sur le film)
+
+piste: film-006
+histoire: Les Lingani de Tangaré
+partie: Film d'animation, de 01:12.0 à 01:18.6
+personnage: Narrateur
+fichier: lingani-film-006-<langue>.m4a
+intonation: posé (proposée)
+texte: Et il pose la couronne lui-même sur sa tête. Les anciens baissent les yeux, sans rien dire.
+genre: adulte/libre
+duree: 6600ms (mesurée sur le film)
+
+piste: film-007
+histoire: Les Lingani de Tangaré
+partie: Film d'animation, de 01:34.0 à 01:40.5
+personnage: Narrateur
+fichier: lingani-film-007-<langue>.m4a
+intonation: grave (scénario)
+texte: La couronne glisse et tombe. Il la ramasse. Elle retombe encore.
+genre: adulte/libre
+duree: 6500ms (mesurée sur le film)
+
+piste: film-008
+histoire: Les Lingani de Tangaré
+partie: Film d'animation, de 01:46.0 à 01:52.0
+personnage: Narrateur
+fichier: lingani-film-008-<langue>.m4a
+intonation: posé (proposée)
+texte: Un orage éclate, et le mil se couche dans les champs. Les gens se détournent de lui.
+genre: adulte/libre
+duree: 6000ms (mesurée sur le film)
+
+piste: film-009
+histoire: Les Lingani de Tangaré
+partie: Film d'animation, de 01:58.0 à 02:02.2
+personnage: Narrateur
+fichier: lingani-film-009-<langue>.m4a
+intonation: posé (proposée)
+texte: Sans les Lingani, disent-ils, la couronne ne tient pas.
+genre: adulte/libre
+duree: 4200ms (mesurée sur le film)
+
+piste: film-010
+histoire: Les Lingani de Tangaré
+partie: Film d'animation, de 02:10.0 à 02:15.7
+personnage: Narrateur
+fichier: lingani-film-010-<langue>.m4a
+intonation: posé (proposée)
+texte: Alors, les anciens vont chercher le futur chef, celui que le conseil a désigné.
+genre: adulte/libre
+duree: 5700ms (mesurée sur le film)
+
+piste: film-011
+histoire: Les Lingani de Tangaré
+partie: Film d'animation, de 02:22.0 à 02:25.1
+personnage: Narrateur
+fichier: lingani-film-011-<langue>.m4a
+intonation: posé (proposée)
+texte: Ils le conduisent sur la route de Tangaré.
+genre: adulte/libre
+duree: 3100ms (mesurée sur le film)
+
+piste: film-012
+histoire: Les Lingani de Tangaré
+partie: Film d'animation, de 02:40.0 à 02:44.4
+personnage: Narrateur
+fichier: lingani-film-012-<langue>.m4a
+intonation: posé (proposée)
+texte: Tangaré est le village des Lingani, les gardiens du pouvoir.
+genre: adulte/libre
+duree: 4400ms (mesurée sur le film)
+
+piste: film-013
+histoire: Les Lingani de Tangaré
+partie: Film d'animation, de 02:49.0 à 02:51.5
+personnage: GUIDE
+fichier: lingani-film-013-<langue>.m4a
+intonation: respectueux (scénario)
+texte: Voici celui qui vient.
+genre: âgé/libre
+duree: 2500ms (mesurée sur le film)
+
+piste: film-014
+histoire: Les Lingani de Tangaré
+partie: Film d'animation, de 02:53.0 à 02:58.2
+personnage: Narrateur
+fichier: lingani-film-014-<langue>.m4a
+intonation: chuchoté (scénario)
+texte: L'élu entre dans la case. Nul ne sait ce qui s'y passe.
+genre: adulte/libre
+duree: 5200ms (mesurée sur le film)
+
+piste: film-015
+histoire: Les Lingani de Tangaré
+partie: Film d'animation, de 03:03.0 à 03:07.2
+personnage: Narrateur
+fichier: lingani-film-015-<langue>.m4a
+intonation: mystérieux (scénario)
+texte: La préparation reste secrète, et nous n'en dirons pas plus.
+genre: adulte/libre
+duree: 4200ms (mesurée sur le film)
+
+piste: film-016
+histoire: Les Lingani de Tangaré
+partie: Film d'animation, de 03:23.0 à 03:29.1
+personnage: Narrateur
+fichier: lingani-film-016-<langue>.m4a
+intonation: joyeux (scénario)
+texte: Le jour du couronnement arrive. La couronne se pose sur sa tête, et elle tient.
+genre: adulte/libre
+duree: 6100ms (mesurée sur le film)
+
+piste: film-017
+histoire: Les Lingani de Tangaré
+partie: Film d'animation, de 03:35.0 à 03:38.5
+personnage: Narrateur
+fichier: lingani-film-017-<langue>.m4a
+intonation: posé (proposée)
+texte: Doucement, la pluie revient sur le pays.
+genre: adulte/libre
+duree: 3500ms (mesurée sur le film)
+
+piste: film-018
+histoire: Les Lingani de Tangaré
+partie: Film d'animation, de 04:02.0 à 04:07.6
+personnage: Narrateur
+fichier: lingani-film-018-<langue>.m4a
+intonation: doux (scénario)
+texte: Aujourd'hui encore, dit-on, nul ne règne à Garango sans passer par Tangaré.
+genre: adulte/libre
+duree: 5600ms (mesurée sur le film)

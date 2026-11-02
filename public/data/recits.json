@@ -193,7 +193,9 @@
     ],
     "patrimoine": [
       "tambour",
-      "etalon"
+      "etalon",
+      "bendre",
+      "masque-karanga"
     ],
     "film": null,
     "lecture": 1,
@@ -317,7 +319,8 @@
     ],
     "patrimoine": [
       "calebasse",
-      "tambour"
+      "tambour",
+      "dozo-fani"
     ],
     "film": "02-silures-dafra",
     "lecture": 2,
@@ -425,7 +428,8 @@
     ],
     "patrimoine": [
       "calebasse",
-      "chapeau-sapone"
+      "chapeau-sapone",
+      "chapeau-peul"
     ],
     "film": "27-bilissi",
     "lecture": 1,
@@ -474,7 +478,10 @@
     ],
     "patrimoine": [
       "case-ronde",
-      "canari"
+      "canari",
+      "soukala",
+      "bateba",
+      "tabouret-lobi"
     ],
     "film": "09-thila-bateba",
     "lecture": 1,
@@ -526,7 +533,10 @@
     ],
     "patrimoine": [
       "case-ronde",
-      "tambour"
+      "tambour",
+      "masque-molo",
+      "daba",
+      "soufflet"
     ],
     "film": "01-wuro-masque",
     "lecture": 2,
@@ -584,7 +594,9 @@
     ],
     "patrimoine": [
       "to",
-      "calebasse"
+      "calebasse",
+      "masque-bwa",
+      "mortier-pilon"
     ],
     "film": "03-wuro-pilon",
     "lecture": 2,
@@ -681,7 +693,8 @@
       }
     ],
     "patrimoine": [
-      "faso-dan-fani"
+      "faso-dan-fani",
+      "arc-fleches"
     ],
     "film": "05-tenin-1915",
     "lecture": 2,
@@ -733,7 +746,8 @@
       }
     ],
     "patrimoine": [
-      "faso-dan-fani"
+      "faso-dan-fani",
+      "arc-fleches"
     ],
     "film": "06-bona-1915",
     "lecture": 1,
@@ -872,7 +886,9 @@
       }
     ],
     "patrimoine": [
-      "calebasse"
+      "calebasse",
+      "tabouret-lobi",
+      "pirogue"
     ],
     "film": "10-dyoro",
     "lecture": 1,
@@ -921,7 +937,8 @@
       }
     ],
     "patrimoine": [
-      "case-ronde"
+      "case-ronde",
+      "mur-loropeni"
     ],
     "film": "11-loropeni",
     "lecture": 1,
@@ -1009,7 +1026,9 @@
     ],
     "patrimoine": [
       "case-ronde",
-      "dolo"
+      "dolo",
+      "dozo-fani",
+      "pirogue"
     ],
     "film": "13-zenuo",
     "lecture": 1,
@@ -1052,7 +1071,8 @@
     ],
     "patrimoine": [
       "balafon",
-      "dolo"
+      "dolo",
+      "gyil"
     ],
     "film": "14-gyil",
     "lecture": 1,
@@ -1098,7 +1118,8 @@
     ],
     "patrimoine": [
       "bogolan",
-      "soumbala"
+      "soumbala",
+      "mosquee-bobo"
     ],
     "film": "15-guimbi",
     "lecture": 1,
@@ -1277,7 +1298,8 @@
       }
     ],
     "patrimoine": [
-      "canari"
+      "canari",
+      "grenier"
     ],
     "film": "19-vur",
     "lecture": 1,
@@ -1326,7 +1348,8 @@
     ],
     "patrimoine": [
       "case-ronde",
-      "canari"
+      "canari",
+      "maison-tiebele"
     ],
     "film": "20-ancetre-ciel",
     "lecture": 1,
@@ -1542,7 +1565,8 @@
     ],
     "patrimoine": [
       "canari",
-      "soumbala"
+      "soumbala",
+      "adone"
     ],
     "film": "26-maitres-terre",
     "lecture": 1,
@@ -1585,7 +1609,8 @@
     ],
     "patrimoine": [
       "etalon",
-      "calebasse"
+      "calebasse",
+      "chapeau-peul"
     ],
     "film": "28-silamaka",
     "lecture": 1,
@@ -1631,7 +1656,8 @@
       }
     ],
     "patrimoine": [
-      "etalon"
+      "etalon",
+      "chapeau-peul"
     ],
     "film": "29-liptako",
     "lecture": 1,

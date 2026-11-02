@@ -2,7 +2,7 @@
  * La boîte de dialogue : effet machine à écrire, avancer au clic, à l'Espace ou à l'Entrée.
  * Une réplique peut être doublée en langue nationale : le texte français sert alors de sous-titre.
  */
-import { dessinerPortrait } from '../scenes/personnages.js';
+import { url } from '../data.js';
 
 const pause = (ms) => new Promise((r) => setTimeout(r, ms));
 const DELAI_LETTRE = 24;
@@ -15,20 +15,20 @@ export function creerDialogue(racine, { personnages, vitesse, surLettre, surParo
   const suite = box.querySelector('.j-suite');
   // Une seule annonce par réplique : le lecteur d'écran n'a pas à suivre la machine à écrire.
   const annonce = racine.querySelector('.j-annonce');
-  let tape = false, passer = null, avancerRes = null, voix = null;
+  let tape = false, passer = null, avancerRes = null, voix = null, generation = 0;
 
   const stopVoix = () => { if (voix) { voix.pause(); voix = null; } };
 
   async function dire(n, { tenir }) {
+    const moi = ++generation;
     box.classList.remove('cache');
     box.querySelector('.j-choix').innerHTML = '';
     suite.style.visibility = 'hidden';
-    const p = personnages[n.speaker];
+    const p = personnages()[n.speaker];
     nom.textContent = p.nom;
     nom.style.background = p.couleur;
     annonce.textContent = `${p.nom} : ${n.text}`;
-    const g = portrait.getContext('2d'); g.clearRect(0, 0, portrait.width, portrait.height);
-    dessinerPortrait(portrait, p.style);
+    portrait.src = url(`modeles/portraits/${p.style}.webp`);
     surParole(n.speaker);
     stopVoix();
     const src = urlAudio(n);
@@ -44,6 +44,8 @@ export function creerDialogue(racine, { personnages, vitesse, surLettre, surParo
         await pause(DELAI_LETTRE / v);
       }
     }
+    // Interrompue par un voyage ou un changement de langue : cette réplique ne reprendra jamais.
+    if (moi !== generation) return new Promise(() => {});
     texte.textContent = n.text;
     tape = false; passer = null;
     surParole(null);
@@ -58,6 +60,13 @@ export function creerDialogue(racine, { personnages, vitesse, surLettre, surParo
     avancer() { if (tape && passer) passer(); else if (avancerRes) avancerRes(); },
     cacher() { box.classList.add('cache'); },
     stop() { stopVoix(); },
+    interrompre() {
+      generation++;
+      if (passer) passer();
+      tape = false; passer = null; avancerRes = null;
+      stopVoix();
+      box.querySelector('.j-choix').innerHTML = '';
+    },
     get attend() { return tape || !!avancerRes; },
   };
 }

@@ -1,0 +1,777 @@
+{
+ "id": "liptako",
+ "titre": "L'émirat du Liptako",
+ "peuple": "Peul",
+ "langues_cibles": [
+  "fr",
+  "fuf"
+ ],
+ "pistes": [
+  {
+   "id": "titre",
+   "type": "titre",
+   "chemin": "titre",
+   "texte": "L'émirat du Liptako"
+  },
+  {
+   "id": "presentation",
+   "type": "presentation",
+   "chemin": "presentation",
+   "texte": "Début du XIXe siècle, à Dori. Un troupeau entre dans un champ, et la querelle devient une guerre. Tu écoutes les deux camps avant de voir naître l'émirat. Tes choix changent ton regard, pas les faits."
+  },
+  {
+   "id": "personnages.griot.nom",
+   "type": "personnage",
+   "chemin": "personnages.griot.nom",
+   "texte": "Le griot"
+  },
+  {
+   "id": "personnages.cultivateur.nom",
+   "type": "personnage",
+   "chemin": "personnages.cultivateur.nom",
+   "texte": "Le cultivateur"
+  },
+  {
+   "id": "personnages.berger.nom",
+   "type": "personnage",
+   "chemin": "personnages.berger.nom",
+   "texte": "Le berger"
+  },
+  {
+   "id": "personnages.chef.nom",
+   "type": "personnage",
+   "chemin": "personnages.chef.nom",
+   "texte": "Le chef gulmancé"
+  },
+  {
+   "id": "personnages.marabout.nom",
+   "type": "personnage",
+   "chemin": "personnages.marabout.nom",
+   "texte": "Le marabout"
+  },
+  {
+   "id": "personnages.emir.nom",
+   "type": "personnage",
+   "chemin": "personnages.emir.nom",
+   "texte": "L'émir"
+  },
+  {
+   "id": "fins.canon",
+   "type": "fin",
+   "chemin": "fins.canon",
+   "texte": "Mémoire : Dori, capitale du Liptako"
+  },
+  {
+   "id": "fins.relire",
+   "type": "fin",
+   "chemin": "fins.relire",
+   "texte": "Mémoire à reprendre : retourne au marché de Dori"
+  },
+  {
+   "id": "n1",
+   "type": "replique",
+   "chemin": "nodes.n1.text",
+   "noeud": "n1",
+   "partie": "Deux mondes à Dori (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Début du dix-neuvième siècle, dans la région de Dori, au Sahel. Ici vivent deux mondes : les éleveurs peuls avec leurs troupeaux, et les cultivateurs gulmancé avec leurs champs.",
+   "genre": "adulte/homme",
+   "duree_ms": 12220,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n2",
+   "type": "replique",
+   "chemin": "nodes.n2.text",
+   "noeud": "n2",
+   "partie": "Le troupeau dans le champ (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "La terre doit nourrir les uns et les autres. Mais un jour, un troupeau entre dans un champ.",
+   "genre": "adulte/homme",
+   "duree_ms": 7590,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n3",
+   "type": "replique",
+   "chemin": "nodes.n3.text",
+   "noeud": "n3",
+   "partie": "Le troupeau dans le champ (jeu)",
+   "personnage": "Le cultivateur",
+   "intonation": "vif",
+   "intonation_statut": "proposée",
+   "texte": "Ton troupeau a mangé mon mil !",
+   "genre": "adulte/homme",
+   "duree_ms": 2960,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n4",
+   "type": "replique",
+   "chemin": "nodes.n4.text",
+   "noeud": "n4",
+   "partie": "Le troupeau dans le champ (jeu)",
+   "personnage": "Le berger",
+   "intonation": "vif",
+   "intonation_statut": "proposée",
+   "texte": "Tes champs couvrent nos pistes !",
+   "genre": "jeune/homme",
+   "duree_ms": 2580,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n5",
+   "type": "replique",
+   "chemin": "nodes.n5.text",
+   "noeud": "n5",
+   "partie": "Le troupeau dans le champ (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Qui écouter d'abord ? L'un et l'autre ont leurs raisons. Les faits, eux, ne changeront pas.",
+   "genre": "adulte/homme",
+   "duree_ms": 7280,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n5.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.n5.choices.0.label",
+   "texte": "Le cultivateur : la récolte d'une année"
+  },
+  {
+   "id": "nodes.n5.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.n5.choices.0.tag",
+   "texte": "côté du champ"
+  },
+  {
+   "id": "nodes.n5.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.n5.choices.1.label",
+   "texte": "Le berger : les pistes de ses pères"
+  },
+  {
+   "id": "nodes.n5.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.n5.choices.1.tag",
+   "texte": "côté du troupeau"
+  },
+  {
+   "id": "cult",
+   "type": "replique",
+   "chemin": "nodes.cult.text",
+   "noeud": "cult",
+   "partie": "Le troupeau dans le champ (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Le mil, c'est le grenier de l'année. Sans lui, sa famille aura faim. Et le berger ?",
+   "genre": "adulte/homme",
+   "duree_ms": 7660,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n6",
+   "type": "replique",
+   "chemin": "nodes.n6.text",
+   "noeud": "n6",
+   "partie": "Le troupeau dans le champ (jeu)",
+   "personnage": "Le berger",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Mes bêtes passaient ici avant ton champ. Où veux-tu qu'elles aillent ?",
+   "genre": "jeune/homme",
+   "duree_ms": 5160,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "berg",
+   "type": "replique",
+   "chemin": "nodes.berg.text",
+   "noeud": "berg",
+   "partie": "Le troupeau dans le champ (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Une piste coupée, c'est un troupeau qui meurt de soif. Et le cultivateur ?",
+   "genre": "adulte/homme",
+   "duree_ms": 6070,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n7",
+   "type": "replique",
+   "chemin": "nodes.n7.text",
+   "noeud": "n7",
+   "partie": "Le troupeau dans le champ (jeu)",
+   "personnage": "Le cultivateur",
+   "intonation": "vif",
+   "intonation_statut": "proposée",
+   "texte": "J'ai travaillé cette terre toute la saison. Sors de là !",
+   "genre": "adulte/homme",
+   "duree_ms": 4780,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "suite",
+   "type": "replique",
+   "chemin": "nodes.suite.text",
+   "noeud": "suite",
+   "partie": "La bête saisie (jeu)",
+   "personnage": "Le chef gulmancé",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Cette bête est à moi, maintenant.",
+   "genre": "adulte/homme",
+   "duree_ms": 2730,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n8",
+   "type": "replique",
+   "chemin": "nodes.n8.text",
+   "noeud": "n8",
+   "partie": "La bête saisie (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Le chef gulmancé saisit une bête, et la querelle s'envenime. Un chef peul rassemble ses cavaliers.",
+   "genre": "adulte/homme",
+   "duree_ms": 6830,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n9",
+   "type": "replique",
+   "chemin": "nodes.n9.text",
+   "noeud": "n9",
+   "partie": "La bénédiction (jeu)",
+   "personnage": "Le marabout",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Que Dieu guide vos pas et vos cœurs.",
+   "genre": "âgé/homme",
+   "duree_ms": 3340,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n10",
+   "type": "replique",
+   "chemin": "nodes.n10.text",
+   "noeud": "n10",
+   "partie": "La bénédiction (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Et c'est la guerre. Les cavaliers peuls affrontent les Gulmancé.",
+   "genre": "adulte/homme",
+   "duree_ms": 4400,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n11.consigne",
+   "type": "jeu",
+   "chemin": "nodes.n11.consigne",
+   "texte": "Les cavaliers partent ! Tape vite sur ESPACE ou sur l'écran pour suivre la charge."
+  },
+  {
+   "id": "nodes.n11.gagne",
+   "type": "jeu",
+   "chemin": "nodes.n11.gagne",
+   "texte": "La charge est lancée."
+  },
+  {
+   "id": "nodes.n11.perdu",
+   "type": "jeu",
+   "chemin": "nodes.n11.perdu",
+   "texte": "Tu restes derrière, et tu vois de loin."
+  },
+  {
+   "id": "nodes.n11.tags.win",
+   "type": "parcours",
+   "chemin": "nodes.n11.tags.win",
+   "texte": "course gagnée"
+  },
+  {
+   "id": "nodes.n11.tags.lose",
+   "type": "parcours",
+   "chemin": "nodes.n11.tags.lose",
+   "texte": "course perdue"
+  },
+  {
+   "id": "n12",
+   "type": "replique",
+   "chemin": "nodes.n12.text",
+   "noeud": "n12",
+   "partie": "La bataille (jeu)",
+   "personnage": "Le chef gulmancé",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "C'est fini. J'arrête.",
+   "genre": "adulte/homme",
+   "duree_ms": 1740,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n13",
+   "type": "replique",
+   "chemin": "nodes.n13.text",
+   "noeud": "n13",
+   "partie": "La bataille (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Le chef gulmancé se rend. Un État naît.",
+   "genre": "adulte/homme",
+   "duree_ms": 3640,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n14",
+   "type": "replique",
+   "chemin": "nodes.n14.text",
+   "noeud": "n14",
+   "partie": "L'émirat du Liptako (jeu)",
+   "personnage": "L'émir",
+   "intonation": "joyeux",
+   "intonation_statut": "proposée",
+   "texte": "Ici, désormais, siège l'émirat du Liptako.",
+   "genre": "âgé/homme",
+   "duree_ms": 2880,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n15.question",
+   "type": "jeu",
+   "chemin": "nodes.n15.question",
+   "texte": "Quelle ville devient la capitale de l'émirat ?"
+  },
+  {
+   "id": "nodes.n15.gagne",
+   "type": "jeu",
+   "chemin": "nodes.n15.gagne",
+   "texte": "Oui, Dori. Autour de sa mosquée, le marché s'anime."
+  },
+  {
+   "id": "nodes.n15.perdu",
+   "type": "jeu",
+   "chemin": "nodes.n15.perdu",
+   "texte": "C'est Dori. Autour de sa mosquée, le marché s'anime."
+  },
+  {
+   "id": "nodes.n15.reponses.0.label",
+   "type": "jeu",
+   "chemin": "nodes.n15.reponses.0.label",
+   "texte": "Dori"
+  },
+  {
+   "id": "nodes.n15.reponses.1.label",
+   "type": "jeu",
+   "chemin": "nodes.n15.reponses.1.label",
+   "texte": "Fada N'Gourma"
+  },
+  {
+   "id": "nodes.n15.reponses.2.label",
+   "type": "jeu",
+   "chemin": "nodes.n15.reponses.2.label",
+   "texte": "Sya"
+  },
+  {
+   "id": "nodes.n15.tags.win",
+   "type": "parcours",
+   "chemin": "nodes.n15.tags.win",
+   "texte": "bonne réponse"
+  },
+  {
+   "id": "nodes.n15.tags.lose",
+   "type": "parcours",
+   "chemin": "nodes.n15.tags.lose",
+   "texte": "réponse manquée"
+  },
+  {
+   "id": "relire",
+   "type": "replique",
+   "chemin": "nodes.relire.text",
+   "noeud": "relire",
+   "partie": "L'émirat du Liptako (jeu)",
+   "personnage": "Le griot",
+   "intonation": "joyeux",
+   "intonation_statut": "proposée",
+   "texte": "Reviens quand tu veux au marché de Dori : son histoire se raconte encore.",
+   "genre": "adulte/homme",
+   "duree_ms": 5770,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "bien",
+   "type": "replique",
+   "chemin": "nodes.bien.text",
+   "noeud": "bien",
+   "partie": "L'émirat du Liptako (jeu)",
+   "personnage": "Le griot",
+   "intonation": "joyeux",
+   "intonation_statut": "proposée",
+   "texte": "Aujourd'hui, Dori reste l'une des grandes villes du Sahel burkinabè. Son histoire se raconte encore.",
+   "genre": "adulte/homme",
+   "duree_ms": 6450,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "film-001",
+   "type": "film",
+   "partie": "Film d'animation, de 00:02.0 à 00:08.0",
+   "horodatage": {
+    "debut_ms": 2000,
+    "fin_ms": 8000
+   },
+   "personnage": "Narrateur",
+   "intonation": "sobre",
+   "intonation_statut": "scénario",
+   "texte": "L'émirat du Liptako. Un récit historique, simplifié pour l'image.",
+   "genre": "adulte/libre",
+   "duree_ms": 6000,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-002",
+   "type": "film",
+   "partie": "Film d'animation, de 00:09.0 à 00:13.8",
+   "horodatage": {
+    "debut_ms": 9000,
+    "fin_ms": 13800
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Début du dix-neuvième siècle, dans la région de Dori, au Sahel.",
+   "genre": "adulte/libre",
+   "duree_ms": 4800,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-003",
+   "type": "film",
+   "partie": "Film d'animation, de 00:28.0 à 00:34.4",
+   "horodatage": {
+    "debut_ms": 28000,
+    "fin_ms": 34400
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Ici vivent deux mondes : les éleveurs peuls avec leurs troupeaux, et les cultivateurs gulmancé avec leurs champs.",
+   "genre": "adulte/libre",
+   "duree_ms": 6400,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-004",
+   "type": "film",
+   "partie": "Film d'animation, de 00:42.0 à 00:45.2",
+   "horodatage": {
+    "debut_ms": 42000,
+    "fin_ms": 45200
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "La terre doit nourrir les uns et les autres.",
+   "genre": "adulte/libre",
+   "duree_ms": 3200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-005",
+   "type": "film",
+   "partie": "Film d'animation, de 01:02.0 à 01:05.4",
+   "horodatage": {
+    "debut_ms": 62000,
+    "fin_ms": 65400
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Mais un jour, un troupeau entre dans un champ.",
+   "genre": "adulte/libre",
+   "duree_ms": 3400,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-006",
+   "type": "film",
+   "partie": "Film d'animation, de 01:08.5 à 01:10.8",
+   "horodatage": {
+    "debut_ms": 68500,
+    "fin_ms": 70800
+   },
+   "personnage": "CULTIVATEUR",
+   "intonation": "colère",
+   "intonation_statut": "scénario",
+   "texte": "Ton troupeau a mangé mon mil !",
+   "genre": "adulte/homme",
+   "duree_ms": 2300,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-007",
+   "type": "film",
+   "partie": "Film d'animation, de 01:11.5 à 01:14.0",
+   "horodatage": {
+    "debut_ms": 71500,
+    "fin_ms": 74000
+   },
+   "personnage": "BERGER",
+   "intonation": "colère",
+   "intonation_statut": "scénario",
+   "texte": "Tes champs couvrent nos pistes !",
+   "genre": "adulte/homme",
+   "duree_ms": 2500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-008",
+   "type": "film",
+   "partie": "Film d'animation, de 01:14.0 à 01:16.1",
+   "horodatage": {
+    "debut_ms": 74000,
+    "fin_ms": 76100
+   },
+   "personnage": "CULTIVATEUR",
+   "intonation": "colère",
+   "intonation_statut": "scénario",
+   "texte": "Sors de là !",
+   "genre": "adulte/homme",
+   "duree_ms": 2100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-009",
+   "type": "film",
+   "partie": "Film d'animation, de 01:17.5 à 01:20.5",
+   "horodatage": {
+    "debut_ms": 77500,
+    "fin_ms": 80500
+   },
+   "personnage": "CHEFG",
+   "intonation": "autoritaire",
+   "intonation_statut": "scénario",
+   "texte": "Cette bête est à moi, maintenant.",
+   "genre": "âgé/libre",
+   "duree_ms": 3000,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-010",
+   "type": "film",
+   "partie": "Film d'animation, de 01:23.0 à 01:27.3",
+   "horodatage": {
+    "debut_ms": 83000,
+    "fin_ms": 87300
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Le chef gulmancé saisit une bête, et la querelle s'envenime.",
+   "genre": "adulte/libre",
+   "duree_ms": 4300,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-011",
+   "type": "film",
+   "partie": "Film d'animation, de 01:39.0 à 01:41.5",
+   "horodatage": {
+    "debut_ms": 99000,
+    "fin_ms": 101500
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Un chef peul rassemble ses cavaliers.",
+   "genre": "adulte/libre",
+   "duree_ms": 2500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-012",
+   "type": "film",
+   "partie": "Film d'animation, de 01:41.5 à 01:44.2",
+   "horodatage": {
+    "debut_ms": 101500,
+    "fin_ms": 104200
+   },
+   "personnage": "BERGER",
+   "intonation": "révolté",
+   "intonation_statut": "scénario",
+   "texte": "On ne peut plus accepter ça.",
+   "genre": "adulte/homme",
+   "duree_ms": 2700,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-013",
+   "type": "film",
+   "partie": "Film d'animation, de 01:46.0 à 01:48.5",
+   "horodatage": {
+    "debut_ms": 106000,
+    "fin_ms": 108500
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "On prie avant de partir.",
+   "genre": "adulte/libre",
+   "duree_ms": 2500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-014",
+   "type": "film",
+   "partie": "Film d'animation, de 01:52.5 à 01:55.6",
+   "horodatage": {
+    "debut_ms": 112500,
+    "fin_ms": 115600
+   },
+   "personnage": "MARABOUT",
+   "intonation": "solennel",
+   "intonation_statut": "scénario",
+   "texte": "Que Dieu guide vos pas et vos cœurs.",
+   "genre": "âgé/libre",
+   "duree_ms": 3100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-015",
+   "type": "film",
+   "partie": "Film d'animation, de 02:13.0 à 02:18.1",
+   "horodatage": {
+    "debut_ms": 133000,
+    "fin_ms": 138100
+   },
+   "personnage": "Narrateur",
+   "intonation": "tendu",
+   "intonation_statut": "scénario",
+   "texte": "Et c'est la guerre. Les cavaliers peuls affrontent les Gulmancé.",
+   "genre": "adulte/libre",
+   "duree_ms": 5100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-016",
+   "type": "film",
+   "partie": "Film d'animation, de 02:28.0 à 02:31.4",
+   "horodatage": {
+    "debut_ms": 148000,
+    "fin_ms": 151400
+   },
+   "personnage": "CHEFG",
+   "intonation": "las",
+   "intonation_statut": "scénario",
+   "texte": "C'est fini. J'arrête.",
+   "genre": "âgé/libre",
+   "duree_ms": 3400,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-017",
+   "type": "film",
+   "partie": "Film d'animation, de 02:32.0 à 02:34.6",
+   "horodatage": {
+    "debut_ms": 152000,
+    "fin_ms": 154600
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Le chef gulmancé se rend.",
+   "genre": "adulte/libre",
+   "duree_ms": 2600,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-018",
+   "type": "film",
+   "partie": "Film d'animation, de 02:53.0 à 02:55.9",
+   "horodatage": {
+    "debut_ms": 173000,
+    "fin_ms": 175900
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Un État naît : l'émirat du Liptako.",
+   "genre": "adulte/libre",
+   "duree_ms": 2900,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-019",
+   "type": "film",
+   "partie": "Film d'animation, de 02:56.0 à 03:00.2",
+   "horodatage": {
+    "debut_ms": 176000,
+    "fin_ms": 180200
+   },
+   "personnage": "EMIR",
+   "intonation": "solennel",
+   "intonation_statut": "scénario",
+   "texte": "Ici, désormais, siège l'émirat du Liptako.",
+   "genre": "adulte/homme",
+   "duree_ms": 4200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-020",
+   "type": "film",
+   "partie": "Film d'animation, de 03:03.0 à 03:06.2",
+   "horodatage": {
+    "debut_ms": 183000,
+    "fin_ms": 186200
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Un nouveau pouvoir s'installe sur la région.",
+   "genre": "adulte/libre",
+   "duree_ms": 3200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-021",
+   "type": "film",
+   "partie": "Film d'animation, de 03:29.0 à 03:36.4",
+   "horodatage": {
+    "debut_ms": 209000,
+    "fin_ms": 216400
+   },
+   "personnage": "Narrateur",
+   "intonation": "joyeux",
+   "intonation_statut": "scénario",
+   "texte": "Dori devient la capitale. Autour de sa mosquée, le marché s'anime, et le bétail arrive de loin.",
+   "genre": "adulte/libre",
+   "duree_ms": 7400,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-022",
+   "type": "film",
+   "partie": "Film d'animation, de 04:05.0 à 04:12.6",
+   "horodatage": {
+    "debut_ms": 245000,
+    "fin_ms": 252600
+   },
+   "personnage": "Narrateur",
+   "intonation": "doux",
+   "intonation_statut": "scénario",
+   "texte": "Aujourd'hui, Dori reste l'une des grandes villes du Sahel burkinabè. Son histoire se raconte encore.",
+   "genre": "adulte/libre",
+   "duree_ms": 7600,
+   "duree_statut": "mesurée sur le film"
+  }
+ ]
+}

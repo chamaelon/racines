@@ -1,0 +1,579 @@
+{
+ "id": "lievre-hyene",
+ "titre": "Le lièvre et l'hyène",
+ "peuple": "Mossi",
+ "langues_cibles": [
+  "fr",
+  "mos"
+ ],
+ "pistes": [
+  {
+   "id": "titre",
+   "type": "titre",
+   "chemin": "titre",
+   "texte": "Le lièvre et l'hyène"
+  },
+  {
+   "id": "presentation",
+   "type": "presentation",
+   "chemin": "presentation",
+   "texte": "Un conte de veillée, à jouer dans la peau du lièvre. L'hyène veut manger sans travailler : à toi de trouver comment partager la récolte. Réponds bien aux devinettes !"
+  },
+  {
+   "id": "personnages.griot.nom",
+   "type": "personnage",
+   "chemin": "personnages.griot.nom",
+   "texte": "Le griot"
+  },
+  {
+   "id": "personnages.lievre.nom",
+   "type": "personnage",
+   "chemin": "personnages.lievre.nom",
+   "texte": "Le lièvre"
+  },
+  {
+   "id": "personnages.hyene.nom",
+   "type": "personnage",
+   "chemin": "personnages.hyene.nom",
+   "texte": "L'hyène"
+  },
+  {
+   "id": "personnages.marchande.nom",
+   "type": "personnage",
+   "chemin": "personnages.marchande.nom",
+   "texte": "La marchande"
+  },
+  {
+   "id": "fins.malice",
+   "type": "fin",
+   "chemin": "fins.malice",
+   "texte": "Le lièvre malin : on raconte ses tours à la veillée"
+  },
+  {
+   "id": "fins.partage",
+   "type": "fin",
+   "chemin": "fins.partage",
+   "texte": "Le champ partagé : personne n'a faim cette année-là"
+  },
+  {
+   "id": "fins.fuite",
+   "type": "fin",
+   "chemin": "fins.fuite",
+   "texte": "La fuite : le lièvre dort d'un œil"
+  },
+  {
+   "id": "intro",
+   "type": "replique",
+   "chemin": "nodes.intro.text",
+   "noeud": "intro",
+   "partie": "La brousse (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Écoutez bien, vous tous. Ce conte vient du temps où les bêtes parlaient encore, et où les greniers sonnaient creux.",
+   "genre": "adulte/homme",
+   "duree_ms": 8500,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "hyene1",
+   "type": "replique",
+   "chemin": "nodes.hyene1.text",
+   "noeud": "hyene1",
+   "partie": "La brousse (jeu)",
+   "personnage": "L'hyène",
+   "intonation": "moqueur",
+   "intonation_statut": "proposée",
+   "texte": "Te voilà, petit lièvre ! Trouve-moi à manger, ou c'est toi que je mange.",
+   "genre": "voix de conte/libre",
+   "duree_ms": 6220,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "choix1",
+   "type": "replique",
+   "chemin": "nodes.choix1.text",
+   "noeud": "choix1",
+   "partie": "La brousse (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Le lièvre est bien petit, et l'hyène a de grandes dents. Que répond-il ?",
+   "genre": "adulte/homme",
+   "duree_ms": 6070,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.choix1.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.choix1.choices.0.label",
+   "texte": "« Cultivons un champ ensemble, nous partagerons. »"
+  },
+  {
+   "id": "nodes.choix1.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.choix1.choices.0.tag",
+   "texte": "champ commun"
+  },
+  {
+   "id": "nodes.choix1.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.choix1.choices.1.label",
+   "texte": "« Je vais t'apporter mes dernières provisions. »"
+  },
+  {
+   "id": "nodes.choix1.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.choix1.choices.1.tag",
+   "texte": "provisions données"
+  },
+  {
+   "id": "offrande",
+   "type": "replique",
+   "chemin": "nodes.offrande.text",
+   "noeud": "offrande",
+   "partie": "La brousse (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Le lièvre vide son terrier. L'hyène engloutit tout et revient dès le lendemain, plus affamée encore. Il faut trouver autre chose.",
+   "genre": "adulte/homme",
+   "duree_ms": 9030,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "accord",
+   "type": "replique",
+   "chemin": "nodes.accord.text",
+   "noeud": "accord",
+   "partie": "La brousse (jeu)",
+   "personnage": "Le lièvre",
+   "intonation": "amusé",
+   "intonation_statut": "proposée",
+   "texte": "Ensemble, faisons un champ. Je travaille, tu surveilles. À toi ce qui pousse au-dessus de la terre, à moi ce qui pousse au-dessous.",
+   "genre": "voix de conte/libre",
+   "duree_ms": 10090,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "hyene2",
+   "type": "replique",
+   "chemin": "nodes.hyene2.text",
+   "noeud": "hyene2",
+   "partie": "La brousse (jeu)",
+   "personnage": "L'hyène",
+   "intonation": "moqueur",
+   "intonation_statut": "proposée",
+   "texte": "Le dessus, c'est là que sont les beaux épis ! J'accepte, et je vais dormir à l'ombre.",
+   "genre": "voix de conte/libre",
+   "duree_ms": 7360,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "choix2",
+   "type": "replique",
+   "chemin": "nodes.choix2.text",
+   "noeud": "choix2",
+   "partie": "Le champ partagé (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "La pluie arrive, c'est le moment de semer. Que sème le lièvre ?",
+   "genre": "adulte/homme",
+   "duree_ms": 5690,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.choix2.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.choix2.choices.0.label",
+   "texte": "Des arachides, qui mûrissent sous la terre"
+  },
+  {
+   "id": "nodes.choix2.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.choix2.choices.0.tag",
+   "texte": "arachides"
+  },
+  {
+   "id": "nodes.choix2.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.choix2.choices.1.label",
+   "texte": "Du mil, qui mûrit au-dessus de la terre"
+  },
+  {
+   "id": "nodes.choix2.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.choix2.choices.1.tag",
+   "texte": "mil"
+  },
+  {
+   "id": "arachide",
+   "type": "replique",
+   "chemin": "nodes.arachide.text",
+   "noeud": "arachide",
+   "partie": "Le champ partagé (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "À la récolte, l'hyène reçoit des brassées de feuilles. Le lièvre, lui, emplit ses paniers de graines.",
+   "genre": "adulte/homme",
+   "duree_ms": 7510,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "mil1",
+   "type": "replique",
+   "chemin": "nodes.mil1.text",
+   "noeud": "mil1",
+   "partie": "Le champ partagé (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "À la récolte, l'hyène emporte tous les épis. Le lièvre n'a que des racines à mâcher : il se promet d'être plus malin l'an prochain.",
+   "genre": "adulte/homme",
+   "duree_ms": 10400,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "marche1",
+   "type": "replique",
+   "chemin": "nodes.marche1.text",
+   "noeud": "marche1",
+   "partie": "Le marché (jeu)",
+   "personnage": "Le griot",
+   "intonation": "joyeux",
+   "intonation_statut": "proposée",
+   "texte": "Au marché, on vend, on goûte, on se moque de tout le monde. Regarde ce qu'il y a sur les étals.",
+   "genre": "adulte/homme",
+   "duree_ms": 9030,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "marchande1",
+   "type": "replique",
+   "chemin": "nodes.marchande1.text",
+   "noeud": "marchande1",
+   "partie": "Le marché (jeu)",
+   "personnage": "La marchande",
+   "intonation": "joyeux",
+   "intonation_statut": "proposée",
+   "texte": "Lièvre, on dit que l'hyène te cherche partout et qu'elle n'est pas de bonne humeur.",
+   "genre": "adulte/femme",
+   "duree_ms": 6150,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "hyene3",
+   "type": "replique",
+   "chemin": "nodes.hyene3.text",
+   "noeud": "hyene3",
+   "partie": "Le marché (jeu)",
+   "personnage": "L'hyène",
+   "intonation": "moqueur",
+   "intonation_statut": "proposée",
+   "texte": "Cette année, je prends le dessous ! Et ne t'avise pas de me tromper une seconde fois.",
+   "genre": "voix de conte/libre",
+   "duree_ms": 7210,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "choix3",
+   "type": "replique",
+   "chemin": "nodes.choix3.text",
+   "noeud": "choix3",
+   "partie": "Le marché (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Une nouvelle saison commence. Que sème le lièvre maintenant que l'hyène a choisi le dessous ?",
+   "genre": "adulte/homme",
+   "duree_ms": 6680,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.choix3.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.choix3.choices.0.label",
+   "texte": "Du mil, et elle n'aura que les racines"
+  },
+  {
+   "id": "nodes.choix3.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.choix3.choices.0.tag",
+   "texte": "mil, deuxième année"
+  },
+  {
+   "id": "nodes.choix3.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.choix3.choices.1.label",
+   "texte": "Des arachides, pour lui laisser une chance"
+  },
+  {
+   "id": "nodes.choix3.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.choix3.choices.1.tag",
+   "texte": "arachides, deuxième année"
+  },
+  {
+   "id": "mil2",
+   "type": "replique",
+   "chemin": "nodes.mil2.text",
+   "noeud": "mil2",
+   "partie": "Le marché (jeu)",
+   "personnage": "Le griot",
+   "intonation": "joyeux",
+   "intonation_statut": "proposée",
+   "texte": "L'hyène tire sur les tiges et ne trouve que des racines. Le lièvre, lui, bat ses épis en chantant.",
+   "genre": "adulte/homme",
+   "duree_ms": 8120,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "arachide2",
+   "type": "replique",
+   "chemin": "nodes.arachide2.text",
+   "noeud": "arachide2",
+   "partie": "Le marché (jeu)",
+   "personnage": "Le griot",
+   "intonation": "joyeux",
+   "intonation_statut": "proposée",
+   "texte": "L'hyène déterre les arachides et mange enfin à sa faim. Pour la première fois, elle regarde le lièvre sans grogner.",
+   "genre": "adulte/homme",
+   "duree_ms": 8350,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nuit1",
+   "type": "replique",
+   "chemin": "nodes.nuit1.text",
+   "noeud": "nuit1",
+   "partie": "Le chemin de nuit (jeu)",
+   "personnage": "Le griot",
+   "intonation": "grave",
+   "intonation_statut": "proposée",
+   "texte": "Un soir, sur le chemin du retour, deux yeux brillent dans le noir.",
+   "genre": "adulte/homme",
+   "duree_ms": 5540,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "hyene4",
+   "type": "replique",
+   "chemin": "nodes.hyene4.text",
+   "noeud": "hyene4",
+   "partie": "Le chemin de nuit (jeu)",
+   "personnage": "L'hyène",
+   "intonation": "moqueur",
+   "intonation_statut": "proposée",
+   "texte": "Tu es bien malin, paraît-il. Réponds à ma devinette, ou je te croque.",
+   "genre": "voix de conte/libre",
+   "duree_ms": 5840,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.devinette.question",
+   "type": "jeu",
+   "chemin": "nodes.devinette.question",
+   "texte": "J'ai une case sans porte ni fenêtre, et pourtant quelqu'un en sortira. Qui suis-je ?"
+  },
+  {
+   "id": "nodes.devinette.gagne",
+   "type": "jeu",
+   "chemin": "nodes.devinette.gagne",
+   "texte": "Bien répondu : l'œuf n'a ni porte ni fenêtre !"
+  },
+  {
+   "id": "nodes.devinette.perdu",
+   "type": "jeu",
+   "chemin": "nodes.devinette.perdu",
+   "texte": "Ce n'était pas ça : la réponse était l'œuf."
+  },
+  {
+   "id": "nodes.devinette.reponses.0.label",
+   "type": "jeu",
+   "chemin": "nodes.devinette.reponses.0.label",
+   "texte": "L'œuf"
+  },
+  {
+   "id": "nodes.devinette.reponses.1.label",
+   "type": "jeu",
+   "chemin": "nodes.devinette.reponses.1.label",
+   "texte": "Le grenier"
+  },
+  {
+   "id": "nodes.devinette.reponses.2.label",
+   "type": "jeu",
+   "chemin": "nodes.devinette.reponses.2.label",
+   "texte": "Le terrier"
+  },
+  {
+   "id": "nodes.devinette.tags.win",
+   "type": "parcours",
+   "chemin": "nodes.devinette.tags.win",
+   "texte": "devinette réussie"
+  },
+  {
+   "id": "nodes.devinette.tags.lose",
+   "type": "parcours",
+   "chemin": "nodes.devinette.tags.lose",
+   "texte": "devinette manquée"
+  },
+  {
+   "id": "malice",
+   "type": "replique",
+   "chemin": "nodes.malice.text",
+   "noeud": "malice",
+   "partie": "Le retour au village (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "L'hyène, vexée, s'en va en ricanant. Le lièvre rentre au village avec ses paniers, et on raconte ses tours à chaque veillée.",
+   "genre": "adulte/homme",
+   "duree_ms": 9410,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "malice2",
+   "type": "replique",
+   "chemin": "nodes.malice2.text",
+   "noeud": "malice2",
+   "partie": "Le retour au village (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "La force prend, la malice partage à sa façon : qui ne travaille pas ne choisit pas sa récolte.",
+   "genre": "adulte/homme",
+   "duree_ms": 7820,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "partage",
+   "type": "replique",
+   "chemin": "nodes.partage.text",
+   "noeud": "partage",
+   "partie": "Le chemin de nuit (jeu)",
+   "personnage": "Le lièvre",
+   "intonation": "amusé",
+   "intonation_statut": "proposée",
+   "texte": "Hyène, ta force fait peur, mais elle ne fait pas pousser le mil. Prends une daba : celui qui travaille mange.",
+   "genre": "voix de conte/libre",
+   "duree_ms": 9030,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "partage2",
+   "type": "replique",
+   "chemin": "nodes.partage2.text",
+   "noeud": "partage2",
+   "partie": "Le chemin de nuit (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "On dit qu'ils cultivèrent côte à côte une saison entière. Une saison seulement, car une hyène reste une hyène, mais personne n'eut faim cette année-là.",
+   "genre": "adulte/homme",
+   "duree_ms": 10400,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "fuite",
+   "type": "replique",
+   "chemin": "nodes.fuite.text",
+   "noeud": "fuite",
+   "partie": "Le chemin de nuit (jeu)",
+   "personnage": "Le griot",
+   "intonation": "grave",
+   "intonation_statut": "proposée",
+   "texte": "Le lièvre n'attend pas la suite. Il bondit entre les pattes de l'hyène et disparaît dans le noir.",
+   "genre": "adulte/homme",
+   "duree_ms": 7440,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "fuite2",
+   "type": "replique",
+   "chemin": "nodes.fuite2.text",
+   "noeud": "fuite2",
+   "partie": "Le chemin de nuit (jeu)",
+   "personnage": "Le griot",
+   "intonation": "grave",
+   "intonation_statut": "proposée",
+   "texte": "Il court encore, dit-on. Et depuis ce temps, le lièvre dort d'un œil.",
+   "genre": "adulte/homme",
+   "duree_ms": 5840,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "tamtam1",
+   "type": "replique",
+   "chemin": "nodes.tamtam1.text",
+   "noeud": "tamtam1",
+   "partie": "Le marché (jeu)",
+   "personnage": "Le griot",
+   "intonation": "joyeux",
+   "intonation_statut": "proposée",
+   "texte": "Les tam-tams du marché s'emballent. Si le lièvre suit le rythme, la foule dansera autour de lui, et l'hyène ne le trouvera pas tout de suite.",
+   "genre": "adulte/homme",
+   "duree_ms": 10780,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.tamtam.consigne",
+   "type": "jeu",
+   "chemin": "nodes.tamtam.consigne",
+   "texte": "Écoute le tam-tam, puis reproduis le rythme."
+  },
+  {
+   "id": "nodes.tamtam.gagne",
+   "type": "jeu",
+   "chemin": "nodes.tamtam.gagne",
+   "texte": "La foule danse, le lièvre disparaît au milieu d'elle !"
+  },
+  {
+   "id": "nodes.tamtam.perdu",
+   "type": "jeu",
+   "chemin": "nodes.tamtam.perdu",
+   "texte": "Le rythme s'est perdu, et la foule s'écarte…"
+  },
+  {
+   "id": "nodes.tamtam.tags.win",
+   "type": "parcours",
+   "chemin": "nodes.tamtam.tags.win",
+   "texte": "rythme tenu"
+  },
+  {
+   "id": "nodes.tamtam.tags.lose",
+   "type": "parcours",
+   "chemin": "nodes.tamtam.tags.lose",
+   "texte": "rythme perdu"
+  },
+  {
+   "id": "tamtamOK",
+   "type": "replique",
+   "chemin": "nodes.tamtamOK.text",
+   "noeud": "tamtamOK",
+   "partie": "Le marché (jeu)",
+   "personnage": "Le griot",
+   "intonation": "joyeux",
+   "intonation_statut": "proposée",
+   "texte": "Le lièvre gagne un peu de temps. Mais l'hyène a du flair, et elle finit par le retrouver derrière un étal.",
+   "genre": "adulte/homme",
+   "duree_ms": 8730,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "tamtamKO",
+   "type": "replique",
+   "chemin": "nodes.tamtamKO.text",
+   "noeud": "tamtamKO",
+   "partie": "Le marché (jeu)",
+   "personnage": "Le griot",
+   "intonation": "joyeux",
+   "intonation_statut": "proposée",
+   "texte": "Le lièvre reste seul au milieu de la place, bien en vue. L'hyène arrive droit sur lui.",
+   "genre": "adulte/homme",
+   "duree_ms": 7210,
+   "duree_statut": "estimée"
+  }
+ ]
+}

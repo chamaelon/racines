@@ -1,0 +1,397 @@
+# Les deux traits de la gazelle : fiches des bandes-son
+# Généré par « npm run bandes-son » depuis pistes.json. Modifier pistes.json, pas ce fichier.
+
+piste: n1
+histoire: Les deux traits de la gazelle
+partie: La mare (jeu)
+personnage: Le griot
+fichier: gazelle-n1-<langue>.m4a
+intonation: posé (proposée)
+texte: Autrefois, la gazelle n'avait aucune marque sur le museau. Chaque jour, elle s'arrêtait à la mare pour admirer son beau visage.
+genre: adulte/homme
+duree: 8880ms (estimée)
+texte_en: Once, the gazelle had no mark on her muzzle. Every day she stopped at the pond to admire her lovely face.
+
+piste: n2
+histoire: Les deux traits de la gazelle
+partie: La mare (jeu)
+personnage: La gazelle
+fichier: gazelle-n2-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Alors, vieux lent, tu arriveras avant la saison des pluies ?
+genre: voix de conte/libre
+duree: 4780ms (estimée)
+texte_en: Well, old slowcoach, will you get there before the rainy season?
+
+piste: n3
+histoire: Les deux traits de la gazelle
+partie: La mare (jeu)
+personnage: Le griot
+fichier: gazelle-n3-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Elle tourne autour de toi en sautant par-dessus ta tête. Le lièvre et la pintade se mettent à rire. Que réponds-tu ?
+genre: adulte/homme
+duree: 9260ms (estimée)
+texte_en: She circles you, leaping over your head. The hare and the guinea fowl start to laugh. What do you answer?
+
+piste: insulte
+histoire: Les deux traits de la gazelle
+partie: La mare (jeu)
+personnage: La gazelle
+fichier: gazelle-insulte-<langue>.m4a
+intonation: vif (proposée)
+texte: Oh, il sait parler ! Répète donc, je n'ai pas eu le temps de t'entendre, j'étais déjà loin.
+genre: voix de conte/libre
+duree: 7890ms (estimée)
+texte_en: Oh, it can talk! Say that again, I had no time to hear you, I was already far away.
+
+piste: n4
+histoire: Les deux traits de la gazelle
+partie: La mare (jeu)
+personnage: Le griot
+fichier: gazelle-n4-<langue>.m4a
+intonation: posé (proposée)
+texte: Tu ravales ta colère. Il faut mieux que des mots.
+genre: adulte/homme
+duree: 4400ms (estimée)
+texte_en: You swallow your anger. This calls for more than words.
+
+piste: calme
+histoire: Les deux traits de la gazelle
+partie: La mare (jeu)
+personnage: Le caméléon
+fichier: gazelle-calme-<langue>.m4a
+intonation: posé (proposée)
+texte: Une course, gazelle. Jusque là-bas, à la termitière rouge.
+genre: voix de conte/libre
+duree: 4320ms (estimée)
+texte_en: A race, gazelle. To over there, to the red termite mound.
+
+piste: n5
+histoire: Les deux traits de la gazelle
+partie: La ligne de départ (jeu)
+personnage: Le griot
+fichier: gazelle-n5-<langue>.m4a
+intonation: posé (proposée)
+texte: L'éléphant accepte d'être le juge. Il trace la ligne d'arrivée d'un geste de la trompe. Toute la brousse veut voir ça.
+genre: adulte/homme
+duree: 8880ms (estimée)
+texte_en: The elephant agrees to be the judge. He marks the finish line with a sweep of his trunk. The whole bush wants to see this.
+
+piste: n6
+histoire: Les deux traits de la gazelle
+partie: La ligne de départ (jeu)
+personnage: La gazelle
+fichier: gazelle-n6-<langue>.m4a
+intonation: vif (proposée)
+texte: Regardez-moi bien, tous ! Je partirai en dernier, pour vous laisser le temps de vous asseoir.
+genre: voix de conte/libre
+duree: 6980ms (estimée)
+texte_en: Watch me, all of you! I'll start last, to give you time to sit down.
+
+piste: n7
+histoire: Les deux traits de la gazelle
+partie: La ligne de départ (jeu)
+personnage: Le griot
+fichier: gazelle-n7-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Pendant qu'elle fanfaronne, comment courir ?
+genre: adulte/homme
+duree: 2730ms (estimée)
+texte_en: While she shows off, how will you run?
+
+piste: avance
+histoire: Les deux traits de la gazelle
+partie: La ligne de départ (jeu)
+personnage: L'éléphant
+fichier: gazelle-avance-<langue>.m4a
+intonation: posé (proposée)
+texte: Reviens sur la ligne, caméléon. Même les juges voient ça.
+genre: voix de conte/libre
+duree: 4550ms (estimée)
+texte_en: Back to the line, chameleon. Even judges can see that.
+
+piste: n8
+histoire: Les deux traits de la gazelle
+partie: La ligne de départ (jeu)
+personnage: Le griot
+fichier: gazelle-n8-<langue>.m4a
+intonation: posé (proposée)
+texte: Tu rentres, l'air de rien. L'éléphant lève la trompe, la gazelle s'envole, et toi, tu fais trois pas. Elle n'a même pas besoin de se retourner.
+genre: adulte/homme
+duree: 11380ms (estimée)
+texte_en: You walk back, as if nothing had happened. The elephant raises his trunk, the gazelle takes flight, and you take three steps. She does not even need to look back.
+
+piste: dos
+histoire: Les deux traits de la gazelle
+partie: La ligne de départ (jeu)
+personnage: Le griot
+fichier: gazelle-dos-<langue>.m4a
+intonation: posé (proposée)
+texte: L'éléphant lève la trompe, et la gazelle bondit, légère comme le vent. Sur son dos, tu ne bouges pas.
+genre: adulte/homme
+duree: 8270ms (estimée)
+texte_en: The elephant raises his trunk and the gazelle bounds off, light as the wind. On her back, you do not move.
+
+piste: n9
+histoire: Les deux traits de la gazelle
+partie: Le repos à la mare (jeu)
+personnage: Le griot
+fichier: gazelle-n9-<langue>.m4a
+intonation: enlevé (proposée)
+texte: Elle se retourne : personne derrière elle. À la mare, elle boit tranquillement. Tu dois te faire oublier. Une devinette pour passer le temps !
+genre: adulte/homme
+duree: 11000ms (estimée)
+texte_en: She turns round: nobody behind her. At the pond, she drinks calmly. You must stay unnoticed. A riddle to pass the time!
+
+piste: n11
+histoire: Les deux traits de la gazelle
+partie: La ligne d'arrivée (jeu)
+personnage: Le griot
+fichier: gazelle-n11-<langue>.m4a
+intonation: posé (proposée)
+texte: Juste avant la ligne, la gazelle s'arrête pour se moquer de la piste vide. Alors tu sautes de son dos, et tu franchis la ligne. Toute la brousse éclate de rire.
+genre: adulte/homme
+duree: 12980ms (estimée)
+texte_en: Just before the line, the gazelle stops to mock the empty track. Then you jump from her back and cross the line. The whole bush bursts out laughing.
+
+piste: n12
+histoire: Les deux traits de la gazelle
+partie: La ligne d'arrivée (jeu)
+personnage: Le griot
+fichier: gazelle-n12-<langue>.m4a
+intonation: posé (proposée)
+texte: Pour la première fois, elle pleure. Ses larmes de honte laissent deux traits noirs sur son museau, et ils ne partent plus.
+genre: adulte/homme
+duree: 9260ms (estimée)
+texte_en: For the first time, she weeps. Her tears of shame leave two black stripes on her muzzle, and they never fade.
+
+piste: film-001
+histoire: Les deux traits de la gazelle
+partie: Film d'animation, de 00:02.0 à 00:06.3
+personnage: Narrateur
+fichier: gazelle-film-001-<langue>.m4a
+intonation: malicieux (scénario)
+texte: Les deux traits de la gazelle. Un conte bwaba.
+genre: adulte/libre
+duree: 4300ms (mesurée sur le film)
+
+piste: film-002
+histoire: Les deux traits de la gazelle
+partie: Film d'animation, de 00:08.0 à 00:15.9
+personnage: Narrateur
+fichier: gazelle-film-002-<langue>.m4a
+intonation: posé (proposée)
+texte: Autrefois, la gazelle n'avait aucune marque sur le museau. C'était la plus rapide de la brousse, et elle le savait.
+genre: adulte/libre
+duree: 7900ms (mesurée sur le film)
+
+piste: film-003
+histoire: Les deux traits de la gazelle
+partie: Film d'animation, de 00:19.0 à 00:23.7
+personnage: Narrateur
+fichier: gazelle-film-003-<langue>.m4a
+intonation: posé (proposée)
+texte: Chaque jour, elle s'arrêtait à la mare pour admirer son beau visage.
+genre: adulte/libre
+duree: 4700ms (mesurée sur le film)
+
+piste: film-004
+histoire: Les deux traits de la gazelle
+partie: Film d'animation, de 00:30.0 à 00:35.3
+personnage: Narrateur
+fichier: gazelle-film-004-<langue>.m4a
+intonation: posé (proposée)
+texte: Un matin, elle croisa le caméléon, qui avançait une patte après l'autre.
+genre: adulte/libre
+duree: 5300ms (mesurée sur le film)
+
+piste: film-005
+histoire: Les deux traits de la gazelle
+partie: Film d'animation, de 00:38.0 à 00:42.5
+personnage: GAZELLE
+fichier: gazelle-film-005-<langue>.m4a
+intonation: moqueur (scénario)
+texte: Alors, vieux lent, tu arriveras avant la saison des pluies ?
+genre: adulte/femme
+duree: 4500ms (mesurée sur le film)
+
+piste: film-006
+histoire: Les deux traits de la gazelle
+partie: Film d'animation, de 00:45.0 à 00:51.7
+personnage: Narrateur
+fichier: gazelle-film-006-<langue>.m4a
+intonation: posé (proposée)
+texte: Elle tourna autour de lui en sautant par-dessus sa tête. Le lièvre et la pintade se mirent à rire.
+genre: adulte/libre
+duree: 6700ms (mesurée sur le film)
+
+piste: film-007
+histoire: Les deux traits de la gazelle
+partie: Film d'animation, de 00:56.0 à 01:00.7
+personnage: Narrateur
+fichier: gazelle-film-007-<langue>.m4a
+intonation: malicieux (scénario)
+texte: Le caméléon s'arrêta, changea de couleur, et ne dit rien.
+genre: adulte/libre
+duree: 4700ms (mesurée sur le film)
+
+piste: film-008
+histoire: Les deux traits de la gazelle
+partie: Film d'animation, de 01:10.0 à 01:15.9
+personnage: CAMELEON
+fichier: gazelle-film-008-<langue>.m4a
+intonation: calme, rusé (scénario)
+texte: Une course, gazelle. Jusque là-bas, à la termitière rouge.
+genre: adulte/homme
+duree: 5900ms (mesurée sur le film)
+
+piste: film-009
+histoire: Les deux traits de la gazelle
+partie: Film d'animation, de 01:17.0 à 01:21.6
+personnage: Narrateur
+fichier: gazelle-film-009-<langue>.m4a
+intonation: posé (proposée)
+texte: L'éléphant, qui passait par là, accepta d'être le juge.
+genre: adulte/libre
+duree: 4600ms (mesurée sur le film)
+
+piste: film-010
+histoire: Les deux traits de la gazelle
+partie: Film d'animation, de 01:26.0 à 01:32.0
+personnage: Narrateur
+fichier: gazelle-film-010-<langue>.m4a
+intonation: posé (proposée)
+texte: Il traça la ligne d'arrivée d'un geste de la trompe. Toute la brousse voulut voir ça.
+genre: adulte/libre
+duree: 6000ms (mesurée sur le film)
+
+piste: film-011
+histoire: Les deux traits de la gazelle
+partie: Film d'animation, de 01:45.0 à 01:49.3
+personnage: Narrateur
+fichier: gazelle-film-011-<langue>.m4a
+intonation: posé (proposée)
+texte: Le jour venu, la gazelle fanfaronna devant les autres.
+genre: adulte/libre
+duree: 4300ms (mesurée sur le film)
+
+piste: film-012
+histoire: Les deux traits de la gazelle
+partie: Film d'animation, de 01:53.0 à 02:00.8
+personnage: Narrateur
+fichier: gazelle-film-012-<langue>.m4a
+intonation: chuchoté (scénario)
+texte: Pendant ce temps, le caméléon s'approchait sans bruit. Il grimpa sur son dos et prit la couleur de son pelage.
+genre: adulte/libre
+duree: 7800ms (mesurée sur le film)
+
+piste: film-013
+histoire: Les deux traits de la gazelle
+partie: Film d'animation, de 02:10.0 à 02:14.5
+personnage: Narrateur
+fichier: gazelle-film-013-<langue>.m4a
+intonation: enlevé (scénario)
+texte: L'éléphant leva la trompe, et la gazelle bondit, légère comme le vent.
+genre: adulte/libre
+duree: 4500ms (mesurée sur le film)
+
+piste: film-014
+histoire: Les deux traits de la gazelle
+partie: Film d'animation, de 02:21.0 à 02:27.3
+personnage: Narrateur
+fichier: gazelle-film-014-<langue>.m4a
+intonation: posé (proposée)
+texte: Elle se retourna : personne derrière elle. Elle ralentit, sûre de sa victoire.
+genre: adulte/libre
+duree: 6300ms (mesurée sur le film)
+
+piste: film-015
+histoire: Les deux traits de la gazelle
+partie: Film d'animation, de 02:31.0 à 02:37.1
+personnage: Narrateur
+fichier: gazelle-film-015-<langue>.m4a
+intonation: posé (proposée)
+texte: À la mare, elle but tranquillement. Sur son dos, le caméléon ne bougeait pas.
+genre: adulte/libre
+duree: 6100ms (mesurée sur le film)
+
+piste: film-016
+histoire: Les deux traits de la gazelle
+partie: Film d'animation, de 02:44.0 à 02:47.5
+personnage: Narrateur
+fichier: gazelle-film-016-<langue>.m4a
+intonation: posé (proposée)
+texte: Puis elle repartit, en riant toute seule.
+genre: adulte/libre
+duree: 3500ms (mesurée sur le film)
+
+piste: film-017
+histoire: Les deux traits de la gazelle
+partie: Film d'animation, de 02:55.0 à 02:59.7
+personnage: Narrateur
+fichier: gazelle-film-017-<langue>.m4a
+intonation: posé (proposée)
+texte: Juste avant la ligne, elle s'arrêta pour se moquer de la piste vide.
+genre: adulte/libre
+duree: 4700ms (mesurée sur le film)
+
+piste: film-018
+histoire: Les deux traits de la gazelle
+partie: Film d'animation, de 03:05.0 à 03:10.7
+personnage: Narrateur
+fichier: gazelle-film-018-<langue>.m4a
+intonation: malicieux (scénario)
+texte: Alors le caméléon sauta de son dos et franchit la ligne. Il avait gagné !
+genre: adulte/libre
+duree: 5700ms (mesurée sur le film)
+
+piste: film-019
+histoire: Les deux traits de la gazelle
+partie: Film d'animation, de 03:17.0 à 03:19.8
+personnage: Narrateur
+fichier: gazelle-film-019-<langue>.m4a
+intonation: posé (proposée)
+texte: Toute la brousse éclata de rire.
+genre: adulte/libre
+duree: 2800ms (mesurée sur le film)
+
+piste: film-020
+histoire: Les deux traits de la gazelle
+partie: Film d'animation, de 03:30.0 à 03:35.3
+personnage: Narrateur
+fichier: gazelle-film-020-<langue>.m4a
+intonation: triste (scénario)
+texte: La gazelle ne dit plus rien. Pour la première fois, elle pleura.
+genre: adulte/libre
+duree: 5300ms (mesurée sur le film)
+
+piste: film-021
+histoire: Les deux traits de la gazelle
+partie: Film d'animation, de 03:42.0 à 03:46.9
+personnage: Narrateur
+fichier: gazelle-film-021-<langue>.m4a
+intonation: posé (proposée)
+texte: Ses larmes de honte coulèrent le long de son museau, et y laissèrent deux traits noirs.
+genre: adulte/libre
+duree: 4900ms (mesurée sur le film)
+
+piste: film-022
+histoire: Les deux traits de la gazelle
+partie: Film d'animation, de 03:54.0 à 03:57.2
+personnage: Narrateur
+fichier: gazelle-film-022-<langue>.m4a
+intonation: posé (proposée)
+texte: Elle eut beau frotter, ils ne partirent plus.
+genre: adulte/libre
+duree: 3200ms (mesurée sur le film)
+
+piste: film-023
+histoire: Les deux traits de la gazelle
+partie: Film d'animation, de 04:05.0 à 04:13.5
+personnage: Narrateur
+fichier: gazelle-film-023-<langue>.m4a
+intonation: doux (scénario)
+texte: Depuis ce jour, toutes les gazelles portent ces deux traits. Et le caméléon, lui, avance toujours sans se presser.
+genre: adulte/libre
+duree: 8500ms (mesurée sur le film)

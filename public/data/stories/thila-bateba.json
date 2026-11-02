@@ -150,7 +150,9 @@
       "text": "Au réveil, Kambiré sait ce qu'il a à faire. Il choisit un tronc et se met à tailler, sans parler. Une statue, puis une seconde : les bateba. Regarde sa maison.",
       "explore": [
         "case-ronde",
-        "canari"
+        "canari",
+        "bateba",
+        "tabouret-lobi"
       ],
       "next": "n9"
     },

@@ -1,0 +1,262 @@
+# Le lièvre et l'hyène : fiches des bandes-son
+# Généré par « npm run bandes-son » depuis pistes.json. Modifier pistes.json, pas ce fichier.
+
+piste: intro
+histoire: Le lièvre et l'hyène
+partie: La brousse (jeu)
+personnage: Le griot
+fichier: lievre-hyene-intro-<langue>.m4a
+intonation: posé (proposée)
+texte: Écoutez bien, vous tous. Ce conte vient du temps où les bêtes parlaient encore, et où les greniers sonnaient creux.
+genre: adulte/homme
+duree: 8500ms (estimée)
+
+piste: hyene1
+histoire: Le lièvre et l'hyène
+partie: La brousse (jeu)
+personnage: L'hyène
+fichier: lievre-hyene-hyene1-<langue>.m4a
+intonation: moqueur (proposée)
+texte: Te voilà, petit lièvre ! Trouve-moi à manger, ou c'est toi que je mange.
+genre: voix de conte/libre
+duree: 6220ms (estimée)
+
+piste: choix1
+histoire: Le lièvre et l'hyène
+partie: La brousse (jeu)
+personnage: Le griot
+fichier: lievre-hyene-choix1-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Le lièvre est bien petit, et l'hyène a de grandes dents. Que répond-il ?
+genre: adulte/homme
+duree: 6070ms (estimée)
+
+piste: offrande
+histoire: Le lièvre et l'hyène
+partie: La brousse (jeu)
+personnage: Le griot
+fichier: lievre-hyene-offrande-<langue>.m4a
+intonation: posé (proposée)
+texte: Le lièvre vide son terrier. L'hyène engloutit tout et revient dès le lendemain, plus affamée encore. Il faut trouver autre chose.
+genre: adulte/homme
+duree: 9030ms (estimée)
+
+piste: accord
+histoire: Le lièvre et l'hyène
+partie: La brousse (jeu)
+personnage: Le lièvre
+fichier: lievre-hyene-accord-<langue>.m4a
+intonation: amusé (proposée)
+texte: Ensemble, faisons un champ. Je travaille, tu surveilles. À toi ce qui pousse au-dessus de la terre, à moi ce qui pousse au-dessous.
+genre: voix de conte/libre
+duree: 10090ms (estimée)
+
+piste: hyene2
+histoire: Le lièvre et l'hyène
+partie: La brousse (jeu)
+personnage: L'hyène
+fichier: lievre-hyene-hyene2-<langue>.m4a
+intonation: moqueur (proposée)
+texte: Le dessus, c'est là que sont les beaux épis ! J'accepte, et je vais dormir à l'ombre.
+genre: voix de conte/libre
+duree: 7360ms (estimée)
+
+piste: choix2
+histoire: Le lièvre et l'hyène
+partie: Le champ partagé (jeu)
+personnage: Le griot
+fichier: lievre-hyene-choix2-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: La pluie arrive, c'est le moment de semer. Que sème le lièvre ?
+genre: adulte/homme
+duree: 5690ms (estimée)
+
+piste: arachide
+histoire: Le lièvre et l'hyène
+partie: Le champ partagé (jeu)
+personnage: Le griot
+fichier: lievre-hyene-arachide-<langue>.m4a
+intonation: posé (proposée)
+texte: À la récolte, l'hyène reçoit des brassées de feuilles. Le lièvre, lui, emplit ses paniers de graines.
+genre: adulte/homme
+duree: 7510ms (estimée)
+
+piste: mil1
+histoire: Le lièvre et l'hyène
+partie: Le champ partagé (jeu)
+personnage: Le griot
+fichier: lievre-hyene-mil1-<langue>.m4a
+intonation: posé (proposée)
+texte: À la récolte, l'hyène emporte tous les épis. Le lièvre n'a que des racines à mâcher : il se promet d'être plus malin l'an prochain.
+genre: adulte/homme
+duree: 10400ms (estimée)
+
+piste: marche1
+histoire: Le lièvre et l'hyène
+partie: Le marché (jeu)
+personnage: Le griot
+fichier: lievre-hyene-marche1-<langue>.m4a
+intonation: joyeux (proposée)
+texte: Au marché, on vend, on goûte, on se moque de tout le monde. Regarde ce qu'il y a sur les étals.
+genre: adulte/homme
+duree: 9030ms (estimée)
+
+piste: marchande1
+histoire: Le lièvre et l'hyène
+partie: Le marché (jeu)
+personnage: La marchande
+fichier: lievre-hyene-marchande1-<langue>.m4a
+intonation: joyeux (proposée)
+texte: Lièvre, on dit que l'hyène te cherche partout et qu'elle n'est pas de bonne humeur.
+genre: adulte/femme
+duree: 6150ms (estimée)
+
+piste: hyene3
+histoire: Le lièvre et l'hyène
+partie: Le marché (jeu)
+personnage: L'hyène
+fichier: lievre-hyene-hyene3-<langue>.m4a
+intonation: moqueur (proposée)
+texte: Cette année, je prends le dessous ! Et ne t'avise pas de me tromper une seconde fois.
+genre: voix de conte/libre
+duree: 7210ms (estimée)
+
+piste: choix3
+histoire: Le lièvre et l'hyène
+partie: Le marché (jeu)
+personnage: Le griot
+fichier: lievre-hyene-choix3-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Une nouvelle saison commence. Que sème le lièvre maintenant que l'hyène a choisi le dessous ?
+genre: adulte/homme
+duree: 6680ms (estimée)
+
+piste: mil2
+histoire: Le lièvre et l'hyène
+partie: Le marché (jeu)
+personnage: Le griot
+fichier: lievre-hyene-mil2-<langue>.m4a
+intonation: joyeux (proposée)
+texte: L'hyène tire sur les tiges et ne trouve que des racines. Le lièvre, lui, bat ses épis en chantant.
+genre: adulte/homme
+duree: 8120ms (estimée)
+
+piste: arachide2
+histoire: Le lièvre et l'hyène
+partie: Le marché (jeu)
+personnage: Le griot
+fichier: lievre-hyene-arachide2-<langue>.m4a
+intonation: joyeux (proposée)
+texte: L'hyène déterre les arachides et mange enfin à sa faim. Pour la première fois, elle regarde le lièvre sans grogner.
+genre: adulte/homme
+duree: 8350ms (estimée)
+
+piste: nuit1
+histoire: Le lièvre et l'hyène
+partie: Le chemin de nuit (jeu)
+personnage: Le griot
+fichier: lievre-hyene-nuit1-<langue>.m4a
+intonation: grave (proposée)
+texte: Un soir, sur le chemin du retour, deux yeux brillent dans le noir.
+genre: adulte/homme
+duree: 5540ms (estimée)
+
+piste: hyene4
+histoire: Le lièvre et l'hyène
+partie: Le chemin de nuit (jeu)
+personnage: L'hyène
+fichier: lievre-hyene-hyene4-<langue>.m4a
+intonation: moqueur (proposée)
+texte: Tu es bien malin, paraît-il. Réponds à ma devinette, ou je te croque.
+genre: voix de conte/libre
+duree: 5840ms (estimée)
+
+piste: malice
+histoire: Le lièvre et l'hyène
+partie: Le retour au village (jeu)
+personnage: Le griot
+fichier: lievre-hyene-malice-<langue>.m4a
+intonation: posé (proposée)
+texte: L'hyène, vexée, s'en va en ricanant. Le lièvre rentre au village avec ses paniers, et on raconte ses tours à chaque veillée.
+genre: adulte/homme
+duree: 9410ms (estimée)
+
+piste: malice2
+histoire: Le lièvre et l'hyène
+partie: Le retour au village (jeu)
+personnage: Le griot
+fichier: lievre-hyene-malice2-<langue>.m4a
+intonation: posé (proposée)
+texte: La force prend, la malice partage à sa façon : qui ne travaille pas ne choisit pas sa récolte.
+genre: adulte/homme
+duree: 7820ms (estimée)
+
+piste: partage
+histoire: Le lièvre et l'hyène
+partie: Le chemin de nuit (jeu)
+personnage: Le lièvre
+fichier: lievre-hyene-partage-<langue>.m4a
+intonation: amusé (proposée)
+texte: Hyène, ta force fait peur, mais elle ne fait pas pousser le mil. Prends une daba : celui qui travaille mange.
+genre: voix de conte/libre
+duree: 9030ms (estimée)
+
+piste: partage2
+histoire: Le lièvre et l'hyène
+partie: Le chemin de nuit (jeu)
+personnage: Le griot
+fichier: lievre-hyene-partage2-<langue>.m4a
+intonation: posé (proposée)
+texte: On dit qu'ils cultivèrent côte à côte une saison entière. Une saison seulement, car une hyène reste une hyène, mais personne n'eut faim cette année-là.
+genre: adulte/homme
+duree: 10400ms (estimée)
+
+piste: fuite
+histoire: Le lièvre et l'hyène
+partie: Le chemin de nuit (jeu)
+personnage: Le griot
+fichier: lievre-hyene-fuite-<langue>.m4a
+intonation: grave (proposée)
+texte: Le lièvre n'attend pas la suite. Il bondit entre les pattes de l'hyène et disparaît dans le noir.
+genre: adulte/homme
+duree: 7440ms (estimée)
+
+piste: fuite2
+histoire: Le lièvre et l'hyène
+partie: Le chemin de nuit (jeu)
+personnage: Le griot
+fichier: lievre-hyene-fuite2-<langue>.m4a
+intonation: grave (proposée)
+texte: Il court encore, dit-on. Et depuis ce temps, le lièvre dort d'un œil.
+genre: adulte/homme
+duree: 5840ms (estimée)
+
+piste: tamtam1
+histoire: Le lièvre et l'hyène
+partie: Le marché (jeu)
+personnage: Le griot
+fichier: lievre-hyene-tamtam1-<langue>.m4a
+intonation: joyeux (proposée)
+texte: Les tam-tams du marché s'emballent. Si le lièvre suit le rythme, la foule dansera autour de lui, et l'hyène ne le trouvera pas tout de suite.
+genre: adulte/homme
+duree: 10780ms (estimée)
+
+piste: tamtamOK
+histoire: Le lièvre et l'hyène
+partie: Le marché (jeu)
+personnage: Le griot
+fichier: lievre-hyene-tamtamOK-<langue>.m4a
+intonation: joyeux (proposée)
+texte: Le lièvre gagne un peu de temps. Mais l'hyène a du flair, et elle finit par le retrouver derrière un étal.
+genre: adulte/homme
+duree: 8730ms (estimée)
+
+piste: tamtamKO
+histoire: Le lièvre et l'hyène
+partie: Le marché (jeu)
+personnage: Le griot
+fichier: lievre-hyene-tamtamKO-<langue>.m4a
+intonation: joyeux (proposée)
+texte: Le lièvre reste seul au milieu de la place, bien en vue. L'hyène arrive droit sur lui.
+genre: adulte/homme
+duree: 7210ms (estimée)

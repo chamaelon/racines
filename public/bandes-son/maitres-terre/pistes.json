@@ -1,0 +1,747 @@
+{
+ "id": "maitres-terre",
+ "titre": "Les maîtres de la terre",
+ "peuple": "Kurumba",
+ "langues_cibles": [
+  "fr",
+  "kur"
+ ],
+ "pistes": [
+  {
+   "id": "titre",
+   "type": "titre",
+   "chemin": "titre",
+   "texte": "Les maîtres de la terre"
+  },
+  {
+   "id": "presentation",
+   "type": "presentation",
+   "chemin": "presentation",
+   "texte": "Le chef des conquérants commande les hommes, mais la terre lui refuse ses fruits. Tu le conseilles : faut-il forcer, ou aller voir le vieil homme qui parle aux autels ?"
+  },
+  {
+   "id": "personnages.griot.nom",
+   "type": "personnage",
+   "chemin": "personnages.griot.nom",
+   "texte": "Le griot"
+  },
+  {
+   "id": "personnages.maitre.nom",
+   "type": "personnage",
+   "chemin": "personnages.maitre.nom",
+   "texte": "Le maître de la terre"
+  },
+  {
+   "id": "personnages.chef.nom",
+   "type": "personnage",
+   "chemin": "personnages.chef.nom",
+   "texte": "Le chef des cavaliers"
+  },
+  {
+   "id": "personnages.cavalier.nom",
+   "type": "personnage",
+   "chemin": "personnages.cavalier.nom",
+   "texte": "Un cavalier"
+  },
+  {
+   "id": "fins.canon",
+   "type": "fin",
+   "chemin": "fins.canon",
+   "texte": "Version du griot : sème, mon fils"
+  },
+  {
+   "id": "fins.force",
+   "type": "fin",
+   "chemin": "fins.force",
+   "texte": "Autre chemin : les champs restent vides"
+  },
+  {
+   "id": "n1",
+   "type": "replique",
+   "chemin": "nodes.n1.text",
+   "noeud": "n1",
+   "partie": "Le maître de la terre (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Le Nord est un pays de sable et de vent. La terre n'y donne rien sans raison. Le maître de la terre descend des premiers occupants. Il connaît les autels.",
+   "genre": "adulte/homme",
+   "duree_ms": 12600,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n2",
+   "type": "replique",
+   "chemin": "nodes.n2.text",
+   "noeud": "n2",
+   "partie": "Le maître de la terre (jeu)",
+   "personnage": "Le maître de la terre",
+   "intonation": "grave",
+   "intonation_statut": "proposée",
+   "texte": "Terre, reçois ceci, et donne-nous à manger.",
+   "genre": "âgé/homme",
+   "duree_ms": 3260,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n3",
+   "type": "replique",
+   "chemin": "nodes.n3.text",
+   "noeud": "n3",
+   "partie": "Le maître de la terre (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Il fait l'offrande, et le mil pousse. Un jour, des cavaliers viennent d'ailleurs. Ils s'imposent par la force, et leur chef occupe le village.",
+   "genre": "adulte/homme",
+   "duree_ms": 10470,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n4",
+   "type": "replique",
+   "chemin": "nodes.n4.text",
+   "noeud": "n4",
+   "partie": "La terre refuse (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Le chef fait semer ses champs. Mais la terre refuse ses fruits. Rien ne pousse, et ses cavaliers ont faim.",
+   "genre": "adulte/homme",
+   "duree_ms": 8650,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n5",
+   "type": "replique",
+   "chemin": "nodes.n5.text",
+   "noeud": "n5",
+   "partie": "La terre refuse (jeu)",
+   "personnage": "Le chef des cavaliers",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Mes hommes ont faim. Pourquoi rien ne pousse ?",
+   "genre": "adulte/homme",
+   "duree_ms": 4020,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n6",
+   "type": "replique",
+   "chemin": "nodes.n6.text",
+   "noeud": "n6",
+   "partie": "La terre refuse (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Toi qui le conseilles, que dis-tu ?",
+   "genre": "adulte/homme",
+   "duree_ms": 3110,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n6.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.n6.choices.0.label",
+   "texte": "« Va voir le vieil homme. »"
+  },
+  {
+   "id": "nodes.n6.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.n6.choices.0.tag",
+   "texte": "conseil de paix"
+  },
+  {
+   "id": "nodes.n6.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.n6.choices.1.label",
+   "texte": "« Fais semer deux fois plus, sous la menace. »"
+  },
+  {
+   "id": "nodes.n6.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.n6.choices.1.tag",
+   "texte": "conseil de force"
+  },
+  {
+   "id": "force",
+   "type": "replique",
+   "chemin": "nodes.force.text",
+   "noeud": "force",
+   "partie": "La terre refuse (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "On sème deux fois plus. Il pousse deux fois rien. Le chef baisse-t-il enfin les yeux ?",
+   "genre": "adulte/homme",
+   "duree_ms": 7360,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.force.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.force.choices.0.label",
+   "texte": "Oui, il va voir le vieil homme"
+  },
+  {
+   "id": "nodes.force.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.force.choices.0.tag",
+   "texte": "yeux baissés"
+  },
+  {
+   "id": "nodes.force.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.force.choices.1.label",
+   "texte": "Non, il frappe plus fort"
+  },
+  {
+   "id": "nodes.force.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.force.choices.1.tag",
+   "texte": "obstination"
+  },
+  {
+   "id": "finforce",
+   "type": "replique",
+   "chemin": "nodes.finforce.text",
+   "noeud": "finforce",
+   "partie": "La terre refuse (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Les cavaliers finissent par partir, le ventre vide. Le pouvoir se conquiert, la terre se respecte. Ce chef ne l'a pas compris.",
+   "genre": "adulte/homme",
+   "duree_ms": 9560,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "voir",
+   "type": "replique",
+   "chemin": "nodes.voir.text",
+   "noeud": "voir",
+   "partie": "La visite au vieux père (jeu)",
+   "personnage": "Le chef des cavaliers",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Vieux père, ta terre me refuse.",
+   "genre": "adulte/homme",
+   "duree_ms": 2730,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n7",
+   "type": "replique",
+   "chemin": "nodes.n7.text",
+   "noeud": "n7",
+   "partie": "La visite au vieux père (jeu)",
+   "personnage": "Le maître de la terre",
+   "intonation": "grave",
+   "intonation_statut": "proposée",
+   "texte": "Elle ne te connaît pas encore.",
+   "genre": "âgé/homme",
+   "duree_ms": 2580,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n8",
+   "type": "replique",
+   "chemin": "nodes.n8.text",
+   "noeud": "n8",
+   "partie": "La visite au vieux père (jeu)",
+   "personnage": "Le chef des cavaliers",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Présente-moi à elle.",
+   "genre": "adulte/homme",
+   "duree_ms": 1440,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n9.question",
+   "type": "jeu",
+   "chemin": "nodes.n9.question",
+   "texte": "Quel partage conclut l'accord entre les deux hommes ?"
+  },
+  {
+   "id": "nodes.n9.gagne",
+   "type": "jeu",
+   "chemin": "nodes.n9.gagne",
+   "texte": "C'est cela : tu commanderas les hommes, et je parlerai à la terre."
+  },
+  {
+   "id": "nodes.n9.perdu",
+   "type": "jeu",
+   "chemin": "nodes.n9.perdu",
+   "texte": "Non : le chef commande les hommes, et seul le maître parle à la terre."
+  },
+  {
+   "id": "nodes.n9.reponses.0.label",
+   "type": "jeu",
+   "chemin": "nodes.n9.reponses.0.label",
+   "texte": "Le chef commande les hommes, le maître parle à la terre"
+  },
+  {
+   "id": "nodes.n9.reponses.1.label",
+   "type": "jeu",
+   "chemin": "nodes.n9.reponses.1.label",
+   "texte": "Le chef parle aux autels, le maître commande"
+  },
+  {
+   "id": "nodes.n9.reponses.2.label",
+   "type": "jeu",
+   "chemin": "nodes.n9.reponses.2.label",
+   "texte": "Tous deux quittent le pays"
+  },
+  {
+   "id": "nodes.n9.tags.win",
+   "type": "parcours",
+   "chemin": "nodes.n9.tags.win",
+   "texte": "bonne réponse"
+  },
+  {
+   "id": "nodes.n9.tags.lose",
+   "type": "parcours",
+   "chemin": "nodes.n9.tags.lose",
+   "texte": "réponse manquée"
+  },
+  {
+   "id": "n10",
+   "type": "replique",
+   "chemin": "nodes.n10.text",
+   "noeud": "n10",
+   "partie": "La visite au vieux père (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Seul le maître de la terre parle aux autels. Ensemble, ils font l'offrande, et la pluie revient.",
+   "genre": "adulte/homme",
+   "duree_ms": 7360,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n11",
+   "type": "replique",
+   "chemin": "nodes.n11.text",
+   "noeud": "n11",
+   "partie": "La visite au vieux père (jeu)",
+   "personnage": "Le maître de la terre",
+   "intonation": "grave",
+   "intonation_statut": "proposée",
+   "texte": "La terre te reconnaît.",
+   "genre": "âgé/homme",
+   "duree_ms": 1820,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n12",
+   "type": "replique",
+   "chemin": "nodes.n12.text",
+   "noeud": "n12",
+   "partie": "La visite au vieux père (jeu)",
+   "personnage": "Le chef des cavaliers",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Puis-je semer ?",
+   "genre": "adulte/homme",
+   "duree_ms": 1440,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n13",
+   "type": "replique",
+   "chemin": "nodes.n13.text",
+   "noeud": "n13",
+   "partie": "La visite au vieux père (jeu)",
+   "personnage": "Le maître de la terre",
+   "intonation": "grave",
+   "intonation_statut": "proposée",
+   "texte": "Sème, mon fils.",
+   "genre": "âgé/homme",
+   "duree_ms": 1590,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n14",
+   "type": "replique",
+   "chemin": "nodes.n14.text",
+   "noeud": "n14",
+   "partie": "La visite au vieux père (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Aujourd'hui encore, le chef consulte le maître de la terre.",
+   "genre": "adulte/homme",
+   "duree_ms": 4250,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "film-001",
+   "type": "film",
+   "partie": "Film d'animation, de 00:02.0 à 00:06.5",
+   "horodatage": {
+    "debut_ms": 2000,
+    "fin_ms": 6500
+   },
+   "personnage": "Narrateur",
+   "intonation": "solennel",
+   "intonation_statut": "scénario",
+   "texte": "Les maîtres de la terre. Une légende kurumba.",
+   "genre": "adulte/libre",
+   "duree_ms": 4500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-002",
+   "type": "film",
+   "partie": "Film d'animation, de 00:09.0 à 00:14.5",
+   "horodatage": {
+    "debut_ms": 9000,
+    "fin_ms": 14500
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Le Nord est un pays de sable et de vent. La terre n'y donne rien sans raison.",
+   "genre": "adulte/libre",
+   "duree_ms": 5500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-003",
+   "type": "film",
+   "partie": "Film d'animation, de 00:27.0 à 00:32.5",
+   "horodatage": {
+    "debut_ms": 27000,
+    "fin_ms": 32500
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Le maître de la terre descend des premiers occupants. Il connaît les autels.",
+   "genre": "adulte/libre",
+   "duree_ms": 5500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-004",
+   "type": "film",
+   "partie": "Film d'animation, de 00:32.5 à 00:36.5",
+   "horodatage": {
+    "debut_ms": 32500,
+    "fin_ms": 36500
+   },
+   "personnage": "MAITRE",
+   "intonation": "recueilli",
+   "intonation_statut": "scénario",
+   "texte": "Terre, reçois ceci, et donne-nous à manger.",
+   "genre": "âgé/libre",
+   "duree_ms": 4000,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-005",
+   "type": "film",
+   "partie": "Film d'animation, de 00:40.0 à 00:43.2",
+   "horodatage": {
+    "debut_ms": 40000,
+    "fin_ms": 43200
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Il fait l'offrande, et le mil pousse.",
+   "genre": "adulte/libre",
+   "duree_ms": 3200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-006",
+   "type": "film",
+   "partie": "Film d'animation, de 01:04.0 à 01:09.1",
+   "horodatage": {
+    "debut_ms": 64000,
+    "fin_ms": 69100
+   },
+   "personnage": "Narrateur",
+   "intonation": "tendu",
+   "intonation_statut": "scénario",
+   "texte": "Un jour, des cavaliers viennent d'ailleurs, et ils s'imposent par la force.",
+   "genre": "adulte/libre",
+   "duree_ms": 5100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-007",
+   "type": "film",
+   "partie": "Film d'animation, de 01:14.0 à 01:18.9",
+   "horodatage": {
+    "debut_ms": 74000,
+    "fin_ms": 78900
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Leur chef occupe le village. Les conquérants s'installent.",
+   "genre": "adulte/libre",
+   "duree_ms": 4900,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-008",
+   "type": "film",
+   "partie": "Film d'animation, de 01:40.0 à 01:44.6",
+   "horodatage": {
+    "debut_ms": 100000,
+    "fin_ms": 104600
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Il fait semer ses champs. Mais la terre refuse ses fruits.",
+   "genre": "adulte/libre",
+   "duree_ms": 4600,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-009",
+   "type": "film",
+   "partie": "Film d'animation, de 01:52.0 à 01:56.1",
+   "horodatage": {
+    "debut_ms": 112000,
+    "fin_ms": 116100
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Rien ne pousse. Et ses cavaliers ont faim.",
+   "genre": "adulte/libre",
+   "duree_ms": 4100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-010",
+   "type": "film",
+   "partie": "Film d'animation, de 01:56.5 à 01:59.8",
+   "horodatage": {
+    "debut_ms": 116500,
+    "fin_ms": 119800
+   },
+   "personnage": "CHEF",
+   "intonation": "interdit",
+   "intonation_statut": "scénario",
+   "texte": "Mes hommes ont faim. Pourquoi rien ne pousse ?",
+   "genre": "adulte/homme",
+   "duree_ms": 3300,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-011",
+   "type": "film",
+   "partie": "Film d'animation, de 02:16.0 à 02:21.4",
+   "horodatage": {
+    "debut_ms": 136000,
+    "fin_ms": 141400
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Le chef des conquérants baisse enfin les yeux. Il va voir le vieil homme.",
+   "genre": "adulte/libre",
+   "duree_ms": 5400,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-012",
+   "type": "film",
+   "partie": "Film d'animation, de 02:24.0 à 02:26.8",
+   "horodatage": {
+    "debut_ms": 144000,
+    "fin_ms": 146800
+   },
+   "personnage": "CHEF",
+   "intonation": "embarrassé",
+   "intonation_statut": "scénario",
+   "texte": "Vieux père, ta terre me refuse.",
+   "genre": "adulte/homme",
+   "duree_ms": 2800,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-013",
+   "type": "film",
+   "partie": "Film d'animation, de 02:27.0 à 02:29.6",
+   "horodatage": {
+    "debut_ms": 147000,
+    "fin_ms": 149600
+   },
+   "personnage": "MAITRE",
+   "intonation": "calme",
+   "intonation_statut": "scénario",
+   "texte": "Elle ne te connaît pas encore.",
+   "genre": "âgé/libre",
+   "duree_ms": 2600,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-014",
+   "type": "film",
+   "partie": "Film d'animation, de 02:31.0 à 02:33.1",
+   "horodatage": {
+    "debut_ms": 151000,
+    "fin_ms": 153100
+   },
+   "personnage": "CHEF",
+   "intonation": "humble",
+   "intonation_statut": "scénario",
+   "texte": "Présente-moi à elle.",
+   "genre": "adulte/homme",
+   "duree_ms": 2100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-015",
+   "type": "film",
+   "partie": "Film d'animation, de 02:49.5 à 02:51.7",
+   "horodatage": {
+    "debut_ms": 169500,
+    "fin_ms": 171700
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Un accord est conclu.",
+   "genre": "adulte/libre",
+   "duree_ms": 2200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-016",
+   "type": "film",
+   "partie": "Film d'animation, de 02:53.5 à 02:57.5",
+   "horodatage": {
+    "debut_ms": 173500,
+    "fin_ms": 177500
+   },
+   "personnage": "MAITRE",
+   "intonation": "solennel",
+   "intonation_statut": "scénario",
+   "texte": "Tu commanderas les hommes, et je parlerai à la terre.",
+   "genre": "âgé/libre",
+   "duree_ms": 4000,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-017",
+   "type": "film",
+   "partie": "Film d'animation, de 03:00.0 à 03:03.2",
+   "horodatage": {
+    "debut_ms": 180000,
+    "fin_ms": 183200
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Seul le maître de la terre parle aux autels.",
+   "genre": "adulte/libre",
+   "duree_ms": 3200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-018",
+   "type": "film",
+   "partie": "Film d'animation, de 03:10.0 à 03:13.9",
+   "horodatage": {
+    "debut_ms": 190000,
+    "fin_ms": 193900
+   },
+   "personnage": "Narrateur",
+   "intonation": "joyeux",
+   "intonation_statut": "scénario",
+   "texte": "Ensemble, ils font l'offrande, et la pluie revient.",
+   "genre": "adulte/libre",
+   "duree_ms": 3900,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-019",
+   "type": "film",
+   "partie": "Film d'animation, de 03:34.0 à 03:36.4",
+   "horodatage": {
+    "debut_ms": 214000,
+    "fin_ms": 216400
+   },
+   "personnage": "MAITRE",
+   "intonation": "solennel",
+   "intonation_statut": "scénario",
+   "texte": "La terre te reconnaît.",
+   "genre": "âgé/libre",
+   "duree_ms": 2400,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-020",
+   "type": "film",
+   "partie": "Film d'animation, de 03:38.0 à 03:42.5",
+   "horodatage": {
+    "debut_ms": 218000,
+    "fin_ms": 222500
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Et le chef est intronisé, de la main même du maître de la terre.",
+   "genre": "adulte/libre",
+   "duree_ms": 4500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-021",
+   "type": "film",
+   "partie": "Film d'animation, de 04:06.0 à 04:07.9",
+   "horodatage": {
+    "debut_ms": 246000,
+    "fin_ms": 247900
+   },
+   "personnage": "CHEF",
+   "intonation": "respectueux",
+   "intonation_statut": "scénario",
+   "texte": "Puis-je semer ?",
+   "genre": "adulte/homme",
+   "duree_ms": 1900,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-022",
+   "type": "film",
+   "partie": "Film d'animation, de 04:08.0 à 04:10.6",
+   "horodatage": {
+    "debut_ms": 248000,
+    "fin_ms": 250600
+   },
+   "personnage": "MAITRE",
+   "intonation": "amusé",
+   "intonation_statut": "scénario",
+   "texte": "Sème, mon fils.",
+   "genre": "âgé/libre",
+   "duree_ms": 2600,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-023",
+   "type": "film",
+   "partie": "Film d'animation, de 04:12.0 à 04:16.5",
+   "horodatage": {
+    "debut_ms": 252000,
+    "fin_ms": 256500
+   },
+   "personnage": "Narrateur",
+   "intonation": "doux",
+   "intonation_statut": "scénario",
+   "texte": "Aujourd'hui encore, le chef consulte le maître de la terre.",
+   "genre": "adulte/libre",
+   "duree_ms": 4500,
+   "duree_statut": "mesurée sur le film"
+  }
+ ]
+}

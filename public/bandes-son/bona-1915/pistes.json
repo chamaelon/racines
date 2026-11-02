@@ -1,0 +1,752 @@
+{
+ "id": "bona-1915",
+ "titre": "Le soulèvement de Bona",
+ "peuple": "Marka (Dafing)",
+ "langues_cibles": [
+  "fr",
+  "mkr",
+  "dyu"
+ ],
+ "pistes": [
+  {
+   "id": "titre",
+   "type": "titre",
+   "chemin": "titre",
+   "texte": "Le soulèvement de Bona"
+  },
+  {
+   "id": "presentation",
+   "type": "presentation",
+   "chemin": "presentation",
+   "texte": "1915. Le prédicateur de Datomon annonce la fin d'un pouvoir, et l'administration vient chercher des soldats. Tu suis cela depuis un village marka, jusqu'au serment de Bona. Tes choix changent ton regard, pas les faits."
+  },
+  {
+   "id": "personnages.griot.nom",
+   "type": "personnage",
+   "chemin": "personnages.griot.nom",
+   "texte": "Le griot"
+  },
+  {
+   "id": "personnages.predicateur.nom",
+   "type": "personnage",
+   "chemin": "personnages.predicateur.nom",
+   "texte": "Le prédicateur"
+  },
+  {
+   "id": "personnages.chefv.nom",
+   "type": "personnage",
+   "chemin": "personnages.chefv.nom",
+   "texte": "Le chef"
+  },
+  {
+   "id": "personnages.commandant.nom",
+   "type": "personnage",
+   "chemin": "personnages.commandant.nom",
+   "texte": "Le commandant"
+  },
+  {
+   "id": "personnages.mere.nom",
+   "type": "personnage",
+   "chemin": "personnages.mere.nom",
+   "texte": "Une mère"
+  },
+  {
+   "id": "personnages.ancien.nom",
+   "type": "personnage",
+   "chemin": "personnages.ancien.nom",
+   "texte": "L'ancien"
+  },
+  {
+   "id": "fins.canon",
+   "type": "fin",
+   "chemin": "fins.canon",
+   "texte": "Mémoire : nos pères ont dit non"
+  },
+  {
+   "id": "fins.relire",
+   "type": "fin",
+   "chemin": "fins.relire",
+   "texte": "Mémoire à reprendre : retourne à Bona"
+  },
+  {
+   "id": "n1",
+   "type": "replique",
+   "chemin": "nodes.n1.text",
+   "noeud": "n1",
+   "partie": "1915 à Datomon (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "1915. À Datomon, la mosquée se dresse au cœur du pays marka. La guerre des Blancs est loin. Mais ses exigences arrivent jusqu'ici.",
+   "genre": "adulte/homme",
+   "duree_ms": 10090,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n2",
+   "type": "replique",
+   "chemin": "nodes.n2.text",
+   "noeud": "n2",
+   "partie": "1915 à Datomon (jeu)",
+   "personnage": "Le prédicateur",
+   "intonation": "vif",
+   "intonation_statut": "proposée",
+   "texte": "Écoutez ! Un messie viendra. Le pouvoir des Blancs prendra fin.",
+   "genre": "âgé/homme",
+   "duree_ms": 5080,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n3",
+   "type": "replique",
+   "chemin": "nodes.n3.text",
+   "noeud": "n3",
+   "partie": "1915 à Datomon (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Un prédicateur parle chaque jour devant la mosquée. La foule l'écoute et commence à espérer. Et toi, tu restes l'écouter, ou tu vas voir ce qui se passe plus loin ?",
+   "genre": "adulte/homme",
+   "duree_ms": 12980,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n3.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.n3.choices.0.label",
+   "texte": "Tu restes écouter la foule"
+  },
+  {
+   "id": "nodes.n3.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.n3.choices.0.tag",
+   "texte": "parmi la foule"
+  },
+  {
+   "id": "nodes.n3.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.n3.choices.1.label",
+   "texte": "Tu vas au village, où l'on parle de recrutement"
+  },
+  {
+   "id": "nodes.n3.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.n3.choices.1.tag",
+   "texte": "vers le village"
+  },
+  {
+   "id": "foule",
+   "type": "replique",
+   "chemin": "nodes.foule.text",
+   "noeud": "foule",
+   "partie": "1915 à Datomon (jeu)",
+   "personnage": "Le griot",
+   "intonation": "enlevé",
+   "intonation_statut": "proposée",
+   "texte": "« Quand viendra-t-il ? Dis-nous quand ! » Tout le monde veut une date. Puis une autre nouvelle arrive : on recrute.",
+   "genre": "adulte/homme",
+   "duree_ms": 9710,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "recrut",
+   "type": "replique",
+   "chemin": "nodes.recrut.text",
+   "noeud": "recrut",
+   "partie": "Le recrutement (jeu)",
+   "personnage": "Le commandant",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Ils partiront. Ce sont les ordres.",
+   "genre": "adulte/homme",
+   "duree_ms": 2880,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n4",
+   "type": "replique",
+   "chemin": "nodes.n4.text",
+   "noeud": "n4",
+   "partie": "Le recrutement (jeu)",
+   "personnage": "Le chef",
+   "intonation": "grave",
+   "intonation_statut": "proposée",
+   "texte": "Nos fils sont nos bras pour les champs.",
+   "genre": "âgé/homme",
+   "duree_ms": 3340,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n5",
+   "type": "replique",
+   "chemin": "nodes.n5.text",
+   "noeud": "n5",
+   "partie": "Le recrutement (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Les gardes emmènent les jeunes hommes. Les mères pleurent au bord du chemin.",
+   "genre": "adulte/homme",
+   "duree_ms": 5540,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n6",
+   "type": "replique",
+   "chemin": "nodes.n6.text",
+   "noeud": "n6",
+   "partie": "Le serment de Bona (jeu)",
+   "personnage": "Le griot",
+   "intonation": "chuchoté",
+   "intonation_statut": "proposée",
+   "texte": "Une nuit, à Bona, les anciens se réunissent autour de l'autel. Ils tendent la main au-dessus de lui, et ils font serment.",
+   "genre": "adulte/homme",
+   "duree_ms": 9410,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n7",
+   "type": "replique",
+   "chemin": "nodes.n7.text",
+   "noeud": "n7",
+   "partie": "Le serment de Bona (jeu)",
+   "personnage": "Le griot",
+   "intonation": "chuchoté",
+   "intonation_statut": "proposée",
+   "texte": "Dans le noir, les tambours de guerre commencent à parler. Écoute.",
+   "genre": "adulte/homme",
+   "duree_ms": 4930,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n8.consigne",
+   "type": "jeu",
+   "chemin": "nodes.n8.consigne",
+   "texte": "Reproduis le rythme des tambours de guerre de Bona."
+  },
+  {
+   "id": "nodes.n8.gagne",
+   "type": "jeu",
+   "chemin": "nodes.n8.gagne",
+   "texte": "Les tambours portent la nouvelle dans la nuit."
+  },
+  {
+   "id": "nodes.n8.perdu",
+   "type": "jeu",
+   "chemin": "nodes.n8.perdu",
+   "texte": "Le rythme se cherche, mais les tambours continuent."
+  },
+  {
+   "id": "nodes.n8.tags.win",
+   "type": "parcours",
+   "chemin": "nodes.n8.tags.win",
+   "texte": "rythme tenu"
+  },
+  {
+   "id": "nodes.n8.tags.lose",
+   "type": "parcours",
+   "chemin": "nodes.n8.tags.lose",
+   "texte": "rythme perdu"
+  },
+  {
+   "id": "n9",
+   "type": "replique",
+   "chemin": "nodes.n9.text",
+   "noeud": "n9",
+   "partie": "17 novembre 1915 (jeu)",
+   "personnage": "Le griot",
+   "intonation": "tendu",
+   "intonation_statut": "proposée",
+   "texte": "Le 17 novembre 1915, l'insurrection éclate à Bona. Les flèches répondent aux fusils, derrière le muret de banco, et la colonne recule. La nouvelle court de village en village, et des cavaliers portent le message.",
+   "genre": "adulte/homme",
+   "duree_ms": 14800,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n10.consigne",
+   "type": "jeu",
+   "chemin": "nodes.n10.consigne",
+   "texte": "Porte le message ! Tape vite sur ESPACE ou sur l'écran pour galoper de village en village."
+  },
+  {
+   "id": "nodes.n10.gagne",
+   "type": "jeu",
+   "chemin": "nodes.n10.gagne",
+   "texte": "Le message est passé."
+  },
+  {
+   "id": "nodes.n10.perdu",
+   "type": "jeu",
+   "chemin": "nodes.n10.perdu",
+   "texte": "D'autres cavaliers prennent le relais."
+  },
+  {
+   "id": "nodes.n10.tags.win",
+   "type": "parcours",
+   "chemin": "nodes.n10.tags.win",
+   "texte": "course gagnée"
+  },
+  {
+   "id": "nodes.n10.tags.lose",
+   "type": "parcours",
+   "chemin": "nodes.n10.tags.lose",
+   "texte": "course perdue"
+  },
+  {
+   "id": "n11",
+   "type": "replique",
+   "chemin": "nodes.n11.text",
+   "noeud": "n11",
+   "partie": "1916 : les ruines (jeu)",
+   "personnage": "Le griot",
+   "intonation": "grave",
+   "intonation_statut": "proposée",
+   "texte": "Le soulèvement s'étend aux villages marka et bwa. Mais en 1916, la révolte est réprimée. À Bona, il ne reste que des ruines. Le pays a payé très cher ce refus.",
+   "genre": "adulte/homme",
+   "duree_ms": 13280,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n12",
+   "type": "replique",
+   "chemin": "nodes.n12.text",
+   "noeud": "n12",
+   "partie": "1916 : les ruines (jeu)",
+   "personnage": "L'ancien",
+   "intonation": "grave",
+   "intonation_statut": "proposée",
+   "texte": "Nos pères ont dit non.",
+   "genre": "adulte/homme",
+   "duree_ms": 2200,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n13.question",
+   "type": "jeu",
+   "chemin": "nodes.n13.question",
+   "texte": "À quelle date l'insurrection éclate-t-elle à Bona ?"
+  },
+  {
+   "id": "nodes.n13.gagne",
+   "type": "jeu",
+   "chemin": "nodes.n13.gagne",
+   "texte": "Oui, le 17 novembre 1915."
+  },
+  {
+   "id": "nodes.n13.perdu",
+   "type": "jeu",
+   "chemin": "nodes.n13.perdu",
+   "texte": "C'était le 17 novembre 1915."
+  },
+  {
+   "id": "nodes.n13.reponses.0.label",
+   "type": "jeu",
+   "chemin": "nodes.n13.reponses.0.label",
+   "texte": "Le 17 novembre 1915"
+  },
+  {
+   "id": "nodes.n13.reponses.1.label",
+   "type": "jeu",
+   "chemin": "nodes.n13.reponses.1.label",
+   "texte": "Le 5 août 1960"
+  },
+  {
+   "id": "nodes.n13.reponses.2.label",
+   "type": "jeu",
+   "chemin": "nodes.n13.reponses.2.label",
+   "texte": "Le 1er janvier 1916"
+  },
+  {
+   "id": "nodes.n13.tags.win",
+   "type": "parcours",
+   "chemin": "nodes.n13.tags.win",
+   "texte": "bonne réponse"
+  },
+  {
+   "id": "nodes.n13.tags.lose",
+   "type": "parcours",
+   "chemin": "nodes.n13.tags.lose",
+   "texte": "réponse manquée"
+  },
+  {
+   "id": "relire",
+   "type": "replique",
+   "chemin": "nodes.relire.text",
+   "noeud": "relire",
+   "partie": "1916 : les ruines (jeu)",
+   "personnage": "L'ancien",
+   "intonation": "grave",
+   "intonation_statut": "proposée",
+   "texte": "Reviens à Bona. Une date se garde comme un serment.",
+   "genre": "adulte/homme",
+   "duree_ms": 4400,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "bien",
+   "type": "replique",
+   "chemin": "nodes.bien.text",
+   "noeud": "bien",
+   "partie": "1916 : les ruines (jeu)",
+   "personnage": "L'ancien",
+   "intonation": "grave",
+   "intonation_statut": "proposée",
+   "texte": "Ne l'oublions pas.",
+   "genre": "adulte/homme",
+   "duree_ms": 1440,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "film-001",
+   "type": "film",
+   "partie": "Film d'animation, de 00:02.0 à 00:08.2",
+   "horodatage": {
+    "debut_ms": 2000,
+    "fin_ms": 8200
+   },
+   "personnage": "Narrateur",
+   "intonation": "sobre",
+   "intonation_statut": "scénario",
+   "texte": "Le soulèvement de Bona. Un récit du pays marka, simplifié pour l'image.",
+   "genre": "adulte/libre",
+   "duree_ms": 6200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-002",
+   "type": "film",
+   "partie": "Film d'animation, de 00:09.0 à 00:14.2",
+   "horodatage": {
+    "debut_ms": 9000,
+    "fin_ms": 14200
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "1915. À Datomon, la mosquée se dresse au cœur du pays marka.",
+   "genre": "adulte/libre",
+   "duree_ms": 5200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-003",
+   "type": "film",
+   "partie": "Film d'animation, de 00:18.0 à 00:23.1",
+   "horodatage": {
+    "debut_ms": 18000,
+    "fin_ms": 23100
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "La guerre des Blancs est loin. Mais ses exigences arrivent jusqu'ici.",
+   "genre": "adulte/libre",
+   "duree_ms": 5100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-004",
+   "type": "film",
+   "partie": "Film d'animation, de 00:28.0 à 00:34.3",
+   "horodatage": {
+    "debut_ms": 28000,
+    "fin_ms": 34300
+   },
+   "personnage": "PREDICATEUR",
+   "intonation": "inspiré",
+   "intonation_statut": "scénario",
+   "texte": "Écoutez ! Un messie viendra. Le pouvoir des Blancs prendra fin.",
+   "genre": "âgé/libre",
+   "duree_ms": 6300,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-005",
+   "type": "film",
+   "partie": "Film d'animation, de 00:37.0 à 00:43.4",
+   "horodatage": {
+    "debut_ms": 37000,
+    "fin_ms": 43400
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Un prédicateur parle chaque jour devant la mosquée. La foule l'écoute et commence à espérer.",
+   "genre": "adulte/libre",
+   "duree_ms": 6400,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-006",
+   "type": "film",
+   "partie": "Film d'animation, de 00:51.0 à 00:54.8",
+   "horodatage": {
+    "debut_ms": 51000,
+    "fin_ms": 54800
+   },
+   "personnage": "FOULE",
+   "intonation": "murmure plein d'espoir",
+   "intonation_statut": "scénario",
+   "texte": "Quand viendra-t-il ? Dis-nous quand !",
+   "genre": "adulte/femme",
+   "duree_ms": 3800,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-007",
+   "type": "film",
+   "partie": "Film d'animation, de 01:08.0 à 01:13.8",
+   "horodatage": {
+    "debut_ms": 68000,
+    "fin_ms": 73800
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Puis arrive le recrutement. L'administration veut des soldats pour sa guerre.",
+   "genre": "adulte/libre",
+   "duree_ms": 5800,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-008",
+   "type": "film",
+   "partie": "Film d'animation, de 01:15.5 à 01:18.0",
+   "horodatage": {
+    "debut_ms": 75500,
+    "fin_ms": 78000
+   },
+   "personnage": "CHEF",
+   "intonation": "digne",
+   "intonation_statut": "scénario",
+   "texte": "Nos fils sont nos bras pour les champs.",
+   "genre": "âgé/libre",
+   "duree_ms": 2500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-009",
+   "type": "film",
+   "partie": "Film d'animation, de 01:18.0 à 01:21.2",
+   "horodatage": {
+    "debut_ms": 78000,
+    "fin_ms": 81200
+   },
+   "personnage": "COMMANDANT",
+   "intonation": "sec",
+   "intonation_statut": "scénario",
+   "texte": "Ils partiront. Ce sont les ordres.",
+   "genre": "adulte/homme",
+   "duree_ms": 3200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-010",
+   "type": "film",
+   "partie": "Film d'animation, de 01:24.0 à 01:29.2",
+   "horodatage": {
+    "debut_ms": 84000,
+    "fin_ms": 89200
+   },
+   "personnage": "Narrateur",
+   "intonation": "grave",
+   "intonation_statut": "scénario",
+   "texte": "Les gardes emmènent les jeunes hommes. Les mères pleurent au bord du chemin.",
+   "genre": "adulte/libre",
+   "duree_ms": 5200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-011",
+   "type": "film",
+   "partie": "Film d'animation, de 01:47.0 à 01:51.7",
+   "horodatage": {
+    "debut_ms": 107000,
+    "fin_ms": 111700
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Une nuit, à Bona, les anciens se réunissent autour de l'autel.",
+   "genre": "adulte/libre",
+   "duree_ms": 4700,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-012",
+   "type": "film",
+   "partie": "Film d'animation, de 01:55.0 à 01:58.8",
+   "horodatage": {
+    "debut_ms": 115000,
+    "fin_ms": 118800
+   },
+   "personnage": "Narrateur",
+   "intonation": "ferme",
+   "intonation_statut": "scénario",
+   "texte": "Ils tendent la main au-dessus de lui, et ils font serment.",
+   "genre": "adulte/libre",
+   "duree_ms": 3800,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-013",
+   "type": "film",
+   "partie": "Film d'animation, de 02:06.0 à 02:10.0",
+   "horodatage": {
+    "debut_ms": 126000,
+    "fin_ms": 130000
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Dans le noir, les tambours de guerre commencent à parler.",
+   "genre": "adulte/libre",
+   "duree_ms": 4000,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-014",
+   "type": "film",
+   "partie": "Film d'animation, de 02:22.0 à 02:26.9",
+   "horodatage": {
+    "debut_ms": 142000,
+    "fin_ms": 146900
+   },
+   "personnage": "Narrateur",
+   "intonation": "ferme",
+   "intonation_statut": "scénario",
+   "texte": "Le 17 novembre 1915, l'insurrection éclate à Bona.",
+   "genre": "adulte/libre",
+   "duree_ms": 4900,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-015",
+   "type": "film",
+   "partie": "Film d'animation, de 02:30.0 à 02:35.8",
+   "horodatage": {
+    "debut_ms": 150000,
+    "fin_ms": 155800
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "La colonne arrive. Les flèches répondent aux fusils derrière le muret de banco.",
+   "genre": "adulte/libre",
+   "duree_ms": 5800,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-016",
+   "type": "film",
+   "partie": "Film d'animation, de 02:45.0 à 02:49.4",
+   "horodatage": {
+    "debut_ms": 165000,
+    "fin_ms": 169400
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Les défenseurs franchissent le muret, et la colonne recule.",
+   "genre": "adulte/libre",
+   "duree_ms": 4400,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-017",
+   "type": "film",
+   "partie": "Film d'animation, de 03:07.0 à 03:12.7",
+   "horodatage": {
+    "debut_ms": 187000,
+    "fin_ms": 192700
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "La nouvelle court de village en village. Des cavaliers portent le message.",
+   "genre": "adulte/libre",
+   "duree_ms": 5700,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-018",
+   "type": "film",
+   "partie": "Film d'animation, de 03:18.0 à 03:21.4",
+   "horodatage": {
+    "debut_ms": 198000,
+    "fin_ms": 201400
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Le soulèvement s'étend aux villages marka et bwa.",
+   "genre": "adulte/libre",
+   "duree_ms": 3400,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-019",
+   "type": "film",
+   "partie": "Film d'animation, de 03:37.0 à 03:43.9",
+   "horodatage": {
+    "debut_ms": 217000,
+    "fin_ms": 223900
+   },
+   "personnage": "Narrateur",
+   "intonation": "grave",
+   "intonation_statut": "scénario",
+   "texte": "Mais en 1916, la révolte est réprimée. À Bona, il ne reste que des ruines.",
+   "genre": "adulte/libre",
+   "duree_ms": 6900,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-020",
+   "type": "film",
+   "partie": "Film d'animation, de 03:50.0 à 03:53.1",
+   "horodatage": {
+    "debut_ms": 230000,
+    "fin_ms": 233100
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Le pays a payé très cher ce refus.",
+   "genre": "adulte/libre",
+   "duree_ms": 3100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-021",
+   "type": "film",
+   "partie": "Film d'animation, de 04:07.0 à 04:09.2",
+   "horodatage": {
+    "debut_ms": 247000,
+    "fin_ms": 249200
+   },
+   "personnage": "ANCIEN",
+   "intonation": "posé",
+   "intonation_statut": "scénario",
+   "texte": "Nos pères ont dit non.",
+   "genre": "âgé/libre",
+   "duree_ms": 2200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-022",
+   "type": "film",
+   "partie": "Film d'animation, de 04:10.5 à 04:12.6",
+   "horodatage": {
+    "debut_ms": 250500,
+    "fin_ms": 252600
+   },
+   "personnage": "ANCIEN",
+   "intonation": "posé",
+   "intonation_statut": "scénario",
+   "texte": "Ne l'oublions pas.",
+   "genre": "âgé/libre",
+   "duree_ms": 2100,
+   "duree_statut": "mesurée sur le film"
+  }
+ ]
+}

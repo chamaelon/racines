@@ -2,7 +2,7 @@
  * Les phases d'exploration : on clique sur les objets qui brillent, ou sur leur nom dans la liste.
  * Chaque objet ouvre la même fiche que la galerie du patrimoine.
  */
-import { ficheHtml, peindreDessins } from '../components/fiche-patrimoine.js';
+import { activerVues3d, ficheHtml } from '../components/fiche-patrimoine.js';
 
 export function explorer(racine, ids, { patrimoine, rendu, surTrouve }) {
   const hint = racine.querySelector('.j-explore');
@@ -11,12 +11,14 @@ export function explorer(racine, ids, { patrimoine, rendu, surTrouve }) {
   const info = racine.querySelector('.j-info');
   const corps = info.querySelector('.j-info-corps');
   const trouves = new Set();
+  let fermerVue = () => {};
   const maj = () => { compteur.textContent = `Objets découverts : ${trouves.size}/${ids.length}`; };
 
   function ouvrir(id) {
     const p = patrimoine.find((x) => x.id === id);
+    fermerVue();
     corps.innerHTML = ficheHtml(p);
-    peindreDessins(corps);
+    fermerVue = activerVues3d(corps, patrimoine);
     info.classList.remove('cache');
     info.querySelector('button').focus({ preventScroll: true });
     trouves.add(id);
@@ -40,6 +42,7 @@ export function explorer(racine, ids, { patrimoine, rendu, surTrouve }) {
       hint.classList.add('cache');
       info.classList.add('cache');
       rendu.finExplorer();
+      fermerVue();
       res();
     };
   });

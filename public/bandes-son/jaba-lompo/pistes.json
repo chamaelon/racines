@@ -1,0 +1,659 @@
+{
+ "id": "jaba-lompo",
+ "titre": "Jaba Lompo, le devin ancêtre",
+ "peuple": "Gulmancé",
+ "langues_cibles": [
+  "fr",
+  "gur"
+ ],
+ "pistes": [
+  {
+   "id": "titre",
+   "type": "titre",
+   "chemin": "titre",
+   "texte": "Jaba Lompo, le devin ancêtre"
+  },
+  {
+   "id": "presentation",
+   "type": "presentation",
+   "chemin": "presentation",
+   "texte": "Un géant étranger arrive au pays de l'Est sur un cheval blanc, et les gens se méfient. Ce récit est une tradition parmi d'autres sur l'origine des Gulmancé. Jette les cauris avec lui."
+  },
+  {
+   "id": "personnages.griot.nom",
+   "type": "personnage",
+   "chemin": "personnages.griot.nom",
+   "texte": "Le griot"
+  },
+  {
+   "id": "personnages.jaba.nom",
+   "type": "personnage",
+   "chemin": "personnages.jaba.nom",
+   "texte": "Jaba Lompo"
+  },
+  {
+   "id": "personnages.villageois.nom",
+   "type": "personnage",
+   "chemin": "personnages.villageois.nom",
+   "texte": "Le villageois"
+  },
+  {
+   "id": "personnages.enfant.nom",
+   "type": "personnage",
+   "chemin": "personnages.enfant.nom",
+   "texte": "L'enfant"
+  },
+  {
+   "id": "personnages.fils.nom",
+   "type": "personnage",
+   "chemin": "personnages.fils.nom",
+   "texte": "Son fils"
+  },
+  {
+   "id": "fins.canon",
+   "type": "fin",
+   "chemin": "fins.canon",
+   "texte": "Une tradition : Fada N'Gourma se souvient"
+  },
+  {
+   "id": "fins.mefiance",
+   "type": "fin",
+   "chemin": "fins.mefiance",
+   "texte": "Autre chemin : on renvoie l'étranger"
+  },
+  {
+   "id": "n1",
+   "type": "replique",
+   "chemin": "nodes.n1.text",
+   "noeud": "n1",
+   "partie": "Le cheval blanc (jeu)",
+   "personnage": "Le griot",
+   "intonation": "solennel",
+   "intonation_statut": "proposée",
+   "texte": "Les traditions ne s'accordent pas sur l'origine des Gulmancé. Selon l'une d'elles, Jaba Lompo descendit du ciel sur un cheval blanc, au treizième siècle.",
+   "genre": "adulte/homme",
+   "duree_ms": 10020,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n2",
+   "type": "replique",
+   "chemin": "nodes.n2.text",
+   "noeud": "n2",
+   "partie": "Le cheval blanc (jeu)",
+   "personnage": "Le griot",
+   "intonation": "solennel",
+   "intonation_statut": "proposée",
+   "texte": "Celle que voici n'est pas la seule. Écoute-la comme on écoute un voisin.",
+   "genre": "adulte/homme",
+   "duree_ms": 5540,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n3",
+   "type": "replique",
+   "chemin": "nodes.n3.text",
+   "noeud": "n3",
+   "partie": "Le géant au village (jeu)",
+   "personnage": "Le villageois",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Qui est ce géant ? Il n'a rien à faire ici. Un enfant est malade, et on n'a pas le temps pour les étrangers.",
+   "genre": "adulte/homme",
+   "duree_ms": 10170,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n4",
+   "type": "replique",
+   "chemin": "nodes.n4.text",
+   "noeud": "n4",
+   "partie": "Le géant au village (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Tu es au village. Que proposes-tu ?",
+   "genre": "adulte/homme",
+   "duree_ms": 3260,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n4.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.n4.choices.0.label",
+   "texte": "De lui amener l'enfant"
+  },
+  {
+   "id": "nodes.n4.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.n4.choices.0.tag",
+   "texte": "confiance"
+  },
+  {
+   "id": "nodes.n4.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.n4.choices.1.label",
+   "texte": "De le renvoyer d'où il vient"
+  },
+  {
+   "id": "nodes.n4.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.n4.choices.1.tag",
+   "texte": "méfiance"
+  },
+  {
+   "id": "renvoi",
+   "type": "replique",
+   "chemin": "nodes.renvoi.text",
+   "noeud": "renvoi",
+   "partie": "Le géant au village (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "On lui montre le chemin. Il repart sans un mot, et on ne saura jamais ce qu'il savait. Ce chemin n'est pas la tradition rapportée ici.",
+   "genre": "adulte/homme",
+   "duree_ms": 10930,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "enfant",
+   "type": "replique",
+   "chemin": "nodes.enfant.text",
+   "noeud": "enfant",
+   "partie": "Le géant au village (jeu)",
+   "personnage": "Jaba Lompo",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Amenez-moi cet enfant.",
+   "genre": "âgé/homme",
+   "duree_ms": 1440,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n5",
+   "type": "replique",
+   "chemin": "nodes.n5.text",
+   "noeud": "n5",
+   "partie": "Le géant au village (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Il se penche sur l'enfant malade, et l'enfant se relève. Alors on l'écoute. Il jette les cauris, et il lit l'avenir dans leur chute.",
+   "genre": "adulte/homme",
+   "duree_ms": 10320,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n6.question",
+   "type": "jeu",
+   "chemin": "nodes.n6.question",
+   "texte": "Avec quoi Jaba Lompo lit-il l'avenir ?"
+  },
+  {
+   "id": "nodes.n6.gagne",
+   "type": "jeu",
+   "chemin": "nodes.n6.gagne",
+   "texte": "Oui, les cauris. Et une vision lui apparaît."
+  },
+  {
+   "id": "nodes.n6.perdu",
+   "type": "jeu",
+   "chemin": "nodes.n6.perdu",
+   "texte": "Ce sont les cauris. Et une vision lui apparaît."
+  },
+  {
+   "id": "nodes.n6.reponses.0.label",
+   "type": "jeu",
+   "chemin": "nodes.n6.reponses.0.label",
+   "texte": "Des cauris"
+  },
+  {
+   "id": "nodes.n6.reponses.1.label",
+   "type": "jeu",
+   "chemin": "nodes.n6.reponses.1.label",
+   "texte": "Les étoiles"
+  },
+  {
+   "id": "nodes.n6.reponses.2.label",
+   "type": "jeu",
+   "chemin": "nodes.n6.reponses.2.label",
+   "texte": "Des feuilles de karité"
+  },
+  {
+   "id": "nodes.n6.tags.win",
+   "type": "parcours",
+   "chemin": "nodes.n6.tags.win",
+   "texte": "bonne réponse"
+  },
+  {
+   "id": "nodes.n6.tags.lose",
+   "type": "parcours",
+   "chemin": "nodes.n6.tags.lose",
+   "texte": "réponse manquée"
+  },
+  {
+   "id": "n7",
+   "type": "replique",
+   "chemin": "nodes.n7.text",
+   "noeud": "n7",
+   "partie": "Le géant au village (jeu)",
+   "personnage": "Jaba Lompo",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Là-bas, sur la colline, s'élèvera votre ville.",
+   "genre": "âgé/homme",
+   "duree_ms": 3260,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n8",
+   "type": "replique",
+   "chemin": "nodes.n8.text",
+   "noeud": "n8",
+   "partie": "Le bâton planté à Bingo (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Il marche jusqu'à ce lieu et plante son bâton : ici sera la ville. Ce fut Bingo, qui deviendra Fada N'Gourma. Les maisons montent autour du bâton.",
+   "genre": "adulte/homme",
+   "duree_ms": 11460,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n9",
+   "type": "replique",
+   "chemin": "nodes.n9.text",
+   "noeud": "n9",
+   "partie": "Le bâton planté à Bingo (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "On vient de loin pour le consulter. Il est à la fois devin et chef. Ses fils ont grandi. Que leur demande-t-il ?",
+   "genre": "adulte/homme",
+   "duree_ms": 9940,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n9.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.n9.choices.0.label",
+   "texte": "De partir fonder d'autres royaumes"
+  },
+  {
+   "id": "nodes.n9.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.n9.choices.0.tag",
+   "texte": "royaumes à fonder"
+  },
+  {
+   "id": "nodes.n9.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.n9.choices.1.label",
+   "texte": "De rester tous autour de lui"
+  },
+  {
+   "id": "nodes.n9.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.n9.choices.1.tag",
+   "texte": "fils gardés"
+  },
+  {
+   "id": "rester",
+   "type": "replique",
+   "chemin": "nodes.rester.text",
+   "noeud": "rester",
+   "partie": "Le bâton planté à Bingo (jeu)",
+   "personnage": "Son fils",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Père, la colline est petite, et nous sommes nombreux. Laisse-nous aller.",
+   "genre": "adulte/homme",
+   "duree_ms": 5080,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n10",
+   "type": "replique",
+   "chemin": "nodes.n10.text",
+   "noeud": "n10",
+   "partie": "Le bâton planté à Bingo (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Jaba Lompo sourit. C'est bien ce qu'il voulait entendre.",
+   "genre": "adulte/homme",
+   "duree_ms": 4020,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "fonder",
+   "type": "replique",
+   "chemin": "nodes.fonder.text",
+   "noeud": "fonder",
+   "partie": "Les fils et les royaumes (jeu)",
+   "personnage": "Jaba Lompo",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Mes fils, fondez d'autres royaumes.",
+   "genre": "âgé/homme",
+   "duree_ms": 2350,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n11",
+   "type": "replique",
+   "chemin": "nodes.n11.text",
+   "noeud": "n11",
+   "partie": "Les fils et les royaumes (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Ils partent dans des directions différentes, pour étendre le pays gulmancé. Fada N'Gourma se souvient de son fondateur.",
+   "genre": "adulte/homme",
+   "duree_ms": 7590,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n12",
+   "type": "replique",
+   "chemin": "nodes.n12.text",
+   "noeud": "n12",
+   "partie": "Les fils et les royaumes (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "C'est une tradition parmi d'autres, et elle mérite d'être écoutée. Chaque peuple garde son propre récit des commencements.",
+   "genre": "adulte/homme",
+   "duree_ms": 7590,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "film-001",
+   "type": "film",
+   "partie": "Film d'animation, de 00:02.0 à 00:07.5",
+   "horodatage": {
+    "debut_ms": 2000,
+    "fin_ms": 7500
+   },
+   "personnage": "Narrateur",
+   "intonation": "solennel",
+   "intonation_statut": "scénario",
+   "texte": "Jaba Lompo, le devin ancêtre. Une légende gulmancé.",
+   "genre": "adulte/libre",
+   "duree_ms": 5500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-002",
+   "type": "film",
+   "partie": "Film d'animation, de 00:09.0 à 00:17.6",
+   "horodatage": {
+    "debut_ms": 9000,
+    "fin_ms": 17600
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Les traditions ne s'accordent pas sur l'origine des Gulmancé. Certaines refusent de les lier aux Mossi, et parlent d'un homme venu d'ailleurs.",
+   "genre": "adulte/libre",
+   "duree_ms": 8600,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-003",
+   "type": "film",
+   "partie": "Film d'animation, de 00:28.0 à 00:32.8",
+   "horodatage": {
+    "debut_ms": 28000,
+    "fin_ms": 32800
+   },
+   "personnage": "Narrateur",
+   "intonation": "mystérieux",
+   "intonation_statut": "scénario",
+   "texte": "Selon l'une d'elles, Jaba Lompo descendit du ciel sur un cheval blanc.",
+   "genre": "adulte/libre",
+   "duree_ms": 4800,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-004",
+   "type": "film",
+   "partie": "Film d'animation, de 00:47.0 à 00:50.8",
+   "horodatage": {
+    "debut_ms": 47000,
+    "fin_ms": 50800
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Il arriva au pays de l'Est, au treizième siècle.",
+   "genre": "adulte/libre",
+   "duree_ms": 3800,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-005",
+   "type": "film",
+   "partie": "Film d'animation, de 01:04.0 à 01:07.2",
+   "horodatage": {
+    "debut_ms": 64000,
+    "fin_ms": 67200
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Les gens se méfiaient de ce géant étranger.",
+   "genre": "adulte/libre",
+   "duree_ms": 3200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-006",
+   "type": "film",
+   "partie": "Film d'animation, de 01:10.5 à 01:12.9",
+   "horodatage": {
+    "debut_ms": 70500,
+    "fin_ms": 72900
+   },
+   "personnage": "JABA",
+   "intonation": "doux",
+   "intonation_statut": "scénario",
+   "texte": "Amenez-moi cet enfant.",
+   "genre": "esprit, créature : voix grave/libre",
+   "duree_ms": 2400,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-007",
+   "type": "film",
+   "partie": "Film d'animation, de 01:16.0 à 01:22.1",
+   "horodatage": {
+    "debut_ms": 76000,
+    "fin_ms": 82100
+   },
+   "personnage": "Narrateur",
+   "intonation": "ému",
+   "intonation_statut": "scénario",
+   "texte": "Il se pencha sur un enfant malade, et l'enfant se releva. Alors on l'écouta.",
+   "genre": "adulte/libre",
+   "duree_ms": 6100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-008",
+   "type": "film",
+   "partie": "Film d'animation, de 01:44.0 à 01:48.1",
+   "horodatage": {
+    "debut_ms": 104000,
+    "fin_ms": 108100
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Il jetait les cauris, et il lisait l'avenir dans leur chute.",
+   "genre": "adulte/libre",
+   "duree_ms": 4100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-009",
+   "type": "film",
+   "partie": "Film d'animation, de 01:54.0 à 01:57.7",
+   "horodatage": {
+    "debut_ms": 114000,
+    "fin_ms": 117700
+   },
+   "personnage": "Narrateur",
+   "intonation": "mystérieux",
+   "intonation_statut": "scénario",
+   "texte": "Une vision lui apparut : une ville sur une colline.",
+   "genre": "adulte/libre",
+   "duree_ms": 3700,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-010",
+   "type": "film",
+   "partie": "Film d'animation, de 02:04.0 à 02:08.0",
+   "horodatage": {
+    "debut_ms": 124000,
+    "fin_ms": 128000
+   },
+   "personnage": "JABA",
+   "intonation": "inspiré",
+   "intonation_statut": "scénario",
+   "texte": "Là-bas, sur la colline, s'élèvera votre ville.",
+   "genre": "esprit, créature : voix grave/libre",
+   "duree_ms": 4000,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-011",
+   "type": "film",
+   "partie": "Film d'animation, de 02:20.0 à 02:24.8",
+   "horodatage": {
+    "debut_ms": 140000,
+    "fin_ms": 144800
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Il marcha jusqu'à ce lieu et planta son bâton : ici sera la ville.",
+   "genre": "adulte/libre",
+   "duree_ms": 4800,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-012",
+   "type": "film",
+   "partie": "Film d'animation, de 02:30.0 à 02:33.8",
+   "horodatage": {
+    "debut_ms": 150000,
+    "fin_ms": 153800
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Ce fut Bingo, qui deviendra Fada N'Gourma.",
+   "genre": "adulte/libre",
+   "duree_ms": 3800,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-013",
+   "type": "film",
+   "partie": "Film d'animation, de 02:41.0 à 02:43.9",
+   "horodatage": {
+    "debut_ms": 161000,
+    "fin_ms": 163900
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Les maisons montèrent autour du bâton.",
+   "genre": "adulte/libre",
+   "duree_ms": 2900,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-014",
+   "type": "film",
+   "partie": "Film d'animation, de 03:00.0 à 03:04.0",
+   "horodatage": {
+    "debut_ms": 180000,
+    "fin_ms": 184000
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Jaba Lompo y siégea, à la fois devin et chef.",
+   "genre": "adulte/libre",
+   "duree_ms": 4000,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-015",
+   "type": "film",
+   "partie": "Film d'animation, de 03:12.0 à 03:14.9",
+   "horodatage": {
+    "debut_ms": 192000,
+    "fin_ms": 194900
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "On venait de loin pour le consulter.",
+   "genre": "adulte/libre",
+   "duree_ms": 2900,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-016",
+   "type": "film",
+   "partie": "Film d'animation, de 03:36.0 à 03:39.2",
+   "horodatage": {
+    "debut_ms": 216000,
+    "fin_ms": 219200
+   },
+   "personnage": "JABA",
+   "intonation": "paternel",
+   "intonation_statut": "scénario",
+   "texte": "Mes fils, fondez d'autres royaumes.",
+   "genre": "esprit, créature : voix grave/libre",
+   "duree_ms": 3200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-017",
+   "type": "film",
+   "partie": "Film d'animation, de 03:42.0 à 03:47.3",
+   "horodatage": {
+    "debut_ms": 222000,
+    "fin_ms": 227300
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Et ses fils partirent dans des directions différentes, pour étendre le pays gulmancé.",
+   "genre": "adulte/libre",
+   "duree_ms": 5300,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-018",
+   "type": "film",
+   "partie": "Film d'animation, de 04:10.0 à 04:18.8",
+   "horodatage": {
+    "debut_ms": 250000,
+    "fin_ms": 258800
+   },
+   "personnage": "Narrateur",
+   "intonation": "doux",
+   "intonation_statut": "scénario",
+   "texte": "Aujourd'hui, Fada N'Gourma se souvient de son fondateur. C'est une tradition parmi d'autres, et elle mérite d'être écoutée.",
+   "genre": "adulte/libre",
+   "duree_ms": 8800,
+   "duree_statut": "mesurée sur le film"
+  }
+ ]
+}

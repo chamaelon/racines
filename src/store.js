@@ -3,7 +3,7 @@
  * tout reste en mémoire le temps de la visite.
  */
 const CLE = 'racines-progression';
-const defaut = () => ({ recits: {}, fins: {}, objets: [], sauvegardes: {}, audio: {}, prefs: { son: true, vitesse: 1, intro: false } });
+const defaut = () => ({ recits: {}, fins: {}, objets: [], sauvegardes: {}, audio: {}, prefs: { son: true, vitesse: 1, intro: false, langueTexte: 'fr', langueVoix: '' } });
 
 function lire() {
   try {

@@ -1,0 +1,392 @@
+# Téné et le balafon des génies : fiches des bandes-son
+# Généré par « npm run bandes-son » depuis pistes.json. Modifier pistes.json, pas ce fichier.
+
+piste: n1
+histoire: Téné et le balafon des génies
+partie: Le balafon de Ziè (jeu)
+personnage: Le griot
+fichier: tene-balafon-n1-<langue>.m4a
+intonation: posé (proposée)
+texte: Le soir, au village, le vieux Ziè jouait du balafon. Et Téné dansait. Regarde l'instrument.
+genre: adulte/homme
+duree: 6900ms (estimée)
+
+piste: n2
+histoire: Téné et le balafon des génies
+partie: Le balafon de Ziè (jeu)
+personnage: Le griot
+fichier: tene-balafon-n2-<langue>.m4a
+intonation: posé (proposée)
+texte: Une nuit, une autre musique monte de la brousse, plus belle que celle de Ziè. Téné se lève sans bruit. Elle part vers le son.
+genre: adulte/homme
+duree: 10700ms (estimée)
+
+piste: n3
+histoire: Téné et le balafon des génies
+partie: La disparition (jeu)
+personnage: La mère
+fichier: tene-balafon-n3-<langue>.m4a
+intonation: vif (proposée)
+texte: Téné ! Ma fille n'est plus là !
+genre: adulte/femme
+duree: 3640ms (estimée)
+
+piste: n4
+histoire: Téné et le balafon des génies
+partie: La disparition (jeu)
+personnage: Le vieux Ziè
+fichier: tene-balafon-n4-<langue>.m4a
+intonation: chuchoté (proposée)
+texte: Cette nuit, j'ai entendu jouer en brousse.
+genre: adulte/homme
+duree: 3110ms (estimée)
+
+piste: n5
+histoire: Téné et le balafon des génies
+partie: La disparition (jeu)
+personnage: Le griot
+fichier: tene-balafon-n5-<langue>.m4a
+intonation: enlevé (proposée)
+texte: Les génies ! Que fait la famille ?
+genre: adulte/homme
+duree: 3640ms (estimée)
+
+piste: seul
+histoire: Téné et le balafon des génies
+partie: La disparition (jeu)
+personnage: Le griot
+fichier: tene-balafon-seul-<langue>.m4a
+intonation: chuchoté (proposée)
+texte: Il marche jusqu'au matin, il appelle, et seule la musique lui répond. Il revient épuisé. Il reste une nuit pour bien faire.
+genre: adulte/homme
+duree: 9560ms (estimée)
+
+piste: attente
+histoire: Téné et le balafon des génies
+partie: La disparition (jeu)
+personnage: Le griot
+fichier: tene-balafon-attente-<langue>.m4a
+intonation: chuchoté (proposée)
+texte: Elle ne revient pas. Les soirs de lune, dit-on, quelqu'un danse encore dans la clairière, sans nom et sans village. Tu pourrais recommencer pour changer cela.
+genre: adulte/homme
+duree: 11230ms (estimée)
+
+piste: dozo
+histoire: Téné et le balafon des génies
+partie: La disparition (jeu)
+personnage: Le griot
+fichier: tene-balafon-dozo-<langue>.m4a
+intonation: chuchoté (proposée)
+texte: Le maître consulte ses amulettes et lève son chasse-mouche. Les dozo partent avec leur chien. Au loin, la musique revient.
+genre: adulte/homme
+duree: 8650ms (estimée)
+
+piste: n7
+histoire: Téné et le balafon des génies
+partie: La clairière des génies (jeu)
+personnage: Le griot
+fichier: tene-balafon-n7-<langue>.m4a
+intonation: mystérieux (proposée)
+texte: Dans une clairière, les génies jouent à la lune. Téné danse, et elle ne peut plus s'arrêter. Elle a tout oublié : son nom, sa mère, son village.
+genre: adulte/homme
+duree: 12290ms (estimée)
+
+piste: n8
+histoire: Téné et le balafon des génies
+partie: La clairière des génies (jeu)
+personnage: Le griot
+fichier: tene-balafon-n8-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Le maître lève son chasse-mouche. Un éclair, et tout s'arrête. Que dit-il ?
+genre: adulte/homme
+duree: 5990ms (estimée)
+
+piste: combat
+histoire: Téné et le balafon des génies
+partie: La clairière des génies (jeu)
+personnage: Le chef des génies
+fichier: tene-balafon-combat-<langue>.m4a
+intonation: mystérieux (proposée)
+texte: Personne ne combat la brousse chez elle, chasseur. Parle mieux, ou repars seul.
+genre: voix de génie/libre
+duree: 5840ms (estimée)
+
+piste: n9
+histoire: Téné et le balafon des génies
+partie: La clairière des génies (jeu)
+personnage: Le maître dozo
+fichier: tene-balafon-n9-<langue>.m4a
+intonation: mystérieux (proposée)
+texte: Rendez cette enfant à sa mère.
+genre: adulte/homme
+duree: 2580ms (estimée)
+
+piste: rendre
+histoire: Téné et le balafon des génies
+partie: La clairière des génies (jeu)
+personnage: Le chef des génies
+fichier: tene-balafon-rendre-<langue>.m4a
+intonation: mystérieux (proposée)
+texte: Garde ce balafon, enfant. Il est à toi.
+genre: voix de génie/libre
+duree: 3790ms (estimée)
+
+piste: n10
+histoire: Téné et le balafon des génies
+partie: La fête des récoltes (jeu)
+personnage: Le griot
+fichier: tene-balafon-n10-<langue>.m4a
+intonation: joyeux (proposée)
+texte: Téné s'éveille comme d'un long rêve. À la fête des récoltes, elle joue le balafon des génies, et tout le village danse.
+genre: adulte/homme
+duree: 9260ms (estimée)
+
+piste: film-001
+histoire: Téné et le balafon des génies
+partie: Film d'animation, de 00:02.0 à 00:06.6
+personnage: Narrateur
+fichier: tene-balafon-film-001-<langue>.m4a
+intonation: malicieux (scénario)
+texte: Téné et le balafon des génies. Un conte senoufo.
+genre: adulte/libre
+duree: 4600ms (mesurée sur le film)
+
+piste: film-002
+histoire: Téné et le balafon des génies
+partie: Film d'animation, de 00:08.0 à 00:12.3
+personnage: Narrateur
+fichier: tene-balafon-film-002-<langue>.m4a
+intonation: posé (proposée)
+texte: Le soir, au village, le vieux Ziè jouait du balafon.
+genre: adulte/libre
+duree: 4300ms (mesurée sur le film)
+
+piste: film-003
+histoire: Téné et le balafon des génies
+partie: Film d'animation, de 00:14.0 à 00:19.2
+personnage: Narrateur
+fichier: tene-balafon-film-003-<langue>.m4a
+intonation: tendre (scénario)
+texte: Et Téné dansait. Elle aimait cet instrument plus que tout au monde.
+genre: adulte/libre
+duree: 5200ms (mesurée sur le film)
+
+piste: film-004
+histoire: Téné et le balafon des génies
+partie: Film d'animation, de 00:30.0 à 00:37.9
+personnage: Narrateur
+fichier: tene-balafon-film-004-<langue>.m4a
+intonation: mystérieux (scénario)
+texte: Une nuit, une autre musique monta de la brousse. Plus belle que celle de Ziè. Plus lointaine aussi.
+genre: adulte/libre
+duree: 7900ms (mesurée sur le film)
+
+piste: film-005
+histoire: Téné et le balafon des génies
+partie: Film d'animation, de 00:44.0 à 00:49.7
+personnage: Narrateur
+fichier: tene-balafon-film-005-<langue>.m4a
+intonation: posé (proposée)
+texte: Téné se leva sans bruit. Elle quitta sa natte, et elle partit vers le son.
+genre: adulte/libre
+duree: 5700ms (mesurée sur le film)
+
+piste: film-006
+histoire: Téné et le balafon des génies
+partie: Film d'animation, de 01:06.0 à 01:10.1
+personnage: Narrateur
+fichier: tene-balafon-film-006-<langue>.m4a
+intonation: mystérieux (scénario)
+texte: Dans une clairière, les génies de la brousse jouaient à la lune.
+genre: adulte/libre
+duree: 4100ms (mesurée sur le film)
+
+piste: film-007
+histoire: Téné et le balafon des génies
+partie: Film d'animation, de 01:18.0 à 01:24.4
+personnage: Narrateur
+fichier: tene-balafon-film-007-<langue>.m4a
+intonation: posé (proposée)
+texte: Téné se mit à danser, et elle ne put plus s'arrêter. Les génies tournaient autour d'elle.
+genre: adulte/libre
+duree: 6400ms (mesurée sur le film)
+
+piste: film-008
+histoire: Téné et le balafon des génies
+partie: Film d'animation, de 01:31.0 à 01:35.6
+personnage: Narrateur
+fichier: tene-balafon-film-008-<langue>.m4a
+intonation: posé (proposée)
+texte: Elle avait tout oublié : son nom, sa mère, son village.
+genre: adulte/libre
+duree: 4600ms (mesurée sur le film)
+
+piste: film-009
+histoire: Téné et le balafon des génies
+partie: Film d'animation, de 01:46.0 à 01:49.1
+personnage: Narrateur
+fichier: tene-balafon-film-009-<langue>.m4a
+intonation: posé (proposée)
+texte: Au matin, la natte était vide.
+genre: adulte/libre
+duree: 3100ms (mesurée sur le film)
+
+piste: film-010
+histoire: Téné et le balafon des génies
+partie: Film d'animation, de 01:49.5 à 01:53.2
+personnage: MERE
+fichier: tene-balafon-film-010-<langue>.m4a
+intonation: paniqué (scénario)
+texte: Téné ! Ma fille n'est plus là !
+genre: adulte/femme
+duree: 3700ms (mesurée sur le film)
+
+piste: film-011
+histoire: Téné et le balafon des génies
+partie: Film d'animation, de 01:56.0 à 01:58.1
+personnage: PERE
+fichier: tene-balafon-film-011-<langue>.m4a
+intonation: inquiet (scénario)
+texte: Personne ne l'a vue ?
+genre: adulte/homme
+duree: 2100ms (mesurée sur le film)
+
+piste: film-012
+histoire: Téné et le balafon des génies
+partie: Film d'animation, de 01:58.5 à 02:01.5
+personnage: ZIE
+fichier: tene-balafon-film-012-<langue>.m4a
+intonation: grave (scénario)
+texte: Cette nuit, j'ai entendu jouer en brousse.
+genre: âgé/libre
+duree: 3000ms (mesurée sur le film)
+
+piste: film-013
+histoire: Téné et le balafon des génies
+partie: Film d'animation, de 02:01.5 à 02:03.6
+personnage: MERE
+fichier: tene-balafon-film-013-<langue>.m4a
+intonation: effrayé (scénario)
+texte: Les génies !
+genre: adulte/femme
+duree: 2100ms (mesurée sur le film)
+
+piste: film-014
+histoire: Téné et le balafon des génies
+partie: Film d'animation, de 02:16.0 à 02:20.3
+personnage: Narrateur
+fichier: tene-balafon-film-014-<langue>.m4a
+intonation: posé (proposée)
+texte: On alla trouver les chasseurs dozo, les gardiens de la brousse.
+genre: adulte/libre
+duree: 4300ms (mesurée sur le film)
+
+piste: film-015
+histoire: Téné et le balafon des génies
+partie: Film d'animation, de 02:21.0 à 02:23.8
+personnage: PERE
+fichier: tene-balafon-film-015-<langue>.m4a
+intonation: suppliant (scénario)
+texte: Ramenez-moi ma fille, je vous en prie.
+genre: adulte/homme
+duree: 2800ms (mesurée sur le film)
+
+piste: film-016
+histoire: Téné et le balafon des génies
+partie: Film d'animation, de 02:24.0 à 02:26.6
+personnage: MAITRE
+fichier: tene-balafon-film-016-<langue>.m4a
+intonation: calme (scénario)
+texte: Nous partirons ce soir.
+genre: adulte/homme
+duree: 2600ms (mesurée sur le film)
+
+piste: film-017
+histoire: Téné et le balafon des génies
+partie: Film d'animation, de 02:30.0 à 02:36.8
+personnage: Narrateur
+fichier: tene-balafon-film-017-<langue>.m4a
+intonation: posé (proposée)
+texte: Le maître consulta ses amulettes et leva son chasse-mouche. Puis les dozo partirent avec leur chien.
+genre: adulte/libre
+duree: 6800ms (mesurée sur le film)
+
+piste: film-018
+histoire: Téné et le balafon des génies
+partie: Film d'animation, de 02:52.0 à 02:56.7
+personnage: Narrateur
+fichier: tene-balafon-film-018-<langue>.m4a
+intonation: posé (proposée)
+texte: Ils marchèrent toute la nuit. Le chien flairait les herbes.
+genre: adulte/libre
+duree: 4700ms (mesurée sur le film)
+
+piste: film-019
+histoire: Téné et le balafon des génies
+partie: Film d'animation, de 03:05.0 à 03:12.0
+personnage: Narrateur
+fichier: tene-balafon-film-019-<langue>.m4a
+intonation: chuchoté (scénario)
+texte: Au loin, la musique revenait. Les hommes s'arrêtèrent, puis ils avancèrent en silence.
+genre: adulte/libre
+duree: 7000ms (mesurée sur le film)
+
+piste: film-020
+histoire: Téné et le balafon des génies
+partie: Film d'animation, de 03:27.0 à 03:33.0
+personnage: Narrateur
+fichier: tene-balafon-film-020-<langue>.m4a
+intonation: fort (scénario)
+texte: Le maître dozo leva son chasse-mouche. Un éclair, et tout s'arrêta.
+genre: adulte/libre
+duree: 6000ms (mesurée sur le film)
+
+piste: film-021
+histoire: Téné et le balafon des génies
+partie: Film d'animation, de 03:39.0 à 03:41.9
+personnage: MAITRE
+fichier: tene-balafon-film-021-<langue>.m4a
+intonation: ferme (scénario)
+texte: Rendez cette enfant à sa mère.
+genre: adulte/homme
+duree: 2900ms (mesurée sur le film)
+
+piste: film-022
+histoire: Téné et le balafon des génies
+partie: Film d'animation, de 03:43.0 à 03:46.6
+personnage: Narrateur
+fichier: tene-balafon-film-022-<langue>.m4a
+intonation: posé (proposée)
+texte: Le chef des génies hésita, puis il céda.
+genre: adulte/libre
+duree: 3600ms (mesurée sur le film)
+
+piste: film-023
+histoire: Téné et le balafon des génies
+partie: Film d'animation, de 03:50.0 à 03:53.8
+personnage: GENIE
+fichier: tene-balafon-film-023-<langue>.m4a
+intonation: voix profonde (scénario)
+texte: Garde ce balafon. Il est à toi.
+genre: esprit, créature : voix grave/libre
+duree: 3800ms (mesurée sur le film)
+
+piste: film-024
+histoire: Téné et le balafon des génies
+partie: Film d'animation, de 03:56.0 à 04:00.1
+personnage: Narrateur
+fichier: tene-balafon-film-024-<langue>.m4a
+intonation: ému (scénario)
+texte: Il le laissa à Téné, qui s'éveilla comme d'un long rêve.
+genre: adulte/libre
+duree: 4100ms (mesurée sur le film)
+
+piste: film-025
+histoire: Téné et le balafon des génies
+partie: Film d'animation, de 04:12.0 à 04:18.3
+personnage: Narrateur
+fichier: tene-balafon-film-025-<langue>.m4a
+intonation: joyeux (scénario)
+texte: À la fête des récoltes, Téné joua le balafon des génies. Et tout le village dansa.
+genre: adulte/libre
+duree: 6300ms (mesurée sur le film)

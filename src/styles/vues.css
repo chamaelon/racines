@@ -70,9 +70,9 @@
 /* ---- Écran d'accueil du griot ---- */
 .veillee { position: fixed; inset: 0; z-index: 70; display: flex; align-items: center; justify-content: center; padding: 18px; background: radial-gradient(ellipse at center, rgba(70, 36, 14, .92), rgba(20, 14, 10, .97)); }
 .veillee-carte { display: flex; gap: 18px; align-items: center; width: min(620px, 100%); background: var(--papier); border: 3px solid var(--ocre); border-radius: 18px; padding: 18px 22px; box-shadow: var(--ombre); }
-.veillee-carte canvas { flex: none; width: 104px; height: 208px; }
+.veillee-carte img { flex: none; width: 104px; height: 208px; }
 .veillee-texte { font-size: 19px; min-height: 5.2em; }
-@media (max-width: 480px) { .veillee-carte canvas { width: 72px; height: 144px; } .veillee-texte { font-size: 17px; } .veillee-carte { gap: 10px; padding: 14px; } }
+@media (max-width: 480px) { .veillee-carte img { width: 72px; height: 144px; } .veillee-texte { font-size: 17px; } .veillee-carte { gap: 10px; padding: 14px; } }
 
 /* ---- Catalogue ---- */
 .filtres { display: flex; flex-wrap: wrap; gap: 10px 12px; align-items: flex-end; padding: 12px 14px; background: var(--papier-2); border-radius: var(--rayon); margin-bottom: 10px; }
@@ -136,12 +136,19 @@
 .grille-patrimoine { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(165px, 1fr)); gap: 14px; }
 .grille-patrimoine a { display: block; height: 100%; background: #fffaf0; border: 1px solid var(--papier-2); border-radius: var(--rayon); padding: 10px; color: var(--encre); text-decoration: none; text-align: center; }
 .grille-patrimoine a:hover { border-color: var(--terre); box-shadow: var(--ombre); }
-.grille-patrimoine canvas { width: 100%; height: auto; display: block; }
+.grille-patrimoine img { width: 100%; height: auto; display: block; border-radius: 8px; }
 .grille-patrimoine h2 { font-size: 15px; margin: 8px 0 2px; }
-.dessin-patrimoine { display: block; width: 100%; max-width: 256px; height: auto; background: #fffaf0; border-radius: var(--rayon); }
-.fiche-p-corps { display: grid; grid-template-columns: minmax(180px, 280px) minmax(0, 1fr); gap: 26px; align-items: start; }
+.objet-3d { position: relative; margin: 0; width: 100%; max-width: 384px; background: #efe0c2; border-radius: var(--rayon); overflow: hidden; }
+.objet-3d img, .objet-3d-canvas { display: block; width: 100%; height: auto; aspect-ratio: 1; touch-action: none; }
+.objet-3d img[hidden] { display: none; }
+.objet-3d-canvas:focus-visible { outline: 3px solid var(--ocre); outline-offset: -3px; }
+.objet-3d-btn { position: absolute; left: 8px; bottom: 8px; }
+.details-objet { margin: 4px 0 12px; padding-left: 20px; }
+.filtre-peuple { display: inline-flex; gap: 8px; align-items: center; margin: 0 0 12px; font-weight: 700; }
+.filtre-peuple select { min-height: 38px; padding: 4px 8px; }
+.fiche-p-corps { display: grid; grid-template-columns: minmax(200px, 384px) minmax(0, 1fr); gap: 26px; align-items: start; }
 .fiche-p-corps h1 { margin-top: 0; }
-@media (max-width: 640px) { .fiche-p-corps { grid-template-columns: minmax(0, 1fr); } .dessin-patrimoine { max-width: 180px; } }
+@media (max-width: 640px) { .fiche-p-corps { grid-template-columns: minmax(0, 1fr); } .objet-3d { max-width: 300px; } }
 
 /* ---- Mon parcours ---- */
 .badges { list-style: none; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 10px; }
@@ -188,7 +195,7 @@
 .j-explore-liste button.trouve { border-style: solid; color: var(--papier); }
 .j-explore-liste button.trouve::after { content: " ✓"; color: #7dff8e; }
 .j-info { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -55%); z-index: 6; width: min(440px, calc(100% - 28px)); max-height: 76dvh; overflow-y: auto; background: var(--papier); border: 3px solid var(--ocre); border-radius: 16px; padding: 14px 18px; box-shadow: 0 12px 40px rgba(0, 0, 0, .5); }
-.j-info .dessin-patrimoine { max-width: 110px; float: right; margin: 0 0 6px 10px; }
+.j-info .objet-3d { max-width: 200px; float: right; margin: 0 0 6px 10px; }
 .j-info h2 { margin: 0 0 6px; }
 .j-mini { position: absolute; inset: 0; z-index: 3; display: flex; flex-direction: column; align-items: center; padding: 64px 14px 14px; touch-action: manipulation; }
 .j-mini.tape { cursor: pointer; }
@@ -235,4 +242,54 @@
   .j-explore { top: 86px; }
   .j-haut { flex-wrap: wrap; }
   .j-fil { flex-basis: 100%; order: 2; }
+}
+
+/* ---- Les deux axes du voyage */
+.carte-temps { position: absolute; left: 10px; right: 190px; bottom: 12px; z-index: 3; }
+.frise { background: rgba(20, 14, 10, .9); border: 1px solid var(--ocre); border-radius: 10px; padding: 6px 8px; color: var(--papier); }
+.frise-tete { display: flex; align-items: center; justify-content: space-between; gap: 8px; min-height: 30px; margin-bottom: 4px; }
+.frise-lecture { font: 800 14px var(--corps); color: var(--ocre-clair); }
+.frise-toutes { min-height: 30px; padding: 3px 9px; border-radius: 8px; border: 1px solid var(--ocre); background: transparent; color: var(--papier); font: 700 12.5px var(--corps); cursor: pointer; }
+.frise-toutes:hover { background: var(--terre); }
+.frise-toutes[aria-pressed=true] { background: var(--ocre); color: var(--encre); }
+.frise-defile { overflow-x: auto; scrollbar-width: thin; scrollbar-color: var(--ocre) transparent; }
+.frise-piste { position: relative; width: max(100%, calc(var(--n) * 66px)); padding-bottom: 4px; }
+.frise-bandes, .frise-crans { display: flex; }
+.frise-bandes button { min-width: 0; min-height: 26px; padding: 2px 4px; border: 0; border-right: 2px solid var(--nuit); background: var(--terre); color: #fff; font: 700 12px var(--corps); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; cursor: pointer; }
+.frise-bandes button:hover { background: var(--terre-vive); }
+.frise-crans button { flex: 1 1 0; min-width: 0; min-height: 44px; padding: 22px 0 0; border: 0; background: none; color: var(--papier-2); font: 400 11.5px var(--corps); cursor: pointer; }
+.frise-crans button:hover, .frise-crans button.choisi { color: var(--ocre-clair); font-weight: 800; }
+/* Le fond de la piste laisse défiler au doigt : seule la poignée du curseur capte le pointeur. */
+.frise-curseur { position: absolute; top: 26px; left: calc(100% / var(--n) / 2 - 10px); width: calc(100% - 100% / var(--n) + 20px); height: 24px; margin: 0; background: transparent; accent-color: var(--ocre); pointer-events: none; cursor: grab; }
+.frise-curseur::-webkit-slider-thumb { pointer-events: auto; touch-action: none; }
+.frise-curseur::-moz-range-thumb { pointer-events: auto; touch-action: none; }
+.frise.au-repos .frise-curseur { opacity: .45; }
+.objet-motif { padding: 8px 12px 12px; }
+.objet-motif select { min-height: 36px; max-width: 100%; }
+.marqueur-etape .forme { opacity: .82; }
+.j-repere { align-self: center; margin-right: auto; max-width: 42vw; padding: 5px 10px; border-radius: 8px; background: rgba(20, 14, 10, .78); color: var(--ocre-clair); font: 700 12.5px var(--corps); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.j-quitter { border-color: #e9866f; }
+.j-btn:disabled { opacity: .5; cursor: not-allowed; }
+.j-voyage { position: absolute; inset: 0; z-index: 9; display: grid; place-items: center; background: rgba(10, 7, 5, .72); padding: 14px; overflow: auto; }
+.j-voyage-carte { max-width: 560px; width: 100%; max-height: 92vh; overflow: auto; }
+.j-voyage .frise { margin-top: 10px; }
+.j-voyage .frise-piste { width: max(100%, calc(var(--n) * 96px)); }
+.j-voyage-groupe h3 { margin: 14px 0 6px; font: 800 15px var(--corps); color: var(--terre); }
+.j-voyage-groupe h3 small { font-weight: 400; color: var(--encre-douce); }
+.j-voyage-groupe ul { list-style: none; margin: 0; padding: 0; display: grid; gap: 5px; }
+.j-etape { width: 100%; min-height: 44px; display: flex; justify-content: space-between; gap: 10px; align-items: center; text-align: left; padding: 7px 11px; border-radius: 8px; border: 1px solid var(--terre-vive); background: var(--nuit-3); color: var(--papier); font: 400 14.5px var(--corps); cursor: pointer; }
+.j-etape:hover { background: var(--terre); }
+.j-etape small { color: var(--papier-2); white-space: nowrap; }
+.j-etape[aria-current] { border-color: var(--ocre); box-shadow: inset 0 0 0 1px var(--ocre); }
+.j-langues { display: flex; flex-wrap: wrap; gap: 10px 18px; justify-content: center; margin: 10px 0; }
+.j-langues .j-reglage { display: flex; flex-direction: column; gap: 3px; font: 700 13px var(--corps); text-align: left; }
+.jeu select { min-height: 36px; padding: 4px 8px; border-radius: 8px; border: 1px solid var(--ocre); background: var(--nuit-2); color: var(--papier); font: 700 13.5px var(--corps); }
+@media (max-width: 700px) {
+  .j-repere { order: 9; max-width: 100%; margin: 0; }
+  .carte-temps { position: static; padding: 8px 10px; background: var(--nuit); }
+  /* Le bandeau du temps et la légende s'ajoutent à la carte, sans lui prendre sa hauteur. */
+  .carte-zone { display: flex; flex-direction: column; height: auto; }
+  .carte-cadre { position: relative; inset: auto; flex: none; height: 56dvh; min-height: 300px; }
+  /* Les boutons passent au-dessus de la carte : ils ne cachent plus aucun marqueur sous le doigt. */
+  .carte-boutons { position: static; order: -1; padding: 8px 10px; background: var(--nuit); }
 }

@@ -1,0 +1,322 @@
+# Silamaka et Poullori : fiches des bandes-son
+# Généré par « npm run bandes-son » depuis pistes.json. Modifier pistes.json, pas ce fichier.
+
+piste: n1
+histoire: Silamaka et Poullori
+partie: L'enfant et le serpent (jeu)
+personnage: Le griot
+fichier: silamaka-n1-<langue>.m4a
+intonation: posé (proposée)
+texte: Silamaka, un héros peul. Et Poullori, son compagnon, à qui rien ne fait peur. Silamaka n'était encore qu'un enfant quand un serpent se dressa devant lui, dans la brousse.
+genre: adulte/homme
+duree: 12520ms (estimée)
+
+piste: n2
+histoire: Silamaka et Poullori
+partie: L'enfant et le serpent (jeu)
+personnage: Le griot
+fichier: silamaka-n2-<langue>.m4a
+intonation: posé (proposée)
+texte: Il tend la main, et le serpent, au lieu de mordre, s'incline. Il devient son protecteur.
+genre: adulte/homme
+duree: 7130ms (estimée)
+
+piste: n3
+histoire: Silamaka et Poullori
+partie: Le tribut de Ségou (jeu)
+personnage: Le griot
+fichier: silamaka-n3-<langue>.m4a
+intonation: posé (proposée)
+texte: Puis vient le roi de Ségou, qui exige un tribut de tous les campements. Ses envoyés arrivent, sûrs d'eux.
+genre: adulte/homme
+duree: 8120ms (estimée)
+
+piste: n4
+histoire: Silamaka et Poullori
+partie: Le tribut de Ségou (jeu)
+personnage: L'envoyé de Ségou
+fichier: silamaka-n4-<langue>.m4a
+intonation: posé (proposée)
+texte: Le tribut. Ou l'armée de Ségou viendra le prendre.
+genre: adulte/homme
+duree: 4020ms (estimée)
+
+piste: n5
+histoire: Silamaka et Poullori
+partie: Le tribut de Ségou (jeu)
+personnage: Le griot
+fichier: silamaka-n5-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Tout le campement se tait. On regarde Silamaka, et il te regarde. Que lui dis-tu ?
+genre: adulte/homme
+duree: 7130ms (estimée)
+
+piste: paye
+histoire: Silamaka et Poullori
+partie: Le tribut de Ségou (jeu)
+personnage: Silamaka
+fichier: silamaka-paye-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Tu dis cela, Poullori ? Toi ?
+genre: adulte/homme
+duree: 3410ms (estimée)
+
+piste: n6
+histoire: Silamaka et Poullori
+partie: Le tribut de Ségou (jeu)
+personnage: Le griot
+fichier: silamaka-n6-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Il te regarde encore. Tu maintiens ton conseil ?
+genre: adulte/homme
+duree: 4020ms (estimée)
+
+piste: finpaye
+histoire: Silamaka et Poullori
+partie: Le tribut de Ségou (jeu)
+personnage: Le griot
+fichier: silamaka-finpaye-<langue>.m4a
+intonation: posé (proposée)
+texte: Le campement paie. Il paiera l'an prochain aussi. Dans ce chemin imaginé, il n'y a pas d'épopée, et personne ne chante plus vos noms.
+genre: adulte/homme
+duree: 10320ms (estimée)
+
+piste: avec
+histoire: Silamaka et Poullori
+partie: Le tribut de Ségou (jeu)
+personnage: Silamaka
+fichier: silamaka-avec-<langue>.m4a
+intonation: posé (proposée)
+texte: Dites à votre roi que nous ne paierons pas.
+genre: adulte/homme
+duree: 3720ms (estimée)
+
+piste: n7
+histoire: Silamaka et Poullori
+partie: Le tribut de Ségou (jeu)
+personnage: Le griot
+fichier: silamaka-n7-<langue>.m4a
+intonation: enlevé (proposée)
+texte: Les envoyés font demi-tour. Chacun sait ce qui va suivre. L'armée de Ségou arrive. En selle !
+genre: adulte/homme
+duree: 7660ms (estimée)
+
+piste: n9
+histoire: Silamaka et Poullori
+partie: Le serpent surgit (jeu)
+personnage: Le griot
+fichier: silamaka-n9-<langue>.m4a
+intonation: posé (proposée)
+texte: Quand un coup menace Silamaka, le serpent surgit entre vous. Personne n'ose l'approcher, et l'armée recule.
+genre: adulte/homme
+duree: 6980ms (estimée)
+
+piste: n10
+histoire: Silamaka et Poullori
+partie: Le serpent surgit (jeu)
+personnage: Le griot
+fichier: silamaka-n10-<langue>.m4a
+intonation: posé (proposée)
+texte: Le soir, les deux amis s'éloignent ensemble, dans la lumière. Certaines versions racontent une fin plus sombre. Toutes disent que Poullori ne le quitta jamais.
+genre: adulte/homme
+duree: 10700ms (estimée)
+
+piste: n11
+histoire: Silamaka et Poullori
+partie: Le serpent surgit (jeu)
+personnage: Le griot
+fichier: silamaka-n11-<langue>.m4a
+intonation: enlevé (proposée)
+texte: Silamaka, fils du courage ! Poullori, fidèle ami ! Vos noms ne mourront pas, tant qu'un griot aura une voix !
+genre: adulte/homme
+duree: 9330ms (estimée)
+
+piste: film-001
+histoire: Silamaka et Poullori
+partie: Film d'animation, de 00:02.0 à 00:08.0
+personnage: Narrateur
+fichier: silamaka-film-001-<langue>.m4a
+intonation: solennel (scénario)
+texte: Silamaka et Poullori. Une épopée peule, partagée avec le Mali.
+genre: adulte/libre
+duree: 6000ms (mesurée sur le film)
+
+piste: film-002
+histoire: Silamaka et Poullori
+partie: Film d'animation, de 00:10.0 à 00:17.0
+personnage: Narrateur
+fichier: silamaka-film-002-<langue>.m4a
+intonation: posé (proposée)
+texte: Silamaka, un héros peul. Et Poullori, son compagnon, à qui rien ne fait peur.
+genre: adulte/libre
+duree: 7000ms (mesurée sur le film)
+
+piste: film-003
+histoire: Silamaka et Poullori
+partie: Film d'animation, de 00:18.0 à 00:20.8
+personnage: Narrateur
+fichier: silamaka-film-003-<langue>.m4a
+intonation: posé (proposée)
+texte: On ne les vit jamais l'un sans l'autre.
+genre: adulte/libre
+duree: 2800ms (mesurée sur le film)
+
+piste: film-004
+histoire: Silamaka et Poullori
+partie: Film d'animation, de 00:30.0 à 00:35.8
+personnage: Narrateur
+fichier: silamaka-film-004-<langue>.m4a
+intonation: posé (proposée)
+texte: Silamaka n'était encore qu'un enfant quand un serpent se dressa devant lui, dans la brousse.
+genre: adulte/libre
+duree: 5800ms (mesurée sur le film)
+
+piste: film-005
+histoire: Silamaka et Poullori
+partie: Film d'animation, de 00:39.0 à 00:43.7
+personnage: Narrateur
+fichier: silamaka-film-005-<langue>.m4a
+intonation: émerveillé (scénario)
+texte: Il tendit la main, et le serpent, au lieu de mordre, s'inclina.
+genre: adulte/libre
+duree: 4700ms (mesurée sur le film)
+
+piste: film-006
+histoire: Silamaka et Poullori
+partie: Film d'animation, de 00:49.0 à 00:51.7
+personnage: Narrateur
+fichier: silamaka-film-006-<langue>.m4a
+intonation: posé (proposée)
+texte: Il devint son protecteur.
+genre: adulte/libre
+duree: 2700ms (mesurée sur le film)
+
+piste: film-007
+histoire: Silamaka et Poullori
+partie: Film d'animation, de 01:08.0 à 01:12.6
+personnage: Narrateur
+fichier: silamaka-film-007-<langue>.m4a
+intonation: posé (proposée)
+texte: Puis vint le roi de Ségou, qui exigeait un tribut de tous les campements.
+genre: adulte/libre
+duree: 4600ms (mesurée sur le film)
+
+piste: film-008
+histoire: Silamaka et Poullori
+partie: Film d'animation, de 01:15.0 à 01:19.5
+personnage: Narrateur
+fichier: silamaka-film-008-<langue>.m4a
+intonation: tendu (scénario)
+texte: Ses envoyés arrivèrent, sûrs d'eux, et ils réclamèrent leur dû.
+genre: adulte/libre
+duree: 4500ms (mesurée sur le film)
+
+piste: film-009
+histoire: Silamaka et Poullori
+partie: Film d'animation, de 01:27.0 à 01:30.9
+personnage: Narrateur
+fichier: silamaka-film-009-<langue>.m4a
+intonation: posé (proposée)
+texte: Tout le campement se tut, et l'on regarda Silamaka.
+genre: adulte/libre
+duree: 3900ms (mesurée sur le film)
+
+piste: film-010
+histoire: Silamaka et Poullori
+partie: Film d'animation, de 01:43.0 à 01:46.0
+personnage: Narrateur
+fichier: silamaka-film-010-<langue>.m4a
+intonation: posé (proposée)
+texte: Silamaka s'avança à cheval.
+genre: adulte/libre
+duree: 3000ms (mesurée sur le film)
+
+piste: film-011
+histoire: Silamaka et Poullori
+partie: Film d'animation, de 01:47.5 à 01:50.0
+personnage: SILAMAKA
+fichier: silamaka-film-011-<langue>.m4a
+intonation: calme et fier (scénario)
+texte: Dites à votre roi que nous ne paierons pas.
+genre: adulte/homme
+duree: 2500ms (mesurée sur le film)
+
+piste: film-012
+histoire: Silamaka et Poullori
+partie: Film d'animation, de 01:54.0 à 01:59.5
+personnage: Narrateur
+fichier: silamaka-film-012-<langue>.m4a
+intonation: posé (proposée)
+texte: Les envoyés firent demi-tour. Chacun savait ce qui allait suivre.
+genre: adulte/libre
+duree: 5500ms (mesurée sur le film)
+
+piste: film-013
+histoire: Silamaka et Poullori
+partie: Film d'animation, de 02:16.0 à 02:21.8
+personnage: Narrateur
+fichier: silamaka-film-013-<langue>.m4a
+intonation: enlevé (scénario)
+texte: L'armée de Ségou arriva. Silamaka et Poullori la chargèrent, côte à côte.
+genre: adulte/libre
+duree: 5800ms (mesurée sur le film)
+
+piste: film-014
+histoire: Silamaka et Poullori
+partie: Film d'animation, de 02:40.0 à 02:44.4
+personnage: Narrateur
+fichier: silamaka-film-014-<langue>.m4a
+intonation: mystérieux (scénario)
+texte: Quand un coup menaça Silamaka, le serpent surgit entre eux.
+genre: adulte/libre
+duree: 4400ms (mesurée sur le film)
+
+piste: film-015
+histoire: Silamaka et Poullori
+partie: Film d'animation, de 02:52.0 à 02:55.7
+personnage: Narrateur
+fichier: silamaka-film-015-<langue>.m4a
+intonation: fort (scénario)
+texte: Personne n'osa l'approcher, et l'armée recula.
+genre: adulte/libre
+duree: 3700ms (mesurée sur le film)
+
+piste: film-016
+histoire: Silamaka et Poullori
+partie: Film d'animation, de 03:05.0 à 03:09.5
+personnage: Narrateur
+fichier: silamaka-film-016-<langue>.m4a
+intonation: joyeux (scénario)
+texte: Silamaka était vainqueur, et Poullori toujours à ses côtés.
+genre: adulte/libre
+duree: 4500ms (mesurée sur le film)
+
+piste: film-017
+histoire: Silamaka et Poullori
+partie: Film d'animation, de 03:16.0 à 03:21.0
+personnage: Narrateur
+fichier: silamaka-film-017-<langue>.m4a
+intonation: doux (scénario)
+texte: Le soir, les deux amis s'éloignèrent ensemble, dans la lumière.
+genre: adulte/libre
+duree: 5000ms (mesurée sur le film)
+
+piste: film-018
+histoire: Silamaka et Poullori
+partie: Film d'animation, de 03:27.0 à 03:33.3
+personnage: Narrateur
+fichier: silamaka-film-018-<langue>.m4a
+intonation: posé (proposée)
+texte: Certaines versions racontent une fin plus sombre. Toutes disent que Poullori ne le quitta jamais.
+genre: adulte/libre
+duree: 6300ms (mesurée sur le film)
+
+piste: film-019
+histoire: Silamaka et Poullori
+partie: Film d'animation, de 03:47.5 à 03:57.8
+personnage: GRIOT
+fichier: silamaka-film-019-<langue>.m4a
+intonation: chanté (scénario)
+texte: Silamaka, fils du courage ! Poullori, fidèle ami ! Vos noms ne mourront pas, tant qu'un griot aura une voix !
+genre: griot, griotte/libre
+duree: 10300ms (mesurée sur le film)

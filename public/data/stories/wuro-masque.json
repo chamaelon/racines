@@ -165,7 +165,9 @@
       "text": "Dwo danse, et tout le village frappe dans ses mains. Suis la cadence !",
       "explore": [
         "case-ronde",
-        "tambour"
+        "tambour",
+        "daba",
+        "soufflet"
       ],
       "next": "n12"
     },

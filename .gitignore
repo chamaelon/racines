@@ -158,3 +158,6 @@ local/
 # tests
 test-results/
 playwright-report/
+
+# Python
+__pycache__/

@@ -1,0 +1,391 @@
+{
+ "id": "naaba-wobgo",
+ "titre": "Naaba Wobgo et la résistance de 1896",
+ "peuple": "Mossi",
+ "langues_cibles": [
+  "fr",
+  "mos"
+ ],
+ "pistes": [
+  {
+   "id": "titre",
+   "type": "titre",
+   "chemin": "titre",
+   "texte": "Naaba Wobgo et la résistance de 1896"
+  },
+  {
+   "id": "presentation",
+   "type": "presentation",
+   "chemin": "presentation",
+   "texte": "En 1896, Ouagadougou est la capitale d'un royaume mossi ancien, et une colonne française marche sur elle. Tu suis les événements comme jeune page de la cour. Tes choix changent ton regard, jamais les faits, et les sources ne s'accordent pas sur tous les détails."
+  },
+  {
+   "id": "personnages.griot.nom",
+   "type": "personnage",
+   "chemin": "personnages.griot.nom",
+   "texte": "Le griot"
+  },
+  {
+   "id": "personnages.naaba.nom",
+   "type": "personnage",
+   "chemin": "personnages.naaba.nom",
+   "texte": "Naaba Wobgo"
+  },
+  {
+   "id": "personnages.ferguson.nom",
+   "type": "personnage",
+   "chemin": "personnages.ferguson.nom",
+   "texte": "George Ekem Ferguson"
+  },
+  {
+   "id": "personnages.voulet.nom",
+   "type": "personnage",
+   "chemin": "personnages.voulet.nom",
+   "texte": "Paul Voulet"
+  },
+  {
+   "id": "personnages.page.nom",
+   "type": "personnage",
+   "chemin": "personnages.page.nom",
+   "texte": "Le page"
+  },
+  {
+   "id": "personnages.griotte.nom",
+   "type": "personnage",
+   "chemin": "personnages.griotte.nom",
+   "texte": "La griotte"
+  },
+  {
+   "id": "fins.canon",
+   "type": "fin",
+   "chemin": "fins.canon",
+   "texte": "Mémoire : un souverain qui a refusé de se soumettre"
+  },
+  {
+   "id": "fins.relire",
+   "type": "fin",
+   "chemin": "fins.relire",
+   "texte": "Mémoire à reprendre : réécoute les dates"
+  },
+  {
+   "id": "n1",
+   "type": "replique",
+   "chemin": "nodes.n1.text",
+   "noeud": "n1",
+   "partie": "La cour de Naaba Wobgo (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "À la fin du XIXe siècle, Ouagadougou est la capitale d'un royaume mossi ancien. Son souverain, Boukary Koutou, a pris à son avènement le nom de Naaba Wobgo.",
+   "genre": "adulte/homme",
+   "duree_ms": 11690,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n2",
+   "type": "replique",
+   "chemin": "nodes.n2.text",
+   "noeud": "n2",
+   "partie": "La cour de Naaba Wobgo (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "En 1894, il signe un traité d'amitié avec George Ekem Ferguson, envoyé des Britanniques. Les Français contestent cet accord : ils convoitent eux aussi la région.",
+   "genre": "adulte/homme",
+   "duree_ms": 10930,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n3",
+   "type": "replique",
+   "chemin": "nodes.n3.text",
+   "noeud": "n3",
+   "partie": "La cour de Naaba Wobgo (jeu)",
+   "personnage": "George Ekem Ferguson",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Voici le traité. Il parle d'amitié entre nous.",
+   "genre": "adulte/homme",
+   "duree_ms": 3640,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n4",
+   "type": "replique",
+   "chemin": "nodes.n4.text",
+   "noeud": "n4",
+   "partie": "La cour de Naaba Wobgo (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Toi, le page, que regardes-tu pendant que l'on signe ?",
+   "genre": "adulte/homme",
+   "duree_ms": 4400,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n4.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.n4.choices.0.label",
+   "texte": "Le visage du souverain, qui ne dit rien de plus"
+  },
+  {
+   "id": "nodes.n4.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.n4.choices.0.tag",
+   "texte": "la cour"
+  },
+  {
+   "id": "nodes.n4.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.n4.choices.1.label",
+   "texte": "La route : on dit que d'autres arrivent"
+  },
+  {
+   "id": "nodes.n4.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.n4.choices.1.tag",
+   "texte": "la route"
+  },
+  {
+   "id": "visage",
+   "type": "replique",
+   "chemin": "nodes.visage.text",
+   "noeud": "visage",
+   "partie": "La cour de Naaba Wobgo (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Il sait qu'un papier n'arrête pas une colonne. Mais c'est aujourd'hui tout ce qu'on lui propose.",
+   "genre": "adulte/homme",
+   "duree_ms": 6680,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "route",
+   "type": "replique",
+   "chemin": "nodes.route.text",
+   "noeud": "route",
+   "partie": "La cour de Naaba Wobgo (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Tu entends parler d'hommes en armes loin au sud et à l'ouest. Personne n'en sait encore beaucoup.",
+   "genre": "adulte/homme",
+   "duree_ms": 7060,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "colonne",
+   "type": "replique",
+   "chemin": "nodes.colonne.text",
+   "noeud": "colonne",
+   "partie": "1896 : la colonne Voulet-Chanoine (jeu)",
+   "personnage": "Le griot",
+   "intonation": "grave",
+   "intonation_statut": "proposée",
+   "texte": "En 1896, la colonne de Paul Voulet et Julien Chanoine marche sur le pays mossi.",
+   "genre": "adulte/homme",
+   "duree_ms": 6150,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n5",
+   "type": "replique",
+   "chemin": "nodes.n5.text",
+   "noeud": "n5",
+   "partie": "1896 : la colonne Voulet-Chanoine (jeu)",
+   "personnage": "Paul Voulet",
+   "intonation": "grave",
+   "intonation_statut": "proposée",
+   "texte": "Ouagadougou sera prise.",
+   "genre": "adulte/homme",
+   "duree_ms": 1440,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n6",
+   "type": "replique",
+   "chemin": "nodes.n6.text",
+   "noeud": "n6",
+   "partie": "1896 : la colonne Voulet-Chanoine (jeu)",
+   "personnage": "Le griot",
+   "intonation": "grave",
+   "intonation_statut": "proposée",
+   "texte": "Naaba Wobgo tente de résister, et sa ville est incendiée. Voulet s'empare de Ouagadougou.",
+   "genre": "adulte/homme",
+   "duree_ms": 6070,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n7",
+   "type": "replique",
+   "chemin": "nodes.n7.text",
+   "noeud": "n7",
+   "partie": "1896 : la colonne Voulet-Chanoine (jeu)",
+   "personnage": "Le griot",
+   "intonation": "grave",
+   "intonation_statut": "proposée",
+   "texte": "Le page doit-il rester ou fuir avec le souverain ? L'histoire sera la même, seul ton récit change.",
+   "genre": "adulte/homme",
+   "duree_ms": 7590,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n7.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.n7.choices.0.label",
+   "texte": "Rester et voir ce que devient la ville"
+  },
+  {
+   "id": "nodes.n7.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.n7.choices.0.tag",
+   "texte": "témoin de la ville"
+  },
+  {
+   "id": "nodes.n7.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.n7.choices.1.label",
+   "texte": "Suivre le souverain"
+  },
+  {
+   "id": "nodes.n7.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.n7.choices.1.tag",
+   "texte": "avec le souverain"
+  },
+  {
+   "id": "ville",
+   "type": "replique",
+   "chemin": "nodes.ville.text",
+   "noeud": "ville",
+   "partie": "Le souverain déposé (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Le souverain est déposé, et Voulet installe à sa place son frère Sighiri. Les sources ne s'accordent pas sur la date exacte de cette déposition.",
+   "genre": "adulte/homme",
+   "duree_ms": 10250,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "suivre",
+   "type": "replique",
+   "chemin": "nodes.suivre.text",
+   "noeud": "suivre",
+   "partie": "Le chemin de l'exil (jeu)",
+   "personnage": "Naaba Wobgo",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Je demande de l'aide aux Britanniques.",
+   "genre": "adulte/homme",
+   "duree_ms": 2580,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n8",
+   "type": "replique",
+   "chemin": "nodes.n8.text",
+   "noeud": "n8",
+   "partie": "Le chemin de l'exil (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "L'aide ne vient pas. Le souverain est déposé, et son frère Sighiri installé à sa place. Les sources ne s'accordent pas sur les conditions exactes de sa fuite.",
+   "genre": "adulte/homme",
+   "duree_ms": 11690,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "quiz",
+   "type": "replique",
+   "chemin": "nodes.quiz.text",
+   "noeud": "quiz",
+   "partie": "Le souverain déposé (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Il se réfugie en Gold Coast, l'actuel Ghana, et il y meurt en 1904.",
+   "genre": "adulte/homme",
+   "duree_ms": 5920,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n9.question",
+   "type": "jeu",
+   "chemin": "nodes.n9.question",
+   "texte": "En quelle année la colonne de Voulet et Chanoine marche-t-elle sur le pays mossi ?"
+  },
+  {
+   "id": "nodes.n9.gagne",
+   "type": "jeu",
+   "chemin": "nodes.n9.gagne",
+   "texte": "Oui, en 1896."
+  },
+  {
+   "id": "nodes.n9.perdu",
+   "type": "jeu",
+   "chemin": "nodes.n9.perdu",
+   "texte": "C'était en 1896. 1904 est l'année de sa mort."
+  },
+  {
+   "id": "nodes.n9.reponses.0.label",
+   "type": "jeu",
+   "chemin": "nodes.n9.reponses.0.label",
+   "texte": "1896"
+  },
+  {
+   "id": "nodes.n9.reponses.1.label",
+   "type": "jeu",
+   "chemin": "nodes.n9.reponses.1.label",
+   "texte": "1904"
+  },
+  {
+   "id": "nodes.n9.reponses.2.label",
+   "type": "jeu",
+   "chemin": "nodes.n9.reponses.2.label",
+   "texte": "1960"
+  },
+  {
+   "id": "nodes.n9.tags.win",
+   "type": "parcours",
+   "chemin": "nodes.n9.tags.win",
+   "texte": "bonne réponse"
+  },
+  {
+   "id": "nodes.n9.tags.lose",
+   "type": "parcours",
+   "chemin": "nodes.n9.tags.lose",
+   "texte": "réponse manquée"
+  },
+  {
+   "id": "relire",
+   "type": "replique",
+   "chemin": "nodes.relire.text",
+   "noeud": "relire",
+   "partie": "Le souverain déposé (jeu)",
+   "personnage": "La griotte",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Reviens m'écouter : ces dates, on les doit à ceux qui les ont vécues.",
+   "genre": "adulte/femme",
+   "duree_ms": 5920,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "bien",
+   "type": "replique",
+   "chemin": "nodes.bien.text",
+   "noeud": "bien",
+   "partie": "Le souverain déposé (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "À retenir : la conquête du pays mossi s'est faite par la force, face à un souverain qui a refusé de se soumettre.",
+   "genre": "adulte/homme",
+   "duree_ms": 9340,
+   "duree_statut": "estimée"
+  }
+ ]
+}

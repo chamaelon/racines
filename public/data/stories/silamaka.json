@@ -51,7 +51,8 @@
       "text": "Silamaka, un héros peul. Et Poullori, son compagnon, à qui rien ne fait peur. Silamaka n'était encore qu'un enfant quand un serpent se dressa devant lui, dans la brousse.",
       "scene": "brousse",
       "explore": [
-        "calebasse"
+        "calebasse",
+        "chapeau-peul"
       ],
       "next": "n2"
     },

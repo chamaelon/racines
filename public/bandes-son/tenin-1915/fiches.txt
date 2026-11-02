@@ -1,0 +1,502 @@
+# Tenin Coulibaly et la révolte de 1915 : fiches des bandes-son
+# Généré par « npm run bandes-son » depuis pistes.json. Modifier pistes.json, pas ce fichier.
+
+piste: n1
+histoire: Tenin Coulibaly et la révolte de 1915
+partie: 1915, au village (jeu)
+personnage: Le griot
+fichier: tenin-1915-n1-<langue>.m4a
+intonation: posé (proposée)
+texte: 1915. Dans la boucle du Mouhoun, un village bwa vit au rythme des champs. Tenin et son mari attendent un enfant. Mais le pays est sous administration coloniale.
+genre: adulte/homme
+duree: 11990ms (estimée)
+
+piste: n2
+histoire: Tenin Coulibaly et la révolte de 1915
+partie: 1915, au village (jeu)
+personnage: Le commandant
+fichier: tenin-1915-n2-<langue>.m4a
+intonation: posé (proposée)
+texte: Il me faut du mil et des hommes pour la route.
+genre: adulte/homme
+duree: 4480ms (estimée)
+
+piste: n3
+histoire: Tenin Coulibaly et la révolte de 1915
+partie: 1915, au village (jeu)
+personnage: Le chef
+fichier: tenin-1915-n3-<langue>.m4a
+intonation: grave (proposée)
+texte: Nos greniers sont presque vides.
+genre: âgé/homme
+duree: 2200ms (estimée)
+
+piste: n4
+histoire: Tenin Coulibaly et la révolte de 1915
+partie: 1915, au village (jeu)
+personnage: Le commandant
+fichier: tenin-1915-n4-<langue>.m4a
+intonation: posé (proposée)
+texte: Ce n'est pas une question, c'est un ordre.
+genre: adulte/homme
+duree: 3490ms (estimée)
+
+piste: n5
+histoire: Tenin Coulibaly et la révolte de 1915
+partie: 1915, au village (jeu)
+personnage: Le griot
+fichier: tenin-1915-n5-<langue>.m4a
+intonation: posé (proposée)
+texte: Les gardes prennent le mil et emmènent trois hommes. Qui veux-tu suivre ? Tu reverras les deux lieux.
+genre: adulte/homme
+duree: 7740ms (estimée)
+
+piste: reste
+histoire: Tenin Coulibaly et la révolte de 1915
+partie: 1915, au village (jeu)
+personnage: Le griot
+fichier: tenin-1915-reste-<langue>.m4a
+intonation: posé (proposée)
+texte: Au village, les greniers sonnent creux. On compte ce qu'il reste, et on attend. Mais les gardes reviennent toujours.
+genre: adulte/homme
+duree: 8420ms (estimée)
+
+piste: chantier
+histoire: Tenin Coulibaly et la révolte de 1915
+partie: Le chantier de la route (jeu)
+personnage: Le griot
+fichier: tenin-1915-chantier-<langue>.m4a
+intonation: posé (proposée)
+texte: Sur le chantier de la route, le travail est forcé. Un homme s'effondre sous la chaleur.
+genre: adulte/homme
+duree: 6830ms (estimée)
+
+piste: n6
+histoire: Tenin Coulibaly et la révolte de 1915
+partie: Le chantier de la route (jeu)
+personnage: Le garde
+fichier: tenin-1915-n6-<langue>.m4a
+intonation: vif (proposée)
+texte: Relève-toi. Au travail !
+genre: adulte/homme
+duree: 2120ms (estimée)
+
+piste: n7
+histoire: Tenin Coulibaly et la révolte de 1915
+partie: Le chantier de la route (jeu)
+personnage: Le griot
+fichier: tenin-1915-n7-<langue>.m4a
+intonation: posé (proposée)
+texte: Il en faut toujours plus. Alors les gardes reviennent au village. Cette fois, ils désignent Tenin, qui est enceinte.
+genre: adulte/homme
+duree: 8420ms (estimée)
+
+piste: n8
+histoire: Tenin Coulibaly et la révolte de 1915
+partie: Le chantier de la route (jeu)
+personnage: Le garde
+fichier: tenin-1915-n8-<langue>.m4a
+intonation: posé (proposée)
+texte: Avance.
+genre: adulte/homme
+duree: 800ms (estimée)
+
+piste: n9
+histoire: Tenin Coulibaly et la révolte de 1915
+partie: Le chantier de la route (jeu)
+personnage: Le griot
+fichier: tenin-1915-n9-<langue>.m4a
+intonation: posé (proposée)
+texte: Son mari crie : elle porte leur enfant. On l'emmène quand même. Au chantier, on la fait porter des pierres, jusqu'à ce qu'elle tombe.
+genre: adulte/homme
+duree: 10470ms (estimée)
+
+piste: n10
+histoire: Tenin Coulibaly et la révolte de 1915
+partie: Le chantier de la route (jeu)
+personnage: Le griot
+fichier: tenin-1915-n10-<langue>.m4a
+intonation: posé (proposée)
+texte: Un homme veut l'aider, et le garde l'en empêche. Tu ne peux rien changer à cela. Personne ne l'a pu ce jour-là.
+genre: adulte/homme
+duree: 9410ms (estimée)
+
+piste: n11
+histoire: Tenin Coulibaly et la révolte de 1915
+partie: La veillée (jeu)
+personnage: Le griot
+fichier: tenin-1915-n11-<langue>.m4a
+intonation: chuchoté (proposée)
+texte: Cette nuit-là, le village se réunit autour du feu.
+genre: adulte/homme
+duree: 3870ms (estimée)
+
+piste: n12
+histoire: Tenin Coulibaly et la révolte de 1915
+partie: La veillée (jeu)
+personnage: Le forgeron
+fichier: tenin-1915-n12-<langue>.m4a
+intonation: vif (proposée)
+texte: Assez ! Nous ne donnerons plus rien.
+genre: adulte/homme
+duree: 3260ms (estimée)
+
+piste: n13
+histoire: Tenin Coulibaly et la révolte de 1915
+partie: La veillée (jeu)
+personnage: Le griot
+fichier: tenin-1915-n13-<langue>.m4a
+intonation: chuchoté (proposée)
+texte: L'Ancien donne son accord. Les tambours parlent, et des messagers partent vers les autres villages.
+genre: adulte/homme
+duree: 6450ms (estimée)
+
+piste: n15
+histoire: Tenin Coulibaly et la révolte de 1915
+partie: Novembre 1915 (jeu)
+personnage: Le griot
+fichier: tenin-1915-n15-<langue>.m4a
+intonation: posé (proposée)
+texte: Novembre 1915. La guerre du Bani-Volta commence. Les flèches répondent aux fusils, les gardes s'enfuient, et Tenin est libérée.
+genre: adulte/homme
+duree: 8420ms (estimée)
+
+piste: n16
+histoire: Tenin Coulibaly et la révolte de 1915
+partie: Novembre 1915 (jeu)
+personnage: Le griot
+fichier: tenin-1915-n16-<langue>.m4a
+intonation: posé (proposée)
+texte: Le soulèvement gagne de village en village. Il sera l'un des plus grands de cette époque en Afrique de l'Ouest. Mais en 1916, les colonnes militaires l'écrasent. Les villages paient très cher leur courage.
+genre: adulte/homme
+duree: 14270ms (estimée)
+
+piste: n17
+histoire: Tenin Coulibaly et la révolte de 1915
+partie: Celle qui a dit non (jeu)
+personnage: La conteuse
+fichier: tenin-1915-n17-<langue>.m4a
+intonation: posé (proposée)
+texte: Une femme, un enfant, un village qui dit non.
+genre: adulte/femme
+duree: 4020ms (estimée)
+
+piste: relire
+histoire: Tenin Coulibaly et la révolte de 1915
+partie: Celle qui a dit non (jeu)
+personnage: La conteuse
+fichier: tenin-1915-relire-<langue>.m4a
+intonation: posé (proposée)
+texte: Viens t'asseoir encore une fois. On se souvient en écoutant.
+genre: adulte/femme
+duree: 4400ms (estimée)
+
+piste: bien
+histoire: Tenin Coulibaly et la révolte de 1915
+partie: Celle qui a dit non (jeu)
+personnage: La conteuse
+fichier: tenin-1915-bien-<langue>.m4a
+intonation: posé (proposée)
+texte: Voilà pourquoi on se souvient.
+genre: adulte/femme
+duree: 2200ms (estimée)
+
+piste: film-001
+histoire: Tenin Coulibaly et la révolte de 1915
+partie: Film d'animation, de 00:02.0 à 00:08.7
+personnage: Narrateur
+fichier: tenin-1915-film-001-<langue>.m4a
+intonation: sobre (scénario)
+texte: Tenin Coulibaly. Un récit de la révolte de 1915, simplifié pour l'image.
+genre: adulte/libre
+duree: 6700ms (mesurée sur le film)
+
+piste: film-002
+histoire: Tenin Coulibaly et la révolte de 1915
+partie: Film d'animation, de 00:10.0 à 00:15.1
+personnage: Narrateur
+fichier: tenin-1915-film-002-<langue>.m4a
+intonation: posé (proposée)
+texte: 1915. Dans la boucle du Mouhoun, un village bwa vit au rythme des champs.
+genre: adulte/libre
+duree: 5100ms (mesurée sur le film)
+
+piste: film-003
+histoire: Tenin Coulibaly et la révolte de 1915
+partie: Film d'animation, de 00:18.0 à 00:20.9
+personnage: Narrateur
+fichier: tenin-1915-film-003-<langue>.m4a
+intonation: tendre (scénario)
+texte: Tenin et son mari attendent un enfant.
+genre: adulte/libre
+duree: 2900ms (mesurée sur le film)
+
+piste: film-004
+histoire: Tenin Coulibaly et la révolte de 1915
+partie: Film d'animation, de 00:30.0 à 00:36.4
+personnage: Narrateur
+fichier: tenin-1915-film-004-<langue>.m4a
+intonation: posé (proposée)
+texte: Mais le pays est sous administration coloniale. Le commandant de cercle arrive au village.
+genre: adulte/libre
+duree: 6400ms (mesurée sur le film)
+
+piste: film-005
+histoire: Tenin Coulibaly et la révolte de 1915
+partie: Film d'animation, de 00:38.0 à 00:40.7
+personnage: COMMANDANT
+fichier: tenin-1915-film-005-<langue>.m4a
+intonation: sec (scénario)
+texte: Il me faut du mil et des hommes pour la route.
+genre: adulte/homme
+duree: 2700ms (mesurée sur le film)
+
+piste: film-006
+histoire: Tenin Coulibaly et la révolte de 1915
+partie: Film d'animation, de 00:41.0 à 00:43.5
+personnage: CHEF
+fichier: tenin-1915-film-006-<langue>.m4a
+intonation: digne (scénario)
+texte: Nos greniers sont presque vides.
+genre: âgé/libre
+duree: 2500ms (mesurée sur le film)
+
+piste: film-007
+histoire: Tenin Coulibaly et la révolte de 1915
+partie: Film d'animation, de 00:43.5 à 00:46.5
+personnage: COMMANDANT
+fichier: tenin-1915-film-007-<langue>.m4a
+intonation: cassant (scénario)
+texte: Ce n'est pas une question, c'est un ordre.
+genre: adulte/homme
+duree: 3000ms (mesurée sur le film)
+
+piste: film-008
+histoire: Tenin Coulibaly et la révolte de 1915
+partie: Film d'animation, de 00:49.0 à 00:52.4
+personnage: Narrateur
+fichier: tenin-1915-film-008-<langue>.m4a
+intonation: posé (proposée)
+texte: Les gardes prennent le mil et emmènent trois hommes.
+genre: adulte/libre
+duree: 3400ms (mesurée sur le film)
+
+piste: film-009
+histoire: Tenin Coulibaly et la révolte de 1915
+partie: Film d'animation, de 01:10.0 à 01:13.5
+personnage: Narrateur
+fichier: tenin-1915-film-009-<langue>.m4a
+intonation: posé (proposée)
+texte: Sur le chantier de la route, le travail est forcé.
+genre: adulte/libre
+duree: 3500ms (mesurée sur le film)
+
+piste: film-010
+histoire: Tenin Coulibaly et la révolte de 1915
+partie: Film d'animation, de 01:13.5 à 01:17.0
+personnage: GARDE
+fichier: tenin-1915-film-010-<langue>.m4a
+intonation: dur (scénario)
+texte: Plus vite ! Avancez !
+genre: adulte/homme
+duree: 3500ms (mesurée sur le film)
+
+piste: film-011
+histoire: Tenin Coulibaly et la révolte de 1915
+partie: Film d'animation, de 01:18.0 à 01:21.0
+personnage: Narrateur
+fichier: tenin-1915-film-011-<langue>.m4a
+intonation: grave (scénario)
+texte: Un homme s'effondre sous la chaleur.
+genre: adulte/libre
+duree: 3000ms (mesurée sur le film)
+
+piste: film-012
+histoire: Tenin Coulibaly et la révolte de 1915
+partie: Film d'animation, de 01:27.0 à 01:30.8
+personnage: GARDE
+fichier: tenin-1915-film-012-<langue>.m4a
+intonation: dur (scénario)
+texte: Relève-toi. Au travail !
+genre: adulte/homme
+duree: 3800ms (mesurée sur le film)
+
+piste: film-013
+histoire: Tenin Coulibaly et la révolte de 1915
+partie: Film d'animation, de 01:33.0 à 01:38.3
+personnage: Narrateur
+fichier: tenin-1915-film-013-<langue>.m4a
+intonation: posé (proposée)
+texte: Il en faut toujours plus. Alors les gardes reviennent au village.
+genre: adulte/libre
+duree: 5300ms (mesurée sur le film)
+
+piste: film-014
+histoire: Tenin Coulibaly et la révolte de 1915
+partie: Film d'animation, de 01:45.0 à 01:49.1
+personnage: Narrateur
+fichier: tenin-1915-film-014-<langue>.m4a
+intonation: posé (proposée)
+texte: Cette fois, ils désignent Tenin, qui est enceinte.
+genre: adulte/libre
+duree: 4100ms (mesurée sur le film)
+
+piste: film-015
+histoire: Tenin Coulibaly et la révolte de 1915
+partie: Film d'animation, de 01:53.8 à 01:55.9
+personnage: MARI
+fichier: tenin-1915-film-015-<langue>.m4a
+intonation: désespéré (scénario)
+texte: Elle porte notre enfant !
+genre: adulte/homme
+duree: 2100ms (mesurée sur le film)
+
+piste: film-016
+histoire: Tenin Coulibaly et la révolte de 1915
+partie: Film d'animation, de 01:57.0 à 01:59.3
+personnage: Narrateur
+fichier: tenin-1915-film-016-<langue>.m4a
+intonation: posé (proposée)
+texte: On l'emmène quand même.
+genre: adulte/libre
+duree: 2300ms (mesurée sur le film)
+
+piste: film-017
+histoire: Tenin Coulibaly et la révolte de 1915
+partie: Film d'animation, de 02:04.0 à 02:08.8
+personnage: Narrateur
+fichier: tenin-1915-film-017-<langue>.m4a
+intonation: grave (scénario)
+texte: Au chantier, on la fait porter des pierres, jusqu'à ce qu'elle tombe.
+genre: adulte/libre
+duree: 4800ms (mesurée sur le film)
+
+piste: film-018
+histoire: Tenin Coulibaly et la révolte de 1915
+partie: Film d'animation, de 02:13.6 à 02:15.7
+personnage: GARDE
+fichier: tenin-1915-film-018-<langue>.m4a
+intonation: dur (scénario)
+texte: Laisse-la !
+genre: adulte/homme
+duree: 2100ms (mesurée sur le film)
+
+piste: film-019
+histoire: Tenin Coulibaly et la révolte de 1915
+partie: Film d'animation, de 02:16.0 à 02:20.3
+personnage: Narrateur
+fichier: tenin-1915-film-019-<langue>.m4a
+intonation: posé (proposée)
+texte: Un homme veut l'aider. Le garde l'en empêche.
+genre: adulte/libre
+duree: 4300ms (mesurée sur le film)
+
+piste: film-020
+histoire: Tenin Coulibaly et la révolte de 1915
+partie: Film d'animation, de 02:25.0 à 02:28.9
+personnage: Narrateur
+fichier: tenin-1915-film-020-<langue>.m4a
+intonation: posé (proposée)
+texte: Cette nuit-là, le village se réunit autour du feu.
+genre: adulte/libre
+duree: 3900ms (mesurée sur le film)
+
+piste: film-021
+histoire: Tenin Coulibaly et la révolte de 1915
+partie: Film d'animation, de 02:35.5 à 02:39.5
+personnage: FORGERON
+fichier: tenin-1915-film-021-<langue>.m4a
+intonation: grondant (scénario)
+texte: Assez ! Nous ne donnerons plus rien.
+genre: adulte/homme
+duree: 4000ms (mesurée sur le film)
+
+piste: film-022
+histoire: Tenin Coulibaly et la révolte de 1915
+partie: Film d'animation, de 02:41.0 à 02:47.9
+personnage: Narrateur
+fichier: tenin-1915-film-022-<langue>.m4a
+intonation: posé (proposée)
+texte: L'Ancien donne son accord. Les tambours parlent, et des messagers partent vers les autres villages.
+genre: adulte/libre
+duree: 6900ms (mesurée sur le film)
+
+piste: film-023
+histoire: Tenin Coulibaly et la révolte de 1915
+partie: Film d'animation, de 03:05.0 à 03:10.5
+personnage: Narrateur
+fichier: tenin-1915-film-023-<langue>.m4a
+intonation: ferme (scénario)
+texte: Novembre 1915. La guerre du Bani-Volta commence.
+genre: adulte/libre
+duree: 5500ms (mesurée sur le film)
+
+piste: film-024
+histoire: Tenin Coulibaly et la révolte de 1915
+partie: Film d'animation, de 03:12.0 à 03:17.3
+personnage: Narrateur
+fichier: tenin-1915-film-024-<langue>.m4a
+intonation: posé (proposée)
+texte: Les insurgés arrivent sur le chantier. Les flèches répondent aux fusils.
+genre: adulte/libre
+duree: 5300ms (mesurée sur le film)
+
+piste: film-025
+histoire: Tenin Coulibaly et la révolte de 1915
+partie: Film d'animation, de 03:27.0 à 03:30.7
+personnage: Narrateur
+fichier: tenin-1915-film-025-<langue>.m4a
+intonation: posé (proposée)
+texte: Le forgeron charge, les gardes s'enfuient.
+genre: adulte/libre
+duree: 3700ms (mesurée sur le film)
+
+piste: film-026
+histoire: Tenin Coulibaly et la révolte de 1915
+partie: Film d'animation, de 03:37.0 à 03:39.1
+personnage: Narrateur
+fichier: tenin-1915-film-026-<langue>.m4a
+intonation: ému (scénario)
+texte: Tenin est libérée.
+genre: adulte/libre
+duree: 2100ms (mesurée sur le film)
+
+piste: film-027
+histoire: Tenin Coulibaly et la révolte de 1915
+partie: Film d'animation, de 03:50.0 à 03:57.1
+personnage: Narrateur
+fichier: tenin-1915-film-027-<langue>.m4a
+intonation: posé (proposée)
+texte: Le soulèvement gagne de village en village. Il sera l'un des plus grands de cette époque en Afrique de l'Ouest.
+genre: adulte/libre
+duree: 7100ms (mesurée sur le film)
+
+piste: film-028
+histoire: Tenin Coulibaly et la révolte de 1915
+partie: Film d'animation, de 04:05.0 à 04:12.6
+personnage: Narrateur
+fichier: tenin-1915-film-028-<langue>.m4a
+intonation: grave (scénario)
+texte: Mais en 1916, les colonnes militaires écrasent la révolte. Les villages paient très cher leur courage.
+genre: adulte/libre
+duree: 7600ms (mesurée sur le film)
+
+piste: film-029
+histoire: Tenin Coulibaly et la révolte de 1915
+partie: Film d'animation, de 04:24.5 à 04:27.4
+personnage: CONTEUSE
+fichier: tenin-1915-film-029-<langue>.m4a
+intonation: voix usée, posée (scénario)
+texte: Une femme, un enfant, un village qui dit non.
+genre: âgé/libre
+duree: 2900ms (mesurée sur le film)
+
+piste: film-030
+histoire: Tenin Coulibaly et la révolte de 1915
+partie: Film d'animation, de 04:27.5 à 04:30.1
+personnage: CONTEUSE
+fichier: tenin-1915-film-030-<langue>.m4a
+intonation: voix usée, posée (scénario)
+texte: Voilà pourquoi on se souvient.
+genre: âgé/libre
+duree: 2600ms (mesurée sur le film)

@@ -1,0 +1,152 @@
+# Les kinkirsi, génies de la brousse : fiches des bandes-son
+# Généré par « npm run bandes-son » depuis pistes.json. Modifier pistes.json, pas ce fichier.
+
+piste: n1
+histoire: Les kinkirsi, génies de la brousse
+partie: Au village (jeu)
+personnage: Le griot
+fichier: kinkirsi-n1-<langue>.m4a
+intonation: posé (proposée)
+texte: Cette scène n'est pas un récit transmis : elle est inventée pour le jeu, à partir de descriptions publiées. Une vraie légende de Kaya reste à collecter.
+genre: adulte/homme
+duree: 11160ms (estimée)
+
+piste: n2
+histoire: Les kinkirsi, génies de la brousse
+partie: Au village (jeu)
+personnage: L'ancienne
+fichier: kinkirsi-n2-<langue>.m4a
+intonation: doux (proposée)
+texte: Quand on quitte le village à la tombée du jour, on n'est jamais tout à fait seul en brousse. Les kinkirsi y circulent.
+genre: âgée/femme
+duree: 9490ms (estimée)
+
+piste: n3
+histoire: Les kinkirsi, génies de la brousse
+partie: Au village (jeu)
+personnage: L'enfant
+fichier: kinkirsi-n3-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Un kinkirsi, c'est quoi ?
+genre: enfant/libre
+duree: 2350ms (estimée)
+
+piste: n4
+histoire: Les kinkirsi, génies de la brousse
+partie: Au village (jeu)
+personnage: L'ancienne
+fichier: kinkirsi-n4-<langue>.m4a
+intonation: doux (proposée)
+texte: Des génies, organisés en groupes. Chaque groupe porte le nom de son doyen. Prends ceci avant de partir.
+genre: âgée/femme
+duree: 7890ms (estimée)
+
+piste: n5
+histoire: Les kinkirsi, génies de la brousse
+partie: Au village (jeu)
+personnage: Le griot
+fichier: kinkirsi-n5-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: L'ancienne te tend un peu de nourriture pour la route. Que choisis-tu de garder ?
+genre: adulte/homme
+duree: 6300ms (estimée)
+
+piste: sale
+histoire: Les kinkirsi, génies de la brousse
+partie: Au village (jeu)
+personnage: L'ancienne
+fichier: kinkirsi-sale-<langue>.m4a
+intonation: doux (proposée)
+texte: Comme tu veux. Mais les kinkirsi aiment ce qui est doux : le miel, le sésame, les gâteaux de haricots, l'arachide.
+genre: âgée/femme
+duree: 9180ms (estimée)
+
+piste: doux
+histoire: Les kinkirsi, génies de la brousse
+partie: Au village (jeu)
+personnage: L'ancienne
+fichier: kinkirsi-doux-<langue>.m4a
+intonation: doux (proposée)
+texte: Tu as bien écouté. Ce qui est doux leur plaît : le miel, le sésame, les gâteaux de haricots, l'arachide.
+genre: âgée/femme
+duree: 8800ms (estimée)
+
+piste: route
+histoire: Les kinkirsi, génies de la brousse
+partie: La route de nuit (jeu)
+personnage: Le griot
+fichier: kinkirsi-route-<langue>.m4a
+intonation: mystérieux (proposée)
+texte: La nuit tombe. Un petit bruit dans les herbes, et une silhouette montée sur une bête sauvage passe entre les arbres.
+genre: adulte/homme
+duree: 8730ms (estimée)
+
+piste: n6
+histoire: Les kinkirsi, génies de la brousse
+partie: La route de nuit (jeu)
+personnage: Un kinkirga
+fichier: kinkirsi-n6-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Qui marche si fort sur notre chemin ?
+genre: voix de génie/libre
+duree: 3340ms (estimée)
+
+piste: n7
+histoire: Les kinkirsi, génies de la brousse
+partie: La route de nuit (jeu)
+personnage: Le griot
+fichier: kinkirsi-n7-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Que fais-tu ?
+genre: adulte/homme
+duree: 1440ms (estimée)
+
+piste: hate
+histoire: Les kinkirsi, génies de la brousse
+partie: La route de nuit (jeu)
+personnage: Le griot
+fichier: kinkirsi-hate-<langue>.m4a
+intonation: mystérieux (proposée)
+texte: Tu cours, tu trébuches, tu ne reconnais plus les arbres. Le sentier tourne, et tourne encore. Tu ne retrouves le village qu'au matin.
+genre: adulte/homme
+duree: 10090ms (estimée)
+
+piste: don
+histoire: Les kinkirsi, génies de la brousse
+partie: La route de nuit (jeu)
+personnage: Le griot
+fichier: kinkirsi-don-<langue>.m4a
+intonation: mystérieux (proposée)
+texte: Tu poses un peu de miel au pied d'un arbre, sans rien demander. La silhouette s'éloigne.
+genre: adulte/homme
+duree: 6830ms (estimée)
+
+piste: sans
+histoire: Les kinkirsi, génies de la brousse
+partie: La route de nuit (jeu)
+personnage: Le griot
+fichier: kinkirsi-sans-<langue>.m4a
+intonation: mystérieux (proposée)
+texte: Tu n'as que du sel à offrir. Tu baisses les yeux, tu laisses passer, et la silhouette s'éloigne quand même.
+genre: adulte/homme
+duree: 8500ms (estimée)
+
+piste: jumeaux
+histoire: Les kinkirsi, génies de la brousse
+partie: Le retour au village (jeu)
+personnage: L'ancienne
+fichier: kinkirsi-jumeaux-<langue>.m4a
+intonation: doux (proposée)
+texte: Te voilà. On dit aussi que les kinkirsi sont liés à la venue des enfants, et surtout aux jumeaux.
+genre: âgée/femme
+duree: 7970ms (estimée)
+
+piste: n9
+histoire: Les kinkirsi, génies de la brousse
+partie: Le retour au village (jeu)
+personnage: Le griot
+fichier: kinkirsi-n9-<langue>.m4a
+intonation: posé (proposée)
+texte: Le monde visible n'est pas seul : on y marche avec égards.
+genre: adulte/homme
+duree: 5010ms (estimée)

@@ -1,0 +1,372 @@
+# Pourquoi le crapaud chante la nuit : fiches des bandes-son
+# Généré par « npm run bandes-son » depuis pistes.json. Modifier pistes.json, pas ce fichier.
+
+piste: n1
+histoire: Pourquoi le crapaud chante la nuit
+partie: La mare (jeu)
+personnage: Le griot
+fichier: crapaud-n1-<langue>.m4a
+intonation: posé (proposée)
+texte: Jadis, tous les animaux chantaient le jour, et la brousse était une grande fête. Le crapaud avait la plus grosse voix de la mare. Et surtout, la plus grande bouche.
+genre: adulte/homme
+duree: 12750ms (estimée)
+
+piste: n2
+histoire: Pourquoi le crapaud chante la nuit
+partie: La mare (jeu)
+personnage: Le crapaud
+fichier: crapaud-n2-<langue>.m4a
+intonation: vif (proposée)
+texte: Je suis le meilleur ! Écoutez plutôt !
+genre: voix de conte/libre
+duree: 3640ms (estimée)
+
+piste: n3
+histoire: Pourquoi le crapaud chante la nuit
+partie: La mare (jeu)
+personnage: Le griot
+fichier: crapaud-n3-<langue>.m4a
+intonation: posé (proposée)
+texte: Il gonfle sa gorge, et il couvre le chant de tous les autres.
+genre: adulte/homme
+duree: 5390ms (estimée)
+
+piste: n4
+histoire: Pourquoi le crapaud chante la nuit
+partie: L'annonce du concours (jeu)
+personnage: L'éléphant
+fichier: crapaud-n4-<langue>.m4a
+intonation: vif (proposée)
+texte: Un grand concours de chant ! Tous ensemble !
+genre: voix de conte/libre
+duree: 4020ms (estimée)
+
+piste: n5
+histoire: Pourquoi le crapaud chante la nuit
+partie: L'annonce du concours (jeu)
+personnage: Le griot
+fichier: crapaud-n5-<langue>.m4a
+intonation: posé (proposée)
+texte: Chacun s'entraîne : le lièvre, le chien, et même l'hyène. Le crapaud, lui, ne s'entraîne pas. Il est sûr de gagner.
+genre: adulte/homme
+duree: 9630ms (estimée)
+
+piste: n7
+histoire: Pourquoi le crapaud chante la nuit
+partie: L'araignée (jeu)
+personnage: Le griot
+fichier: crapaud-n7-<langue>.m4a
+intonation: posé (proposée)
+texte: L'araignée a tout entendu, et elle est fatiguée de ce vantard. Elle s'approche de toi.
+genre: adulte/homme
+duree: 6450ms (estimée)
+
+piste: n8
+histoire: Pourquoi le crapaud chante la nuit
+partie: L'araignée (jeu)
+personnage: L'araignée
+fichier: crapaud-n8-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Je vais tisser ma toile au-dessus de la mare. Le laisserons-nous faire le malin ?
+genre: voix de conte/libre
+duree: 6300ms (estimée)
+
+piste: n9
+histoire: Pourquoi le crapaud chante la nuit
+partie: L'araignée (jeu)
+personnage: Le griot
+fichier: crapaud-n9-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Que réponds-tu ?
+genre: adulte/homme
+duree: 1440ms (estimée)
+
+piste: prevenir
+histoire: Pourquoi le crapaud chante la nuit
+partie: L'araignée (jeu)
+personnage: Le crapaud
+fichier: crapaud-prevenir-<langue>.m4a
+intonation: vif (proposée)
+texte: Moi ? M'entraîner ? Prendre garde ? Laisse-moi rire !
+genre: voix de conte/libre
+duree: 5000ms (estimée)
+
+piste: n10
+histoire: Pourquoi le crapaud chante la nuit
+partie: L'araignée (jeu)
+personnage: Le griot
+fichier: crapaud-n10-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Il n'écoute pas. Vas-tu insister ?
+genre: adulte/homme
+duree: 2880ms (estimée)
+
+piste: ecoute
+histoire: Pourquoi le crapaud chante la nuit
+partie: L'araignée (jeu)
+personnage: Le griot
+fichier: crapaud-ecoute-<langue>.m4a
+intonation: enlevé (proposée)
+texte: Il finit par s'entraîner en grognant. Le jour du concours, il chante à son tour, sans sauter, et personne ne rit. Mais ce n'est pas ce que dit le conte : là, on n'expliquerait pas pourquoi il chante la nuit !
+genre: adulte/homme
+duree: 17230ms (estimée)
+
+piste: toile
+histoire: Pourquoi le crapaud chante la nuit
+partie: Le jour du concours (jeu)
+personnage: Le griot
+fichier: crapaud-toile-<langue>.m4a
+intonation: enlevé (proposée)
+texte: Le jour du concours, la pintade chante, puis le chien. Vient le tour du crapaud. Il gonfle, gonfle, gonfle encore. Il monte, et il se prend dans la toile. Et patatras !
+genre: adulte/homme
+duree: 14410ms (estimée)
+
+piste: n11
+histoire: Pourquoi le crapaud chante la nuit
+partie: Le jour du concours (jeu)
+personnage: Le griot
+fichier: crapaud-n11-<langue>.m4a
+intonation: enlevé (proposée)
+texte: Tout le monde éclate de rire. La honte ! Le crapaud plonge, et il se cache sous l'eau.
+genre: adulte/homme
+duree: 7890ms (estimée)
+
+piste: n12
+histoire: Pourquoi le crapaud chante la nuit
+partie: Le chant de nuit (jeu)
+personnage: Le griot
+fichier: crapaud-n12-<langue>.m4a
+intonation: chuchoté (proposée)
+texte: La nuit venue, il remonte tout doucement. Il regarde autour de lui : personne. Alors il chante, tout bas. La lune s'approche pour l'écouter.
+genre: adulte/homme
+duree: 10770ms (estimée)
+
+piste: n13
+histoire: Pourquoi le crapaud chante la nuit
+partie: Le chant de nuit (jeu)
+personnage: Le griot
+fichier: crapaud-n13-<langue>.m4a
+intonation: chuchoté (proposée)
+texte: Depuis ce jour, le crapaud chante la nuit, quand plus personne ne peut se moquer de lui.
+genre: adulte/homme
+duree: 7060ms (estimée)
+
+piste: film-001
+histoire: Pourquoi le crapaud chante la nuit
+partie: Film d'animation, de 00:02.0 à 00:06.7
+personnage: Narrateur
+fichier: crapaud-film-001-<langue>.m4a
+intonation: malicieux (scénario)
+texte: Pourquoi le crapaud chante la nuit. Un conte songhaï.
+genre: adulte/libre
+duree: 4700ms (mesurée sur le film)
+
+piste: film-002
+histoire: Pourquoi le crapaud chante la nuit
+partie: Film d'animation, de 00:09.0 à 00:14.5
+personnage: Narrateur
+fichier: crapaud-film-002-<langue>.m4a
+intonation: posé (proposée)
+texte: Jadis, tous les animaux chantaient le jour, et la brousse était une grande fête.
+genre: adulte/libre
+duree: 5500ms (mesurée sur le film)
+
+piste: film-003
+histoire: Pourquoi le crapaud chante la nuit
+partie: Film d'animation, de 00:30.0 à 00:36.4
+personnage: Narrateur
+fichier: crapaud-film-003-<langue>.m4a
+intonation: posé (proposée)
+texte: Le crapaud avait la plus grosse voix de la mare. Et surtout, la plus grande bouche.
+genre: adulte/libre
+duree: 6400ms (mesurée sur le film)
+
+piste: film-004
+histoire: Pourquoi le crapaud chante la nuit
+partie: Film d'animation, de 00:38.0 à 00:42.4
+personnage: CRAPAUD
+fichier: crapaud-film-004-<langue>.m4a
+intonation: vantard (scénario)
+texte: Je suis le meilleur ! Écoutez plutôt !
+genre: adulte/homme
+duree: 4400ms (mesurée sur le film)
+
+piste: film-005
+histoire: Pourquoi le crapaud chante la nuit
+partie: Film d'animation, de 00:44.0 à 00:48.5
+personnage: Narrateur
+fichier: crapaud-film-005-<langue>.m4a
+intonation: malicieux (scénario)
+texte: Il gonflait sa gorge, et il couvrait le chant de tous les autres.
+genre: adulte/libre
+duree: 4500ms (mesurée sur le film)
+
+piste: film-006
+histoire: Pourquoi le crapaud chante la nuit
+partie: Film d'animation, de 00:53.0 à 00:57.4
+personnage: Narrateur
+fichier: crapaud-film-006-<langue>.m4a
+intonation: posé (proposée)
+texte: Les autres avaient beau se plaindre, il chantait encore plus fort.
+genre: adulte/libre
+duree: 4400ms (mesurée sur le film)
+
+piste: film-007
+histoire: Pourquoi le crapaud chante la nuit
+partie: Film d'animation, de 01:07.0 à 01:11.8
+personnage: Narrateur
+fichier: crapaud-film-007-<langue>.m4a
+intonation: posé (proposée)
+texte: L'éléphant, le roi des animaux, décida d'y mettre bon ordre.
+genre: adulte/libre
+duree: 4800ms (mesurée sur le film)
+
+piste: film-008
+histoire: Pourquoi le crapaud chante la nuit
+partie: Film d'animation, de 01:13.0 à 01:17.2
+personnage: ELEPHANT
+fichier: crapaud-film-008-<langue>.m4a
+intonation: voix grave (scénario)
+texte: Un grand concours de chant ! Tous ensemble !
+genre: esprit, créature : voix grave/libre
+duree: 4200ms (mesurée sur le film)
+
+piste: film-009
+histoire: Pourquoi le crapaud chante la nuit
+partie: Film d'animation, de 01:19.0 à 01:23.5
+personnage: Narrateur
+fichier: crapaud-film-009-<langue>.m4a
+intonation: posé (proposée)
+texte: Chacun s'entraîna : le lièvre, le chien, et même l'hyène.
+genre: adulte/libre
+duree: 4500ms (mesurée sur le film)
+
+piste: film-010
+histoire: Pourquoi le crapaud chante la nuit
+partie: Film d'animation, de 01:29.0 à 01:34.5
+personnage: Narrateur
+fichier: crapaud-film-010-<langue>.m4a
+intonation: malicieux (scénario)
+texte: Le crapaud, lui, ne s'entraîna pas. Il était sûr de gagner.
+genre: adulte/libre
+duree: 5500ms (mesurée sur le film)
+
+piste: film-011
+histoire: Pourquoi le crapaud chante la nuit
+partie: Film d'animation, de 01:41.0 à 01:45.8
+personnage: Narrateur
+fichier: crapaud-film-011-<langue>.m4a
+intonation: posé (proposée)
+texte: Mais l'araignée avait tout entendu, et elle était fatiguée de ce vantard.
+genre: adulte/libre
+duree: 4800ms (mesurée sur le film)
+
+piste: film-012
+histoire: Pourquoi le crapaud chante la nuit
+partie: Film d'animation, de 01:52.0 à 01:57.5
+personnage: Narrateur
+fichier: crapaud-film-012-<langue>.m4a
+intonation: chuchoté (scénario)
+texte: Sans bruit, elle descendit au bout de son fil et tissa sa toile au-dessus de la mare.
+genre: adulte/libre
+duree: 5500ms (mesurée sur le film)
+
+piste: film-013
+histoire: Pourquoi le crapaud chante la nuit
+partie: Film d'animation, de 02:10.0 à 02:14.4
+personnage: Narrateur
+fichier: crapaud-film-013-<langue>.m4a
+intonation: posé (proposée)
+texte: Le jour du concours, la pintade chanta, puis le chien.
+genre: adulte/libre
+duree: 4400ms (mesurée sur le film)
+
+piste: film-014
+histoire: Pourquoi le crapaud chante la nuit
+partie: Film d'animation, de 02:21.0 à 02:26.4
+personnage: Narrateur
+fichier: crapaud-film-014-<langue>.m4a
+intonation: enlevé (scénario)
+texte: Vint le tour du crapaud. Il gonfla, gonfla, gonfla encore.
+genre: adulte/libre
+duree: 5400ms (mesurée sur le film)
+
+piste: film-015
+histoire: Pourquoi le crapaud chante la nuit
+partie: Film d'animation, de 02:32.0 à 02:37.0
+personnage: Narrateur
+fichier: crapaud-film-015-<langue>.m4a
+intonation: malicieux (scénario)
+texte: Il monta, et il se prit dans la toile. Et patatras !
+genre: adulte/libre
+duree: 5000ms (mesurée sur le film)
+
+piste: film-016
+histoire: Pourquoi le crapaud chante la nuit
+partie: Film d'animation, de 02:43.0 à 02:45.6
+personnage: Narrateur
+fichier: crapaud-film-016-<langue>.m4a
+intonation: joyeux (scénario)
+texte: Tout le monde éclata de rire.
+genre: adulte/libre
+duree: 2600ms (mesurée sur le film)
+
+piste: film-017
+histoire: Pourquoi le crapaud chante la nuit
+partie: Film d'animation, de 02:55.0 à 03:00.2
+personnage: Narrateur
+fichier: crapaud-film-017-<langue>.m4a
+intonation: triste (scénario)
+texte: La honte. Le crapaud plongea, et il se cacha sous l'eau.
+genre: adulte/libre
+duree: 5200ms (mesurée sur le film)
+
+piste: film-018
+histoire: Pourquoi le crapaud chante la nuit
+partie: Film d'animation, de 03:08.0 à 03:11.7
+personnage: Narrateur
+fichier: crapaud-film-018-<langue>.m4a
+intonation: posé (proposée)
+texte: Les autres rentrèrent chez eux, et le soir tomba.
+genre: adulte/libre
+duree: 3700ms (mesurée sur le film)
+
+piste: film-019
+histoire: Pourquoi le crapaud chante la nuit
+partie: Film d'animation, de 03:29.0 à 03:35.9
+personnage: Narrateur
+fichier: crapaud-film-019-<langue>.m4a
+intonation: doux (scénario)
+texte: La nuit venue, il remonta tout doucement. Il regarda autour de lui : personne.
+genre: adulte/libre
+duree: 6900ms (mesurée sur le film)
+
+piste: film-020
+histoire: Pourquoi le crapaud chante la nuit
+partie: Film d'animation, de 03:42.0 à 03:49.3
+personnage: Narrateur
+fichier: crapaud-film-020-<langue>.m4a
+intonation: très doux (scénario)
+texte: Alors il chanta, tout bas. La lune s'approcha pour l'écouter, et les étoiles se mirent à briller.
+genre: adulte/libre
+duree: 7300ms (mesurée sur le film)
+
+piste: film-021
+histoire: Pourquoi le crapaud chante la nuit
+partie: Film d'animation, de 03:56.0 à 03:59.0
+personnage: Narrateur
+fichier: crapaud-film-021-<langue>.m4a
+intonation: très doux (scénario)
+texte: Des lucioles dansaient autour de lui.
+genre: adulte/libre
+duree: 3000ms (mesurée sur le film)
+
+piste: film-022
+histoire: Pourquoi le crapaud chante la nuit
+partie: Film d'animation, de 04:06.0 à 04:12.0
+personnage: Narrateur
+fichier: crapaud-film-022-<langue>.m4a
+intonation: doux (scénario)
+texte: Depuis ce jour, le crapaud chante la nuit, quand plus personne ne peut se moquer de lui.
+genre: adulte/libre
+duree: 6000ms (mesurée sur le film)

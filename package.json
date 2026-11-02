@@ -5,12 +5,16 @@
   "description": "Plateforme web multimédia et carte interactive des contes et légendes du Burkina Faso",
   "type": "module",
   "scripts": {
+    "medias": "node scripts/bandes-son.js && node scripts/medias.js",
+    "predev": "npm run medias",
     "dev": "vite",
+    "prebuild": "npm run medias",
     "build": "vite build",
     "preview": "vite preview",
     "build:map": "node scripts/build-map.js",
     "bouche-trous": "node scripts/bouche-trous.js",
     "validate": "node scripts/validate.js",
+    "bandes-son": "node scripts/bandes-son.js",
     "test": "vitest run",
     "test:e2e": "playwright test"
   },

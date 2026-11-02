@@ -30,6 +30,7 @@ main:focus { outline: none; }
 .entete nav a { color: var(--papier); text-decoration: none; font-weight: 700; font-size: 15px; padding: 8px 12px; border-radius: 8px; white-space: nowrap; }
 .entete nav a:hover { background: var(--nuit-3); color: var(--ocre-clair); }
 .entete nav a[aria-current=page] { background: var(--terre); color: #fff; }
+.choix-langue select { min-height: 34px; max-width: 120px; padding: 3px 6px; border: 1px solid var(--ocre); border-radius: 8px; background: var(--nuit-2); color: var(--papier); font: 700 13.5px var(--corps); }
 .plein-ecran .entete, .plein-ecran .lien-evitement { display: none; }
 .plein-ecran { overflow: hidden; }
 
@@ -92,6 +93,8 @@ main:focus { outline: none; }
   .entete { height: auto; flex-direction: column; align-items: stretch; gap: 0; padding: 6px 8px 4px; position: sticky; }
   .marque { padding: 0 6px; font-size: 19px; }
   .entete nav { margin: 0; }
+  .choix-langue { position: absolute; top: 4px; right: 8px; }
+  .choix-langue select { min-height: 30px; }
   .entete nav a { padding: 7px 9px; font-size: 14px; }
   :root { --entete: 80px; }
 }

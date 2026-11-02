@@ -1,0 +1,629 @@
+{
+ "id": "silamaka",
+ "titre": "Silamaka et Poullori",
+ "peuple": "Peul",
+ "langues_cibles": [
+  "fr",
+  "fuf"
+ ],
+ "pistes": [
+  {
+   "id": "titre",
+   "type": "titre",
+   "chemin": "titre",
+   "texte": "Silamaka et Poullori"
+  },
+  {
+   "id": "presentation",
+   "type": "presentation",
+   "chemin": "presentation",
+   "texte": "Le roi de Ségou réclame un tribut à tous les campements. Tu es Poullori, à qui rien ne fait peur, et tu ne quittes jamais Silamaka. Allez-vous payer ?"
+  },
+  {
+   "id": "personnages.griot.nom",
+   "type": "personnage",
+   "chemin": "personnages.griot.nom",
+   "texte": "Le griot"
+  },
+  {
+   "id": "personnages.silamaka.nom",
+   "type": "personnage",
+   "chemin": "personnages.silamaka.nom",
+   "texte": "Silamaka"
+  },
+  {
+   "id": "personnages.poullori.nom",
+   "type": "personnage",
+   "chemin": "personnages.poullori.nom",
+   "texte": "Poullori"
+  },
+  {
+   "id": "personnages.envoye.nom",
+   "type": "personnage",
+   "chemin": "personnages.envoye.nom",
+   "texte": "L'envoyé de Ségou"
+  },
+  {
+   "id": "personnages.serpent.nom",
+   "type": "personnage",
+   "chemin": "personnages.serpent.nom",
+   "texte": "Le serpent"
+  },
+  {
+   "id": "fins.canon",
+   "type": "fin",
+   "chemin": "fins.canon",
+   "texte": "Version du griot : vos noms ne mourront pas"
+  },
+  {
+   "id": "fins.tribut",
+   "type": "fin",
+   "chemin": "fins.tribut",
+   "texte": "Autre chemin : le tribut payé"
+  },
+  {
+   "id": "n1",
+   "type": "replique",
+   "chemin": "nodes.n1.text",
+   "noeud": "n1",
+   "partie": "L'enfant et le serpent (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Silamaka, un héros peul. Et Poullori, son compagnon, à qui rien ne fait peur. Silamaka n'était encore qu'un enfant quand un serpent se dressa devant lui, dans la brousse.",
+   "genre": "adulte/homme",
+   "duree_ms": 12520,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n2",
+   "type": "replique",
+   "chemin": "nodes.n2.text",
+   "noeud": "n2",
+   "partie": "L'enfant et le serpent (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Il tend la main, et le serpent, au lieu de mordre, s'incline. Il devient son protecteur.",
+   "genre": "adulte/homme",
+   "duree_ms": 7130,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n3",
+   "type": "replique",
+   "chemin": "nodes.n3.text",
+   "noeud": "n3",
+   "partie": "Le tribut de Ségou (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Puis vient le roi de Ségou, qui exige un tribut de tous les campements. Ses envoyés arrivent, sûrs d'eux.",
+   "genre": "adulte/homme",
+   "duree_ms": 8120,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n4",
+   "type": "replique",
+   "chemin": "nodes.n4.text",
+   "noeud": "n4",
+   "partie": "Le tribut de Ségou (jeu)",
+   "personnage": "L'envoyé de Ségou",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Le tribut. Ou l'armée de Ségou viendra le prendre.",
+   "genre": "adulte/homme",
+   "duree_ms": 4020,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n5",
+   "type": "replique",
+   "chemin": "nodes.n5.text",
+   "noeud": "n5",
+   "partie": "Le tribut de Ségou (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Tout le campement se tait. On regarde Silamaka, et il te regarde. Que lui dis-tu ?",
+   "genre": "adulte/homme",
+   "duree_ms": 7130,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n5.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.n5.choices.0.label",
+   "texte": "« Je suis avec toi, quoi que tu répondes. »"
+  },
+  {
+   "id": "nodes.n5.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.n5.choices.0.tag",
+   "texte": "fidélité"
+  },
+  {
+   "id": "nodes.n5.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.n5.choices.1.label",
+   "texte": "« Paye : nous ne sommes que deux. »"
+  },
+  {
+   "id": "nodes.n5.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.n5.choices.1.tag",
+   "texte": "prudence"
+  },
+  {
+   "id": "paye",
+   "type": "replique",
+   "chemin": "nodes.paye.text",
+   "noeud": "paye",
+   "partie": "Le tribut de Ségou (jeu)",
+   "personnage": "Silamaka",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Tu dis cela, Poullori ? Toi ?",
+   "genre": "adulte/homme",
+   "duree_ms": 3410,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n6",
+   "type": "replique",
+   "chemin": "nodes.n6.text",
+   "noeud": "n6",
+   "partie": "Le tribut de Ségou (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Il te regarde encore. Tu maintiens ton conseil ?",
+   "genre": "adulte/homme",
+   "duree_ms": 4020,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n6.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.n6.choices.0.label",
+   "texte": "Non : « Je suis avec toi. »"
+  },
+  {
+   "id": "nodes.n6.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.n6.choices.0.tag",
+   "texte": "fidélité"
+  },
+  {
+   "id": "nodes.n6.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.n6.choices.1.label",
+   "texte": "Oui : le campement vaut plus que notre fierté"
+  },
+  {
+   "id": "nodes.n6.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.n6.choices.1.tag",
+   "texte": "tribut payé"
+  },
+  {
+   "id": "finpaye",
+   "type": "replique",
+   "chemin": "nodes.finpaye.text",
+   "noeud": "finpaye",
+   "partie": "Le tribut de Ségou (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Le campement paie. Il paiera l'an prochain aussi. Dans ce chemin imaginé, il n'y a pas d'épopée, et personne ne chante plus vos noms.",
+   "genre": "adulte/homme",
+   "duree_ms": 10320,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "avec",
+   "type": "replique",
+   "chemin": "nodes.avec.text",
+   "noeud": "avec",
+   "partie": "Le tribut de Ségou (jeu)",
+   "personnage": "Silamaka",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Dites à votre roi que nous ne paierons pas.",
+   "genre": "adulte/homme",
+   "duree_ms": 3720,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n7",
+   "type": "replique",
+   "chemin": "nodes.n7.text",
+   "noeud": "n7",
+   "partie": "Le tribut de Ségou (jeu)",
+   "personnage": "Le griot",
+   "intonation": "enlevé",
+   "intonation_statut": "proposée",
+   "texte": "Les envoyés font demi-tour. Chacun sait ce qui va suivre. L'armée de Ségou arrive. En selle !",
+   "genre": "adulte/homme",
+   "duree_ms": 7660,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n8.consigne",
+   "type": "jeu",
+   "chemin": "nodes.n8.consigne",
+   "texte": "L'armée de Ségou arrive ! Tape vite sur ESPACE ou sur l'écran pour charger aux côtés de Silamaka."
+  },
+  {
+   "id": "nodes.n8.gagne",
+   "type": "jeu",
+   "chemin": "nodes.n8.gagne",
+   "texte": "Vous chargez, côte à côte !"
+  },
+  {
+   "id": "nodes.n8.perdu",
+   "type": "jeu",
+   "chemin": "nodes.n8.perdu",
+   "texte": "L'armée vous presse, mais vous restez côte à côte !"
+  },
+  {
+   "id": "nodes.n8.tags.win",
+   "type": "parcours",
+   "chemin": "nodes.n8.tags.win",
+   "texte": "course gagnée"
+  },
+  {
+   "id": "nodes.n8.tags.lose",
+   "type": "parcours",
+   "chemin": "nodes.n8.tags.lose",
+   "texte": "course perdue"
+  },
+  {
+   "id": "n9",
+   "type": "replique",
+   "chemin": "nodes.n9.text",
+   "noeud": "n9",
+   "partie": "Le serpent surgit (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Quand un coup menace Silamaka, le serpent surgit entre vous. Personne n'ose l'approcher, et l'armée recule.",
+   "genre": "adulte/homme",
+   "duree_ms": 6980,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n10",
+   "type": "replique",
+   "chemin": "nodes.n10.text",
+   "noeud": "n10",
+   "partie": "Le serpent surgit (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Le soir, les deux amis s'éloignent ensemble, dans la lumière. Certaines versions racontent une fin plus sombre. Toutes disent que Poullori ne le quitta jamais.",
+   "genre": "adulte/homme",
+   "duree_ms": 10700,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n11",
+   "type": "replique",
+   "chemin": "nodes.n11.text",
+   "noeud": "n11",
+   "partie": "Le serpent surgit (jeu)",
+   "personnage": "Le griot",
+   "intonation": "enlevé",
+   "intonation_statut": "proposée",
+   "texte": "Silamaka, fils du courage ! Poullori, fidèle ami ! Vos noms ne mourront pas, tant qu'un griot aura une voix !",
+   "genre": "adulte/homme",
+   "duree_ms": 9330,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "film-001",
+   "type": "film",
+   "partie": "Film d'animation, de 00:02.0 à 00:08.0",
+   "horodatage": {
+    "debut_ms": 2000,
+    "fin_ms": 8000
+   },
+   "personnage": "Narrateur",
+   "intonation": "solennel",
+   "intonation_statut": "scénario",
+   "texte": "Silamaka et Poullori. Une épopée peule, partagée avec le Mali.",
+   "genre": "adulte/libre",
+   "duree_ms": 6000,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-002",
+   "type": "film",
+   "partie": "Film d'animation, de 00:10.0 à 00:17.0",
+   "horodatage": {
+    "debut_ms": 10000,
+    "fin_ms": 17000
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Silamaka, un héros peul. Et Poullori, son compagnon, à qui rien ne fait peur.",
+   "genre": "adulte/libre",
+   "duree_ms": 7000,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-003",
+   "type": "film",
+   "partie": "Film d'animation, de 00:18.0 à 00:20.8",
+   "horodatage": {
+    "debut_ms": 18000,
+    "fin_ms": 20800
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "On ne les vit jamais l'un sans l'autre.",
+   "genre": "adulte/libre",
+   "duree_ms": 2800,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-004",
+   "type": "film",
+   "partie": "Film d'animation, de 00:30.0 à 00:35.8",
+   "horodatage": {
+    "debut_ms": 30000,
+    "fin_ms": 35800
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Silamaka n'était encore qu'un enfant quand un serpent se dressa devant lui, dans la brousse.",
+   "genre": "adulte/libre",
+   "duree_ms": 5800,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-005",
+   "type": "film",
+   "partie": "Film d'animation, de 00:39.0 à 00:43.7",
+   "horodatage": {
+    "debut_ms": 39000,
+    "fin_ms": 43700
+   },
+   "personnage": "Narrateur",
+   "intonation": "émerveillé",
+   "intonation_statut": "scénario",
+   "texte": "Il tendit la main, et le serpent, au lieu de mordre, s'inclina.",
+   "genre": "adulte/libre",
+   "duree_ms": 4700,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-006",
+   "type": "film",
+   "partie": "Film d'animation, de 00:49.0 à 00:51.7",
+   "horodatage": {
+    "debut_ms": 49000,
+    "fin_ms": 51700
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Il devint son protecteur.",
+   "genre": "adulte/libre",
+   "duree_ms": 2700,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-007",
+   "type": "film",
+   "partie": "Film d'animation, de 01:08.0 à 01:12.6",
+   "horodatage": {
+    "debut_ms": 68000,
+    "fin_ms": 72600
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Puis vint le roi de Ségou, qui exigeait un tribut de tous les campements.",
+   "genre": "adulte/libre",
+   "duree_ms": 4600,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-008",
+   "type": "film",
+   "partie": "Film d'animation, de 01:15.0 à 01:19.5",
+   "horodatage": {
+    "debut_ms": 75000,
+    "fin_ms": 79500
+   },
+   "personnage": "Narrateur",
+   "intonation": "tendu",
+   "intonation_statut": "scénario",
+   "texte": "Ses envoyés arrivèrent, sûrs d'eux, et ils réclamèrent leur dû.",
+   "genre": "adulte/libre",
+   "duree_ms": 4500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-009",
+   "type": "film",
+   "partie": "Film d'animation, de 01:27.0 à 01:30.9",
+   "horodatage": {
+    "debut_ms": 87000,
+    "fin_ms": 90900
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Tout le campement se tut, et l'on regarda Silamaka.",
+   "genre": "adulte/libre",
+   "duree_ms": 3900,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-010",
+   "type": "film",
+   "partie": "Film d'animation, de 01:43.0 à 01:46.0",
+   "horodatage": {
+    "debut_ms": 103000,
+    "fin_ms": 106000
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Silamaka s'avança à cheval.",
+   "genre": "adulte/libre",
+   "duree_ms": 3000,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-011",
+   "type": "film",
+   "partie": "Film d'animation, de 01:47.5 à 01:50.0",
+   "horodatage": {
+    "debut_ms": 107500,
+    "fin_ms": 110000
+   },
+   "personnage": "SILAMAKA",
+   "intonation": "calme et fier",
+   "intonation_statut": "scénario",
+   "texte": "Dites à votre roi que nous ne paierons pas.",
+   "genre": "adulte/homme",
+   "duree_ms": 2500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-012",
+   "type": "film",
+   "partie": "Film d'animation, de 01:54.0 à 01:59.5",
+   "horodatage": {
+    "debut_ms": 114000,
+    "fin_ms": 119500
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Les envoyés firent demi-tour. Chacun savait ce qui allait suivre.",
+   "genre": "adulte/libre",
+   "duree_ms": 5500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-013",
+   "type": "film",
+   "partie": "Film d'animation, de 02:16.0 à 02:21.8",
+   "horodatage": {
+    "debut_ms": 136000,
+    "fin_ms": 141800
+   },
+   "personnage": "Narrateur",
+   "intonation": "enlevé",
+   "intonation_statut": "scénario",
+   "texte": "L'armée de Ségou arriva. Silamaka et Poullori la chargèrent, côte à côte.",
+   "genre": "adulte/libre",
+   "duree_ms": 5800,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-014",
+   "type": "film",
+   "partie": "Film d'animation, de 02:40.0 à 02:44.4",
+   "horodatage": {
+    "debut_ms": 160000,
+    "fin_ms": 164400
+   },
+   "personnage": "Narrateur",
+   "intonation": "mystérieux",
+   "intonation_statut": "scénario",
+   "texte": "Quand un coup menaça Silamaka, le serpent surgit entre eux.",
+   "genre": "adulte/libre",
+   "duree_ms": 4400,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-015",
+   "type": "film",
+   "partie": "Film d'animation, de 02:52.0 à 02:55.7",
+   "horodatage": {
+    "debut_ms": 172000,
+    "fin_ms": 175700
+   },
+   "personnage": "Narrateur",
+   "intonation": "fort",
+   "intonation_statut": "scénario",
+   "texte": "Personne n'osa l'approcher, et l'armée recula.",
+   "genre": "adulte/libre",
+   "duree_ms": 3700,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-016",
+   "type": "film",
+   "partie": "Film d'animation, de 03:05.0 à 03:09.5",
+   "horodatage": {
+    "debut_ms": 185000,
+    "fin_ms": 189500
+   },
+   "personnage": "Narrateur",
+   "intonation": "joyeux",
+   "intonation_statut": "scénario",
+   "texte": "Silamaka était vainqueur, et Poullori toujours à ses côtés.",
+   "genre": "adulte/libre",
+   "duree_ms": 4500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-017",
+   "type": "film",
+   "partie": "Film d'animation, de 03:16.0 à 03:21.0",
+   "horodatage": {
+    "debut_ms": 196000,
+    "fin_ms": 201000
+   },
+   "personnage": "Narrateur",
+   "intonation": "doux",
+   "intonation_statut": "scénario",
+   "texte": "Le soir, les deux amis s'éloignèrent ensemble, dans la lumière.",
+   "genre": "adulte/libre",
+   "duree_ms": 5000,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-018",
+   "type": "film",
+   "partie": "Film d'animation, de 03:27.0 à 03:33.3",
+   "horodatage": {
+    "debut_ms": 207000,
+    "fin_ms": 213300
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Certaines versions racontent une fin plus sombre. Toutes disent que Poullori ne le quitta jamais.",
+   "genre": "adulte/libre",
+   "duree_ms": 6300,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-019",
+   "type": "film",
+   "partie": "Film d'animation, de 03:47.5 à 03:57.8",
+   "horodatage": {
+    "debut_ms": 227500,
+    "fin_ms": 237800
+   },
+   "personnage": "GRIOT",
+   "intonation": "chanté",
+   "intonation_statut": "scénario",
+   "texte": "Silamaka, fils du courage ! Poullori, fidèle ami ! Vos noms ne mourront pas, tant qu'un griot aura une voix !",
+   "genre": "griot, griotte/libre",
+   "duree_ms": 10300,
+   "duree_statut": "mesurée sur le film"
+  }
+ ]
+}

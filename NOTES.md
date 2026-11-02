@@ -28,7 +28,7 @@
 - **Secrets :** le jeu ne montre ni le Dyoro, ni le vur, ni la préparation des rois d'Obiré et de Garango. Les curieux sont renvoyés, et le récit le dit.
 - **Les kinkirsi :** la scène est entièrement imaginée, faute de légende collectée. Le griot l'annonce dès la première réplique.
 - **À valider :** ces branches, répliques et devinettes sont à relire avec les textes, comme tout le contenu.
-- **Voix du jeu :** seuls Yennenga et Le lièvre et l'hyène ont des emplacements de répliques doublées. Les 32 autres histoires se jouent avec le texte français, sans voix.
+- **Voix du jeu :** les 34 histoires ont une fiche par réplique dans `public/bandes-son`. Aucune n'est encore enregistrée : elles se jouent sans voix.
 
 ## Audio
 
@@ -42,4 +42,51 @@
 - **Déploiement :** GitHub Actions publie dans la branche `gh-pages`, avec `keep_files`, pour garder les films et le studio qui s'y trouvent déjà.
 - **Tests de bout en bout :** lancés en local avec Edge (`npm run test:e2e`), pas en CI.
 - **Filtre « jouables » retiré :** il n'a plus d'objet, tout se joue.
-- **Fonctions P3 :** le mini-jeu `rythme` et le générateur de récit sont faits. La traduction des menus et le service worker ne le sont pas.
+- **Fonctions P3 :** le mini-jeu `rythme` et le générateur de récit sont faits. Le service worker ne l'est pas.
+
+## 3D
+
+- **Modèles générés par scripts Blender** (`modeles3d/`) : ni achat, ni licence tierce, et chaque correction se propage. La contrepartie est un style stylisé de marionnettes, loin du photoréalisme.
+- **Personnages :** 35 styles sur une même armature, avec les animations repos, parole, marche et monte. Les membres ont été épaissis pour quitter l'allure des anciens stickmen. Les animaux des contes sont des personnages à tête d'animal, comme dans les anciens dessins.
+- **Performance :** 4 000 à 41 000 triangles par décor. La qualité baisse toute seule si l'image ralentit : moins de pixels, puis plus d'ombres.
+- **Tests de bout en bout :** les 34 histoires sont jouées en mode lecture, trop lentes en 3D sur le rendu logiciel des tests. Trois histoires sont jouées en 3D sur grand écran. Le rendu n'a pas été mesuré sur un vrai téléphone.
+
+## Patrimoine
+
+- **Fidélité :** ce sont des interprétations d'après des notices de musée et des descriptions, sans relevé ni photo de référence intégrée. Chaque fiche porte un champ `fidelite`. La demande « tous les motifs et détails » n'est pas atteinte : elle demande des photos de pièces réelles et une relecture par des connaisseurs.
+- **Motifs :** les compositions sont inventées à partir du vocabulaire décrit. Aucun masque ni mur précis n'est reproduit.
+- **Sens des motifs :** les fiches n'en donnent pas de clé. Pour les masques bwa, les seules correspondances de couleurs trouvées viennent d'une source sans références, et le sens est transmis aux initiés. Pour Tiébélé, aucun glossaire complet n'a été trouvé.
+- **Objets sacrés :** les masques sont montrés comme des objets de collection, sans décrire de rite. Le molo et le bateba sont liés à l'initiation et aux autels : à montrer à un connaisseur avant de les garder. Le vur et les objets du Dyoro restent absents, comme dans les récits.
+- **Peuples sans objet propre :** Bissa, Gulmancé, Samo, Lyela, Songhaï, Nuna et Marka n'ont que des objets communs, faute de source vérifiée sur un objet précis.
+- **Dozo :** les amulettes suivent une chemise bamana du Mali conservée à Londres. Le lien avec les chasseurs burkinabè reste à confirmer.
+- **Gyil :** les sources décrivent surtout celui du Ghana.
+
+## Motifs
+
+- **Dossier :** `public/motifs`, images `type-objet-numero.png`. Le jeu et la fiche Patrimoine les posent sur le modèle 3D. Mode d'emploi : `public/motifs/README.md`.
+- **Motifs par peuple :** un objet commun peut porter un motif différent selon le peuple (forme, place, couleur). Les 7 compositions de `peuples.json` sont des démonstrations inventées, signalées comme telles sur la fiche : à remplacer par des motifs relevés.
+- **À vérifier :** aucune image réelle n'a encore été déposée. L'habillage n'a été essayé qu'avec les compositions.
+
+## Barre de temps
+
+- **Sur la carte :** une frise horizontale qui défile, avec un curseur. Elle remplace les boutons d'époques.
+- **Dates :** les crans vont par 100 ans avant 1800, par 20 ans au XIXe siècle, puis par an de 1896 à 1916. Le début à 1100 est un choix d'affichage. Seules 7 étapes portent une année, tirée de leur titre.
+- **Conséquence :** une étape sans année reste visible sur toute son époque. Le curseur ne change donc l'affichage, à l'intérieur d'une époque, que pour ces 7 étapes. Il faudrait dater les autres étapes à partir de sources.
+- **Classement à relire :** le découpage en époques reste une proposition, en particulier « Aujourd'hui » pour la fin de certains récits, et le classement de Yennenga dans le « Temps des royaumes ».
+- **Sauter une étape :** le joueur garde ses choix, mais peut arriver à une scène qui en suppose d'autres. Le panneau le dit.
+- **Lieux hors carte :** Gambaga, Kong, le Macina et la Gold Coast sont hors du pays, et le ciel de certains mythes hors de toute carte. Ils sont listés sans marqueur. Datomon, Dafra, la forêt de Rialé et la route de Kong à Bobo ont un emplacement approché.
+
+## Langues
+
+- **Traduction du site :** `public/traductions/translate-<langue>.json`, avec le français à gauche et la traduction à droite. Le fichier couvre l'interface, les fiches et les histoires : 2 329 phrases. Une phrase vide reste en français.
+- **Liste des phrases :** l'interface est extraite du code par `scripts/medias.js`. Une phrase composée à l'affichage peut y échapper, et reste alors en français.
+- **Sous-titres :** ceux du lecteur audio ne passent par ce fichier que s'ils reprennent exactement une phrase de la fiche.
+- **Anglais :** traduction de travail, partielle, pour montrer le résultat : l'interface principale, Yennenga et La gazelle.
+- **Langues nationales :** aucun texte. Je n'ai pas écrit de traduction qu'un locuteur n'aurait pas relue.
+- **Voix :** `<histoire>-<partie>-<langue>.m4a`, à enregistrer avec Audacity une fois l'idée validée par l'équipe. Aucune n'existe encore.
+- **Intonation, âge, sexe, durée :** proposés automatiquement pour le jeu, à ajuster par le directeur de doublage. Les films gardent le ton et le minutage de leur script.
+
+## Pour plus tard
+
+- **Objets sacrés :** à vérifier plus tard, faute de temps (molo, bateba, liés à l'initiation et aux autels).
+- **Films :** remplacer les films stickman par des animations Three.js exportées en vidéo.

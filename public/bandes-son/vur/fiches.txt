@@ -1,0 +1,372 @@
+# Le mystère du vur : fiches des bandes-son
+# Généré par « npm run bandes-son » depuis pistes.json. Modifier pistes.json, pas ce fichier.
+
+piste: n1
+histoire: Le mystère du vur
+partie: Le grenier d'Ebéyé (jeu)
+personnage: Le griot
+fichier: vur-n1-<langue>.m4a
+intonation: chuchoté (proposée)
+texte: Dans un village lyela, chacun connaît son voisin, et chacun croit tout savoir de lui. Ebéyé, une veuve, garde dans son grenier tout le mil de l'année. Cette nuit-là, une ombre vide le grenier.
+genre: adulte/homme
+duree: 14570ms (estimée)
+
+piste: n2
+histoire: Le mystère du vur
+partie: Le village s'assemble (jeu)
+personnage: Le griot
+fichier: vur-n2-<langue>.m4a
+intonation: posé (proposée)
+texte: Au matin, le village s'assemble. Un berger de passage arrive.
+genre: adulte/homme
+duree: 4550ms (estimée)
+
+piste: n3
+histoire: Le mystère du vur
+partie: Le village s'assemble (jeu)
+personnage: Le voisin
+fichier: vur-n3-<langue>.m4a
+intonation: vif (proposée)
+texte: C'est lui ! C'est forcément lui !
+genre: adulte/homme
+duree: 3260ms (estimée)
+
+piste: n4
+histoire: Le mystère du vur
+partie: Le village s'assemble (jeu)
+personnage: Le griot
+fichier: vur-n4-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Il a beau nier, personne ne l'écoute. Et toi, que dis-tu ?
+genre: adulte/homme
+duree: 5460ms (estimée)
+
+piste: chasse
+histoire: Le mystère du vur
+partie: Le village s'assemble (jeu)
+personnage: L'ancien
+fichier: vur-chasse-<langue>.m4a
+intonation: grave (proposée)
+texte: Sans preuve, on ne condamne personne. Tu le sais pourtant.
+genre: âgé/homme
+duree: 4550ms (estimée)
+
+piste: n5
+histoire: Le mystère du vur
+partie: Le village s'assemble (jeu)
+personnage: Le griot
+fichier: vur-n5-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: L'ancien te demande de redire ton avis devant tous. Le maintiens-tu ?
+genre: adulte/homme
+duree: 5160ms (estimée)
+
+piste: injuste
+histoire: Le mystère du vur
+partie: Le village s'assemble (jeu)
+personnage: Le griot
+fichier: vur-injuste-<langue>.m4a
+intonation: posé (proposée)
+texte: La foule te suit. Le berger reprend la route sous les pierres. Mais le mil ne revient pas, et le voleur, lui, reste au village. Ce chemin n'est pas celui du récit.
+genre: adulte/homme
+duree: 13810ms (estimée)
+
+piste: preuve
+histoire: Le mystère du vur
+partie: Le village s'assemble (jeu)
+personnage: Le griot
+fichier: vur-preuve-<langue>.m4a
+intonation: posé (proposée)
+texte: Les anciens se réunissent. Personne n'a rien vu, et chacun soupçonne l'autre. Ils décident de s'en remettre au vur.
+genre: adulte/homme
+duree: 8270ms (estimée)
+
+piste: n6
+histoire: Le mystère du vur
+partie: Le village s'assemble (jeu)
+personnage: Le griot
+fichier: vur-n6-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Ils partent vers le lieu du vur. Veux-tu les suivre ?
+genre: adulte/homme
+duree: 4780ms (estimée)
+
+piste: voir
+histoire: Le mystère du vur
+partie: Le village s'assemble (jeu)
+personnage: Le griot
+fichier: vur-voir-<langue>.m4a
+intonation: posé (proposée)
+texte: On n'en dira pas plus. Il n'y a rien à montrer : seulement le vent, une lumière, et le noir. Tu rentres sans rien avoir vu.
+genre: adulte/homme
+duree: 11230ms (estimée)
+
+piste: reste
+histoire: Le mystère du vur
+partie: Le village s'assemble (jeu)
+personnage: Le griot
+fichier: vur-reste-<langue>.m4a
+intonation: chuchoté (proposée)
+texte: Les nuits suivantes, un jeune homme ne dort plus. C'est lui qui a pris le mil. Une nuit, il rapporte le sac au pied du grenier. Mais Ebéyé est là.
+genre: adulte/homme
+duree: 12900ms (estimée)
+
+piste: n7
+histoire: Le mystère du vur
+partie: Le village s'assemble (jeu)
+personnage: Le jeune homme
+fichier: vur-n7-<langue>.m4a
+intonation: chuchoté (proposée)
+texte: C'est moi. Pardonne-moi, je n'en peux plus.
+genre: adulte/homme
+duree: 3410ms (estimée)
+
+piste: n8
+histoire: Le mystère du vur
+partie: Le village s'assemble (jeu)
+personnage: Ebéyé
+fichier: vur-n8-<langue>.m4a
+intonation: doux (proposée)
+texte: Dis-le à ceux qui ont accusé le berger.
+genre: âgée/femme
+duree: 3340ms (estimée)
+
+piste: n10
+histoire: Le mystère du vur
+partie: L'aveu (jeu)
+personnage: L'ancien
+fichier: vur-n10-<langue>.m4a
+intonation: grave (proposée)
+texte: Tu l'as dit toi-même. C'est bien.
+genre: âgé/homme
+duree: 2880ms (estimée)
+
+piste: n11
+histoire: Le mystère du vur
+partie: L'aveu (jeu)
+personnage: Le griot
+fichier: vur-n11-<langue>.m4a
+intonation: posé (proposée)
+texte: On présente des excuses au berger, qui reprend sa route. Et le voleur travaillera le champ de la veuve. Le vur veille, dit-on. La vérité finit toujours par se savoir.
+genre: adulte/homme
+duree: 12900ms (estimée)
+
+piste: film-001
+histoire: Le mystère du vur
+partie: Film d'animation, de 00:02.0 à 00:08.2
+personnage: Narrateur
+fichier: vur-film-001-<langue>.m4a
+intonation: sobre (scénario)
+texte: Le mystère du vur. Un récit imaginé, inspiré de la tradition lyela.
+genre: adulte/libre
+duree: 6200ms (mesurée sur le film)
+
+piste: film-002
+histoire: Le mystère du vur
+partie: Film d'animation, de 00:09.0 à 00:15.5
+personnage: Narrateur
+fichier: vur-film-002-<langue>.m4a
+intonation: posé (proposée)
+texte: Dans un village lyela, chacun connaît son voisin. Et chacun croit tout savoir de lui.
+genre: adulte/libre
+duree: 6500ms (mesurée sur le film)
+
+piste: film-003
+histoire: Le mystère du vur
+partie: Film d'animation, de 00:28.0 à 00:32.6
+personnage: Narrateur
+fichier: vur-film-003-<langue>.m4a
+intonation: posé (proposée)
+texte: Ebéyé, une veuve, garde dans son grenier tout le mil de l'année.
+genre: adulte/libre
+duree: 4600ms (mesurée sur le film)
+
+piste: film-004
+histoire: Le mystère du vur
+partie: Film d'animation, de 00:40.0 à 00:45.0
+personnage: Narrateur
+fichier: vur-film-004-<langue>.m4a
+intonation: chuchoté (scénario)
+texte: Cette nuit-là, une ombre se glisse dans sa cour, et vide le grenier.
+genre: adulte/libre
+duree: 5000ms (mesurée sur le film)
+
+piste: film-005
+histoire: Le mystère du vur
+partie: Film d'animation, de 01:02.0 à 01:07.5
+personnage: Narrateur
+fichier: vur-film-005-<langue>.m4a
+intonation: posé (proposée)
+texte: Au matin, Ebéyé découvre le vol. Le village s'assemble.
+genre: adulte/libre
+duree: 5500ms (mesurée sur le film)
+
+piste: film-006
+histoire: Le mystère du vur
+partie: Film d'animation, de 01:11.0 à 01:15.5
+personnage: Narrateur
+fichier: vur-film-006-<langue>.m4a
+intonation: posé (proposée)
+texte: Un berger de passage arrive. Le coupable est trouvé.
+genre: adulte/libre
+duree: 4500ms (mesurée sur le film)
+
+piste: film-007
+histoire: Le mystère du vur
+partie: Film d'animation, de 01:15.5 à 01:19.5
+personnage: VOISIN
+fichier: vur-film-007-<langue>.m4a
+intonation: accusateur (scénario)
+texte: C'est lui ! C'est forcément lui !
+genre: adulte/femme
+duree: 4000ms (mesurée sur le film)
+
+piste: film-008
+histoire: Le mystère du vur
+partie: Film d'animation, de 01:22.0 à 01:25.3
+personnage: Narrateur
+fichier: vur-film-008-<langue>.m4a
+intonation: posé (proposée)
+texte: Il a beau nier, personne ne l'écoute.
+genre: adulte/libre
+duree: 3300ms (mesurée sur le film)
+
+piste: film-009
+histoire: Le mystère du vur
+partie: Film d'animation, de 01:28.0 à 01:31.3
+personnage: ANCIEN
+fichier: vur-film-009-<langue>.m4a
+intonation: ferme (scénario)
+texte: Sans preuve, on ne condamne personne.
+genre: âgé/libre
+duree: 3300ms (mesurée sur le film)
+
+piste: film-010
+histoire: Le mystère du vur
+partie: Film d'animation, de 01:38.0 à 01:44.2
+personnage: Narrateur
+fichier: vur-film-010-<langue>.m4a
+intonation: posé (proposée)
+texte: Les anciens se réunissent. Personne n'a rien vu, et chacun soupçonne l'autre.
+genre: adulte/libre
+duree: 6200ms (mesurée sur le film)
+
+piste: film-011
+histoire: Le mystère du vur
+partie: Film d'animation, de 01:48.0 à 01:51.0
+personnage: Narrateur
+fichier: vur-film-011-<langue>.m4a
+intonation: posé (proposée)
+texte: Ils décident de s'en remettre au vur.
+genre: adulte/libre
+duree: 3000ms (mesurée sur le film)
+
+piste: film-012
+histoire: Le mystère du vur
+partie: Film d'animation, de 02:10.0 à 02:14.6
+personnage: Narrateur
+fichier: vur-film-012-<langue>.m4a
+intonation: mystérieux (scénario)
+texte: Ils partent vers le lieu du vur. On n'en dira pas plus.
+genre: adulte/libre
+duree: 4600ms (mesurée sur le film)
+
+piste: film-013
+histoire: Le mystère du vur
+partie: Film d'animation, de 02:24.0 à 02:29.2
+personnage: Narrateur
+fichier: vur-film-013-<langue>.m4a
+intonation: chuchoté (scénario)
+texte: Il n'y a rien à montrer : seulement le vent, une lumière, et le noir.
+genre: adulte/libre
+duree: 5200ms (mesurée sur le film)
+
+piste: film-014
+histoire: Le mystère du vur
+partie: Film d'animation, de 02:46.0 à 02:49.4
+personnage: Narrateur
+fichier: vur-film-014-<langue>.m4a
+intonation: inquiet (scénario)
+texte: Les nuits suivantes, un jeune homme ne dort plus.
+genre: adulte/libre
+duree: 3400ms (mesurée sur le film)
+
+piste: film-015
+histoire: Le mystère du vur
+partie: Film d'animation, de 02:57.0 à 03:02.1
+personnage: Narrateur
+fichier: vur-film-015-<langue>.m4a
+intonation: posé (proposée)
+texte: C'est lui qui a pris le mil. La peur et le remords le rongent.
+genre: adulte/libre
+duree: 5100ms (mesurée sur le film)
+
+piste: film-016
+histoire: Le mystère du vur
+partie: Film d'animation, de 03:08.0 à 03:14.7
+personnage: Narrateur
+fichier: vur-film-016-<langue>.m4a
+intonation: posé (proposée)
+texte: Une nuit, il rapporte le sac, et il le dépose au pied du grenier. Mais Ebéyé est là.
+genre: adulte/libre
+duree: 6700ms (mesurée sur le film)
+
+piste: film-017
+histoire: Le mystère du vur
+partie: Film d'animation, de 03:18.0 à 03:21.4
+personnage: VOLEUR
+fichier: vur-film-017-<langue>.m4a
+intonation: honteux (scénario)
+texte: C'est moi. Pardonne-moi, je n'en peux plus.
+genre: adulte/homme
+duree: 3400ms (mesurée sur le film)
+
+piste: film-018
+histoire: Le mystère du vur
+partie: Film d'animation, de 03:27.5 à 03:30.6
+personnage: VOLEUR
+fichier: vur-film-018-<langue>.m4a
+intonation: honteux, à voix haute (scénario)
+texte: C'est moi qui ai volé. Pas le berger.
+genre: adulte/homme
+duree: 3100ms (mesurée sur le film)
+
+piste: film-019
+histoire: Le mystère du vur
+partie: Film d'animation, de 03:36.0 à 03:39.6
+personnage: ANCIEN
+fichier: vur-film-019-<langue>.m4a
+intonation: sévère puis doux (scénario)
+texte: Tu l'as dit toi-même. C'est bien.
+genre: âgé/libre
+duree: 3600ms (mesurée sur le film)
+
+piste: film-020
+histoire: Le mystère du vur
+partie: Film d'animation, de 03:41.0 à 03:45.3
+personnage: Narrateur
+fichier: vur-film-020-<langue>.m4a
+intonation: posé (proposée)
+texte: On présente des excuses au berger, qui reprend sa route.
+genre: adulte/libre
+duree: 4300ms (mesurée sur le film)
+
+piste: film-021
+histoire: Le mystère du vur
+partie: Film d'animation, de 03:52.0 à 03:55.2
+personnage: Narrateur
+fichier: vur-film-021-<langue>.m4a
+intonation: posé (proposée)
+texte: Et le voleur travaillera le champ de la veuve.
+genre: adulte/libre
+duree: 3200ms (mesurée sur le film)
+
+piste: film-022
+histoire: Le mystère du vur
+partie: Film d'animation, de 04:06.0 à 04:11.9
+personnage: Narrateur
+fichier: vur-film-022-<langue>.m4a
+intonation: doux (scénario)
+texte: Le vur veille, dit-on. La vérité finit toujours par se savoir.
+genre: adulte/libre
+duree: 5900ms (mesurée sur le film)

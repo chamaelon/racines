@@ -26,8 +26,9 @@ export async function monter(el) {
     <ul>
       <li>Un site statique, sans serveur ni compte : le lien reste valable, et la progression reste sur votre appareil.</li>
       <li>Un moteur de récit maison, piloté par des fichiers JSON : ajouter un récit, c'est ajouter un fichier.</li>
-      <li>Des scènes en 2,5D dans Three.js, chargé seulement pour le jeu et le relief. Sans WebGL, l'histoire se joue en mode lecture.</li>
-      <li>Tous les dessins sont faits par le code : aucune image n'est téléchargée.</li>
+      <li>Des scènes en 3D dans Three.js, chargé seulement pour le jeu, le patrimoine et le relief. La qualité s'adapte à l'appareil, et sans WebGL l'histoire se joue en mode lecture.</li>
+      <li>Les décors, les personnages et les objets sont générés par des scripts Blender (dossier <code>modeles3d</code>) : aucun modèle n'est téléchargé d'un tiers. Ce sont des interprétations. Chaque fiche du patrimoine dit jusqu'où elle est fidèle.</li>
+      <li>Chaque histoire se parcourt sur deux axes, le temps et l'espace. Époques et lieux viennent du texte des récits ; quand un récit ne donne pas de date, le site l'indique au lieu d'en inventer une.</li>
     </ul>
 
     <h2>Les films d'animation</h2>
@@ -35,7 +36,7 @@ export async function monter(el) {
 
     <h2>Crédits</h2>
     <ul>
-      <li>Auteur : SOME M J Enock, projet du cours de Web multimédia.</li>
+      <li>Projet du cours de Web multimédia, réalisé par TIROUDA Leila, ZAPRE Malika, OUEDRAOGO Boris et SOME Enock.</li>
       <li>Contours : <a href="https://www.geoboundaries.org/" target="_blank" rel="noreferrer">geoBoundaries</a> (CC BY 4.0) et <a href="https://www.naturalearthdata.com/" target="_blank" rel="noreferrer">Natural Earth</a> (domaine public).</li>
       <li>Polices : Cinzel et Nunito (SIL OFL). Rendu : <a href="https://threejs.org/" target="_blank" rel="noreferrer">Three.js</a> (MIT).</li>
       <li>Une partie de l'idée de la carte vient du prototype <a href="https://keen-monstera-caf0d9.netlify.app/" target="_blank" rel="noreferrer">Voix du Faso</a>, réutilisé avec autorisation.</li>

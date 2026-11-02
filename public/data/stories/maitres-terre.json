@@ -51,7 +51,8 @@
       "text": "Terre, reçois ceci, et donne-nous à manger.",
       "explore": [
         "canari",
-        "soumbala"
+        "soumbala",
+        "adone"
       ],
       "next": "n3"
     },

@@ -1,0 +1,983 @@
+{
+ "id": "gazelle",
+ "titre": "Les deux traits de la gazelle",
+ "peuple": "Bwaba",
+ "langues_cibles": [
+  "fr",
+  "bwa",
+  "dyu"
+ ],
+ "pistes": [
+  {
+   "id": "titre",
+   "type": "titre",
+   "chemin": "titre",
+   "texte": "Les deux traits de la gazelle",
+   "langues": {
+    "en": {
+     "texte": "The Gazelle's Two Stripes",
+     "relecture": "traduction de travail, à relire"
+    }
+   }
+  },
+  {
+   "id": "presentation",
+   "type": "presentation",
+   "chemin": "presentation",
+   "texte": "La gazelle, la plus rapide de la brousse, se moque du caméléon. Il la défie. Tu es dans la peau du caméléon : comment gagner quand on avance une patte après l'autre ?",
+   "langues": {
+    "en": {
+     "texte": "The gazelle, fastest in the bush, mocks the chameleon. He challenges her. You are the chameleon: how do you win when you move one foot at a time?",
+     "relecture": "traduction de travail, à relire"
+    }
+   }
+  },
+  {
+   "id": "personnages.griot.nom",
+   "type": "personnage",
+   "chemin": "personnages.griot.nom",
+   "texte": "Le griot",
+   "langues": {
+    "en": {
+     "texte": "The griot",
+     "relecture": "traduction de travail, à relire"
+    }
+   }
+  },
+  {
+   "id": "personnages.gazelle.nom",
+   "type": "personnage",
+   "chemin": "personnages.gazelle.nom",
+   "texte": "La gazelle",
+   "langues": {
+    "en": {
+     "texte": "The gazelle",
+     "relecture": "traduction de travail, à relire"
+    }
+   }
+  },
+  {
+   "id": "personnages.cameleon.nom",
+   "type": "personnage",
+   "chemin": "personnages.cameleon.nom",
+   "texte": "Le caméléon",
+   "langues": {
+    "en": {
+     "texte": "The chameleon",
+     "relecture": "traduction de travail, à relire"
+    }
+   }
+  },
+  {
+   "id": "personnages.elephant.nom",
+   "type": "personnage",
+   "chemin": "personnages.elephant.nom",
+   "texte": "L'éléphant",
+   "langues": {
+    "en": {
+     "texte": "The elephant",
+     "relecture": "traduction de travail, à relire"
+    }
+   }
+  },
+  {
+   "id": "fins.canon",
+   "type": "fin",
+   "chemin": "fins.canon",
+   "texte": "Version du griot : les deux traits de la gazelle",
+   "langues": {
+    "en": {
+     "texte": "The griot's version: the gazelle's two stripes",
+     "relecture": "traduction de travail, à relire"
+    }
+   }
+  },
+  {
+   "id": "fins.courue",
+   "type": "fin",
+   "chemin": "fins.courue",
+   "texte": "Autre chemin : la gazelle garde son museau blanc",
+   "langues": {
+    "en": {
+     "texte": "Another path: the gazelle keeps her white muzzle",
+     "relecture": "traduction de travail, à relire"
+    }
+   }
+  },
+  {
+   "id": "n1",
+   "type": "replique",
+   "chemin": "nodes.n1.text",
+   "noeud": "n1",
+   "partie": "La mare (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Autrefois, la gazelle n'avait aucune marque sur le museau. Chaque jour, elle s'arrêtait à la mare pour admirer son beau visage.",
+   "genre": "adulte/homme",
+   "duree_ms": 8880,
+   "duree_statut": "estimée",
+   "langues": {
+    "en": {
+     "texte": "Once, the gazelle had no mark on her muzzle. Every day she stopped at the pond to admire her lovely face.",
+     "relecture": "traduction de travail, à relire",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "n2",
+   "type": "replique",
+   "chemin": "nodes.n2.text",
+   "noeud": "n2",
+   "partie": "La mare (jeu)",
+   "personnage": "La gazelle",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Alors, vieux lent, tu arriveras avant la saison des pluies ?",
+   "genre": "voix de conte/libre",
+   "duree_ms": 4780,
+   "duree_statut": "estimée",
+   "langues": {
+    "en": {
+     "texte": "Well, old slowcoach, will you get there before the rainy season?",
+     "relecture": "traduction de travail, à relire",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "n3",
+   "type": "replique",
+   "chemin": "nodes.n3.text",
+   "noeud": "n3",
+   "partie": "La mare (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Elle tourne autour de toi en sautant par-dessus ta tête. Le lièvre et la pintade se mettent à rire. Que réponds-tu ?",
+   "genre": "adulte/homme",
+   "duree_ms": 9260,
+   "duree_statut": "estimée",
+   "langues": {
+    "en": {
+     "texte": "She circles you, leaping over your head. The hare and the guinea fowl start to laugh. What do you answer?",
+     "relecture": "traduction de travail, à relire",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "nodes.n3.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.n3.choices.0.label",
+   "texte": "Rien. Tu changes de couleur, et tu réfléchis",
+   "langues": {
+    "en": {
+     "texte": "Nothing. You change colour and think",
+     "relecture": "traduction de travail, à relire"
+    }
+   }
+  },
+  {
+   "id": "nodes.n3.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.n3.choices.0.tag",
+   "texte": "calme",
+   "langues": {
+    "en": {
+     "texte": "calm",
+     "relecture": "traduction de travail, à relire"
+    }
+   }
+  },
+  {
+   "id": "nodes.n3.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.n3.choices.1.label",
+   "texte": "Tu lui lances une insulte",
+   "langues": {
+    "en": {
+     "texte": "You shout an insult at her",
+     "relecture": "traduction de travail, à relire"
+    }
+   }
+  },
+  {
+   "id": "nodes.n3.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.n3.choices.1.tag",
+   "texte": "insulte",
+   "langues": {
+    "en": {
+     "texte": "insult",
+     "relecture": "traduction de travail, à relire"
+    }
+   }
+  },
+  {
+   "id": "insulte",
+   "type": "replique",
+   "chemin": "nodes.insulte.text",
+   "noeud": "insulte",
+   "partie": "La mare (jeu)",
+   "personnage": "La gazelle",
+   "intonation": "vif",
+   "intonation_statut": "proposée",
+   "texte": "Oh, il sait parler ! Répète donc, je n'ai pas eu le temps de t'entendre, j'étais déjà loin.",
+   "genre": "voix de conte/libre",
+   "duree_ms": 7890,
+   "duree_statut": "estimée",
+   "langues": {
+    "en": {
+     "texte": "Oh, it can talk! Say that again, I had no time to hear you, I was already far away.",
+     "relecture": "traduction de travail, à relire",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "n4",
+   "type": "replique",
+   "chemin": "nodes.n4.text",
+   "noeud": "n4",
+   "partie": "La mare (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Tu ravales ta colère. Il faut mieux que des mots.",
+   "genre": "adulte/homme",
+   "duree_ms": 4400,
+   "duree_statut": "estimée",
+   "langues": {
+    "en": {
+     "texte": "You swallow your anger. This calls for more than words.",
+     "relecture": "traduction de travail, à relire",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "calme",
+   "type": "replique",
+   "chemin": "nodes.calme.text",
+   "noeud": "calme",
+   "partie": "La mare (jeu)",
+   "personnage": "Le caméléon",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Une course, gazelle. Jusque là-bas, à la termitière rouge.",
+   "genre": "voix de conte/libre",
+   "duree_ms": 4320,
+   "duree_statut": "estimée",
+   "langues": {
+    "en": {
+     "texte": "A race, gazelle. To over there, to the red termite mound.",
+     "relecture": "traduction de travail, à relire",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "n5",
+   "type": "replique",
+   "chemin": "nodes.n5.text",
+   "noeud": "n5",
+   "partie": "La ligne de départ (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "L'éléphant accepte d'être le juge. Il trace la ligne d'arrivée d'un geste de la trompe. Toute la brousse veut voir ça.",
+   "genre": "adulte/homme",
+   "duree_ms": 8880,
+   "duree_statut": "estimée",
+   "langues": {
+    "en": {
+     "texte": "The elephant agrees to be the judge. He marks the finish line with a sweep of his trunk. The whole bush wants to see this.",
+     "relecture": "traduction de travail, à relire",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "n6",
+   "type": "replique",
+   "chemin": "nodes.n6.text",
+   "noeud": "n6",
+   "partie": "La ligne de départ (jeu)",
+   "personnage": "La gazelle",
+   "intonation": "vif",
+   "intonation_statut": "proposée",
+   "texte": "Regardez-moi bien, tous ! Je partirai en dernier, pour vous laisser le temps de vous asseoir.",
+   "genre": "voix de conte/libre",
+   "duree_ms": 6980,
+   "duree_statut": "estimée",
+   "langues": {
+    "en": {
+     "texte": "Watch me, all of you! I'll start last, to give you time to sit down.",
+     "relecture": "traduction de travail, à relire",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "n7",
+   "type": "replique",
+   "chemin": "nodes.n7.text",
+   "noeud": "n7",
+   "partie": "La ligne de départ (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Pendant qu'elle fanfaronne, comment courir ?",
+   "genre": "adulte/homme",
+   "duree_ms": 2730,
+   "duree_statut": "estimée",
+   "langues": {
+    "en": {
+     "texte": "While she shows off, how will you run?",
+     "relecture": "traduction de travail, à relire",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "nodes.n7.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.n7.choices.0.label",
+   "texte": "Grimper sans bruit sur son dos, et prendre sa couleur",
+   "langues": {
+    "en": {
+     "texte": "Climb silently onto her back and take on her colour",
+     "relecture": "traduction de travail, à relire"
+    }
+   }
+  },
+  {
+   "id": "nodes.n7.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.n7.choices.0.tag",
+   "texte": "sur le dos",
+   "langues": {
+    "en": {
+     "texte": "on her back",
+     "relecture": "traduction de travail, à relire"
+    }
+   }
+  },
+  {
+   "id": "nodes.n7.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.n7.choices.1.label",
+   "texte": "Partir en avance, de toutes tes forces",
+   "langues": {
+    "en": {
+     "texte": "Set off early, with all your strength",
+     "relecture": "traduction de travail, à relire"
+    }
+   }
+  },
+  {
+   "id": "nodes.n7.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.n7.choices.1.tag",
+   "texte": "départ anticipé",
+   "langues": {
+    "en": {
+     "texte": "false start",
+     "relecture": "traduction de travail, à relire"
+    }
+   }
+  },
+  {
+   "id": "avance",
+   "type": "replique",
+   "chemin": "nodes.avance.text",
+   "noeud": "avance",
+   "partie": "La ligne de départ (jeu)",
+   "personnage": "L'éléphant",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Reviens sur la ligne, caméléon. Même les juges voient ça.",
+   "genre": "voix de conte/libre",
+   "duree_ms": 4550,
+   "duree_statut": "estimée",
+   "langues": {
+    "en": {
+     "texte": "Back to the line, chameleon. Even judges can see that.",
+     "relecture": "traduction de travail, à relire",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "n8",
+   "type": "replique",
+   "chemin": "nodes.n8.text",
+   "noeud": "n8",
+   "partie": "La ligne de départ (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Tu rentres, l'air de rien. L'éléphant lève la trompe, la gazelle s'envole, et toi, tu fais trois pas. Elle n'a même pas besoin de se retourner.",
+   "genre": "adulte/homme",
+   "duree_ms": 11380,
+   "duree_statut": "estimée",
+   "langues": {
+    "en": {
+     "texte": "You walk back, as if nothing had happened. The elephant raises his trunk, the gazelle takes flight, and you take three steps. She does not even need to look back.",
+     "relecture": "traduction de travail, à relire",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "dos",
+   "type": "replique",
+   "chemin": "nodes.dos.text",
+   "noeud": "dos",
+   "partie": "La ligne de départ (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "L'éléphant lève la trompe, et la gazelle bondit, légère comme le vent. Sur son dos, tu ne bouges pas.",
+   "genre": "adulte/homme",
+   "duree_ms": 8270,
+   "duree_statut": "estimée",
+   "langues": {
+    "en": {
+     "texte": "The elephant raises his trunk and the gazelle bounds off, light as the wind. On her back, you do not move.",
+     "relecture": "traduction de travail, à relire",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "n9",
+   "type": "replique",
+   "chemin": "nodes.n9.text",
+   "noeud": "n9",
+   "partie": "Le repos à la mare (jeu)",
+   "personnage": "Le griot",
+   "intonation": "enlevé",
+   "intonation_statut": "proposée",
+   "texte": "Elle se retourne : personne derrière elle. À la mare, elle boit tranquillement. Tu dois te faire oublier. Une devinette pour passer le temps !",
+   "genre": "adulte/homme",
+   "duree_ms": 11000,
+   "duree_statut": "estimée",
+   "langues": {
+    "en": {
+     "texte": "She turns round: nobody behind her. At the pond, she drinks calmly. You must stay unnoticed. A riddle to pass the time!",
+     "relecture": "traduction de travail, à relire",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "nodes.n10.question",
+   "type": "jeu",
+   "chemin": "nodes.n10.question",
+   "texte": "Le caméléon gagne sans courir. Quelle est sa vraie force ?",
+   "langues": {
+    "en": {
+     "texte": "The chameleon wins without running. What is his real strength?",
+     "relecture": "traduction de travail, à relire"
+    }
+   }
+  },
+  {
+   "id": "nodes.n10.gagne",
+   "type": "jeu",
+   "chemin": "nodes.n10.gagne",
+   "texte": "La patience : l'orgueil court vite, mais elle arrive souvent la première.",
+   "langues": {
+    "en": {
+     "texte": "Patience: pride runs fast, but patience often arrives first.",
+     "relecture": "traduction de travail, à relire"
+    }
+   }
+  },
+  {
+   "id": "nodes.n10.perdu",
+   "type": "jeu",
+   "chemin": "nodes.n10.perdu",
+   "texte": "C'est sa patience : l'orgueil court vite, mais elle arrive souvent la première.",
+   "langues": {
+    "en": {
+     "texte": "It is his patience: pride runs fast, but patience often arrives first.",
+     "relecture": "traduction de travail, à relire"
+    }
+   }
+  },
+  {
+   "id": "nodes.n10.reponses.0.label",
+   "type": "jeu",
+   "chemin": "nodes.n10.reponses.0.label",
+   "texte": "Sa patience",
+   "langues": {
+    "en": {
+     "texte": "His patience",
+     "relecture": "traduction de travail, à relire"
+    }
+   }
+  },
+  {
+   "id": "nodes.n10.reponses.1.label",
+   "type": "jeu",
+   "chemin": "nodes.n10.reponses.1.label",
+   "texte": "Ses longues jambes",
+   "langues": {
+    "en": {
+     "texte": "His long legs",
+     "relecture": "traduction de travail, à relire"
+    }
+   }
+  },
+  {
+   "id": "nodes.n10.reponses.2.label",
+   "type": "jeu",
+   "chemin": "nodes.n10.reponses.2.label",
+   "texte": "Sa grosse voix",
+   "langues": {
+    "en": {
+     "texte": "His big voice",
+     "relecture": "traduction de travail, à relire"
+    }
+   }
+  },
+  {
+   "id": "nodes.n10.tags.win",
+   "type": "parcours",
+   "chemin": "nodes.n10.tags.win",
+   "texte": "bonne réponse",
+   "langues": {
+    "en": {
+     "texte": "right answer",
+     "relecture": "traduction de travail, à relire"
+    }
+   }
+  },
+  {
+   "id": "nodes.n10.tags.lose",
+   "type": "parcours",
+   "chemin": "nodes.n10.tags.lose",
+   "texte": "réponse manquée",
+   "langues": {
+    "en": {
+     "texte": "wrong answer",
+     "relecture": "traduction de travail, à relire"
+    }
+   }
+  },
+  {
+   "id": "n11",
+   "type": "replique",
+   "chemin": "nodes.n11.text",
+   "noeud": "n11",
+   "partie": "La ligne d'arrivée (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Juste avant la ligne, la gazelle s'arrête pour se moquer de la piste vide. Alors tu sautes de son dos, et tu franchis la ligne. Toute la brousse éclate de rire.",
+   "genre": "adulte/homme",
+   "duree_ms": 12980,
+   "duree_statut": "estimée",
+   "langues": {
+    "en": {
+     "texte": "Just before the line, the gazelle stops to mock the empty track. Then you jump from her back and cross the line. The whole bush bursts out laughing.",
+     "relecture": "traduction de travail, à relire",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "n12",
+   "type": "replique",
+   "chemin": "nodes.n12.text",
+   "noeud": "n12",
+   "partie": "La ligne d'arrivée (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Pour la première fois, elle pleure. Ses larmes de honte laissent deux traits noirs sur son museau, et ils ne partent plus.",
+   "genre": "adulte/homme",
+   "duree_ms": 9260,
+   "duree_statut": "estimée",
+   "langues": {
+    "en": {
+     "texte": "For the first time, she weeps. Her tears of shame leave two black stripes on her muzzle, and they never fade.",
+     "relecture": "traduction de travail, à relire",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "film-001",
+   "type": "film",
+   "partie": "Film d'animation, de 00:02.0 à 00:06.3",
+   "horodatage": {
+    "debut_ms": 2000,
+    "fin_ms": 6300
+   },
+   "personnage": "Narrateur",
+   "intonation": "malicieux",
+   "intonation_statut": "scénario",
+   "texte": "Les deux traits de la gazelle. Un conte bwaba.",
+   "genre": "adulte/libre",
+   "duree_ms": 4300,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-002",
+   "type": "film",
+   "partie": "Film d'animation, de 00:08.0 à 00:15.9",
+   "horodatage": {
+    "debut_ms": 8000,
+    "fin_ms": 15900
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Autrefois, la gazelle n'avait aucune marque sur le museau. C'était la plus rapide de la brousse, et elle le savait.",
+   "genre": "adulte/libre",
+   "duree_ms": 7900,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-003",
+   "type": "film",
+   "partie": "Film d'animation, de 00:19.0 à 00:23.7",
+   "horodatage": {
+    "debut_ms": 19000,
+    "fin_ms": 23700
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Chaque jour, elle s'arrêtait à la mare pour admirer son beau visage.",
+   "genre": "adulte/libre",
+   "duree_ms": 4700,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-004",
+   "type": "film",
+   "partie": "Film d'animation, de 00:30.0 à 00:35.3",
+   "horodatage": {
+    "debut_ms": 30000,
+    "fin_ms": 35300
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Un matin, elle croisa le caméléon, qui avançait une patte après l'autre.",
+   "genre": "adulte/libre",
+   "duree_ms": 5300,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-005",
+   "type": "film",
+   "partie": "Film d'animation, de 00:38.0 à 00:42.5",
+   "horodatage": {
+    "debut_ms": 38000,
+    "fin_ms": 42500
+   },
+   "personnage": "GAZELLE",
+   "intonation": "moqueur",
+   "intonation_statut": "scénario",
+   "texte": "Alors, vieux lent, tu arriveras avant la saison des pluies ?",
+   "genre": "adulte/femme",
+   "duree_ms": 4500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-006",
+   "type": "film",
+   "partie": "Film d'animation, de 00:45.0 à 00:51.7",
+   "horodatage": {
+    "debut_ms": 45000,
+    "fin_ms": 51700
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Elle tourna autour de lui en sautant par-dessus sa tête. Le lièvre et la pintade se mirent à rire.",
+   "genre": "adulte/libre",
+   "duree_ms": 6700,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-007",
+   "type": "film",
+   "partie": "Film d'animation, de 00:56.0 à 01:00.7",
+   "horodatage": {
+    "debut_ms": 56000,
+    "fin_ms": 60700
+   },
+   "personnage": "Narrateur",
+   "intonation": "malicieux",
+   "intonation_statut": "scénario",
+   "texte": "Le caméléon s'arrêta, changea de couleur, et ne dit rien.",
+   "genre": "adulte/libre",
+   "duree_ms": 4700,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-008",
+   "type": "film",
+   "partie": "Film d'animation, de 01:10.0 à 01:15.9",
+   "horodatage": {
+    "debut_ms": 70000,
+    "fin_ms": 75900
+   },
+   "personnage": "CAMELEON",
+   "intonation": "calme, rusé",
+   "intonation_statut": "scénario",
+   "texte": "Une course, gazelle. Jusque là-bas, à la termitière rouge.",
+   "genre": "adulte/homme",
+   "duree_ms": 5900,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-009",
+   "type": "film",
+   "partie": "Film d'animation, de 01:17.0 à 01:21.6",
+   "horodatage": {
+    "debut_ms": 77000,
+    "fin_ms": 81600
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "L'éléphant, qui passait par là, accepta d'être le juge.",
+   "genre": "adulte/libre",
+   "duree_ms": 4600,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-010",
+   "type": "film",
+   "partie": "Film d'animation, de 01:26.0 à 01:32.0",
+   "horodatage": {
+    "debut_ms": 86000,
+    "fin_ms": 92000
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Il traça la ligne d'arrivée d'un geste de la trompe. Toute la brousse voulut voir ça.",
+   "genre": "adulte/libre",
+   "duree_ms": 6000,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-011",
+   "type": "film",
+   "partie": "Film d'animation, de 01:45.0 à 01:49.3",
+   "horodatage": {
+    "debut_ms": 105000,
+    "fin_ms": 109300
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Le jour venu, la gazelle fanfaronna devant les autres.",
+   "genre": "adulte/libre",
+   "duree_ms": 4300,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-012",
+   "type": "film",
+   "partie": "Film d'animation, de 01:53.0 à 02:00.8",
+   "horodatage": {
+    "debut_ms": 113000,
+    "fin_ms": 120800
+   },
+   "personnage": "Narrateur",
+   "intonation": "chuchoté",
+   "intonation_statut": "scénario",
+   "texte": "Pendant ce temps, le caméléon s'approchait sans bruit. Il grimpa sur son dos et prit la couleur de son pelage.",
+   "genre": "adulte/libre",
+   "duree_ms": 7800,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-013",
+   "type": "film",
+   "partie": "Film d'animation, de 02:10.0 à 02:14.5",
+   "horodatage": {
+    "debut_ms": 130000,
+    "fin_ms": 134500
+   },
+   "personnage": "Narrateur",
+   "intonation": "enlevé",
+   "intonation_statut": "scénario",
+   "texte": "L'éléphant leva la trompe, et la gazelle bondit, légère comme le vent.",
+   "genre": "adulte/libre",
+   "duree_ms": 4500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-014",
+   "type": "film",
+   "partie": "Film d'animation, de 02:21.0 à 02:27.3",
+   "horodatage": {
+    "debut_ms": 141000,
+    "fin_ms": 147300
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Elle se retourna : personne derrière elle. Elle ralentit, sûre de sa victoire.",
+   "genre": "adulte/libre",
+   "duree_ms": 6300,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-015",
+   "type": "film",
+   "partie": "Film d'animation, de 02:31.0 à 02:37.1",
+   "horodatage": {
+    "debut_ms": 151000,
+    "fin_ms": 157100
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "À la mare, elle but tranquillement. Sur son dos, le caméléon ne bougeait pas.",
+   "genre": "adulte/libre",
+   "duree_ms": 6100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-016",
+   "type": "film",
+   "partie": "Film d'animation, de 02:44.0 à 02:47.5",
+   "horodatage": {
+    "debut_ms": 164000,
+    "fin_ms": 167500
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Puis elle repartit, en riant toute seule.",
+   "genre": "adulte/libre",
+   "duree_ms": 3500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-017",
+   "type": "film",
+   "partie": "Film d'animation, de 02:55.0 à 02:59.7",
+   "horodatage": {
+    "debut_ms": 175000,
+    "fin_ms": 179700
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Juste avant la ligne, elle s'arrêta pour se moquer de la piste vide.",
+   "genre": "adulte/libre",
+   "duree_ms": 4700,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-018",
+   "type": "film",
+   "partie": "Film d'animation, de 03:05.0 à 03:10.7",
+   "horodatage": {
+    "debut_ms": 185000,
+    "fin_ms": 190700
+   },
+   "personnage": "Narrateur",
+   "intonation": "malicieux",
+   "intonation_statut": "scénario",
+   "texte": "Alors le caméléon sauta de son dos et franchit la ligne. Il avait gagné !",
+   "genre": "adulte/libre",
+   "duree_ms": 5700,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-019",
+   "type": "film",
+   "partie": "Film d'animation, de 03:17.0 à 03:19.8",
+   "horodatage": {
+    "debut_ms": 197000,
+    "fin_ms": 199800
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Toute la brousse éclata de rire.",
+   "genre": "adulte/libre",
+   "duree_ms": 2800,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-020",
+   "type": "film",
+   "partie": "Film d'animation, de 03:30.0 à 03:35.3",
+   "horodatage": {
+    "debut_ms": 210000,
+    "fin_ms": 215300
+   },
+   "personnage": "Narrateur",
+   "intonation": "triste",
+   "intonation_statut": "scénario",
+   "texte": "La gazelle ne dit plus rien. Pour la première fois, elle pleura.",
+   "genre": "adulte/libre",
+   "duree_ms": 5300,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-021",
+   "type": "film",
+   "partie": "Film d'animation, de 03:42.0 à 03:46.9",
+   "horodatage": {
+    "debut_ms": 222000,
+    "fin_ms": 226900
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Ses larmes de honte coulèrent le long de son museau, et y laissèrent deux traits noirs.",
+   "genre": "adulte/libre",
+   "duree_ms": 4900,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-022",
+   "type": "film",
+   "partie": "Film d'animation, de 03:54.0 à 03:57.2",
+   "horodatage": {
+    "debut_ms": 234000,
+    "fin_ms": 237200
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Elle eut beau frotter, ils ne partirent plus.",
+   "genre": "adulte/libre",
+   "duree_ms": 3200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-023",
+   "type": "film",
+   "partie": "Film d'animation, de 04:05.0 à 04:13.5",
+   "horodatage": {
+    "debut_ms": 245000,
+    "fin_ms": 253500
+   },
+   "personnage": "Narrateur",
+   "intonation": "doux",
+   "intonation_statut": "scénario",
+   "texte": "Depuis ce jour, toutes les gazelles portent ces deux traits. Et le caméléon, lui, avance toujours sans se presser.",
+   "genre": "adulte/libre",
+   "duree_ms": 8500,
+   "duree_statut": "mesurée sur le film"
+  }
+ ]
+}

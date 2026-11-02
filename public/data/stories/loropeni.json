@@ -56,7 +56,8 @@
       "text": "Aujourd'hui, dans le sud-ouest du Burkina, de longs murs de pierre sortent de la brousse. Remontons le temps : les pierres se relèvent, une à une.",
       "scene": "ruines",
       "explore": [
-        "case-ronde"
+        "case-ronde",
+        "mur-loropeni"
       ],
       "next": "n2"
     },

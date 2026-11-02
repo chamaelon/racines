@@ -19,7 +19,10 @@
     ],
     "patrimoine": [
       "case-ronde",
-      "tambour"
+      "tambour",
+      "masque-molo",
+      "daba",
+      "soufflet"
     ],
     "approx": true
   },
@@ -48,7 +51,9 @@
       "calebasse",
       "tambour",
       "bogolan",
-      "soumbala"
+      "soumbala",
+      "dozo-fani",
+      "mosquee-bobo"
     ]
   },
   {
@@ -73,7 +78,10 @@
     "patrimoine": [
       "to",
       "calebasse",
-      "faso-dan-fani"
+      "faso-dan-fani",
+      "masque-bwa",
+      "mortier-pilon",
+      "arc-fleches"
     ],
     "approx": true
   },
@@ -119,7 +127,8 @@
       "bona-1915"
     ],
     "patrimoine": [
-      "faso-dan-fani"
+      "faso-dan-fani",
+      "arc-fleches"
     ],
     "approx": true
   },
@@ -189,7 +198,10 @@
     ],
     "patrimoine": [
       "case-ronde",
-      "canari"
+      "canari",
+      "soukala",
+      "bateba",
+      "tabouret-lobi"
     ]
   },
   {
@@ -210,7 +222,9 @@
       "dyoro"
     ],
     "patrimoine": [
-      "calebasse"
+      "calebasse",
+      "tabouret-lobi",
+      "pirogue"
     ],
     "approx": true
   },
@@ -234,7 +248,8 @@
       "loropeni"
     ],
     "patrimoine": [
-      "case-ronde"
+      "case-ronde",
+      "mur-loropeni"
     ]
   },
   {
@@ -278,7 +293,9 @@
     ],
     "patrimoine": [
       "case-ronde",
-      "dolo"
+      "dolo",
+      "dozo-fani",
+      "pirogue"
     ],
     "approx": true
   },
@@ -301,7 +318,8 @@
     ],
     "patrimoine": [
       "balafon",
-      "dolo"
+      "dolo",
+      "gyil"
     ],
     "approx": true
   },
@@ -371,7 +389,8 @@
       "vur"
     ],
     "patrimoine": [
-      "canari"
+      "canari",
+      "grenier"
     ],
     "approx": true
   },
@@ -394,7 +413,8 @@
     ],
     "patrimoine": [
       "case-ronde",
-      "canari"
+      "canari",
+      "maison-tiebele"
     ]
   },
   {
@@ -530,7 +550,8 @@
     ],
     "patrimoine": [
       "canari",
-      "soumbala"
+      "soumbala",
+      "adone"
     ],
     "approx": true
   },
@@ -555,7 +576,8 @@
     "patrimoine": [
       "calebasse",
       "chapeau-sapone",
-      "etalon"
+      "etalon",
+      "chapeau-peul"
     ]
   },
   {
@@ -577,7 +599,8 @@
     ],
     "patrimoine": [
       "etalon",
-      "calebasse"
+      "calebasse",
+      "chapeau-peul"
     ],
     "approx": true
   },
@@ -626,7 +649,9 @@
       "soumbala",
       "to",
       "tambour",
-      "etalon"
+      "etalon",
+      "bendre",
+      "masque-karanga"
     ]
   },
   {

@@ -1,0 +1,382 @@
+# Guimbi Ouattara, la reine de Bobo : fiches des bandes-son
+# Généré par « npm run bandes-son » depuis pistes.json. Modifier pistes.json, pas ce fichier.
+
+piste: n1
+histoire: Guimbi Ouattara, la reine de Bobo
+partie: Sya, à la fin du XIXe siècle (jeu)
+personnage: Le griot
+fichier: guimbi-n1-<langue>.m4a
+intonation: posé (proposée)
+texte: Fin du dix-neuvième siècle. Sya, que l'on appelle aujourd'hui Bobo-Dioulasso. Une femme y compte plus que beaucoup d'hommes.
+genre: adulte/homme
+duree: 7890ms (estimée)
+
+piste: n2
+histoire: Guimbi Ouattara, la reine de Bobo
+partie: Sya, à la fin du XIXe siècle (jeu)
+personnage: Guimbi Ouattara
+fichier: guimbi-n2-<langue>.m4a
+intonation: posé (proposée)
+texte: Vous partagerez ce champ, et chacun gardera sa part.
+genre: adulte/femme
+duree: 3870ms (estimée)
+
+piste: n3
+histoire: Guimbi Ouattara, la reine de Bobo
+partie: Sya, à la fin du XIXe siècle (jeu)
+personnage: Le griot
+fichier: guimbi-n3-<langue>.m4a
+intonation: posé (proposée)
+texte: On vient la voir pour régler les disputes, et on l'écoute. Un jour, un explorateur européen arrive à Sya, épuisé.
+genre: adulte/homme
+duree: 8650ms (estimée)
+
+piste: n4
+histoire: Guimbi Ouattara, la reine de Bobo
+partie: Sya, à la fin du XIXe siècle (jeu)
+personnage: Le griot
+fichier: guimbi-n4-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Tu dois lui porter ce qu'elle a ordonné. C'est l'accueil dû à un visiteur. Que lui portes-tu ?
+genre: adulte/homme
+duree: 7740ms (estimée)
+
+piste: rien
+histoire: Guimbi Ouattara, la reine de Bobo
+partie: Sya, à la fin du XIXe siècle (jeu)
+personnage: Guimbi Ouattara
+fichier: guimbi-rien-<langue>.m4a
+intonation: posé (proposée)
+texte: Ici, l'étranger est sous ma protection. Porte-lui de l'eau et de la cola.
+genre: adulte/femme
+duree: 5690ms (estimée)
+
+piste: bon
+histoire: Guimbi Ouattara, la reine de Bobo
+partie: Le voyageur reçu (jeu)
+personnage: L'explorateur
+fichier: guimbi-bon-<langue>.m4a
+intonation: joyeux (proposée)
+texte: Madame, je vous remercie de votre accueil. J'écrirai ce que j'ai vu.
+genre: adulte/homme
+duree: 5310ms (estimée)
+
+piste: n5
+histoire: Guimbi Ouattara, la reine de Bobo
+partie: Le voyageur reçu (jeu)
+personnage: Le griot
+fichier: guimbi-n5-<langue>.m4a
+intonation: joyeux (proposée)
+texte: Mais un danger s'approche : Tiéba, le roi de Sikasso, veut étendre son pouvoir. Il envoie un émissaire au galop.
+genre: adulte/homme
+duree: 8650ms (estimée)
+
+piste: n6
+histoire: Guimbi Ouattara, la reine de Bobo
+partie: Tiéba exige la soumission (jeu)
+personnage: L'envoyé de Tiéba
+fichier: guimbi-n6-<langue>.m4a
+intonation: posé (proposée)
+texte: Tiéba exige ta soumission.
+genre: adulte/homme
+duree: 1820ms (estimée)
+
+piste: n7
+histoire: Guimbi Ouattara, la reine de Bobo
+partie: Tiéba exige la soumission (jeu)
+personnage: Guimbi Ouattara
+fichier: guimbi-n7-<langue>.m4a
+intonation: posé (proposée)
+texte: Dis à ton maître que Bobo ne plie pas.
+genre: adulte/femme
+duree: 3720ms (estimée)
+
+piste: n8
+histoire: Guimbi Ouattara, la reine de Bobo
+partie: Tiéba exige la soumission (jeu)
+personnage: Le griot
+fichier: guimbi-n8-<langue>.m4a
+intonation: posé (proposée)
+texte: Silence dans la cour. Chacun sait ce que veut dire ce refus. Où vas-tu te placer ? Le récit, lui, restera le même.
+genre: adulte/homme
+duree: 10240ms (estimée)
+
+piste: murs
+histoire: Guimbi Ouattara, la reine de Bobo
+partie: Tiéba exige la soumission (jeu)
+personnage: Le griot
+fichier: guimbi-murs-<langue>.m4a
+intonation: posé (proposée)
+texte: Les cavaliers arrivent devant la ville. Depuis les murs, tu vois les flèches pleuvoir et les assauts se briser. Enfin, les cavaliers reculent.
+genre: adulte/homme
+duree: 9940ms (estimée)
+
+piste: cour
+histoire: Guimbi Ouattara, la reine de Bobo
+partie: Tiéba exige la soumission (jeu)
+personnage: Le griot
+fichier: guimbi-cour-<langue>.m4a
+intonation: posé (proposée)
+texte: Dans la cour, on entend les cris venus des murs. Les défenseurs tiennent bon, et les assauts se brisent. Enfin, les cavaliers reculent.
+genre: adulte/homme
+duree: 10090ms (estimée)
+
+piste: bilan
+histoire: Guimbi Ouattara, la reine de Bobo
+partie: La mémoire de Guimbi (jeu)
+personnage: La griotte
+fichier: guimbi-bilan-<langue>.m4a
+intonation: vif (proposée)
+texte: Guimbi ! Celle qui a tenu tête à un roi.
+genre: adulte/femme
+duree: 4400ms (estimée)
+
+piste: relire
+histoire: Guimbi Ouattara, la reine de Bobo
+partie: La mémoire de Guimbi (jeu)
+personnage: La griotte
+fichier: guimbi-relire-<langue>.m4a
+intonation: posé (proposée)
+texte: Reviens m'écouter : un nom se garde en le répétant.
+genre: adulte/femme
+duree: 4250ms (estimée)
+
+piste: bien
+histoire: Guimbi Ouattara, la reine de Bobo
+partie: La mémoire de Guimbi (jeu)
+personnage: Le griot
+fichier: guimbi-bien-<langue>.m4a
+intonation: posé (proposée)
+texte: À Bobo-Dioulasso, on se souvient encore de son nom.
+genre: adulte/homme
+duree: 3870ms (estimée)
+
+piste: film-001
+histoire: Guimbi Ouattara, la reine de Bobo
+partie: Film d'animation, de 00:02.0 à 00:07.6
+personnage: Narrateur
+fichier: guimbi-film-001-<langue>.m4a
+intonation: sobre (scénario)
+texte: Guimbi Ouattara. Un récit historique, simplifié pour l'image.
+genre: adulte/libre
+duree: 5600ms (mesurée sur le film)
+
+piste: film-002
+histoire: Guimbi Ouattara, la reine de Bobo
+partie: Film d'animation, de 00:09.0 à 00:15.2
+personnage: Narrateur
+fichier: guimbi-film-002-<langue>.m4a
+intonation: posé (proposée)
+texte: Fin du dix-neuvième siècle. Sya, que l'on appelle aujourd'hui Bobo-Dioulasso.
+genre: adulte/libre
+duree: 6200ms (mesurée sur le film)
+
+piste: film-003
+histoire: Guimbi Ouattara, la reine de Bobo
+partie: Film d'animation, de 00:28.0 à 00:32.1
+personnage: Narrateur
+fichier: guimbi-film-003-<langue>.m4a
+intonation: posé (proposée)
+texte: Une femme y compte plus que beaucoup d'hommes : Guimbi Ouattara.
+genre: adulte/libre
+duree: 4100ms (mesurée sur le film)
+
+piste: film-004
+histoire: Guimbi Ouattara, la reine de Bobo
+partie: Film d'animation, de 00:38.0 à 00:42.2
+personnage: GUIMBI
+fichier: guimbi-film-004-<langue>.m4a
+intonation: calme, ferme (scénario)
+texte: Vous partagerez ce champ, et chacun gardera sa part.
+genre: adulte/femme
+duree: 4200ms (mesurée sur le film)
+
+piste: film-005
+histoire: Guimbi Ouattara, la reine de Bobo
+partie: Film d'animation, de 00:46.0 à 00:50.1
+personnage: Narrateur
+fichier: guimbi-film-005-<langue>.m4a
+intonation: posé (proposée)
+texte: On vient la voir pour régler les disputes, et on l'écoute.
+genre: adulte/libre
+duree: 4100ms (mesurée sur le film)
+
+piste: film-006
+histoire: Guimbi Ouattara, la reine de Bobo
+partie: Film d'animation, de 01:04.0 à 01:08.7
+personnage: Narrateur
+fichier: guimbi-film-006-<langue>.m4a
+intonation: posé (proposée)
+texte: Un jour, un explorateur européen arrive à Sya, épuisé.
+genre: adulte/libre
+duree: 4700ms (mesurée sur le film)
+
+piste: film-007
+histoire: Guimbi Ouattara, la reine de Bobo
+partie: Film d'animation, de 01:13.0 à 01:17.7
+personnage: Narrateur
+fichier: guimbi-film-007-<langue>.m4a
+intonation: posé (proposée)
+texte: Elle lui fait porter de l'eau et de la cola : c'est l'accueil dû à un visiteur.
+genre: adulte/libre
+duree: 4700ms (mesurée sur le film)
+
+piste: film-008
+histoire: Guimbi Ouattara, la reine de Bobo
+partie: Film d'animation, de 01:20.0 à 01:23.0
+personnage: EXPLORATEUR
+fichier: guimbi-film-008-<langue>.m4a
+intonation: poli (scénario)
+texte: Madame, je vous remercie de votre accueil.
+genre: adulte/homme
+duree: 3000ms (mesurée sur le film)
+
+piste: film-009
+histoire: Guimbi Ouattara, la reine de Bobo
+partie: Film d'animation, de 01:23.0 à 01:26.5
+personnage: GUIMBI
+fichier: guimbi-film-009-<langue>.m4a
+intonation: souriant (scénario)
+texte: Ici, l'étranger est sous ma protection.
+genre: adulte/femme
+duree: 3500ms (mesurée sur le film)
+
+piste: film-010
+histoire: Guimbi Ouattara, la reine de Bobo
+partie: Film d'animation, de 01:26.5 à 01:28.6
+personnage: EXPLORATEUR
+fichier: guimbi-film-010-<langue>.m4a
+intonation: admiratif (scénario)
+texte: J'écrirai ce que j'ai vu.
+genre: adulte/homme
+duree: 2100ms (mesurée sur le film)
+
+piste: film-011
+histoire: Guimbi Ouattara, la reine de Bobo
+partie: Film d'animation, de 01:42.0 à 01:48.9
+personnage: Narrateur
+fichier: guimbi-film-011-<langue>.m4a
+intonation: posé (proposée)
+texte: Mais un danger s'approche. Tiéba, le roi de Sikasso, veut étendre son pouvoir.
+genre: adulte/libre
+duree: 6900ms (mesurée sur le film)
+
+piste: film-012
+histoire: Guimbi Ouattara, la reine de Bobo
+partie: Film d'animation, de 01:52.0 à 01:56.8
+personnage: TIEBA
+fichier: guimbi-film-012-<langue>.m4a
+intonation: autoritaire (scénario)
+texte: Bobo se soumettra. Porte-lui mon message.
+genre: adulte/homme
+duree: 4800ms (mesurée sur le film)
+
+piste: film-013
+histoire: Guimbi Ouattara, la reine de Bobo
+partie: Film d'animation, de 02:01.0 à 02:03.5
+personnage: Narrateur
+fichier: guimbi-film-013-<langue>.m4a
+intonation: posé (proposée)
+texte: Un émissaire part au galop.
+genre: adulte/libre
+duree: 2500ms (mesurée sur le film)
+
+piste: film-014
+histoire: Guimbi Ouattara, la reine de Bobo
+partie: Film d'animation, de 02:18.5 à 02:20.9
+personnage: ENVOYE
+fichier: guimbi-film-014-<langue>.m4a
+intonation: arrogant (scénario)
+texte: Tiéba exige ta soumission.
+genre: adulte/homme
+duree: 2400ms (mesurée sur le film)
+
+piste: film-015
+histoire: Guimbi Ouattara, la reine de Bobo
+partie: Film d'animation, de 02:23.0 à 02:25.2
+personnage: Narrateur
+fichier: guimbi-film-015-<langue>.m4a
+intonation: posé (proposée)
+texte: Guimbi se lève.
+genre: adulte/libre
+duree: 2200ms (mesurée sur le film)
+
+piste: film-016
+histoire: Guimbi Ouattara, la reine de Bobo
+partie: Film d'animation, de 02:26.5 à 02:29.4
+personnage: GUIMBI
+fichier: guimbi-film-016-<langue>.m4a
+intonation: ferme, sans crier (scénario)
+texte: Dis à ton maître que Bobo ne plie pas.
+genre: adulte/femme
+duree: 2900ms (mesurée sur le film)
+
+piste: film-017
+histoire: Guimbi Ouattara, la reine de Bobo
+partie: Film d'animation, de 02:33.0 à 02:38.1
+personnage: Narrateur
+fichier: guimbi-film-017-<langue>.m4a
+intonation: posé (proposée)
+texte: Silence dans la cour. Chacun sait ce que veut dire ce refus.
+genre: adulte/libre
+duree: 5100ms (mesurée sur le film)
+
+piste: film-018
+histoire: Guimbi Ouattara, la reine de Bobo
+partie: Film d'animation, de 02:54.0 à 02:59.9
+personnage: Narrateur
+fichier: guimbi-film-018-<langue>.m4a
+intonation: tendu (scénario)
+texte: Les cavaliers arrivent devant la ville. Sur les murs, les défenseurs tiennent bon.
+genre: adulte/libre
+duree: 5900ms (mesurée sur le film)
+
+piste: film-019
+histoire: Guimbi Ouattara, la reine de Bobo
+partie: Film d'animation, de 03:08.0 à 03:12.2
+personnage: Narrateur
+fichier: guimbi-film-019-<langue>.m4a
+intonation: posé (proposée)
+texte: Les flèches pleuvent. Les assauts se brisent.
+genre: adulte/libre
+duree: 4200ms (mesurée sur le film)
+
+piste: film-020
+histoire: Guimbi Ouattara, la reine de Bobo
+partie: Film d'animation, de 03:20.0 à 03:23.2
+personnage: Narrateur
+fichier: guimbi-film-020-<langue>.m4a
+intonation: ferme (scénario)
+texte: Enfin, les cavaliers reculent.
+genre: adulte/libre
+duree: 3200ms (mesurée sur le film)
+
+piste: film-021
+histoire: Guimbi Ouattara, la reine de Bobo
+partie: Film d'animation, de 03:39.0 à 03:42.5
+personnage: Narrateur
+fichier: guimbi-film-021-<langue>.m4a
+intonation: joyeux (scénario)
+texte: Bobo est sauve, et la ville acclame Guimbi.
+genre: adulte/libre
+duree: 3500ms (mesurée sur le film)
+
+piste: film-022
+histoire: Guimbi Ouattara, la reine de Bobo
+partie: Film d'animation, de 04:10.5 à 04:15.4
+personnage: GRIOTTE
+fichier: guimbi-film-022-<langue>.m4a
+intonation: voix chantante (scénario)
+texte: Guimbi ! Celle qui a tenu tête à un roi.
+genre: griot, griotte/libre
+duree: 4900ms (mesurée sur le film)
+
+piste: film-023
+histoire: Guimbi Ouattara, la reine de Bobo
+partie: Film d'animation, de 04:16.0 à 04:20.0
+personnage: Narrateur
+fichier: guimbi-film-023-<langue>.m4a
+intonation: doux (scénario)
+texte: À Bobo-Dioulasso, on se souvient encore de son nom.
+genre: adulte/libre
+duree: 4000ms (mesurée sur le film)

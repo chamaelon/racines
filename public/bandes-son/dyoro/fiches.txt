@@ -1,0 +1,302 @@
+# Le Dyoro, la traversée : fiches des bandes-son
+# Généré par « npm run bandes-son » depuis pistes.json. Modifier pistes.json, pas ce fichier.
+
+piste: n1
+histoire: Le Dyoro, la traversée
+partie: La rive est (jeu)
+personnage: Le griot
+fichier: dyoro-n1-<langue>.m4a
+intonation: posé (proposée)
+texte: Autrefois, sur la rive est de la Volta noire, la terre ne nourrissait plus personne. Le doyen rassemble les siens.
+genre: adulte/homme
+duree: 8500ms (estimée)
+
+piste: n2
+histoire: Le Dyoro, la traversée
+partie: La rive est (jeu)
+personnage: Le doyen
+fichier: dyoro-n2-<langue>.m4a
+intonation: grave (proposée)
+texte: Il faut partir. Prenez ce qui compte.
+genre: âgé/homme
+duree: 3260ms (estimée)
+
+piste: n3
+histoire: Le Dyoro, la traversée
+partie: La traversée (jeu)
+personnage: Le griot
+fichier: dyoro-n3-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Ils arrivent sur la rive. L'eau est haute, et les crocodiles guettent. Personne n'ose avancer. Que fait le doyen ?
+genre: adulte/homme
+duree: 8950ms (estimée)
+
+piste: radeaux
+histoire: Le Dyoro, la traversée
+partie: La traversée (jeu)
+personnage: Le griot
+fichier: dyoro-radeaux-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Le premier radeau tourne, et revient à la rive. Le deuxième aussi. Le fleuve ne se laisse pas prendre ainsi. Que décide le doyen ?
+genre: adulte/homme
+duree: 10850ms (estimée)
+
+piste: rive
+histoire: Le Dyoro, la traversée
+partie: La traversée (jeu)
+personnage: Le griot
+fichier: dyoro-rive-<langue>.m4a
+intonation: posé (proposée)
+texte: Ils restent, et la faim reste avec eux. Cette fin n'existe que dans le jeu : les Lobi, eux, racontent le passage.
+genre: adulte/homme
+duree: 9560ms (estimée)
+
+piste: parle
+histoire: Le Dyoro, la traversée
+partie: La traversée (jeu)
+personnage: Le doyen
+fichier: dyoro-parle-<langue>.m4a
+intonation: grave (proposée)
+texte: Fleuve, laisse passer tes enfants. Nous viendrons te saluer, nous et ceux qui naîtront.
+genre: âgé/homme
+duree: 6220ms (estimée)
+
+piste: n4
+histoire: Le Dyoro, la traversée
+partie: La traversée (jeu)
+personnage: Le griot
+fichier: dyoro-n4-<langue>.m4a
+intonation: posé (proposée)
+texte: La lumière se pose sur l'eau, et les vagues se calment. Ils entrent dans le fleuve main dans la main. Marche à leur rythme, sans rompre la file.
+genre: adulte/homme
+duree: 11840ms (estimée)
+
+piste: n6
+histoire: Le Dyoro, la traversée
+partie: La traversée (jeu)
+personnage: Le griot
+fichier: dyoro-n6-<langue>.m4a
+intonation: posé (proposée)
+texte: Les crocodiles les regardent passer, sans attaquer. Sur la rive ouest, ils touchent une terre nouvelle, et ils remercient le fleuve.
+genre: adulte/homme
+duree: 9030ms (estimée)
+
+piste: n7
+histoire: Le Dyoro, la traversée
+partie: Bien des générations plus tard (jeu)
+personnage: Le griot
+fichier: dyoro-n7-<langue>.m4a
+intonation: posé (proposée)
+texte: Bien des générations plus tard, les jeunes refont ce passage : c'est le Dyoro, la grande initiation.
+genre: adulte/homme
+duree: 7210ms (estimée)
+
+piste: n8
+histoire: Le Dyoro, la traversée
+partie: Bien des générations plus tard (jeu)
+personnage: L'enfant
+fichier: dyoro-n8-<langue>.m4a
+intonation: vif (proposée)
+texte: Et là-bas, qu'est-ce qu'ils font ? Dis-le-moi !
+genre: enfant/libre
+duree: 3790ms (estimée)
+
+piste: n9
+histoire: Le Dyoro, la traversée
+partie: Bien des générations plus tard (jeu)
+personnage: Le griot
+fichier: dyoro-n9-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Le récit s'arrête ici, car ce qui s'y passe reste secret. Que réponds-tu à l'enfant ?
+genre: adulte/homme
+duree: 6830ms (estimée)
+
+piste: tait
+histoire: Le Dyoro, la traversée
+partie: Bien des générations plus tard (jeu)
+personnage: Le griot
+fichier: dyoro-tait-<langue>.m4a
+intonation: posé (proposée)
+texte: L'enfant baisse les yeux, puis il sourit. Le soir, il écoute les anciens, sans plus rien demander.
+genre: adulte/homme
+duree: 7510ms (estimée)
+
+piste: retour
+histoire: Le Dyoro, la traversée
+partie: Bien des générations plus tard (jeu)
+personnage: L'ancien
+fichier: dyoro-retour-<langue>.m4a
+intonation: grave (proposée)
+texte: Ils ont traversé, comme nous.
+genre: âgé/homme
+duree: 2350ms (estimée)
+
+piste: n10
+histoire: Le Dyoro, la traversée
+partie: Bien des générations plus tard (jeu)
+personnage: Le griot
+fichier: dyoro-n10-<langue>.m4a
+intonation: posé (proposée)
+texte: Le village les accueille en dansant. Le soir, les anciens s'assoient au bord de l'eau. Le fleuve se souvient.
+genre: adulte/homme
+duree: 8270ms (estimée)
+
+piste: film-001
+histoire: Le Dyoro, la traversée
+partie: Film d'animation, de 00:02.0 à 00:07.0
+personnage: Narrateur
+fichier: dyoro-film-001-<langue>.m4a
+intonation: solennel (scénario)
+texte: Le Dyoro, la traversée. Une légende lobi.
+genre: adulte/libre
+duree: 5000ms (mesurée sur le film)
+
+piste: film-002
+histoire: Le Dyoro, la traversée
+partie: Film d'animation, de 00:08.0 à 00:15.0
+personnage: Narrateur
+fichier: dyoro-film-002-<langue>.m4a
+intonation: posé (proposée)
+texte: La Volta noire coule, large et sombre. Pour les Lobi, elle garde la mémoire d'un passage.
+genre: adulte/libre
+duree: 7000ms (mesurée sur le film)
+
+piste: film-003
+histoire: Le Dyoro, la traversée
+partie: Film d'animation, de 00:28.0 à 00:32.8
+personnage: Narrateur
+fichier: dyoro-film-003-<langue>.m4a
+intonation: posé (proposée)
+texte: Autrefois, sur la rive est, la terre ne nourrissait plus personne.
+genre: adulte/libre
+duree: 4800ms (mesurée sur le film)
+
+piste: film-004
+histoire: Le Dyoro, la traversée
+partie: Film d'animation, de 00:40.0 à 00:46.8
+personnage: Narrateur
+fichier: dyoro-film-004-<langue>.m4a
+intonation: posé (proposée)
+texte: Le doyen rassembla les siens. Il fallait partir, et de l'autre côté il n'y avait que le fleuve.
+genre: adulte/libre
+duree: 6800ms (mesurée sur le film)
+
+piste: film-005
+histoire: Le Dyoro, la traversée
+partie: Film d'animation, de 01:04.0 à 01:09.5
+personnage: Narrateur
+fichier: dyoro-film-005-<langue>.m4a
+intonation: inquiet (scénario)
+texte: Ils arrivèrent sur la rive. L'eau était haute, et les crocodiles guettaient.
+genre: adulte/libre
+duree: 5500ms (mesurée sur le film)
+
+piste: film-006
+histoire: Le Dyoro, la traversée
+partie: Film d'animation, de 01:18.0 à 01:23.7
+personnage: Narrateur
+fichier: dyoro-film-006-<langue>.m4a
+intonation: posé (proposée)
+texte: Personne n'osait avancer. Le doyen s'approcha seul, au bord de l'eau.
+genre: adulte/libre
+duree: 5700ms (mesurée sur le film)
+
+piste: film-007
+histoire: Le Dyoro, la traversée
+partie: Film d'animation, de 01:29.0 à 01:35.5
+personnage: DOYEN
+fichier: dyoro-film-007-<langue>.m4a
+intonation: recueilli, voix forte (scénario)
+texte: Fleuve, laisse passer tes enfants. Nous viendrons te saluer, nous et ceux qui naîtront.
+genre: âgé/libre
+duree: 6500ms (mesurée sur le film)
+
+piste: film-008
+histoire: Le Dyoro, la traversée
+partie: Film d'animation, de 01:44.0 à 01:48.3
+personnage: Narrateur
+fichier: dyoro-film-008-<langue>.m4a
+intonation: mystérieux (scénario)
+texte: Alors la lumière se posa sur l'eau, et les vagues se calmèrent.
+genre: adulte/libre
+duree: 4300ms (mesurée sur le film)
+
+piste: film-009
+histoire: Le Dyoro, la traversée
+partie: Film d'animation, de 01:56.0 à 02:01.9
+personnage: Narrateur
+fichier: dyoro-film-009-<langue>.m4a
+intonation: posé (proposée)
+texte: Ils entrèrent dans le fleuve main dans la main. L'enfant passa sur les épaules des hommes.
+genre: adulte/libre
+duree: 5900ms (mesurée sur le film)
+
+piste: film-010
+histoire: Le Dyoro, la traversée
+partie: Film d'animation, de 02:10.0 à 02:14.1
+personnage: Narrateur
+fichier: dyoro-film-010-<langue>.m4a
+intonation: chuchoté (scénario)
+texte: Les crocodiles les regardèrent passer, sans attaquer.
+genre: adulte/libre
+duree: 4100ms (mesurée sur le film)
+
+piste: film-011
+histoire: Le Dyoro, la traversée
+partie: Film d'animation, de 02:29.0 à 02:35.0
+personnage: Narrateur
+fichier: dyoro-film-011-<langue>.m4a
+intonation: ému (scénario)
+texte: Sur la rive ouest, ils touchèrent une terre nouvelle. Ils remercièrent le fleuve.
+genre: adulte/libre
+duree: 6000ms (mesurée sur le film)
+
+piste: film-012
+histoire: Le Dyoro, la traversée
+partie: Film d'animation, de 02:59.0 à 03:06.5
+personnage: Narrateur
+fichier: dyoro-film-012-<langue>.m4a
+intonation: posé (proposée)
+texte: Bien des générations plus tard, les jeunes refont ce passage. C'est le Dyoro, la grande initiation.
+genre: adulte/libre
+duree: 7500ms (mesurée sur le film)
+
+piste: film-013
+histoire: Le Dyoro, la traversée
+partie: Film d'animation, de 03:14.0 à 03:21.1
+personnage: Narrateur
+fichier: dyoro-film-013-<langue>.m4a
+intonation: chuchoté (scénario)
+texte: Ce qui s'y passe reste secret. On sait seulement qu'ils partent en silence, comme les ancêtres.
+genre: adulte/libre
+duree: 7100ms (mesurée sur le film)
+
+piste: film-014
+histoire: Le Dyoro, la traversée
+partie: Film d'animation, de 03:39.0 à 03:44.4
+personnage: Narrateur
+fichier: dyoro-film-014-<langue>.m4a
+intonation: joyeux (scénario)
+texte: Puis ils reviennent, changés. Le village les accueille en dansant.
+genre: adulte/libre
+duree: 5400ms (mesurée sur le film)
+
+piste: film-015
+histoire: Le Dyoro, la traversée
+partie: Film d'animation, de 04:14.3 à 04:17.2
+personnage: ANCIEN
+fichier: dyoro-film-015-<langue>.m4a
+intonation: posé (scénario)
+texte: Ils ont traversé, comme nous.
+genre: âgé/libre
+duree: 2900ms (mesurée sur le film)
+
+piste: film-016
+histoire: Le Dyoro, la traversée
+partie: Film d'animation, de 04:19.0 à 04:24.9
+personnage: Narrateur
+fichier: dyoro-film-016-<langue>.m4a
+intonation: doux (scénario)
+texte: Le soir, les anciens s'assoient au bord de l'eau. Le fleuve se souvient.
+genre: adulte/libre
+duree: 5900ms (mesurée sur le film)

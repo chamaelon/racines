@@ -1,0 +1,322 @@
+# Les ruines de Loropéni : fiches des bandes-son
+# Généré par « npm run bandes-son » depuis pistes.json. Modifier pistes.json, pas ce fichier.
+
+piste: n1
+histoire: Les ruines de Loropéni
+partie: Les murs dans la brousse (jeu)
+personnage: La guide
+fichier: loropeni-n1-<langue>.m4a
+intonation: grave (proposée)
+texte: Aujourd'hui, dans le sud-ouest du Burkina, de longs murs de pierre sortent de la brousse. Remontons le temps : les pierres se relèvent, une à une.
+genre: adulte/femme
+duree: 11080ms (estimée)
+
+piste: n2
+histoire: Les ruines de Loropéni
+partie: La forteresse relevée (jeu)
+personnage: Le chef
+fichier: loropeni-n2-<langue>.m4a
+intonation: vif (proposée)
+texte: Plus haut, ce mur doit tenir des siècles !
+genre: adulte/homme
+duree: 3870ms (estimée)
+
+piste: n3
+histoire: Les ruines de Loropéni
+partie: La forteresse relevée (jeu)
+personnage: Le griot
+fichier: loropeni-n3-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Les Lohron ou les Koulango, ancêtres des chefs Touna, occupent le lieu. Leurs murs de latérite montent, rangée après rangée. Que veux-tu voir d'abord ?
+genre: adulte/homme
+duree: 10850ms (estimée)
+
+piste: or
+histoire: Les ruines de Loropéni
+partie: L'or du gravier (jeu)
+personnage: La laveuse d'or
+fichier: loropeni-or-<langue>.m4a
+intonation: posé (proposée)
+texte: On lave le gravier à la calebasse. Au fond, quelques paillettes brillent. C'est long et dur, mais ces grains font la richesse de tout un pays.
+genre: adulte/femme
+duree: 11080ms (estimée)
+
+piste: n4
+histoire: Les ruines de Loropéni
+partie: L'or du gravier (jeu)
+personnage: Le griot
+fichier: loropeni-n4-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Veux-tu voir aussi le marché ?
+genre: adulte/homme
+duree: 2580ms (estimée)
+
+piste: echange
+histoire: Les ruines de Loropéni
+partie: Les marchands (jeu)
+personnage: Le griot
+fichier: loropeni-echange-<langue>.m4a
+intonation: joyeux (proposée)
+texte: Dans la forteresse, les orfèvres fondent l'or. Les marchands arrivent de loin, et ils échangent le sel et les étoffes contre l'or.
+genre: adulte/homme
+duree: 9260ms (estimée)
+
+piste: n5
+histoire: Les ruines de Loropéni
+partie: Les marchands (jeu)
+personnage: L'orfèvre
+fichier: loropeni-n5-<langue>.m4a
+intonation: joyeux (proposée)
+texte: Touche-le : il est pur.
+genre: adulte/homme
+duree: 2350ms (estimée)
+
+piste: n6
+histoire: Les ruines de Loropéni
+partie: Les marchands (jeu)
+personnage: Le marchand
+fichier: loropeni-n6-<langue>.m4a
+intonation: joyeux (proposée)
+texte: Beau, mais trop cher pour moi.
+genre: âgé/homme
+duree: 2730ms (estimée)
+
+piste: n7
+histoire: Les ruines de Loropéni
+partie: Les marchands (jeu)
+personnage: L'orfèvre
+fichier: loropeni-n7-<langue>.m4a
+intonation: vif (proposée)
+texte: Alors, plus de sel !
+genre: adulte/homme
+duree: 2350ms (estimée)
+
+piste: abandon
+histoire: Les ruines de Loropéni
+partie: L'abandon, puis 2009 (jeu)
+personnage: La guide
+fichier: loropeni-abandon-<langue>.m4a
+intonation: grave (proposée)
+texte: Puis la forteresse est abandonnée. Personne ne sait vraiment pourquoi. La brousse reprend les murs, et les arbres poussent entre les pierres.
+genre: adulte/femme
+duree: 9410ms (estimée)
+
+piste: relire
+histoire: Les ruines de Loropéni
+partie: L'abandon, puis 2009 (jeu)
+personnage: La guide
+fichier: loropeni-relire-<langue>.m4a
+intonation: grave (proposée)
+texte: Rien n'est perdu : les pierres ne bougeront pas d'ici. Tu peux recommencer l'enquête.
+genre: adulte/femme
+duree: 6070ms (estimée)
+
+piste: bien
+histoire: Les ruines de Loropéni
+partie: L'abandon, puis 2009 (jeu)
+personnage: La guide
+fichier: loropeni-bien-<langue>.m4a
+intonation: grave (proposée)
+texte: Le mystère reste entier. Mais les pierres sont toujours là, et elles gardent la mémoire de ceux qui les ont dressées.
+genre: adulte/femme
+duree: 8730ms (estimée)
+
+piste: film-001
+histoire: Les ruines de Loropéni
+partie: Film d'animation, de 00:02.0 à 00:07.9
+personnage: Narrateur
+fichier: loropeni-film-001-<langue>.m4a
+intonation: sobre (scénario)
+texte: Les ruines de Loropéni. Un récit historique, simplifié pour l'image.
+genre: adulte/libre
+duree: 5900ms (mesurée sur le film)
+
+piste: film-002
+histoire: Les ruines de Loropéni
+partie: Film d'animation, de 00:09.0 à 00:14.7
+personnage: Narrateur
+fichier: loropeni-film-002-<langue>.m4a
+intonation: posé (proposée)
+texte: Aujourd'hui, dans le sud-ouest du Burkina, de longs murs de pierre sortent de la brousse.
+genre: adulte/libre
+duree: 5700ms (mesurée sur le film)
+
+piste: film-003
+histoire: Les ruines de Loropéni
+partie: Film d'animation, de 00:18.0 à 00:23.5
+personnage: Narrateur
+fichier: loropeni-film-003-<langue>.m4a
+intonation: posé (proposée)
+texte: Qui les a bâtis ? Et pourquoi ? Remontons le temps.
+genre: adulte/libre
+duree: 5500ms (mesurée sur le film)
+
+piste: film-004
+histoire: Les ruines de Loropéni
+partie: Film d'animation, de 00:30.0 à 00:37.0
+personnage: Narrateur
+fichier: loropeni-film-004-<langue>.m4a
+intonation: mystérieux (scénario)
+texte: Les pierres se relèvent, une à une. La forteresse se dresse à nouveau, il y a plusieurs siècles.
+genre: adulte/libre
+duree: 7000ms (mesurée sur le film)
+
+piste: film-005
+histoire: Les ruines de Loropéni
+partie: Film d'animation, de 00:50.0 à 00:58.0
+personnage: Narrateur
+fichier: loropeni-film-005-<langue>.m4a
+intonation: posé (proposée)
+texte: Les Lohron ou les Koulango, ancêtres des chefs Touna, occupent le lieu. Leurs murs de latérite montent, rangée après rangée.
+genre: adulte/libre
+duree: 8000ms (mesurée sur le film)
+
+piste: film-006
+histoire: Les ruines de Loropéni
+partie: Film d'animation, de 00:58.0 à 01:01.0
+personnage: CHEF
+fichier: loropeni-film-006-<langue>.m4a
+intonation: ferme (scénario)
+texte: Plus haut, ce mur doit tenir des siècles !
+genre: adulte/homme
+duree: 3000ms (mesurée sur le film)
+
+piste: film-007
+histoire: Les ruines de Loropéni
+partie: Film d'animation, de 01:05.0 à 01:08.4
+personnage: Narrateur
+fichier: loropeni-film-007-<langue>.m4a
+intonation: posé (proposée)
+texte: Il protège ce que le pays a de plus précieux.
+genre: adulte/libre
+duree: 3400ms (mesurée sur le film)
+
+piste: film-008
+histoire: Les ruines de Loropéni
+partie: Film d'animation, de 01:28.0 à 01:32.7
+personnage: Narrateur
+fichier: loropeni-film-008-<langue>.m4a
+intonation: posé (proposée)
+texte: L'or. On le tire de la terre et des rivières de la région.
+genre: adulte/libre
+duree: 4700ms (mesurée sur le film)
+
+piste: film-009
+histoire: Les ruines de Loropéni
+partie: Film d'animation, de 01:40.0 à 01:46.1
+personnage: Narrateur
+fichier: loropeni-film-009-<langue>.m4a
+intonation: posé (proposée)
+texte: Les femmes lavent le gravier à la calebasse. Au fond, quelques paillettes brillent.
+genre: adulte/libre
+duree: 6100ms (mesurée sur le film)
+
+piste: film-010
+histoire: Les ruines de Loropéni
+partie: Film d'animation, de 01:54.0 à 01:58.5
+personnage: Narrateur
+fichier: loropeni-film-010-<langue>.m4a
+intonation: posé (proposée)
+texte: C'est long et dur, mais ces grains font la richesse de tout un pays.
+genre: adulte/libre
+duree: 4500ms (mesurée sur le film)
+
+piste: film-011
+histoire: Les ruines de Loropéni
+partie: Film d'animation, de 02:08.0 à 02:12.4
+personnage: Narrateur
+fichier: loropeni-film-011-<langue>.m4a
+intonation: posé (proposée)
+texte: Dans la forteresse, les orfèvres fondent l'or et le travaillent.
+genre: adulte/libre
+duree: 4400ms (mesurée sur le film)
+
+piste: film-012
+histoire: Les ruines de Loropéni
+partie: Film d'animation, de 02:20.0 à 02:25.6
+personnage: Narrateur
+fichier: loropeni-film-012-<langue>.m4a
+intonation: posé (proposée)
+texte: Les marchands arrivent de loin. Ils échangent le sel et les étoffes contre l'or.
+genre: adulte/libre
+duree: 5600ms (mesurée sur le film)
+
+piste: film-013
+histoire: Les ruines de Loropéni
+partie: Film d'animation, de 02:33.5 à 02:35.9
+personnage: ORFEVRE
+fichier: loropeni-film-013-<langue>.m4a
+intonation: fier (scénario)
+texte: Touche-le : il est pur.
+genre: âgé/libre
+duree: 2400ms (mesurée sur le film)
+
+piste: film-014
+histoire: Les ruines de Loropéni
+partie: Film d'animation, de 02:36.0 à 02:38.4
+personnage: MARCHAND
+fichier: loropeni-film-014-<langue>.m4a
+intonation: négociateur (scénario)
+texte: Beau, mais trop cher pour moi.
+genre: adulte/homme
+duree: 2400ms (mesurée sur le film)
+
+piste: film-015
+histoire: Les ruines de Loropéni
+partie: Film d'animation, de 02:38.5 à 02:41.3
+personnage: ORFEVRE
+fichier: loropeni-film-015-<langue>.m4a
+intonation: amusé (scénario)
+texte: Alors, plus de sel !
+genre: âgé/libre
+duree: 2800ms (mesurée sur le film)
+
+piste: film-016
+histoire: Les ruines de Loropéni
+partie: Film d'animation, de 02:48.0 à 02:54.0
+personnage: Narrateur
+fichier: loropeni-film-016-<langue>.m4a
+intonation: joyeux (scénario)
+texte: Le chef reçoit l'or dans sa cour. Les tambours résonnent, et l'on danse.
+genre: adulte/libre
+duree: 6000ms (mesurée sur le film)
+
+piste: film-017
+histoire: Les ruines de Loropéni
+partie: Film d'animation, de 03:20.0 à 03:25.2
+personnage: Narrateur
+fichier: loropeni-film-017-<langue>.m4a
+intonation: grave (scénario)
+texte: Puis la forteresse est abandonnée. Personne ne sait vraiment pourquoi.
+genre: adulte/libre
+duree: 5200ms (mesurée sur le film)
+
+piste: film-018
+histoire: Les ruines de Loropéni
+partie: Film d'animation, de 03:31.0 à 03:36.2
+personnage: Narrateur
+fichier: loropeni-film-018-<langue>.m4a
+intonation: posé (proposée)
+texte: Peu à peu, la brousse reprend les murs, et les arbres poussent entre les pierres.
+genre: adulte/libre
+duree: 5200ms (mesurée sur le film)
+
+piste: film-019
+histoire: Les ruines de Loropéni
+partie: Film d'animation, de 03:52.0 à 03:58.9
+personnage: Narrateur
+fichier: loropeni-film-019-<langue>.m4a
+intonation: posé (proposée)
+texte: En 2009, Loropéni devient le premier site du Burkina Faso inscrit au patrimoine mondial de l'UNESCO.
+genre: adulte/libre
+duree: 6900ms (mesurée sur le film)
+
+piste: film-020
+histoire: Les ruines de Loropéni
+partie: Film d'animation, de 04:02.0 à 04:07.0
+personnage: Narrateur
+fichier: loropeni-film-020-<langue>.m4a
+intonation: doux (scénario)
+texte: Le mystère reste entier. Mais les pierres sont toujours là.
+genre: adulte/libre
+duree: 5000ms (mesurée sur le film)

@@ -50,7 +50,8 @@
       "speaker": "doyen",
       "text": "Il faut partir. Prenez ce qui compte.",
       "explore": [
-        "calebasse"
+        "calebasse",
+        "pirogue"
       ],
       "next": "n3"
     },

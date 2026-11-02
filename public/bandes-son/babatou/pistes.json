@@ -1,0 +1,635 @@
+{
+ "id": "babatou",
+ "titre": "Face aux cavaliers de Babatou",
+ "peuple": "Gourounsi",
+ "langues_cibles": [
+  "fr",
+  "nun"
+ ],
+ "pistes": [
+  {
+   "id": "titre",
+   "type": "titre",
+   "chemin": "titre",
+   "texte": "Face aux cavaliers de Babatou"
+  },
+  {
+   "id": "presentation",
+   "type": "presentation",
+   "chemin": "presentation",
+   "texte": "Fin du XIXe siècle : les cavaliers zarma de Babatou capturent des hommes pour les vendre. Ton village apprend à veiller. Tes choix racontent ta place dans la défense, sans changer ce qu'a subi le pays."
+  },
+  {
+   "id": "personnages.griot.nom",
+   "type": "personnage",
+   "chemin": "personnages.griot.nom",
+   "texte": "Le griot"
+  },
+  {
+   "id": "personnages.guetteur.nom",
+   "type": "personnage",
+   "chemin": "personnages.guetteur.nom",
+   "texte": "Le guetteur"
+  },
+  {
+   "id": "personnages.chef.nom",
+   "type": "personnage",
+   "chemin": "personnages.chef.nom",
+   "texte": "Le chef"
+  },
+  {
+   "id": "personnages.femme.nom",
+   "type": "personnage",
+   "chemin": "personnages.femme.nom",
+   "texte": "Une femme"
+  },
+  {
+   "id": "personnages.messager.nom",
+   "type": "personnage",
+   "chemin": "personnages.messager.nom",
+   "texte": "Le messager"
+  },
+  {
+   "id": "personnages.cavalier.nom",
+   "type": "personnage",
+   "chemin": "personnages.cavalier.nom",
+   "texte": "Un cavalier zarma"
+  },
+  {
+   "id": "fins.canon",
+   "type": "fin",
+   "chemin": "fins.canon",
+   "texte": "Mémoire : unis, ils se défendent"
+  },
+  {
+   "id": "fins.seul",
+   "type": "fin",
+   "chemin": "fins.seul",
+   "texte": "Mémoire à reprendre : seuls, ils sont des proies"
+  },
+  {
+   "id": "n1",
+   "type": "replique",
+   "chemin": "nodes.n1.text",
+   "noeud": "n1",
+   "partie": "Le village et les cavaliers zarma (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Fin du dix-neuvième siècle. Dans un village gourounsi, la vie suit le rythme des saisons. Mais dans la brousse passent les cavaliers zarma de Babatou. Ils capturent des hommes pour les vendre.",
+   "genre": "adulte/homme",
+   "duree_ms": 13510,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n2",
+   "type": "replique",
+   "chemin": "nodes.n2.text",
+   "noeud": "n2",
+   "partie": "Le village et les cavaliers zarma (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Alors, chaque village apprend à veiller. Sur un toit, un guetteur ne quitte pas l'horizon.",
+   "genre": "adulte/homme",
+   "duree_ms": 6600,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n3",
+   "type": "replique",
+   "chemin": "nodes.n3.text",
+   "noeud": "n3",
+   "partie": "Le village et les cavaliers zarma (jeu)",
+   "personnage": "Le guetteur",
+   "intonation": "vif",
+   "intonation_statut": "proposée",
+   "texte": "La poussière ! Les cavaliers arrivent !",
+   "genre": "jeune/homme",
+   "duree_ms": 3260,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n4",
+   "type": "replique",
+   "chemin": "nodes.n4.text",
+   "noeud": "n4",
+   "partie": "Le village et les cavaliers zarma (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Le tambour d'alerte doit résonner jusqu'aux champs. À toi.",
+   "genre": "adulte/homme",
+   "duree_ms": 4020,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n5.consigne",
+   "type": "jeu",
+   "chemin": "nodes.n5.consigne",
+   "texte": "Frappe l'alerte pour prévenir les champs."
+  },
+  {
+   "id": "nodes.n5.gagne",
+   "type": "jeu",
+   "chemin": "nodes.n5.gagne",
+   "texte": "L'alerte porte jusqu'aux champs."
+  },
+  {
+   "id": "nodes.n5.perdu",
+   "type": "jeu",
+   "chemin": "nodes.n5.perdu",
+   "texte": "L'alerte est maladroite, mais on l'entend quand même."
+  },
+  {
+   "id": "nodes.n5.tags.win",
+   "type": "parcours",
+   "chemin": "nodes.n5.tags.win",
+   "texte": "rythme tenu"
+  },
+  {
+   "id": "nodes.n5.tags.lose",
+   "type": "parcours",
+   "chemin": "nodes.n5.tags.lose",
+   "texte": "rythme perdu"
+  },
+  {
+   "id": "n6",
+   "type": "replique",
+   "chemin": "nodes.n6.text",
+   "noeud": "n6",
+   "partie": "Le village et les cavaliers zarma (jeu)",
+   "personnage": "Le chef",
+   "intonation": "vif",
+   "intonation_statut": "proposée",
+   "texte": "Personne ne fuit. Chacun à sa place !",
+   "genre": "âgé/homme",
+   "duree_ms": 3640,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n7",
+   "type": "replique",
+   "chemin": "nodes.n7.text",
+   "noeud": "n7",
+   "partie": "Le village et les cavaliers zarma (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Les femmes et les enfants se cachent dans les cases aux murs épais. Où te places-tu ?",
+   "genre": "adulte/homme",
+   "duree_ms": 7060,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n7.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.n7.choices.0.label",
+   "texte": "Avec ceux qui creusent des fosses"
+  },
+  {
+   "id": "nodes.n7.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.n7.choices.0.tag",
+   "texte": "fosses creusées"
+  },
+  {
+   "id": "nodes.n7.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.n7.choices.1.label",
+   "texte": "Sur les toits, avec les archers"
+  },
+  {
+   "id": "nodes.n7.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.n7.choices.1.tag",
+   "texte": "sur les toits"
+  },
+  {
+   "id": "fosses",
+   "type": "replique",
+   "chemin": "nodes.fosses.text",
+   "noeud": "fosses",
+   "partie": "Le village et les cavaliers zarma (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Tu creuses, puis tu couvres la fosse de branches. Tu ne verras l'attaque que par le bruit.",
+   "genre": "adulte/homme",
+   "duree_ms": 7210,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "toits",
+   "type": "replique",
+   "chemin": "nodes.toits.text",
+   "noeud": "toits",
+   "partie": "Le village et les cavaliers zarma (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Tu prépares tes flèches. D'ici, on voit toute la brousse.",
+   "genre": "adulte/homme",
+   "duree_ms": 4550,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "attaque",
+   "type": "replique",
+   "chemin": "nodes.attaque.text",
+   "noeud": "attaque",
+   "partie": "La charge (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Les cavaliers chargent, certains de leur victoire. Mais les chevaux tombent dans les pièges, et depuis les toits, les flèches pleuvent. Les cavaliers font demi-tour.",
+   "genre": "adulte/homme",
+   "duree_ms": 10850,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n8",
+   "type": "replique",
+   "chemin": "nodes.n8.text",
+   "noeud": "n8",
+   "partie": "Le soir de la victoire (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Le village a tenu. Ce soir-là, on chante la victoire. Mais les colonnes de captifs marchent toujours ailleurs. Quelle leçon en tire le chef ?",
+   "genre": "adulte/homme",
+   "duree_ms": 10850,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n8.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.n8.choices.0.label",
+   "texte": "Envoyer des messagers aux villages voisins"
+  },
+  {
+   "id": "nodes.n8.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.n8.choices.0.tag",
+   "texte": "alliance"
+  },
+  {
+   "id": "nodes.n8.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.n8.choices.1.label",
+   "texte": "Fermer le village et ne compter que sur soi"
+  },
+  {
+   "id": "nodes.n8.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.n8.choices.1.tag",
+   "texte": "repli"
+  },
+  {
+   "id": "seul",
+   "type": "replique",
+   "chemin": "nodes.seul.text",
+   "noeud": "seul",
+   "partie": "Le soir de la victoire (jeu)",
+   "personnage": "Le griot",
+   "intonation": "chuchoté",
+   "intonation_statut": "proposée",
+   "texte": "Ce ne fut pas leur choix : les voisins ont compris la leçon, et ils se sont alliés. Seuls, ils sont des proies. Reprends cette veillée pour la vivre comme eux.",
+   "genre": "adulte/homme",
+   "duree_ms": 13130,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "unis",
+   "type": "replique",
+   "chemin": "nodes.unis.text",
+   "noeud": "unis",
+   "partie": "L'alliance des villages (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Les villages voisins comprennent la leçon. Ils échangent des messagers, et ils s'allient.",
+   "genre": "adulte/homme",
+   "duree_ms": 5690,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n9",
+   "type": "replique",
+   "chemin": "nodes.n9.text",
+   "noeud": "n9",
+   "partie": "L'alliance des villages (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Aujourd'hui, on se souvient encore de cette résistance, et de ceux qu'on n'a pas pu sauver.",
+   "genre": "adulte/homme",
+   "duree_ms": 6680,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "film-001",
+   "type": "film",
+   "partie": "Film d'animation, de 00:02.0 à 00:08.2",
+   "horodatage": {
+    "debut_ms": 2000,
+    "fin_ms": 8200
+   },
+   "personnage": "Narrateur",
+   "intonation": "sobre",
+   "intonation_statut": "scénario",
+   "texte": "Face aux cavaliers de Babatou. Un récit historique, simplifié pour l'image.",
+   "genre": "adulte/libre",
+   "duree_ms": 6200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-002",
+   "type": "film",
+   "partie": "Film d'animation, de 00:09.0 à 00:15.5",
+   "horodatage": {
+    "debut_ms": 9000,
+    "fin_ms": 15500
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Fin du dix-neuvième siècle. Dans un village gourounsi, la vie suit le rythme des saisons.",
+   "genre": "adulte/libre",
+   "duree_ms": 6500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-003",
+   "type": "film",
+   "partie": "Film d'animation, de 00:28.0 à 00:32.2",
+   "horodatage": {
+    "debut_ms": 28000,
+    "fin_ms": 32200
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Mais dans la brousse, passent les cavaliers zarma de Babatou.",
+   "genre": "adulte/libre",
+   "duree_ms": 4200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-004",
+   "type": "film",
+   "partie": "Film d'animation, de 00:40.0 à 00:46.2",
+   "horodatage": {
+    "debut_ms": 40000,
+    "fin_ms": 46200
+   },
+   "personnage": "Narrateur",
+   "intonation": "grave",
+   "intonation_statut": "scénario",
+   "texte": "Ils capturent des hommes pour les vendre. Des colonnes de captifs marchent, encordés.",
+   "genre": "adulte/libre",
+   "duree_ms": 6200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-005",
+   "type": "film",
+   "partie": "Film d'animation, de 01:03.0 à 01:09.5",
+   "horodatage": {
+    "debut_ms": 63000,
+    "fin_ms": 69500
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Alors, chaque village apprend à veiller. Sur un toit, un guetteur ne quitte pas l'horizon.",
+   "genre": "adulte/libre",
+   "duree_ms": 6500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-006",
+   "type": "film",
+   "partie": "Film d'animation, de 01:14.3 à 01:18.7",
+   "horodatage": {
+    "debut_ms": 74300,
+    "fin_ms": 78700
+   },
+   "personnage": "GUETTEUR",
+   "intonation": "essoufflé",
+   "intonation_statut": "scénario",
+   "texte": "La poussière ! Les cavaliers arrivent !",
+   "genre": "enfant/libre",
+   "duree_ms": 4400,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-007",
+   "type": "film",
+   "partie": "Film d'animation, de 01:21.0 à 01:24.2",
+   "horodatage": {
+    "debut_ms": 81000,
+    "fin_ms": 84200
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Le tambour d'alerte résonne jusqu'aux champs.",
+   "genre": "adulte/libre",
+   "duree_ms": 3200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-008",
+   "type": "film",
+   "partie": "Film d'animation, de 01:31.5 à 01:35.6",
+   "horodatage": {
+    "debut_ms": 91500,
+    "fin_ms": 95600
+   },
+   "personnage": "CHEF",
+   "intonation": "ferme",
+   "intonation_statut": "scénario",
+   "texte": "Personne ne fuit. Chacun à sa place !",
+   "genre": "âgé/libre",
+   "duree_ms": 4100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-009",
+   "type": "film",
+   "partie": "Film d'animation, de 01:37.0 à 01:40.8",
+   "horodatage": {
+    "debut_ms": 97000,
+    "fin_ms": 100800
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Les femmes et les enfants se cachent dans les cases aux murs épais.",
+   "genre": "adulte/libre",
+   "duree_ms": 3800,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-010",
+   "type": "film",
+   "partie": "Film d'animation, de 01:47.0 à 01:51.2",
+   "horodatage": {
+    "debut_ms": 107000,
+    "fin_ms": 111200
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Les hommes creusent des fosses, puis ils les couvrent de branches.",
+   "genre": "adulte/libre",
+   "duree_ms": 4200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-011",
+   "type": "film",
+   "partie": "Film d'animation, de 01:58.0 à 02:00.7",
+   "horodatage": {
+    "debut_ms": 118000,
+    "fin_ms": 120700
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Les arcs et les flèches sont prêts.",
+   "genre": "adulte/libre",
+   "duree_ms": 2700,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-012",
+   "type": "film",
+   "partie": "Film d'animation, de 02:10.0 à 02:15.8",
+   "horodatage": {
+    "debut_ms": 130000,
+    "fin_ms": 135800
+   },
+   "personnage": "Narrateur",
+   "intonation": "tendu",
+   "intonation_statut": "scénario",
+   "texte": "L'attaque arrive. Les cavaliers chargent, certains de leur victoire.",
+   "genre": "adulte/libre",
+   "duree_ms": 5800,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-013",
+   "type": "film",
+   "partie": "Film d'animation, de 02:21.0 à 02:23.8",
+   "horodatage": {
+    "debut_ms": 141000,
+    "fin_ms": 143800
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Mais les chevaux tombent dans les pièges.",
+   "genre": "adulte/libre",
+   "duree_ms": 2800,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-014",
+   "type": "film",
+   "partie": "Film d'animation, de 02:51.0 à 02:54.3",
+   "horodatage": {
+    "debut_ms": 171000,
+    "fin_ms": 174300
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Depuis les toits, les flèches pleuvent.",
+   "genre": "adulte/libre",
+   "duree_ms": 3300,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-015",
+   "type": "film",
+   "partie": "Film d'animation, de 03:03.0 à 03:07.7",
+   "horodatage": {
+    "debut_ms": 183000,
+    "fin_ms": 187700
+   },
+   "personnage": "Narrateur",
+   "intonation": "ferme",
+   "intonation_statut": "scénario",
+   "texte": "Les cavaliers font demi-tour. Le village a tenu.",
+   "genre": "adulte/libre",
+   "duree_ms": 4700,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-016",
+   "type": "film",
+   "partie": "Film d'animation, de 03:15.0 à 03:18.3",
+   "horodatage": {
+    "debut_ms": 195000,
+    "fin_ms": 198300
+   },
+   "personnage": "Narrateur",
+   "intonation": "joyeux",
+   "intonation_statut": "scénario",
+   "texte": "Ce soir-là, on chante la victoire.",
+   "genre": "adulte/libre",
+   "duree_ms": 3300,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-017",
+   "type": "film",
+   "partie": "Film d'animation, de 03:30.0 à 03:37.9",
+   "horodatage": {
+    "debut_ms": 210000,
+    "fin_ms": 217900
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Les villages voisins comprennent la leçon. Seuls, ils sont des proies. Unis, ils se défendent.",
+   "genre": "adulte/libre",
+   "duree_ms": 7900,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-018",
+   "type": "film",
+   "partie": "Film d'animation, de 03:47.0 à 03:50.4",
+   "horodatage": {
+    "debut_ms": 227000,
+    "fin_ms": 230400
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Ils échangent des messagers, et ils s'allient.",
+   "genre": "adulte/libre",
+   "duree_ms": 3400,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-019",
+   "type": "film",
+   "partie": "Film d'animation, de 04:04.0 à 04:10.0",
+   "horodatage": {
+    "debut_ms": 244000,
+    "fin_ms": 250000
+   },
+   "personnage": "Narrateur",
+   "intonation": "doux",
+   "intonation_statut": "scénario",
+   "texte": "Aujourd'hui, on se souvient encore de cette résistance, et de ceux qu'on n'a pas pu sauver.",
+   "genre": "adulte/libre",
+   "duree_ms": 6000,
+   "duree_statut": "mesurée sur le film"
+  }
+ ]
+}

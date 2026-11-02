@@ -100,7 +100,8 @@
       "scene": "veillee",
       "explore": [
         "calebasse",
-        "chapeau-sapone"
+        "chapeau-sapone",
+        "chapeau-peul"
       ],
       "next": "n6"
     },

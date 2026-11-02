@@ -1,0 +1,162 @@
+# Naaba Wobgo et la résistance de 1896 : fiches des bandes-son
+# Généré par « npm run bandes-son » depuis pistes.json. Modifier pistes.json, pas ce fichier.
+
+piste: n1
+histoire: Naaba Wobgo et la résistance de 1896
+partie: La cour de Naaba Wobgo (jeu)
+personnage: Le griot
+fichier: naaba-wobgo-n1-<langue>.m4a
+intonation: posé (proposée)
+texte: À la fin du XIXe siècle, Ouagadougou est la capitale d'un royaume mossi ancien. Son souverain, Boukary Koutou, a pris à son avènement le nom de Naaba Wobgo.
+genre: adulte/homme
+duree: 11690ms (estimée)
+
+piste: n2
+histoire: Naaba Wobgo et la résistance de 1896
+partie: La cour de Naaba Wobgo (jeu)
+personnage: Le griot
+fichier: naaba-wobgo-n2-<langue>.m4a
+intonation: posé (proposée)
+texte: En 1894, il signe un traité d'amitié avec George Ekem Ferguson, envoyé des Britanniques. Les Français contestent cet accord : ils convoitent eux aussi la région.
+genre: adulte/homme
+duree: 10930ms (estimée)
+
+piste: n3
+histoire: Naaba Wobgo et la résistance de 1896
+partie: La cour de Naaba Wobgo (jeu)
+personnage: George Ekem Ferguson
+fichier: naaba-wobgo-n3-<langue>.m4a
+intonation: posé (proposée)
+texte: Voici le traité. Il parle d'amitié entre nous.
+genre: adulte/homme
+duree: 3640ms (estimée)
+
+piste: n4
+histoire: Naaba Wobgo et la résistance de 1896
+partie: La cour de Naaba Wobgo (jeu)
+personnage: Le griot
+fichier: naaba-wobgo-n4-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Toi, le page, que regardes-tu pendant que l'on signe ?
+genre: adulte/homme
+duree: 4400ms (estimée)
+
+piste: visage
+histoire: Naaba Wobgo et la résistance de 1896
+partie: La cour de Naaba Wobgo (jeu)
+personnage: Le griot
+fichier: naaba-wobgo-visage-<langue>.m4a
+intonation: posé (proposée)
+texte: Il sait qu'un papier n'arrête pas une colonne. Mais c'est aujourd'hui tout ce qu'on lui propose.
+genre: adulte/homme
+duree: 6680ms (estimée)
+
+piste: route
+histoire: Naaba Wobgo et la résistance de 1896
+partie: La cour de Naaba Wobgo (jeu)
+personnage: Le griot
+fichier: naaba-wobgo-route-<langue>.m4a
+intonation: posé (proposée)
+texte: Tu entends parler d'hommes en armes loin au sud et à l'ouest. Personne n'en sait encore beaucoup.
+genre: adulte/homme
+duree: 7060ms (estimée)
+
+piste: colonne
+histoire: Naaba Wobgo et la résistance de 1896
+partie: 1896 : la colonne Voulet-Chanoine (jeu)
+personnage: Le griot
+fichier: naaba-wobgo-colonne-<langue>.m4a
+intonation: grave (proposée)
+texte: En 1896, la colonne de Paul Voulet et Julien Chanoine marche sur le pays mossi.
+genre: adulte/homme
+duree: 6150ms (estimée)
+
+piste: n5
+histoire: Naaba Wobgo et la résistance de 1896
+partie: 1896 : la colonne Voulet-Chanoine (jeu)
+personnage: Paul Voulet
+fichier: naaba-wobgo-n5-<langue>.m4a
+intonation: grave (proposée)
+texte: Ouagadougou sera prise.
+genre: adulte/homme
+duree: 1440ms (estimée)
+
+piste: n6
+histoire: Naaba Wobgo et la résistance de 1896
+partie: 1896 : la colonne Voulet-Chanoine (jeu)
+personnage: Le griot
+fichier: naaba-wobgo-n6-<langue>.m4a
+intonation: grave (proposée)
+texte: Naaba Wobgo tente de résister, et sa ville est incendiée. Voulet s'empare de Ouagadougou.
+genre: adulte/homme
+duree: 6070ms (estimée)
+
+piste: n7
+histoire: Naaba Wobgo et la résistance de 1896
+partie: 1896 : la colonne Voulet-Chanoine (jeu)
+personnage: Le griot
+fichier: naaba-wobgo-n7-<langue>.m4a
+intonation: grave (proposée)
+texte: Le page doit-il rester ou fuir avec le souverain ? L'histoire sera la même, seul ton récit change.
+genre: adulte/homme
+duree: 7590ms (estimée)
+
+piste: ville
+histoire: Naaba Wobgo et la résistance de 1896
+partie: Le souverain déposé (jeu)
+personnage: Le griot
+fichier: naaba-wobgo-ville-<langue>.m4a
+intonation: posé (proposée)
+texte: Le souverain est déposé, et Voulet installe à sa place son frère Sighiri. Les sources ne s'accordent pas sur la date exacte de cette déposition.
+genre: adulte/homme
+duree: 10250ms (estimée)
+
+piste: suivre
+histoire: Naaba Wobgo et la résistance de 1896
+partie: Le chemin de l'exil (jeu)
+personnage: Naaba Wobgo
+fichier: naaba-wobgo-suivre-<langue>.m4a
+intonation: posé (proposée)
+texte: Je demande de l'aide aux Britanniques.
+genre: adulte/homme
+duree: 2580ms (estimée)
+
+piste: n8
+histoire: Naaba Wobgo et la résistance de 1896
+partie: Le chemin de l'exil (jeu)
+personnage: Le griot
+fichier: naaba-wobgo-n8-<langue>.m4a
+intonation: posé (proposée)
+texte: L'aide ne vient pas. Le souverain est déposé, et son frère Sighiri installé à sa place. Les sources ne s'accordent pas sur les conditions exactes de sa fuite.
+genre: adulte/homme
+duree: 11690ms (estimée)
+
+piste: quiz
+histoire: Naaba Wobgo et la résistance de 1896
+partie: Le souverain déposé (jeu)
+personnage: Le griot
+fichier: naaba-wobgo-quiz-<langue>.m4a
+intonation: posé (proposée)
+texte: Il se réfugie en Gold Coast, l'actuel Ghana, et il y meurt en 1904.
+genre: adulte/homme
+duree: 5920ms (estimée)
+
+piste: relire
+histoire: Naaba Wobgo et la résistance de 1896
+partie: Le souverain déposé (jeu)
+personnage: La griotte
+fichier: naaba-wobgo-relire-<langue>.m4a
+intonation: posé (proposée)
+texte: Reviens m'écouter : ces dates, on les doit à ceux qui les ont vécues.
+genre: adulte/femme
+duree: 5920ms (estimée)
+
+piste: bien
+histoire: Naaba Wobgo et la résistance de 1896
+partie: Le souverain déposé (jeu)
+personnage: Le griot
+fichier: naaba-wobgo-bien-<langue>.m4a
+intonation: posé (proposée)
+texte: À retenir : la conquête du pays mossi s'est faite par la force, face à un souverain qui a refusé de se soumettre.
+genre: adulte/homme
+duree: 9340ms (estimée)

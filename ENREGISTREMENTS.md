@@ -1,5 +1,7 @@
 # Voix à enregistrer
 
+> **Pour le jeu, la référence est désormais [public/bandes-son](public/bandes-son/README.md)** : 1 210 fiches, avec intonation, âge, sexe et durée. Déposer les répliques à cet endroit, sous le nom `<histoire>-<partie>-<langue>.m4a`. Les fichiers listés ci-dessous sous « Répliques des récits jouables » ne sont plus lus. Les voix des fiches de récits restent valables.
+
 Remplacer chaque fichier muet par la vraie voix, sous le même nom : MP3 mono 64 kbit/s, normalisé dans Audacity.
 Puis passer `provisoire` à `false` (fiche, dans recits.json) ou `audioProvisoire` à `false` (jeu, dans stories/<id>.json).
 Après un enregistrement de fiche, recaler les repères de temps du fichier fr.vtt à la main.

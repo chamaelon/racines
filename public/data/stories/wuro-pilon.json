@@ -90,7 +90,8 @@
       "text": "Regarde la cour où Hamé pile le mil.",
       "explore": [
         "to",
-        "calebasse"
+        "calebasse",
+        "mortier-pilon"
       ],
       "next": "n4"
     },
