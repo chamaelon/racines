@@ -1,0 +1,362 @@
+# Le gyil des génies : fiches des bandes-son
+# Généré par « npm run bandes-son » depuis pistes.json. Modifier pistes.json, pas ce fichier.
+
+piste: n1
+histoire: Le gyil des génies
+partie: Les fêtes tristes (jeu)
+personnage: Le griot
+fichier: gyil-n1-<langue>.m4a
+intonation: posé (proposée)
+texte: Autrefois, les villages dagara n'avaient pas de gyil. Les fêtes étaient bien tristes : on se regardait, et on s'ennuyait.
+genre: adulte/homme
+duree: 8650ms (estimée)
+
+piste: n2
+histoire: Le gyil des génies
+partie: La musique des kontomblé (jeu)
+personnage: Le griot
+fichier: gyil-n2-<langue>.m4a
+intonation: mystérieux (proposée)
+texte: Un jour, Bayuo s'éloigne trop dans la brousse. La nuit tombe. Soudain, il entend un son qu'il ne connaît pas : des kontomblé, les génies de la brousse, frappent sur des lames de bois.
+genre: adulte/homme
+duree: 14570ms (estimée)
+
+piste: n3
+histoire: Le gyil des génies
+partie: La musique des kontomblé (jeu)
+personnage: Le griot
+fichier: gyil-n3-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Que fait-il ?
+genre: adulte/homme
+duree: 1440ms (estimée)
+
+piste: fuite
+histoire: Le gyil des génies
+partie: La musique des kontomblé (jeu)
+personnage: Le griot
+fichier: gyil-fuite-<langue>.m4a
+intonation: mystérieux (proposée)
+texte: Il rentre au matin, et il essaie de raconter ce qu'il a entendu. Personne ne le croit. Les fêtes restent tristes, et lui reste avec un air qu'il ne sait plus retrouver.
+genre: adulte/homme
+duree: 13360ms (estimée)
+
+piste: ecoute
+histoire: Le gyil des génies
+partie: La musique des kontomblé (jeu)
+personnage: Le griot
+fichier: gyil-ecoute-<langue>.m4a
+intonation: mystérieux (proposée)
+texte: Il revient la nuit suivante, et la suivante encore. Ses mains, dans le vide, imitent les génies. À toi : retiens l'air.
+genre: adulte/homme
+duree: 9860ms (estimée)
+
+piste: n5
+histoire: Le gyil des génies
+partie: La musique des kontomblé (jeu)
+personnage: Le griot
+fichier: gyil-n5-<langue>.m4a
+intonation: enlevé (proposée)
+texte: Une branche craque. Découvert !
+genre: adulte/homme
+duree: 2500ms (estimée)
+
+piste: n6
+histoire: Le gyil des génies
+partie: La musique des kontomblé (jeu)
+personnage: Le génie
+fichier: gyil-n6-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Qui ose nous espionner ?
+genre: voix de génie/libre
+duree: 2200ms (estimée)
+
+piste: n7
+histoire: Le gyil des génies
+partie: La musique des kontomblé (jeu)
+personnage: Le griot
+fichier: gyil-n7-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Que répond Bayuo ?
+genre: adulte/homme
+duree: 1820ms (estimée)
+
+piste: perdu
+histoire: Le gyil des génies
+partie: La musique des kontomblé (jeu)
+personnage: Le génie
+fichier: gyil-perdu-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Tu mens : cela fait trois nuits que tes mains bougent derrière cet arbre. Qu'as-tu à offrir ?
+genre: voix de génie/libre
+duree: 7590ms (estimée)
+
+piste: n8
+histoire: Le gyil des génies
+partie: La musique des kontomblé (jeu)
+personnage: Le griot
+fichier: gyil-n8-<langue>.m4a
+intonation: mystérieux (proposée)
+texte: Il tend alors sa gourde de bière.
+genre: adulte/homme
+duree: 2960ms (estimée)
+
+piste: biere
+histoire: Le gyil des génies
+partie: La musique des kontomblé (jeu)
+personnage: Le griot
+fichier: gyil-biere-<langue>.m4a
+intonation: mystérieux (proposée)
+texte: Les génies se regardent. Puis ils lui tendent les baguettes. Bayuo joue. Il a tout retenu. Regarde ce qu'il tient.
+genre: adulte/homme
+duree: 9100ms (estimée)
+
+piste: n9
+histoire: Le gyil des génies
+partie: La musique des kontomblé (jeu)
+personnage: Le génie
+fichier: gyil-n9-<langue>.m4a
+intonation: mystérieux (proposée)
+texte: Taille les lames dans cet arbre. Partage.
+genre: voix de génie/libre
+duree: 3260ms (estimée)
+
+piste: n10
+histoire: Le gyil des génies
+partie: Le retour de Bayuo (jeu)
+personnage: Le griot
+fichier: gyil-n10-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Bayuo rentre. Il tient là un trésor. Qu'en fait-il ?
+genre: adulte/homme
+duree: 4700ms (estimée)
+
+piste: garde
+histoire: Le gyil des génies
+partie: Le retour de Bayuo (jeu)
+personnage: Le griot
+fichier: gyil-garde-<langue>.m4a
+intonation: posé (proposée)
+texte: Il joue seul, et il vend ses notes. Un soir, ses lames sonnent faux. Les génies avaient dit : partage. Dans ce chemin imaginé, le gyil se tait.
+genre: adulte/homme
+duree: 12440ms (estimée)
+
+piste: partage
+histoire: Le gyil des génies
+partie: Le premier gyil (jeu)
+personnage: Le griot
+fichier: gyil-partage-<langue>.m4a
+intonation: joyeux (proposée)
+texte: Il taille les lames et y accroche des calebasses. Dès les premières notes, les pieds se mettent à bouger, et tout le village danse.
+genre: adulte/homme
+duree: 10020ms (estimée)
+
+piste: n11
+histoire: Le gyil des génies
+partie: Le premier gyil (jeu)
+personnage: Le griot
+fichier: gyil-n11-<langue>.m4a
+intonation: joyeux (proposée)
+texte: Depuis, le gyil accompagne les Dagara dans les fêtes, et aussi dans le deuil. Il accompagne la vie et la mort.
+genre: adulte/homme
+duree: 8880ms (estimée)
+
+piste: film-001
+histoire: Le gyil des génies
+partie: Film d'animation, de 00:02.0 à 00:06.2
+personnage: Narrateur
+fichier: gyil-film-001-<langue>.m4a
+intonation: malicieux (scénario)
+texte: Le gyil des génies. Une légende dagara.
+genre: adulte/libre
+duree: 4200ms (mesurée sur le film)
+
+piste: film-002
+histoire: Le gyil des génies
+partie: Film d'animation, de 00:09.0 à 00:17.1
+personnage: Narrateur
+fichier: gyil-film-002-<langue>.m4a
+intonation: posé (proposée)
+texte: Autrefois, les villages dagara n'avaient pas de gyil. Les fêtes étaient bien tristes : on se regardait, et on s'ennuyait.
+genre: adulte/libre
+duree: 8100ms (mesurée sur le film)
+
+piste: film-003
+histoire: Le gyil des génies
+partie: Film d'animation, de 00:30.0 à 00:35.1
+personnage: Narrateur
+fichier: gyil-film-003-<langue>.m4a
+intonation: posé (proposée)
+texte: Un jour, Bayuo, un chasseur, s'éloigna trop dans la brousse.
+genre: adulte/libre
+duree: 5100ms (mesurée sur le film)
+
+piste: film-004
+histoire: Le gyil des génies
+partie: Film d'animation, de 00:42.0 à 00:45.8
+personnage: Narrateur
+fichier: gyil-film-004-<langue>.m4a
+intonation: inquiet (scénario)
+texte: La nuit tomba, et il ne retrouva plus son chemin.
+genre: adulte/libre
+duree: 3800ms (mesurée sur le film)
+
+piste: film-005
+histoire: Le gyil des génies
+partie: Film d'animation, de 01:00.0 à 01:03.8
+personnage: Narrateur
+fichier: gyil-film-005-<langue>.m4a
+intonation: mystérieux (scénario)
+texte: Soudain, il entendit un son qu'il ne connaissait pas.
+genre: adulte/libre
+duree: 3800ms (mesurée sur le film)
+
+piste: film-006
+histoire: Le gyil des génies
+partie: Film d'animation, de 01:10.0 à 01:16.1
+personnage: Narrateur
+fichier: gyil-film-006-<langue>.m4a
+intonation: posé (proposée)
+texte: Derrière les arbres, des kontomblé, les génies de la brousse, frappaient sur des lames de bois.
+genre: adulte/libre
+duree: 6100ms (mesurée sur le film)
+
+piste: film-007
+histoire: Le gyil des génies
+partie: Film d'animation, de 01:22.0 à 01:27.5
+personnage: Narrateur
+fichier: gyil-film-007-<langue>.m4a
+intonation: émerveillé (scénario)
+texte: Bayuo oublia sa peur. Il n'avait jamais rien entendu d'aussi beau.
+genre: adulte/libre
+duree: 5500ms (mesurée sur le film)
+
+piste: film-008
+histoire: Le gyil des génies
+partie: Film d'animation, de 01:38.0 à 01:43.5
+personnage: Narrateur
+fichier: gyil-film-008-<langue>.m4a
+intonation: chuchoté (scénario)
+texte: Il revint la nuit suivante, et la suivante encore, caché derrière un arbre.
+genre: adulte/libre
+duree: 5500ms (mesurée sur le film)
+
+piste: film-009
+histoire: Le gyil des génies
+partie: Film d'animation, de 01:52.0 à 01:58.7
+personnage: Narrateur
+fichier: gyil-film-009-<langue>.m4a
+intonation: posé (proposée)
+texte: La lune changeait de place. Et ses mains, dans le vide, imitaient de mieux en mieux les génies.
+genre: adulte/libre
+duree: 6700ms (mesurée sur le film)
+
+piste: film-010
+histoire: Le gyil des génies
+partie: Film d'animation, de 02:13.0 à 02:16.4
+personnage: Narrateur
+fichier: gyil-film-010-<langue>.m4a
+intonation: posé (proposée)
+texte: Une branche craqua. Découvert !
+genre: adulte/libre
+duree: 3400ms (mesurée sur le film)
+
+piste: film-011
+histoire: Le gyil des génies
+partie: Film d'animation, de 02:16.5 à 02:18.8
+personnage: GENIE
+fichier: gyil-film-011-<langue>.m4a
+intonation: menaçant (scénario)
+texte: Qui ose nous espionner ?
+genre: esprit, créature : voix grave/libre
+duree: 2300ms (mesurée sur le film)
+
+piste: film-012
+histoire: Le gyil des génies
+partie: Film d'animation, de 02:21.5 à 02:25.0
+personnage: BAYUO
+fichier: gyil-film-012-<langue>.m4a
+intonation: tremblant (scénario)
+texte: Je vous offre cette bière. Laissez-moi jouer !
+genre: adulte/homme
+duree: 3500ms (mesurée sur le film)
+
+piste: film-013
+histoire: Le gyil des génies
+partie: Film d'animation, de 02:27.0 à 02:32.1
+personnage: Narrateur
+fichier: gyil-film-013-<langue>.m4a
+intonation: posé (proposée)
+texte: Les génies se regardèrent. Puis ils lui tendirent les baguettes.
+genre: adulte/libre
+duree: 5100ms (mesurée sur le film)
+
+piste: film-014
+histoire: Le gyil des génies
+partie: Film d'animation, de 02:35.0 à 02:38.9
+personnage: Narrateur
+fichier: gyil-film-014-<langue>.m4a
+intonation: ému (scénario)
+texte: Bayuo joua. Il avait tout retenu.
+genre: adulte/libre
+duree: 3900ms (mesurée sur le film)
+
+piste: film-015
+histoire: Le gyil des génies
+partie: Film d'animation, de 02:42.0 à 02:46.2
+personnage: GENIE
+fichier: gyil-film-015-<langue>.m4a
+intonation: voix profonde (scénario)
+texte: Taille les lames dans cet arbre. Partage.
+genre: esprit, créature : voix grave/libre
+duree: 4200ms (mesurée sur le film)
+
+piste: film-016
+histoire: Le gyil des génies
+partie: Film d'animation, de 02:54.0 à 02:58.8
+personnage: Narrateur
+fichier: gyil-film-016-<langue>.m4a
+intonation: posé (proposée)
+texte: Au village, il tailla les lames, et il y accrocha des calebasses.
+genre: adulte/libre
+duree: 4800ms (mesurée sur le film)
+
+piste: film-017
+histoire: Le gyil des génies
+partie: Film d'animation, de 03:06.0 à 03:08.8
+personnage: Narrateur
+fichier: gyil-film-017-<langue>.m4a
+intonation: posé (proposée)
+texte: C'était le premier gyil des hommes.
+genre: adulte/libre
+duree: 2800ms (mesurée sur le film)
+
+piste: film-018
+histoire: Le gyil des génies
+partie: Film d'animation, de 03:30.0 à 03:35.8
+personnage: Narrateur
+fichier: gyil-film-018-<langue>.m4a
+intonation: joyeux (scénario)
+texte: Dès les premières notes, les pieds se mirent à bouger. Tout le village dansa.
+genre: adulte/libre
+duree: 5800ms (mesurée sur le film)
+
+piste: film-019
+histoire: Le gyil des génies
+partie: Film d'animation, de 03:45.0 à 03:49.0
+personnage: Narrateur
+fichier: gyil-film-019-<langue>.m4a
+intonation: posé (proposée)
+texte: Au bord de la brousse, deux génies regardaient en souriant.
+genre: adulte/libre
+duree: 4000ms (mesurée sur le film)
+
+piste: film-020
+histoire: Le gyil des génies
+partie: Film d'animation, de 04:06.0 à 04:14.1
+personnage: Narrateur
+fichier: gyil-film-020-<langue>.m4a
+intonation: doux (scénario)
+texte: Depuis, le gyil accompagne les Dagara dans les fêtes, et aussi dans le deuil. Il accompagne la vie et la mort.
+genre: adulte/libre
+duree: 8100ms (mesurée sur le film)

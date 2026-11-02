@@ -1,0 +1,1061 @@
+{
+ "epoques": [
+  {
+   "id": "origines",
+   "nom": "Temps des origines",
+   "periode": "hors chronologie",
+   "texte": "Le commencement du monde et la venue des premiers ancêtres, tels que les récits les racontent.",
+   "court": "Origines"
+  },
+  {
+   "id": "autrefois",
+   "nom": "Autrefois",
+   "periode": "non daté",
+   "texte": "« Autrefois », « jadis » : le temps des contes et des légendes, que les récits ne datent pas.",
+   "court": "Autrefois"
+  },
+  {
+   "id": "royaumes",
+   "nom": "Temps des royaumes",
+   "periode": "avant 1800",
+   "texte": "Royaumes et cités anciennes. Les dates sont rarement établies : ce sont celles que donnent les récits.",
+   "court": "Temps des royaumes",
+   "debut": 1100,
+   "fin": 1799,
+   "pas": 100
+  },
+  {
+   "id": "xixe",
+   "nom": "XIXe siècle",
+   "periode": "1800 à 1895",
+   "texte": "Émirats, cités marchandes et cavaliers, avant la conquête coloniale.",
+   "court": "XIXe siècle",
+   "debut": 1800,
+   "fin": 1895,
+   "pas": 20
+  },
+  {
+   "id": "conquete",
+   "nom": "La conquête",
+   "periode": "1896 à 1914",
+   "texte": "Les colonnes françaises et la chute des royaumes.",
+   "court": "La conquête",
+   "debut": 1896,
+   "fin": 1914,
+   "pas": 1
+  },
+  {
+   "id": "guerre",
+   "nom": "La guerre du Bani-Volta",
+   "periode": "1915 à 1916",
+   "texte": "Le soulèvement contre le recrutement forcé, et sa répression.",
+   "court": "Bani-Volta",
+   "debut": 1915,
+   "fin": 1916,
+   "pas": 1
+  },
+  {
+   "id": "aujourdhui",
+   "nom": "Aujourd'hui",
+   "periode": "de nos jours",
+   "texte": "Ce qu'il reste : des ruines, des peintures, des rites toujours vivants.",
+   "court": "Aujourd'hui"
+  }
+ ],
+ "lieux": {
+  "gambaga": {
+   "nom": "Gambaga",
+   "coords": [
+    10.53,
+    -0.44
+   ],
+   "note": "Ghana actuel"
+  },
+  "foret-riale": {
+   "nom": "La forêt de Rialé",
+   "coords": [
+    11.9,
+    -0.6
+   ],
+   "approx": true
+  },
+  "gold-coast": {
+   "nom": "Vers la Gold Coast",
+   "coords": [
+    9.4,
+    -0.85
+   ],
+   "note": "Ghana actuel"
+  },
+  "dafra": {
+   "nom": "Dafra, source du Houet",
+   "coords": [
+    11.03,
+    -4.24
+   ],
+   "approx": true
+  },
+  "macina": {
+   "nom": "Le Macina",
+   "coords": [
+    14.3,
+    -5.0
+   ],
+   "note": "Mali actuel"
+  },
+  "datomon": {
+   "nom": "Datomon",
+   "coords": [
+    12.5,
+    -3.55
+   ],
+   "approx": true
+  },
+  "kong": {
+   "nom": "Kong",
+   "coords": [
+    9.15,
+    -4.61
+   ],
+   "note": "Côte d'Ivoire actuelle"
+  },
+  "route-bobo": {
+   "nom": "La route de Kong à Bobo",
+   "coords": [
+    10.2,
+    -4.5
+   ],
+   "approx": true
+  },
+  "pays-en-haut": {
+   "nom": "Le pays d'en haut",
+   "note": "lieu du récit, hors de toute carte"
+  },
+  "garango": {
+   "nom": "Garango",
+   "coords": [
+    11.8,
+    -0.55
+   ]
+  },
+  "ciel-wuro": {
+   "nom": "Le ciel de Wuro",
+   "note": "lieu du récit, hors de toute carte"
+  },
+  "ciel-jaba": {
+   "nom": "Le ciel",
+   "note": "lieu du récit, hors de toute carte"
+  }
+ },
+ "recits": {
+  "yennenga": [
+   {
+    "noeud": "intro",
+    "lieu": "gambaga",
+    "epoque": "royaumes",
+    "titre": "La cour du roi Nedega"
+   },
+   {
+    "noeud": "nuit1",
+    "lieu": "gambaga",
+    "epoque": "royaumes",
+    "titre": "La nuit de la décision"
+   },
+   {
+    "noeud": "fuite",
+    "lieu": "gambaga",
+    "epoque": "royaumes",
+    "titre": "La fuite vers le nord"
+   },
+   {
+    "noeud": "foret1",
+    "lieu": "foret-riale",
+    "epoque": "royaumes",
+    "titre": "La case de Rialé"
+   },
+   {
+    "noeud": "fin1",
+    "lieu": "tenkodogo",
+    "epoque": "royaumes",
+    "titre": "La naissance d'Ouédraogo"
+   }
+  ],
+  "lievre-hyene": [
+   {
+    "noeud": "intro",
+    "lieu": "ouagadougou",
+    "epoque": "autrefois",
+    "titre": "La brousse"
+   },
+   {
+    "noeud": "choix2",
+    "lieu": "ouagadougou",
+    "epoque": "autrefois",
+    "titre": "Le champ partagé"
+   },
+   {
+    "noeud": "marche1",
+    "lieu": "ouagadougou",
+    "epoque": "autrefois",
+    "titre": "Le marché"
+   },
+   {
+    "noeud": "nuit1",
+    "lieu": "ouagadougou",
+    "epoque": "autrefois",
+    "titre": "Le chemin de nuit"
+   },
+   {
+    "noeud": "malice",
+    "lieu": "ouagadougou",
+    "epoque": "autrefois",
+    "titre": "Le retour au village"
+   }
+  ],
+  "naaba-wobgo": [
+   {
+    "noeud": "n1",
+    "lieu": "ouagadougou",
+    "epoque": "xixe",
+    "titre": "La cour de Naaba Wobgo"
+   },
+   {
+    "noeud": "colonne",
+    "lieu": "ouagadougou",
+    "epoque": "conquete",
+    "titre": "1896 : la colonne Voulet-Chanoine",
+    "annee": 1896
+   },
+   {
+    "noeud": "ville",
+    "lieu": "ouagadougou",
+    "epoque": "conquete",
+    "titre": "Le souverain déposé"
+   },
+   {
+    "noeud": "suivre",
+    "lieu": "gold-coast",
+    "epoque": "conquete",
+    "titre": "Le chemin de l'exil"
+   }
+  ],
+  "tiefo-amoro": [
+   {
+    "noeud": "n1",
+    "lieu": "noumoudara",
+    "epoque": "xixe",
+    "titre": "Noumoudara, centre des Tiéfo"
+   },
+   {
+    "noeud": "n3",
+    "lieu": "noumoudara",
+    "epoque": "conquete",
+    "titre": "1897 : Samory approche",
+    "annee": 1897
+   },
+   {
+    "noeud": "n6",
+    "lieu": "noumoudara",
+    "epoque": "conquete",
+    "titre": "Le siège"
+   },
+   {
+    "noeud": "n8",
+    "lieu": "noumoudara",
+    "epoque": "conquete",
+    "titre": "La fin de Tiéfo Amoro"
+   }
+  ],
+  "silures-dafra": [
+   {
+    "noeud": "n1",
+    "lieu": "dafra",
+    "epoque": "origines",
+    "titre": "Le temps des fondateurs"
+   },
+   {
+    "noeud": "n6",
+    "lieu": "dafra",
+    "epoque": "autrefois",
+    "titre": "Le pêcheur étranger"
+   },
+   {
+    "noeud": "n15",
+    "lieu": "dafra",
+    "epoque": "aujourdhui",
+    "titre": "Une ville protège ses silures"
+   }
+  ],
+  "kinkirsi": [
+   {
+    "noeud": "n1",
+    "lieu": "kaya",
+    "epoque": "autrefois",
+    "titre": "Au village"
+   },
+   {
+    "noeud": "route",
+    "lieu": "kaya",
+    "epoque": "autrefois",
+    "titre": "La route de nuit"
+   },
+   {
+    "noeud": "jumeaux",
+    "lieu": "kaya",
+    "epoque": "autrefois",
+    "titre": "Le retour au village"
+   }
+  ],
+  "bilissi": [
+   {
+    "noeud": "n1",
+    "lieu": "macina",
+    "epoque": "autrefois",
+    "titre": "Les troupeaux du Macina"
+   },
+   {
+    "noeud": "n5",
+    "lieu": "macina",
+    "epoque": "autrefois",
+    "titre": "La nuit du festin"
+   },
+   {
+    "noeud": "n13",
+    "lieu": "macina",
+    "epoque": "autrefois",
+    "titre": "Le tyran ridiculisé"
+   }
+  ],
+  "thila-bateba": [
+   {
+    "noeud": "n1",
+    "lieu": "gaoua",
+    "epoque": "autrefois",
+    "titre": "La soukala de Kambiré"
+   },
+   {
+    "noeud": "n7",
+    "lieu": "gaoua",
+    "epoque": "autrefois",
+    "titre": "La parole du devin"
+   },
+   {
+    "noeud": "salue",
+    "lieu": "gaoua",
+    "epoque": "autrefois",
+    "titre": "La nuit du serpent"
+   },
+   {
+    "noeud": "n10",
+    "lieu": "gaoua",
+    "epoque": "autrefois",
+    "titre": "Le matin"
+   }
+  ],
+  "wuro-masque": [
+   {
+    "noeud": "n1",
+    "lieu": "ciel-wuro",
+    "epoque": "origines",
+    "titre": "Au commencement"
+   },
+   {
+    "noeud": "feu",
+    "lieu": "pays-bobo",
+    "epoque": "origines",
+    "titre": "La première houe"
+   },
+   {
+    "noeud": "n8",
+    "lieu": "pays-bobo",
+    "epoque": "origines",
+    "titre": "Le bois sacré"
+   },
+   {
+    "noeud": "n10",
+    "lieu": "pays-bobo",
+    "epoque": "origines",
+    "titre": "La sortie de Dwo"
+   }
+  ],
+  "wuro-pilon": [
+   {
+    "noeud": "n1",
+    "lieu": "pays-bwa",
+    "epoque": "origines",
+    "titre": "Quand le ciel touchait les toits"
+   },
+   {
+    "noeud": "n7",
+    "lieu": "pays-bwa",
+    "epoque": "origines",
+    "titre": "Le monde déréglé"
+   },
+   {
+    "noeud": "priere",
+    "lieu": "ciel-wuro",
+    "epoque": "origines",
+    "titre": "Wuro entend"
+   },
+   {
+    "noeud": "n12",
+    "lieu": "pays-bwa",
+    "epoque": "origines",
+    "titre": "Les remèdes de la brousse"
+   },
+   {
+    "noeud": "dwo",
+    "lieu": "pays-bwa",
+    "epoque": "origines",
+    "titre": "Le masque de feuilles"
+   }
+  ],
+  "gazelle": [
+   {
+    "noeud": "n1",
+    "lieu": "solenzo",
+    "epoque": "autrefois",
+    "titre": "La mare"
+   },
+   {
+    "noeud": "n5",
+    "lieu": "solenzo",
+    "epoque": "autrefois",
+    "titre": "La ligne de départ"
+   },
+   {
+    "noeud": "n9",
+    "lieu": "solenzo",
+    "epoque": "autrefois",
+    "titre": "Le repos à la mare"
+   },
+   {
+    "noeud": "n11",
+    "lieu": "solenzo",
+    "epoque": "autrefois",
+    "titre": "La ligne d'arrivée"
+   }
+  ],
+  "tenin-1915": [
+   {
+    "noeud": "n1",
+    "lieu": "pays-bwa",
+    "epoque": "guerre",
+    "titre": "1915, au village",
+    "annee": 1915
+   },
+   {
+    "noeud": "chantier",
+    "lieu": "pays-bwa",
+    "epoque": "guerre",
+    "titre": "Le chantier de la route"
+   },
+   {
+    "noeud": "n11",
+    "lieu": "pays-bwa",
+    "epoque": "guerre",
+    "titre": "La veillée"
+   },
+   {
+    "noeud": "n15",
+    "lieu": "pays-bwa",
+    "epoque": "guerre",
+    "titre": "Novembre 1915",
+    "annee": 1915
+   },
+   {
+    "noeud": "n17",
+    "lieu": "pays-bwa",
+    "epoque": "guerre",
+    "titre": "Celle qui a dit non"
+   }
+  ],
+  "bona-1915": [
+   {
+    "noeud": "n1",
+    "lieu": "datomon",
+    "epoque": "guerre",
+    "titre": "1915 à Datomon",
+    "annee": 1915
+   },
+   {
+    "noeud": "recrut",
+    "lieu": "datomon",
+    "epoque": "guerre",
+    "titre": "Le recrutement"
+   },
+   {
+    "noeud": "n6",
+    "lieu": "bona",
+    "epoque": "guerre",
+    "titre": "Le serment de Bona"
+   },
+   {
+    "noeud": "n9",
+    "lieu": "bona",
+    "epoque": "guerre",
+    "titre": "17 novembre 1915",
+    "annee": 1915
+   },
+   {
+    "noeud": "n11",
+    "lieu": "bona",
+    "epoque": "guerre",
+    "titre": "1916 : les ruines",
+    "annee": 1916
+   }
+  ],
+  "pics-sindou": [
+   {
+    "noeud": "n1",
+    "lieu": "sindou",
+    "epoque": "autrefois",
+    "titre": "Le village d'avant"
+   },
+   {
+    "noeud": "n4",
+    "lieu": "sindou",
+    "epoque": "autrefois",
+    "titre": "La fuite"
+   },
+   {
+    "noeud": "n5",
+    "lieu": "sindou",
+    "epoque": "autrefois",
+    "titre": "Les longues nuits"
+   },
+   {
+    "noeud": "n6",
+    "lieu": "sindou",
+    "epoque": "autrefois",
+    "titre": "Au pied des pics"
+   }
+  ],
+  "tene-balafon": [
+   {
+    "noeud": "n1",
+    "lieu": "orodara",
+    "epoque": "autrefois",
+    "titre": "Le balafon de Ziè"
+   },
+   {
+    "noeud": "n3",
+    "lieu": "orodara",
+    "epoque": "autrefois",
+    "titre": "La disparition"
+   },
+   {
+    "noeud": "n7",
+    "lieu": "orodara",
+    "epoque": "autrefois",
+    "titre": "La clairière des génies"
+   },
+   {
+    "noeud": "n10",
+    "lieu": "orodara",
+    "epoque": "autrefois",
+    "titre": "La fête des récoltes"
+   }
+  ],
+  "dyoro": [
+   {
+    "noeud": "n1",
+    "lieu": "volta-noire",
+    "epoque": "autrefois",
+    "titre": "La rive est"
+   },
+   {
+    "noeud": "n3",
+    "lieu": "volta-noire",
+    "epoque": "autrefois",
+    "titre": "La traversée"
+   },
+   {
+    "noeud": "n7",
+    "lieu": "volta-noire",
+    "epoque": "aujourdhui",
+    "titre": "Bien des générations plus tard"
+   }
+  ],
+  "loropeni": [
+   {
+    "noeud": "n1",
+    "lieu": "loropeni",
+    "epoque": "aujourdhui",
+    "titre": "Les murs dans la brousse"
+   },
+   {
+    "noeud": "n2",
+    "lieu": "loropeni",
+    "epoque": "royaumes",
+    "titre": "La forteresse relevée"
+   },
+   {
+    "noeud": "or",
+    "lieu": "loropeni",
+    "epoque": "royaumes",
+    "titre": "L'or du gravier"
+   },
+   {
+    "noeud": "echange",
+    "lieu": "loropeni",
+    "epoque": "royaumes",
+    "titre": "Les marchands"
+   },
+   {
+    "noeud": "abandon",
+    "lieu": "loropeni",
+    "epoque": "aujourdhui",
+    "titre": "L'abandon, puis 2009"
+   }
+  ],
+  "obire": [
+   {
+    "noeud": "n1",
+    "lieu": "obire",
+    "epoque": "royaumes",
+    "titre": "La cour du vieux roi"
+   },
+   {
+    "noeud": "n7",
+    "lieu": "obire",
+    "epoque": "royaumes",
+    "titre": "Le chemin des tombeaux"
+   },
+   {
+    "noeud": "attend",
+    "lieu": "obire",
+    "epoque": "royaumes",
+    "titre": "L'intronisation"
+   }
+  ],
+  "zenuo": [
+   {
+    "noeud": "n1",
+    "lieu": "pays-dagara",
+    "epoque": "autrefois",
+    "titre": "Le village divisé"
+   },
+   {
+    "noeud": "partir",
+    "lieu": "pays-dagara",
+    "epoque": "autrefois",
+    "titre": "Le départ"
+   },
+   {
+    "noeud": "n4",
+    "lieu": "volta-noire",
+    "epoque": "autrefois",
+    "titre": "La Volta noire"
+   },
+   {
+    "noeud": "pirogue",
+    "lieu": "pays-dagara",
+    "epoque": "autrefois",
+    "titre": "L'autre rive"
+   },
+   {
+    "noeud": "n7",
+    "lieu": "pays-dagara",
+    "epoque": "autrefois",
+    "titre": "Le premier champ"
+   }
+  ],
+  "gyil": [
+   {
+    "noeud": "n1",
+    "lieu": "dano",
+    "epoque": "autrefois",
+    "titre": "Les fêtes tristes"
+   },
+   {
+    "noeud": "n2",
+    "lieu": "dano",
+    "epoque": "autrefois",
+    "titre": "La musique des kontomblé"
+   },
+   {
+    "noeud": "n10",
+    "lieu": "dano",
+    "epoque": "autrefois",
+    "titre": "Le retour de Bayuo"
+   },
+   {
+    "noeud": "partage",
+    "lieu": "dano",
+    "epoque": "autrefois",
+    "titre": "Le premier gyil"
+   }
+  ],
+  "guimbi": [
+   {
+    "noeud": "n1",
+    "lieu": "bobo-dioulasso",
+    "epoque": "xixe",
+    "titre": "Sya, à la fin du XIXe siècle"
+   },
+   {
+    "noeud": "bon",
+    "lieu": "bobo-dioulasso",
+    "epoque": "xixe",
+    "titre": "Le voyageur reçu"
+   },
+   {
+    "noeud": "n6",
+    "lieu": "bobo-dioulasso",
+    "epoque": "xixe",
+    "titre": "Tiéba exige la soumission"
+   },
+   {
+    "noeud": "bilan",
+    "lieu": "bobo-dioulasso",
+    "epoque": "xixe",
+    "titre": "La mémoire de Guimbi"
+   }
+  ],
+  "famagan": [
+   {
+    "noeud": "n1",
+    "lieu": "kong",
+    "epoque": "royaumes",
+    "titre": "Kong, au XVIIIe siècle"
+   },
+   {
+    "noeud": "n3",
+    "lieu": "route-bobo",
+    "epoque": "royaumes",
+    "titre": "La route du nord-ouest"
+   },
+   {
+    "noeud": "n4",
+    "lieu": "bobo-dioulasso",
+    "epoque": "royaumes",
+    "titre": "La région de Bobo"
+   },
+   {
+    "noeud": "n8",
+    "lieu": "bobo-dioulasso",
+    "epoque": "royaumes",
+    "titre": "Le chef rival"
+   },
+   {
+    "noeud": "n12",
+    "lieu": "bobo-dioulasso",
+    "epoque": "royaumes",
+    "titre": "Le grand marché"
+   }
+  ],
+  "landolo": [
+   {
+    "noeud": "n1",
+    "lieu": "tougan",
+    "epoque": "autrefois",
+    "titre": "Le grand caïlcédrat"
+   },
+   {
+    "noeud": "n3",
+    "lieu": "tougan",
+    "epoque": "autrefois",
+    "titre": "La branche qui s'abaisse"
+   },
+   {
+    "noeud": "n5",
+    "lieu": "tougan",
+    "epoque": "autrefois",
+    "titre": "La marâtre espionne"
+   },
+   {
+    "noeud": "n9",
+    "lieu": "tougan",
+    "epoque": "autrefois",
+    "titre": "Le pardon"
+   }
+  ],
+  "rakire": [
+   {
+    "noeud": "n1",
+    "lieu": "pays-samo",
+    "epoque": "autrefois",
+    "titre": "Les cavaliers mossi"
+   },
+   {
+    "noeud": "n4",
+    "lieu": "pays-samo",
+    "epoque": "autrefois",
+    "titre": "La nuit des blessés"
+   },
+   {
+    "noeud": "n5",
+    "lieu": "pays-samo",
+    "epoque": "autrefois",
+    "titre": "Trop de sang"
+   },
+   {
+    "noeud": "n8",
+    "lieu": "pays-samo",
+    "epoque": "autrefois",
+    "titre": "Le marché, bien plus tard"
+   }
+  ],
+  "vur": [
+   {
+    "noeud": "n1",
+    "lieu": "reo",
+    "epoque": "autrefois",
+    "titre": "Le grenier d'Ebéyé"
+   },
+   {
+    "noeud": "n2",
+    "lieu": "reo",
+    "epoque": "autrefois",
+    "titre": "Le village s'assemble"
+   },
+   {
+    "noeud": "n10",
+    "lieu": "reo",
+    "epoque": "autrefois",
+    "titre": "L'aveu"
+   }
+  ],
+  "ancetre-ciel": [
+   {
+    "noeud": "n1",
+    "lieu": "pays-en-haut",
+    "epoque": "origines",
+    "titre": "Le trou dans les nuages"
+   },
+   {
+    "noeud": "descend",
+    "lieu": "tiebele",
+    "epoque": "origines",
+    "titre": "La terre vide"
+   },
+   {
+    "noeud": "n4",
+    "lieu": "tiebele",
+    "epoque": "autrefois",
+    "titre": "Les premières peintures"
+   },
+   {
+    "noeud": "n6",
+    "lieu": "tiebele",
+    "epoque": "aujourdhui",
+    "titre": "Les murs de Tiébélé"
+   }
+  ],
+  "crocodile": [
+   {
+    "noeud": "n1",
+    "lieu": "po",
+    "epoque": "autrefois",
+    "titre": "La grande sécheresse"
+   },
+   {
+    "noeud": "n2",
+    "lieu": "po",
+    "epoque": "autrefois",
+    "titre": "Le crocodile"
+   },
+   {
+    "noeud": "n4",
+    "lieu": "po",
+    "epoque": "autrefois",
+    "titre": "L'eau"
+   },
+   {
+    "noeud": "serment",
+    "lieu": "po",
+    "epoque": "autrefois",
+    "titre": "Le serment"
+   }
+  ],
+  "babatou": [
+   {
+    "noeud": "n1",
+    "lieu": "leo",
+    "epoque": "xixe",
+    "titre": "Le village et les cavaliers zarma"
+   },
+   {
+    "noeud": "attaque",
+    "lieu": "leo",
+    "epoque": "xixe",
+    "titre": "La charge"
+   },
+   {
+    "noeud": "n8",
+    "lieu": "leo",
+    "epoque": "xixe",
+    "titre": "Le soir de la victoire"
+   },
+   {
+    "noeud": "unis",
+    "lieu": "leo",
+    "epoque": "xixe",
+    "titre": "L'alliance des villages"
+   }
+  ],
+  "lingani": [
+   {
+    "noeud": "n1",
+    "lieu": "garango",
+    "epoque": "autrefois",
+    "titre": "Le chef est mort"
+   },
+   {
+    "noeud": "elu",
+    "lieu": "tangare",
+    "epoque": "autrefois",
+    "titre": "La route de Tangaré"
+   },
+   {
+    "noeud": "dehors",
+    "lieu": "garango",
+    "epoque": "autrefois",
+    "titre": "Le couronnement"
+   }
+  ],
+  "jaba-lompo": [
+   {
+    "noeud": "n1",
+    "lieu": "ciel-jaba",
+    "epoque": "origines",
+    "titre": "Le cheval blanc"
+   },
+   {
+    "noeud": "n3",
+    "lieu": "fada",
+    "epoque": "royaumes",
+    "titre": "Le géant au village"
+   },
+   {
+    "noeud": "n8",
+    "lieu": "fada",
+    "epoque": "royaumes",
+    "titre": "Le bâton planté à Bingo"
+   },
+   {
+    "noeud": "fonder",
+    "lieu": "fada",
+    "epoque": "royaumes",
+    "titre": "Les fils et les royaumes"
+   }
+  ],
+  "maitres-terre": [
+   {
+    "noeud": "n1",
+    "lieu": "aribinda",
+    "epoque": "autrefois",
+    "titre": "Le maître de la terre"
+   },
+   {
+    "noeud": "n4",
+    "lieu": "aribinda",
+    "epoque": "autrefois",
+    "titre": "La terre refuse"
+   },
+   {
+    "noeud": "voir",
+    "lieu": "aribinda",
+    "epoque": "autrefois",
+    "titre": "La visite au vieux père"
+   }
+  ],
+  "silamaka": [
+   {
+    "noeud": "n1",
+    "lieu": "sahel-peul",
+    "epoque": "autrefois",
+    "titre": "L'enfant et le serpent"
+   },
+   {
+    "noeud": "n3",
+    "lieu": "sahel-peul",
+    "epoque": "autrefois",
+    "titre": "Le tribut de Ségou"
+   },
+   {
+    "noeud": "n8",
+    "lieu": "sahel-peul",
+    "epoque": "autrefois",
+    "titre": "La charge"
+   },
+   {
+    "noeud": "n9",
+    "lieu": "sahel-peul",
+    "epoque": "autrefois",
+    "titre": "Le serpent surgit"
+   }
+  ],
+  "liptako": [
+   {
+    "noeud": "n1",
+    "lieu": "dori",
+    "epoque": "xixe",
+    "titre": "Deux mondes à Dori"
+   },
+   {
+    "noeud": "n2",
+    "lieu": "dori",
+    "epoque": "xixe",
+    "titre": "Le troupeau dans le champ"
+   },
+   {
+    "noeud": "suite",
+    "lieu": "dori",
+    "epoque": "xixe",
+    "titre": "La bête saisie"
+   },
+   {
+    "noeud": "n9",
+    "lieu": "dori",
+    "epoque": "xixe",
+    "titre": "La bénédiction"
+   },
+   {
+    "noeud": "n11",
+    "lieu": "dori",
+    "epoque": "xixe",
+    "titre": "La bataille"
+   },
+   {
+    "noeud": "n14",
+    "lieu": "dori",
+    "epoque": "xixe",
+    "titre": "L'émirat du Liptako"
+   }
+  ],
+  "crapaud": [
+   {
+    "noeud": "n1",
+    "lieu": "oudalan",
+    "epoque": "autrefois",
+    "titre": "La mare"
+   },
+   {
+    "noeud": "n4",
+    "lieu": "oudalan",
+    "epoque": "autrefois",
+    "titre": "L'annonce du concours"
+   },
+   {
+    "noeud": "n7",
+    "lieu": "oudalan",
+    "epoque": "autrefois",
+    "titre": "L'araignée"
+   },
+   {
+    "noeud": "toile",
+    "lieu": "oudalan",
+    "epoque": "autrefois",
+    "titre": "Le jour du concours"
+   },
+   {
+    "noeud": "n12",
+    "lieu": "oudalan",
+    "epoque": "autrefois",
+    "titre": "Le chant de nuit"
+   }
+  ]
+ }
+}

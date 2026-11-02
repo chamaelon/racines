@@ -1,0 +1,352 @@
+# Famagan et le Gwiriko : fiches des bandes-son
+# Généré par « npm run bandes-son » depuis pistes.json. Modifier pistes.json, pas ce fichier.
+
+piste: n1
+histoire: Famagan et le Gwiriko
+partie: Kong, au XVIIIe siècle (jeu)
+personnage: Le griot
+fichier: famagan-n1-<langue>.m4a
+intonation: joyeux (proposée)
+texte: Au dix-huitième siècle, Kong est une grande ville de commerce, et de guerre aussi. Famagan Ouattara y dirige des cavaliers.
+genre: adulte/homme
+duree: 8500ms (estimée)
+
+piste: n2
+histoire: Famagan et le Gwiriko
+partie: Kong, au XVIIIe siècle (jeu)
+personnage: Le griot
+fichier: famagan-n2-<langue>.m4a
+intonation: joyeux (proposée)
+texte: Un jour, il mène sa troupe vers le nord-ouest. La route est longue.
+genre: adulte/homme
+duree: 5690ms (estimée)
+
+piste: n4
+histoire: Famagan et le Gwiriko
+partie: La région de Bobo (jeu)
+personnage: Le griot
+fichier: famagan-n4-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Les voici dans la région de Bobo. Ici, la terre a déjà ses maîtres. Toi, tu observes Famagan. Sur quoi portes-tu ton attention ?
+genre: adulte/homme
+duree: 10620ms (estimée)
+
+piste: cavaliers
+histoire: Famagan et le Gwiriko
+partie: La région de Bobo (jeu)
+personnage: Le griot
+fichier: famagan-cavaliers-<langue>.m4a
+intonation: posé (proposée)
+texte: Ils restent à distance, en armes, et ils se taisent. Chacun comprend que l'on parle aussi avec cela. Mais écoute.
+genre: adulte/homme
+duree: 8800ms (estimée)
+
+piste: parole
+histoire: Famagan et le Gwiriko
+partie: La région de Bobo (jeu)
+personnage: Famagan Ouattara
+fichier: famagan-parole-<langue>.m4a
+intonation: posé (proposée)
+texte: Je viens te saluer, gardien de cette terre.
+genre: adulte/homme
+duree: 3490ms (estimée)
+
+piste: n5
+histoire: Famagan et le Gwiriko
+partie: La région de Bobo (jeu)
+personnage: Le chef de la terre
+fichier: famagan-n5-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Tu viens en ami, ou en maître ?
+genre: âgé/homme
+duree: 3490ms (estimée)
+
+piste: n6
+histoire: Famagan et le Gwiriko
+partie: La région de Bobo (jeu)
+personnage: Famagan Ouattara
+fichier: famagan-n6-<langue>.m4a
+intonation: posé (proposée)
+texte: En allié.
+genre: adulte/homme
+duree: 1060ms (estimée)
+
+piste: n7
+histoire: Famagan et le Gwiriko
+partie: La région de Bobo (jeu)
+personnage: Le griot
+fichier: famagan-n7-<langue>.m4a
+intonation: posé (proposée)
+texte: Le sabre est échangé contre la bénédiction de la terre. Une alliance est conclue. Mais tous n'acceptent pas.
+genre: adulte/homme
+duree: 7740ms (estimée)
+
+piste: n8
+histoire: Famagan et le Gwiriko
+partie: Le chef rival (jeu)
+personnage: Le griot
+fichier: famagan-n8-<langue>.m4a
+intonation: posé (proposée)
+texte: Un chef rival prend les armes. La charge est rude, et le combat dure.
+genre: adulte/homme
+duree: 6070ms (estimée)
+
+piste: n9
+histoire: Famagan et le Gwiriko
+partie: Le chef rival (jeu)
+personnage: Le rival
+fichier: famagan-n9-<langue>.m4a
+intonation: posé (proposée)
+texte: Je me rends.
+genre: adulte/homme
+duree: 1440ms (estimée)
+
+piste: n10
+histoire: Famagan et le Gwiriko
+partie: Le chef rival (jeu)
+personnage: Le griot
+fichier: famagan-n10-<langue>.m4a
+intonation: posé (proposée)
+texte: Le rival dépose ses armes. Un royaume naît autour de Bobo. Regarde ce qu'on annonce au tambour.
+genre: adulte/homme
+duree: 7360ms (estimée)
+
+piste: n11
+histoire: Famagan et le Gwiriko
+partie: Le chef rival (jeu)
+personnage: Famagan Ouattara
+fichier: famagan-n11-<langue>.m4a
+intonation: posé (proposée)
+texte: Ce pays sera en paix, et ses routes ouvertes.
+genre: adulte/homme
+duree: 3870ms (estimée)
+
+piste: n12
+histoire: Famagan et le Gwiriko
+partie: Le grand marché (jeu)
+personnage: Le griot
+fichier: famagan-n12-<langue>.m4a
+intonation: joyeux (proposée)
+texte: Le grand marché s'anime : la cola, les étoffes et le sel passent de main en main.
+genre: adulte/homme
+duree: 7060ms (estimée)
+
+piste: relire
+histoire: Famagan et le Gwiriko
+partie: Le grand marché (jeu)
+personnage: La griotte
+fichier: famagan-relire-<langue>.m4a
+intonation: posé (proposée)
+texte: Tu as bien chevauché, mais tu as mal écouté. Reprends la route avec moi.
+genre: adulte/femme
+duree: 6070ms (estimée)
+
+piste: bien
+histoire: Famagan et le Gwiriko
+partie: Le grand marché (jeu)
+personnage: Le griot
+fichier: famagan-bien-<langue>.m4a
+intonation: joyeux (proposée)
+texte: Aujourd'hui encore, les Ouattara de Bobo-Dioulasso se souviennent de cette histoire. Les royaumes naissent de rencontres, et de conquêtes.
+genre: adulte/homme
+duree: 8120ms (estimée)
+
+piste: film-001
+histoire: Famagan et le Gwiriko
+partie: Film d'animation, de 00:02.0 à 00:08.1
+personnage: Narrateur
+fichier: famagan-film-001-<langue>.m4a
+intonation: sobre (scénario)
+texte: Famagan et le Gwiriko. Un récit historique, simplifié pour l'image.
+genre: adulte/libre
+duree: 6100ms (mesurée sur le film)
+
+piste: film-002
+histoire: Famagan et le Gwiriko
+partie: Film d'animation, de 00:09.0 à 00:14.2
+personnage: Narrateur
+fichier: famagan-film-002-<langue>.m4a
+intonation: posé (proposée)
+texte: Au dix-huitième siècle, Kong est une grande ville de commerce, et de guerre aussi.
+genre: adulte/libre
+duree: 5200ms (mesurée sur le film)
+
+piste: film-003
+histoire: Famagan et le Gwiriko
+partie: Film d'animation, de 00:28.0 à 00:31.3
+personnage: Narrateur
+fichier: famagan-film-003-<langue>.m4a
+intonation: posé (proposée)
+texte: Famagan Ouattara y dirige des cavaliers.
+genre: adulte/libre
+duree: 3300ms (mesurée sur le film)
+
+piste: film-004
+histoire: Famagan et le Gwiriko
+partie: Film d'animation, de 00:38.0 à 00:42.8
+personnage: Narrateur
+fichier: famagan-film-004-<langue>.m4a
+intonation: posé (proposée)
+texte: Il les entraîne à charger, à faire demi-tour, à saluer du sabre.
+genre: adulte/libre
+duree: 4800ms (mesurée sur le film)
+
+piste: film-005
+histoire: Famagan et le Gwiriko
+partie: Film d'animation, de 01:03.0 à 01:08.5
+personnage: Narrateur
+fichier: famagan-film-005-<langue>.m4a
+intonation: posé (proposée)
+texte: Un jour, il mène sa troupe vers le nord-ouest. La route est longue.
+genre: adulte/libre
+duree: 5500ms (mesurée sur le film)
+
+piste: film-006
+histoire: Famagan et le Gwiriko
+partie: Film d'animation, de 01:14.0 à 01:17.7
+personnage: Narrateur
+fichier: famagan-film-006-<langue>.m4a
+intonation: posé (proposée)
+texte: Ils passent les plaines et les rivières, sans s'arrêter.
+genre: adulte/libre
+duree: 3700ms (mesurée sur le film)
+
+piste: film-007
+histoire: Famagan et le Gwiriko
+partie: Film d'animation, de 01:33.0 à 01:38.9
+personnage: Narrateur
+fichier: famagan-film-007-<langue>.m4a
+intonation: posé (proposée)
+texte: Les voici dans la région de Bobo. Ici, la terre a déjà ses maîtres.
+genre: adulte/libre
+duree: 5900ms (mesurée sur le film)
+
+piste: film-008
+histoire: Famagan et le Gwiriko
+partie: Film d'animation, de 01:43.5 à 01:46.5
+personnage: FAMAGAN
+fichier: famagan-film-008-<langue>.m4a
+intonation: respectueux (scénario)
+texte: Je viens te saluer, gardien de cette terre.
+genre: adulte/homme
+duree: 3000ms (mesurée sur le film)
+
+piste: film-009
+histoire: Famagan et le Gwiriko
+partie: Film d'animation, de 01:46.5 à 01:49.3
+personnage: CHEF
+fichier: famagan-film-009-<langue>.m4a
+intonation: prudent (scénario)
+texte: Tu viens en ami, ou en maître ?
+genre: âgé/libre
+duree: 2800ms (mesurée sur le film)
+
+piste: film-010
+histoire: Famagan et le Gwiriko
+partie: Film d'animation, de 01:49.5 à 01:51.6
+personnage: FAMAGAN
+fichier: famagan-film-010-<langue>.m4a
+intonation: sincère (scénario)
+texte: En allié.
+genre: adulte/homme
+duree: 2100ms (mesurée sur le film)
+
+piste: film-011
+histoire: Famagan et le Gwiriko
+partie: Film d'animation, de 01:54.0 à 01:59.9
+personnage: Narrateur
+fichier: famagan-film-011-<langue>.m4a
+intonation: posé (proposée)
+texte: Le sabre est échangé contre la bénédiction de la terre. Une alliance est conclue.
+genre: adulte/libre
+duree: 5900ms (mesurée sur le film)
+
+piste: film-012
+histoire: Famagan et le Gwiriko
+partie: Film d'animation, de 02:11.0 à 02:16.0
+personnage: Narrateur
+fichier: famagan-film-012-<langue>.m4a
+intonation: tendu (scénario)
+texte: Mais tous n'acceptent pas. Un chef rival prend les armes.
+genre: adulte/libre
+duree: 5000ms (mesurée sur le film)
+
+piste: film-013
+histoire: Famagan et le Gwiriko
+partie: Film d'animation, de 02:19.0 à 02:22.2
+personnage: Narrateur
+fichier: famagan-film-013-<langue>.m4a
+intonation: posé (proposée)
+texte: La charge est rude, et le combat dure.
+genre: adulte/libre
+duree: 3200ms (mesurée sur le film)
+
+piste: film-014
+histoire: Famagan et le Gwiriko
+partie: Film d'animation, de 02:31.0 à 02:33.1
+personnage: RIVAL
+fichier: famagan-film-014-<langue>.m4a
+intonation: vaincu (scénario)
+texte: Je me rends.
+genre: adulte/homme
+duree: 2100ms (mesurée sur le film)
+
+piste: film-015
+histoire: Famagan et le Gwiriko
+partie: Film d'animation, de 02:34.0 à 02:39.4
+personnage: Narrateur
+fichier: famagan-film-015-<langue>.m4a
+intonation: posé (proposée)
+texte: Le rival dépose ses armes. Plus personne ne s'oppose à Famagan.
+genre: adulte/libre
+duree: 5400ms (mesurée sur le film)
+
+piste: film-016
+histoire: Famagan et le Gwiriko
+partie: Film d'animation, de 02:55.0 à 02:58.6
+personnage: Narrateur
+fichier: famagan-film-016-<langue>.m4a
+intonation: posé (proposée)
+texte: Un royaume naît autour de Bobo : le Gwiriko.
+genre: adulte/libre
+duree: 3600ms (mesurée sur le film)
+
+piste: film-017
+histoire: Famagan et le Gwiriko
+partie: Film d'animation, de 03:01.0 à 03:04.5
+personnage: FAMAGAN
+fichier: famagan-film-017-<langue>.m4a
+intonation: solennel (scénario)
+texte: Ce pays sera en paix, et ses routes ouvertes.
+genre: adulte/homme
+duree: 3500ms (mesurée sur le film)
+
+piste: film-018
+histoire: Famagan et le Gwiriko
+partie: Film d'animation, de 03:10.0 à 03:15.0
+personnage: Narrateur
+fichier: famagan-film-018-<langue>.m4a
+intonation: posé (proposée)
+texte: Famagan est proclamé. La région entre dans une nouvelle ère.
+genre: adulte/libre
+duree: 5000ms (mesurée sur le film)
+
+piste: film-019
+histoire: Famagan et le Gwiriko
+partie: Film d'animation, de 03:31.0 à 03:36.3
+personnage: Narrateur
+fichier: famagan-film-019-<langue>.m4a
+intonation: joyeux (scénario)
+texte: Le grand marché s'anime : la cola, les étoffes et le sel passent de main en main.
+genre: adulte/libre
+duree: 5300ms (mesurée sur le film)
+
+piste: film-020
+histoire: Famagan et le Gwiriko
+partie: Film d'animation, de 04:02.0 à 04:07.6
+personnage: Narrateur
+fichier: famagan-film-020-<langue>.m4a
+intonation: doux (scénario)
+texte: Aujourd'hui encore, les Ouattara de Bobo-Dioulasso se souviennent de cette histoire.
+genre: adulte/libre
+duree: 5600ms (mesurée sur le film)

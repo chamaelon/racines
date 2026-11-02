@@ -1,0 +1,412 @@
+# La part de Bilissi : fiches des bandes-son
+# Généré par « npm run bandes-son » depuis pistes.json. Modifier pistes.json, pas ce fichier.
+
+piste: n1
+histoire: La part de Bilissi
+partie: Les troupeaux du Macina (jeu)
+personnage: Le griot
+fichier: bilissi-n1-<langue>.m4a
+intonation: posé (proposée)
+texte: Au Macina, autrefois, les troupeaux couvraient la plaine. Ce pays aurait pu être heureux, s'il n'avait pas eu Bilissi.
+genre: adulte/homme
+duree: 8270ms (estimée)
+
+piste: n2
+histoire: La part de Bilissi
+partie: Les troupeaux du Macina (jeu)
+personnage: Le garde
+fichier: bilissi-n2-<langue>.m4a
+intonation: posé (proposée)
+texte: La part la plus charnue revient à Bilissi. C'est sa loi.
+genre: adulte/homme
+duree: 4780ms (estimée)
+
+piste: n3
+histoire: La part de Bilissi
+partie: Les troupeaux du Macina (jeu)
+personnage: Le griot
+fichier: bilissi-n3-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Les gardes ne laissent presque rien aux familles. Hamadi regarde les enfants de son campement maigrir. Que fait-il ?
+genre: adulte/homme
+duree: 8120ms (estimée)
+
+piste: plainte
+histoire: La part de Bilissi
+partie: Les troupeaux du Macina (jeu)
+personnage: Le garde
+fichier: bilissi-plainte-<langue>.m4a
+intonation: posé (proposée)
+texte: Te plaindre ? Encore un mot, et ta bête aussi sera pour lui.
+genre: adulte/homme
+duree: 5690ms (estimée)
+
+piste: n4
+histoire: La part de Bilissi
+partie: Les troupeaux du Macina (jeu)
+personnage: Le griot
+fichier: bilissi-n4-<langue>.m4a
+intonation: posé (proposée)
+texte: La force ne l'aidera pas. Il faut autre chose.
+genre: adulte/homme
+duree: 4020ms (estimée)
+
+piste: ruse
+histoire: La part de Bilissi
+partie: Les troupeaux du Macina (jeu)
+personnage: Hamadi
+fichier: bilissi-ruse-<langue>.m4a
+intonation: posé (proposée)
+texte: Il aime la meilleure part ? Il va l'avoir.
+genre: jeune/homme
+duree: 4020ms (estimée)
+
+piste: n5
+histoire: La part de Bilissi
+partie: La nuit du festin (jeu)
+personnage: Le griot
+fichier: bilissi-n5-<langue>.m4a
+intonation: chuchoté (proposée)
+texte: Dans la nuit, ils préparent un morceau magnifique. Regarde ce qu'il y a dans la cour.
+genre: adulte/homme
+duree: 6830ms (estimée)
+
+piste: n6
+histoire: La part de Bilissi
+partie: La nuit du festin (jeu)
+personnage: Le griot
+fichier: bilissi-n6-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Avec quoi Hamadi remplit-il le morceau ?
+genre: adulte/homme
+duree: 2960ms (estimée)
+
+piste: cailloux
+histoire: La part de Bilissi
+partie: La nuit du festin (jeu)
+personnage: La femme
+fichier: bilissi-cailloux-<langue>.m4a
+intonation: chuchoté (proposée)
+texte: Des cailloux ? Il les sentira à la première bouchée, et il saura qui les a mis. Prends plutôt du piment, et couvre-le de beurre.
+genre: adulte/femme
+duree: 10700ms (estimée)
+
+piste: n7
+histoire: La part de Bilissi
+partie: La nuit du festin (jeu)
+personnage: Le griot
+fichier: bilissi-n7-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Veux-tu l'écouter ?
+genre: adulte/homme
+duree: 1440ms (estimée)
+
+piste: casse
+histoire: La part de Bilissi
+partie: La nuit du festin (jeu)
+personnage: Le griot
+fichier: bilissi-casse-<langue>.m4a
+intonation: posé (proposée)
+texte: Bilissi mord, crache une dent, et fait battre le campement. On ne rit pas. Le tyran reste, et désormais il fait goûter tout ce qu'on lui sert.
+genre: adulte/homme
+duree: 11610ms (estimée)
+
+piste: piment
+histoire: La part de Bilissi
+partie: La nuit du festin (jeu)
+personnage: La femme
+fichier: bilissi-piment-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Et s'il comprend ?
+genre: adulte/femme
+duree: 1820ms (estimée)
+
+piste: n8
+histoire: La part de Bilissi
+partie: La nuit du festin (jeu)
+personnage: Hamadi
+fichier: bilissi-n8-<langue>.m4a
+intonation: chuchoté (proposée)
+texte: Il ne regarde que la viande.
+genre: jeune/homme
+duree: 2580ms (estimée)
+
+piste: n9
+histoire: La part de Bilissi
+partie: La nuit du festin (jeu)
+personnage: Le griot
+fichier: bilissi-n9-<langue>.m4a
+intonation: posé (proposée)
+texte: Le jour du grand sacrifice, les tambours donnent la cadence du cortège. Hamadi doit avancer au rythme, les yeux baissés.
+genre: adulte/homme
+duree: 8500ms (estimée)
+
+piste: n11
+histoire: La part de Bilissi
+partie: La nuit du festin (jeu)
+personnage: Bilissi
+fichier: bilissi-n11-<langue>.m4a
+intonation: vif (proposée)
+texte: Donne ! C'est ma part !
+genre: adulte/homme
+duree: 2880ms (estimée)
+
+piste: n12
+histoire: La part de Bilissi
+partie: La nuit du festin (jeu)
+personnage: Le griot
+fichier: bilissi-n12-<langue>.m4a
+intonation: enlevé (proposée)
+texte: Bilissi l'engloutit d'un seul coup, sans même mâcher. Le piment ! Il devient rouge, il saute, il hurle. Et pour la première fois, tout le monde ose rire de lui.
+genre: adulte/homme
+duree: 13200ms (estimée)
+
+piste: n13
+histoire: La part de Bilissi
+partie: Le tyran ridiculisé (jeu)
+personnage: Le griot
+fichier: bilissi-n13-<langue>.m4a
+intonation: posé (proposée)
+texte: Un tyran dont on se moque ne fait plus peur. Bilissi, ridiculisé, quitte le pays, et on partage enfin la viande entre toutes les familles.
+genre: adulte/homme
+duree: 10550ms (estimée)
+
+piste: n14
+histoire: La part de Bilissi
+partie: Le tyran ridiculisé (jeu)
+personnage: Le griot
+fichier: bilissi-n14-<langue>.m4a
+intonation: posé (proposée)
+texte: Depuis, on dit : la part de Bilissi. C'est la part que prend un puissant, sans la mériter.
+genre: adulte/homme
+duree: 7890ms (estimée)
+
+piste: film-001
+histoire: La part de Bilissi
+partie: Film d'animation, de 00:02.0 à 00:06.2
+personnage: Narrateur
+fichier: bilissi-film-001-<langue>.m4a
+intonation: malicieux (scénario)
+texte: La part de Bilissi. Une légende peule.
+genre: adulte/libre
+duree: 4200ms (mesurée sur le film)
+
+piste: film-002
+histoire: La part de Bilissi
+partie: Film d'animation, de 00:09.0 à 00:13.3
+personnage: Narrateur
+fichier: bilissi-film-002-<langue>.m4a
+intonation: posé (proposée)
+texte: Au Macina, autrefois, les troupeaux couvraient la plaine.
+genre: adulte/libre
+duree: 4300ms (mesurée sur le film)
+
+piste: film-003
+histoire: La part de Bilissi
+partie: Film d'animation, de 00:18.0 à 00:22.1
+personnage: Narrateur
+fichier: bilissi-film-003-<langue>.m4a
+intonation: posé (proposée)
+texte: Ce pays aurait pu être heureux, s'il n'avait pas eu Bilissi.
+genre: adulte/libre
+duree: 4100ms (mesurée sur le film)
+
+piste: film-004
+histoire: La part de Bilissi
+partie: Film d'animation, de 00:29.0 à 00:35.9
+personnage: Narrateur
+fichier: bilissi-film-004-<langue>.m4a
+intonation: posé (proposée)
+texte: Bilissi était un tyran. Gros, content de lui, il se faisait servir toute la journée.
+genre: adulte/libre
+duree: 6900ms (mesurée sur le film)
+
+piste: film-005
+histoire: La part de Bilissi
+partie: Film d'animation, de 00:42.0 à 00:46.7
+personnage: Narrateur
+fichier: bilissi-film-005-<langue>.m4a
+intonation: ironique (scénario)
+texte: Il mangeait, il mangeait, et ensuite, il mangeait encore.
+genre: adulte/libre
+duree: 4700ms (mesurée sur le film)
+
+piste: film-006
+histoire: La part de Bilissi
+partie: Film d'animation, de 01:02.0 à 01:04.3
+personnage: Narrateur
+fichier: bilissi-film-006-<langue>.m4a
+intonation: posé (proposée)
+texte: Et il avait fait sa loi.
+genre: adulte/libre
+duree: 2300ms (mesurée sur le film)
+
+piste: film-007
+histoire: La part de Bilissi
+partie: Film d'animation, de 01:07.0 à 01:11.4
+personnage: Narrateur
+fichier: bilissi-film-007-<langue>.m4a
+intonation: grave (scénario)
+texte: Quand on sacrifiait une bête, la part la plus charnue lui revenait.
+genre: adulte/libre
+duree: 4400ms (mesurée sur le film)
+
+piste: film-008
+histoire: La part de Bilissi
+partie: Film d'animation, de 01:18.0 à 01:23.4
+personnage: Narrateur
+fichier: bilissi-film-008-<langue>.m4a
+intonation: posé (proposée)
+texte: Ses gardes passaient partout, et ils ne laissaient presque rien aux familles, qui avaient faim.
+genre: adulte/libre
+duree: 5400ms (mesurée sur le film)
+
+piste: film-009
+histoire: La part de Bilissi
+partie: Film d'animation, de 01:38.0 à 01:43.3
+personnage: Narrateur
+fichier: bilissi-film-009-<langue>.m4a
+intonation: posé (proposée)
+texte: Hamadi, un jeune berger, regardait les enfants de son campement maigrir.
+genre: adulte/libre
+duree: 5300ms (mesurée sur le film)
+
+piste: film-010
+histoire: La part de Bilissi
+partie: Film d'animation, de 01:49.0 à 01:51.8
+personnage: Narrateur
+fichier: bilissi-film-010-<langue>.m4a
+intonation: malicieux (scénario)
+texte: Et soudain, il eut une idée.
+genre: adulte/libre
+duree: 2800ms (mesurée sur le film)
+
+piste: film-011
+histoire: La part de Bilissi
+partie: Film d'animation, de 01:53.5 à 01:56.8
+personnage: HAMADI
+fichier: bilissi-film-011-<langue>.m4a
+intonation: malicieux (scénario)
+texte: Il aime la meilleure part ? Il va l'avoir.
+genre: adulte/homme
+duree: 3300ms (mesurée sur le film)
+
+piste: film-012
+histoire: La part de Bilissi
+partie: Film d'animation, de 02:08.0 à 02:13.4
+personnage: Narrateur
+fichier: bilissi-film-012-<langue>.m4a
+intonation: chuchoté (scénario)
+texte: Dans la nuit, ils préparèrent un morceau magnifique, et ils le remplirent de piment.
+genre: adulte/libre
+duree: 5400ms (mesurée sur le film)
+
+piste: film-013
+histoire: La part de Bilissi
+partie: Film d'animation, de 02:17.0 à 02:22.1
+personnage: Narrateur
+fichier: bilissi-film-013-<langue>.m4a
+intonation: posé (proposée)
+texte: Puis ils le couvrirent de beurre doré. Il paraissait encore plus beau.
+genre: adulte/libre
+duree: 5100ms (mesurée sur le film)
+
+piste: film-014
+histoire: La part de Bilissi
+partie: Film d'animation, de 02:25.0 à 02:26.9
+personnage: FEMME
+fichier: bilissi-film-014-<langue>.m4a
+intonation: effrayé (scénario)
+texte: Et s'il comprend ?
+genre: adulte/femme
+duree: 1900ms (mesurée sur le film)
+
+piste: film-015
+histoire: La part de Bilissi
+partie: Film d'animation, de 02:27.0 à 02:29.2
+personnage: HAMADI
+fichier: bilissi-film-015-<langue>.m4a
+intonation: sûr de lui (scénario)
+texte: Il ne regarde que la viande.
+genre: adulte/homme
+duree: 2200ms (mesurée sur le film)
+
+piste: film-016
+histoire: La part de Bilissi
+partie: Film d'animation, de 02:45.0 à 02:50.9
+personnage: Narrateur
+fichier: bilissi-film-016-<langue>.m4a
+intonation: posé (proposée)
+texte: Le jour du grand sacrifice, Hamadi présenta la part de Bilissi, les yeux baissés.
+genre: adulte/libre
+duree: 5900ms (mesurée sur le film)
+
+piste: film-017
+histoire: La part de Bilissi
+partie: Film d'animation, de 02:54.0 à 02:58.0
+personnage: Narrateur
+fichier: bilissi-film-017-<langue>.m4a
+intonation: ironique (scénario)
+texte: Bilissi l'engloutit d'un seul coup, sans même mâcher.
+genre: adulte/libre
+duree: 4000ms (mesurée sur le film)
+
+piste: film-018
+histoire: La part de Bilissi
+partie: Film d'animation, de 03:01.0 à 03:05.8
+personnage: Narrateur
+fichier: bilissi-film-018-<langue>.m4a
+intonation: enlevé (scénario)
+texte: Le piment ! Il devint rouge, il sauta, il hurla.
+genre: adulte/libre
+duree: 4800ms (mesurée sur le film)
+
+piste: film-019
+histoire: La part de Bilissi
+partie: Film d'animation, de 03:10.0 à 03:13.8
+personnage: Narrateur
+fichier: bilissi-film-019-<langue>.m4a
+intonation: joyeux (scénario)
+texte: Et pour la première fois, tout le monde osa rire de lui.
+genre: adulte/libre
+duree: 3800ms (mesurée sur le film)
+
+piste: film-020
+histoire: La part de Bilissi
+partie: Film d'animation, de 03:24.0 à 03:27.4
+personnage: Narrateur
+fichier: bilissi-film-020-<langue>.m4a
+intonation: posé (proposée)
+texte: Un tyran dont on se moque ne fait plus peur.
+genre: adulte/libre
+duree: 3400ms (mesurée sur le film)
+
+piste: film-021
+histoire: La part de Bilissi
+partie: Film d'animation, de 03:33.0 à 03:37.1
+personnage: Narrateur
+fichier: bilissi-film-021-<langue>.m4a
+intonation: posé (proposée)
+texte: Bilissi, ridiculisé, quitta le pays.
+genre: adulte/libre
+duree: 4100ms (mesurée sur le film)
+
+piste: film-022
+histoire: La part de Bilissi
+partie: Film d'animation, de 03:44.0 à 03:49.4
+personnage: Narrateur
+fichier: bilissi-film-022-<langue>.m4a
+intonation: joyeux (scénario)
+texte: Ce jour-là, on partagea enfin la viande comme il faut, entre toutes les familles.
+genre: adulte/libre
+duree: 5400ms (mesurée sur le film)
+
+piste: film-023
+histoire: La part de Bilissi
+partie: Film d'animation, de 04:02.0 à 04:09.3
+personnage: Narrateur
+fichier: bilissi-film-023-<langue>.m4a
+intonation: doux (scénario)
+texte: Depuis, on dit : la part de Bilissi. C'est la part que prend un puissant, sans la mériter.
+genre: adulte/libre
+duree: 7300ms (mesurée sur le film)

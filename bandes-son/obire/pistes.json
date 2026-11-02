@@ -1,0 +1,663 @@
+{
+ "id": "obire",
+ "titre": "Le royaume gan d'Obiré",
+ "peuple": "Gan",
+ "langues_cibles": [
+  "fr",
+  "gan"
+ ],
+ "pistes": [
+  {
+   "id": "titre",
+   "type": "titre",
+   "chemin": "titre",
+   "texte": "Le royaume gan d'Obiré"
+  },
+  {
+   "id": "presentation",
+   "type": "presentation",
+   "chemin": "presentation",
+   "texte": "À Obiré, le vieux roi s'éteint et le trône ne doit pas rester vide. Tu suis le jeune messager de la cour. Le jeu ne montre rien de la préparation secrète du roi, et tes choix ne changent pas l'histoire."
+  },
+  {
+   "id": "personnages.griot.nom",
+   "type": "personnage",
+   "chemin": "personnages.griot.nom",
+   "texte": "Le griot"
+  },
+  {
+   "id": "personnages.roi.nom",
+   "type": "personnage",
+   "chemin": "personnages.roi.nom",
+   "texte": "Le vieux roi"
+  },
+  {
+   "id": "personnages.visiteur.nom",
+   "type": "personnage",
+   "chemin": "personnages.visiteur.nom",
+   "texte": "Le visiteur"
+  },
+  {
+   "id": "personnages.ancien.nom",
+   "type": "personnage",
+   "chemin": "personnages.ancien.nom",
+   "texte": "L'ancien"
+  },
+  {
+   "id": "personnages.prince.nom",
+   "type": "personnage",
+   "chemin": "personnages.prince.nom",
+   "texte": "Le prince"
+  },
+  {
+   "id": "personnages.messager.nom",
+   "type": "personnage",
+   "chemin": "personnages.messager.nom",
+   "texte": "Le messager"
+  },
+  {
+   "id": "fins.canon",
+   "type": "fin",
+   "chemin": "fins.canon",
+   "texte": "La chaîne n'est pas rompue"
+  },
+  {
+   "id": "fins.regard",
+   "type": "fin",
+   "chemin": "fins.regard",
+   "texte": "Tu as voulu trop en voir"
+  },
+  {
+   "id": "n1",
+   "type": "replique",
+   "chemin": "nodes.n1.text",
+   "noeud": "n1",
+   "partie": "La cour du vieux roi (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "À Obiré, dans le sud-ouest du Burkina, la royauté gan se transmet depuis des générations. Le vieux roi reçoit dans sa cour.",
+   "genre": "adulte/homme",
+   "duree_ms": 9260,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n2",
+   "type": "replique",
+   "chemin": "nodes.n2.text",
+   "noeud": "n2",
+   "partie": "La cour du vieux roi (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Devant le roi, on s'agenouille. Comment se présente le visiteur ?",
+   "genre": "adulte/homme",
+   "duree_ms": 4930,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n2.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.n2.choices.0.label",
+   "texte": "À genoux, avec des salutations"
+  },
+  {
+   "id": "nodes.n2.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.n2.choices.0.tag",
+   "texte": "salutations"
+  },
+  {
+   "id": "nodes.n2.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.n2.choices.1.label",
+   "texte": "Debout, en appelant le roi par son nom"
+  },
+  {
+   "id": "nodes.n2.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.n2.choices.1.tag",
+   "texte": "maladresse"
+  },
+  {
+   "id": "debout",
+   "type": "replique",
+   "chemin": "nodes.debout.text",
+   "noeud": "debout",
+   "partie": "La cour du vieux roi (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Un murmure traverse la cour. Le visiteur comprend, et il s'agenouille comme les autres.",
+   "genre": "adulte/homme",
+   "duree_ms": 6070,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "genoux",
+   "type": "replique",
+   "chemin": "nodes.genoux.text",
+   "noeud": "genoux",
+   "partie": "La cour du vieux roi (jeu)",
+   "personnage": "Le visiteur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Puissant roi, nous t'apportons nos salutations.",
+   "genre": "âgé/homme",
+   "duree_ms": 2730,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n3",
+   "type": "replique",
+   "chemin": "nodes.n3.text",
+   "noeud": "n3",
+   "partie": "La cour du vieux roi (jeu)",
+   "personnage": "Le vieux roi",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Soyez les bienvenus chez moi.",
+   "genre": "adulte/homme",
+   "duree_ms": 2200,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n4",
+   "type": "replique",
+   "chemin": "nodes.n4.text",
+   "noeud": "n4",
+   "partie": "La cour du vieux roi (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Mais le roi tousse. Il est fatigué, et tout le monde le voit. Un soir, la nouvelle tombe : le roi est mort.",
+   "genre": "adulte/homme",
+   "duree_ms": 10090,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n5",
+   "type": "replique",
+   "chemin": "nodes.n5.text",
+   "noeud": "n5",
+   "partie": "La cour du vieux roi (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Les tambours l'annoncent. Regarde celui qui porte la nouvelle.",
+   "genre": "adulte/homme",
+   "duree_ms": 4020,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n6.consigne",
+   "type": "jeu",
+   "chemin": "nodes.n6.consigne",
+   "texte": "Les tambours annoncent le deuil au pays. Reproduis leur rythme."
+  },
+  {
+   "id": "nodes.n6.gagne",
+   "type": "jeu",
+   "chemin": "nodes.n6.gagne",
+   "texte": "Le message porte jusqu'aux derniers villages."
+  },
+  {
+   "id": "nodes.n6.perdu",
+   "type": "jeu",
+   "chemin": "nodes.n6.perdu",
+   "texte": "Le rythme tremble, mais d'autres tambours le reprennent."
+  },
+  {
+   "id": "nodes.n6.tags.win",
+   "type": "parcours",
+   "chemin": "nodes.n6.tags.win",
+   "texte": "rythme tenu"
+  },
+  {
+   "id": "nodes.n6.tags.lose",
+   "type": "parcours",
+   "chemin": "nodes.n6.tags.lose",
+   "texte": "rythme perdu"
+  },
+  {
+   "id": "n7",
+   "type": "replique",
+   "chemin": "nodes.n7.text",
+   "noeud": "n7",
+   "partie": "Le chemin des tombeaux (jeu)",
+   "personnage": "Le griot",
+   "intonation": "mystérieux",
+   "intonation_statut": "proposée",
+   "texte": "Le cortège prend le chemin du bois, vers les tombeaux des rois.",
+   "genre": "adulte/homme",
+   "duree_ms": 5010,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n8",
+   "type": "replique",
+   "chemin": "nodes.n8.text",
+   "noeud": "n8",
+   "partie": "Le chemin des tombeaux (jeu)",
+   "personnage": "L'ancien",
+   "intonation": "grave",
+   "intonation_statut": "proposée",
+   "texte": "Ancêtres, un des vôtres vous rejoint.",
+   "genre": "âgé/homme",
+   "duree_ms": 2730,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n9",
+   "type": "replique",
+   "chemin": "nodes.n9.text",
+   "noeud": "n9",
+   "partie": "Le chemin des tombeaux (jeu)",
+   "personnage": "Le griot",
+   "intonation": "mystérieux",
+   "intonation_statut": "proposée",
+   "texte": "Ici, les rois disparus veillent toujours sur leur peuple. Le conseil des anciens se réunit, les cauris sont jetés, et un prince est choisi. On le conduit à l'écart.",
+   "genre": "adulte/homme",
+   "duree_ms": 12370,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n10",
+   "type": "replique",
+   "chemin": "nodes.n10.text",
+   "noeud": "n10",
+   "partie": "Le chemin des tombeaux (jeu)",
+   "personnage": "Le messager",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Il est préparé en secret, loin des regards. Dois-je aller voir ?",
+   "genre": "enfant/libre",
+   "duree_ms": 5310,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n11",
+   "type": "replique",
+   "chemin": "nodes.n11.text",
+   "noeud": "n11",
+   "partie": "Le chemin des tombeaux (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Toi qui le demandes, que fais-tu ?",
+   "genre": "adulte/homme",
+   "duree_ms": 3110,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n11.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.n11.choices.0.label",
+   "texte": "Tu restes là où on t'a dit d'attendre"
+  },
+  {
+   "id": "nodes.n11.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.n11.choices.0.tag",
+   "texte": "respect du secret"
+  },
+  {
+   "id": "nodes.n11.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.n11.choices.1.label",
+   "texte": "Tu t'approches pour regarder"
+  },
+  {
+   "id": "nodes.n11.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.n11.choices.1.tag",
+   "texte": "curiosité"
+  },
+  {
+   "id": "regard",
+   "type": "replique",
+   "chemin": "nodes.regard.text",
+   "noeud": "regard",
+   "partie": "Le chemin des tombeaux (jeu)",
+   "personnage": "L'ancien",
+   "intonation": "grave",
+   "intonation_statut": "proposée",
+   "texte": "Ce qui se fait là-bas n'est pas pour tes yeux, ni pour ce récit. Rentre chez toi. Tu ne verras pas le jour de l'intronisation depuis la cour.",
+   "genre": "âgé/homme",
+   "duree_ms": 11690,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "attend",
+   "type": "replique",
+   "chemin": "nodes.attend.text",
+   "noeud": "attend",
+   "partie": "L'intronisation (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Le jour de l'intronisation arrive. Le parasol royal s'ouvre au-dessus du nouveau roi. Les tambours et les danses disent au pays que la chaîne n'est pas rompue.",
+   "genre": "adulte/homme",
+   "duree_ms": 11160,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n12",
+   "type": "replique",
+   "chemin": "nodes.n12.text",
+   "noeud": "n12",
+   "partie": "L'intronisation (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Aujourd'hui encore, la royauté gan continue à Obiré. Un royaume survit à ses rois par les règles de leur succession.",
+   "genre": "adulte/homme",
+   "duree_ms": 8350,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "film-001",
+   "type": "film",
+   "partie": "Film d'animation, de 00:02.0 à 00:08.0",
+   "horodatage": {
+    "debut_ms": 2000,
+    "fin_ms": 8000
+   },
+   "personnage": "Narrateur",
+   "intonation": "sobre",
+   "intonation_statut": "scénario",
+   "texte": "Le royaume gan d'Obiré. Un récit historique, simplifié pour l'image.",
+   "genre": "adulte/libre",
+   "duree_ms": 6000,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-002",
+   "type": "film",
+   "partie": "Film d'animation, de 00:09.0 à 00:15.4",
+   "horodatage": {
+    "debut_ms": 9000,
+    "fin_ms": 15400
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "À Obiré, dans le sud-ouest du Burkina, la royauté gan se transmet depuis des générations.",
+   "genre": "adulte/libre",
+   "duree_ms": 6400,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-003",
+   "type": "film",
+   "partie": "Film d'animation, de 00:28.0 à 00:33.0",
+   "horodatage": {
+    "debut_ms": 28000,
+    "fin_ms": 33000
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Le vieux roi reçoit dans sa cour. On s'agenouille devant lui.",
+   "genre": "adulte/libre",
+   "duree_ms": 5000,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-004",
+   "type": "film",
+   "partie": "Film d'animation, de 00:36.0 à 00:39.2",
+   "horodatage": {
+    "debut_ms": 36000,
+    "fin_ms": 39200
+   },
+   "personnage": "VISITEUR",
+   "intonation": "respectueux",
+   "intonation_statut": "scénario",
+   "texte": "Puissant roi, nous t'apportons nos salutations.",
+   "genre": "adulte/homme",
+   "duree_ms": 3200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-005",
+   "type": "film",
+   "partie": "Film d'animation, de 00:41.0 à 00:43.6",
+   "horodatage": {
+    "debut_ms": 41000,
+    "fin_ms": 43600
+   },
+   "personnage": "ROI",
+   "intonation": "voix fatiguée",
+   "intonation_statut": "scénario",
+   "texte": "Soyez les bienvenus chez moi.",
+   "genre": "âgé/libre",
+   "duree_ms": 2600,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-006",
+   "type": "film",
+   "partie": "Film d'animation, de 00:48.0 à 00:53.2",
+   "horodatage": {
+    "debut_ms": 48000,
+    "fin_ms": 53200
+   },
+   "personnage": "Narrateur",
+   "intonation": "grave",
+   "intonation_statut": "scénario",
+   "texte": "Mais le roi tousse. Il est fatigué, et tout le monde le voit.",
+   "genre": "adulte/libre",
+   "duree_ms": 5200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-007",
+   "type": "film",
+   "partie": "Film d'animation, de 01:03.0 à 01:06.9",
+   "horodatage": {
+    "debut_ms": 63000,
+    "fin_ms": 66900
+   },
+   "personnage": "Narrateur",
+   "intonation": "grave",
+   "intonation_statut": "scénario",
+   "texte": "Un soir, la nouvelle tombe : le roi est mort.",
+   "genre": "adulte/libre",
+   "duree_ms": 3900,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-008",
+   "type": "film",
+   "partie": "Film d'animation, de 01:14.0 à 01:17.8",
+   "horodatage": {
+    "debut_ms": 74000,
+    "fin_ms": 77800
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Les tambours l'annoncent, et le pays entre en deuil.",
+   "genre": "adulte/libre",
+   "duree_ms": 3800,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-009",
+   "type": "film",
+   "partie": "Film d'animation, de 01:35.0 à 01:39.5",
+   "horodatage": {
+    "debut_ms": 95000,
+    "fin_ms": 99500
+   },
+   "personnage": "Narrateur",
+   "intonation": "recueilli",
+   "intonation_statut": "scénario",
+   "texte": "Le cortège prend le chemin du bois, vers les tombeaux des rois.",
+   "genre": "adulte/libre",
+   "duree_ms": 4500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-010",
+   "type": "film",
+   "partie": "Film d'animation, de 01:50.0 à 01:53.2",
+   "horodatage": {
+    "debut_ms": 110000,
+    "fin_ms": 113200
+   },
+   "personnage": "ANCIEN",
+   "intonation": "recueilli",
+   "intonation_statut": "scénario",
+   "texte": "Ancêtres, un des vôtres vous rejoint.",
+   "genre": "âgé/libre",
+   "duree_ms": 3200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-011",
+   "type": "film",
+   "partie": "Film d'animation, de 01:56.0 à 02:00.1",
+   "horodatage": {
+    "debut_ms": 116000,
+    "fin_ms": 120100
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Ici, les rois disparus veillent toujours sur leur peuple.",
+   "genre": "adulte/libre",
+   "duree_ms": 4100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-012",
+   "type": "film",
+   "partie": "Film d'animation, de 02:15.0 à 02:20.3",
+   "horodatage": {
+    "debut_ms": 135000,
+    "fin_ms": 140300
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Le trône ne reste pas vide. Le conseil des anciens se réunit.",
+   "genre": "adulte/libre",
+   "duree_ms": 5300,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-013",
+   "type": "film",
+   "partie": "Film d'animation, de 02:24.0 à 02:30.3",
+   "horodatage": {
+    "debut_ms": 144000,
+    "fin_ms": 150300
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Les cauris sont jetés. Les princes attendent. Qui sera le nouveau roi ?",
+   "genre": "adulte/libre",
+   "duree_ms": 6300,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-014",
+   "type": "film",
+   "partie": "Film d'animation, de 02:35.0 à 02:37.2",
+   "horodatage": {
+    "debut_ms": 155000,
+    "fin_ms": 157200
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Un prince est choisi.",
+   "genre": "adulte/libre",
+   "duree_ms": 2200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-015",
+   "type": "film",
+   "partie": "Film d'animation, de 02:55.0 à 03:01.8",
+   "horodatage": {
+    "debut_ms": 175000,
+    "fin_ms": 181800
+   },
+   "personnage": "Narrateur",
+   "intonation": "chuchoté",
+   "intonation_statut": "scénario",
+   "texte": "On le conduit à l'écart. Le futur roi est préparé en secret, loin des regards.",
+   "genre": "adulte/libre",
+   "duree_ms": 6800,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-016",
+   "type": "film",
+   "partie": "Film d'animation, de 03:06.0 à 03:10.5",
+   "horodatage": {
+    "debut_ms": 186000,
+    "fin_ms": 190500
+   },
+   "personnage": "Narrateur",
+   "intonation": "mystérieux",
+   "intonation_statut": "scénario",
+   "texte": "Dans la nuit du bois, on dit que les ancêtres viennent à sa rencontre.",
+   "genre": "adulte/libre",
+   "duree_ms": 4500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-017",
+   "type": "film",
+   "partie": "Film d'animation, de 03:31.0 à 03:37.3",
+   "horodatage": {
+    "debut_ms": 211000,
+    "fin_ms": 217300
+   },
+   "personnage": "Narrateur",
+   "intonation": "joyeux",
+   "intonation_statut": "scénario",
+   "texte": "Le jour de l'intronisation arrive. Le parasol royal s'ouvre au-dessus du nouveau roi.",
+   "genre": "adulte/libre",
+   "duree_ms": 6300,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-018",
+   "type": "film",
+   "partie": "Film d'animation, de 03:44.0 à 03:48.0",
+   "horodatage": {
+    "debut_ms": 224000,
+    "fin_ms": 228000
+   },
+   "personnage": "Narrateur",
+   "intonation": "joyeux",
+   "intonation_statut": "scénario",
+   "texte": "Les tambours et les danses disent au pays que la chaîne n'est pas rompue.",
+   "genre": "adulte/libre",
+   "duree_ms": 4000,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-019",
+   "type": "film",
+   "partie": "Film d'animation, de 04:13.0 à 04:17.4",
+   "horodatage": {
+    "debut_ms": 253000,
+    "fin_ms": 257400
+   },
+   "personnage": "Narrateur",
+   "intonation": "doux",
+   "intonation_statut": "scénario",
+   "texte": "Aujourd'hui encore, la royauté gan continue à Obiré.",
+   "genre": "adulte/libre",
+   "duree_ms": 4400,
+   "duree_statut": "mesurée sur le film"
+  }
+ ]
+}

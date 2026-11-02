@@ -59,7 +59,8 @@
       "text": "Début du dix-neuvième siècle, dans la région de Dori, au Sahel. Ici vivent deux mondes : les éleveurs peuls avec leurs troupeaux, et les cultivateurs gulmancé avec leurs champs.",
       "scene": "sahel",
       "explore": [
-        "etalon"
+        "etalon",
+        "chapeau-peul"
       ],
       "next": "n2"
     },

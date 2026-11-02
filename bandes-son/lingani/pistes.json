@@ -1,0 +1,641 @@
+{
+ "id": "lingani",
+ "titre": "Les Lingani de Tangaré",
+ "peuple": "Bissa",
+ "langues_cibles": [
+  "fr",
+  "bsa"
+ ],
+ "pistes": [
+  {
+   "id": "titre",
+   "type": "titre",
+   "chemin": "titre",
+   "texte": "Les Lingani de Tangaré"
+  },
+  {
+   "id": "presentation",
+   "type": "presentation",
+   "chemin": "presentation",
+   "texte": "À Garango, la chefferie a sa règle. Un homme n'attend pas et pose la couronne sur sa tête. Tu accompagnes les anciens. La préparation du chef à Tangaré reste secrète : le jeu n'en montre rien."
+  },
+  {
+   "id": "personnages.griot.nom",
+   "type": "personnage",
+   "chemin": "personnages.griot.nom",
+   "texte": "Le griot"
+  },
+  {
+   "id": "personnages.pretendant.nom",
+   "type": "personnage",
+   "chemin": "personnages.pretendant.nom",
+   "texte": "Le prétendant"
+  },
+  {
+   "id": "personnages.ancien.nom",
+   "type": "personnage",
+   "chemin": "personnages.ancien.nom",
+   "texte": "L'ancien"
+  },
+  {
+   "id": "personnages.guide.nom",
+   "type": "personnage",
+   "chemin": "personnages.guide.nom",
+   "texte": "Le guide"
+  },
+  {
+   "id": "personnages.elu.nom",
+   "type": "personnage",
+   "chemin": "personnages.elu.nom",
+   "texte": "L'élu"
+  },
+  {
+   "id": "fins.canon",
+   "type": "fin",
+   "chemin": "fins.canon",
+   "texte": "Version du griot : nul ne règne sans passer par Tangaré"
+  },
+  {
+   "id": "fins.raccourci",
+   "type": "fin",
+   "chemin": "fins.raccourci",
+   "texte": "Autre chemin : la couronne retombe encore"
+  },
+  {
+   "id": "n1",
+   "type": "replique",
+   "chemin": "nodes.n1.text",
+   "noeud": "n1",
+   "partie": "Le chef est mort (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "À Garango, en pays bissa, la chefferie a sa règle. Elle est ancienne, et elle ne se discute pas. Le chef est mort, et le pays est en deuil. Mais déjà, on regarde la couronne.",
+   "genre": "adulte/homme",
+   "duree_ms": 15250,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n2",
+   "type": "replique",
+   "chemin": "nodes.n2.text",
+   "noeud": "n2",
+   "partie": "Le chef est mort (jeu)",
+   "personnage": "Le prétendant",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Je n'ai besoin de personne.",
+   "genre": "adulte/homme",
+   "duree_ms": 2200,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n3",
+   "type": "replique",
+   "chemin": "nodes.n3.text",
+   "noeud": "n3",
+   "partie": "Le chef est mort (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Il pose la couronne lui-même sur sa tête. La couronne glisse et tombe. Il la ramasse. Elle retombe encore. Un orage éclate, et le mil se couche dans les champs.",
+   "genre": "adulte/homme",
+   "duree_ms": 13050,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n4",
+   "type": "replique",
+   "chemin": "nodes.n4.text",
+   "noeud": "n4",
+   "partie": "Le chef est mort (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Les gens se détournent de lui. Toi, parmi les anciens, que proposes-tu ?",
+   "genre": "adulte/homme",
+   "duree_ms": 5840,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n4.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.n4.choices.0.label",
+   "texte": "Aller chercher celui que le conseil a désigné"
+  },
+  {
+   "id": "nodes.n4.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.n4.choices.0.tag",
+   "texte": "élu cherché"
+  },
+  {
+   "id": "nodes.n4.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.n4.choices.1.label",
+   "texte": "Lui laisser une dernière chance"
+  },
+  {
+   "id": "nodes.n4.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.n4.choices.1.tag",
+   "texte": "dernière chance"
+  },
+  {
+   "id": "chance",
+   "type": "replique",
+   "chemin": "nodes.chance.text",
+   "noeud": "chance",
+   "partie": "Le chef est mort (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Il remet la couronne. Elle tombe. L'orage redouble. Tous attendent que tu parles.",
+   "genre": "adulte/homme",
+   "duree_ms": 6140,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.chance.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.chance.choices.0.label",
+   "texte": "Aller chercher l'élu du conseil"
+  },
+  {
+   "id": "nodes.chance.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.chance.choices.0.tag",
+   "texte": "élu cherché"
+  },
+  {
+   "id": "nodes.chance.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.chance.choices.1.label",
+   "texte": "Lui dire de la tenir avec les deux mains"
+  },
+  {
+   "id": "nodes.chance.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.chance.choices.1.tag",
+   "texte": "couronne retenue"
+  },
+  {
+   "id": "raccourci",
+   "type": "replique",
+   "chemin": "nodes.raccourci.text",
+   "noeud": "raccourci",
+   "partie": "Le chef est mort (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Il la tient à deux mains, et il ne peut plus rien faire d'autre. La pluie gâte tout, et le pays perd son chef sans en avoir de nouveau. Cette fin n'est pas dans la légende.",
+   "genre": "adulte/homme",
+   "duree_ms": 14880,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "elu",
+   "type": "replique",
+   "chemin": "nodes.elu.text",
+   "noeud": "elu",
+   "partie": "La route de Tangaré (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Les anciens conduisent l'élu sur la route de Tangaré, le village des Lingani, les gardiens du pouvoir.",
+   "genre": "adulte/homme",
+   "duree_ms": 7060,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n5.question",
+   "type": "jeu",
+   "chemin": "nodes.n5.question",
+   "texte": "Comment appelle-t-on les gardiens du pouvoir de Tangaré ?"
+  },
+  {
+   "id": "nodes.n5.gagne",
+   "type": "jeu",
+   "chemin": "nodes.n5.gagne",
+   "texte": "Oui, les Lingani."
+  },
+  {
+   "id": "nodes.n5.perdu",
+   "type": "jeu",
+   "chemin": "nodes.n5.perdu",
+   "texte": "Ce sont les Lingani."
+  },
+  {
+   "id": "nodes.n5.reponses.0.label",
+   "type": "jeu",
+   "chemin": "nodes.n5.reponses.0.label",
+   "texte": "Les Lingani"
+  },
+  {
+   "id": "nodes.n5.reponses.1.label",
+   "type": "jeu",
+   "chemin": "nodes.n5.reponses.1.label",
+   "texte": "Les Dozo"
+  },
+  {
+   "id": "nodes.n5.reponses.2.label",
+   "type": "jeu",
+   "chemin": "nodes.n5.reponses.2.label",
+   "texte": "Les Touna"
+  },
+  {
+   "id": "nodes.n5.tags.win",
+   "type": "parcours",
+   "chemin": "nodes.n5.tags.win",
+   "texte": "bonne réponse"
+  },
+  {
+   "id": "nodes.n5.tags.lose",
+   "type": "parcours",
+   "chemin": "nodes.n5.tags.lose",
+   "texte": "réponse manquée"
+  },
+  {
+   "id": "n6",
+   "type": "replique",
+   "chemin": "nodes.n6.text",
+   "noeud": "n6",
+   "partie": "La route de Tangaré (jeu)",
+   "personnage": "Le guide",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Voici celui qui vient.",
+   "genre": "adulte/homme",
+   "duree_ms": 1820,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n7",
+   "type": "replique",
+   "chemin": "nodes.n7.text",
+   "noeud": "n7",
+   "partie": "La route de Tangaré (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "L'élu entre dans la case. Nul ne sait ce qui s'y passe. Que feras-tu pendant ce temps ?",
+   "genre": "adulte/homme",
+   "duree_ms": 7740,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n7.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.n7.choices.0.label",
+   "texte": "Attendre dehors, avec les autres"
+  },
+  {
+   "id": "nodes.n7.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.n7.choices.0.tag",
+   "texte": "attente"
+  },
+  {
+   "id": "nodes.n7.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.n7.choices.1.label",
+   "texte": "Coller l'oreille à la paroi"
+  },
+  {
+   "id": "nodes.n7.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.n7.choices.1.tag",
+   "texte": "curiosité"
+  },
+  {
+   "id": "oreille",
+   "type": "replique",
+   "chemin": "nodes.oreille.text",
+   "noeud": "oreille",
+   "partie": "La route de Tangaré (jeu)",
+   "personnage": "Le guide",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Écarte-toi. La préparation reste secrète, et nous n'en dirons pas plus.",
+   "genre": "adulte/homme",
+   "duree_ms": 4930,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "dehors",
+   "type": "replique",
+   "chemin": "nodes.dehors.text",
+   "noeud": "dehors",
+   "partie": "Le couronnement (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Le jour du couronnement arrive. La couronne se pose sur sa tête, et elle tient. Doucement, la pluie revient sur le pays.",
+   "genre": "adulte/homme",
+   "duree_ms": 9560,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n8",
+   "type": "replique",
+   "chemin": "nodes.n8.text",
+   "noeud": "n8",
+   "partie": "Le couronnement (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Aujourd'hui encore, dit-on, nul ne règne à Garango sans passer par Tangaré. Le pouvoir qu'on prend sans suivre la coutume ne tient pas.",
+   "genre": "adulte/homme",
+   "duree_ms": 9640,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "film-001",
+   "type": "film",
+   "partie": "Film d'animation, de 00:02.0 à 00:07.7",
+   "horodatage": {
+    "debut_ms": 2000,
+    "fin_ms": 7700
+   },
+   "personnage": "Narrateur",
+   "intonation": "sobre",
+   "intonation_statut": "scénario",
+   "texte": "Les Lingani de Tangaré. Une légende de pouvoir, en pays bissa.",
+   "genre": "adulte/libre",
+   "duree_ms": 5700,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-002",
+   "type": "film",
+   "partie": "Film d'animation, de 00:09.0 à 00:16.6",
+   "horodatage": {
+    "debut_ms": 9000,
+    "fin_ms": 16600
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "À Garango, en pays bissa, la chefferie a sa règle. Elle est ancienne, et elle ne se discute pas.",
+   "genre": "adulte/libre",
+   "duree_ms": 7600,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-003",
+   "type": "film",
+   "partie": "Film d'animation, de 00:28.0 à 00:34.4",
+   "horodatage": {
+    "debut_ms": 28000,
+    "fin_ms": 34400
+   },
+   "personnage": "Narrateur",
+   "intonation": "grave",
+   "intonation_statut": "scénario",
+   "texte": "Le chef est mort, et le pays est en deuil. Mais déjà, on regarde la couronne.",
+   "genre": "adulte/libre",
+   "duree_ms": 6400,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-004",
+   "type": "film",
+   "partie": "Film d'animation, de 00:59.0 à 01:01.6",
+   "horodatage": {
+    "debut_ms": 59000,
+    "fin_ms": 61600
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Un homme ne veut pas attendre.",
+   "genre": "adulte/libre",
+   "duree_ms": 2600,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-005",
+   "type": "film",
+   "partie": "Film d'animation, de 01:08.0 à 01:10.7",
+   "horodatage": {
+    "debut_ms": 68000,
+    "fin_ms": 70700
+   },
+   "personnage": "PRETENDANT",
+   "intonation": "arrogant",
+   "intonation_statut": "scénario",
+   "texte": "Je n'ai besoin de personne.",
+   "genre": "adulte/homme",
+   "duree_ms": 2700,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-006",
+   "type": "film",
+   "partie": "Film d'animation, de 01:12.0 à 01:18.6",
+   "horodatage": {
+    "debut_ms": 72000,
+    "fin_ms": 78600
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Et il pose la couronne lui-même sur sa tête. Les anciens baissent les yeux, sans rien dire.",
+   "genre": "adulte/libre",
+   "duree_ms": 6600,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-007",
+   "type": "film",
+   "partie": "Film d'animation, de 01:34.0 à 01:40.5",
+   "horodatage": {
+    "debut_ms": 94000,
+    "fin_ms": 100500
+   },
+   "personnage": "Narrateur",
+   "intonation": "grave",
+   "intonation_statut": "scénario",
+   "texte": "La couronne glisse et tombe. Il la ramasse. Elle retombe encore.",
+   "genre": "adulte/libre",
+   "duree_ms": 6500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-008",
+   "type": "film",
+   "partie": "Film d'animation, de 01:46.0 à 01:52.0",
+   "horodatage": {
+    "debut_ms": 106000,
+    "fin_ms": 112000
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Un orage éclate, et le mil se couche dans les champs. Les gens se détournent de lui.",
+   "genre": "adulte/libre",
+   "duree_ms": 6000,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-009",
+   "type": "film",
+   "partie": "Film d'animation, de 01:58.0 à 02:02.2",
+   "horodatage": {
+    "debut_ms": 118000,
+    "fin_ms": 122200
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Sans les Lingani, disent-ils, la couronne ne tient pas.",
+   "genre": "adulte/libre",
+   "duree_ms": 4200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-010",
+   "type": "film",
+   "partie": "Film d'animation, de 02:10.0 à 02:15.7",
+   "horodatage": {
+    "debut_ms": 130000,
+    "fin_ms": 135700
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Alors, les anciens vont chercher le futur chef, celui que le conseil a désigné.",
+   "genre": "adulte/libre",
+   "duree_ms": 5700,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-011",
+   "type": "film",
+   "partie": "Film d'animation, de 02:22.0 à 02:25.1",
+   "horodatage": {
+    "debut_ms": 142000,
+    "fin_ms": 145100
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Ils le conduisent sur la route de Tangaré.",
+   "genre": "adulte/libre",
+   "duree_ms": 3100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-012",
+   "type": "film",
+   "partie": "Film d'animation, de 02:40.0 à 02:44.4",
+   "horodatage": {
+    "debut_ms": 160000,
+    "fin_ms": 164400
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Tangaré est le village des Lingani, les gardiens du pouvoir.",
+   "genre": "adulte/libre",
+   "duree_ms": 4400,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-013",
+   "type": "film",
+   "partie": "Film d'animation, de 02:49.0 à 02:51.5",
+   "horodatage": {
+    "debut_ms": 169000,
+    "fin_ms": 171500
+   },
+   "personnage": "GUIDE",
+   "intonation": "respectueux",
+   "intonation_statut": "scénario",
+   "texte": "Voici celui qui vient.",
+   "genre": "âgé/libre",
+   "duree_ms": 2500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-014",
+   "type": "film",
+   "partie": "Film d'animation, de 02:53.0 à 02:58.2",
+   "horodatage": {
+    "debut_ms": 173000,
+    "fin_ms": 178200
+   },
+   "personnage": "Narrateur",
+   "intonation": "chuchoté",
+   "intonation_statut": "scénario",
+   "texte": "L'élu entre dans la case. Nul ne sait ce qui s'y passe.",
+   "genre": "adulte/libre",
+   "duree_ms": 5200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-015",
+   "type": "film",
+   "partie": "Film d'animation, de 03:03.0 à 03:07.2",
+   "horodatage": {
+    "debut_ms": 183000,
+    "fin_ms": 187200
+   },
+   "personnage": "Narrateur",
+   "intonation": "mystérieux",
+   "intonation_statut": "scénario",
+   "texte": "La préparation reste secrète, et nous n'en dirons pas plus.",
+   "genre": "adulte/libre",
+   "duree_ms": 4200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-016",
+   "type": "film",
+   "partie": "Film d'animation, de 03:23.0 à 03:29.1",
+   "horodatage": {
+    "debut_ms": 203000,
+    "fin_ms": 209100
+   },
+   "personnage": "Narrateur",
+   "intonation": "joyeux",
+   "intonation_statut": "scénario",
+   "texte": "Le jour du couronnement arrive. La couronne se pose sur sa tête, et elle tient.",
+   "genre": "adulte/libre",
+   "duree_ms": 6100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-017",
+   "type": "film",
+   "partie": "Film d'animation, de 03:35.0 à 03:38.5",
+   "horodatage": {
+    "debut_ms": 215000,
+    "fin_ms": 218500
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Doucement, la pluie revient sur le pays.",
+   "genre": "adulte/libre",
+   "duree_ms": 3500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-018",
+   "type": "film",
+   "partie": "Film d'animation, de 04:02.0 à 04:07.6",
+   "horodatage": {
+    "debut_ms": 242000,
+    "fin_ms": 247600
+   },
+   "personnage": "Narrateur",
+   "intonation": "doux",
+   "intonation_statut": "scénario",
+   "texte": "Aujourd'hui encore, dit-on, nul ne règne à Garango sans passer par Tangaré.",
+   "genre": "adulte/libre",
+   "duree_ms": 5600,
+   "duree_statut": "mesurée sur le film"
+  }
+ ]
+}

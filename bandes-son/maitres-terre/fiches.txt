@@ -1,0 +1,392 @@
+# Les maîtres de la terre : fiches des bandes-son
+# Généré par « npm run bandes-son » depuis pistes.json. Modifier pistes.json, pas ce fichier.
+
+piste: n1
+histoire: Les maîtres de la terre
+partie: Le maître de la terre (jeu)
+personnage: Le griot
+fichier: maitres-terre-n1-<langue>.m4a
+intonation: posé (proposée)
+texte: Le Nord est un pays de sable et de vent. La terre n'y donne rien sans raison. Le maître de la terre descend des premiers occupants. Il connaît les autels.
+genre: adulte/homme
+duree: 12600ms (estimée)
+
+piste: n2
+histoire: Les maîtres de la terre
+partie: Le maître de la terre (jeu)
+personnage: Le maître de la terre
+fichier: maitres-terre-n2-<langue>.m4a
+intonation: grave (proposée)
+texte: Terre, reçois ceci, et donne-nous à manger.
+genre: âgé/homme
+duree: 3260ms (estimée)
+
+piste: n3
+histoire: Les maîtres de la terre
+partie: Le maître de la terre (jeu)
+personnage: Le griot
+fichier: maitres-terre-n3-<langue>.m4a
+intonation: posé (proposée)
+texte: Il fait l'offrande, et le mil pousse. Un jour, des cavaliers viennent d'ailleurs. Ils s'imposent par la force, et leur chef occupe le village.
+genre: adulte/homme
+duree: 10470ms (estimée)
+
+piste: n4
+histoire: Les maîtres de la terre
+partie: La terre refuse (jeu)
+personnage: Le griot
+fichier: maitres-terre-n4-<langue>.m4a
+intonation: posé (proposée)
+texte: Le chef fait semer ses champs. Mais la terre refuse ses fruits. Rien ne pousse, et ses cavaliers ont faim.
+genre: adulte/homme
+duree: 8650ms (estimée)
+
+piste: n5
+histoire: Les maîtres de la terre
+partie: La terre refuse (jeu)
+personnage: Le chef des cavaliers
+fichier: maitres-terre-n5-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Mes hommes ont faim. Pourquoi rien ne pousse ?
+genre: adulte/homme
+duree: 4020ms (estimée)
+
+piste: n6
+histoire: Les maîtres de la terre
+partie: La terre refuse (jeu)
+personnage: Le griot
+fichier: maitres-terre-n6-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Toi qui le conseilles, que dis-tu ?
+genre: adulte/homme
+duree: 3110ms (estimée)
+
+piste: force
+histoire: Les maîtres de la terre
+partie: La terre refuse (jeu)
+personnage: Le griot
+fichier: maitres-terre-force-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: On sème deux fois plus. Il pousse deux fois rien. Le chef baisse-t-il enfin les yeux ?
+genre: adulte/homme
+duree: 7360ms (estimée)
+
+piste: finforce
+histoire: Les maîtres de la terre
+partie: La terre refuse (jeu)
+personnage: Le griot
+fichier: maitres-terre-finforce-<langue>.m4a
+intonation: posé (proposée)
+texte: Les cavaliers finissent par partir, le ventre vide. Le pouvoir se conquiert, la terre se respecte. Ce chef ne l'a pas compris.
+genre: adulte/homme
+duree: 9560ms (estimée)
+
+piste: voir
+histoire: Les maîtres de la terre
+partie: La visite au vieux père (jeu)
+personnage: Le chef des cavaliers
+fichier: maitres-terre-voir-<langue>.m4a
+intonation: posé (proposée)
+texte: Vieux père, ta terre me refuse.
+genre: adulte/homme
+duree: 2730ms (estimée)
+
+piste: n7
+histoire: Les maîtres de la terre
+partie: La visite au vieux père (jeu)
+personnage: Le maître de la terre
+fichier: maitres-terre-n7-<langue>.m4a
+intonation: grave (proposée)
+texte: Elle ne te connaît pas encore.
+genre: âgé/homme
+duree: 2580ms (estimée)
+
+piste: n8
+histoire: Les maîtres de la terre
+partie: La visite au vieux père (jeu)
+personnage: Le chef des cavaliers
+fichier: maitres-terre-n8-<langue>.m4a
+intonation: posé (proposée)
+texte: Présente-moi à elle.
+genre: adulte/homme
+duree: 1440ms (estimée)
+
+piste: n10
+histoire: Les maîtres de la terre
+partie: La visite au vieux père (jeu)
+personnage: Le griot
+fichier: maitres-terre-n10-<langue>.m4a
+intonation: posé (proposée)
+texte: Seul le maître de la terre parle aux autels. Ensemble, ils font l'offrande, et la pluie revient.
+genre: adulte/homme
+duree: 7360ms (estimée)
+
+piste: n11
+histoire: Les maîtres de la terre
+partie: La visite au vieux père (jeu)
+personnage: Le maître de la terre
+fichier: maitres-terre-n11-<langue>.m4a
+intonation: grave (proposée)
+texte: La terre te reconnaît.
+genre: âgé/homme
+duree: 1820ms (estimée)
+
+piste: n12
+histoire: Les maîtres de la terre
+partie: La visite au vieux père (jeu)
+personnage: Le chef des cavaliers
+fichier: maitres-terre-n12-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Puis-je semer ?
+genre: adulte/homme
+duree: 1440ms (estimée)
+
+piste: n13
+histoire: Les maîtres de la terre
+partie: La visite au vieux père (jeu)
+personnage: Le maître de la terre
+fichier: maitres-terre-n13-<langue>.m4a
+intonation: grave (proposée)
+texte: Sème, mon fils.
+genre: âgé/homme
+duree: 1590ms (estimée)
+
+piste: n14
+histoire: Les maîtres de la terre
+partie: La visite au vieux père (jeu)
+personnage: Le griot
+fichier: maitres-terre-n14-<langue>.m4a
+intonation: posé (proposée)
+texte: Aujourd'hui encore, le chef consulte le maître de la terre.
+genre: adulte/homme
+duree: 4250ms (estimée)
+
+piste: film-001
+histoire: Les maîtres de la terre
+partie: Film d'animation, de 00:02.0 à 00:06.5
+personnage: Narrateur
+fichier: maitres-terre-film-001-<langue>.m4a
+intonation: solennel (scénario)
+texte: Les maîtres de la terre. Une légende kurumba.
+genre: adulte/libre
+duree: 4500ms (mesurée sur le film)
+
+piste: film-002
+histoire: Les maîtres de la terre
+partie: Film d'animation, de 00:09.0 à 00:14.5
+personnage: Narrateur
+fichier: maitres-terre-film-002-<langue>.m4a
+intonation: posé (proposée)
+texte: Le Nord est un pays de sable et de vent. La terre n'y donne rien sans raison.
+genre: adulte/libre
+duree: 5500ms (mesurée sur le film)
+
+piste: film-003
+histoire: Les maîtres de la terre
+partie: Film d'animation, de 00:27.0 à 00:32.5
+personnage: Narrateur
+fichier: maitres-terre-film-003-<langue>.m4a
+intonation: posé (proposée)
+texte: Le maître de la terre descend des premiers occupants. Il connaît les autels.
+genre: adulte/libre
+duree: 5500ms (mesurée sur le film)
+
+piste: film-004
+histoire: Les maîtres de la terre
+partie: Film d'animation, de 00:32.5 à 00:36.5
+personnage: MAITRE
+fichier: maitres-terre-film-004-<langue>.m4a
+intonation: recueilli (scénario)
+texte: Terre, reçois ceci, et donne-nous à manger.
+genre: âgé/libre
+duree: 4000ms (mesurée sur le film)
+
+piste: film-005
+histoire: Les maîtres de la terre
+partie: Film d'animation, de 00:40.0 à 00:43.2
+personnage: Narrateur
+fichier: maitres-terre-film-005-<langue>.m4a
+intonation: posé (proposée)
+texte: Il fait l'offrande, et le mil pousse.
+genre: adulte/libre
+duree: 3200ms (mesurée sur le film)
+
+piste: film-006
+histoire: Les maîtres de la terre
+partie: Film d'animation, de 01:04.0 à 01:09.1
+personnage: Narrateur
+fichier: maitres-terre-film-006-<langue>.m4a
+intonation: tendu (scénario)
+texte: Un jour, des cavaliers viennent d'ailleurs, et ils s'imposent par la force.
+genre: adulte/libre
+duree: 5100ms (mesurée sur le film)
+
+piste: film-007
+histoire: Les maîtres de la terre
+partie: Film d'animation, de 01:14.0 à 01:18.9
+personnage: Narrateur
+fichier: maitres-terre-film-007-<langue>.m4a
+intonation: posé (proposée)
+texte: Leur chef occupe le village. Les conquérants s'installent.
+genre: adulte/libre
+duree: 4900ms (mesurée sur le film)
+
+piste: film-008
+histoire: Les maîtres de la terre
+partie: Film d'animation, de 01:40.0 à 01:44.6
+personnage: Narrateur
+fichier: maitres-terre-film-008-<langue>.m4a
+intonation: posé (proposée)
+texte: Il fait semer ses champs. Mais la terre refuse ses fruits.
+genre: adulte/libre
+duree: 4600ms (mesurée sur le film)
+
+piste: film-009
+histoire: Les maîtres de la terre
+partie: Film d'animation, de 01:52.0 à 01:56.1
+personnage: Narrateur
+fichier: maitres-terre-film-009-<langue>.m4a
+intonation: posé (proposée)
+texte: Rien ne pousse. Et ses cavaliers ont faim.
+genre: adulte/libre
+duree: 4100ms (mesurée sur le film)
+
+piste: film-010
+histoire: Les maîtres de la terre
+partie: Film d'animation, de 01:56.5 à 01:59.8
+personnage: CHEF
+fichier: maitres-terre-film-010-<langue>.m4a
+intonation: interdit (scénario)
+texte: Mes hommes ont faim. Pourquoi rien ne pousse ?
+genre: adulte/homme
+duree: 3300ms (mesurée sur le film)
+
+piste: film-011
+histoire: Les maîtres de la terre
+partie: Film d'animation, de 02:16.0 à 02:21.4
+personnage: Narrateur
+fichier: maitres-terre-film-011-<langue>.m4a
+intonation: posé (proposée)
+texte: Le chef des conquérants baisse enfin les yeux. Il va voir le vieil homme.
+genre: adulte/libre
+duree: 5400ms (mesurée sur le film)
+
+piste: film-012
+histoire: Les maîtres de la terre
+partie: Film d'animation, de 02:24.0 à 02:26.8
+personnage: CHEF
+fichier: maitres-terre-film-012-<langue>.m4a
+intonation: embarrassé (scénario)
+texte: Vieux père, ta terre me refuse.
+genre: adulte/homme
+duree: 2800ms (mesurée sur le film)
+
+piste: film-013
+histoire: Les maîtres de la terre
+partie: Film d'animation, de 02:27.0 à 02:29.6
+personnage: MAITRE
+fichier: maitres-terre-film-013-<langue>.m4a
+intonation: calme (scénario)
+texte: Elle ne te connaît pas encore.
+genre: âgé/libre
+duree: 2600ms (mesurée sur le film)
+
+piste: film-014
+histoire: Les maîtres de la terre
+partie: Film d'animation, de 02:31.0 à 02:33.1
+personnage: CHEF
+fichier: maitres-terre-film-014-<langue>.m4a
+intonation: humble (scénario)
+texte: Présente-moi à elle.
+genre: adulte/homme
+duree: 2100ms (mesurée sur le film)
+
+piste: film-015
+histoire: Les maîtres de la terre
+partie: Film d'animation, de 02:49.5 à 02:51.7
+personnage: Narrateur
+fichier: maitres-terre-film-015-<langue>.m4a
+intonation: posé (proposée)
+texte: Un accord est conclu.
+genre: adulte/libre
+duree: 2200ms (mesurée sur le film)
+
+piste: film-016
+histoire: Les maîtres de la terre
+partie: Film d'animation, de 02:53.5 à 02:57.5
+personnage: MAITRE
+fichier: maitres-terre-film-016-<langue>.m4a
+intonation: solennel (scénario)
+texte: Tu commanderas les hommes, et je parlerai à la terre.
+genre: âgé/libre
+duree: 4000ms (mesurée sur le film)
+
+piste: film-017
+histoire: Les maîtres de la terre
+partie: Film d'animation, de 03:00.0 à 03:03.2
+personnage: Narrateur
+fichier: maitres-terre-film-017-<langue>.m4a
+intonation: posé (proposée)
+texte: Seul le maître de la terre parle aux autels.
+genre: adulte/libre
+duree: 3200ms (mesurée sur le film)
+
+piste: film-018
+histoire: Les maîtres de la terre
+partie: Film d'animation, de 03:10.0 à 03:13.9
+personnage: Narrateur
+fichier: maitres-terre-film-018-<langue>.m4a
+intonation: joyeux (scénario)
+texte: Ensemble, ils font l'offrande, et la pluie revient.
+genre: adulte/libre
+duree: 3900ms (mesurée sur le film)
+
+piste: film-019
+histoire: Les maîtres de la terre
+partie: Film d'animation, de 03:34.0 à 03:36.4
+personnage: MAITRE
+fichier: maitres-terre-film-019-<langue>.m4a
+intonation: solennel (scénario)
+texte: La terre te reconnaît.
+genre: âgé/libre
+duree: 2400ms (mesurée sur le film)
+
+piste: film-020
+histoire: Les maîtres de la terre
+partie: Film d'animation, de 03:38.0 à 03:42.5
+personnage: Narrateur
+fichier: maitres-terre-film-020-<langue>.m4a
+intonation: posé (proposée)
+texte: Et le chef est intronisé, de la main même du maître de la terre.
+genre: adulte/libre
+duree: 4500ms (mesurée sur le film)
+
+piste: film-021
+histoire: Les maîtres de la terre
+partie: Film d'animation, de 04:06.0 à 04:07.9
+personnage: CHEF
+fichier: maitres-terre-film-021-<langue>.m4a
+intonation: respectueux (scénario)
+texte: Puis-je semer ?
+genre: adulte/homme
+duree: 1900ms (mesurée sur le film)
+
+piste: film-022
+histoire: Les maîtres de la terre
+partie: Film d'animation, de 04:08.0 à 04:10.6
+personnage: MAITRE
+fichier: maitres-terre-film-022-<langue>.m4a
+intonation: amusé (scénario)
+texte: Sème, mon fils.
+genre: âgé/libre
+duree: 2600ms (mesurée sur le film)
+
+piste: film-023
+histoire: Les maîtres de la terre
+partie: Film d'animation, de 04:12.0 à 04:16.5
+personnage: Narrateur
+fichier: maitres-terre-film-023-<langue>.m4a
+intonation: doux (scénario)
+texte: Aujourd'hui encore, le chef consulte le maître de la terre.
+genre: adulte/libre
+duree: 4500ms (mesurée sur le film)

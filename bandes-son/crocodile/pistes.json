@@ -1,0 +1,635 @@
+{
+ "id": "crocodile",
+ "titre": "Le crocodile qui sauva l'ancêtre",
+ "peuple": "Kassena",
+ "langues_cibles": [
+  "fr",
+  "kas"
+ ],
+ "pistes": [
+  {
+   "id": "titre",
+   "type": "titre",
+   "chemin": "titre",
+   "texte": "Le crocodile qui sauva l'ancêtre"
+  },
+  {
+   "id": "presentation",
+   "type": "presentation",
+   "chemin": "presentation",
+   "texte": "Abem suit une antilope trop loin, en pleine sécheresse. Quand sa gourde est vide, quelque chose bouge dans les herbes. Va-t-il tirer, ou faire confiance ?"
+  },
+  {
+   "id": "personnages.griot.nom",
+   "type": "personnage",
+   "chemin": "personnages.griot.nom",
+   "texte": "Le griot"
+  },
+  {
+   "id": "personnages.abem.nom",
+   "type": "personnage",
+   "chemin": "personnages.abem.nom",
+   "texte": "Abem"
+  },
+  {
+   "id": "personnages.crocodile.nom",
+   "type": "personnage",
+   "chemin": "personnages.crocodile.nom",
+   "texte": "Le crocodile"
+  },
+  {
+   "id": "personnages.enfant.nom",
+   "type": "personnage",
+   "chemin": "personnages.enfant.nom",
+   "texte": "L'enfant"
+  },
+  {
+   "id": "fins.canon",
+   "type": "fin",
+   "chemin": "fins.canon",
+   "texte": "Version du griot : le serment d'Abem"
+  },
+  {
+   "id": "fins.fleche",
+   "type": "fin",
+   "chemin": "fins.fleche",
+   "texte": "Autre chemin : personne pour montrer la mare"
+  },
+  {
+   "id": "n1",
+   "type": "replique",
+   "chemin": "nodes.n1.text",
+   "noeud": "n1",
+   "partie": "La grande sécheresse (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Abem était chasseur, l'ancêtre d'une famille kassena. La grande sécheresse brûle la brousse, et le gibier se fait rare. Une antilope passe au loin. Que fais-tu ?",
+   "genre": "adulte/homme",
+   "duree_ms": 11760,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n1.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.n1.choices.0.label",
+   "texte": "Tu la suis, il faut nourrir les tiens"
+  },
+  {
+   "id": "nodes.n1.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.n1.choices.0.tag",
+   "texte": "antilope suivie"
+  },
+  {
+   "id": "nodes.n1.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.n1.choices.1.label",
+   "texte": "Tu rentres les mains vides"
+  },
+  {
+   "id": "nodes.n1.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.n1.choices.1.tag",
+   "texte": "retour"
+  },
+  {
+   "id": "rentre",
+   "type": "replique",
+   "chemin": "nodes.rentre.text",
+   "noeud": "rentre",
+   "partie": "La grande sécheresse (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Au village, les enfants ont faim. Le lendemain, tu repars, et l'antilope est encore là. Tu la suis.",
+   "genre": "adulte/homme",
+   "duree_ms": 8190,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "suit",
+   "type": "replique",
+   "chemin": "nodes.suit.text",
+   "noeud": "suit",
+   "partie": "La grande sécheresse (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Tu la suis de plus en plus loin. Quand tu t'arrêtes, tu ne reconnais plus rien. Le soleil est haut, et la soif te prend. Tu secoues ta gourde : elle est vide.",
+   "genre": "adulte/homme",
+   "duree_ms": 14190,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n2",
+   "type": "replique",
+   "chemin": "nodes.n2.text",
+   "noeud": "n2",
+   "partie": "Le crocodile (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Tu marches encore un peu, puis tu tombes. Quelque chose bouge dans les herbes : un crocodile, loin de toute eau. Tes mains tremblent sur ton arc.",
+   "genre": "adulte/homme",
+   "duree_ms": 11610,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n2.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.n2.choices.0.label",
+   "texte": "Tu lâches l'arc et tu fermes les yeux"
+  },
+  {
+   "id": "nodes.n2.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.n2.choices.0.tag",
+   "texte": "arc lâché"
+  },
+  {
+   "id": "nodes.n2.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.n2.choices.1.label",
+   "texte": "Tu tires quand même"
+  },
+  {
+   "id": "nodes.n2.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.n2.choices.1.tag",
+   "texte": "flèche tirée"
+  },
+  {
+   "id": "tire",
+   "type": "replique",
+   "chemin": "nodes.tire.text",
+   "noeud": "tire",
+   "partie": "Le crocodile (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Ta flèche part de travers, et le crocodile s'éloigne. Dans ce chemin imaginé, plus personne ne te montre la mare. On te retrouve bien tard, et ta famille n'a pas de serment à tenir.",
+   "genre": "adulte/homme",
+   "duree_ms": 14270,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "confiance",
+   "type": "replique",
+   "chemin": "nodes.confiance.text",
+   "noeud": "confiance",
+   "partie": "Le crocodile (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Le crocodile ne mord pas. Du museau, il te pousse doucement. Tu te relèves. Il avance, puis il se retourne, comme pour dire : suis-moi.",
+   "genre": "adulte/homme",
+   "duree_ms": 11300,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n3.question",
+   "type": "jeu",
+   "chemin": "nodes.n3.question",
+   "texte": "Où le crocodile mène-t-il Abem ?"
+  },
+  {
+   "id": "nodes.n3.gagne",
+   "type": "jeu",
+   "chemin": "nodes.n3.gagne",
+   "texte": "Oui : une mare cachée, pleine d'eau claire."
+  },
+  {
+   "id": "nodes.n3.perdu",
+   "type": "jeu",
+   "chemin": "nodes.n3.perdu",
+   "texte": "Non : c'est une mare cachée, derrière les arbres."
+  },
+  {
+   "id": "nodes.n3.reponses.0.label",
+   "type": "jeu",
+   "chemin": "nodes.n3.reponses.0.label",
+   "texte": "À une mare cachée derrière les arbres"
+  },
+  {
+   "id": "nodes.n3.reponses.1.label",
+   "type": "jeu",
+   "chemin": "nodes.n3.reponses.1.label",
+   "texte": "À un puits du village"
+  },
+  {
+   "id": "nodes.n3.reponses.2.label",
+   "type": "jeu",
+   "chemin": "nodes.n3.reponses.2.label",
+   "texte": "Au grand fleuve"
+  },
+  {
+   "id": "nodes.n3.tags.win",
+   "type": "parcours",
+   "chemin": "nodes.n3.tags.win",
+   "texte": "bonne réponse"
+  },
+  {
+   "id": "nodes.n3.tags.lose",
+   "type": "parcours",
+   "chemin": "nodes.n3.tags.lose",
+   "texte": "réponse manquée"
+  },
+  {
+   "id": "n4",
+   "type": "replique",
+   "chemin": "nodes.n4.text",
+   "noeud": "n4",
+   "partie": "L'eau (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Abem boit, et la vie revient. Il se tourne vers le crocodile, et il s'incline devant lui.",
+   "genre": "adulte/homme",
+   "duree_ms": 7360,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n5",
+   "type": "replique",
+   "chemin": "nodes.n5.text",
+   "noeud": "n5",
+   "partie": "L'eau (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Que promet-il ?",
+   "genre": "adulte/homme",
+   "duree_ms": 1440,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n5.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.n5.choices.0.label",
+   "texte": "« Jamais nous ne tuerons le crocodile. Ni moi, ni mes enfants. »"
+  },
+  {
+   "id": "nodes.n5.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.n5.choices.0.tag",
+   "texte": "serment"
+  },
+  {
+   "id": "nodes.n5.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.n5.choices.1.label",
+   "texte": "« Je te donnerai la moitié de mon gibier. »"
+  },
+  {
+   "id": "nodes.n5.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.n5.choices.1.tag",
+   "texte": "gibier promis"
+  },
+  {
+   "id": "gibier",
+   "type": "replique",
+   "chemin": "nodes.gibier.text",
+   "noeud": "gibier",
+   "partie": "L'eau (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Le crocodile regarde ailleurs. Une dette de vie ne se paie pas en viande. Abem comprend, et il fait une autre promesse.",
+   "genre": "adulte/homme",
+   "duree_ms": 9410,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "serment",
+   "type": "replique",
+   "chemin": "nodes.serment.text",
+   "noeud": "serment",
+   "partie": "Le serment (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Et sa famille fit le serment.",
+   "genre": "adulte/homme",
+   "duree_ms": 2580,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n6",
+   "type": "replique",
+   "chemin": "nodes.n6.text",
+   "noeud": "n6",
+   "partie": "Le serment (jeu)",
+   "personnage": "L'enfant",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Il ne nous mange pas ?",
+   "genre": "enfant/libre",
+   "duree_ms": 2580,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n7",
+   "type": "replique",
+   "chemin": "nodes.n7.text",
+   "noeud": "n7",
+   "partie": "Le serment (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Aujourd'hui encore, pour certaines familles kassena, le crocodile reste un totem sacré. On n'oublie pas celui qui nous a sauvés.",
+   "genre": "adulte/homme",
+   "duree_ms": 8500,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "film-001",
+   "type": "film",
+   "partie": "Film d'animation, de 00:02.0 à 00:07.2",
+   "horodatage": {
+    "debut_ms": 2000,
+    "fin_ms": 7200
+   },
+   "personnage": "Narrateur",
+   "intonation": "solennel",
+   "intonation_statut": "scénario",
+   "texte": "Le crocodile qui sauva l'ancêtre. Une légende kassena.",
+   "genre": "adulte/libre",
+   "duree_ms": 5200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-002",
+   "type": "film",
+   "partie": "Film d'animation, de 00:09.0 à 00:16.8",
+   "horodatage": {
+    "debut_ms": 9000,
+    "fin_ms": 16800
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Abem était chasseur, l'ancêtre d'une famille kassena. Il partit, comme chaque jour, avec son arc.",
+   "genre": "adulte/libre",
+   "duree_ms": 7800,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-003",
+   "type": "film",
+   "partie": "Film d'animation, de 00:28.0 à 00:33.5",
+   "horodatage": {
+    "debut_ms": 28000,
+    "fin_ms": 33500
+   },
+   "personnage": "Narrateur",
+   "intonation": "grave",
+   "intonation_statut": "scénario",
+   "texte": "Mais la grande sécheresse brûlait la brousse. Le gibier se faisait rare.",
+   "genre": "adulte/libre",
+   "duree_ms": 5500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-004",
+   "type": "film",
+   "partie": "Film d'animation, de 00:40.0 à 00:47.2",
+   "horodatage": {
+    "debut_ms": 40000,
+    "fin_ms": 47200
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Abem suivit une antilope, de plus en plus loin. Et quand il s'arrêta, il ne reconnut plus rien.",
+   "genre": "adulte/libre",
+   "duree_ms": 7200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-005",
+   "type": "film",
+   "partie": "Film d'animation, de 01:04.0 à 01:07.3",
+   "horodatage": {
+    "debut_ms": 64000,
+    "fin_ms": 67300
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Le soleil était haut, et la soif le prit.",
+   "genre": "adulte/libre",
+   "duree_ms": 3300,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-006",
+   "type": "film",
+   "partie": "Film d'animation, de 01:16.0 à 01:20.2",
+   "horodatage": {
+    "debut_ms": 76000,
+    "fin_ms": 80200
+   },
+   "personnage": "Narrateur",
+   "intonation": "inquiet",
+   "intonation_statut": "scénario",
+   "texte": "Il secoua sa gourde. Elle était vide.",
+   "genre": "adulte/libre",
+   "duree_ms": 4200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-007",
+   "type": "film",
+   "partie": "Film d'animation, de 01:24.0 à 01:27.4",
+   "horodatage": {
+    "debut_ms": 84000,
+    "fin_ms": 87400
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Il marcha encore un peu, puis il tomba.",
+   "genre": "adulte/libre",
+   "duree_ms": 3400,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-008",
+   "type": "film",
+   "partie": "Film d'animation, de 01:39.0 à 01:44.8",
+   "horodatage": {
+    "debut_ms": 99000,
+    "fin_ms": 104800
+   },
+   "personnage": "Narrateur",
+   "intonation": "chuchoté",
+   "intonation_statut": "scénario",
+   "texte": "Quelque chose bougeait dans les herbes. Un crocodile, loin de toute eau.",
+   "genre": "adulte/libre",
+   "duree_ms": 5800,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-009",
+   "type": "film",
+   "partie": "Film d'animation, de 01:53.0 à 01:59.2",
+   "horodatage": {
+    "debut_ms": 113000,
+    "fin_ms": 119200
+   },
+   "personnage": "Narrateur",
+   "intonation": "tendu",
+   "intonation_statut": "scénario",
+   "texte": "Abem voulut prendre son arc, mais ses mains ne lui obéissaient plus. Il ferma les yeux.",
+   "genre": "adulte/libre",
+   "duree_ms": 6200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-010",
+   "type": "film",
+   "partie": "Film d'animation, de 02:14.0 à 02:19.5",
+   "horodatage": {
+    "debut_ms": 134000,
+    "fin_ms": 139500
+   },
+   "personnage": "Narrateur",
+   "intonation": "émerveillé",
+   "intonation_statut": "scénario",
+   "texte": "Le crocodile ne mordit pas. Du museau, il le poussa doucement.",
+   "genre": "adulte/libre",
+   "duree_ms": 5500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-011",
+   "type": "film",
+   "partie": "Film d'animation, de 02:27.0 à 02:34.3",
+   "horodatage": {
+    "debut_ms": 147000,
+    "fin_ms": 154300
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Abem se releva. Le crocodile avança, puis il se retourna, comme pour dire : suis-moi.",
+   "genre": "adulte/libre",
+   "duree_ms": 7300,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-012",
+   "type": "film",
+   "partie": "Film d'animation, de 02:51.0 à 02:55.8",
+   "horodatage": {
+    "debut_ms": 171000,
+    "fin_ms": 175800
+   },
+   "personnage": "Narrateur",
+   "intonation": "joyeux",
+   "intonation_statut": "scénario",
+   "texte": "Derrière les arbres, il y avait une mare cachée, pleine d'eau claire.",
+   "genre": "adulte/libre",
+   "duree_ms": 4800,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-013",
+   "type": "film",
+   "partie": "Film d'animation, de 03:02.0 à 03:04.7",
+   "horodatage": {
+    "debut_ms": 182000,
+    "fin_ms": 184700
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Abem but, et la vie revint.",
+   "genre": "adulte/libre",
+   "duree_ms": 2700,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-014",
+   "type": "film",
+   "partie": "Film d'animation, de 03:12.0 à 03:16.2",
+   "horodatage": {
+    "debut_ms": 192000,
+    "fin_ms": 196200
+   },
+   "personnage": "Narrateur",
+   "intonation": "ému",
+   "intonation_statut": "scénario",
+   "texte": "Il se tourna vers le crocodile, et il s'inclina devant lui.",
+   "genre": "adulte/libre",
+   "duree_ms": 4200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-015",
+   "type": "film",
+   "partie": "Film d'animation, de 03:35.0 à 03:39.8",
+   "horodatage": {
+    "debut_ms": 215000,
+    "fin_ms": 219800
+   },
+   "personnage": "ABEM",
+   "intonation": "solennel",
+   "intonation_statut": "scénario",
+   "texte": "Jamais nous ne tuerons le crocodile. Ni moi, ni mes enfants.",
+   "genre": "adulte/homme",
+   "duree_ms": 4800,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-016",
+   "type": "film",
+   "partie": "Film d'animation, de 03:44.0 à 03:46.6",
+   "horodatage": {
+    "debut_ms": 224000,
+    "fin_ms": 226600
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Et sa famille fit le serment.",
+   "genre": "adulte/libre",
+   "duree_ms": 2600,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-017",
+   "type": "film",
+   "partie": "Film d'animation, de 04:06.0 à 04:08.2",
+   "horodatage": {
+    "debut_ms": 246000,
+    "fin_ms": 248200
+   },
+   "personnage": "ENFANT",
+   "intonation": "curieux, à mi-voix",
+   "intonation_statut": "scénario",
+   "texte": "Il ne nous mange pas ?",
+   "genre": "enfant/libre",
+   "duree_ms": 2200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-018",
+   "type": "film",
+   "partie": "Film d'animation, de 04:10.0 à 04:16.2",
+   "horodatage": {
+    "debut_ms": 250000,
+    "fin_ms": 256200
+   },
+   "personnage": "Narrateur",
+   "intonation": "doux",
+   "intonation_statut": "scénario",
+   "texte": "Aujourd'hui encore, pour certaines familles kassena, le crocodile reste un totem sacré.",
+   "genre": "adulte/libre",
+   "duree_ms": 6200,
+   "duree_statut": "mesurée sur le film"
+  }
+ ]
+}

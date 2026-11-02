@@ -1,0 +1,522 @@
+# Wuro et le masque de feuilles : fiches des bandes-son
+# Généré par « npm run bandes-son » depuis pistes.json. Modifier pistes.json, pas ce fichier.
+
+piste: n1
+histoire: Wuro et le masque de feuilles
+partie: Au commencement (jeu)
+personnage: Le griot
+fichier: wuro-masque-n1-<langue>.m4a
+intonation: solennel (proposée)
+texte: Au commencement, il n'y avait que la nuit. Puis Wuro abaissa les mains, et la terre monta. Il lança une boule de feu vers l'horizon : ce fut le soleil.
+genre: adulte/homme
+duree: 12750ms (estimée)
+
+piste: n2
+histoire: Wuro et le masque de feuilles
+partie: Au commencement (jeu)
+personnage: Wuro
+fichier: wuro-masque-n2-<langue>.m4a
+intonation: solennel (proposée)
+texte: La terre est belle, mais personne ne la foule.
+genre: voix solennelle/libre
+duree: 3870ms (estimée)
+
+piste: n3
+histoire: Wuro et le masque de feuilles
+partie: Au commencement (jeu)
+personnage: Le griot
+fichier: wuro-masque-n3-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Wuro modèle un tertre, et un homme en sort, massif et silencieux. Que lui donne-t-il d'abord ?
+genre: adulte/homme
+duree: 7360ms (estimée)
+
+piste: maison
+histoire: Wuro et le masque de feuilles
+partie: Au commencement (jeu)
+personnage: Wuro
+fichier: wuro-masque-maison-<langue>.m4a
+intonation: solennel (proposée)
+texte: Une maison se bâtit. Prends d'abord le feu, et le marteau.
+genre: voix solennelle/libre
+duree: 4930ms (estimée)
+
+piste: feu
+histoire: Wuro et le masque de feuilles
+partie: La première houe (jeu)
+personnage: Le griot
+fichier: wuro-masque-feu-<langue>.m4a
+intonation: posé (proposée)
+texte: L'homme frappe, et la première houe naît. Il est forgeron. Il donne une houe à chacun, le mil se lève, et Wuro s'éloigne dans le ciel. Mais sans lui, les hommes oublient vite.
+genre: adulte/homme
+duree: 14340ms (estimée)
+
+piste: n4
+histoire: Wuro et le masque de feuilles
+partie: La première houe (jeu)
+personnage: Le cultivateur
+fichier: wuro-masque-n4-<langue>.m4a
+intonation: vif (proposée)
+texte: Recule ta houe, ce champ est à moi !
+genre: adulte/homme
+duree: 3870ms (estimée)
+
+piste: n5
+histoire: Wuro et le masque de feuilles
+partie: La première houe (jeu)
+personnage: Le jeune
+fichier: wuro-masque-n5-<langue>.m4a
+intonation: vif (proposée)
+texte: Ton champ s'arrête au piquet !
+genre: jeune/homme
+duree: 2580ms (estimée)
+
+piste: n6
+histoire: Wuro et le masque de feuilles
+partie: La première houe (jeu)
+personnage: Le griot
+fichier: wuro-masque-n6-<langue>.m4a
+intonation: posé (proposée)
+texte: Un tourbillon de poussière traverse le village, arrache le toit d'un grenier. Un enfant pleure.
+genre: adulte/homme
+duree: 6450ms (estimée)
+
+piste: n7
+histoire: Wuro et le masque de feuilles
+partie: La première houe (jeu)
+personnage: Le griot
+fichier: wuro-masque-n7-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Cette nuit-là, le forgeron reste seul devant sa forge éteinte. Que fait-il ?
+genre: adulte/homme
+duree: 5690ms (estimée)
+
+piste: dormir
+histoire: Wuro et le masque de feuilles
+partie: La première houe (jeu)
+personnage: Le griot
+fichier: wuro-masque-dormir-<langue>.m4a
+intonation: chuchoté (proposée)
+texte: Le lendemain, le tourbillon revient. Puis encore le lendemain. La forge reste froide, et on ne sait plus à qui le champ appartient.
+genre: adulte/homme
+duree: 9940ms (estimée)
+
+piste: appel
+histoire: Wuro et le masque de feuilles
+partie: La première houe (jeu)
+personnage: Le forgeron
+fichier: wuro-masque-appel-<langue>.m4a
+intonation: vif (proposée)
+texte: Wuro ! Les hommes se déchirent. Réponds-moi !
+genre: adulte/homme
+duree: 3940ms (estimée)
+
+piste: n8
+histoire: Wuro et le masque de feuilles
+partie: Le bois sacré (jeu)
+personnage: Le griot
+fichier: wuro-masque-n8-<langue>.m4a
+intonation: mystérieux (proposée)
+texte: Une étoile grossit, puis glisse vers le bois sacré. Le forgeron y entre. Les feuilles du grand arbre tombent et forment un costume, surmonté d'un masque de bois.
+genre: adulte/homme
+duree: 11840ms (estimée)
+
+piste: n9
+histoire: Wuro et le masque de feuilles
+partie: Le bois sacré (jeu)
+personnage: Wuro
+fichier: wuro-masque-n9-<langue>.m4a
+intonation: solennel (proposée)
+texte: Voici mon fils, Dwo. Toi, forgeron, porte-le. Va. Rends-leur l'ordre.
+genre: voix solennelle/libre
+duree: 5450ms (estimée)
+
+piste: n10
+histoire: Wuro et le masque de feuilles
+partie: La sortie de Dwo (jeu)
+personnage: Le griot
+fichier: wuro-masque-n10-<langue>.m4a
+intonation: posé (proposée)
+texte: À l'aube, les feuilles frémissent au-dessus d'un toit. Dwo sort. Les villageois reculent. Mais l'Ancien s'avance, le reconnaît et s'incline.
+genre: adulte/homme
+duree: 9100ms (estimée)
+
+piste: n11
+histoire: Wuro et le masque de feuilles
+partie: La sortie de Dwo (jeu)
+personnage: Le griot
+fichier: wuro-masque-n11-<langue>.m4a
+intonation: enlevé (proposée)
+texte: Dwo danse, et tout le village frappe dans ses mains. Suis la cadence !
+genre: adulte/homme
+duree: 6070ms (estimée)
+
+piste: n13
+histoire: Wuro et le masque de feuilles
+partie: La sortie de Dwo (jeu)
+personnage: Le griot
+fichier: wuro-masque-n13-<langue>.m4a
+intonation: posé (proposée)
+texte: Il secoue ses feuilles entre les deux querelleurs. Ils baissent les bras et se serrent la main. Le tourbillon revient : Dwo lui fait face, et le tourbillon s'éteint.
+genre: adulte/homme
+duree: 12220ms (estimée)
+
+piste: n14
+histoire: Wuro et le masque de feuilles
+partie: La sortie de Dwo (jeu)
+personnage: Le griot
+fichier: wuro-masque-n14-<langue>.m4a
+intonation: posé (proposée)
+texte: Depuis ce jour, quand le désordre revient, on sort le masque de feuilles. Et là-haut, une étoile veille.
+genre: adulte/homme
+duree: 7890ms (estimée)
+
+piste: film-001
+histoire: Wuro et le masque de feuilles
+partie: Film d'animation, de 00:02.0 à 00:07.0
+personnage: Narrateur
+fichier: wuro-masque-film-001-<langue>.m4a
+intonation: solennel (scénario)
+texte: Wuro et le masque de feuilles. Un mythe du pays bobo.
+genre: adulte/libre
+duree: 5000ms (mesurée sur le film)
+
+piste: film-002
+histoire: Wuro et le masque de feuilles
+partie: Film d'animation, de 00:08.0 à 00:13.9
+personnage: Narrateur
+fichier: wuro-masque-film-002-<langue>.m4a
+intonation: posé (proposée)
+texte: Au commencement, il n'y avait que la nuit. Puis Wuro abaissa les mains, et la terre monta.
+genre: adulte/libre
+duree: 5900ms (mesurée sur le film)
+
+piste: film-003
+histoire: Wuro et le masque de feuilles
+partie: Film d'animation, de 00:14.0 à 00:18.3
+personnage: Narrateur
+fichier: wuro-masque-film-003-<langue>.m4a
+intonation: posé (proposée)
+texte: Il lança une boule de feu vers l'horizon : ce fut le soleil.
+genre: adulte/libre
+duree: 4300ms (mesurée sur le film)
+
+piste: film-004
+histoire: Wuro et le masque de feuilles
+partie: Film d'animation, de 00:20.0 à 00:27.2
+personnage: Narrateur
+fichier: wuro-masque-film-004-<langue>.m4a
+intonation: posé (proposée)
+texte: Les arbres poussèrent d'un seul coup. Et Wuro, le Créateur, posa le pied sur sa terre neuve.
+genre: adulte/libre
+duree: 7200ms (mesurée sur le film)
+
+piste: film-005
+histoire: Wuro et le masque de feuilles
+partie: Film d'animation, de 00:32.0 à 00:38.4
+personnage: Narrateur
+fichier: wuro-masque-film-005-<langue>.m4a
+intonation: posé (proposée)
+texte: La terre était belle, mais personne ne la foulait. Wuro s'accroupit et modela un tertre.
+genre: adulte/libre
+duree: 6400ms (mesurée sur le film)
+
+piste: film-006
+histoire: Wuro et le masque de feuilles
+partie: Film d'animation, de 00:40.0 à 00:46.8
+personnage: Narrateur
+fichier: wuro-masque-film-006-<langue>.m4a
+intonation: émerveillé (scénario)
+texte: Un homme en sortit, massif et silencieux. Il regarda ses mains, puis son Créateur.
+genre: adulte/libre
+duree: 6800ms (mesurée sur le film)
+
+piste: film-007
+histoire: Wuro et le masque de feuilles
+partie: Film d'animation, de 00:50.0 à 00:55.6
+personnage: Narrateur
+fichier: wuro-masque-film-007-<langue>.m4a
+intonation: posé (proposée)
+texte: Wuro lui donna le feu. Il fit surgir une enclume et lui tendit un marteau.
+genre: adulte/libre
+duree: 5600ms (mesurée sur le film)
+
+piste: film-008
+histoire: Wuro et le masque de feuilles
+partie: Film d'animation, de 00:58.0 à 01:04.5
+personnage: Narrateur
+fichier: wuro-masque-film-008-<langue>.m4a
+intonation: posé (proposée)
+texte: L'homme frappa, les étincelles volèrent, et la première houe naquit. Il était forgeron.
+genre: adulte/libre
+duree: 6500ms (mesurée sur le film)
+
+piste: film-009
+histoire: Wuro et le masque de feuilles
+partie: Film d'animation, de 01:12.0 à 01:18.8
+personnage: Narrateur
+fichier: wuro-masque-film-009-<langue>.m4a
+intonation: posé (proposée)
+texte: Les maisons de banco s'élevèrent une à une. Wuro ouvrit les bras, et d'autres hommes sortirent de terre.
+genre: adulte/libre
+duree: 6800ms (mesurée sur le film)
+
+piste: film-010
+histoire: Wuro et le masque de feuilles
+partie: Film d'animation, de 01:24.0 à 01:29.9
+personnage: Narrateur
+fichier: wuro-masque-film-010-<langue>.m4a
+intonation: posé (proposée)
+texte: Le forgeron donna une houe à chacun. Tous cultivèrent, et le mil se leva.
+genre: adulte/libre
+duree: 5900ms (mesurée sur le film)
+
+piste: film-011
+histoire: Wuro et le masque de feuilles
+partie: Film d'animation, de 01:38.0 à 01:42.5
+personnage: Narrateur
+fichier: wuro-masque-film-011-<langue>.m4a
+intonation: tendre (scénario)
+texte: Content de son œuvre, Wuro les salua et s'éloigna dans le ciel.
+genre: adulte/libre
+duree: 4500ms (mesurée sur le film)
+
+piste: film-012
+histoire: Wuro et le masque de feuilles
+partie: Film d'animation, de 01:51.0 à 01:54.4
+personnage: Narrateur
+fichier: wuro-masque-film-012-<langue>.m4a
+intonation: inquiet (scénario)
+texte: Mais sans Wuro, les hommes oublièrent vite.
+genre: adulte/libre
+duree: 3400ms (mesurée sur le film)
+
+piste: film-013
+histoire: Wuro et le masque de feuilles
+partie: Film d'animation, de 01:54.6 à 01:57.7
+personnage: CULTIVATEUR
+fichier: wuro-masque-film-013-<langue>.m4a
+intonation: colère (scénario)
+texte: Recule ta houe, ce champ est à moi !
+genre: adulte/homme
+duree: 3100ms (mesurée sur le film)
+
+piste: film-014
+histoire: Wuro et le masque de feuilles
+partie: Film d'animation, de 01:57.7 à 02:00.3
+personnage: JEUNE
+fichier: wuro-masque-film-014-<langue>.m4a
+intonation: colère (scénario)
+texte: Ton champ s'arrête au piquet !
+genre: enfant/libre
+duree: 2600ms (mesurée sur le film)
+
+piste: film-015
+histoire: Wuro et le masque de feuilles
+partie: Film d'animation, de 02:05.0 à 02:12.9
+personnage: Narrateur
+fichier: wuro-masque-film-015-<langue>.m4a
+intonation: posé (proposée)
+texte: Puis un tourbillon de poussière traversa le village. Il arracha le toit d'un grenier. Un enfant pleura.
+genre: adulte/libre
+duree: 7900ms (mesurée sur le film)
+
+piste: film-016
+histoire: Wuro et le masque de feuilles
+partie: Film d'animation, de 02:17.0 à 02:21.7
+personnage: Narrateur
+fichier: wuro-masque-film-016-<langue>.m4a
+intonation: posé (proposée)
+texte: Cette nuit-là, le forgeron resta seul devant sa forge éteinte.
+genre: adulte/libre
+duree: 4700ms (mesurée sur le film)
+
+piste: film-017
+histoire: Wuro et le masque de feuilles
+partie: Film d'animation, de 02:23.8 à 02:28.0
+personnage: FORGERON
+fichier: wuro-masque-film-017-<langue>.m4a
+intonation: suppliant (scénario)
+texte: Wuro ! Les hommes se déchirent. Réponds-moi !
+genre: adulte/homme
+duree: 4200ms (mesurée sur le film)
+
+piste: film-018
+histoire: Wuro et le masque de feuilles
+partie: Film d'animation, de 02:29.0 à 02:33.0
+personnage: Narrateur
+fichier: wuro-masque-film-018-<langue>.m4a
+intonation: posé (proposée)
+texte: Une étoile grossit, puis glissa vers le bois sacré.
+genre: adulte/libre
+duree: 4000ms (mesurée sur le film)
+
+piste: film-019
+histoire: Wuro et le masque de feuilles
+partie: Film d'animation, de 02:38.0 à 02:43.1
+personnage: Narrateur
+fichier: wuro-masque-film-019-<langue>.m4a
+intonation: posé (proposée)
+texte: Le forgeron y entra. Une lumière tomba : Wuro était là.
+genre: adulte/libre
+duree: 5100ms (mesurée sur le film)
+
+piste: film-020
+histoire: Wuro et le masque de feuilles
+partie: Film d'animation, de 02:48.0 à 02:55.5
+personnage: Narrateur
+fichier: wuro-masque-film-020-<langue>.m4a
+intonation: mystérieux (scénario)
+texte: Wuro leva les bras vers le grand arbre. Les feuilles tombèrent et formèrent un costume, surmonté d'un masque de bois.
+genre: adulte/libre
+duree: 7500ms (mesurée sur le film)
+
+piste: film-021
+histoire: Wuro et le masque de feuilles
+partie: Film d'animation, de 02:59.0 à 03:02.9
+personnage: Narrateur
+fichier: wuro-masque-film-021-<langue>.m4a
+intonation: posé (proposée)
+texte: Il le toucha : c'était Dwo, son fils.
+genre: adulte/libre
+duree: 3900ms (mesurée sur le film)
+
+piste: film-022
+histoire: Wuro et le masque de feuilles
+partie: Film d'animation, de 03:03.0 à 03:08.1
+personnage: WURO
+fichier: wuro-masque-film-022-<langue>.m4a
+intonation: grave, lent (scénario)
+texte: Voici mon fils. Toi, forgeron, porte-le.
+genre: esprit, créature : voix grave/libre
+duree: 5100ms (mesurée sur le film)
+
+piste: film-023
+histoire: Wuro et le masque de feuilles
+partie: Film d'animation, de 03:09.0 à 03:15.4
+personnage: Narrateur
+fichier: wuro-masque-film-023-<langue>.m4a
+intonation: posé (proposée)
+texte: Dwo tourna sur lui-même et redevint costume. Le forgeron le reçut dans ses bras.
+genre: adulte/libre
+duree: 6400ms (mesurée sur le film)
+
+piste: film-024
+histoire: Wuro et le masque de feuilles
+partie: Film d'animation, de 03:17.2 à 03:20.6
+personnage: WURO
+fichier: wuro-masque-film-024-<langue>.m4a
+intonation: doux (scénario)
+texte: Va. Rends-leur l'ordre.
+genre: esprit, créature : voix grave/libre
+duree: 3400ms (mesurée sur le film)
+
+piste: film-025
+histoire: Wuro et le masque de feuilles
+partie: Film d'animation, de 03:22.0 à 03:26.7
+personnage: Narrateur
+fichier: wuro-masque-film-025-<langue>.m4a
+intonation: posé (proposée)
+texte: Wuro remonta au ciel, et le forgeron repartit, décidé.
+genre: adulte/libre
+duree: 4700ms (mesurée sur le film)
+
+piste: film-026
+histoire: Wuro et le masque de feuilles
+partie: Film d'animation, de 03:32.0 à 03:38.0
+personnage: Narrateur
+fichier: wuro-masque-film-026-<langue>.m4a
+intonation: posé (proposée)
+texte: À l'aube, il passa derrière une case. Les feuilles frémirent au-dessus du toit.
+genre: adulte/libre
+duree: 6000ms (mesurée sur le film)
+
+piste: film-027
+histoire: Wuro et le masque de feuilles
+partie: Film d'animation, de 03:40.0 à 03:45.3
+personnage: Narrateur
+fichier: wuro-masque-film-027-<langue>.m4a
+intonation: posé (proposée)
+texte: Dwo sortit. Les villageois reculèrent, effrayés.
+genre: adulte/libre
+duree: 5300ms (mesurée sur le film)
+
+piste: film-028
+histoire: Wuro et le masque de feuilles
+partie: Film d'animation, de 03:47.0 à 03:51.6
+personnage: Narrateur
+fichier: wuro-masque-film-028-<langue>.m4a
+intonation: apaisé (scénario)
+texte: Mais l'Ancien s'avança, reconnut le fils de Wuro et s'inclina.
+genre: adulte/libre
+duree: 4600ms (mesurée sur le film)
+
+piste: film-029
+histoire: Wuro et le masque de feuilles
+partie: Film d'animation, de 03:57.0 à 04:01.0
+personnage: Narrateur
+fichier: wuro-masque-film-029-<langue>.m4a
+intonation: joyeux (scénario)
+texte: Dwo dansa, et le village frappa dans ses mains.
+genre: adulte/libre
+duree: 4000ms (mesurée sur le film)
+
+piste: film-030
+histoire: Wuro et le masque de feuilles
+partie: Film d'animation, de 04:06.0 à 04:12.1
+personnage: Narrateur
+fichier: wuro-masque-film-030-<langue>.m4a
+intonation: posé (proposée)
+texte: Il secoua ses feuilles entre les deux querelleurs. Ils baissèrent les bras et se serrèrent la main.
+genre: adulte/libre
+duree: 6100ms (mesurée sur le film)
+
+piste: film-031
+histoire: Wuro et le masque de feuilles
+partie: Film d'animation, de 04:17.0 à 04:24.2
+personnage: Narrateur
+fichier: wuro-masque-film-031-<langue>.m4a
+intonation: posé (proposée)
+texte: Le tourbillon revint. Dwo lui fit face, les bras ouverts, et le tourbillon s'éteignit.
+genre: adulte/libre
+duree: 7200ms (mesurée sur le film)
+
+piste: film-032
+histoire: Wuro et le masque de feuilles
+partie: Film d'animation, de 04:30.0 à 04:34.6
+personnage: Narrateur
+fichier: wuro-masque-film-032-<langue>.m4a
+intonation: joyeux (scénario)
+texte: Le mil sortit de terre, et tout le village dansa avec Dwo.
+genre: adulte/libre
+duree: 4600ms (mesurée sur le film)
+
+piste: film-033
+histoire: Wuro et le masque de feuilles
+partie: Film d'animation, de 04:47.0 à 04:53.2
+personnage: Narrateur
+fichier: wuro-masque-film-033-<langue>.m4a
+intonation: doux (scénario)
+texte: Le soir, Dwo rentra dans le bois. Le forgeron en ressortit seul.
+genre: adulte/libre
+duree: 6200ms (mesurée sur le film)
+
+piste: film-034
+histoire: Wuro et le masque de feuilles
+partie: Film d'animation, de 04:55.0 à 05:00.1
+personnage: Narrateur
+fichier: wuro-masque-film-034-<langue>.m4a
+intonation: posé (proposée)
+texte: Depuis ce jour, quand le désordre revient, on sort le masque de feuilles.
+genre: adulte/libre
+duree: 5100ms (mesurée sur le film)
+
+piste: film-035
+histoire: Wuro et le masque de feuilles
+partie: Film d'animation, de 05:02.0 à 05:04.9
+personnage: Narrateur
+fichier: wuro-masque-film-035-<langue>.m4a
+intonation: très doux (scénario)
+texte: Et là-haut, une étoile veille.
+genre: adulte/libre
+duree: 2900ms (mesurée sur le film)

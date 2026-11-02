@@ -113,7 +113,8 @@
       "text": "Les nuages s'ouvrent, et la terre boit enfin. Ils bâtissent une première case ronde, et ils ouvrent un champ. Regarde.",
       "explore": [
         "case-ronde",
-        "canari"
+        "canari",
+        "maison-tiebele"
       ],
       "next": "n4"
     },

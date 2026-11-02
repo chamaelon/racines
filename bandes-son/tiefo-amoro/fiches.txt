@@ -1,0 +1,132 @@
+# Tiéfo Amoro et la chute de Noumoudara (1897) : fiches des bandes-son
+# Généré par « npm run bandes-son » depuis pistes.json. Modifier pistes.json, pas ce fichier.
+
+piste: n1
+histoire: Tiéfo Amoro et la chute de Noumoudara (1897)
+partie: Noumoudara, centre des Tiéfo (jeu)
+personnage: Le griot
+fichier: tiefo-amoro-n1-<langue>.m4a
+intonation: posé (proposée)
+texte: Noumoudara était le principal centre des Tiéfo, dans l'ouest de l'actuel Burkina Faso. À sa tête, à la fin du XIXe siècle, se trouvait Tiéfo Amoro.
+genre: adulte/homme
+duree: 10930ms (estimée)
+
+piste: n2
+histoire: Tiéfo Amoro et la chute de Noumoudara (1897)
+partie: Noumoudara, centre des Tiéfo (jeu)
+personnage: L'historien
+fichier: tiefo-amoro-n2-<langue>.m4a
+intonation: posé (proposée)
+texte: Une conférence donnée à Bobo-Dioulasso en 2026 le présente comme le onzième chef des Tiéfo, né vers 1840.
+genre: âgé/homme
+duree: 7290ms (estimée)
+
+piste: n3
+histoire: Tiéfo Amoro et la chute de Noumoudara (1897)
+partie: 1897 : Samory approche (jeu)
+personnage: Le griot
+fichier: tiefo-amoro-n3-<langue>.m4a
+intonation: posé (proposée)
+texte: En 1897, Samory Touré progresse vers la région de Bobo-Dioulasso. Selon cette même conférence, Tiéfo Amoro lui oppose plusieurs combats, notamment à Bama et à Péni.
+genre: adulte/homme
+duree: 10930ms (estimée)
+
+piste: n4
+histoire: Tiéfo Amoro et la chute de Noumoudara (1897)
+partie: 1897 : Samory approche (jeu)
+personnage: Le griot
+fichier: tiefo-amoro-n4-<langue>.m4a
+intonation: posé (proposée)
+texte: Frappe l'alerte qui appelle les combattants.
+genre: adulte/homme
+duree: 2580ms (estimée)
+
+piste: n6
+histoire: Tiéfo Amoro et la chute de Noumoudara (1897)
+partie: Le siège (jeu)
+personnage: Le griot
+fichier: tiefo-amoro-n6-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Puis Samory assiège la forteresse. Où te tiens-tu pendant le siège ?
+genre: adulte/homme
+duree: 5160ms (estimée)
+
+piste: murs
+histoire: Tiéfo Amoro et la chute de Noumoudara (1897)
+partie: Le siège (jeu)
+personnage: Le défenseur
+fichier: tiefo-amoro-murs-<langue>.m4a
+intonation: grave (proposée)
+texte: Tiens bon. Il ne faut pas qu'ils trouvent une brèche.
+genre: adulte/homme
+duree: 4400ms (estimée)
+
+piste: chef
+histoire: Tiéfo Amoro et la chute de Noumoudara (1897)
+partie: Le siège (jeu)
+personnage: Tiéfo Amoro
+fichier: tiefo-amoro-chef-<langue>.m4a
+intonation: grave (proposée)
+texte: Une cité se défend tant qu'il reste quelqu'un pour la défendre.
+genre: adulte/homme
+duree: 4480ms (estimée)
+
+piste: n7
+histoire: Tiéfo Amoro et la chute de Noumoudara (1897)
+partie: Le siège (jeu)
+personnage: Le griot
+fichier: tiefo-amoro-n7-<langue>.m4a
+intonation: grave (proposée)
+texte: Cette parole est imaginée pour le jeu : aucune source ne la rapporte.
+genre: adulte/homme
+duree: 5390ms (estimée)
+
+piste: chute
+histoire: Tiéfo Amoro et la chute de Noumoudara (1897)
+partie: Le siège (jeu)
+personnage: Le griot
+fichier: tiefo-amoro-chute-<langue>.m4a
+intonation: grave (proposée)
+texte: La forteresse tombe après environ une semaine, et Samory ordonne de la détruire pour montrer sa force.
+genre: adulte/homme
+duree: 6910ms (estimée)
+
+piste: n8
+histoire: Tiéfo Amoro et la chute de Noumoudara (1897)
+partie: La fin de Tiéfo Amoro (jeu)
+personnage: L'historien
+fichier: tiefo-amoro-n8-<langue>.m4a
+intonation: posé (proposée)
+texte: Selon l'historien cité lors de la conférence, une trahison aurait affaibli l'armée de Tiéfo Amoro, et celui-ci aurait choisi la mort plutôt que la reddition.
+genre: âgé/homme
+duree: 10100ms (estimée)
+
+piste: n9
+histoire: Tiéfo Amoro et la chute de Noumoudara (1897)
+partie: La fin de Tiéfo Amoro (jeu)
+personnage: Le griot
+fichier: tiefo-amoro-n9-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Que fais-tu de ce récit ?
+genre: adulte/homme
+duree: 2580ms (estimée)
+
+piste: source
+histoire: Tiéfo Amoro et la chute de Noumoudara (1897)
+partie: La fin de Tiéfo Amoro (jeu)
+personnage: Le griot
+fichier: tiefo-amoro-source-<langue>.m4a
+intonation: posé (proposée)
+texte: Bonne question : nous n'avons trouvé qu'une seule source pour ce récit de sa fin. Il est donné ici comme tel, et il reste à valider.
+genre: adulte/homme
+duree: 10780ms (estimée)
+
+piste: croire
+histoire: Tiéfo Amoro et la chute de Noumoudara (1897)
+partie: La fin de Tiéfo Amoro (jeu)
+personnage: Le griot
+fichier: tiefo-amoro-croire-<langue>.m4a
+intonation: posé (proposée)
+texte: Prudence : une seule source rapporte cette fin. Ce qu'on sait, c'est qu'avant même la conquête coloniale, les peuples de l'Ouest ont dû défendre leurs cités contre de grands empires conquérants.
+genre: adulte/homme
+duree: 12830ms (estimée)

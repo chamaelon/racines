@@ -72,7 +72,8 @@
       "text": "1915. Dans la boucle du Mouhoun, un village bwa vit au rythme des champs. Tenin et son mari attendent un enfant. Mais le pays est sous administration coloniale.",
       "scene": "village",
       "explore": [
-        "faso-dan-fani"
+        "faso-dan-fani",
+        "arc-fleches"
       ],
       "next": "n2"
     },

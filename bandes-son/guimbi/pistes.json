@@ -1,0 +1,745 @@
+{
+ "id": "guimbi",
+ "titre": "Guimbi Ouattara, la reine de Bobo",
+ "peuple": "Dioula",
+ "langues_cibles": [
+  "fr",
+  "dyu"
+ ],
+ "pistes": [
+  {
+   "id": "titre",
+   "type": "titre",
+   "chemin": "titre",
+   "texte": "Guimbi Ouattara, la reine de Bobo"
+  },
+  {
+   "id": "presentation",
+   "type": "presentation",
+   "chemin": "presentation",
+   "texte": "À Sya, on écoute Guimbi Ouattara. Tu es l'un de ses envoyés : tu assistes à l'accueil d'un explorateur, puis à l'ultimatum de Tiéba. Tes choix changent ce que tu retiens, pas ce qui s'est passé."
+  },
+  {
+   "id": "personnages.griot.nom",
+   "type": "personnage",
+   "chemin": "personnages.griot.nom",
+   "texte": "Le griot"
+  },
+  {
+   "id": "personnages.guimbi.nom",
+   "type": "personnage",
+   "chemin": "personnages.guimbi.nom",
+   "texte": "Guimbi Ouattara"
+  },
+  {
+   "id": "personnages.explorateur.nom",
+   "type": "personnage",
+   "chemin": "personnages.explorateur.nom",
+   "texte": "L'explorateur"
+  },
+  {
+   "id": "personnages.envoye.nom",
+   "type": "personnage",
+   "chemin": "personnages.envoye.nom",
+   "texte": "L'envoyé de Tiéba"
+  },
+  {
+   "id": "personnages.griotte.nom",
+   "type": "personnage",
+   "chemin": "personnages.griotte.nom",
+   "texte": "La griotte"
+  },
+  {
+   "id": "personnages.plaignant.nom",
+   "type": "personnage",
+   "chemin": "personnages.plaignant.nom",
+   "texte": "Le plaignant"
+  },
+  {
+   "id": "fins.canon",
+   "type": "fin",
+   "chemin": "fins.canon",
+   "texte": "Mémoire : celle qui a tenu tête à un roi"
+  },
+  {
+   "id": "fins.oubli",
+   "type": "fin",
+   "chemin": "fins.oubli",
+   "texte": "Mémoire à reprendre : réécoute la griotte"
+  },
+  {
+   "id": "n1",
+   "type": "replique",
+   "chemin": "nodes.n1.text",
+   "noeud": "n1",
+   "partie": "Sya, à la fin du XIXe siècle (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Fin du dix-neuvième siècle. Sya, que l'on appelle aujourd'hui Bobo-Dioulasso. Une femme y compte plus que beaucoup d'hommes.",
+   "genre": "adulte/homme",
+   "duree_ms": 7890,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n2",
+   "type": "replique",
+   "chemin": "nodes.n2.text",
+   "noeud": "n2",
+   "partie": "Sya, à la fin du XIXe siècle (jeu)",
+   "personnage": "Guimbi Ouattara",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Vous partagerez ce champ, et chacun gardera sa part.",
+   "genre": "adulte/femme",
+   "duree_ms": 3870,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n3",
+   "type": "replique",
+   "chemin": "nodes.n3.text",
+   "noeud": "n3",
+   "partie": "Sya, à la fin du XIXe siècle (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "On vient la voir pour régler les disputes, et on l'écoute. Un jour, un explorateur européen arrive à Sya, épuisé.",
+   "genre": "adulte/homme",
+   "duree_ms": 8650,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n4",
+   "type": "replique",
+   "chemin": "nodes.n4.text",
+   "noeud": "n4",
+   "partie": "Sya, à la fin du XIXe siècle (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Tu dois lui porter ce qu'elle a ordonné. C'est l'accueil dû à un visiteur. Que lui portes-tu ?",
+   "genre": "adulte/homme",
+   "duree_ms": 7740,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n4.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.n4.choices.0.label",
+   "texte": "De l'eau et de la cola"
+  },
+  {
+   "id": "nodes.n4.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.n4.choices.0.tag",
+   "texte": "accueil"
+  },
+  {
+   "id": "nodes.n4.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.n4.choices.1.label",
+   "texte": "Rien, c'est un inconnu"
+  },
+  {
+   "id": "nodes.n4.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.n4.choices.1.tag",
+   "texte": "hésitation"
+  },
+  {
+   "id": "rien",
+   "type": "replique",
+   "chemin": "nodes.rien.text",
+   "noeud": "rien",
+   "partie": "Sya, à la fin du XIXe siècle (jeu)",
+   "personnage": "Guimbi Ouattara",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Ici, l'étranger est sous ma protection. Porte-lui de l'eau et de la cola.",
+   "genre": "adulte/femme",
+   "duree_ms": 5690,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "bon",
+   "type": "replique",
+   "chemin": "nodes.bon.text",
+   "noeud": "bon",
+   "partie": "Le voyageur reçu (jeu)",
+   "personnage": "L'explorateur",
+   "intonation": "joyeux",
+   "intonation_statut": "proposée",
+   "texte": "Madame, je vous remercie de votre accueil. J'écrirai ce que j'ai vu.",
+   "genre": "adulte/homme",
+   "duree_ms": 5310,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n5",
+   "type": "replique",
+   "chemin": "nodes.n5.text",
+   "noeud": "n5",
+   "partie": "Le voyageur reçu (jeu)",
+   "personnage": "Le griot",
+   "intonation": "joyeux",
+   "intonation_statut": "proposée",
+   "texte": "Mais un danger s'approche : Tiéba, le roi de Sikasso, veut étendre son pouvoir. Il envoie un émissaire au galop.",
+   "genre": "adulte/homme",
+   "duree_ms": 8650,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n6",
+   "type": "replique",
+   "chemin": "nodes.n6.text",
+   "noeud": "n6",
+   "partie": "Tiéba exige la soumission (jeu)",
+   "personnage": "L'envoyé de Tiéba",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Tiéba exige ta soumission.",
+   "genre": "adulte/homme",
+   "duree_ms": 1820,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n7",
+   "type": "replique",
+   "chemin": "nodes.n7.text",
+   "noeud": "n7",
+   "partie": "Tiéba exige la soumission (jeu)",
+   "personnage": "Guimbi Ouattara",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Dis à ton maître que Bobo ne plie pas.",
+   "genre": "adulte/femme",
+   "duree_ms": 3720,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n8",
+   "type": "replique",
+   "chemin": "nodes.n8.text",
+   "noeud": "n8",
+   "partie": "Tiéba exige la soumission (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Silence dans la cour. Chacun sait ce que veut dire ce refus. Où vas-tu te placer ? Le récit, lui, restera le même.",
+   "genre": "adulte/homme",
+   "duree_ms": 10240,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n8.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.n8.choices.0.label",
+   "texte": "Sur les murs, avec les défenseurs"
+  },
+  {
+   "id": "nodes.n8.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.n8.choices.0.tag",
+   "texte": "sur les murs"
+  },
+  {
+   "id": "nodes.n8.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.n8.choices.1.label",
+   "texte": "Près de Guimbi, dans la cour"
+  },
+  {
+   "id": "nodes.n8.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.n8.choices.1.tag",
+   "texte": "dans la cour"
+  },
+  {
+   "id": "murs",
+   "type": "replique",
+   "chemin": "nodes.murs.text",
+   "noeud": "murs",
+   "partie": "Tiéba exige la soumission (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Les cavaliers arrivent devant la ville. Depuis les murs, tu vois les flèches pleuvoir et les assauts se briser. Enfin, les cavaliers reculent.",
+   "genre": "adulte/homme",
+   "duree_ms": 9940,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "cour",
+   "type": "replique",
+   "chemin": "nodes.cour.text",
+   "noeud": "cour",
+   "partie": "Tiéba exige la soumission (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Dans la cour, on entend les cris venus des murs. Les défenseurs tiennent bon, et les assauts se brisent. Enfin, les cavaliers reculent.",
+   "genre": "adulte/homme",
+   "duree_ms": 10090,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "bilan",
+   "type": "replique",
+   "chemin": "nodes.bilan.text",
+   "noeud": "bilan",
+   "partie": "La mémoire de Guimbi (jeu)",
+   "personnage": "La griotte",
+   "intonation": "vif",
+   "intonation_statut": "proposée",
+   "texte": "Guimbi ! Celle qui a tenu tête à un roi.",
+   "genre": "adulte/femme",
+   "duree_ms": 4400,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n9.question",
+   "type": "jeu",
+   "chemin": "nodes.n9.question",
+   "texte": "À quel roi Guimbi Ouattara a-t-elle tenu tête ?"
+  },
+  {
+   "id": "nodes.n9.gagne",
+   "type": "jeu",
+   "chemin": "nodes.n9.gagne",
+   "texte": "Oui : Tiéba, le roi de Sikasso. Bobo est sauve, et la ville acclame Guimbi."
+  },
+  {
+   "id": "nodes.n9.perdu",
+   "type": "jeu",
+   "chemin": "nodes.n9.perdu",
+   "texte": "C'était Tiéba, le roi de Sikasso. Écoute encore la griotte."
+  },
+  {
+   "id": "nodes.n9.reponses.0.label",
+   "type": "jeu",
+   "chemin": "nodes.n9.reponses.0.label",
+   "texte": "Tiéba, le roi de Sikasso"
+  },
+  {
+   "id": "nodes.n9.reponses.1.label",
+   "type": "jeu",
+   "chemin": "nodes.n9.reponses.1.label",
+   "texte": "Samory Touré"
+  },
+  {
+   "id": "nodes.n9.reponses.2.label",
+   "type": "jeu",
+   "chemin": "nodes.n9.reponses.2.label",
+   "texte": "Naaba Wobgo"
+  },
+  {
+   "id": "nodes.n9.tags.win",
+   "type": "parcours",
+   "chemin": "nodes.n9.tags.win",
+   "texte": "bonne réponse"
+  },
+  {
+   "id": "nodes.n9.tags.lose",
+   "type": "parcours",
+   "chemin": "nodes.n9.tags.lose",
+   "texte": "réponse manquée"
+  },
+  {
+   "id": "relire",
+   "type": "replique",
+   "chemin": "nodes.relire.text",
+   "noeud": "relire",
+   "partie": "La mémoire de Guimbi (jeu)",
+   "personnage": "La griotte",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Reviens m'écouter : un nom se garde en le répétant.",
+   "genre": "adulte/femme",
+   "duree_ms": 4250,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "bien",
+   "type": "replique",
+   "chemin": "nodes.bien.text",
+   "noeud": "bien",
+   "partie": "La mémoire de Guimbi (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "À Bobo-Dioulasso, on se souvient encore de son nom.",
+   "genre": "adulte/homme",
+   "duree_ms": 3870,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "film-001",
+   "type": "film",
+   "partie": "Film d'animation, de 00:02.0 à 00:07.6",
+   "horodatage": {
+    "debut_ms": 2000,
+    "fin_ms": 7600
+   },
+   "personnage": "Narrateur",
+   "intonation": "sobre",
+   "intonation_statut": "scénario",
+   "texte": "Guimbi Ouattara. Un récit historique, simplifié pour l'image.",
+   "genre": "adulte/libre",
+   "duree_ms": 5600,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-002",
+   "type": "film",
+   "partie": "Film d'animation, de 00:09.0 à 00:15.2",
+   "horodatage": {
+    "debut_ms": 9000,
+    "fin_ms": 15200
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Fin du dix-neuvième siècle. Sya, que l'on appelle aujourd'hui Bobo-Dioulasso.",
+   "genre": "adulte/libre",
+   "duree_ms": 6200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-003",
+   "type": "film",
+   "partie": "Film d'animation, de 00:28.0 à 00:32.1",
+   "horodatage": {
+    "debut_ms": 28000,
+    "fin_ms": 32100
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Une femme y compte plus que beaucoup d'hommes : Guimbi Ouattara.",
+   "genre": "adulte/libre",
+   "duree_ms": 4100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-004",
+   "type": "film",
+   "partie": "Film d'animation, de 00:38.0 à 00:42.2",
+   "horodatage": {
+    "debut_ms": 38000,
+    "fin_ms": 42200
+   },
+   "personnage": "GUIMBI",
+   "intonation": "calme, ferme",
+   "intonation_statut": "scénario",
+   "texte": "Vous partagerez ce champ, et chacun gardera sa part.",
+   "genre": "adulte/femme",
+   "duree_ms": 4200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-005",
+   "type": "film",
+   "partie": "Film d'animation, de 00:46.0 à 00:50.1",
+   "horodatage": {
+    "debut_ms": 46000,
+    "fin_ms": 50100
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "On vient la voir pour régler les disputes, et on l'écoute.",
+   "genre": "adulte/libre",
+   "duree_ms": 4100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-006",
+   "type": "film",
+   "partie": "Film d'animation, de 01:04.0 à 01:08.7",
+   "horodatage": {
+    "debut_ms": 64000,
+    "fin_ms": 68700
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Un jour, un explorateur européen arrive à Sya, épuisé.",
+   "genre": "adulte/libre",
+   "duree_ms": 4700,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-007",
+   "type": "film",
+   "partie": "Film d'animation, de 01:13.0 à 01:17.7",
+   "horodatage": {
+    "debut_ms": 73000,
+    "fin_ms": 77700
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Elle lui fait porter de l'eau et de la cola : c'est l'accueil dû à un visiteur.",
+   "genre": "adulte/libre",
+   "duree_ms": 4700,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-008",
+   "type": "film",
+   "partie": "Film d'animation, de 01:20.0 à 01:23.0",
+   "horodatage": {
+    "debut_ms": 80000,
+    "fin_ms": 83000
+   },
+   "personnage": "EXPLORATEUR",
+   "intonation": "poli",
+   "intonation_statut": "scénario",
+   "texte": "Madame, je vous remercie de votre accueil.",
+   "genre": "adulte/homme",
+   "duree_ms": 3000,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-009",
+   "type": "film",
+   "partie": "Film d'animation, de 01:23.0 à 01:26.5",
+   "horodatage": {
+    "debut_ms": 83000,
+    "fin_ms": 86500
+   },
+   "personnage": "GUIMBI",
+   "intonation": "souriant",
+   "intonation_statut": "scénario",
+   "texte": "Ici, l'étranger est sous ma protection.",
+   "genre": "adulte/femme",
+   "duree_ms": 3500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-010",
+   "type": "film",
+   "partie": "Film d'animation, de 01:26.5 à 01:28.6",
+   "horodatage": {
+    "debut_ms": 86500,
+    "fin_ms": 88600
+   },
+   "personnage": "EXPLORATEUR",
+   "intonation": "admiratif",
+   "intonation_statut": "scénario",
+   "texte": "J'écrirai ce que j'ai vu.",
+   "genre": "adulte/homme",
+   "duree_ms": 2100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-011",
+   "type": "film",
+   "partie": "Film d'animation, de 01:42.0 à 01:48.9",
+   "horodatage": {
+    "debut_ms": 102000,
+    "fin_ms": 108900
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Mais un danger s'approche. Tiéba, le roi de Sikasso, veut étendre son pouvoir.",
+   "genre": "adulte/libre",
+   "duree_ms": 6900,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-012",
+   "type": "film",
+   "partie": "Film d'animation, de 01:52.0 à 01:56.8",
+   "horodatage": {
+    "debut_ms": 112000,
+    "fin_ms": 116800
+   },
+   "personnage": "TIEBA",
+   "intonation": "autoritaire",
+   "intonation_statut": "scénario",
+   "texte": "Bobo se soumettra. Porte-lui mon message.",
+   "genre": "adulte/homme",
+   "duree_ms": 4800,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-013",
+   "type": "film",
+   "partie": "Film d'animation, de 02:01.0 à 02:03.5",
+   "horodatage": {
+    "debut_ms": 121000,
+    "fin_ms": 123500
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Un émissaire part au galop.",
+   "genre": "adulte/libre",
+   "duree_ms": 2500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-014",
+   "type": "film",
+   "partie": "Film d'animation, de 02:18.5 à 02:20.9",
+   "horodatage": {
+    "debut_ms": 138500,
+    "fin_ms": 140900
+   },
+   "personnage": "ENVOYE",
+   "intonation": "arrogant",
+   "intonation_statut": "scénario",
+   "texte": "Tiéba exige ta soumission.",
+   "genre": "adulte/homme",
+   "duree_ms": 2400,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-015",
+   "type": "film",
+   "partie": "Film d'animation, de 02:23.0 à 02:25.2",
+   "horodatage": {
+    "debut_ms": 143000,
+    "fin_ms": 145200
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Guimbi se lève.",
+   "genre": "adulte/libre",
+   "duree_ms": 2200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-016",
+   "type": "film",
+   "partie": "Film d'animation, de 02:26.5 à 02:29.4",
+   "horodatage": {
+    "debut_ms": 146500,
+    "fin_ms": 149400
+   },
+   "personnage": "GUIMBI",
+   "intonation": "ferme, sans crier",
+   "intonation_statut": "scénario",
+   "texte": "Dis à ton maître que Bobo ne plie pas.",
+   "genre": "adulte/femme",
+   "duree_ms": 2900,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-017",
+   "type": "film",
+   "partie": "Film d'animation, de 02:33.0 à 02:38.1",
+   "horodatage": {
+    "debut_ms": 153000,
+    "fin_ms": 158100
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Silence dans la cour. Chacun sait ce que veut dire ce refus.",
+   "genre": "adulte/libre",
+   "duree_ms": 5100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-018",
+   "type": "film",
+   "partie": "Film d'animation, de 02:54.0 à 02:59.9",
+   "horodatage": {
+    "debut_ms": 174000,
+    "fin_ms": 179900
+   },
+   "personnage": "Narrateur",
+   "intonation": "tendu",
+   "intonation_statut": "scénario",
+   "texte": "Les cavaliers arrivent devant la ville. Sur les murs, les défenseurs tiennent bon.",
+   "genre": "adulte/libre",
+   "duree_ms": 5900,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-019",
+   "type": "film",
+   "partie": "Film d'animation, de 03:08.0 à 03:12.2",
+   "horodatage": {
+    "debut_ms": 188000,
+    "fin_ms": 192200
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Les flèches pleuvent. Les assauts se brisent.",
+   "genre": "adulte/libre",
+   "duree_ms": 4200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-020",
+   "type": "film",
+   "partie": "Film d'animation, de 03:20.0 à 03:23.2",
+   "horodatage": {
+    "debut_ms": 200000,
+    "fin_ms": 203200
+   },
+   "personnage": "Narrateur",
+   "intonation": "ferme",
+   "intonation_statut": "scénario",
+   "texte": "Enfin, les cavaliers reculent.",
+   "genre": "adulte/libre",
+   "duree_ms": 3200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-021",
+   "type": "film",
+   "partie": "Film d'animation, de 03:39.0 à 03:42.5",
+   "horodatage": {
+    "debut_ms": 219000,
+    "fin_ms": 222500
+   },
+   "personnage": "Narrateur",
+   "intonation": "joyeux",
+   "intonation_statut": "scénario",
+   "texte": "Bobo est sauve, et la ville acclame Guimbi.",
+   "genre": "adulte/libre",
+   "duree_ms": 3500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-022",
+   "type": "film",
+   "partie": "Film d'animation, de 04:10.5 à 04:15.4",
+   "horodatage": {
+    "debut_ms": 250500,
+    "fin_ms": 255400
+   },
+   "personnage": "GRIOTTE",
+   "intonation": "voix chantante",
+   "intonation_statut": "scénario",
+   "texte": "Guimbi ! Celle qui a tenu tête à un roi.",
+   "genre": "griot, griotte/libre",
+   "duree_ms": 4900,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-023",
+   "type": "film",
+   "partie": "Film d'animation, de 04:16.0 à 04:20.0",
+   "horodatage": {
+    "debut_ms": 256000,
+    "fin_ms": 260000
+   },
+   "personnage": "Narrateur",
+   "intonation": "doux",
+   "intonation_statut": "scénario",
+   "texte": "À Bobo-Dioulasso, on se souvient encore de son nom.",
+   "genre": "adulte/libre",
+   "duree_ms": 4000,
+   "duree_statut": "mesurée sur le film"
+  }
+ ]
+}

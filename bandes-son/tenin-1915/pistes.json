@@ -1,0 +1,946 @@
+{
+ "id": "tenin-1915",
+ "titre": "Tenin Coulibaly et la révolte de 1915",
+ "peuple": "Bwaba",
+ "langues_cibles": [
+  "fr",
+  "bwa",
+  "dyu"
+ ],
+ "pistes": [
+  {
+   "id": "titre",
+   "type": "titre",
+   "chemin": "titre",
+   "texte": "Tenin Coulibaly et la révolte de 1915"
+  },
+  {
+   "id": "presentation",
+   "type": "presentation",
+   "chemin": "presentation",
+   "texte": "1915, dans la boucle du Mouhoun. Un village bwa, Tenin qui attend un enfant, et un commandant qui veut toujours plus. Tu es témoin. Tes choix changent ce que tu vois, jamais ce qui s'est passé. Certaines scènes sont dures."
+  },
+  {
+   "id": "personnages.griot.nom",
+   "type": "personnage",
+   "chemin": "personnages.griot.nom",
+   "texte": "Le griot"
+  },
+  {
+   "id": "personnages.tenin.nom",
+   "type": "personnage",
+   "chemin": "personnages.tenin.nom",
+   "texte": "Tenin"
+  },
+  {
+   "id": "personnages.mari.nom",
+   "type": "personnage",
+   "chemin": "personnages.mari.nom",
+   "texte": "Le mari"
+  },
+  {
+   "id": "personnages.commandant.nom",
+   "type": "personnage",
+   "chemin": "personnages.commandant.nom",
+   "texte": "Le commandant"
+  },
+  {
+   "id": "personnages.chefv.nom",
+   "type": "personnage",
+   "chemin": "personnages.chefv.nom",
+   "texte": "Le chef"
+  },
+  {
+   "id": "personnages.garde.nom",
+   "type": "personnage",
+   "chemin": "personnages.garde.nom",
+   "texte": "Le garde"
+  },
+  {
+   "id": "personnages.forgeron.nom",
+   "type": "personnage",
+   "chemin": "personnages.forgeron.nom",
+   "texte": "Le forgeron"
+  },
+  {
+   "id": "personnages.conteuse.nom",
+   "type": "personnage",
+   "chemin": "personnages.conteuse.nom",
+   "texte": "La conteuse"
+  },
+  {
+   "id": "fins.canon",
+   "type": "fin",
+   "chemin": "fins.canon",
+   "texte": "Mémoire : un village qui dit non"
+  },
+  {
+   "id": "fins.relire",
+   "type": "fin",
+   "chemin": "fins.relire",
+   "texte": "Mémoire à reprendre : écoute encore la conteuse"
+  },
+  {
+   "id": "n1",
+   "type": "replique",
+   "chemin": "nodes.n1.text",
+   "noeud": "n1",
+   "partie": "1915, au village (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "1915. Dans la boucle du Mouhoun, un village bwa vit au rythme des champs. Tenin et son mari attendent un enfant. Mais le pays est sous administration coloniale.",
+   "genre": "adulte/homme",
+   "duree_ms": 11990,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n2",
+   "type": "replique",
+   "chemin": "nodes.n2.text",
+   "noeud": "n2",
+   "partie": "1915, au village (jeu)",
+   "personnage": "Le commandant",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Il me faut du mil et des hommes pour la route.",
+   "genre": "adulte/homme",
+   "duree_ms": 4480,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n3",
+   "type": "replique",
+   "chemin": "nodes.n3.text",
+   "noeud": "n3",
+   "partie": "1915, au village (jeu)",
+   "personnage": "Le chef",
+   "intonation": "grave",
+   "intonation_statut": "proposée",
+   "texte": "Nos greniers sont presque vides.",
+   "genre": "âgé/homme",
+   "duree_ms": 2200,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n4",
+   "type": "replique",
+   "chemin": "nodes.n4.text",
+   "noeud": "n4",
+   "partie": "1915, au village (jeu)",
+   "personnage": "Le commandant",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Ce n'est pas une question, c'est un ordre.",
+   "genre": "adulte/homme",
+   "duree_ms": 3490,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n5",
+   "type": "replique",
+   "chemin": "nodes.n5.text",
+   "noeud": "n5",
+   "partie": "1915, au village (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Les gardes prennent le mil et emmènent trois hommes. Qui veux-tu suivre ? Tu reverras les deux lieux.",
+   "genre": "adulte/homme",
+   "duree_ms": 7740,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n5.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.n5.choices.0.label",
+   "texte": "Les hommes emmenés sur le chantier"
+  },
+  {
+   "id": "nodes.n5.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.n5.choices.0.tag",
+   "texte": "au chantier"
+  },
+  {
+   "id": "nodes.n5.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.n5.choices.1.label",
+   "texte": "Ceux qui restent au village"
+  },
+  {
+   "id": "nodes.n5.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.n5.choices.1.tag",
+   "texte": "au village"
+  },
+  {
+   "id": "reste",
+   "type": "replique",
+   "chemin": "nodes.reste.text",
+   "noeud": "reste",
+   "partie": "1915, au village (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Au village, les greniers sonnent creux. On compte ce qu'il reste, et on attend. Mais les gardes reviennent toujours.",
+   "genre": "adulte/homme",
+   "duree_ms": 8420,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "chantier",
+   "type": "replique",
+   "chemin": "nodes.chantier.text",
+   "noeud": "chantier",
+   "partie": "Le chantier de la route (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Sur le chantier de la route, le travail est forcé. Un homme s'effondre sous la chaleur.",
+   "genre": "adulte/homme",
+   "duree_ms": 6830,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n6",
+   "type": "replique",
+   "chemin": "nodes.n6.text",
+   "noeud": "n6",
+   "partie": "Le chantier de la route (jeu)",
+   "personnage": "Le garde",
+   "intonation": "vif",
+   "intonation_statut": "proposée",
+   "texte": "Relève-toi. Au travail !",
+   "genre": "adulte/homme",
+   "duree_ms": 2120,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n7",
+   "type": "replique",
+   "chemin": "nodes.n7.text",
+   "noeud": "n7",
+   "partie": "Le chantier de la route (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Il en faut toujours plus. Alors les gardes reviennent au village. Cette fois, ils désignent Tenin, qui est enceinte.",
+   "genre": "adulte/homme",
+   "duree_ms": 8420,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n8",
+   "type": "replique",
+   "chemin": "nodes.n8.text",
+   "noeud": "n8",
+   "partie": "Le chantier de la route (jeu)",
+   "personnage": "Le garde",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Avance.",
+   "genre": "adulte/homme",
+   "duree_ms": 800,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n9",
+   "type": "replique",
+   "chemin": "nodes.n9.text",
+   "noeud": "n9",
+   "partie": "Le chantier de la route (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Son mari crie : elle porte leur enfant. On l'emmène quand même. Au chantier, on la fait porter des pierres, jusqu'à ce qu'elle tombe.",
+   "genre": "adulte/homme",
+   "duree_ms": 10470,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n10",
+   "type": "replique",
+   "chemin": "nodes.n10.text",
+   "noeud": "n10",
+   "partie": "Le chantier de la route (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Un homme veut l'aider, et le garde l'en empêche. Tu ne peux rien changer à cela. Personne ne l'a pu ce jour-là.",
+   "genre": "adulte/homme",
+   "duree_ms": 9410,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n11",
+   "type": "replique",
+   "chemin": "nodes.n11.text",
+   "noeud": "n11",
+   "partie": "La veillée (jeu)",
+   "personnage": "Le griot",
+   "intonation": "chuchoté",
+   "intonation_statut": "proposée",
+   "texte": "Cette nuit-là, le village se réunit autour du feu.",
+   "genre": "adulte/homme",
+   "duree_ms": 3870,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n12",
+   "type": "replique",
+   "chemin": "nodes.n12.text",
+   "noeud": "n12",
+   "partie": "La veillée (jeu)",
+   "personnage": "Le forgeron",
+   "intonation": "vif",
+   "intonation_statut": "proposée",
+   "texte": "Assez ! Nous ne donnerons plus rien.",
+   "genre": "adulte/homme",
+   "duree_ms": 3260,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n13",
+   "type": "replique",
+   "chemin": "nodes.n13.text",
+   "noeud": "n13",
+   "partie": "La veillée (jeu)",
+   "personnage": "Le griot",
+   "intonation": "chuchoté",
+   "intonation_statut": "proposée",
+   "texte": "L'Ancien donne son accord. Les tambours parlent, et des messagers partent vers les autres villages.",
+   "genre": "adulte/homme",
+   "duree_ms": 6450,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n14.consigne",
+   "type": "jeu",
+   "chemin": "nodes.n14.consigne",
+   "texte": "Les tambours appellent les autres villages. Reproduis le message."
+  },
+  {
+   "id": "nodes.n14.gagne",
+   "type": "jeu",
+   "chemin": "nodes.n14.gagne",
+   "texte": "Le message passe de village en village."
+  },
+  {
+   "id": "nodes.n14.perdu",
+   "type": "jeu",
+   "chemin": "nodes.n14.perdu",
+   "texte": "Le message hésite, mais d'autres tambours le reprennent."
+  },
+  {
+   "id": "nodes.n14.tags.win",
+   "type": "parcours",
+   "chemin": "nodes.n14.tags.win",
+   "texte": "rythme tenu"
+  },
+  {
+   "id": "nodes.n14.tags.lose",
+   "type": "parcours",
+   "chemin": "nodes.n14.tags.lose",
+   "texte": "rythme perdu"
+  },
+  {
+   "id": "n15",
+   "type": "replique",
+   "chemin": "nodes.n15.text",
+   "noeud": "n15",
+   "partie": "Novembre 1915 (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Novembre 1915. La guerre du Bani-Volta commence. Les flèches répondent aux fusils, les gardes s'enfuient, et Tenin est libérée.",
+   "genre": "adulte/homme",
+   "duree_ms": 8420,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n16",
+   "type": "replique",
+   "chemin": "nodes.n16.text",
+   "noeud": "n16",
+   "partie": "Novembre 1915 (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Le soulèvement gagne de village en village. Il sera l'un des plus grands de cette époque en Afrique de l'Ouest. Mais en 1916, les colonnes militaires l'écrasent. Les villages paient très cher leur courage.",
+   "genre": "adulte/homme",
+   "duree_ms": 14270,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n17",
+   "type": "replique",
+   "chemin": "nodes.n17.text",
+   "noeud": "n17",
+   "partie": "Celle qui a dit non (jeu)",
+   "personnage": "La conteuse",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Une femme, un enfant, un village qui dit non.",
+   "genre": "adulte/femme",
+   "duree_ms": 4020,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n18.question",
+   "type": "jeu",
+   "chemin": "nodes.n18.question",
+   "texte": "Comment s'appelle la guerre commencée en novembre 1915 ?"
+  },
+  {
+   "id": "nodes.n18.gagne",
+   "type": "jeu",
+   "chemin": "nodes.n18.gagne",
+   "texte": "Oui, la guerre du Bani-Volta."
+  },
+  {
+   "id": "nodes.n18.perdu",
+   "type": "jeu",
+   "chemin": "nodes.n18.perdu",
+   "texte": "C'est la guerre du Bani-Volta."
+  },
+  {
+   "id": "nodes.n18.reponses.0.label",
+   "type": "jeu",
+   "chemin": "nodes.n18.reponses.0.label",
+   "texte": "La guerre du Bani-Volta"
+  },
+  {
+   "id": "nodes.n18.reponses.1.label",
+   "type": "jeu",
+   "chemin": "nodes.n18.reponses.1.label",
+   "texte": "La guerre de Bobo"
+  },
+  {
+   "id": "nodes.n18.reponses.2.label",
+   "type": "jeu",
+   "chemin": "nodes.n18.reponses.2.label",
+   "texte": "La guerre du Liptako"
+  },
+  {
+   "id": "nodes.n18.tags.win",
+   "type": "parcours",
+   "chemin": "nodes.n18.tags.win",
+   "texte": "bonne réponse"
+  },
+  {
+   "id": "nodes.n18.tags.lose",
+   "type": "parcours",
+   "chemin": "nodes.n18.tags.lose",
+   "texte": "réponse manquée"
+  },
+  {
+   "id": "relire",
+   "type": "replique",
+   "chemin": "nodes.relire.text",
+   "noeud": "relire",
+   "partie": "Celle qui a dit non (jeu)",
+   "personnage": "La conteuse",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Viens t'asseoir encore une fois. On se souvient en écoutant.",
+   "genre": "adulte/femme",
+   "duree_ms": 4400,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "bien",
+   "type": "replique",
+   "chemin": "nodes.bien.text",
+   "noeud": "bien",
+   "partie": "Celle qui a dit non (jeu)",
+   "personnage": "La conteuse",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Voilà pourquoi on se souvient.",
+   "genre": "adulte/femme",
+   "duree_ms": 2200,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "film-001",
+   "type": "film",
+   "partie": "Film d'animation, de 00:02.0 à 00:08.7",
+   "horodatage": {
+    "debut_ms": 2000,
+    "fin_ms": 8700
+   },
+   "personnage": "Narrateur",
+   "intonation": "sobre",
+   "intonation_statut": "scénario",
+   "texte": "Tenin Coulibaly. Un récit de la révolte de 1915, simplifié pour l'image.",
+   "genre": "adulte/libre",
+   "duree_ms": 6700,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-002",
+   "type": "film",
+   "partie": "Film d'animation, de 00:10.0 à 00:15.1",
+   "horodatage": {
+    "debut_ms": 10000,
+    "fin_ms": 15100
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "1915. Dans la boucle du Mouhoun, un village bwa vit au rythme des champs.",
+   "genre": "adulte/libre",
+   "duree_ms": 5100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-003",
+   "type": "film",
+   "partie": "Film d'animation, de 00:18.0 à 00:20.9",
+   "horodatage": {
+    "debut_ms": 18000,
+    "fin_ms": 20900
+   },
+   "personnage": "Narrateur",
+   "intonation": "tendre",
+   "intonation_statut": "scénario",
+   "texte": "Tenin et son mari attendent un enfant.",
+   "genre": "adulte/libre",
+   "duree_ms": 2900,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-004",
+   "type": "film",
+   "partie": "Film d'animation, de 00:30.0 à 00:36.4",
+   "horodatage": {
+    "debut_ms": 30000,
+    "fin_ms": 36400
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Mais le pays est sous administration coloniale. Le commandant de cercle arrive au village.",
+   "genre": "adulte/libre",
+   "duree_ms": 6400,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-005",
+   "type": "film",
+   "partie": "Film d'animation, de 00:38.0 à 00:40.7",
+   "horodatage": {
+    "debut_ms": 38000,
+    "fin_ms": 40700
+   },
+   "personnage": "COMMANDANT",
+   "intonation": "sec",
+   "intonation_statut": "scénario",
+   "texte": "Il me faut du mil et des hommes pour la route.",
+   "genre": "adulte/homme",
+   "duree_ms": 2700,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-006",
+   "type": "film",
+   "partie": "Film d'animation, de 00:41.0 à 00:43.5",
+   "horodatage": {
+    "debut_ms": 41000,
+    "fin_ms": 43500
+   },
+   "personnage": "CHEF",
+   "intonation": "digne",
+   "intonation_statut": "scénario",
+   "texte": "Nos greniers sont presque vides.",
+   "genre": "âgé/libre",
+   "duree_ms": 2500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-007",
+   "type": "film",
+   "partie": "Film d'animation, de 00:43.5 à 00:46.5",
+   "horodatage": {
+    "debut_ms": 43500,
+    "fin_ms": 46500
+   },
+   "personnage": "COMMANDANT",
+   "intonation": "cassant",
+   "intonation_statut": "scénario",
+   "texte": "Ce n'est pas une question, c'est un ordre.",
+   "genre": "adulte/homme",
+   "duree_ms": 3000,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-008",
+   "type": "film",
+   "partie": "Film d'animation, de 00:49.0 à 00:52.4",
+   "horodatage": {
+    "debut_ms": 49000,
+    "fin_ms": 52400
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Les gardes prennent le mil et emmènent trois hommes.",
+   "genre": "adulte/libre",
+   "duree_ms": 3400,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-009",
+   "type": "film",
+   "partie": "Film d'animation, de 01:10.0 à 01:13.5",
+   "horodatage": {
+    "debut_ms": 70000,
+    "fin_ms": 73500
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Sur le chantier de la route, le travail est forcé.",
+   "genre": "adulte/libre",
+   "duree_ms": 3500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-010",
+   "type": "film",
+   "partie": "Film d'animation, de 01:13.5 à 01:17.0",
+   "horodatage": {
+    "debut_ms": 73500,
+    "fin_ms": 77000
+   },
+   "personnage": "GARDE",
+   "intonation": "dur",
+   "intonation_statut": "scénario",
+   "texte": "Plus vite ! Avancez !",
+   "genre": "adulte/homme",
+   "duree_ms": 3500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-011",
+   "type": "film",
+   "partie": "Film d'animation, de 01:18.0 à 01:21.0",
+   "horodatage": {
+    "debut_ms": 78000,
+    "fin_ms": 81000
+   },
+   "personnage": "Narrateur",
+   "intonation": "grave",
+   "intonation_statut": "scénario",
+   "texte": "Un homme s'effondre sous la chaleur.",
+   "genre": "adulte/libre",
+   "duree_ms": 3000,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-012",
+   "type": "film",
+   "partie": "Film d'animation, de 01:27.0 à 01:30.8",
+   "horodatage": {
+    "debut_ms": 87000,
+    "fin_ms": 90800
+   },
+   "personnage": "GARDE",
+   "intonation": "dur",
+   "intonation_statut": "scénario",
+   "texte": "Relève-toi. Au travail !",
+   "genre": "adulte/homme",
+   "duree_ms": 3800,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-013",
+   "type": "film",
+   "partie": "Film d'animation, de 01:33.0 à 01:38.3",
+   "horodatage": {
+    "debut_ms": 93000,
+    "fin_ms": 98300
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Il en faut toujours plus. Alors les gardes reviennent au village.",
+   "genre": "adulte/libre",
+   "duree_ms": 5300,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-014",
+   "type": "film",
+   "partie": "Film d'animation, de 01:45.0 à 01:49.1",
+   "horodatage": {
+    "debut_ms": 105000,
+    "fin_ms": 109100
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Cette fois, ils désignent Tenin, qui est enceinte.",
+   "genre": "adulte/libre",
+   "duree_ms": 4100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-015",
+   "type": "film",
+   "partie": "Film d'animation, de 01:53.8 à 01:55.9",
+   "horodatage": {
+    "debut_ms": 113800,
+    "fin_ms": 115900
+   },
+   "personnage": "MARI",
+   "intonation": "désespéré",
+   "intonation_statut": "scénario",
+   "texte": "Elle porte notre enfant !",
+   "genre": "adulte/homme",
+   "duree_ms": 2100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-016",
+   "type": "film",
+   "partie": "Film d'animation, de 01:57.0 à 01:59.3",
+   "horodatage": {
+    "debut_ms": 117000,
+    "fin_ms": 119300
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "On l'emmène quand même.",
+   "genre": "adulte/libre",
+   "duree_ms": 2300,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-017",
+   "type": "film",
+   "partie": "Film d'animation, de 02:04.0 à 02:08.8",
+   "horodatage": {
+    "debut_ms": 124000,
+    "fin_ms": 128800
+   },
+   "personnage": "Narrateur",
+   "intonation": "grave",
+   "intonation_statut": "scénario",
+   "texte": "Au chantier, on la fait porter des pierres, jusqu'à ce qu'elle tombe.",
+   "genre": "adulte/libre",
+   "duree_ms": 4800,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-018",
+   "type": "film",
+   "partie": "Film d'animation, de 02:13.6 à 02:15.7",
+   "horodatage": {
+    "debut_ms": 133600,
+    "fin_ms": 135700
+   },
+   "personnage": "GARDE",
+   "intonation": "dur",
+   "intonation_statut": "scénario",
+   "texte": "Laisse-la !",
+   "genre": "adulte/homme",
+   "duree_ms": 2100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-019",
+   "type": "film",
+   "partie": "Film d'animation, de 02:16.0 à 02:20.3",
+   "horodatage": {
+    "debut_ms": 136000,
+    "fin_ms": 140300
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Un homme veut l'aider. Le garde l'en empêche.",
+   "genre": "adulte/libre",
+   "duree_ms": 4300,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-020",
+   "type": "film",
+   "partie": "Film d'animation, de 02:25.0 à 02:28.9",
+   "horodatage": {
+    "debut_ms": 145000,
+    "fin_ms": 148900
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Cette nuit-là, le village se réunit autour du feu.",
+   "genre": "adulte/libre",
+   "duree_ms": 3900,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-021",
+   "type": "film",
+   "partie": "Film d'animation, de 02:35.5 à 02:39.5",
+   "horodatage": {
+    "debut_ms": 155500,
+    "fin_ms": 159500
+   },
+   "personnage": "FORGERON",
+   "intonation": "grondant",
+   "intonation_statut": "scénario",
+   "texte": "Assez ! Nous ne donnerons plus rien.",
+   "genre": "adulte/homme",
+   "duree_ms": 4000,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-022",
+   "type": "film",
+   "partie": "Film d'animation, de 02:41.0 à 02:47.9",
+   "horodatage": {
+    "debut_ms": 161000,
+    "fin_ms": 167900
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "L'Ancien donne son accord. Les tambours parlent, et des messagers partent vers les autres villages.",
+   "genre": "adulte/libre",
+   "duree_ms": 6900,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-023",
+   "type": "film",
+   "partie": "Film d'animation, de 03:05.0 à 03:10.5",
+   "horodatage": {
+    "debut_ms": 185000,
+    "fin_ms": 190500
+   },
+   "personnage": "Narrateur",
+   "intonation": "ferme",
+   "intonation_statut": "scénario",
+   "texte": "Novembre 1915. La guerre du Bani-Volta commence.",
+   "genre": "adulte/libre",
+   "duree_ms": 5500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-024",
+   "type": "film",
+   "partie": "Film d'animation, de 03:12.0 à 03:17.3",
+   "horodatage": {
+    "debut_ms": 192000,
+    "fin_ms": 197300
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Les insurgés arrivent sur le chantier. Les flèches répondent aux fusils.",
+   "genre": "adulte/libre",
+   "duree_ms": 5300,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-025",
+   "type": "film",
+   "partie": "Film d'animation, de 03:27.0 à 03:30.7",
+   "horodatage": {
+    "debut_ms": 207000,
+    "fin_ms": 210700
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Le forgeron charge, les gardes s'enfuient.",
+   "genre": "adulte/libre",
+   "duree_ms": 3700,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-026",
+   "type": "film",
+   "partie": "Film d'animation, de 03:37.0 à 03:39.1",
+   "horodatage": {
+    "debut_ms": 217000,
+    "fin_ms": 219100
+   },
+   "personnage": "Narrateur",
+   "intonation": "ému",
+   "intonation_statut": "scénario",
+   "texte": "Tenin est libérée.",
+   "genre": "adulte/libre",
+   "duree_ms": 2100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-027",
+   "type": "film",
+   "partie": "Film d'animation, de 03:50.0 à 03:57.1",
+   "horodatage": {
+    "debut_ms": 230000,
+    "fin_ms": 237100
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Le soulèvement gagne de village en village. Il sera l'un des plus grands de cette époque en Afrique de l'Ouest.",
+   "genre": "adulte/libre",
+   "duree_ms": 7100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-028",
+   "type": "film",
+   "partie": "Film d'animation, de 04:05.0 à 04:12.6",
+   "horodatage": {
+    "debut_ms": 245000,
+    "fin_ms": 252600
+   },
+   "personnage": "Narrateur",
+   "intonation": "grave",
+   "intonation_statut": "scénario",
+   "texte": "Mais en 1916, les colonnes militaires écrasent la révolte. Les villages paient très cher leur courage.",
+   "genre": "adulte/libre",
+   "duree_ms": 7600,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-029",
+   "type": "film",
+   "partie": "Film d'animation, de 04:24.5 à 04:27.4",
+   "horodatage": {
+    "debut_ms": 264500,
+    "fin_ms": 267400
+   },
+   "personnage": "CONTEUSE",
+   "intonation": "voix usée, posée",
+   "intonation_statut": "scénario",
+   "texte": "Une femme, un enfant, un village qui dit non.",
+   "genre": "âgé/libre",
+   "duree_ms": 2900,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-030",
+   "type": "film",
+   "partie": "Film d'animation, de 04:27.5 à 04:30.1",
+   "horodatage": {
+    "debut_ms": 267500,
+    "fin_ms": 270100
+   },
+   "personnage": "CONTEUSE",
+   "intonation": "voix usée, posée",
+   "intonation_statut": "scénario",
+   "texte": "Voilà pourquoi on se souvient.",
+   "genre": "âgé/libre",
+   "duree_ms": 2600,
+   "duree_statut": "mesurée sur le film"
+  }
+ ]
+}

@@ -1,0 +1,703 @@
+{
+ "id": "zenuo",
+ "titre": "Zenuo, le premier Dagara",
+ "peuple": "Dagara",
+ "langues_cibles": [
+  "fr",
+  "dag"
+ ],
+ "pistes": [
+  {
+   "id": "titre",
+   "type": "titre",
+   "chemin": "titre",
+   "texte": "Zenuo, le premier Dagara"
+  },
+  {
+   "id": "presentation",
+   "type": "presentation",
+   "chemin": "presentation",
+   "texte": "Zenuo et Nyolé quittent un village de disputes, avec leur chien, pour chercher leur terre. À toi de lire les signes et de dire où s'arrêter."
+  },
+  {
+   "id": "personnages.griot.nom",
+   "type": "personnage",
+   "chemin": "personnages.griot.nom",
+   "texte": "Le griot"
+  },
+  {
+   "id": "personnages.zenuo.nom",
+   "type": "personnage",
+   "chemin": "personnages.zenuo.nom",
+   "texte": "Zenuo"
+  },
+  {
+   "id": "personnages.nyole.nom",
+   "type": "personnage",
+   "chemin": "personnages.nyole.nom",
+   "texte": "Nyolé"
+  },
+  {
+   "id": "personnages.ancien.nom",
+   "type": "personnage",
+   "chemin": "personnages.ancien.nom",
+   "texte": "L'ancien"
+  },
+  {
+   "id": "personnages.enfant.nom",
+   "type": "personnage",
+   "chemin": "personnages.enfant.nom",
+   "texte": "L'enfant"
+  },
+  {
+   "id": "fins.canon",
+   "type": "fin",
+   "chemin": "fins.canon",
+   "texte": "Version du griot : le premier foyer"
+  },
+  {
+   "id": "fins.trop",
+   "type": "fin",
+   "chemin": "fins.trop",
+   "texte": "Autre chemin : ils marchent encore"
+  },
+  {
+   "id": "n1",
+   "type": "replique",
+   "chemin": "nodes.n1.text",
+   "noeud": "n1",
+   "partie": "Le village divisé (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Zenuo était chasseur. Il connaissait la brousse mieux que personne. Mais au village, les familles ne s'entendent plus sur les limites des champs.",
+   "genre": "adulte/homme",
+   "duree_ms": 9790,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n2",
+   "type": "replique",
+   "chemin": "nodes.n2.text",
+   "noeud": "n2",
+   "partie": "Le village divisé (jeu)",
+   "personnage": "L'ancien",
+   "intonation": "vif",
+   "intonation_statut": "proposée",
+   "texte": "Ce champ n'est pas à toi !",
+   "genre": "âgé/homme",
+   "duree_ms": 2960,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n3",
+   "type": "replique",
+   "chemin": "nodes.n3.text",
+   "noeud": "n3",
+   "partie": "Le village divisé (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Encore une dispute de terres. Que décident Zenuo et Nyolé ?",
+   "genre": "adulte/homme",
+   "duree_ms": 4780,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n3.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.n3.choices.0.label",
+   "texte": "Partir chercher une terre ailleurs"
+  },
+  {
+   "id": "nodes.n3.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.n3.choices.0.tag",
+   "texte": "départ"
+  },
+  {
+   "id": "nodes.n3.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.n3.choices.1.label",
+   "texte": "Rester et discuter encore"
+  },
+  {
+   "id": "nodes.n3.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.n3.choices.1.tag",
+   "texte": "discussion"
+  },
+  {
+   "id": "rester",
+   "type": "replique",
+   "chemin": "nodes.rester.text",
+   "noeud": "rester",
+   "partie": "Le village divisé (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Ils discutent toute une saison. Au bout du compte, chacun garde sa colère, et personne n'a plus envie de semer.",
+   "genre": "adulte/homme",
+   "duree_ms": 8500,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "partir",
+   "type": "replique",
+   "chemin": "nodes.partir.text",
+   "noeud": "partir",
+   "partie": "Le départ (jeu)",
+   "personnage": "Le griot",
+   "intonation": "chuchoté",
+   "intonation_statut": "proposée",
+   "texte": "Ils prennent leurs affaires, et leur chien avec eux. Le soir, ils s'arrêtent près d'un feu et regardent les étoiles.",
+   "genre": "adulte/homme",
+   "duree_ms": 8500,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n4",
+   "type": "replique",
+   "chemin": "nodes.n4.text",
+   "noeud": "n4",
+   "partie": "La Volta noire (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Un jour, un fleuve large leur barre la route : la Volta noire. Comment passer ?",
+   "genre": "adulte/homme",
+   "duree_ms": 6980,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n4.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.n4.choices.0.label",
+   "texte": "Creuser une pirogue dans un tronc"
+  },
+  {
+   "id": "nodes.n4.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.n4.choices.0.tag",
+   "texte": "pirogue"
+  },
+  {
+   "id": "nodes.n4.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.n4.choices.1.label",
+   "texte": "Passer à la nage avec le chien"
+  },
+  {
+   "id": "nodes.n4.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.n4.choices.1.tag",
+   "texte": "à la nage"
+  },
+  {
+   "id": "nage",
+   "type": "replique",
+   "chemin": "nodes.nage.text",
+   "noeud": "nage",
+   "partie": "La Volta noire (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Le courant est trop fort. Ils reviennent sur la rive, trempés, et Zenuo prend sa hache : il creuse une pirogue.",
+   "genre": "adulte/homme",
+   "duree_ms": 9030,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "pirogue",
+   "type": "replique",
+   "chemin": "nodes.pirogue.text",
+   "noeud": "pirogue",
+   "partie": "L'autre rive (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Sur l'autre rive, tout est nouveau. Mais où s'arrêter ? Zenuo attend un signe. Observe bien.",
+   "genre": "adulte/homme",
+   "duree_ms": 7430,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n5.question",
+   "type": "jeu",
+   "chemin": "nodes.n5.question",
+   "texte": "Quel signe indique à Zenuo le lieu du foyer ?"
+  },
+  {
+   "id": "nodes.n5.gagne",
+   "type": "jeu",
+   "chemin": "nodes.n5.gagne",
+   "texte": "Oui : les pintades tournent au-dessus du grand arbre. Le lieu est là."
+  },
+  {
+   "id": "nodes.n5.perdu",
+   "type": "jeu",
+   "chemin": "nodes.n5.perdu",
+   "texte": "Regarde mieux : c'est un vol de pintades qui tourne au-dessus d'un grand arbre."
+  },
+  {
+   "id": "nodes.n5.reponses.0.label",
+   "type": "jeu",
+   "chemin": "nodes.n5.reponses.0.label",
+   "texte": "Un vol de pintades qui tourne au-dessus d'un grand arbre"
+  },
+  {
+   "id": "nodes.n5.reponses.1.label",
+   "type": "jeu",
+   "chemin": "nodes.n5.reponses.1.label",
+   "texte": "Une étoile qui tombe dans le fleuve"
+  },
+  {
+   "id": "nodes.n5.reponses.2.label",
+   "type": "jeu",
+   "chemin": "nodes.n5.reponses.2.label",
+   "texte": "Un lion qui garde une colline"
+  },
+  {
+   "id": "nodes.n5.tags.win",
+   "type": "parcours",
+   "chemin": "nodes.n5.tags.win",
+   "texte": "bonne réponse"
+  },
+  {
+   "id": "nodes.n5.tags.lose",
+   "type": "parcours",
+   "chemin": "nodes.n5.tags.lose",
+   "texte": "réponse manquée"
+  },
+  {
+   "id": "n6",
+   "type": "replique",
+   "chemin": "nodes.n6.text",
+   "noeud": "n6",
+   "partie": "L'autre rive (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Que fait Zenuo devant cet arbre ?",
+   "genre": "adulte/homme",
+   "duree_ms": 2960,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n6.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.n6.choices.0.label",
+   "texte": "Il plante son arc au pied de l'arbre"
+  },
+  {
+   "id": "nodes.n6.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.n6.choices.0.tag",
+   "texte": "arc planté"
+  },
+  {
+   "id": "nodes.n6.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.n6.choices.1.label",
+   "texte": "Il continue, il y a peut-être mieux plus loin"
+  },
+  {
+   "id": "nodes.n6.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.n6.choices.1.tag",
+   "texte": "marche reprise"
+  },
+  {
+   "id": "loin",
+   "type": "replique",
+   "chemin": "nodes.loin.text",
+   "noeud": "loin",
+   "partie": "L'autre rive (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Ils marchent encore. Des arbres, ils en verront d'autres, mais plus de pintades. C'est une fin imaginée : la légende, elle, s'arrête à l'arbre.",
+   "genre": "adulte/homme",
+   "duree_ms": 10770,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "arc",
+   "type": "replique",
+   "chemin": "nodes.arc.text",
+   "noeud": "arc",
+   "partie": "L'autre rive (jeu)",
+   "personnage": "Zenuo",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "C'est ici, Nyolé. C'est ici.",
+   "genre": "adulte/homme",
+   "duree_ms": 2650,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n7",
+   "type": "replique",
+   "chemin": "nodes.n7.text",
+   "noeud": "n7",
+   "partie": "Le premier champ (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Ensemble, ils bâtissent une case ronde et préparent le premier champ. D'autres familles arrivent. Un enfant naît. Le village a commencé.",
+   "genre": "adulte/homme",
+   "duree_ms": 9330,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n8",
+   "type": "replique",
+   "chemin": "nodes.n8.text",
+   "noeud": "n8",
+   "partie": "Le premier champ (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Ainsi, dit la légende, naquit le peuple des descendants de Zenuo.",
+   "genre": "adulte/homme",
+   "duree_ms": 4780,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "film-001",
+   "type": "film",
+   "partie": "Film d'animation, de 00:02.0 à 00:07.4",
+   "horodatage": {
+    "debut_ms": 2000,
+    "fin_ms": 7400
+   },
+   "personnage": "Narrateur",
+   "intonation": "solennel",
+   "intonation_statut": "scénario",
+   "texte": "Zenuo, le premier Dagara. Une légende fondatrice.",
+   "genre": "adulte/libre",
+   "duree_ms": 5400,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-002",
+   "type": "film",
+   "partie": "Film d'animation, de 00:09.0 à 00:14.5",
+   "horodatage": {
+    "debut_ms": 9000,
+    "fin_ms": 14500
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Zenuo était chasseur. Il connaissait la brousse mieux que personne.",
+   "genre": "adulte/libre",
+   "duree_ms": 5500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-003",
+   "type": "film",
+   "partie": "Film d'animation, de 00:28.0 à 00:30.3",
+   "horodatage": {
+    "debut_ms": 28000,
+    "fin_ms": 30300
+   },
+   "personnage": "ZENUO",
+   "intonation": "lassé",
+   "intonation_statut": "scénario",
+   "texte": "Encore une dispute de terres.",
+   "genre": "adulte/homme",
+   "duree_ms": 2300,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-004",
+   "type": "film",
+   "partie": "Film d'animation, de 00:32.0 à 00:36.5",
+   "horodatage": {
+    "debut_ms": 32000,
+    "fin_ms": 36500
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Au village, les familles ne s'entendaient plus sur les limites des champs.",
+   "genre": "adulte/libre",
+   "duree_ms": 4500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-005",
+   "type": "film",
+   "partie": "Film d'animation, de 00:38.0 à 00:40.4",
+   "horodatage": {
+    "debut_ms": 38000,
+    "fin_ms": 40400
+   },
+   "personnage": "ANCIEN",
+   "intonation": "sévère",
+   "intonation_statut": "scénario",
+   "texte": "Ce champ n'est pas à toi !",
+   "genre": "âgé/libre",
+   "duree_ms": 2400,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-006",
+   "type": "film",
+   "partie": "Film d'animation, de 00:42.5 à 00:44.5",
+   "horodatage": {
+    "debut_ms": 42500,
+    "fin_ms": 44500
+   },
+   "personnage": "NYOLE",
+   "intonation": "décidé",
+   "intonation_statut": "scénario",
+   "texte": "Allons-nous-en.",
+   "genre": "adulte/femme",
+   "duree_ms": 2000,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-007",
+   "type": "film",
+   "partie": "Film d'animation, de 00:44.5 à 00:46.6",
+   "horodatage": {
+    "debut_ms": 44500,
+    "fin_ms": 46600
+   },
+   "personnage": "ZENUO",
+   "intonation": "calme",
+   "intonation_statut": "scénario",
+   "texte": "Allons chercher notre terre.",
+   "genre": "adulte/homme",
+   "duree_ms": 2100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-008",
+   "type": "film",
+   "partie": "Film d'animation, de 00:50.0 à 00:54.5",
+   "horodatage": {
+    "debut_ms": 50000,
+    "fin_ms": 54500
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Zenuo et sa femme Nyolé prirent leurs affaires, et leur chien avec eux.",
+   "genre": "adulte/libre",
+   "duree_ms": 4500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-009",
+   "type": "film",
+   "partie": "Film d'animation, de 01:04.0 à 01:07.9",
+   "horodatage": {
+    "debut_ms": 64000,
+    "fin_ms": 67900
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Ils marchèrent des jours durant, à travers la brousse.",
+   "genre": "adulte/libre",
+   "duree_ms": 3900,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-010",
+   "type": "film",
+   "partie": "Film d'animation, de 01:18.0 à 01:23.2",
+   "horodatage": {
+    "debut_ms": 78000,
+    "fin_ms": 83200
+   },
+   "personnage": "Narrateur",
+   "intonation": "doux",
+   "intonation_statut": "scénario",
+   "texte": "Le soir, ils s'arrêtaient près d'un feu, et ils regardaient les étoiles.",
+   "genre": "adulte/libre",
+   "duree_ms": 5200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-011",
+   "type": "film",
+   "partie": "Film d'animation, de 01:40.0 à 01:44.6",
+   "horodatage": {
+    "debut_ms": 100000,
+    "fin_ms": 104600
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Un jour, un fleuve large leur barra la route : la Volta noire.",
+   "genre": "adulte/libre",
+   "duree_ms": 4600,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-012",
+   "type": "film",
+   "partie": "Film d'animation, de 01:51.0 à 01:55.0",
+   "horodatage": {
+    "debut_ms": 111000,
+    "fin_ms": 115000
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Zenuo creusa une pirogue, et ils se lancèrent sur l'eau.",
+   "genre": "adulte/libre",
+   "duree_ms": 4000,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-013",
+   "type": "film",
+   "partie": "Film d'animation, de 02:04.0 à 02:09.3",
+   "horodatage": {
+    "debut_ms": 124000,
+    "fin_ms": 129300
+   },
+   "personnage": "Narrateur",
+   "intonation": "ému",
+   "intonation_statut": "scénario",
+   "texte": "Sur l'autre rive, tout était nouveau. Ils ne se retournèrent pas.",
+   "genre": "adulte/libre",
+   "duree_ms": 5300,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-014",
+   "type": "film",
+   "partie": "Film d'animation, de 02:20.0 à 02:24.4",
+   "horodatage": {
+    "debut_ms": 140000,
+    "fin_ms": 144400
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Mais où s'arrêter ? Zenuo attendait un signe.",
+   "genre": "adulte/libre",
+   "duree_ms": 4400,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-015",
+   "type": "film",
+   "partie": "Film d'animation, de 02:28.0 à 02:32.3",
+   "horodatage": {
+    "debut_ms": 148000,
+    "fin_ms": 152300
+   },
+   "personnage": "Narrateur",
+   "intonation": "émerveillé",
+   "intonation_statut": "scénario",
+   "texte": "Alors un vol de pintades se mit à tourner au-dessus d'un grand arbre.",
+   "genre": "adulte/libre",
+   "duree_ms": 4300,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-016",
+   "type": "film",
+   "partie": "Film d'animation, de 02:33.5 à 02:36.9",
+   "horodatage": {
+    "debut_ms": 153500,
+    "fin_ms": 156900
+   },
+   "personnage": "ZENUO",
+   "intonation": "ému",
+   "intonation_statut": "scénario",
+   "texte": "C'est ici, Nyolé. C'est ici.",
+   "genre": "adulte/homme",
+   "duree_ms": 3400,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-017",
+   "type": "film",
+   "partie": "Film d'animation, de 02:57.0 à 03:02.7",
+   "horodatage": {
+    "debut_ms": 177000,
+    "fin_ms": 182700
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Zenuo planta son arc au pied de l'arbre. Ici serait le premier foyer.",
+   "genre": "adulte/libre",
+   "duree_ms": 5700,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-018",
+   "type": "film",
+   "partie": "Film d'animation, de 03:08.0 à 03:12.5",
+   "horodatage": {
+    "debut_ms": 188000,
+    "fin_ms": 192500
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Ensemble, ils bâtirent une case ronde et préparèrent le premier champ.",
+   "genre": "adulte/libre",
+   "duree_ms": 4500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-019",
+   "type": "film",
+   "partie": "Film d'animation, de 03:36.0 à 03:40.3",
+   "horodatage": {
+    "debut_ms": 216000,
+    "fin_ms": 220300
+   },
+   "personnage": "Narrateur",
+   "intonation": "joyeux",
+   "intonation_statut": "scénario",
+   "texte": "D'autres familles arrivèrent, et elles s'installèrent à leur tour.",
+   "genre": "adulte/libre",
+   "duree_ms": 4300,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-020",
+   "type": "film",
+   "partie": "Film d'animation, de 03:48.0 à 03:52.4",
+   "horodatage": {
+    "debut_ms": 228000,
+    "fin_ms": 232400
+   },
+   "personnage": "Narrateur",
+   "intonation": "tendre",
+   "intonation_statut": "scénario",
+   "texte": "Un enfant naquit. Le village avait commencé.",
+   "genre": "adulte/libre",
+   "duree_ms": 4400,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-021",
+   "type": "film",
+   "partie": "Film d'animation, de 04:10.0 à 04:15.2",
+   "horodatage": {
+    "debut_ms": 250000,
+    "fin_ms": 255200
+   },
+   "personnage": "Narrateur",
+   "intonation": "doux",
+   "intonation_statut": "scénario",
+   "texte": "Ainsi, dit la légende, naquit le peuple des descendants de Zenuo.",
+   "genre": "adulte/libre",
+   "duree_ms": 5200,
+   "duree_statut": "mesurée sur le film"
+  }
+ ]
+}

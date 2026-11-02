@@ -1,0 +1,352 @@
+# Les esprits des pics de Sindou : fiches des bandes-son
+# Généré par « npm run bandes-son » depuis pistes.json. Modifier pistes.json, pas ce fichier.
+
+piste: n1
+histoire: Les esprits des pics de Sindou
+partie: Le village d'avant (jeu)
+personnage: Le griot
+fichier: pics-sindou-n1-<langue>.m4a
+intonation: posé (proposée)
+texte: Dans le sud-ouest du Burkina, de hautes aiguilles de pierre se dressent au-dessus de la plaine. Autrefois, un village senoufo vivait plus au sud, en paix.
+genre: adulte/homme
+duree: 10930ms (estimée)
+
+piste: n2
+histoire: Les esprits des pics de Sindou
+partie: Le village d'avant (jeu)
+personnage: Un cavalier
+fichier: pics-sindou-n2-<langue>.m4a
+intonation: vif (proposée)
+texte: Prenez les hommes ! Brûlez les toits !
+genre: adulte/homme
+duree: 3640ms (estimée)
+
+piste: n3
+histoire: Les esprits des pics de Sindou
+partie: Le village d'avant (jeu)
+personnage: Le griot
+fichier: pics-sindou-n3-<langue>.m4a
+intonation: enlevé (proposée)
+texte: Les toits brûlent, et le village s'enfuit vers la brousse. Vite !
+genre: adulte/homme
+duree: 5310ms (estimée)
+
+piste: n5
+histoire: Les esprits des pics de Sindou
+partie: Les longues nuits (jeu)
+personnage: Le griot
+fichier: pics-sindou-n5-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Ils marchent de longues nuits, guidés par Nakan. Un enfant tombe de fatigue. Que fait-on ?
+genre: adulte/homme
+duree: 7130ms (estimée)
+
+piste: seul
+histoire: Les esprits des pics de Sindou
+partie: Les longues nuits (jeu)
+personnage: Nakan, la doyenne
+fichier: pics-sindou-seul-<langue>.m4a
+intonation: doux (proposée)
+texte: Personne ne reste derrière. Prends-le sur tes épaules, toi, le plus fort.
+genre: âgée/femme
+duree: 5460ms (estimée)
+
+piste: epaules
+histoire: Les esprits des pics de Sindou
+partie: Les longues nuits (jeu)
+personnage: Nakan, la doyenne
+fichier: pics-sindou-epaules-<langue>.m4a
+intonation: vif (proposée)
+texte: Là-bas ! Les pierres nous attendent.
+genre: âgée/femme
+duree: 2880ms (estimée)
+
+piste: n6
+histoire: Les esprits des pics de Sindou
+partie: Au pied des pics (jeu)
+personnage: Le griot
+fichier: pics-sindou-n6-<langue>.m4a
+intonation: tendu (proposée)
+texte: Ils arrivent au pied des pics. Personne n'a jamais rien vu de pareil. Regarde ce qu'ils ont sauvé.
+genre: adulte/homme
+duree: 7740ms (estimée)
+
+piste: n7
+histoire: Les esprits des pics de Sindou
+partie: Au pied des pics (jeu)
+personnage: Le griot
+fichier: pics-sindou-n7-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Avant de construire, que fait Nakan au pied du plus grand rocher ?
+genre: adulte/homme
+duree: 5390ms (estimée)
+
+piste: bati
+histoire: Les esprits des pics de Sindou
+partie: Au pied des pics (jeu)
+personnage: Le griot
+fichier: pics-sindou-bati-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Les premières pierres posées roulent au matin. Trois fois, elles roulent. Nakan comprend-elle ?
+genre: adulte/homme
+duree: 6370ms (estimée)
+
+piste: errance
+histoire: Les esprits des pics de Sindou
+partie: Au pied des pics (jeu)
+personnage: Le griot
+fichier: pics-sindou-errance-<langue>.m4a
+intonation: tendu (proposée)
+texte: Le village repart, sans abri, vers d'autres plaines. C'est une fin imaginée pour le jeu : ce n'est pas celle que l'on raconte à Sindou.
+genre: adulte/homme
+duree: 10550ms (estimée)
+
+piste: offrande
+histoire: Les esprits des pics de Sindou
+partie: Au pied des pics (jeu)
+personnage: Nakan, la doyenne
+fichier: pics-sindou-offrande-<langue>.m4a
+intonation: doux (proposée)
+texte: Esprits des rochers, cachez-nous.
+genre: âgée/femme
+duree: 1970ms (estimée)
+
+piste: n8
+histoire: Les esprits des pics de Sindou
+partie: Au pied des pics (jeu)
+personnage: Un esprit des rochers
+fichier: pics-sindou-n8-<langue>.m4a
+intonation: mystérieux (proposée)
+texte: Nous voyons un peuple sans abri. Reste entre nos pierres.
+genre: voix d'esprit/libre
+duree: 4400ms (estimée)
+
+piste: n9
+histoire: Les esprits des pics de Sindou
+partie: Au pied des pics (jeu)
+personnage: Le griot
+fichier: pics-sindou-n9-<langue>.m4a
+intonation: tendu (proposée)
+texte: On bâtit le village entre les rochers, et la vie reprend. Mais un jour, les cavaliers retrouvent leur trace. Nakan se dresse et appelle les esprits.
+genre: adulte/homme
+duree: 11080ms (estimée)
+
+piste: n10
+histoire: Les esprits des pics de Sindou
+partie: Au pied des pics (jeu)
+personnage: Le griot
+fichier: pics-sindou-n10-<langue>.m4a
+intonation: tendu (proposée)
+texte: La montagne tremble. Des pierres roulent, et les chevaux prennent peur. Les cavaliers s'enfuient, et ils ne reviendront jamais.
+genre: adulte/homme
+duree: 8420ms (estimée)
+
+piste: n11
+histoire: Les esprits des pics de Sindou
+partie: Au pied des pics (jeu)
+personnage: Le griot
+fichier: pics-sindou-n11-<langue>.m4a
+intonation: tendu (proposée)
+texte: Aujourd'hui encore, à Sindou, on honore les esprits des rochers, pour garder leur protection.
+genre: adulte/homme
+duree: 6070ms (estimée)
+
+piste: film-001
+histoire: Les esprits des pics de Sindou
+partie: Film d'animation, de 00:02.0 à 00:07.0
+personnage: Narrateur
+fichier: pics-sindou-film-001-<langue>.m4a
+intonation: solennel (scénario)
+texte: Les esprits des pics de Sindou. Une légende senoufo.
+genre: adulte/libre
+duree: 5000ms (mesurée sur le film)
+
+piste: film-002
+histoire: Les esprits des pics de Sindou
+partie: Film d'animation, de 00:09.0 à 00:16.7
+personnage: Narrateur
+fichier: pics-sindou-film-002-<langue>.m4a
+intonation: posé (proposée)
+texte: Dans le sud-ouest du Burkina, de hautes aiguilles de pierre se dressent au-dessus de la plaine. On dit qu'elles ne sont pas vides.
+genre: adulte/libre
+duree: 7700ms (mesurée sur le film)
+
+piste: film-003
+histoire: Les esprits des pics de Sindou
+partie: Film d'animation, de 00:28.0 à 00:32.6
+personnage: Narrateur
+fichier: pics-sindou-film-003-<langue>.m4a
+intonation: posé (proposée)
+texte: Autrefois, un village senoufo vivait plus au sud, en paix.
+genre: adulte/libre
+duree: 4600ms (mesurée sur le film)
+
+piste: film-004
+histoire: Les esprits des pics de Sindou
+partie: Film d'animation, de 00:34.0 à 00:38.8
+personnage: Narrateur
+fichier: pics-sindou-film-004-<langue>.m4a
+intonation: tendu (scénario)
+texte: Un matin, des cavaliers surgirent, venus capturer des hommes.
+genre: adulte/libre
+duree: 4800ms (mesurée sur le film)
+
+piste: film-005
+histoire: Les esprits des pics de Sindou
+partie: Film d'animation, de 00:43.0 à 00:47.2
+personnage: Narrateur
+fichier: pics-sindou-film-005-<langue>.m4a
+intonation: posé (proposée)
+texte: Les toits brûlèrent, et le village s'enfuit vers la brousse.
+genre: adulte/libre
+duree: 4200ms (mesurée sur le film)
+
+piste: film-006
+histoire: Les esprits des pics de Sindou
+partie: Film d'animation, de 01:04.0 à 01:08.6
+personnage: Narrateur
+fichier: pics-sindou-film-006-<langue>.m4a
+intonation: posé (proposée)
+texte: Ils marchèrent de longues nuits, guidés par Nakan, la doyenne.
+genre: adulte/libre
+duree: 4600ms (mesurée sur le film)
+
+piste: film-007
+histoire: Les esprits des pics de Sindou
+partie: Film d'animation, de 01:15.0 à 01:20.9
+personnage: Narrateur
+fichier: pics-sindou-film-007-<langue>.m4a
+intonation: posé (proposée)
+texte: Un enfant tomba de fatigue. Le plus fort des hommes le prit sur ses épaules.
+genre: adulte/libre
+duree: 5900ms (mesurée sur le film)
+
+piste: film-008
+histoire: Les esprits des pics de Sindou
+partie: Film d'animation, de 01:22.3 à 01:26.1
+personnage: NAKAN
+fichier: pics-sindou-film-008-<langue>.m4a
+intonation: épuisé mais ferme (scénario)
+texte: Là-bas ! Les pierres nous attendent.
+genre: âgé/libre
+duree: 3800ms (mesurée sur le film)
+
+piste: film-009
+histoire: Les esprits des pics de Sindou
+partie: Film d'animation, de 01:37.0 à 01:42.5
+personnage: Narrateur
+fichier: pics-sindou-film-009-<langue>.m4a
+intonation: émerveillé (scénario)
+texte: Ils arrivèrent au pied des pics. Personne n'avait jamais rien vu de pareil.
+genre: adulte/libre
+duree: 5500ms (mesurée sur le film)
+
+piste: film-010
+histoire: Les esprits des pics de Sindou
+partie: Film d'animation, de 01:47.0 à 01:50.9
+personnage: Narrateur
+fichier: pics-sindou-film-010-<langue>.m4a
+intonation: posé (proposée)
+texte: Au pied du plus grand, Nakan déposa une offrande.
+genre: adulte/libre
+duree: 3900ms (mesurée sur le film)
+
+piste: film-011
+histoire: Les esprits des pics de Sindou
+partie: Film d'animation, de 01:51.0 à 01:54.1
+personnage: NAKAN
+fichier: pics-sindou-film-011-<langue>.m4a
+intonation: recueilli (scénario)
+texte: Esprits des rochers, cachez-nous.
+genre: âgé/libre
+duree: 3100ms (mesurée sur le film)
+
+piste: film-012
+histoire: Les esprits des pics de Sindou
+partie: Film d'animation, de 01:58.0 à 02:05.9
+personnage: Narrateur
+fichier: pics-sindou-film-012-<langue>.m4a
+intonation: mystérieux (scénario)
+texte: Alors la pierre s'éveilla, et les esprits en sortirent. Ils regardèrent ce peuple sans abri, et ils l'adoptèrent.
+genre: adulte/libre
+duree: 7900ms (mesurée sur le film)
+
+piste: film-013
+histoire: Les esprits des pics de Sindou
+partie: Film d'animation, de 02:18.0 à 02:22.0
+personnage: Narrateur
+fichier: pics-sindou-film-013-<langue>.m4a
+intonation: posé (proposée)
+texte: On bâtit le village entre les rochers, et la vie reprit.
+genre: adulte/libre
+duree: 4000ms (mesurée sur le film)
+
+piste: film-014
+histoire: Les esprits des pics de Sindou
+partie: Film d'animation, de 02:46.0 à 02:50.0
+personnage: Narrateur
+fichier: pics-sindou-film-014-<langue>.m4a
+intonation: tendu (scénario)
+texte: Mais un jour, les cavaliers retrouvèrent leur trace.
+genre: adulte/libre
+duree: 4000ms (mesurée sur le film)
+
+piste: film-015
+histoire: Les esprits des pics de Sindou
+partie: Film d'animation, de 02:55.0 à 02:58.1
+personnage: Narrateur
+fichier: pics-sindou-film-015-<langue>.m4a
+intonation: posé (proposée)
+texte: Nakan se dressa et appela les esprits.
+genre: adulte/libre
+duree: 3100ms (mesurée sur le film)
+
+piste: film-016
+histoire: Les esprits des pics de Sindou
+partie: Film d'animation, de 03:03.0 à 03:08.7
+personnage: Narrateur
+fichier: pics-sindou-film-016-<langue>.m4a
+intonation: fort (scénario)
+texte: La montagne trembla. Des pierres roulèrent, et les chevaux prirent peur.
+genre: adulte/libre
+duree: 5700ms (mesurée sur le film)
+
+piste: film-017
+histoire: Les esprits des pics de Sindou
+partie: Film d'animation, de 03:15.0 à 03:19.4
+personnage: Narrateur
+fichier: pics-sindou-film-017-<langue>.m4a
+intonation: posé (proposée)
+texte: Les cavaliers s'enfuirent. Ils ne revinrent jamais.
+genre: adulte/libre
+duree: 4400ms (mesurée sur le film)
+
+piste: film-018
+histoire: Les esprits des pics de Sindou
+partie: Film d'animation, de 03:32.0 à 03:36.7
+personnage: Narrateur
+fichier: pics-sindou-film-018-<langue>.m4a
+intonation: joyeux (scénario)
+texte: Le village éclata de joie, et les esprits retournèrent dans la pierre.
+genre: adulte/libre
+duree: 4700ms (mesurée sur le film)
+
+piste: film-019
+histoire: Les esprits des pics de Sindou
+partie: Film d'animation, de 03:45.0 à 03:48.2
+personnage: Narrateur
+fichier: pics-sindou-film-019-<langue>.m4a
+intonation: posé (proposée)
+texte: Jamais plus ce peuple ne fut dominé.
+genre: adulte/libre
+duree: 3200ms (mesurée sur le film)
+
+piste: film-020
+histoire: Les esprits des pics de Sindou
+partie: Film d'animation, de 04:02.0 à 04:08.3
+personnage: Narrateur
+fichier: pics-sindou-film-020-<langue>.m4a
+intonation: doux (scénario)
+texte: Aujourd'hui encore, à Sindou, on honore les esprits des rochers, pour garder leur protection.
+genre: adulte/libre
+duree: 6300ms (mesurée sur le film)

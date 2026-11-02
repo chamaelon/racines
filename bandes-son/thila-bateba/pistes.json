@@ -1,0 +1,755 @@
+{
+ "id": "thila-bateba",
+ "titre": "Les thila et les bateba",
+ "peuple": "Lobi",
+ "langues_cibles": [
+  "fr",
+  "lob"
+ ],
+ "pistes": [
+  {
+   "id": "titre",
+   "type": "titre",
+   "chemin": "titre",
+   "texte": "Les thila et les bateba"
+  },
+  {
+   "id": "presentation",
+   "type": "presentation",
+   "chemin": "presentation",
+   "texte": "Rien ne semble pouvoir atteindre la soukala de Kambiré. Pourtant, son enfant tombe malade et un serpent entre dans le grenier. À toi de l'aider à comprendre. Ce mythe reste à remplacer ou à valider après collecte."
+  },
+  {
+   "id": "personnages.griot.nom",
+   "type": "personnage",
+   "chemin": "personnages.griot.nom",
+   "texte": "Le griot"
+  },
+  {
+   "id": "personnages.kambire.nom",
+   "type": "personnage",
+   "chemin": "personnages.kambire.nom",
+   "texte": "Kambiré"
+  },
+  {
+   "id": "personnages.devineresse.nom",
+   "type": "personnage",
+   "chemin": "personnages.devineresse.nom",
+   "texte": "La devineresse"
+  },
+  {
+   "id": "personnages.thila.nom",
+   "type": "personnage",
+   "chemin": "personnages.thila.nom",
+   "texte": "Un thila"
+  },
+  {
+   "id": "personnages.enfant.nom",
+   "type": "personnage",
+   "chemin": "personnages.enfant.nom",
+   "texte": "L'enfant"
+  },
+  {
+   "id": "personnages.serpent.nom",
+   "type": "personnage",
+   "chemin": "personnages.serpent.nom",
+   "texte": "Le serpent"
+  },
+  {
+   "id": "fins.canon",
+   "type": "fin",
+   "chemin": "fins.canon",
+   "texte": "Version du griot : les bateba veillent"
+  },
+  {
+   "id": "fins.murs",
+   "type": "fin",
+   "chemin": "fins.murs",
+   "texte": "Autre chemin : Kambiré se fie à ses murs"
+  },
+  {
+   "id": "n1",
+   "type": "replique",
+   "chemin": "nodes.n1.text",
+   "noeud": "n1",
+   "partie": "La soukala de Kambiré (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Voici la soukala de Kambiré, une maison-forteresse aux murs épais. Mais un jour, son enfant tombe malade. Puis un serpent se glisse dans le grenier.",
+   "genre": "adulte/homme",
+   "duree_ms": 10700,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n2",
+   "type": "replique",
+   "chemin": "nodes.n2.text",
+   "noeud": "n2",
+   "partie": "La soukala de Kambiré (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Le malheur est entré dans la maison. Que fait Kambiré ?",
+   "genre": "adulte/homme",
+   "duree_ms": 4780,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n2.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.n2.choices.0.label",
+   "texte": "Il va voir la devineresse"
+  },
+  {
+   "id": "nodes.n2.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.n2.choices.0.tag",
+   "texte": "devineresse consultée"
+  },
+  {
+   "id": "nodes.n2.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.n2.choices.1.label",
+   "texte": "Il renforce ses murs"
+  },
+  {
+   "id": "nodes.n2.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.n2.choices.1.tag",
+   "texte": "murs renforcés"
+  },
+  {
+   "id": "murs",
+   "type": "replique",
+   "chemin": "nodes.murs.text",
+   "noeud": "murs",
+   "partie": "La soukala de Kambiré (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Il monte les murs d'une rangée de terre. L'enfant ne guérit pas, et le serpent ne part pas.",
+   "genre": "adulte/homme",
+   "duree_ms": 7590,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n3",
+   "type": "replique",
+   "chemin": "nodes.n3.text",
+   "noeud": "n3",
+   "partie": "La soukala de Kambiré (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Les murs ne suffisent pas. Va-t-il chercher plus loin ?",
+   "genre": "adulte/homme",
+   "duree_ms": 4400,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n3.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.n3.choices.0.label",
+   "texte": "Oui, il va voir la devineresse"
+  },
+  {
+   "id": "nodes.n3.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.n3.choices.0.tag",
+   "texte": "devineresse consultée"
+  },
+  {
+   "id": "nodes.n3.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.n3.choices.1.label",
+   "texte": "Non, il garde confiance dans ses murs"
+  },
+  {
+   "id": "nodes.n3.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.n3.choices.1.tag",
+   "texte": "confiance aux murs"
+  },
+  {
+   "id": "finmurs",
+   "type": "replique",
+   "chemin": "nodes.finmurs.text",
+   "noeud": "finmurs",
+   "partie": "La soukala de Kambiré (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Une maison se garde par ce qu'on y honore autant que par ses murs. Kambiré, lui, ne l'a pas appris cette saison-là.",
+   "genre": "adulte/homme",
+   "duree_ms": 9260,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "devin",
+   "type": "replique",
+   "chemin": "nodes.devin.text",
+   "noeud": "devin",
+   "partie": "La soukala de Kambiré (jeu)",
+   "personnage": "Kambiré",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Mon enfant souffre. Qui nous en veut ?",
+   "genre": "adulte/homme",
+   "duree_ms": 3640,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n4",
+   "type": "replique",
+   "chemin": "nodes.n4.text",
+   "noeud": "n4",
+   "partie": "La soukala de Kambiré (jeu)",
+   "personnage": "La devineresse",
+   "intonation": "doux",
+   "intonation_statut": "proposée",
+   "texte": "Voyons cela.",
+   "genre": "âgée/femme",
+   "duree_ms": 1060,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n5.question",
+   "type": "jeu",
+   "chemin": "nodes.n5.question",
+   "texte": "La devineresse jette quelque chose sur le sol pour lire la réponse. Quoi donc ?"
+  },
+  {
+   "id": "nodes.n5.gagne",
+   "type": "jeu",
+   "chemin": "nodes.n5.gagne",
+   "texte": "Elle jette les cauris, et les regarde longtemps."
+  },
+  {
+   "id": "nodes.n5.perdu",
+   "type": "jeu",
+   "chemin": "nodes.n5.perdu",
+   "texte": "Ce sont des cauris qu'elle jette, et elle les regarde longtemps."
+  },
+  {
+   "id": "nodes.n5.reponses.0.label",
+   "type": "jeu",
+   "chemin": "nodes.n5.reponses.0.label",
+   "texte": "Des cauris"
+  },
+  {
+   "id": "nodes.n5.reponses.1.label",
+   "type": "jeu",
+   "chemin": "nodes.n5.reponses.1.label",
+   "texte": "Des grains de mil"
+  },
+  {
+   "id": "nodes.n5.reponses.2.label",
+   "type": "jeu",
+   "chemin": "nodes.n5.reponses.2.label",
+   "texte": "Des braises"
+  },
+  {
+   "id": "nodes.n5.tags.win",
+   "type": "parcours",
+   "chemin": "nodes.n5.tags.win",
+   "texte": "bonne réponse"
+  },
+  {
+   "id": "nodes.n5.tags.lose",
+   "type": "parcours",
+   "chemin": "nodes.n5.tags.lose",
+   "texte": "réponse manquée"
+  },
+  {
+   "id": "n6",
+   "type": "replique",
+   "chemin": "nodes.n6.text",
+   "noeud": "n6",
+   "partie": "La soukala de Kambiré (jeu)",
+   "personnage": "La devineresse",
+   "intonation": "doux",
+   "intonation_statut": "proposée",
+   "texte": "Ce sont les thila, les esprits. Ils attendent quelque chose de toi.",
+   "genre": "âgée/femme",
+   "duree_ms": 5310,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n7",
+   "type": "replique",
+   "chemin": "nodes.n7.text",
+   "noeud": "n7",
+   "partie": "La parole du devin (jeu)",
+   "personnage": "Un thila",
+   "intonation": "mystérieux",
+   "intonation_statut": "proposée",
+   "texte": "Sculpte une statue de bois. Pose-la chez toi. Elle veillera.",
+   "genre": "voix d'esprit/libre",
+   "duree_ms": 4700,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n8",
+   "type": "replique",
+   "chemin": "nodes.n8.text",
+   "noeud": "n8",
+   "partie": "La parole du devin (jeu)",
+   "personnage": "Le griot",
+   "intonation": "chuchoté",
+   "intonation_statut": "proposée",
+   "texte": "Au réveil, Kambiré sait ce qu'il a à faire. Il choisit un tronc et se met à tailler, sans parler. Une statue, puis une seconde : les bateba. Regarde sa maison.",
+   "genre": "adulte/homme",
+   "duree_ms": 13580,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n9",
+   "type": "replique",
+   "chemin": "nodes.n9.text",
+   "noeud": "n9",
+   "partie": "La parole du devin (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Il les pose sur l'autel, à l'entrée, avec une offrande. Comment la famille les reçoit-elle ?",
+   "genre": "adulte/homme",
+   "duree_ms": 6980,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n9.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.n9.choices.0.label",
+   "texte": "Elle les salue, comme des gens de la maison"
+  },
+  {
+   "id": "nodes.n9.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.n9.choices.0.tag",
+   "texte": "bateba salués"
+  },
+  {
+   "id": "nodes.n9.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.n9.choices.1.label",
+   "texte": "Elle les laisse là sans un mot"
+  },
+  {
+   "id": "nodes.n9.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.n9.choices.1.tag",
+   "texte": "bateba oubliés"
+  },
+  {
+   "id": "muet",
+   "type": "replique",
+   "chemin": "nodes.muet.text",
+   "noeud": "muet",
+   "partie": "La parole du devin (jeu)",
+   "personnage": "Le griot",
+   "intonation": "chuchoté",
+   "intonation_statut": "proposée",
+   "texte": "Kambiré se reprend : on ne pose pas un gardien sans le saluer. Toute la famille revient le faire.",
+   "genre": "adulte/homme",
+   "duree_ms": 7970,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "salue",
+   "type": "replique",
+   "chemin": "nodes.salue.text",
+   "noeud": "salue",
+   "partie": "La nuit du serpent (jeu)",
+   "personnage": "Le griot",
+   "intonation": "grave",
+   "intonation_statut": "proposée",
+   "texte": "La nuit suivante, le serpent revient. Il s'approche de l'autel, et les bateba s'éveillent. Une lueur les entoure. Le serpent recule, et s'en va.",
+   "genre": "adulte/homme",
+   "duree_ms": 10770,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n10",
+   "type": "replique",
+   "chemin": "nodes.n10.text",
+   "noeud": "n10",
+   "partie": "Le matin (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Au matin, l'enfant joue dans la cour. Depuis, les Lobi disent que les bateba veillent sur la maison.",
+   "genre": "adulte/homme",
+   "duree_ms": 7740,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "film-001",
+   "type": "film",
+   "partie": "Film d'animation, de 00:02.0 à 00:06.3",
+   "horodatage": {
+    "debut_ms": 2000,
+    "fin_ms": 6300
+   },
+   "personnage": "Narrateur",
+   "intonation": "solennel",
+   "intonation_statut": "scénario",
+   "texte": "Les thila et les bateba. Un mythe lobi.",
+   "genre": "adulte/libre",
+   "duree_ms": 4300,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-002",
+   "type": "film",
+   "partie": "Film d'animation, de 00:08.0 à 00:12.8",
+   "horodatage": {
+    "debut_ms": 8000,
+    "fin_ms": 12800
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Voici la soukala de Kambiré, une maison-forteresse aux murs épais.",
+   "genre": "adulte/libre",
+   "duree_ms": 4800,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-003",
+   "type": "film",
+   "partie": "Film d'animation, de 00:15.0 à 00:19.5",
+   "horodatage": {
+    "debut_ms": 15000,
+    "fin_ms": 19500
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Rien ne semble pouvoir l'atteindre. Et pourtant.",
+   "genre": "adulte/libre",
+   "duree_ms": 4500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-004",
+   "type": "film",
+   "partie": "Film d'animation, de 00:28.0 à 00:33.7",
+   "horodatage": {
+    "debut_ms": 28000,
+    "fin_ms": 33700
+   },
+   "personnage": "Narrateur",
+   "intonation": "inquiet",
+   "intonation_statut": "scénario",
+   "texte": "Un jour, l'enfant de Kambiré tomba malade. Rien ne le soulageait.",
+   "genre": "adulte/libre",
+   "duree_ms": 5700,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-005",
+   "type": "film",
+   "partie": "Film d'animation, de 00:47.0 à 00:52.7",
+   "horodatage": {
+    "debut_ms": 47000,
+    "fin_ms": 52700
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Puis un serpent se glissa dans le grenier. Le malheur était entré dans la maison.",
+   "genre": "adulte/libre",
+   "duree_ms": 5700,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-006",
+   "type": "film",
+   "partie": "Film d'animation, de 01:08.0 à 01:11.0",
+   "horodatage": {
+    "debut_ms": 68000,
+    "fin_ms": 71000
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Kambiré alla voir la devineresse.",
+   "genre": "adulte/libre",
+   "duree_ms": 3000,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-007",
+   "type": "film",
+   "partie": "Film d'animation, de 01:12.5 à 01:15.5",
+   "horodatage": {
+    "debut_ms": 72500,
+    "fin_ms": 75500
+   },
+   "personnage": "PERE",
+   "intonation": "inquiet",
+   "intonation_statut": "scénario",
+   "texte": "Mon enfant souffre. Qui nous en veut ?",
+   "genre": "adulte/homme",
+   "duree_ms": 3000,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-008",
+   "type": "film",
+   "partie": "Film d'animation, de 01:15.5 à 01:17.6",
+   "horodatage": {
+    "debut_ms": 75500,
+    "fin_ms": 77600
+   },
+   "personnage": "DEVINERESSE",
+   "intonation": "lent",
+   "intonation_statut": "scénario",
+   "texte": "Voyons cela.",
+   "genre": "âgé/libre",
+   "duree_ms": 2100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-009",
+   "type": "film",
+   "partie": "Film d'animation, de 01:19.0 à 01:23.2",
+   "horodatage": {
+    "debut_ms": 79000,
+    "fin_ms": 83200
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Elle jeta les cauris sur le sol, et elle les regarda longtemps.",
+   "genre": "adulte/libre",
+   "duree_ms": 4200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-010",
+   "type": "film",
+   "partie": "Film d'animation, de 01:27.0 à 01:32.5",
+   "horodatage": {
+    "debut_ms": 87000,
+    "fin_ms": 92500
+   },
+   "personnage": "DEVINERESSE",
+   "intonation": "grave",
+   "intonation_statut": "scénario",
+   "texte": "Ce sont les thila, les esprits. Ils attendent quelque chose de toi.",
+   "genre": "âgé/libre",
+   "duree_ms": 5500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-011",
+   "type": "film",
+   "partie": "Film d'animation, de 01:44.0 à 01:47.3",
+   "horodatage": {
+    "debut_ms": 104000,
+    "fin_ms": 107300
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Cette nuit-là, Kambiré fit un rêve.",
+   "genre": "adulte/libre",
+   "duree_ms": 3300,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-012",
+   "type": "film",
+   "partie": "Film d'animation, de 01:50.0 à 01:54.5",
+   "horodatage": {
+    "debut_ms": 110000,
+    "fin_ms": 114500
+   },
+   "personnage": "Narrateur",
+   "intonation": "mystérieux",
+   "intonation_statut": "scénario",
+   "texte": "Les thila lui apparurent, et lui montrèrent une petite statue de bois.",
+   "genre": "adulte/libre",
+   "duree_ms": 4500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-013",
+   "type": "film",
+   "partie": "Film d'animation, de 01:58.0 à 02:03.2",
+   "horodatage": {
+    "debut_ms": 118000,
+    "fin_ms": 123200
+   },
+   "personnage": "THILA",
+   "intonation": "voix profonde",
+   "intonation_statut": "scénario",
+   "texte": "Sculpte-la. Pose-la chez toi. Elle veillera.",
+   "genre": "esprit, créature : voix grave/libre",
+   "duree_ms": 5200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-014",
+   "type": "film",
+   "partie": "Film d'animation, de 02:06.0 à 02:09.9",
+   "horodatage": {
+    "debut_ms": 126000,
+    "fin_ms": 129900
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Au réveil, Kambiré savait ce qu'il avait à faire.",
+   "genre": "adulte/libre",
+   "duree_ms": 3900,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-015",
+   "type": "film",
+   "partie": "Film d'animation, de 02:24.0 à 02:27.8",
+   "horodatage": {
+    "debut_ms": 144000,
+    "fin_ms": 147800
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Il choisit un tronc et se mit à tailler, sans parler.",
+   "genre": "adulte/libre",
+   "duree_ms": 3800,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-016",
+   "type": "film",
+   "partie": "Film d'animation, de 02:36.0 à 02:39.0",
+   "horodatage": {
+    "debut_ms": 156000,
+    "fin_ms": 159000
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Une statue, puis une seconde.",
+   "genre": "adulte/libre",
+   "duree_ms": 3000,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-017",
+   "type": "film",
+   "partie": "Film d'animation, de 02:50.0 à 02:53.7",
+   "horodatage": {
+    "debut_ms": 170000,
+    "fin_ms": 173700
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Ce sont les bateba : les statuettes gardiennes.",
+   "genre": "adulte/libre",
+   "duree_ms": 3700,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-018",
+   "type": "film",
+   "partie": "Film d'animation, de 03:04.0 à 03:09.2",
+   "horodatage": {
+    "debut_ms": 184000,
+    "fin_ms": 189200
+   },
+   "personnage": "Narrateur",
+   "intonation": "recueilli",
+   "intonation_statut": "scénario",
+   "texte": "Il les posa sur l'autel, à l'entrée de la maison, avec une offrande.",
+   "genre": "adulte/libre",
+   "duree_ms": 5200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-019",
+   "type": "film",
+   "partie": "Film d'animation, de 03:15.0 à 03:19.1",
+   "horodatage": {
+    "debut_ms": 195000,
+    "fin_ms": 199100
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "La famille les salua, comme on salue des gens de la maison.",
+   "genre": "adulte/libre",
+   "duree_ms": 4100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-020",
+   "type": "film",
+   "partie": "Film d'animation, de 03:34.0 à 03:37.4",
+   "horodatage": {
+    "debut_ms": 214000,
+    "fin_ms": 217400
+   },
+   "personnage": "Narrateur",
+   "intonation": "chuchoté",
+   "intonation_statut": "scénario",
+   "texte": "La nuit suivante, le serpent revint.",
+   "genre": "adulte/libre",
+   "duree_ms": 3400,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-021",
+   "type": "film",
+   "partie": "Film d'animation, de 03:45.0 à 03:51.1",
+   "horodatage": {
+    "debut_ms": 225000,
+    "fin_ms": 231100
+   },
+   "personnage": "Narrateur",
+   "intonation": "mystérieux",
+   "intonation_statut": "scénario",
+   "texte": "Il s'approcha de l'autel, et les bateba s'éveillèrent. Une lueur les entoura.",
+   "genre": "adulte/libre",
+   "duree_ms": 6100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-022",
+   "type": "film",
+   "partie": "Film d'animation, de 03:58.0 à 04:01.2",
+   "horodatage": {
+    "debut_ms": 238000,
+    "fin_ms": 241200
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Le serpent recula, et s'en alla.",
+   "genre": "adulte/libre",
+   "duree_ms": 3200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-023",
+   "type": "film",
+   "partie": "Film d'animation, de 04:14.0 à 04:21.7",
+   "horodatage": {
+    "debut_ms": 254000,
+    "fin_ms": 261700
+   },
+   "personnage": "Narrateur",
+   "intonation": "doux",
+   "intonation_statut": "scénario",
+   "texte": "Au matin, l'enfant jouait dans la cour. Depuis, les Lobi disent que les bateba veillent sur la maison.",
+   "genre": "adulte/libre",
+   "duree_ms": 7700,
+   "duree_statut": "mesurée sur le film"
+  }
+ ]
+}

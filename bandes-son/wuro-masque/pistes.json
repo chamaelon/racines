@@ -1,0 +1,954 @@
+{
+ "id": "wuro-masque",
+ "titre": "Wuro et le masque de feuilles",
+ "peuple": "Bobo",
+ "langues_cibles": [
+  "fr",
+  "bbo",
+  "dyu"
+ ],
+ "pistes": [
+  {
+   "id": "titre",
+   "type": "titre",
+   "chemin": "titre",
+   "texte": "Wuro et le masque de feuilles"
+  },
+  {
+   "id": "presentation",
+   "type": "presentation",
+   "chemin": "presentation",
+   "texte": "Wuro a créé la terre, puis il s'est éloigné. Les hommes se déchirent et le forgeron reste seul devant sa forge éteinte. C'est à toi de le guider jusqu'au masque de feuilles."
+  },
+  {
+   "id": "personnages.griot.nom",
+   "type": "personnage",
+   "chemin": "personnages.griot.nom",
+   "texte": "Le griot"
+  },
+  {
+   "id": "personnages.wuro.nom",
+   "type": "personnage",
+   "chemin": "personnages.wuro.nom",
+   "texte": "Wuro"
+  },
+  {
+   "id": "personnages.forgeron.nom",
+   "type": "personnage",
+   "chemin": "personnages.forgeron.nom",
+   "texte": "Le forgeron"
+  },
+  {
+   "id": "personnages.jeune.nom",
+   "type": "personnage",
+   "chemin": "personnages.jeune.nom",
+   "texte": "Le jeune"
+  },
+  {
+   "id": "personnages.cultivateur.nom",
+   "type": "personnage",
+   "chemin": "personnages.cultivateur.nom",
+   "texte": "Le cultivateur"
+  },
+  {
+   "id": "personnages.dwo.nom",
+   "type": "personnage",
+   "chemin": "personnages.dwo.nom",
+   "texte": "Dwo"
+  },
+  {
+   "id": "personnages.ancien.nom",
+   "type": "personnage",
+   "chemin": "personnages.ancien.nom",
+   "texte": "L'Ancien"
+  },
+  {
+   "id": "fins.canon",
+   "type": "fin",
+   "chemin": "fins.canon",
+   "texte": "Version du griot : le masque rend l'ordre"
+  },
+  {
+   "id": "fins.seul",
+   "type": "fin",
+   "chemin": "fins.seul",
+   "texte": "Autre chemin : la forge reste éteinte"
+  },
+  {
+   "id": "n1",
+   "type": "replique",
+   "chemin": "nodes.n1.text",
+   "noeud": "n1",
+   "partie": "Au commencement (jeu)",
+   "personnage": "Le griot",
+   "intonation": "solennel",
+   "intonation_statut": "proposée",
+   "texte": "Au commencement, il n'y avait que la nuit. Puis Wuro abaissa les mains, et la terre monta. Il lança une boule de feu vers l'horizon : ce fut le soleil.",
+   "genre": "adulte/homme",
+   "duree_ms": 12750,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n2",
+   "type": "replique",
+   "chemin": "nodes.n2.text",
+   "noeud": "n2",
+   "partie": "Au commencement (jeu)",
+   "personnage": "Wuro",
+   "intonation": "solennel",
+   "intonation_statut": "proposée",
+   "texte": "La terre est belle, mais personne ne la foule.",
+   "genre": "voix solennelle/libre",
+   "duree_ms": 3870,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n3",
+   "type": "replique",
+   "chemin": "nodes.n3.text",
+   "noeud": "n3",
+   "partie": "Au commencement (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Wuro modèle un tertre, et un homme en sort, massif et silencieux. Que lui donne-t-il d'abord ?",
+   "genre": "adulte/homme",
+   "duree_ms": 7360,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n3.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.n3.choices.0.label",
+   "texte": "Le feu et l'enclume"
+  },
+  {
+   "id": "nodes.n3.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.n3.choices.0.tag",
+   "texte": "le feu reçu"
+  },
+  {
+   "id": "nodes.n3.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.n3.choices.1.label",
+   "texte": "Une maison toute faite"
+  },
+  {
+   "id": "nodes.n3.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.n3.choices.1.tag",
+   "texte": "une maison demandée"
+  },
+  {
+   "id": "maison",
+   "type": "replique",
+   "chemin": "nodes.maison.text",
+   "noeud": "maison",
+   "partie": "Au commencement (jeu)",
+   "personnage": "Wuro",
+   "intonation": "solennel",
+   "intonation_statut": "proposée",
+   "texte": "Une maison se bâtit. Prends d'abord le feu, et le marteau.",
+   "genre": "voix solennelle/libre",
+   "duree_ms": 4930,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "feu",
+   "type": "replique",
+   "chemin": "nodes.feu.text",
+   "noeud": "feu",
+   "partie": "La première houe (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "L'homme frappe, et la première houe naît. Il est forgeron. Il donne une houe à chacun, le mil se lève, et Wuro s'éloigne dans le ciel. Mais sans lui, les hommes oublient vite.",
+   "genre": "adulte/homme",
+   "duree_ms": 14340,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n4",
+   "type": "replique",
+   "chemin": "nodes.n4.text",
+   "noeud": "n4",
+   "partie": "La première houe (jeu)",
+   "personnage": "Le cultivateur",
+   "intonation": "vif",
+   "intonation_statut": "proposée",
+   "texte": "Recule ta houe, ce champ est à moi !",
+   "genre": "adulte/homme",
+   "duree_ms": 3870,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n5",
+   "type": "replique",
+   "chemin": "nodes.n5.text",
+   "noeud": "n5",
+   "partie": "La première houe (jeu)",
+   "personnage": "Le jeune",
+   "intonation": "vif",
+   "intonation_statut": "proposée",
+   "texte": "Ton champ s'arrête au piquet !",
+   "genre": "jeune/homme",
+   "duree_ms": 2580,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n6",
+   "type": "replique",
+   "chemin": "nodes.n6.text",
+   "noeud": "n6",
+   "partie": "La première houe (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Un tourbillon de poussière traverse le village, arrache le toit d'un grenier. Un enfant pleure.",
+   "genre": "adulte/homme",
+   "duree_ms": 6450,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n7",
+   "type": "replique",
+   "chemin": "nodes.n7.text",
+   "noeud": "n7",
+   "partie": "La première houe (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Cette nuit-là, le forgeron reste seul devant sa forge éteinte. Que fait-il ?",
+   "genre": "adulte/homme",
+   "duree_ms": 5690,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n7.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.n7.choices.0.label",
+   "texte": "Il appelle Wuro"
+  },
+  {
+   "id": "nodes.n7.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.n7.choices.0.tag",
+   "texte": "Wuro appelé"
+  },
+  {
+   "id": "nodes.n7.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.n7.choices.1.label",
+   "texte": "Il va dormir, ce n'est plus son affaire"
+  },
+  {
+   "id": "nodes.n7.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.n7.choices.1.tag",
+   "texte": "abandon"
+  },
+  {
+   "id": "dormir",
+   "type": "replique",
+   "chemin": "nodes.dormir.text",
+   "noeud": "dormir",
+   "partie": "La première houe (jeu)",
+   "personnage": "Le griot",
+   "intonation": "chuchoté",
+   "intonation_statut": "proposée",
+   "texte": "Le lendemain, le tourbillon revient. Puis encore le lendemain. La forge reste froide, et on ne sait plus à qui le champ appartient.",
+   "genre": "adulte/homme",
+   "duree_ms": 9940,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "appel",
+   "type": "replique",
+   "chemin": "nodes.appel.text",
+   "noeud": "appel",
+   "partie": "La première houe (jeu)",
+   "personnage": "Le forgeron",
+   "intonation": "vif",
+   "intonation_statut": "proposée",
+   "texte": "Wuro ! Les hommes se déchirent. Réponds-moi !",
+   "genre": "adulte/homme",
+   "duree_ms": 3940,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n8",
+   "type": "replique",
+   "chemin": "nodes.n8.text",
+   "noeud": "n8",
+   "partie": "Le bois sacré (jeu)",
+   "personnage": "Le griot",
+   "intonation": "mystérieux",
+   "intonation_statut": "proposée",
+   "texte": "Une étoile grossit, puis glisse vers le bois sacré. Le forgeron y entre. Les feuilles du grand arbre tombent et forment un costume, surmonté d'un masque de bois.",
+   "genre": "adulte/homme",
+   "duree_ms": 11840,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n9",
+   "type": "replique",
+   "chemin": "nodes.n9.text",
+   "noeud": "n9",
+   "partie": "Le bois sacré (jeu)",
+   "personnage": "Wuro",
+   "intonation": "solennel",
+   "intonation_statut": "proposée",
+   "texte": "Voici mon fils, Dwo. Toi, forgeron, porte-le. Va. Rends-leur l'ordre.",
+   "genre": "voix solennelle/libre",
+   "duree_ms": 5450,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n10",
+   "type": "replique",
+   "chemin": "nodes.n10.text",
+   "noeud": "n10",
+   "partie": "La sortie de Dwo (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "À l'aube, les feuilles frémissent au-dessus d'un toit. Dwo sort. Les villageois reculent. Mais l'Ancien s'avance, le reconnaît et s'incline.",
+   "genre": "adulte/homme",
+   "duree_ms": 9100,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n11",
+   "type": "replique",
+   "chemin": "nodes.n11.text",
+   "noeud": "n11",
+   "partie": "La sortie de Dwo (jeu)",
+   "personnage": "Le griot",
+   "intonation": "enlevé",
+   "intonation_statut": "proposée",
+   "texte": "Dwo danse, et tout le village frappe dans ses mains. Suis la cadence !",
+   "genre": "adulte/homme",
+   "duree_ms": 6070,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n12.consigne",
+   "type": "jeu",
+   "chemin": "nodes.n12.consigne",
+   "texte": "Frappe le rythme de la danse de Dwo."
+  },
+  {
+   "id": "nodes.n12.gagne",
+   "type": "jeu",
+   "chemin": "nodes.n12.gagne",
+   "texte": "Le village entier suit la danse."
+  },
+  {
+   "id": "nodes.n12.perdu",
+   "type": "jeu",
+   "chemin": "nodes.n12.perdu",
+   "texte": "Le rythme hésite, mais Dwo danse quand même."
+  },
+  {
+   "id": "nodes.n12.tags.win",
+   "type": "parcours",
+   "chemin": "nodes.n12.tags.win",
+   "texte": "rythme tenu"
+  },
+  {
+   "id": "nodes.n12.tags.lose",
+   "type": "parcours",
+   "chemin": "nodes.n12.tags.lose",
+   "texte": "rythme perdu"
+  },
+  {
+   "id": "n13",
+   "type": "replique",
+   "chemin": "nodes.n13.text",
+   "noeud": "n13",
+   "partie": "La sortie de Dwo (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Il secoue ses feuilles entre les deux querelleurs. Ils baissent les bras et se serrent la main. Le tourbillon revient : Dwo lui fait face, et le tourbillon s'éteint.",
+   "genre": "adulte/homme",
+   "duree_ms": 12220,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n14",
+   "type": "replique",
+   "chemin": "nodes.n14.text",
+   "noeud": "n14",
+   "partie": "La sortie de Dwo (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Depuis ce jour, quand le désordre revient, on sort le masque de feuilles. Et là-haut, une étoile veille.",
+   "genre": "adulte/homme",
+   "duree_ms": 7890,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "film-001",
+   "type": "film",
+   "partie": "Film d'animation, de 00:02.0 à 00:07.0",
+   "horodatage": {
+    "debut_ms": 2000,
+    "fin_ms": 7000
+   },
+   "personnage": "Narrateur",
+   "intonation": "solennel",
+   "intonation_statut": "scénario",
+   "texte": "Wuro et le masque de feuilles. Un mythe du pays bobo.",
+   "genre": "adulte/libre",
+   "duree_ms": 5000,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-002",
+   "type": "film",
+   "partie": "Film d'animation, de 00:08.0 à 00:13.9",
+   "horodatage": {
+    "debut_ms": 8000,
+    "fin_ms": 13900
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Au commencement, il n'y avait que la nuit. Puis Wuro abaissa les mains, et la terre monta.",
+   "genre": "adulte/libre",
+   "duree_ms": 5900,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-003",
+   "type": "film",
+   "partie": "Film d'animation, de 00:14.0 à 00:18.3",
+   "horodatage": {
+    "debut_ms": 14000,
+    "fin_ms": 18300
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Il lança une boule de feu vers l'horizon : ce fut le soleil.",
+   "genre": "adulte/libre",
+   "duree_ms": 4300,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-004",
+   "type": "film",
+   "partie": "Film d'animation, de 00:20.0 à 00:27.2",
+   "horodatage": {
+    "debut_ms": 20000,
+    "fin_ms": 27200
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Les arbres poussèrent d'un seul coup. Et Wuro, le Créateur, posa le pied sur sa terre neuve.",
+   "genre": "adulte/libre",
+   "duree_ms": 7200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-005",
+   "type": "film",
+   "partie": "Film d'animation, de 00:32.0 à 00:38.4",
+   "horodatage": {
+    "debut_ms": 32000,
+    "fin_ms": 38400
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "La terre était belle, mais personne ne la foulait. Wuro s'accroupit et modela un tertre.",
+   "genre": "adulte/libre",
+   "duree_ms": 6400,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-006",
+   "type": "film",
+   "partie": "Film d'animation, de 00:40.0 à 00:46.8",
+   "horodatage": {
+    "debut_ms": 40000,
+    "fin_ms": 46800
+   },
+   "personnage": "Narrateur",
+   "intonation": "émerveillé",
+   "intonation_statut": "scénario",
+   "texte": "Un homme en sortit, massif et silencieux. Il regarda ses mains, puis son Créateur.",
+   "genre": "adulte/libre",
+   "duree_ms": 6800,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-007",
+   "type": "film",
+   "partie": "Film d'animation, de 00:50.0 à 00:55.6",
+   "horodatage": {
+    "debut_ms": 50000,
+    "fin_ms": 55600
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Wuro lui donna le feu. Il fit surgir une enclume et lui tendit un marteau.",
+   "genre": "adulte/libre",
+   "duree_ms": 5600,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-008",
+   "type": "film",
+   "partie": "Film d'animation, de 00:58.0 à 01:04.5",
+   "horodatage": {
+    "debut_ms": 58000,
+    "fin_ms": 64500
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "L'homme frappa, les étincelles volèrent, et la première houe naquit. Il était forgeron.",
+   "genre": "adulte/libre",
+   "duree_ms": 6500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-009",
+   "type": "film",
+   "partie": "Film d'animation, de 01:12.0 à 01:18.8",
+   "horodatage": {
+    "debut_ms": 72000,
+    "fin_ms": 78800
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Les maisons de banco s'élevèrent une à une. Wuro ouvrit les bras, et d'autres hommes sortirent de terre.",
+   "genre": "adulte/libre",
+   "duree_ms": 6800,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-010",
+   "type": "film",
+   "partie": "Film d'animation, de 01:24.0 à 01:29.9",
+   "horodatage": {
+    "debut_ms": 84000,
+    "fin_ms": 89900
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Le forgeron donna une houe à chacun. Tous cultivèrent, et le mil se leva.",
+   "genre": "adulte/libre",
+   "duree_ms": 5900,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-011",
+   "type": "film",
+   "partie": "Film d'animation, de 01:38.0 à 01:42.5",
+   "horodatage": {
+    "debut_ms": 98000,
+    "fin_ms": 102500
+   },
+   "personnage": "Narrateur",
+   "intonation": "tendre",
+   "intonation_statut": "scénario",
+   "texte": "Content de son œuvre, Wuro les salua et s'éloigna dans le ciel.",
+   "genre": "adulte/libre",
+   "duree_ms": 4500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-012",
+   "type": "film",
+   "partie": "Film d'animation, de 01:51.0 à 01:54.4",
+   "horodatage": {
+    "debut_ms": 111000,
+    "fin_ms": 114400
+   },
+   "personnage": "Narrateur",
+   "intonation": "inquiet",
+   "intonation_statut": "scénario",
+   "texte": "Mais sans Wuro, les hommes oublièrent vite.",
+   "genre": "adulte/libre",
+   "duree_ms": 3400,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-013",
+   "type": "film",
+   "partie": "Film d'animation, de 01:54.6 à 01:57.7",
+   "horodatage": {
+    "debut_ms": 114600,
+    "fin_ms": 117700
+   },
+   "personnage": "CULTIVATEUR",
+   "intonation": "colère",
+   "intonation_statut": "scénario",
+   "texte": "Recule ta houe, ce champ est à moi !",
+   "genre": "adulte/homme",
+   "duree_ms": 3100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-014",
+   "type": "film",
+   "partie": "Film d'animation, de 01:57.7 à 02:00.3",
+   "horodatage": {
+    "debut_ms": 117700,
+    "fin_ms": 120300
+   },
+   "personnage": "JEUNE",
+   "intonation": "colère",
+   "intonation_statut": "scénario",
+   "texte": "Ton champ s'arrête au piquet !",
+   "genre": "enfant/libre",
+   "duree_ms": 2600,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-015",
+   "type": "film",
+   "partie": "Film d'animation, de 02:05.0 à 02:12.9",
+   "horodatage": {
+    "debut_ms": 125000,
+    "fin_ms": 132900
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Puis un tourbillon de poussière traversa le village. Il arracha le toit d'un grenier. Un enfant pleura.",
+   "genre": "adulte/libre",
+   "duree_ms": 7900,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-016",
+   "type": "film",
+   "partie": "Film d'animation, de 02:17.0 à 02:21.7",
+   "horodatage": {
+    "debut_ms": 137000,
+    "fin_ms": 141700
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Cette nuit-là, le forgeron resta seul devant sa forge éteinte.",
+   "genre": "adulte/libre",
+   "duree_ms": 4700,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-017",
+   "type": "film",
+   "partie": "Film d'animation, de 02:23.8 à 02:28.0",
+   "horodatage": {
+    "debut_ms": 143800,
+    "fin_ms": 148000
+   },
+   "personnage": "FORGERON",
+   "intonation": "suppliant",
+   "intonation_statut": "scénario",
+   "texte": "Wuro ! Les hommes se déchirent. Réponds-moi !",
+   "genre": "adulte/homme",
+   "duree_ms": 4200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-018",
+   "type": "film",
+   "partie": "Film d'animation, de 02:29.0 à 02:33.0",
+   "horodatage": {
+    "debut_ms": 149000,
+    "fin_ms": 153000
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Une étoile grossit, puis glissa vers le bois sacré.",
+   "genre": "adulte/libre",
+   "duree_ms": 4000,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-019",
+   "type": "film",
+   "partie": "Film d'animation, de 02:38.0 à 02:43.1",
+   "horodatage": {
+    "debut_ms": 158000,
+    "fin_ms": 163100
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Le forgeron y entra. Une lumière tomba : Wuro était là.",
+   "genre": "adulte/libre",
+   "duree_ms": 5100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-020",
+   "type": "film",
+   "partie": "Film d'animation, de 02:48.0 à 02:55.5",
+   "horodatage": {
+    "debut_ms": 168000,
+    "fin_ms": 175500
+   },
+   "personnage": "Narrateur",
+   "intonation": "mystérieux",
+   "intonation_statut": "scénario",
+   "texte": "Wuro leva les bras vers le grand arbre. Les feuilles tombèrent et formèrent un costume, surmonté d'un masque de bois.",
+   "genre": "adulte/libre",
+   "duree_ms": 7500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-021",
+   "type": "film",
+   "partie": "Film d'animation, de 02:59.0 à 03:02.9",
+   "horodatage": {
+    "debut_ms": 179000,
+    "fin_ms": 182900
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Il le toucha : c'était Dwo, son fils.",
+   "genre": "adulte/libre",
+   "duree_ms": 3900,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-022",
+   "type": "film",
+   "partie": "Film d'animation, de 03:03.0 à 03:08.1",
+   "horodatage": {
+    "debut_ms": 183000,
+    "fin_ms": 188100
+   },
+   "personnage": "WURO",
+   "intonation": "grave, lent",
+   "intonation_statut": "scénario",
+   "texte": "Voici mon fils. Toi, forgeron, porte-le.",
+   "genre": "esprit, créature : voix grave/libre",
+   "duree_ms": 5100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-023",
+   "type": "film",
+   "partie": "Film d'animation, de 03:09.0 à 03:15.4",
+   "horodatage": {
+    "debut_ms": 189000,
+    "fin_ms": 195400
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Dwo tourna sur lui-même et redevint costume. Le forgeron le reçut dans ses bras.",
+   "genre": "adulte/libre",
+   "duree_ms": 6400,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-024",
+   "type": "film",
+   "partie": "Film d'animation, de 03:17.2 à 03:20.6",
+   "horodatage": {
+    "debut_ms": 197200,
+    "fin_ms": 200600
+   },
+   "personnage": "WURO",
+   "intonation": "doux",
+   "intonation_statut": "scénario",
+   "texte": "Va. Rends-leur l'ordre.",
+   "genre": "esprit, créature : voix grave/libre",
+   "duree_ms": 3400,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-025",
+   "type": "film",
+   "partie": "Film d'animation, de 03:22.0 à 03:26.7",
+   "horodatage": {
+    "debut_ms": 202000,
+    "fin_ms": 206700
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Wuro remonta au ciel, et le forgeron repartit, décidé.",
+   "genre": "adulte/libre",
+   "duree_ms": 4700,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-026",
+   "type": "film",
+   "partie": "Film d'animation, de 03:32.0 à 03:38.0",
+   "horodatage": {
+    "debut_ms": 212000,
+    "fin_ms": 218000
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "À l'aube, il passa derrière une case. Les feuilles frémirent au-dessus du toit.",
+   "genre": "adulte/libre",
+   "duree_ms": 6000,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-027",
+   "type": "film",
+   "partie": "Film d'animation, de 03:40.0 à 03:45.3",
+   "horodatage": {
+    "debut_ms": 220000,
+    "fin_ms": 225300
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Dwo sortit. Les villageois reculèrent, effrayés.",
+   "genre": "adulte/libre",
+   "duree_ms": 5300,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-028",
+   "type": "film",
+   "partie": "Film d'animation, de 03:47.0 à 03:51.6",
+   "horodatage": {
+    "debut_ms": 227000,
+    "fin_ms": 231600
+   },
+   "personnage": "Narrateur",
+   "intonation": "apaisé",
+   "intonation_statut": "scénario",
+   "texte": "Mais l'Ancien s'avança, reconnut le fils de Wuro et s'inclina.",
+   "genre": "adulte/libre",
+   "duree_ms": 4600,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-029",
+   "type": "film",
+   "partie": "Film d'animation, de 03:57.0 à 04:01.0",
+   "horodatage": {
+    "debut_ms": 237000,
+    "fin_ms": 241000
+   },
+   "personnage": "Narrateur",
+   "intonation": "joyeux",
+   "intonation_statut": "scénario",
+   "texte": "Dwo dansa, et le village frappa dans ses mains.",
+   "genre": "adulte/libre",
+   "duree_ms": 4000,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-030",
+   "type": "film",
+   "partie": "Film d'animation, de 04:06.0 à 04:12.1",
+   "horodatage": {
+    "debut_ms": 246000,
+    "fin_ms": 252100
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Il secoua ses feuilles entre les deux querelleurs. Ils baissèrent les bras et se serrèrent la main.",
+   "genre": "adulte/libre",
+   "duree_ms": 6100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-031",
+   "type": "film",
+   "partie": "Film d'animation, de 04:17.0 à 04:24.2",
+   "horodatage": {
+    "debut_ms": 257000,
+    "fin_ms": 264200
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Le tourbillon revint. Dwo lui fit face, les bras ouverts, et le tourbillon s'éteignit.",
+   "genre": "adulte/libre",
+   "duree_ms": 7200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-032",
+   "type": "film",
+   "partie": "Film d'animation, de 04:30.0 à 04:34.6",
+   "horodatage": {
+    "debut_ms": 270000,
+    "fin_ms": 274600
+   },
+   "personnage": "Narrateur",
+   "intonation": "joyeux",
+   "intonation_statut": "scénario",
+   "texte": "Le mil sortit de terre, et tout le village dansa avec Dwo.",
+   "genre": "adulte/libre",
+   "duree_ms": 4600,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-033",
+   "type": "film",
+   "partie": "Film d'animation, de 04:47.0 à 04:53.2",
+   "horodatage": {
+    "debut_ms": 287000,
+    "fin_ms": 293200
+   },
+   "personnage": "Narrateur",
+   "intonation": "doux",
+   "intonation_statut": "scénario",
+   "texte": "Le soir, Dwo rentra dans le bois. Le forgeron en ressortit seul.",
+   "genre": "adulte/libre",
+   "duree_ms": 6200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-034",
+   "type": "film",
+   "partie": "Film d'animation, de 04:55.0 à 05:00.1",
+   "horodatage": {
+    "debut_ms": 295000,
+    "fin_ms": 300100
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Depuis ce jour, quand le désordre revient, on sort le masque de feuilles.",
+   "genre": "adulte/libre",
+   "duree_ms": 5100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-035",
+   "type": "film",
+   "partie": "Film d'animation, de 05:02.0 à 05:04.9",
+   "horodatage": {
+    "debut_ms": 302000,
+    "fin_ms": 304900
+   },
+   "personnage": "Narrateur",
+   "intonation": "très doux",
+   "intonation_statut": "scénario",
+   "texte": "Et là-haut, une étoile veille.",
+   "genre": "adulte/libre",
+   "duree_ms": 2900,
+   "duree_statut": "mesurée sur le film"
+  }
+ ]
+}

@@ -1,0 +1,770 @@
+{
+ "id": "tene-balafon",
+ "titre": "Téné et le balafon des génies",
+ "peuple": "Senoufo",
+ "langues_cibles": [
+  "fr",
+  "sen",
+  "dyu"
+ ],
+ "pistes": [
+  {
+   "id": "titre",
+   "type": "titre",
+   "chemin": "titre",
+   "texte": "Téné et le balafon des génies"
+  },
+  {
+   "id": "presentation",
+   "type": "presentation",
+   "chemin": "presentation",
+   "texte": "Une nuit, une musique plus belle que toutes monte de la brousse. Téné se lève et disparaît. Tu pars avec les chasseurs dozo pour la ramener."
+  },
+  {
+   "id": "personnages.griot.nom",
+   "type": "personnage",
+   "chemin": "personnages.griot.nom",
+   "texte": "Le griot"
+  },
+  {
+   "id": "personnages.tene.nom",
+   "type": "personnage",
+   "chemin": "personnages.tene.nom",
+   "texte": "Téné"
+  },
+  {
+   "id": "personnages.zie.nom",
+   "type": "personnage",
+   "chemin": "personnages.zie.nom",
+   "texte": "Le vieux Ziè"
+  },
+  {
+   "id": "personnages.mere.nom",
+   "type": "personnage",
+   "chemin": "personnages.mere.nom",
+   "texte": "La mère"
+  },
+  {
+   "id": "personnages.maitre.nom",
+   "type": "personnage",
+   "chemin": "personnages.maitre.nom",
+   "texte": "Le maître dozo"
+  },
+  {
+   "id": "personnages.genie.nom",
+   "type": "personnage",
+   "chemin": "personnages.genie.nom",
+   "texte": "Le chef des génies"
+  },
+  {
+   "id": "fins.canon",
+   "type": "fin",
+   "chemin": "fins.canon",
+   "texte": "Version du griot : le balafon des génies"
+  },
+  {
+   "id": "fins.nuit",
+   "type": "fin",
+   "chemin": "fins.nuit",
+   "texte": "Autre chemin : Téné danse encore"
+  },
+  {
+   "id": "n1",
+   "type": "replique",
+   "chemin": "nodes.n1.text",
+   "noeud": "n1",
+   "partie": "Le balafon de Ziè (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Le soir, au village, le vieux Ziè jouait du balafon. Et Téné dansait. Regarde l'instrument.",
+   "genre": "adulte/homme",
+   "duree_ms": 6900,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n2",
+   "type": "replique",
+   "chemin": "nodes.n2.text",
+   "noeud": "n2",
+   "partie": "Le balafon de Ziè (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Une nuit, une autre musique monte de la brousse, plus belle que celle de Ziè. Téné se lève sans bruit. Elle part vers le son.",
+   "genre": "adulte/homme",
+   "duree_ms": 10700,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n3",
+   "type": "replique",
+   "chemin": "nodes.n3.text",
+   "noeud": "n3",
+   "partie": "La disparition (jeu)",
+   "personnage": "La mère",
+   "intonation": "vif",
+   "intonation_statut": "proposée",
+   "texte": "Téné ! Ma fille n'est plus là !",
+   "genre": "adulte/femme",
+   "duree_ms": 3640,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n4",
+   "type": "replique",
+   "chemin": "nodes.n4.text",
+   "noeud": "n4",
+   "partie": "La disparition (jeu)",
+   "personnage": "Le vieux Ziè",
+   "intonation": "chuchoté",
+   "intonation_statut": "proposée",
+   "texte": "Cette nuit, j'ai entendu jouer en brousse.",
+   "genre": "adulte/homme",
+   "duree_ms": 3110,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n5",
+   "type": "replique",
+   "chemin": "nodes.n5.text",
+   "noeud": "n5",
+   "partie": "La disparition (jeu)",
+   "personnage": "Le griot",
+   "intonation": "enlevé",
+   "intonation_statut": "proposée",
+   "texte": "Les génies ! Que fait la famille ?",
+   "genre": "adulte/homme",
+   "duree_ms": 3640,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n5.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.n5.choices.0.label",
+   "texte": "Elle va trouver les chasseurs dozo"
+  },
+  {
+   "id": "nodes.n5.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.n5.choices.0.tag",
+   "texte": "dozo appelés"
+  },
+  {
+   "id": "nodes.n5.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.n5.choices.1.label",
+   "texte": "Le père part seul, tout de suite"
+  },
+  {
+   "id": "nodes.n5.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.n5.choices.1.tag",
+   "texte": "père parti seul"
+  },
+  {
+   "id": "seul",
+   "type": "replique",
+   "chemin": "nodes.seul.text",
+   "noeud": "seul",
+   "partie": "La disparition (jeu)",
+   "personnage": "Le griot",
+   "intonation": "chuchoté",
+   "intonation_statut": "proposée",
+   "texte": "Il marche jusqu'au matin, il appelle, et seule la musique lui répond. Il revient épuisé. Il reste une nuit pour bien faire.",
+   "genre": "adulte/homme",
+   "duree_ms": 9560,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.seul.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.seul.choices.0.label",
+   "texte": "Aller trouver les dozo"
+  },
+  {
+   "id": "nodes.seul.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.seul.choices.0.tag",
+   "texte": "dozo appelés"
+  },
+  {
+   "id": "nodes.seul.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.seul.choices.1.label",
+   "texte": "Attendre que Téné revienne d'elle-même"
+  },
+  {
+   "id": "nodes.seul.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.seul.choices.1.tag",
+   "texte": "attente"
+  },
+  {
+   "id": "attente",
+   "type": "replique",
+   "chemin": "nodes.attente.text",
+   "noeud": "attente",
+   "partie": "La disparition (jeu)",
+   "personnage": "Le griot",
+   "intonation": "chuchoté",
+   "intonation_statut": "proposée",
+   "texte": "Elle ne revient pas. Les soirs de lune, dit-on, quelqu'un danse encore dans la clairière, sans nom et sans village. Tu pourrais recommencer pour changer cela.",
+   "genre": "adulte/homme",
+   "duree_ms": 11230,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "dozo",
+   "type": "replique",
+   "chemin": "nodes.dozo.text",
+   "noeud": "dozo",
+   "partie": "La disparition (jeu)",
+   "personnage": "Le griot",
+   "intonation": "chuchoté",
+   "intonation_statut": "proposée",
+   "texte": "Le maître consulte ses amulettes et lève son chasse-mouche. Les dozo partent avec leur chien. Au loin, la musique revient.",
+   "genre": "adulte/homme",
+   "duree_ms": 8650,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n6.consigne",
+   "type": "jeu",
+   "chemin": "nodes.n6.consigne",
+   "texte": "Retiens l'air des génies pour guider le chien jusqu'à la clairière."
+  },
+  {
+   "id": "nodes.n6.gagne",
+   "type": "jeu",
+   "chemin": "nodes.n6.gagne",
+   "texte": "Le chien lève la tête et file droit : vous tenez la bonne direction."
+  },
+  {
+   "id": "nodes.n6.perdu",
+   "type": "jeu",
+   "chemin": "nodes.n6.perdu",
+   "texte": "Vous tournez un moment, puis le chien retrouve la piste."
+  },
+  {
+   "id": "nodes.n6.tags.win",
+   "type": "parcours",
+   "chemin": "nodes.n6.tags.win",
+   "texte": "rythme tenu"
+  },
+  {
+   "id": "nodes.n6.tags.lose",
+   "type": "parcours",
+   "chemin": "nodes.n6.tags.lose",
+   "texte": "rythme perdu"
+  },
+  {
+   "id": "n7",
+   "type": "replique",
+   "chemin": "nodes.n7.text",
+   "noeud": "n7",
+   "partie": "La clairière des génies (jeu)",
+   "personnage": "Le griot",
+   "intonation": "mystérieux",
+   "intonation_statut": "proposée",
+   "texte": "Dans une clairière, les génies jouent à la lune. Téné danse, et elle ne peut plus s'arrêter. Elle a tout oublié : son nom, sa mère, son village.",
+   "genre": "adulte/homme",
+   "duree_ms": 12290,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n8",
+   "type": "replique",
+   "chemin": "nodes.n8.text",
+   "noeud": "n8",
+   "partie": "La clairière des génies (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Le maître lève son chasse-mouche. Un éclair, et tout s'arrête. Que dit-il ?",
+   "genre": "adulte/homme",
+   "duree_ms": 5990,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n8.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.n8.choices.0.label",
+   "texte": "« Rendez cette enfant à sa mère. »"
+  },
+  {
+   "id": "nodes.n8.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.n8.choices.0.tag",
+   "texte": "demande ferme"
+  },
+  {
+   "id": "nodes.n8.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.n8.choices.1.label",
+   "texte": "« Je vous combats tous ! »"
+  },
+  {
+   "id": "nodes.n8.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.n8.choices.1.tag",
+   "texte": "menace"
+  },
+  {
+   "id": "combat",
+   "type": "replique",
+   "chemin": "nodes.combat.text",
+   "noeud": "combat",
+   "partie": "La clairière des génies (jeu)",
+   "personnage": "Le chef des génies",
+   "intonation": "mystérieux",
+   "intonation_statut": "proposée",
+   "texte": "Personne ne combat la brousse chez elle, chasseur. Parle mieux, ou repars seul.",
+   "genre": "voix de génie/libre",
+   "duree_ms": 5840,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n9",
+   "type": "replique",
+   "chemin": "nodes.n9.text",
+   "noeud": "n9",
+   "partie": "La clairière des génies (jeu)",
+   "personnage": "Le maître dozo",
+   "intonation": "mystérieux",
+   "intonation_statut": "proposée",
+   "texte": "Rendez cette enfant à sa mère.",
+   "genre": "adulte/homme",
+   "duree_ms": 2580,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "rendre",
+   "type": "replique",
+   "chemin": "nodes.rendre.text",
+   "noeud": "rendre",
+   "partie": "La clairière des génies (jeu)",
+   "personnage": "Le chef des génies",
+   "intonation": "mystérieux",
+   "intonation_statut": "proposée",
+   "texte": "Garde ce balafon, enfant. Il est à toi.",
+   "genre": "voix de génie/libre",
+   "duree_ms": 3790,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n10",
+   "type": "replique",
+   "chemin": "nodes.n10.text",
+   "noeud": "n10",
+   "partie": "La fête des récoltes (jeu)",
+   "personnage": "Le griot",
+   "intonation": "joyeux",
+   "intonation_statut": "proposée",
+   "texte": "Téné s'éveille comme d'un long rêve. À la fête des récoltes, elle joue le balafon des génies, et tout le village danse.",
+   "genre": "adulte/homme",
+   "duree_ms": 9260,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "film-001",
+   "type": "film",
+   "partie": "Film d'animation, de 00:02.0 à 00:06.6",
+   "horodatage": {
+    "debut_ms": 2000,
+    "fin_ms": 6600
+   },
+   "personnage": "Narrateur",
+   "intonation": "malicieux",
+   "intonation_statut": "scénario",
+   "texte": "Téné et le balafon des génies. Un conte senoufo.",
+   "genre": "adulte/libre",
+   "duree_ms": 4600,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-002",
+   "type": "film",
+   "partie": "Film d'animation, de 00:08.0 à 00:12.3",
+   "horodatage": {
+    "debut_ms": 8000,
+    "fin_ms": 12300
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Le soir, au village, le vieux Ziè jouait du balafon.",
+   "genre": "adulte/libre",
+   "duree_ms": 4300,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-003",
+   "type": "film",
+   "partie": "Film d'animation, de 00:14.0 à 00:19.2",
+   "horodatage": {
+    "debut_ms": 14000,
+    "fin_ms": 19200
+   },
+   "personnage": "Narrateur",
+   "intonation": "tendre",
+   "intonation_statut": "scénario",
+   "texte": "Et Téné dansait. Elle aimait cet instrument plus que tout au monde.",
+   "genre": "adulte/libre",
+   "duree_ms": 5200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-004",
+   "type": "film",
+   "partie": "Film d'animation, de 00:30.0 à 00:37.9",
+   "horodatage": {
+    "debut_ms": 30000,
+    "fin_ms": 37900
+   },
+   "personnage": "Narrateur",
+   "intonation": "mystérieux",
+   "intonation_statut": "scénario",
+   "texte": "Une nuit, une autre musique monta de la brousse. Plus belle que celle de Ziè. Plus lointaine aussi.",
+   "genre": "adulte/libre",
+   "duree_ms": 7900,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-005",
+   "type": "film",
+   "partie": "Film d'animation, de 00:44.0 à 00:49.7",
+   "horodatage": {
+    "debut_ms": 44000,
+    "fin_ms": 49700
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Téné se leva sans bruit. Elle quitta sa natte, et elle partit vers le son.",
+   "genre": "adulte/libre",
+   "duree_ms": 5700,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-006",
+   "type": "film",
+   "partie": "Film d'animation, de 01:06.0 à 01:10.1",
+   "horodatage": {
+    "debut_ms": 66000,
+    "fin_ms": 70100
+   },
+   "personnage": "Narrateur",
+   "intonation": "mystérieux",
+   "intonation_statut": "scénario",
+   "texte": "Dans une clairière, les génies de la brousse jouaient à la lune.",
+   "genre": "adulte/libre",
+   "duree_ms": 4100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-007",
+   "type": "film",
+   "partie": "Film d'animation, de 01:18.0 à 01:24.4",
+   "horodatage": {
+    "debut_ms": 78000,
+    "fin_ms": 84400
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Téné se mit à danser, et elle ne put plus s'arrêter. Les génies tournaient autour d'elle.",
+   "genre": "adulte/libre",
+   "duree_ms": 6400,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-008",
+   "type": "film",
+   "partie": "Film d'animation, de 01:31.0 à 01:35.6",
+   "horodatage": {
+    "debut_ms": 91000,
+    "fin_ms": 95600
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Elle avait tout oublié : son nom, sa mère, son village.",
+   "genre": "adulte/libre",
+   "duree_ms": 4600,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-009",
+   "type": "film",
+   "partie": "Film d'animation, de 01:46.0 à 01:49.1",
+   "horodatage": {
+    "debut_ms": 106000,
+    "fin_ms": 109100
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Au matin, la natte était vide.",
+   "genre": "adulte/libre",
+   "duree_ms": 3100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-010",
+   "type": "film",
+   "partie": "Film d'animation, de 01:49.5 à 01:53.2",
+   "horodatage": {
+    "debut_ms": 109500,
+    "fin_ms": 113200
+   },
+   "personnage": "MERE",
+   "intonation": "paniqué",
+   "intonation_statut": "scénario",
+   "texte": "Téné ! Ma fille n'est plus là !",
+   "genre": "adulte/femme",
+   "duree_ms": 3700,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-011",
+   "type": "film",
+   "partie": "Film d'animation, de 01:56.0 à 01:58.1",
+   "horodatage": {
+    "debut_ms": 116000,
+    "fin_ms": 118100
+   },
+   "personnage": "PERE",
+   "intonation": "inquiet",
+   "intonation_statut": "scénario",
+   "texte": "Personne ne l'a vue ?",
+   "genre": "adulte/homme",
+   "duree_ms": 2100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-012",
+   "type": "film",
+   "partie": "Film d'animation, de 01:58.5 à 02:01.5",
+   "horodatage": {
+    "debut_ms": 118500,
+    "fin_ms": 121500
+   },
+   "personnage": "ZIE",
+   "intonation": "grave",
+   "intonation_statut": "scénario",
+   "texte": "Cette nuit, j'ai entendu jouer en brousse.",
+   "genre": "âgé/libre",
+   "duree_ms": 3000,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-013",
+   "type": "film",
+   "partie": "Film d'animation, de 02:01.5 à 02:03.6",
+   "horodatage": {
+    "debut_ms": 121500,
+    "fin_ms": 123600
+   },
+   "personnage": "MERE",
+   "intonation": "effrayé",
+   "intonation_statut": "scénario",
+   "texte": "Les génies !",
+   "genre": "adulte/femme",
+   "duree_ms": 2100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-014",
+   "type": "film",
+   "partie": "Film d'animation, de 02:16.0 à 02:20.3",
+   "horodatage": {
+    "debut_ms": 136000,
+    "fin_ms": 140300
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "On alla trouver les chasseurs dozo, les gardiens de la brousse.",
+   "genre": "adulte/libre",
+   "duree_ms": 4300,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-015",
+   "type": "film",
+   "partie": "Film d'animation, de 02:21.0 à 02:23.8",
+   "horodatage": {
+    "debut_ms": 141000,
+    "fin_ms": 143800
+   },
+   "personnage": "PERE",
+   "intonation": "suppliant",
+   "intonation_statut": "scénario",
+   "texte": "Ramenez-moi ma fille, je vous en prie.",
+   "genre": "adulte/homme",
+   "duree_ms": 2800,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-016",
+   "type": "film",
+   "partie": "Film d'animation, de 02:24.0 à 02:26.6",
+   "horodatage": {
+    "debut_ms": 144000,
+    "fin_ms": 146600
+   },
+   "personnage": "MAITRE",
+   "intonation": "calme",
+   "intonation_statut": "scénario",
+   "texte": "Nous partirons ce soir.",
+   "genre": "adulte/homme",
+   "duree_ms": 2600,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-017",
+   "type": "film",
+   "partie": "Film d'animation, de 02:30.0 à 02:36.8",
+   "horodatage": {
+    "debut_ms": 150000,
+    "fin_ms": 156800
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Le maître consulta ses amulettes et leva son chasse-mouche. Puis les dozo partirent avec leur chien.",
+   "genre": "adulte/libre",
+   "duree_ms": 6800,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-018",
+   "type": "film",
+   "partie": "Film d'animation, de 02:52.0 à 02:56.7",
+   "horodatage": {
+    "debut_ms": 172000,
+    "fin_ms": 176700
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Ils marchèrent toute la nuit. Le chien flairait les herbes.",
+   "genre": "adulte/libre",
+   "duree_ms": 4700,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-019",
+   "type": "film",
+   "partie": "Film d'animation, de 03:05.0 à 03:12.0",
+   "horodatage": {
+    "debut_ms": 185000,
+    "fin_ms": 192000
+   },
+   "personnage": "Narrateur",
+   "intonation": "chuchoté",
+   "intonation_statut": "scénario",
+   "texte": "Au loin, la musique revenait. Les hommes s'arrêtèrent, puis ils avancèrent en silence.",
+   "genre": "adulte/libre",
+   "duree_ms": 7000,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-020",
+   "type": "film",
+   "partie": "Film d'animation, de 03:27.0 à 03:33.0",
+   "horodatage": {
+    "debut_ms": 207000,
+    "fin_ms": 213000
+   },
+   "personnage": "Narrateur",
+   "intonation": "fort",
+   "intonation_statut": "scénario",
+   "texte": "Le maître dozo leva son chasse-mouche. Un éclair, et tout s'arrêta.",
+   "genre": "adulte/libre",
+   "duree_ms": 6000,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-021",
+   "type": "film",
+   "partie": "Film d'animation, de 03:39.0 à 03:41.9",
+   "horodatage": {
+    "debut_ms": 219000,
+    "fin_ms": 221900
+   },
+   "personnage": "MAITRE",
+   "intonation": "ferme",
+   "intonation_statut": "scénario",
+   "texte": "Rendez cette enfant à sa mère.",
+   "genre": "adulte/homme",
+   "duree_ms": 2900,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-022",
+   "type": "film",
+   "partie": "Film d'animation, de 03:43.0 à 03:46.6",
+   "horodatage": {
+    "debut_ms": 223000,
+    "fin_ms": 226600
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Le chef des génies hésita, puis il céda.",
+   "genre": "adulte/libre",
+   "duree_ms": 3600,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-023",
+   "type": "film",
+   "partie": "Film d'animation, de 03:50.0 à 03:53.8",
+   "horodatage": {
+    "debut_ms": 230000,
+    "fin_ms": 233800
+   },
+   "personnage": "GENIE",
+   "intonation": "voix profonde",
+   "intonation_statut": "scénario",
+   "texte": "Garde ce balafon. Il est à toi.",
+   "genre": "esprit, créature : voix grave/libre",
+   "duree_ms": 3800,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-024",
+   "type": "film",
+   "partie": "Film d'animation, de 03:56.0 à 04:00.1",
+   "horodatage": {
+    "debut_ms": 236000,
+    "fin_ms": 240100
+   },
+   "personnage": "Narrateur",
+   "intonation": "ému",
+   "intonation_statut": "scénario",
+   "texte": "Il le laissa à Téné, qui s'éveilla comme d'un long rêve.",
+   "genre": "adulte/libre",
+   "duree_ms": 4100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-025",
+   "type": "film",
+   "partie": "Film d'animation, de 04:12.0 à 04:18.3",
+   "horodatage": {
+    "debut_ms": 252000,
+    "fin_ms": 258300
+   },
+   "personnage": "Narrateur",
+   "intonation": "joyeux",
+   "intonation_statut": "scénario",
+   "texte": "À la fête des récoltes, Téné joua le balafon des génies. Et tout le village dansa.",
+   "genre": "adulte/libre",
+   "duree_ms": 6300,
+   "duree_statut": "mesurée sur le film"
+  }
+ ]
+}

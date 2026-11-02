@@ -1,0 +1,342 @@
+# Le royaume gan d'Obiré : fiches des bandes-son
+# Généré par « npm run bandes-son » depuis pistes.json. Modifier pistes.json, pas ce fichier.
+
+piste: n1
+histoire: Le royaume gan d'Obiré
+partie: La cour du vieux roi (jeu)
+personnage: Le griot
+fichier: obire-n1-<langue>.m4a
+intonation: posé (proposée)
+texte: À Obiré, dans le sud-ouest du Burkina, la royauté gan se transmet depuis des générations. Le vieux roi reçoit dans sa cour.
+genre: adulte/homme
+duree: 9260ms (estimée)
+
+piste: n2
+histoire: Le royaume gan d'Obiré
+partie: La cour du vieux roi (jeu)
+personnage: Le griot
+fichier: obire-n2-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Devant le roi, on s'agenouille. Comment se présente le visiteur ?
+genre: adulte/homme
+duree: 4930ms (estimée)
+
+piste: debout
+histoire: Le royaume gan d'Obiré
+partie: La cour du vieux roi (jeu)
+personnage: Le griot
+fichier: obire-debout-<langue>.m4a
+intonation: posé (proposée)
+texte: Un murmure traverse la cour. Le visiteur comprend, et il s'agenouille comme les autres.
+genre: adulte/homme
+duree: 6070ms (estimée)
+
+piste: genoux
+histoire: Le royaume gan d'Obiré
+partie: La cour du vieux roi (jeu)
+personnage: Le visiteur
+fichier: obire-genoux-<langue>.m4a
+intonation: posé (proposée)
+texte: Puissant roi, nous t'apportons nos salutations.
+genre: âgé/homme
+duree: 2730ms (estimée)
+
+piste: n3
+histoire: Le royaume gan d'Obiré
+partie: La cour du vieux roi (jeu)
+personnage: Le vieux roi
+fichier: obire-n3-<langue>.m4a
+intonation: posé (proposée)
+texte: Soyez les bienvenus chez moi.
+genre: adulte/homme
+duree: 2200ms (estimée)
+
+piste: n4
+histoire: Le royaume gan d'Obiré
+partie: La cour du vieux roi (jeu)
+personnage: Le griot
+fichier: obire-n4-<langue>.m4a
+intonation: posé (proposée)
+texte: Mais le roi tousse. Il est fatigué, et tout le monde le voit. Un soir, la nouvelle tombe : le roi est mort.
+genre: adulte/homme
+duree: 10090ms (estimée)
+
+piste: n5
+histoire: Le royaume gan d'Obiré
+partie: La cour du vieux roi (jeu)
+personnage: Le griot
+fichier: obire-n5-<langue>.m4a
+intonation: posé (proposée)
+texte: Les tambours l'annoncent. Regarde celui qui porte la nouvelle.
+genre: adulte/homme
+duree: 4020ms (estimée)
+
+piste: n7
+histoire: Le royaume gan d'Obiré
+partie: Le chemin des tombeaux (jeu)
+personnage: Le griot
+fichier: obire-n7-<langue>.m4a
+intonation: mystérieux (proposée)
+texte: Le cortège prend le chemin du bois, vers les tombeaux des rois.
+genre: adulte/homme
+duree: 5010ms (estimée)
+
+piste: n8
+histoire: Le royaume gan d'Obiré
+partie: Le chemin des tombeaux (jeu)
+personnage: L'ancien
+fichier: obire-n8-<langue>.m4a
+intonation: grave (proposée)
+texte: Ancêtres, un des vôtres vous rejoint.
+genre: âgé/homme
+duree: 2730ms (estimée)
+
+piste: n9
+histoire: Le royaume gan d'Obiré
+partie: Le chemin des tombeaux (jeu)
+personnage: Le griot
+fichier: obire-n9-<langue>.m4a
+intonation: mystérieux (proposée)
+texte: Ici, les rois disparus veillent toujours sur leur peuple. Le conseil des anciens se réunit, les cauris sont jetés, et un prince est choisi. On le conduit à l'écart.
+genre: adulte/homme
+duree: 12370ms (estimée)
+
+piste: n10
+histoire: Le royaume gan d'Obiré
+partie: Le chemin des tombeaux (jeu)
+personnage: Le messager
+fichier: obire-n10-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Il est préparé en secret, loin des regards. Dois-je aller voir ?
+genre: enfant/libre
+duree: 5310ms (estimée)
+
+piste: n11
+histoire: Le royaume gan d'Obiré
+partie: Le chemin des tombeaux (jeu)
+personnage: Le griot
+fichier: obire-n11-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Toi qui le demandes, que fais-tu ?
+genre: adulte/homme
+duree: 3110ms (estimée)
+
+piste: regard
+histoire: Le royaume gan d'Obiré
+partie: Le chemin des tombeaux (jeu)
+personnage: L'ancien
+fichier: obire-regard-<langue>.m4a
+intonation: grave (proposée)
+texte: Ce qui se fait là-bas n'est pas pour tes yeux, ni pour ce récit. Rentre chez toi. Tu ne verras pas le jour de l'intronisation depuis la cour.
+genre: âgé/homme
+duree: 11690ms (estimée)
+
+piste: attend
+histoire: Le royaume gan d'Obiré
+partie: L'intronisation (jeu)
+personnage: Le griot
+fichier: obire-attend-<langue>.m4a
+intonation: posé (proposée)
+texte: Le jour de l'intronisation arrive. Le parasol royal s'ouvre au-dessus du nouveau roi. Les tambours et les danses disent au pays que la chaîne n'est pas rompue.
+genre: adulte/homme
+duree: 11160ms (estimée)
+
+piste: n12
+histoire: Le royaume gan d'Obiré
+partie: L'intronisation (jeu)
+personnage: Le griot
+fichier: obire-n12-<langue>.m4a
+intonation: posé (proposée)
+texte: Aujourd'hui encore, la royauté gan continue à Obiré. Un royaume survit à ses rois par les règles de leur succession.
+genre: adulte/homme
+duree: 8350ms (estimée)
+
+piste: film-001
+histoire: Le royaume gan d'Obiré
+partie: Film d'animation, de 00:02.0 à 00:08.0
+personnage: Narrateur
+fichier: obire-film-001-<langue>.m4a
+intonation: sobre (scénario)
+texte: Le royaume gan d'Obiré. Un récit historique, simplifié pour l'image.
+genre: adulte/libre
+duree: 6000ms (mesurée sur le film)
+
+piste: film-002
+histoire: Le royaume gan d'Obiré
+partie: Film d'animation, de 00:09.0 à 00:15.4
+personnage: Narrateur
+fichier: obire-film-002-<langue>.m4a
+intonation: posé (proposée)
+texte: À Obiré, dans le sud-ouest du Burkina, la royauté gan se transmet depuis des générations.
+genre: adulte/libre
+duree: 6400ms (mesurée sur le film)
+
+piste: film-003
+histoire: Le royaume gan d'Obiré
+partie: Film d'animation, de 00:28.0 à 00:33.0
+personnage: Narrateur
+fichier: obire-film-003-<langue>.m4a
+intonation: posé (proposée)
+texte: Le vieux roi reçoit dans sa cour. On s'agenouille devant lui.
+genre: adulte/libre
+duree: 5000ms (mesurée sur le film)
+
+piste: film-004
+histoire: Le royaume gan d'Obiré
+partie: Film d'animation, de 00:36.0 à 00:39.2
+personnage: VISITEUR
+fichier: obire-film-004-<langue>.m4a
+intonation: respectueux (scénario)
+texte: Puissant roi, nous t'apportons nos salutations.
+genre: adulte/homme
+duree: 3200ms (mesurée sur le film)
+
+piste: film-005
+histoire: Le royaume gan d'Obiré
+partie: Film d'animation, de 00:41.0 à 00:43.6
+personnage: ROI
+fichier: obire-film-005-<langue>.m4a
+intonation: voix fatiguée (scénario)
+texte: Soyez les bienvenus chez moi.
+genre: âgé/libre
+duree: 2600ms (mesurée sur le film)
+
+piste: film-006
+histoire: Le royaume gan d'Obiré
+partie: Film d'animation, de 00:48.0 à 00:53.2
+personnage: Narrateur
+fichier: obire-film-006-<langue>.m4a
+intonation: grave (scénario)
+texte: Mais le roi tousse. Il est fatigué, et tout le monde le voit.
+genre: adulte/libre
+duree: 5200ms (mesurée sur le film)
+
+piste: film-007
+histoire: Le royaume gan d'Obiré
+partie: Film d'animation, de 01:03.0 à 01:06.9
+personnage: Narrateur
+fichier: obire-film-007-<langue>.m4a
+intonation: grave (scénario)
+texte: Un soir, la nouvelle tombe : le roi est mort.
+genre: adulte/libre
+duree: 3900ms (mesurée sur le film)
+
+piste: film-008
+histoire: Le royaume gan d'Obiré
+partie: Film d'animation, de 01:14.0 à 01:17.8
+personnage: Narrateur
+fichier: obire-film-008-<langue>.m4a
+intonation: posé (proposée)
+texte: Les tambours l'annoncent, et le pays entre en deuil.
+genre: adulte/libre
+duree: 3800ms (mesurée sur le film)
+
+piste: film-009
+histoire: Le royaume gan d'Obiré
+partie: Film d'animation, de 01:35.0 à 01:39.5
+personnage: Narrateur
+fichier: obire-film-009-<langue>.m4a
+intonation: recueilli (scénario)
+texte: Le cortège prend le chemin du bois, vers les tombeaux des rois.
+genre: adulte/libre
+duree: 4500ms (mesurée sur le film)
+
+piste: film-010
+histoire: Le royaume gan d'Obiré
+partie: Film d'animation, de 01:50.0 à 01:53.2
+personnage: ANCIEN
+fichier: obire-film-010-<langue>.m4a
+intonation: recueilli (scénario)
+texte: Ancêtres, un des vôtres vous rejoint.
+genre: âgé/libre
+duree: 3200ms (mesurée sur le film)
+
+piste: film-011
+histoire: Le royaume gan d'Obiré
+partie: Film d'animation, de 01:56.0 à 02:00.1
+personnage: Narrateur
+fichier: obire-film-011-<langue>.m4a
+intonation: posé (proposée)
+texte: Ici, les rois disparus veillent toujours sur leur peuple.
+genre: adulte/libre
+duree: 4100ms (mesurée sur le film)
+
+piste: film-012
+histoire: Le royaume gan d'Obiré
+partie: Film d'animation, de 02:15.0 à 02:20.3
+personnage: Narrateur
+fichier: obire-film-012-<langue>.m4a
+intonation: posé (proposée)
+texte: Le trône ne reste pas vide. Le conseil des anciens se réunit.
+genre: adulte/libre
+duree: 5300ms (mesurée sur le film)
+
+piste: film-013
+histoire: Le royaume gan d'Obiré
+partie: Film d'animation, de 02:24.0 à 02:30.3
+personnage: Narrateur
+fichier: obire-film-013-<langue>.m4a
+intonation: posé (proposée)
+texte: Les cauris sont jetés. Les princes attendent. Qui sera le nouveau roi ?
+genre: adulte/libre
+duree: 6300ms (mesurée sur le film)
+
+piste: film-014
+histoire: Le royaume gan d'Obiré
+partie: Film d'animation, de 02:35.0 à 02:37.2
+personnage: Narrateur
+fichier: obire-film-014-<langue>.m4a
+intonation: posé (proposée)
+texte: Un prince est choisi.
+genre: adulte/libre
+duree: 2200ms (mesurée sur le film)
+
+piste: film-015
+histoire: Le royaume gan d'Obiré
+partie: Film d'animation, de 02:55.0 à 03:01.8
+personnage: Narrateur
+fichier: obire-film-015-<langue>.m4a
+intonation: chuchoté (scénario)
+texte: On le conduit à l'écart. Le futur roi est préparé en secret, loin des regards.
+genre: adulte/libre
+duree: 6800ms (mesurée sur le film)
+
+piste: film-016
+histoire: Le royaume gan d'Obiré
+partie: Film d'animation, de 03:06.0 à 03:10.5
+personnage: Narrateur
+fichier: obire-film-016-<langue>.m4a
+intonation: mystérieux (scénario)
+texte: Dans la nuit du bois, on dit que les ancêtres viennent à sa rencontre.
+genre: adulte/libre
+duree: 4500ms (mesurée sur le film)
+
+piste: film-017
+histoire: Le royaume gan d'Obiré
+partie: Film d'animation, de 03:31.0 à 03:37.3
+personnage: Narrateur
+fichier: obire-film-017-<langue>.m4a
+intonation: joyeux (scénario)
+texte: Le jour de l'intronisation arrive. Le parasol royal s'ouvre au-dessus du nouveau roi.
+genre: adulte/libre
+duree: 6300ms (mesurée sur le film)
+
+piste: film-018
+histoire: Le royaume gan d'Obiré
+partie: Film d'animation, de 03:44.0 à 03:48.0
+personnage: Narrateur
+fichier: obire-film-018-<langue>.m4a
+intonation: joyeux (scénario)
+texte: Les tambours et les danses disent au pays que la chaîne n'est pas rompue.
+genre: adulte/libre
+duree: 4000ms (mesurée sur le film)
+
+piste: film-019
+histoire: Le royaume gan d'Obiré
+partie: Film d'animation, de 04:13.0 à 04:17.4
+personnage: Narrateur
+fichier: obire-film-019-<langue>.m4a
+intonation: doux (scénario)
+texte: Aujourd'hui encore, la royauté gan continue à Obiré.
+genre: adulte/libre
+duree: 4400ms (mesurée sur le film)

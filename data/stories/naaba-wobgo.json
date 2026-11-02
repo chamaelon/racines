@@ -58,7 +58,8 @@
       "text": "À la fin du XIXe siècle, Ouagadougou est la capitale d'un royaume mossi ancien. Son souverain, Boukary Koutou, a pris à son avènement le nom de Naaba Wobgo.",
       "scene": "palais",
       "explore": [
-        "tambour"
+        "tambour",
+        "bendre"
       ],
       "next": "n2"
     },

@@ -1,0 +1,402 @@
+# L'émirat du Liptako : fiches des bandes-son
+# Généré par « npm run bandes-son » depuis pistes.json. Modifier pistes.json, pas ce fichier.
+
+piste: n1
+histoire: L'émirat du Liptako
+partie: Deux mondes à Dori (jeu)
+personnage: Le griot
+fichier: liptako-n1-<langue>.m4a
+intonation: posé (proposée)
+texte: Début du dix-neuvième siècle, dans la région de Dori, au Sahel. Ici vivent deux mondes : les éleveurs peuls avec leurs troupeaux, et les cultivateurs gulmancé avec leurs champs.
+genre: adulte/homme
+duree: 12220ms (estimée)
+
+piste: n2
+histoire: L'émirat du Liptako
+partie: Le troupeau dans le champ (jeu)
+personnage: Le griot
+fichier: liptako-n2-<langue>.m4a
+intonation: posé (proposée)
+texte: La terre doit nourrir les uns et les autres. Mais un jour, un troupeau entre dans un champ.
+genre: adulte/homme
+duree: 7590ms (estimée)
+
+piste: n3
+histoire: L'émirat du Liptako
+partie: Le troupeau dans le champ (jeu)
+personnage: Le cultivateur
+fichier: liptako-n3-<langue>.m4a
+intonation: vif (proposée)
+texte: Ton troupeau a mangé mon mil !
+genre: adulte/homme
+duree: 2960ms (estimée)
+
+piste: n4
+histoire: L'émirat du Liptako
+partie: Le troupeau dans le champ (jeu)
+personnage: Le berger
+fichier: liptako-n4-<langue>.m4a
+intonation: vif (proposée)
+texte: Tes champs couvrent nos pistes !
+genre: jeune/homme
+duree: 2580ms (estimée)
+
+piste: n5
+histoire: L'émirat du Liptako
+partie: Le troupeau dans le champ (jeu)
+personnage: Le griot
+fichier: liptako-n5-<langue>.m4a
+intonation: posé (proposée)
+texte: Qui écouter d'abord ? L'un et l'autre ont leurs raisons. Les faits, eux, ne changeront pas.
+genre: adulte/homme
+duree: 7280ms (estimée)
+
+piste: cult
+histoire: L'émirat du Liptako
+partie: Le troupeau dans le champ (jeu)
+personnage: Le griot
+fichier: liptako-cult-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Le mil, c'est le grenier de l'année. Sans lui, sa famille aura faim. Et le berger ?
+genre: adulte/homme
+duree: 7660ms (estimée)
+
+piste: n6
+histoire: L'émirat du Liptako
+partie: Le troupeau dans le champ (jeu)
+personnage: Le berger
+fichier: liptako-n6-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Mes bêtes passaient ici avant ton champ. Où veux-tu qu'elles aillent ?
+genre: jeune/homme
+duree: 5160ms (estimée)
+
+piste: berg
+histoire: L'émirat du Liptako
+partie: Le troupeau dans le champ (jeu)
+personnage: Le griot
+fichier: liptako-berg-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Une piste coupée, c'est un troupeau qui meurt de soif. Et le cultivateur ?
+genre: adulte/homme
+duree: 6070ms (estimée)
+
+piste: n7
+histoire: L'émirat du Liptako
+partie: Le troupeau dans le champ (jeu)
+personnage: Le cultivateur
+fichier: liptako-n7-<langue>.m4a
+intonation: vif (proposée)
+texte: J'ai travaillé cette terre toute la saison. Sors de là !
+genre: adulte/homme
+duree: 4780ms (estimée)
+
+piste: suite
+histoire: L'émirat du Liptako
+partie: La bête saisie (jeu)
+personnage: Le chef gulmancé
+fichier: liptako-suite-<langue>.m4a
+intonation: posé (proposée)
+texte: Cette bête est à moi, maintenant.
+genre: adulte/homme
+duree: 2730ms (estimée)
+
+piste: n8
+histoire: L'émirat du Liptako
+partie: La bête saisie (jeu)
+personnage: Le griot
+fichier: liptako-n8-<langue>.m4a
+intonation: posé (proposée)
+texte: Le chef gulmancé saisit une bête, et la querelle s'envenime. Un chef peul rassemble ses cavaliers.
+genre: adulte/homme
+duree: 6830ms (estimée)
+
+piste: n9
+histoire: L'émirat du Liptako
+partie: La bénédiction (jeu)
+personnage: Le marabout
+fichier: liptako-n9-<langue>.m4a
+intonation: posé (proposée)
+texte: Que Dieu guide vos pas et vos cœurs.
+genre: âgé/homme
+duree: 3340ms (estimée)
+
+piste: n10
+histoire: L'émirat du Liptako
+partie: La bénédiction (jeu)
+personnage: Le griot
+fichier: liptako-n10-<langue>.m4a
+intonation: posé (proposée)
+texte: Et c'est la guerre. Les cavaliers peuls affrontent les Gulmancé.
+genre: adulte/homme
+duree: 4400ms (estimée)
+
+piste: n12
+histoire: L'émirat du Liptako
+partie: La bataille (jeu)
+personnage: Le chef gulmancé
+fichier: liptako-n12-<langue>.m4a
+intonation: posé (proposée)
+texte: C'est fini. J'arrête.
+genre: adulte/homme
+duree: 1740ms (estimée)
+
+piste: n13
+histoire: L'émirat du Liptako
+partie: La bataille (jeu)
+personnage: Le griot
+fichier: liptako-n13-<langue>.m4a
+intonation: posé (proposée)
+texte: Le chef gulmancé se rend. Un État naît.
+genre: adulte/homme
+duree: 3640ms (estimée)
+
+piste: n14
+histoire: L'émirat du Liptako
+partie: L'émirat du Liptako (jeu)
+personnage: L'émir
+fichier: liptako-n14-<langue>.m4a
+intonation: joyeux (proposée)
+texte: Ici, désormais, siège l'émirat du Liptako.
+genre: âgé/homme
+duree: 2880ms (estimée)
+
+piste: relire
+histoire: L'émirat du Liptako
+partie: L'émirat du Liptako (jeu)
+personnage: Le griot
+fichier: liptako-relire-<langue>.m4a
+intonation: joyeux (proposée)
+texte: Reviens quand tu veux au marché de Dori : son histoire se raconte encore.
+genre: adulte/homme
+duree: 5770ms (estimée)
+
+piste: bien
+histoire: L'émirat du Liptako
+partie: L'émirat du Liptako (jeu)
+personnage: Le griot
+fichier: liptako-bien-<langue>.m4a
+intonation: joyeux (proposée)
+texte: Aujourd'hui, Dori reste l'une des grandes villes du Sahel burkinabè. Son histoire se raconte encore.
+genre: adulte/homme
+duree: 6450ms (estimée)
+
+piste: film-001
+histoire: L'émirat du Liptako
+partie: Film d'animation, de 00:02.0 à 00:08.0
+personnage: Narrateur
+fichier: liptako-film-001-<langue>.m4a
+intonation: sobre (scénario)
+texte: L'émirat du Liptako. Un récit historique, simplifié pour l'image.
+genre: adulte/libre
+duree: 6000ms (mesurée sur le film)
+
+piste: film-002
+histoire: L'émirat du Liptako
+partie: Film d'animation, de 00:09.0 à 00:13.8
+personnage: Narrateur
+fichier: liptako-film-002-<langue>.m4a
+intonation: posé (proposée)
+texte: Début du dix-neuvième siècle, dans la région de Dori, au Sahel.
+genre: adulte/libre
+duree: 4800ms (mesurée sur le film)
+
+piste: film-003
+histoire: L'émirat du Liptako
+partie: Film d'animation, de 00:28.0 à 00:34.4
+personnage: Narrateur
+fichier: liptako-film-003-<langue>.m4a
+intonation: posé (proposée)
+texte: Ici vivent deux mondes : les éleveurs peuls avec leurs troupeaux, et les cultivateurs gulmancé avec leurs champs.
+genre: adulte/libre
+duree: 6400ms (mesurée sur le film)
+
+piste: film-004
+histoire: L'émirat du Liptako
+partie: Film d'animation, de 00:42.0 à 00:45.2
+personnage: Narrateur
+fichier: liptako-film-004-<langue>.m4a
+intonation: posé (proposée)
+texte: La terre doit nourrir les uns et les autres.
+genre: adulte/libre
+duree: 3200ms (mesurée sur le film)
+
+piste: film-005
+histoire: L'émirat du Liptako
+partie: Film d'animation, de 01:02.0 à 01:05.4
+personnage: Narrateur
+fichier: liptako-film-005-<langue>.m4a
+intonation: posé (proposée)
+texte: Mais un jour, un troupeau entre dans un champ.
+genre: adulte/libre
+duree: 3400ms (mesurée sur le film)
+
+piste: film-006
+histoire: L'émirat du Liptako
+partie: Film d'animation, de 01:08.5 à 01:10.8
+personnage: CULTIVATEUR
+fichier: liptako-film-006-<langue>.m4a
+intonation: colère (scénario)
+texte: Ton troupeau a mangé mon mil !
+genre: adulte/homme
+duree: 2300ms (mesurée sur le film)
+
+piste: film-007
+histoire: L'émirat du Liptako
+partie: Film d'animation, de 01:11.5 à 01:14.0
+personnage: BERGER
+fichier: liptako-film-007-<langue>.m4a
+intonation: colère (scénario)
+texte: Tes champs couvrent nos pistes !
+genre: adulte/homme
+duree: 2500ms (mesurée sur le film)
+
+piste: film-008
+histoire: L'émirat du Liptako
+partie: Film d'animation, de 01:14.0 à 01:16.1
+personnage: CULTIVATEUR
+fichier: liptako-film-008-<langue>.m4a
+intonation: colère (scénario)
+texte: Sors de là !
+genre: adulte/homme
+duree: 2100ms (mesurée sur le film)
+
+piste: film-009
+histoire: L'émirat du Liptako
+partie: Film d'animation, de 01:17.5 à 01:20.5
+personnage: CHEFG
+fichier: liptako-film-009-<langue>.m4a
+intonation: autoritaire (scénario)
+texte: Cette bête est à moi, maintenant.
+genre: âgé/libre
+duree: 3000ms (mesurée sur le film)
+
+piste: film-010
+histoire: L'émirat du Liptako
+partie: Film d'animation, de 01:23.0 à 01:27.3
+personnage: Narrateur
+fichier: liptako-film-010-<langue>.m4a
+intonation: posé (proposée)
+texte: Le chef gulmancé saisit une bête, et la querelle s'envenime.
+genre: adulte/libre
+duree: 4300ms (mesurée sur le film)
+
+piste: film-011
+histoire: L'émirat du Liptako
+partie: Film d'animation, de 01:39.0 à 01:41.5
+personnage: Narrateur
+fichier: liptako-film-011-<langue>.m4a
+intonation: posé (proposée)
+texte: Un chef peul rassemble ses cavaliers.
+genre: adulte/libre
+duree: 2500ms (mesurée sur le film)
+
+piste: film-012
+histoire: L'émirat du Liptako
+partie: Film d'animation, de 01:41.5 à 01:44.2
+personnage: BERGER
+fichier: liptako-film-012-<langue>.m4a
+intonation: révolté (scénario)
+texte: On ne peut plus accepter ça.
+genre: adulte/homme
+duree: 2700ms (mesurée sur le film)
+
+piste: film-013
+histoire: L'émirat du Liptako
+partie: Film d'animation, de 01:46.0 à 01:48.5
+personnage: Narrateur
+fichier: liptako-film-013-<langue>.m4a
+intonation: posé (proposée)
+texte: On prie avant de partir.
+genre: adulte/libre
+duree: 2500ms (mesurée sur le film)
+
+piste: film-014
+histoire: L'émirat du Liptako
+partie: Film d'animation, de 01:52.5 à 01:55.6
+personnage: MARABOUT
+fichier: liptako-film-014-<langue>.m4a
+intonation: solennel (scénario)
+texte: Que Dieu guide vos pas et vos cœurs.
+genre: âgé/libre
+duree: 3100ms (mesurée sur le film)
+
+piste: film-015
+histoire: L'émirat du Liptako
+partie: Film d'animation, de 02:13.0 à 02:18.1
+personnage: Narrateur
+fichier: liptako-film-015-<langue>.m4a
+intonation: tendu (scénario)
+texte: Et c'est la guerre. Les cavaliers peuls affrontent les Gulmancé.
+genre: adulte/libre
+duree: 5100ms (mesurée sur le film)
+
+piste: film-016
+histoire: L'émirat du Liptako
+partie: Film d'animation, de 02:28.0 à 02:31.4
+personnage: CHEFG
+fichier: liptako-film-016-<langue>.m4a
+intonation: las (scénario)
+texte: C'est fini. J'arrête.
+genre: âgé/libre
+duree: 3400ms (mesurée sur le film)
+
+piste: film-017
+histoire: L'émirat du Liptako
+partie: Film d'animation, de 02:32.0 à 02:34.6
+personnage: Narrateur
+fichier: liptako-film-017-<langue>.m4a
+intonation: posé (proposée)
+texte: Le chef gulmancé se rend.
+genre: adulte/libre
+duree: 2600ms (mesurée sur le film)
+
+piste: film-018
+histoire: L'émirat du Liptako
+partie: Film d'animation, de 02:53.0 à 02:55.9
+personnage: Narrateur
+fichier: liptako-film-018-<langue>.m4a
+intonation: posé (proposée)
+texte: Un État naît : l'émirat du Liptako.
+genre: adulte/libre
+duree: 2900ms (mesurée sur le film)
+
+piste: film-019
+histoire: L'émirat du Liptako
+partie: Film d'animation, de 02:56.0 à 03:00.2
+personnage: EMIR
+fichier: liptako-film-019-<langue>.m4a
+intonation: solennel (scénario)
+texte: Ici, désormais, siège l'émirat du Liptako.
+genre: adulte/homme
+duree: 4200ms (mesurée sur le film)
+
+piste: film-020
+histoire: L'émirat du Liptako
+partie: Film d'animation, de 03:03.0 à 03:06.2
+personnage: Narrateur
+fichier: liptako-film-020-<langue>.m4a
+intonation: posé (proposée)
+texte: Un nouveau pouvoir s'installe sur la région.
+genre: adulte/libre
+duree: 3200ms (mesurée sur le film)
+
+piste: film-021
+histoire: L'émirat du Liptako
+partie: Film d'animation, de 03:29.0 à 03:36.4
+personnage: Narrateur
+fichier: liptako-film-021-<langue>.m4a
+intonation: joyeux (scénario)
+texte: Dori devient la capitale. Autour de sa mosquée, le marché s'anime, et le bétail arrive de loin.
+genre: adulte/libre
+duree: 7400ms (mesurée sur le film)
+
+piste: film-022
+histoire: L'émirat du Liptako
+partie: Film d'animation, de 04:05.0 à 04:12.6
+personnage: Narrateur
+fichier: liptako-film-022-<langue>.m4a
+intonation: doux (scénario)
+texte: Aujourd'hui, Dori reste l'une des grandes villes du Sahel burkinabè. Son histoire se raconte encore.
+genre: adulte/libre
+duree: 7600ms (mesurée sur le film)

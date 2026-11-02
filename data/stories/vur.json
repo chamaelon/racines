@@ -56,7 +56,8 @@
       "text": "Dans un village lyela, chacun connaît son voisin, et chacun croit tout savoir de lui. Ebéyé, une veuve, garde dans son grenier tout le mil de l'année. Cette nuit-là, une ombre vide le grenier.",
       "scene": "veillee",
       "explore": [
-        "canari"
+        "canari",
+        "grenier"
       ],
       "next": "n2"
     },

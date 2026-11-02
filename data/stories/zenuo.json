@@ -91,7 +91,8 @@
       "text": "Ils prennent leurs affaires, et leur chien avec eux. Le soir, ils s'arrêtent près d'un feu et regardent les étoiles.",
       "scene": "veillee",
       "explore": [
-        "dolo"
+        "dolo",
+        "pirogue"
       ],
       "next": "n4"
     },

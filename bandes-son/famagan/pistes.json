@@ -1,0 +1,697 @@
+{
+ "id": "famagan",
+ "titre": "Famagan et le Gwiriko",
+ "peuple": "Dioula",
+ "langues_cibles": [
+  "fr",
+  "dyu"
+ ],
+ "pistes": [
+  {
+   "id": "titre",
+   "type": "titre",
+   "chemin": "titre",
+   "texte": "Famagan et le Gwiriko"
+  },
+  {
+   "id": "presentation",
+   "type": "presentation",
+   "chemin": "presentation",
+   "texte": "Au XVIIIe siècle, Famagan Ouattara quitte Kong avec ses cavaliers. Tu chevauches dans sa troupe et tu assistes à la naissance du Gwiriko. Tes choix changent ce que tu vois, pas les faits."
+  },
+  {
+   "id": "personnages.griot.nom",
+   "type": "personnage",
+   "chemin": "personnages.griot.nom",
+   "texte": "Le griot"
+  },
+  {
+   "id": "personnages.famagan.nom",
+   "type": "personnage",
+   "chemin": "personnages.famagan.nom",
+   "texte": "Famagan Ouattara"
+  },
+  {
+   "id": "personnages.chef.nom",
+   "type": "personnage",
+   "chemin": "personnages.chef.nom",
+   "texte": "Le chef de la terre"
+  },
+  {
+   "id": "personnages.rival.nom",
+   "type": "personnage",
+   "chemin": "personnages.rival.nom",
+   "texte": "Le rival"
+  },
+  {
+   "id": "personnages.griotte.nom",
+   "type": "personnage",
+   "chemin": "personnages.griotte.nom",
+   "texte": "La griotte"
+  },
+  {
+   "id": "fins.canon",
+   "type": "fin",
+   "chemin": "fins.canon",
+   "texte": "Mémoire : le Gwiriko et ses routes ouvertes"
+  },
+  {
+   "id": "fins.relire",
+   "type": "fin",
+   "chemin": "fins.relire",
+   "texte": "Mémoire à reprendre : l'histoire demande une autre écoute"
+  },
+  {
+   "id": "n1",
+   "type": "replique",
+   "chemin": "nodes.n1.text",
+   "noeud": "n1",
+   "partie": "Kong, au XVIIIe siècle (jeu)",
+   "personnage": "Le griot",
+   "intonation": "joyeux",
+   "intonation_statut": "proposée",
+   "texte": "Au dix-huitième siècle, Kong est une grande ville de commerce, et de guerre aussi. Famagan Ouattara y dirige des cavaliers.",
+   "genre": "adulte/homme",
+   "duree_ms": 8500,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n2",
+   "type": "replique",
+   "chemin": "nodes.n2.text",
+   "noeud": "n2",
+   "partie": "Kong, au XVIIIe siècle (jeu)",
+   "personnage": "Le griot",
+   "intonation": "joyeux",
+   "intonation_statut": "proposée",
+   "texte": "Un jour, il mène sa troupe vers le nord-ouest. La route est longue.",
+   "genre": "adulte/homme",
+   "duree_ms": 5690,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n3.consigne",
+   "type": "jeu",
+   "chemin": "nodes.n3.consigne",
+   "texte": "En route vers le nord-ouest ! Tape vite sur ESPACE ou sur l'écran pour garder le rythme de la troupe."
+  },
+  {
+   "id": "nodes.n3.gagne",
+   "type": "jeu",
+   "chemin": "nodes.n3.gagne",
+   "texte": "Tu tiens le rang."
+  },
+  {
+   "id": "nodes.n3.perdu",
+   "type": "jeu",
+   "chemin": "nodes.n3.perdu",
+   "texte": "Tu arrives dernier, mais tu arrives."
+  },
+  {
+   "id": "nodes.n3.tags.win",
+   "type": "parcours",
+   "chemin": "nodes.n3.tags.win",
+   "texte": "course gagnée"
+  },
+  {
+   "id": "nodes.n3.tags.lose",
+   "type": "parcours",
+   "chemin": "nodes.n3.tags.lose",
+   "texte": "course perdue"
+  },
+  {
+   "id": "n4",
+   "type": "replique",
+   "chemin": "nodes.n4.text",
+   "noeud": "n4",
+   "partie": "La région de Bobo (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Les voici dans la région de Bobo. Ici, la terre a déjà ses maîtres. Toi, tu observes Famagan. Sur quoi portes-tu ton attention ?",
+   "genre": "adulte/homme",
+   "duree_ms": 10620,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n4.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.n4.choices.0.label",
+   "texte": "Sur ses paroles au gardien de la terre"
+  },
+  {
+   "id": "nodes.n4.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.n4.choices.0.tag",
+   "texte": "ce qui se dit"
+  },
+  {
+   "id": "nodes.n4.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.n4.choices.1.label",
+   "texte": "Sur les cavaliers derrière lui"
+  },
+  {
+   "id": "nodes.n4.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.n4.choices.1.tag",
+   "texte": "la troupe"
+  },
+  {
+   "id": "cavaliers",
+   "type": "replique",
+   "chemin": "nodes.cavaliers.text",
+   "noeud": "cavaliers",
+   "partie": "La région de Bobo (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Ils restent à distance, en armes, et ils se taisent. Chacun comprend que l'on parle aussi avec cela. Mais écoute.",
+   "genre": "adulte/homme",
+   "duree_ms": 8800,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "parole",
+   "type": "replique",
+   "chemin": "nodes.parole.text",
+   "noeud": "parole",
+   "partie": "La région de Bobo (jeu)",
+   "personnage": "Famagan Ouattara",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Je viens te saluer, gardien de cette terre.",
+   "genre": "adulte/homme",
+   "duree_ms": 3490,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n5",
+   "type": "replique",
+   "chemin": "nodes.n5.text",
+   "noeud": "n5",
+   "partie": "La région de Bobo (jeu)",
+   "personnage": "Le chef de la terre",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Tu viens en ami, ou en maître ?",
+   "genre": "âgé/homme",
+   "duree_ms": 3490,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n6",
+   "type": "replique",
+   "chemin": "nodes.n6.text",
+   "noeud": "n6",
+   "partie": "La région de Bobo (jeu)",
+   "personnage": "Famagan Ouattara",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "En allié.",
+   "genre": "adulte/homme",
+   "duree_ms": 1060,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n7",
+   "type": "replique",
+   "chemin": "nodes.n7.text",
+   "noeud": "n7",
+   "partie": "La région de Bobo (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Le sabre est échangé contre la bénédiction de la terre. Une alliance est conclue. Mais tous n'acceptent pas.",
+   "genre": "adulte/homme",
+   "duree_ms": 7740,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n8",
+   "type": "replique",
+   "chemin": "nodes.n8.text",
+   "noeud": "n8",
+   "partie": "Le chef rival (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Un chef rival prend les armes. La charge est rude, et le combat dure.",
+   "genre": "adulte/homme",
+   "duree_ms": 6070,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n9",
+   "type": "replique",
+   "chemin": "nodes.n9.text",
+   "noeud": "n9",
+   "partie": "Le chef rival (jeu)",
+   "personnage": "Le rival",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Je me rends.",
+   "genre": "adulte/homme",
+   "duree_ms": 1440,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n10",
+   "type": "replique",
+   "chemin": "nodes.n10.text",
+   "noeud": "n10",
+   "partie": "Le chef rival (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Le rival dépose ses armes. Un royaume naît autour de Bobo. Regarde ce qu'on annonce au tambour.",
+   "genre": "adulte/homme",
+   "duree_ms": 7360,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n11",
+   "type": "replique",
+   "chemin": "nodes.n11.text",
+   "noeud": "n11",
+   "partie": "Le chef rival (jeu)",
+   "personnage": "Famagan Ouattara",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Ce pays sera en paix, et ses routes ouvertes.",
+   "genre": "adulte/homme",
+   "duree_ms": 3870,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n12",
+   "type": "replique",
+   "chemin": "nodes.n12.text",
+   "noeud": "n12",
+   "partie": "Le grand marché (jeu)",
+   "personnage": "Le griot",
+   "intonation": "joyeux",
+   "intonation_statut": "proposée",
+   "texte": "Le grand marché s'anime : la cola, les étoffes et le sel passent de main en main.",
+   "genre": "adulte/homme",
+   "duree_ms": 7060,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n13.question",
+   "type": "jeu",
+   "chemin": "nodes.n13.question",
+   "texte": "Comment s'appelle le royaume né autour de Bobo ?"
+  },
+  {
+   "id": "nodes.n13.gagne",
+   "type": "jeu",
+   "chemin": "nodes.n13.gagne",
+   "texte": "Oui, le Gwiriko."
+  },
+  {
+   "id": "nodes.n13.perdu",
+   "type": "jeu",
+   "chemin": "nodes.n13.perdu",
+   "texte": "C'était le Gwiriko."
+  },
+  {
+   "id": "nodes.n13.reponses.0.label",
+   "type": "jeu",
+   "chemin": "nodes.n13.reponses.0.label",
+   "texte": "Le Gwiriko"
+  },
+  {
+   "id": "nodes.n13.reponses.1.label",
+   "type": "jeu",
+   "chemin": "nodes.n13.reponses.1.label",
+   "texte": "Le Liptako"
+  },
+  {
+   "id": "nodes.n13.reponses.2.label",
+   "type": "jeu",
+   "chemin": "nodes.n13.reponses.2.label",
+   "texte": "Le Gulmu"
+  },
+  {
+   "id": "nodes.n13.tags.win",
+   "type": "parcours",
+   "chemin": "nodes.n13.tags.win",
+   "texte": "bonne réponse"
+  },
+  {
+   "id": "nodes.n13.tags.lose",
+   "type": "parcours",
+   "chemin": "nodes.n13.tags.lose",
+   "texte": "réponse manquée"
+  },
+  {
+   "id": "relire",
+   "type": "replique",
+   "chemin": "nodes.relire.text",
+   "noeud": "relire",
+   "partie": "Le grand marché (jeu)",
+   "personnage": "La griotte",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Tu as bien chevauché, mais tu as mal écouté. Reprends la route avec moi.",
+   "genre": "adulte/femme",
+   "duree_ms": 6070,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "bien",
+   "type": "replique",
+   "chemin": "nodes.bien.text",
+   "noeud": "bien",
+   "partie": "Le grand marché (jeu)",
+   "personnage": "Le griot",
+   "intonation": "joyeux",
+   "intonation_statut": "proposée",
+   "texte": "Aujourd'hui encore, les Ouattara de Bobo-Dioulasso se souviennent de cette histoire. Les royaumes naissent de rencontres, et de conquêtes.",
+   "genre": "adulte/homme",
+   "duree_ms": 8120,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "film-001",
+   "type": "film",
+   "partie": "Film d'animation, de 00:02.0 à 00:08.1",
+   "horodatage": {
+    "debut_ms": 2000,
+    "fin_ms": 8100
+   },
+   "personnage": "Narrateur",
+   "intonation": "sobre",
+   "intonation_statut": "scénario",
+   "texte": "Famagan et le Gwiriko. Un récit historique, simplifié pour l'image.",
+   "genre": "adulte/libre",
+   "duree_ms": 6100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-002",
+   "type": "film",
+   "partie": "Film d'animation, de 00:09.0 à 00:14.2",
+   "horodatage": {
+    "debut_ms": 9000,
+    "fin_ms": 14200
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Au dix-huitième siècle, Kong est une grande ville de commerce, et de guerre aussi.",
+   "genre": "adulte/libre",
+   "duree_ms": 5200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-003",
+   "type": "film",
+   "partie": "Film d'animation, de 00:28.0 à 00:31.3",
+   "horodatage": {
+    "debut_ms": 28000,
+    "fin_ms": 31300
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Famagan Ouattara y dirige des cavaliers.",
+   "genre": "adulte/libre",
+   "duree_ms": 3300,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-004",
+   "type": "film",
+   "partie": "Film d'animation, de 00:38.0 à 00:42.8",
+   "horodatage": {
+    "debut_ms": 38000,
+    "fin_ms": 42800
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Il les entraîne à charger, à faire demi-tour, à saluer du sabre.",
+   "genre": "adulte/libre",
+   "duree_ms": 4800,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-005",
+   "type": "film",
+   "partie": "Film d'animation, de 01:03.0 à 01:08.5",
+   "horodatage": {
+    "debut_ms": 63000,
+    "fin_ms": 68500
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Un jour, il mène sa troupe vers le nord-ouest. La route est longue.",
+   "genre": "adulte/libre",
+   "duree_ms": 5500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-006",
+   "type": "film",
+   "partie": "Film d'animation, de 01:14.0 à 01:17.7",
+   "horodatage": {
+    "debut_ms": 74000,
+    "fin_ms": 77700
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Ils passent les plaines et les rivières, sans s'arrêter.",
+   "genre": "adulte/libre",
+   "duree_ms": 3700,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-007",
+   "type": "film",
+   "partie": "Film d'animation, de 01:33.0 à 01:38.9",
+   "horodatage": {
+    "debut_ms": 93000,
+    "fin_ms": 98900
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Les voici dans la région de Bobo. Ici, la terre a déjà ses maîtres.",
+   "genre": "adulte/libre",
+   "duree_ms": 5900,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-008",
+   "type": "film",
+   "partie": "Film d'animation, de 01:43.5 à 01:46.5",
+   "horodatage": {
+    "debut_ms": 103500,
+    "fin_ms": 106500
+   },
+   "personnage": "FAMAGAN",
+   "intonation": "respectueux",
+   "intonation_statut": "scénario",
+   "texte": "Je viens te saluer, gardien de cette terre.",
+   "genre": "adulte/homme",
+   "duree_ms": 3000,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-009",
+   "type": "film",
+   "partie": "Film d'animation, de 01:46.5 à 01:49.3",
+   "horodatage": {
+    "debut_ms": 106500,
+    "fin_ms": 109300
+   },
+   "personnage": "CHEF",
+   "intonation": "prudent",
+   "intonation_statut": "scénario",
+   "texte": "Tu viens en ami, ou en maître ?",
+   "genre": "âgé/libre",
+   "duree_ms": 2800,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-010",
+   "type": "film",
+   "partie": "Film d'animation, de 01:49.5 à 01:51.6",
+   "horodatage": {
+    "debut_ms": 109500,
+    "fin_ms": 111600
+   },
+   "personnage": "FAMAGAN",
+   "intonation": "sincère",
+   "intonation_statut": "scénario",
+   "texte": "En allié.",
+   "genre": "adulte/homme",
+   "duree_ms": 2100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-011",
+   "type": "film",
+   "partie": "Film d'animation, de 01:54.0 à 01:59.9",
+   "horodatage": {
+    "debut_ms": 114000,
+    "fin_ms": 119900
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Le sabre est échangé contre la bénédiction de la terre. Une alliance est conclue.",
+   "genre": "adulte/libre",
+   "duree_ms": 5900,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-012",
+   "type": "film",
+   "partie": "Film d'animation, de 02:11.0 à 02:16.0",
+   "horodatage": {
+    "debut_ms": 131000,
+    "fin_ms": 136000
+   },
+   "personnage": "Narrateur",
+   "intonation": "tendu",
+   "intonation_statut": "scénario",
+   "texte": "Mais tous n'acceptent pas. Un chef rival prend les armes.",
+   "genre": "adulte/libre",
+   "duree_ms": 5000,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-013",
+   "type": "film",
+   "partie": "Film d'animation, de 02:19.0 à 02:22.2",
+   "horodatage": {
+    "debut_ms": 139000,
+    "fin_ms": 142200
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "La charge est rude, et le combat dure.",
+   "genre": "adulte/libre",
+   "duree_ms": 3200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-014",
+   "type": "film",
+   "partie": "Film d'animation, de 02:31.0 à 02:33.1",
+   "horodatage": {
+    "debut_ms": 151000,
+    "fin_ms": 153100
+   },
+   "personnage": "RIVAL",
+   "intonation": "vaincu",
+   "intonation_statut": "scénario",
+   "texte": "Je me rends.",
+   "genre": "adulte/homme",
+   "duree_ms": 2100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-015",
+   "type": "film",
+   "partie": "Film d'animation, de 02:34.0 à 02:39.4",
+   "horodatage": {
+    "debut_ms": 154000,
+    "fin_ms": 159400
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Le rival dépose ses armes. Plus personne ne s'oppose à Famagan.",
+   "genre": "adulte/libre",
+   "duree_ms": 5400,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-016",
+   "type": "film",
+   "partie": "Film d'animation, de 02:55.0 à 02:58.6",
+   "horodatage": {
+    "debut_ms": 175000,
+    "fin_ms": 178600
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Un royaume naît autour de Bobo : le Gwiriko.",
+   "genre": "adulte/libre",
+   "duree_ms": 3600,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-017",
+   "type": "film",
+   "partie": "Film d'animation, de 03:01.0 à 03:04.5",
+   "horodatage": {
+    "debut_ms": 181000,
+    "fin_ms": 184500
+   },
+   "personnage": "FAMAGAN",
+   "intonation": "solennel",
+   "intonation_statut": "scénario",
+   "texte": "Ce pays sera en paix, et ses routes ouvertes.",
+   "genre": "adulte/homme",
+   "duree_ms": 3500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-018",
+   "type": "film",
+   "partie": "Film d'animation, de 03:10.0 à 03:15.0",
+   "horodatage": {
+    "debut_ms": 190000,
+    "fin_ms": 195000
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Famagan est proclamé. La région entre dans une nouvelle ère.",
+   "genre": "adulte/libre",
+   "duree_ms": 5000,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-019",
+   "type": "film",
+   "partie": "Film d'animation, de 03:31.0 à 03:36.3",
+   "horodatage": {
+    "debut_ms": 211000,
+    "fin_ms": 216300
+   },
+   "personnage": "Narrateur",
+   "intonation": "joyeux",
+   "intonation_statut": "scénario",
+   "texte": "Le grand marché s'anime : la cola, les étoffes et le sel passent de main en main.",
+   "genre": "adulte/libre",
+   "duree_ms": 5300,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-020",
+   "type": "film",
+   "partie": "Film d'animation, de 04:02.0 à 04:07.6",
+   "horodatage": {
+    "debut_ms": 242000,
+    "fin_ms": 247600
+   },
+   "personnage": "Narrateur",
+   "intonation": "doux",
+   "intonation_statut": "scénario",
+   "texte": "Aujourd'hui encore, les Ouattara de Bobo-Dioulasso se souviennent de cette histoire.",
+   "genre": "adulte/libre",
+   "duree_ms": 5600,
+   "duree_statut": "mesurée sur le film"
+  }
+ ]
+}

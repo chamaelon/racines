@@ -1,0 +1,325 @@
+{
+ "id": "tiefo-amoro",
+ "titre": "Tiéfo Amoro et la chute de Noumoudara (1897)",
+ "peuple": "Tiéfo",
+ "langues_cibles": [
+  "fr",
+  "dyu"
+ ],
+ "pistes": [
+  {
+   "id": "titre",
+   "type": "titre",
+   "chemin": "titre",
+   "texte": "Tiéfo Amoro et la chute de Noumoudara (1897)"
+  },
+  {
+   "id": "presentation",
+   "type": "presentation",
+   "chemin": "presentation",
+   "texte": "En 1897, Samory Touré avance vers la région de Bobo-Dioulasso. Tu vis le siège de Noumoudara auprès de Tiéfo Amoro. Le récit de sa fin ne repose que sur une source, et le jeu le dit. Tes choix changent ton regard, pas les faits."
+  },
+  {
+   "id": "personnages.griot.nom",
+   "type": "personnage",
+   "chemin": "personnages.griot.nom",
+   "texte": "Le griot"
+  },
+  {
+   "id": "personnages.amoro.nom",
+   "type": "personnage",
+   "chemin": "personnages.amoro.nom",
+   "texte": "Tiéfo Amoro"
+  },
+  {
+   "id": "personnages.samory.nom",
+   "type": "personnage",
+   "chemin": "personnages.samory.nom",
+   "texte": "Samory Touré"
+  },
+  {
+   "id": "personnages.conferencier.nom",
+   "type": "personnage",
+   "chemin": "personnages.conferencier.nom",
+   "texte": "L'historien"
+  },
+  {
+   "id": "personnages.defenseur.nom",
+   "type": "personnage",
+   "chemin": "personnages.defenseur.nom",
+   "texte": "Le défenseur"
+  },
+  {
+   "id": "fins.canon",
+   "type": "fin",
+   "chemin": "fins.canon",
+   "texte": "Mémoire : Noumoudara, un récit à vérifier"
+  },
+  {
+   "id": "fins.source",
+   "type": "fin",
+   "chemin": "fins.source",
+   "texte": "Mémoire d'enquêteur : tu as demandé d'où vient ce récit"
+  },
+  {
+   "id": "n1",
+   "type": "replique",
+   "chemin": "nodes.n1.text",
+   "noeud": "n1",
+   "partie": "Noumoudara, centre des Tiéfo (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Noumoudara était le principal centre des Tiéfo, dans l'ouest de l'actuel Burkina Faso. À sa tête, à la fin du XIXe siècle, se trouvait Tiéfo Amoro.",
+   "genre": "adulte/homme",
+   "duree_ms": 10930,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n2",
+   "type": "replique",
+   "chemin": "nodes.n2.text",
+   "noeud": "n2",
+   "partie": "Noumoudara, centre des Tiéfo (jeu)",
+   "personnage": "L'historien",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Une conférence donnée à Bobo-Dioulasso en 2026 le présente comme le onzième chef des Tiéfo, né vers 1840.",
+   "genre": "âgé/homme",
+   "duree_ms": 7290,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n3",
+   "type": "replique",
+   "chemin": "nodes.n3.text",
+   "noeud": "n3",
+   "partie": "1897 : Samory approche (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "En 1897, Samory Touré progresse vers la région de Bobo-Dioulasso. Selon cette même conférence, Tiéfo Amoro lui oppose plusieurs combats, notamment à Bama et à Péni.",
+   "genre": "adulte/homme",
+   "duree_ms": 10930,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n4",
+   "type": "replique",
+   "chemin": "nodes.n4.text",
+   "noeud": "n4",
+   "partie": "1897 : Samory approche (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Frappe l'alerte qui appelle les combattants.",
+   "genre": "adulte/homme",
+   "duree_ms": 2580,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n5.consigne",
+   "type": "jeu",
+   "chemin": "nodes.n5.consigne",
+   "texte": "Les tambours appellent les combattants à Noumoudara. Reproduis l'appel."
+  },
+  {
+   "id": "nodes.n5.gagne",
+   "type": "jeu",
+   "chemin": "nodes.n5.gagne",
+   "texte": "L'appel porte, et les combattants arrivent."
+  },
+  {
+   "id": "nodes.n5.perdu",
+   "type": "jeu",
+   "chemin": "nodes.n5.perdu",
+   "texte": "L'appel se brouille, puis d'autres tambours le reprennent."
+  },
+  {
+   "id": "nodes.n5.tags.win",
+   "type": "parcours",
+   "chemin": "nodes.n5.tags.win",
+   "texte": "rythme tenu"
+  },
+  {
+   "id": "nodes.n5.tags.lose",
+   "type": "parcours",
+   "chemin": "nodes.n5.tags.lose",
+   "texte": "rythme perdu"
+  },
+  {
+   "id": "n6",
+   "type": "replique",
+   "chemin": "nodes.n6.text",
+   "noeud": "n6",
+   "partie": "Le siège (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Puis Samory assiège la forteresse. Où te tiens-tu pendant le siège ?",
+   "genre": "adulte/homme",
+   "duree_ms": 5160,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n6.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.n6.choices.0.label",
+   "texte": "Sur les murs, avec les défenseurs"
+  },
+  {
+   "id": "nodes.n6.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.n6.choices.0.tag",
+   "texte": "sur les murs"
+  },
+  {
+   "id": "nodes.n6.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.n6.choices.1.label",
+   "texte": "Près de Tiéfo Amoro"
+  },
+  {
+   "id": "nodes.n6.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.n6.choices.1.tag",
+   "texte": "près du chef"
+  },
+  {
+   "id": "murs",
+   "type": "replique",
+   "chemin": "nodes.murs.text",
+   "noeud": "murs",
+   "partie": "Le siège (jeu)",
+   "personnage": "Le défenseur",
+   "intonation": "grave",
+   "intonation_statut": "proposée",
+   "texte": "Tiens bon. Il ne faut pas qu'ils trouvent une brèche.",
+   "genre": "adulte/homme",
+   "duree_ms": 4400,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "chef",
+   "type": "replique",
+   "chemin": "nodes.chef.text",
+   "noeud": "chef",
+   "partie": "Le siège (jeu)",
+   "personnage": "Tiéfo Amoro",
+   "intonation": "grave",
+   "intonation_statut": "proposée",
+   "texte": "Une cité se défend tant qu'il reste quelqu'un pour la défendre.",
+   "genre": "adulte/homme",
+   "duree_ms": 4480,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n7",
+   "type": "replique",
+   "chemin": "nodes.n7.text",
+   "noeud": "n7",
+   "partie": "Le siège (jeu)",
+   "personnage": "Le griot",
+   "intonation": "grave",
+   "intonation_statut": "proposée",
+   "texte": "Cette parole est imaginée pour le jeu : aucune source ne la rapporte.",
+   "genre": "adulte/homme",
+   "duree_ms": 5390,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "chute",
+   "type": "replique",
+   "chemin": "nodes.chute.text",
+   "noeud": "chute",
+   "partie": "Le siège (jeu)",
+   "personnage": "Le griot",
+   "intonation": "grave",
+   "intonation_statut": "proposée",
+   "texte": "La forteresse tombe après environ une semaine, et Samory ordonne de la détruire pour montrer sa force.",
+   "genre": "adulte/homme",
+   "duree_ms": 6910,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n8",
+   "type": "replique",
+   "chemin": "nodes.n8.text",
+   "noeud": "n8",
+   "partie": "La fin de Tiéfo Amoro (jeu)",
+   "personnage": "L'historien",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Selon l'historien cité lors de la conférence, une trahison aurait affaibli l'armée de Tiéfo Amoro, et celui-ci aurait choisi la mort plutôt que la reddition.",
+   "genre": "âgé/homme",
+   "duree_ms": 10100,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n9",
+   "type": "replique",
+   "chemin": "nodes.n9.text",
+   "noeud": "n9",
+   "partie": "La fin de Tiéfo Amoro (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Que fais-tu de ce récit ?",
+   "genre": "adulte/homme",
+   "duree_ms": 2580,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n9.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.n9.choices.0.label",
+   "texte": "Le répéter tel quel, comme une certitude"
+  },
+  {
+   "id": "nodes.n9.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.n9.choices.0.tag",
+   "texte": "répété tel quel"
+  },
+  {
+   "id": "nodes.n9.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.n9.choices.1.label",
+   "texte": "Demander d'où il vient"
+  },
+  {
+   "id": "nodes.n9.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.n9.choices.1.tag",
+   "texte": "source demandée"
+  },
+  {
+   "id": "source",
+   "type": "replique",
+   "chemin": "nodes.source.text",
+   "noeud": "source",
+   "partie": "La fin de Tiéfo Amoro (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Bonne question : nous n'avons trouvé qu'une seule source pour ce récit de sa fin. Il est donné ici comme tel, et il reste à valider.",
+   "genre": "adulte/homme",
+   "duree_ms": 10780,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "croire",
+   "type": "replique",
+   "chemin": "nodes.croire.text",
+   "noeud": "croire",
+   "partie": "La fin de Tiéfo Amoro (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Prudence : une seule source rapporte cette fin. Ce qu'on sait, c'est qu'avant même la conquête coloniale, les peuples de l'Ouest ont dû défendre leurs cités contre de grands empires conquérants.",
+   "genre": "adulte/homme",
+   "duree_ms": 12830,
+   "duree_statut": "estimée"
+  }
+ ]
+}

@@ -1,0 +1,704 @@
+{
+ "id": "pics-sindou",
+ "titre": "Les esprits des pics de Sindou",
+ "peuple": "Senoufo",
+ "langues_cibles": [
+  "fr",
+  "sen",
+  "dyu"
+ ],
+ "pistes": [
+  {
+   "id": "titre",
+   "type": "titre",
+   "chemin": "titre",
+   "texte": "Les esprits des pics de Sindou"
+  },
+  {
+   "id": "presentation",
+   "type": "presentation",
+   "chemin": "presentation",
+   "texte": "Des cavaliers ont brûlé le village, et Nakan, la doyenne, mène les siens de nuit vers des pierres que personne n'a jamais vues. Marche avec eux, et choisis comment demander refuge."
+  },
+  {
+   "id": "personnages.griot.nom",
+   "type": "personnage",
+   "chemin": "personnages.griot.nom",
+   "texte": "Le griot"
+  },
+  {
+   "id": "personnages.nakan.nom",
+   "type": "personnage",
+   "chemin": "personnages.nakan.nom",
+   "texte": "Nakan, la doyenne"
+  },
+  {
+   "id": "personnages.homme.nom",
+   "type": "personnage",
+   "chemin": "personnages.homme.nom",
+   "texte": "Le plus fort"
+  },
+  {
+   "id": "personnages.enfant.nom",
+   "type": "personnage",
+   "chemin": "personnages.enfant.nom",
+   "texte": "L'enfant"
+  },
+  {
+   "id": "personnages.cavalier.nom",
+   "type": "personnage",
+   "chemin": "personnages.cavalier.nom",
+   "texte": "Un cavalier"
+  },
+  {
+   "id": "personnages.esprit.nom",
+   "type": "personnage",
+   "chemin": "personnages.esprit.nom",
+   "texte": "Un esprit des rochers"
+  },
+  {
+   "id": "fins.canon",
+   "type": "fin",
+   "chemin": "fins.canon",
+   "texte": "Version du griot : les pierres ont gardé ce peuple"
+  },
+  {
+   "id": "fins.errance",
+   "type": "fin",
+   "chemin": "fins.errance",
+   "texte": "Autre chemin : le village repart vers le sud"
+  },
+  {
+   "id": "n1",
+   "type": "replique",
+   "chemin": "nodes.n1.text",
+   "noeud": "n1",
+   "partie": "Le village d'avant (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Dans le sud-ouest du Burkina, de hautes aiguilles de pierre se dressent au-dessus de la plaine. Autrefois, un village senoufo vivait plus au sud, en paix.",
+   "genre": "adulte/homme",
+   "duree_ms": 10930,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n2",
+   "type": "replique",
+   "chemin": "nodes.n2.text",
+   "noeud": "n2",
+   "partie": "Le village d'avant (jeu)",
+   "personnage": "Un cavalier",
+   "intonation": "vif",
+   "intonation_statut": "proposée",
+   "texte": "Prenez les hommes ! Brûlez les toits !",
+   "genre": "adulte/homme",
+   "duree_ms": 3640,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n3",
+   "type": "replique",
+   "chemin": "nodes.n3.text",
+   "noeud": "n3",
+   "partie": "Le village d'avant (jeu)",
+   "personnage": "Le griot",
+   "intonation": "enlevé",
+   "intonation_statut": "proposée",
+   "texte": "Les toits brûlent, et le village s'enfuit vers la brousse. Vite !",
+   "genre": "adulte/homme",
+   "duree_ms": 5310,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n4.consigne",
+   "type": "jeu",
+   "chemin": "nodes.n4.consigne",
+   "texte": "Les cavaliers vous poursuivent ! Tape vite sur ESPACE ou sur l'écran pour fuir avec le village."
+  },
+  {
+   "id": "nodes.n4.gagne",
+   "type": "jeu",
+   "chemin": "nodes.n4.gagne",
+   "texte": "Les cavaliers perdent votre trace."
+  },
+  {
+   "id": "nodes.n4.perdu",
+   "type": "jeu",
+   "chemin": "nodes.n4.perdu",
+   "texte": "Rattrapés de peu… le village se disperse et se retrouve à la nuit."
+  },
+  {
+   "id": "nodes.n4.tags.win",
+   "type": "parcours",
+   "chemin": "nodes.n4.tags.win",
+   "texte": "course gagnée"
+  },
+  {
+   "id": "nodes.n4.tags.lose",
+   "type": "parcours",
+   "chemin": "nodes.n4.tags.lose",
+   "texte": "course perdue"
+  },
+  {
+   "id": "n5",
+   "type": "replique",
+   "chemin": "nodes.n5.text",
+   "noeud": "n5",
+   "partie": "Les longues nuits (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Ils marchent de longues nuits, guidés par Nakan. Un enfant tombe de fatigue. Que fait-on ?",
+   "genre": "adulte/homme",
+   "duree_ms": 7130,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n5.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.n5.choices.0.label",
+   "texte": "Le plus fort le prend sur ses épaules"
+  },
+  {
+   "id": "nodes.n5.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.n5.choices.0.tag",
+   "texte": "enfant porté"
+  },
+  {
+   "id": "nodes.n5.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.n5.choices.1.label",
+   "texte": "On lui demande de se relever seul"
+  },
+  {
+   "id": "nodes.n5.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.n5.choices.1.tag",
+   "texte": "enfant pressé"
+  },
+  {
+   "id": "seul",
+   "type": "replique",
+   "chemin": "nodes.seul.text",
+   "noeud": "seul",
+   "partie": "Les longues nuits (jeu)",
+   "personnage": "Nakan, la doyenne",
+   "intonation": "doux",
+   "intonation_statut": "proposée",
+   "texte": "Personne ne reste derrière. Prends-le sur tes épaules, toi, le plus fort.",
+   "genre": "âgée/femme",
+   "duree_ms": 5460,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "epaules",
+   "type": "replique",
+   "chemin": "nodes.epaules.text",
+   "noeud": "epaules",
+   "partie": "Les longues nuits (jeu)",
+   "personnage": "Nakan, la doyenne",
+   "intonation": "vif",
+   "intonation_statut": "proposée",
+   "texte": "Là-bas ! Les pierres nous attendent.",
+   "genre": "âgée/femme",
+   "duree_ms": 2880,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n6",
+   "type": "replique",
+   "chemin": "nodes.n6.text",
+   "noeud": "n6",
+   "partie": "Au pied des pics (jeu)",
+   "personnage": "Le griot",
+   "intonation": "tendu",
+   "intonation_statut": "proposée",
+   "texte": "Ils arrivent au pied des pics. Personne n'a jamais rien vu de pareil. Regarde ce qu'ils ont sauvé.",
+   "genre": "adulte/homme",
+   "duree_ms": 7740,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n7",
+   "type": "replique",
+   "chemin": "nodes.n7.text",
+   "noeud": "n7",
+   "partie": "Au pied des pics (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Avant de construire, que fait Nakan au pied du plus grand rocher ?",
+   "genre": "adulte/homme",
+   "duree_ms": 5390,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n7.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.n7.choices.0.label",
+   "texte": "Elle dépose une offrande, et elle demande"
+  },
+  {
+   "id": "nodes.n7.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.n7.choices.0.tag",
+   "texte": "offrande"
+  },
+  {
+   "id": "nodes.n7.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.n7.choices.1.label",
+   "texte": "Elle commence à bâtir tout de suite"
+  },
+  {
+   "id": "nodes.n7.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.n7.choices.1.tag",
+   "texte": "construction sans demander"
+  },
+  {
+   "id": "bati",
+   "type": "replique",
+   "chemin": "nodes.bati.text",
+   "noeud": "bati",
+   "partie": "Au pied des pics (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Les premières pierres posées roulent au matin. Trois fois, elles roulent. Nakan comprend-elle ?",
+   "genre": "adulte/homme",
+   "duree_ms": 6370,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.bati.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.bati.choices.0.label",
+   "texte": "Oui, elle revient déposer une offrande"
+  },
+  {
+   "id": "nodes.bati.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.bati.choices.0.tag",
+   "texte": "offrande"
+  },
+  {
+   "id": "nodes.bati.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.bati.choices.1.label",
+   "texte": "Non, elle emmène les siens plus loin"
+  },
+  {
+   "id": "nodes.bati.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.bati.choices.1.tag",
+   "texte": "départ"
+  },
+  {
+   "id": "errance",
+   "type": "replique",
+   "chemin": "nodes.errance.text",
+   "noeud": "errance",
+   "partie": "Au pied des pics (jeu)",
+   "personnage": "Le griot",
+   "intonation": "tendu",
+   "intonation_statut": "proposée",
+   "texte": "Le village repart, sans abri, vers d'autres plaines. C'est une fin imaginée pour le jeu : ce n'est pas celle que l'on raconte à Sindou.",
+   "genre": "adulte/homme",
+   "duree_ms": 10550,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "offrande",
+   "type": "replique",
+   "chemin": "nodes.offrande.text",
+   "noeud": "offrande",
+   "partie": "Au pied des pics (jeu)",
+   "personnage": "Nakan, la doyenne",
+   "intonation": "doux",
+   "intonation_statut": "proposée",
+   "texte": "Esprits des rochers, cachez-nous.",
+   "genre": "âgée/femme",
+   "duree_ms": 1970,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n8",
+   "type": "replique",
+   "chemin": "nodes.n8.text",
+   "noeud": "n8",
+   "partie": "Au pied des pics (jeu)",
+   "personnage": "Un esprit des rochers",
+   "intonation": "mystérieux",
+   "intonation_statut": "proposée",
+   "texte": "Nous voyons un peuple sans abri. Reste entre nos pierres.",
+   "genre": "voix d'esprit/libre",
+   "duree_ms": 4400,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n9",
+   "type": "replique",
+   "chemin": "nodes.n9.text",
+   "noeud": "n9",
+   "partie": "Au pied des pics (jeu)",
+   "personnage": "Le griot",
+   "intonation": "tendu",
+   "intonation_statut": "proposée",
+   "texte": "On bâtit le village entre les rochers, et la vie reprend. Mais un jour, les cavaliers retrouvent leur trace. Nakan se dresse et appelle les esprits.",
+   "genre": "adulte/homme",
+   "duree_ms": 11080,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n10",
+   "type": "replique",
+   "chemin": "nodes.n10.text",
+   "noeud": "n10",
+   "partie": "Au pied des pics (jeu)",
+   "personnage": "Le griot",
+   "intonation": "tendu",
+   "intonation_statut": "proposée",
+   "texte": "La montagne tremble. Des pierres roulent, et les chevaux prennent peur. Les cavaliers s'enfuient, et ils ne reviendront jamais.",
+   "genre": "adulte/homme",
+   "duree_ms": 8420,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n11",
+   "type": "replique",
+   "chemin": "nodes.n11.text",
+   "noeud": "n11",
+   "partie": "Au pied des pics (jeu)",
+   "personnage": "Le griot",
+   "intonation": "tendu",
+   "intonation_statut": "proposée",
+   "texte": "Aujourd'hui encore, à Sindou, on honore les esprits des rochers, pour garder leur protection.",
+   "genre": "adulte/homme",
+   "duree_ms": 6070,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "film-001",
+   "type": "film",
+   "partie": "Film d'animation, de 00:02.0 à 00:07.0",
+   "horodatage": {
+    "debut_ms": 2000,
+    "fin_ms": 7000
+   },
+   "personnage": "Narrateur",
+   "intonation": "solennel",
+   "intonation_statut": "scénario",
+   "texte": "Les esprits des pics de Sindou. Une légende senoufo.",
+   "genre": "adulte/libre",
+   "duree_ms": 5000,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-002",
+   "type": "film",
+   "partie": "Film d'animation, de 00:09.0 à 00:16.7",
+   "horodatage": {
+    "debut_ms": 9000,
+    "fin_ms": 16700
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Dans le sud-ouest du Burkina, de hautes aiguilles de pierre se dressent au-dessus de la plaine. On dit qu'elles ne sont pas vides.",
+   "genre": "adulte/libre",
+   "duree_ms": 7700,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-003",
+   "type": "film",
+   "partie": "Film d'animation, de 00:28.0 à 00:32.6",
+   "horodatage": {
+    "debut_ms": 28000,
+    "fin_ms": 32600
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Autrefois, un village senoufo vivait plus au sud, en paix.",
+   "genre": "adulte/libre",
+   "duree_ms": 4600,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-004",
+   "type": "film",
+   "partie": "Film d'animation, de 00:34.0 à 00:38.8",
+   "horodatage": {
+    "debut_ms": 34000,
+    "fin_ms": 38800
+   },
+   "personnage": "Narrateur",
+   "intonation": "tendu",
+   "intonation_statut": "scénario",
+   "texte": "Un matin, des cavaliers surgirent, venus capturer des hommes.",
+   "genre": "adulte/libre",
+   "duree_ms": 4800,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-005",
+   "type": "film",
+   "partie": "Film d'animation, de 00:43.0 à 00:47.2",
+   "horodatage": {
+    "debut_ms": 43000,
+    "fin_ms": 47200
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Les toits brûlèrent, et le village s'enfuit vers la brousse.",
+   "genre": "adulte/libre",
+   "duree_ms": 4200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-006",
+   "type": "film",
+   "partie": "Film d'animation, de 01:04.0 à 01:08.6",
+   "horodatage": {
+    "debut_ms": 64000,
+    "fin_ms": 68600
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Ils marchèrent de longues nuits, guidés par Nakan, la doyenne.",
+   "genre": "adulte/libre",
+   "duree_ms": 4600,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-007",
+   "type": "film",
+   "partie": "Film d'animation, de 01:15.0 à 01:20.9",
+   "horodatage": {
+    "debut_ms": 75000,
+    "fin_ms": 80900
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Un enfant tomba de fatigue. Le plus fort des hommes le prit sur ses épaules.",
+   "genre": "adulte/libre",
+   "duree_ms": 5900,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-008",
+   "type": "film",
+   "partie": "Film d'animation, de 01:22.3 à 01:26.1",
+   "horodatage": {
+    "debut_ms": 82300,
+    "fin_ms": 86100
+   },
+   "personnage": "NAKAN",
+   "intonation": "épuisé mais ferme",
+   "intonation_statut": "scénario",
+   "texte": "Là-bas ! Les pierres nous attendent.",
+   "genre": "âgé/libre",
+   "duree_ms": 3800,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-009",
+   "type": "film",
+   "partie": "Film d'animation, de 01:37.0 à 01:42.5",
+   "horodatage": {
+    "debut_ms": 97000,
+    "fin_ms": 102500
+   },
+   "personnage": "Narrateur",
+   "intonation": "émerveillé",
+   "intonation_statut": "scénario",
+   "texte": "Ils arrivèrent au pied des pics. Personne n'avait jamais rien vu de pareil.",
+   "genre": "adulte/libre",
+   "duree_ms": 5500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-010",
+   "type": "film",
+   "partie": "Film d'animation, de 01:47.0 à 01:50.9",
+   "horodatage": {
+    "debut_ms": 107000,
+    "fin_ms": 110900
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Au pied du plus grand, Nakan déposa une offrande.",
+   "genre": "adulte/libre",
+   "duree_ms": 3900,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-011",
+   "type": "film",
+   "partie": "Film d'animation, de 01:51.0 à 01:54.1",
+   "horodatage": {
+    "debut_ms": 111000,
+    "fin_ms": 114100
+   },
+   "personnage": "NAKAN",
+   "intonation": "recueilli",
+   "intonation_statut": "scénario",
+   "texte": "Esprits des rochers, cachez-nous.",
+   "genre": "âgé/libre",
+   "duree_ms": 3100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-012",
+   "type": "film",
+   "partie": "Film d'animation, de 01:58.0 à 02:05.9",
+   "horodatage": {
+    "debut_ms": 118000,
+    "fin_ms": 125900
+   },
+   "personnage": "Narrateur",
+   "intonation": "mystérieux",
+   "intonation_statut": "scénario",
+   "texte": "Alors la pierre s'éveilla, et les esprits en sortirent. Ils regardèrent ce peuple sans abri, et ils l'adoptèrent.",
+   "genre": "adulte/libre",
+   "duree_ms": 7900,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-013",
+   "type": "film",
+   "partie": "Film d'animation, de 02:18.0 à 02:22.0",
+   "horodatage": {
+    "debut_ms": 138000,
+    "fin_ms": 142000
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "On bâtit le village entre les rochers, et la vie reprit.",
+   "genre": "adulte/libre",
+   "duree_ms": 4000,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-014",
+   "type": "film",
+   "partie": "Film d'animation, de 02:46.0 à 02:50.0",
+   "horodatage": {
+    "debut_ms": 166000,
+    "fin_ms": 170000
+   },
+   "personnage": "Narrateur",
+   "intonation": "tendu",
+   "intonation_statut": "scénario",
+   "texte": "Mais un jour, les cavaliers retrouvèrent leur trace.",
+   "genre": "adulte/libre",
+   "duree_ms": 4000,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-015",
+   "type": "film",
+   "partie": "Film d'animation, de 02:55.0 à 02:58.1",
+   "horodatage": {
+    "debut_ms": 175000,
+    "fin_ms": 178100
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Nakan se dressa et appela les esprits.",
+   "genre": "adulte/libre",
+   "duree_ms": 3100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-016",
+   "type": "film",
+   "partie": "Film d'animation, de 03:03.0 à 03:08.7",
+   "horodatage": {
+    "debut_ms": 183000,
+    "fin_ms": 188700
+   },
+   "personnage": "Narrateur",
+   "intonation": "fort",
+   "intonation_statut": "scénario",
+   "texte": "La montagne trembla. Des pierres roulèrent, et les chevaux prirent peur.",
+   "genre": "adulte/libre",
+   "duree_ms": 5700,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-017",
+   "type": "film",
+   "partie": "Film d'animation, de 03:15.0 à 03:19.4",
+   "horodatage": {
+    "debut_ms": 195000,
+    "fin_ms": 199400
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Les cavaliers s'enfuirent. Ils ne revinrent jamais.",
+   "genre": "adulte/libre",
+   "duree_ms": 4400,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-018",
+   "type": "film",
+   "partie": "Film d'animation, de 03:32.0 à 03:36.7",
+   "horodatage": {
+    "debut_ms": 212000,
+    "fin_ms": 216700
+   },
+   "personnage": "Narrateur",
+   "intonation": "joyeux",
+   "intonation_statut": "scénario",
+   "texte": "Le village éclata de joie, et les esprits retournèrent dans la pierre.",
+   "genre": "adulte/libre",
+   "duree_ms": 4700,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-019",
+   "type": "film",
+   "partie": "Film d'animation, de 03:45.0 à 03:48.2",
+   "horodatage": {
+    "debut_ms": 225000,
+    "fin_ms": 228200
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Jamais plus ce peuple ne fut dominé.",
+   "genre": "adulte/libre",
+   "duree_ms": 3200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-020",
+   "type": "film",
+   "partie": "Film d'animation, de 04:02.0 à 04:08.3",
+   "horodatage": {
+    "debut_ms": 242000,
+    "fin_ms": 248300
+   },
+   "personnage": "Narrateur",
+   "intonation": "doux",
+   "intonation_statut": "scénario",
+   "texte": "Aujourd'hui encore, à Sindou, on honore les esprits des rochers, pour garder leur protection.",
+   "genre": "adulte/libre",
+   "duree_ms": 6300,
+   "duree_statut": "mesurée sur le film"
+  }
+ ]
+}

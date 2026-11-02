@@ -1,0 +1,781 @@
+{
+ "id": "landolo",
+ "titre": "Landolo et le grand caïlcédrat",
+ "peuple": "Samo (San)",
+ "langues_cibles": [
+  "fr",
+  "san"
+ ],
+ "pistes": [
+  {
+   "id": "titre",
+   "type": "titre",
+   "chemin": "titre",
+   "texte": "Landolo et le grand caïlcédrat"
+  },
+  {
+   "id": "presentation",
+   "type": "presentation",
+   "chemin": "presentation",
+   "texte": "Orphelin chez une marâtre dure, Landolo vient pleurer au pied du grand caïlcédrat. L'arbre s'éveille. Tout dépendra de ce que tu lui chanteras, et de ce que tu feras de sa colère."
+  },
+  {
+   "id": "personnages.griot.nom",
+   "type": "personnage",
+   "chemin": "personnages.griot.nom",
+   "texte": "Le griot"
+  },
+  {
+   "id": "personnages.landolo.nom",
+   "type": "personnage",
+   "chemin": "personnages.landolo.nom",
+   "texte": "Landolo"
+  },
+  {
+   "id": "personnages.maratre.nom",
+   "type": "personnage",
+   "chemin": "personnages.maratre.nom",
+   "texte": "La marâtre"
+  },
+  {
+   "id": "personnages.bucheron.nom",
+   "type": "personnage",
+   "chemin": "personnages.bucheron.nom",
+   "texte": "Le bûcheron"
+  },
+  {
+   "id": "personnages.villageois.nom",
+   "type": "personnage",
+   "chemin": "personnages.villageois.nom",
+   "texte": "Le villageois"
+  },
+  {
+   "id": "personnages.arbre.nom",
+   "type": "personnage",
+   "chemin": "personnages.arbre.nom",
+   "texte": "Le grand caïlcédrat"
+  },
+  {
+   "id": "fins.canon",
+   "type": "fin",
+   "chemin": "fins.canon",
+   "texte": "Version du griot : le grand caïlcédrat veille"
+  },
+  {
+   "id": "fins.coupe",
+   "type": "fin",
+   "chemin": "fins.coupe",
+   "texte": "Autre chemin : l'arbre tombe, et le village a faim"
+  },
+  {
+   "id": "n1",
+   "type": "replique",
+   "chemin": "nodes.n1.text",
+   "noeud": "n1",
+   "partie": "Le grand caïlcédrat (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Au bord du village se dressait un arbre immense, plus vieux que tous les anciens. Landolo était orphelin. Il vivait chez sa marâtre, qui gâtait son propre fils.",
+   "genre": "adulte/homme",
+   "duree_ms": 11840,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n2",
+   "type": "replique",
+   "chemin": "nodes.n2.text",
+   "noeud": "n2",
+   "partie": "Le grand caïlcédrat (jeu)",
+   "personnage": "La marâtre",
+   "intonation": "vif",
+   "intonation_statut": "proposée",
+   "texte": "Va chercher l'eau. Et vite !",
+   "genre": "adulte/femme",
+   "duree_ms": 2880,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n3",
+   "type": "replique",
+   "chemin": "nodes.n3.text",
+   "noeud": "n3",
+   "partie": "La branche qui s'abaisse (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Le fils mange à sa faim. Landolo, lui, n'a rien. Un soir, il vient pleurer au pied du grand caïlcédrat. Une branche s'abaisse, chargée de fruits. Que fait-il ?",
+   "genre": "adulte/homme",
+   "duree_ms": 13120,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n3.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.n3.choices.0.label",
+   "texte": "Il mange, et il remercie l'arbre"
+  },
+  {
+   "id": "nodes.n3.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.n3.choices.0.tag",
+   "texte": "remerciement"
+  },
+  {
+   "id": "nodes.n3.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.n3.choices.1.label",
+   "texte": "Il remplit ses poches et il s'en va"
+  },
+  {
+   "id": "nodes.n3.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.n3.choices.1.tag",
+   "texte": "poches pleines"
+  },
+  {
+   "id": "poches",
+   "type": "replique",
+   "chemin": "nodes.poches.text",
+   "noeud": "poches",
+   "partie": "La branche qui s'abaisse (jeu)",
+   "personnage": "Le griot",
+   "intonation": "mystérieux",
+   "intonation_statut": "proposée",
+   "texte": "Sur le chemin, il se retourne. La branche s'est relevée. Il revient sur ses pas.",
+   "genre": "adulte/homme",
+   "duree_ms": 6750,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "merci",
+   "type": "replique",
+   "chemin": "nodes.merci.text",
+   "noeud": "merci",
+   "partie": "La branche qui s'abaisse (jeu)",
+   "personnage": "Landolo",
+   "intonation": "vif",
+   "intonation_statut": "proposée",
+   "texte": "Grand arbre, grand arbre, écoute ma chanson.",
+   "genre": "enfant/libre",
+   "duree_ms": 3260,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n4.consigne",
+   "type": "jeu",
+   "chemin": "nodes.n4.consigne",
+   "texte": "Chante avec Landolo : reproduis le balancement de l'arbre."
+  },
+  {
+   "id": "nodes.n4.gagne",
+   "type": "jeu",
+   "chemin": "nodes.n4.gagne",
+   "texte": "L'arbre se balance, et le garçon grandit."
+  },
+  {
+   "id": "nodes.n4.perdu",
+   "type": "jeu",
+   "chemin": "nodes.n4.perdu",
+   "texte": "La chanson est hésitante, mais l'arbre se balance quand même."
+  },
+  {
+   "id": "nodes.n4.tags.win",
+   "type": "parcours",
+   "chemin": "nodes.n4.tags.win",
+   "texte": "rythme tenu"
+  },
+  {
+   "id": "nodes.n4.tags.lose",
+   "type": "parcours",
+   "chemin": "nodes.n4.tags.lose",
+   "texte": "rythme perdu"
+  },
+  {
+   "id": "n5",
+   "type": "replique",
+   "chemin": "nodes.n5.text",
+   "noeud": "n5",
+   "partie": "La marâtre espionne (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "La marâtre finit par s'étonner. Elle le suit et elle l'espionne. L'arbre ne lui envoie que des branches sèches.",
+   "genre": "adulte/homme",
+   "duree_ms": 8120,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n6",
+   "type": "replique",
+   "chemin": "nodes.n6.text",
+   "noeud": "n6",
+   "partie": "La marâtre espionne (jeu)",
+   "personnage": "La marâtre",
+   "intonation": "vif",
+   "intonation_statut": "proposée",
+   "texte": "Abattez-moi cet arbre !",
+   "genre": "adulte/femme",
+   "duree_ms": 1820,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n7",
+   "type": "replique",
+   "chemin": "nodes.n7.text",
+   "noeud": "n7",
+   "partie": "La marâtre espionne (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Elle revient avec deux bûcherons. Les coups de hache rebondissent sur le tronc. L'arbre gronde, le vent se lève, les branches fouettent l'air. Que fait Landolo ?",
+   "genre": "adulte/homme",
+   "duree_ms": 11760,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n7.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.n7.choices.0.label",
+   "texte": "Il demande à l'arbre de se calmer"
+  },
+  {
+   "id": "nodes.n7.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.n7.choices.0.tag",
+   "texte": "arbre apaisé"
+  },
+  {
+   "id": "nodes.n7.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.n7.choices.1.label",
+   "texte": "Il laisse la colère de l'arbre les chasser"
+  },
+  {
+   "id": "nodes.n7.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.n7.choices.1.tag",
+   "texte": "colère laissée"
+  },
+  {
+   "id": "colere",
+   "type": "replique",
+   "chemin": "nodes.colere.text",
+   "noeud": "colere",
+   "partie": "La marâtre espionne (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Les bûcherons s'enfuient, la marâtre aussi. Mais ils reviendront, plus nombreux, avec le feu. Landolo les arrêtera-t-il en parlant au village ?",
+   "genre": "adulte/homme",
+   "duree_ms": 9710,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.colere.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.colere.choices.0.label",
+   "texte": "Oui, il va parler au village"
+  },
+  {
+   "id": "nodes.colere.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.colere.choices.0.tag",
+   "texte": "parole au village"
+  },
+  {
+   "id": "nodes.colere.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.colere.choices.1.label",
+   "texte": "Non, il part loin d'ici"
+  },
+  {
+   "id": "nodes.colere.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.colere.choices.1.tag",
+   "texte": "départ"
+  },
+  {
+   "id": "part",
+   "type": "replique",
+   "chemin": "nodes.part.text",
+   "noeud": "part",
+   "partie": "La marâtre espionne (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Sans personne pour le défendre, l'arbre tombe. Vient la grande sécheresse, et il n'y a plus de fruits pour personne. Ce chemin n'est pas celui du conte.",
+   "genre": "adulte/homme",
+   "duree_ms": 11460,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "calme",
+   "type": "replique",
+   "chemin": "nodes.calme.text",
+   "noeud": "calme",
+   "partie": "La marâtre espionne (jeu)",
+   "personnage": "Landolo",
+   "intonation": "vif",
+   "intonation_statut": "proposée",
+   "texte": "Grand arbre, calme-toi, je t'en prie !",
+   "genre": "enfant/libre",
+   "duree_ms": 3260,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n8",
+   "type": "replique",
+   "chemin": "nodes.n8.text",
+   "noeud": "n8",
+   "partie": "La marâtre espionne (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Et l'arbre s'apaise, pour lui. Vient l'année de la grande sécheresse. Tout meurt, sauf le caïlcédrat, dont les fruits nourrissent le village.",
+   "genre": "adulte/homme",
+   "duree_ms": 9710,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n9",
+   "type": "replique",
+   "chemin": "nodes.n9.text",
+   "noeud": "n9",
+   "partie": "Le pardon (jeu)",
+   "personnage": "Le griot",
+   "intonation": "joyeux",
+   "intonation_statut": "proposée",
+   "texte": "La marâtre vient s'agenouiller devant Landolo, et elle demande pardon.",
+   "genre": "adulte/homme",
+   "duree_ms": 4250,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n10",
+   "type": "replique",
+   "chemin": "nodes.n10.text",
+   "noeud": "n10",
+   "partie": "Le pardon (jeu)",
+   "personnage": "Le villageois",
+   "intonation": "joyeux",
+   "intonation_statut": "proposée",
+   "texte": "Merci, Landolo. Merci, grand arbre.",
+   "genre": "adulte/homme",
+   "duree_ms": 2800,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n11",
+   "type": "replique",
+   "chemin": "nodes.n11.text",
+   "noeud": "n11",
+   "partie": "Le pardon (jeu)",
+   "personnage": "Landolo",
+   "intonation": "vif",
+   "intonation_statut": "proposée",
+   "texte": "Protégez cet arbre. Il vous le rendra.",
+   "genre": "enfant/libre",
+   "duree_ms": 3260,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n12",
+   "type": "replique",
+   "chemin": "nodes.n12.text",
+   "noeud": "n12",
+   "partie": "Le pardon (jeu)",
+   "personnage": "Le griot",
+   "intonation": "joyeux",
+   "intonation_statut": "proposée",
+   "texte": "Bien des années plus tard, le grand caïlcédrat veillait toujours.",
+   "genre": "adulte/homme",
+   "duree_ms": 4250,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "film-001",
+   "type": "film",
+   "partie": "Film d'animation, de 00:02.0 à 00:06.9",
+   "horodatage": {
+    "debut_ms": 2000,
+    "fin_ms": 6900
+   },
+   "personnage": "Narrateur",
+   "intonation": "malicieux",
+   "intonation_statut": "scénario",
+   "texte": "Landolo et le grand caïlcédrat. Un conte du pays san.",
+   "genre": "adulte/libre",
+   "duree_ms": 4900,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-002",
+   "type": "film",
+   "partie": "Film d'animation, de 00:09.0 à 00:14.1",
+   "horodatage": {
+    "debut_ms": 9000,
+    "fin_ms": 14100
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Au bord du village se dressait un arbre immense, plus vieux que tous les anciens.",
+   "genre": "adulte/libre",
+   "duree_ms": 5100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-003",
+   "type": "film",
+   "partie": "Film d'animation, de 00:28.0 à 00:33.4",
+   "horodatage": {
+    "debut_ms": 28000,
+    "fin_ms": 33400
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Landolo était orphelin. Il vivait chez sa marâtre, qui gâtait son propre fils.",
+   "genre": "adulte/libre",
+   "duree_ms": 5400,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-004",
+   "type": "film",
+   "partie": "Film d'animation, de 00:33.5 à 00:37.1",
+   "horodatage": {
+    "debut_ms": 33500,
+    "fin_ms": 37100
+   },
+   "personnage": "MARATRE",
+   "intonation": "sec",
+   "intonation_statut": "scénario",
+   "texte": "Va chercher l'eau. Et vite !",
+   "genre": "adulte/femme",
+   "duree_ms": 3600,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-005",
+   "type": "film",
+   "partie": "Film d'animation, de 00:40.0 à 00:45.4",
+   "horodatage": {
+    "debut_ms": 40000,
+    "fin_ms": 45400
+   },
+   "personnage": "Narrateur",
+   "intonation": "triste",
+   "intonation_statut": "scénario",
+   "texte": "Le fils mangeait à sa faim. Landolo, lui, n'avait rien.",
+   "genre": "adulte/libre",
+   "duree_ms": 5400,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-006",
+   "type": "film",
+   "partie": "Film d'animation, de 01:04.0 à 01:08.5",
+   "horodatage": {
+    "debut_ms": 64000,
+    "fin_ms": 68500
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Un soir, le garçon vint pleurer au pied du grand caïlcédrat.",
+   "genre": "adulte/libre",
+   "duree_ms": 4500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-007",
+   "type": "film",
+   "partie": "Film d'animation, de 01:16.0 à 01:21.5",
+   "horodatage": {
+    "debut_ms": 76000,
+    "fin_ms": 81500
+   },
+   "personnage": "Narrateur",
+   "intonation": "émerveillé",
+   "intonation_statut": "scénario",
+   "texte": "Alors l'arbre s'éveilla. Une branche s'abaissa, chargée de fruits.",
+   "genre": "adulte/libre",
+   "duree_ms": 5500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-008",
+   "type": "film",
+   "partie": "Film d'animation, de 01:30.0 à 01:33.8",
+   "horodatage": {
+    "debut_ms": 90000,
+    "fin_ms": 93800
+   },
+   "personnage": "Narrateur",
+   "intonation": "tendre",
+   "intonation_statut": "scénario",
+   "texte": "Landolo mangea, et il remercia le vieil arbre.",
+   "genre": "adulte/libre",
+   "duree_ms": 3800,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-009",
+   "type": "film",
+   "partie": "Film d'animation, de 01:44.0 à 01:48.3",
+   "horodatage": {
+    "debut_ms": 104000,
+    "fin_ms": 108300
+   },
+   "personnage": "LANDOLO",
+   "intonation": "chanté, doux",
+   "intonation_statut": "scénario",
+   "texte": "Grand arbre, grand arbre, écoute ma chanson.",
+   "genre": "enfant/libre",
+   "duree_ms": 4300,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-010",
+   "type": "film",
+   "partie": "Film d'animation, de 01:52.0 à 01:58.3",
+   "horodatage": {
+    "debut_ms": 112000,
+    "fin_ms": 118300
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Chaque jour, il chantait, et l'arbre se balançait. Et le garçon grandissait.",
+   "genre": "adulte/libre",
+   "duree_ms": 6300,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-011",
+   "type": "film",
+   "partie": "Film d'animation, de 02:14.0 à 02:19.2",
+   "horodatage": {
+    "debut_ms": 134000,
+    "fin_ms": 139200
+   },
+   "personnage": "Narrateur",
+   "intonation": "malicieux",
+   "intonation_statut": "scénario",
+   "texte": "La marâtre finit par s'étonner. Elle le suivit et elle l'espionna.",
+   "genre": "adulte/libre",
+   "duree_ms": 5200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-012",
+   "type": "film",
+   "partie": "Film d'animation, de 02:24.5 à 02:27.2",
+   "horodatage": {
+    "debut_ms": 144500,
+    "fin_ms": 147200
+   },
+   "personnage": "MARATRE",
+   "intonation": "avide",
+   "intonation_statut": "scénario",
+   "texte": "À moi aussi, donne !",
+   "genre": "adulte/femme",
+   "duree_ms": 2700,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-013",
+   "type": "film",
+   "partie": "Film d'animation, de 02:28.0 à 02:31.4",
+   "horodatage": {
+    "debut_ms": 148000,
+    "fin_ms": 151400
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "L'arbre ne lui envoya que des branches sèches.",
+   "genre": "adulte/libre",
+   "duree_ms": 3400,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-014",
+   "type": "film",
+   "partie": "Film d'animation, de 02:38.0 à 02:40.5",
+   "horodatage": {
+    "debut_ms": 158000,
+    "fin_ms": 160500
+   },
+   "personnage": "MARATRE",
+   "intonation": "furieux",
+   "intonation_statut": "scénario",
+   "texte": "Abattez-moi cet arbre !",
+   "genre": "adulte/femme",
+   "duree_ms": 2500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-015",
+   "type": "film",
+   "partie": "Film d'animation, de 02:42.0 à 02:44.5",
+   "horodatage": {
+    "debut_ms": 162000,
+    "fin_ms": 164500
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Elle revint avec deux bûcherons.",
+   "genre": "adulte/libre",
+   "duree_ms": 2500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-016",
+   "type": "film",
+   "partie": "Film d'animation, de 02:50.0 à 02:53.1",
+   "horodatage": {
+    "debut_ms": 170000,
+    "fin_ms": 173100
+   },
+   "personnage": "Narrateur",
+   "intonation": "tendu",
+   "intonation_statut": "scénario",
+   "texte": "Mais les coups de hache rebondissaient sur le tronc.",
+   "genre": "adulte/libre",
+   "duree_ms": 3100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-017",
+   "type": "film",
+   "partie": "Film d'animation, de 02:59.0 à 03:04.8",
+   "horodatage": {
+    "debut_ms": 179000,
+    "fin_ms": 184800
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "L'arbre se mit à gronder. Le vent se leva, et les branches fouettèrent l'air.",
+   "genre": "adulte/libre",
+   "duree_ms": 5800,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-018",
+   "type": "film",
+   "partie": "Film d'animation, de 03:07.5 à 03:11.3",
+   "horodatage": {
+    "debut_ms": 187500,
+    "fin_ms": 191300
+   },
+   "personnage": "LANDOLO",
+   "intonation": "suppliant",
+   "intonation_statut": "scénario",
+   "texte": "Grand arbre, calme-toi, je t'en prie !",
+   "genre": "enfant/libre",
+   "duree_ms": 3800,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-019",
+   "type": "film",
+   "partie": "Film d'animation, de 03:14.0 à 03:17.0",
+   "horodatage": {
+    "debut_ms": 194000,
+    "fin_ms": 197000
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Et l'arbre s'apaisa, pour lui.",
+   "genre": "adulte/libre",
+   "duree_ms": 3000,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-020",
+   "type": "film",
+   "partie": "Film d'animation, de 03:31.0 à 03:38.4",
+   "horodatage": {
+    "debut_ms": 211000,
+    "fin_ms": 218400
+   },
+   "personnage": "Narrateur",
+   "intonation": "grave",
+   "intonation_statut": "scénario",
+   "texte": "Vint l'année de la grande sécheresse. Tout mourut, sauf le caïlcédrat, dont les fruits nourrirent le village.",
+   "genre": "adulte/libre",
+   "duree_ms": 7400,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-021",
+   "type": "film",
+   "partie": "Film d'animation, de 03:46.0 à 03:50.5",
+   "horodatage": {
+    "debut_ms": 226000,
+    "fin_ms": 230500
+   },
+   "personnage": "Narrateur",
+   "intonation": "ému",
+   "intonation_statut": "scénario",
+   "texte": "La marâtre vint s'agenouiller devant Landolo, et elle demanda pardon.",
+   "genre": "adulte/libre",
+   "duree_ms": 4500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-022",
+   "type": "film",
+   "partie": "Film d'animation, de 03:55.0 à 03:59.3",
+   "horodatage": {
+    "debut_ms": 235000,
+    "fin_ms": 239300
+   },
+   "personnage": "VILLAGEOIS",
+   "intonation": "reconnaissant",
+   "intonation_statut": "scénario",
+   "texte": "Merci, Landolo. Merci, grand arbre.",
+   "genre": "adulte/femme",
+   "duree_ms": 4300,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-023",
+   "type": "film",
+   "partie": "Film d'animation, de 04:10.0 à 04:13.4",
+   "horodatage": {
+    "debut_ms": 250000,
+    "fin_ms": 253400
+   },
+   "personnage": "LANDOLOADULTE",
+   "intonation": "posé",
+   "intonation_statut": "scénario",
+   "texte": "Protégez cet arbre. Il vous le rendra.",
+   "genre": "adulte/homme",
+   "duree_ms": 3400,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-024",
+   "type": "film",
+   "partie": "Film d'animation, de 04:15.0 à 04:19.7",
+   "horodatage": {
+    "debut_ms": 255000,
+    "fin_ms": 259700
+   },
+   "personnage": "Narrateur",
+   "intonation": "doux",
+   "intonation_statut": "scénario",
+   "texte": "Bien des années plus tard, le grand caïlcédrat veillait toujours.",
+   "genre": "adulte/libre",
+   "duree_ms": 4700,
+   "duree_statut": "mesurée sur le film"
+  }
+ ]
+}

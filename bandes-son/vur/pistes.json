@@ -1,0 +1,753 @@
+{
+ "id": "vur",
+ "titre": "Le mystère du vur",
+ "peuple": "Lyela",
+ "langues_cibles": [
+  "fr",
+  "lyl"
+ ],
+ "pistes": [
+  {
+   "id": "titre",
+   "type": "titre",
+   "chemin": "titre",
+   "texte": "Le mystère du vur"
+  },
+  {
+   "id": "presentation",
+   "type": "presentation",
+   "chemin": "presentation",
+   "texte": "Le mil d'Ebéyé a disparu, et tout le village accuse un berger de passage. Tu es parmi les voisins. Le vur n'est jamais montré, et rien ne se dira de lui ici : ce récit parle de ce que la peur fait à un coupable."
+  },
+  {
+   "id": "personnages.griot.nom",
+   "type": "personnage",
+   "chemin": "personnages.griot.nom",
+   "texte": "Le griot"
+  },
+  {
+   "id": "personnages.ebeye.nom",
+   "type": "personnage",
+   "chemin": "personnages.ebeye.nom",
+   "texte": "Ebéyé"
+  },
+  {
+   "id": "personnages.voisin.nom",
+   "type": "personnage",
+   "chemin": "personnages.voisin.nom",
+   "texte": "Le voisin"
+  },
+  {
+   "id": "personnages.ancien.nom",
+   "type": "personnage",
+   "chemin": "personnages.ancien.nom",
+   "texte": "L'ancien"
+  },
+  {
+   "id": "personnages.berger.nom",
+   "type": "personnage",
+   "chemin": "personnages.berger.nom",
+   "texte": "Le berger"
+  },
+  {
+   "id": "personnages.voleur.nom",
+   "type": "personnage",
+   "chemin": "personnages.voleur.nom",
+   "texte": "Le jeune homme"
+  },
+  {
+   "id": "fins.canon",
+   "type": "fin",
+   "chemin": "fins.canon",
+   "texte": "Version du griot : la vérité se sait toujours"
+  },
+  {
+   "id": "fins.injuste",
+   "type": "fin",
+   "chemin": "fins.injuste",
+   "texte": "Autre chemin : le berger est chassé, le voleur dort mal"
+  },
+  {
+   "id": "n1",
+   "type": "replique",
+   "chemin": "nodes.n1.text",
+   "noeud": "n1",
+   "partie": "Le grenier d'Ebéyé (jeu)",
+   "personnage": "Le griot",
+   "intonation": "chuchoté",
+   "intonation_statut": "proposée",
+   "texte": "Dans un village lyela, chacun connaît son voisin, et chacun croit tout savoir de lui. Ebéyé, une veuve, garde dans son grenier tout le mil de l'année. Cette nuit-là, une ombre vide le grenier.",
+   "genre": "adulte/homme",
+   "duree_ms": 14570,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n2",
+   "type": "replique",
+   "chemin": "nodes.n2.text",
+   "noeud": "n2",
+   "partie": "Le village s'assemble (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Au matin, le village s'assemble. Un berger de passage arrive.",
+   "genre": "adulte/homme",
+   "duree_ms": 4550,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n3",
+   "type": "replique",
+   "chemin": "nodes.n3.text",
+   "noeud": "n3",
+   "partie": "Le village s'assemble (jeu)",
+   "personnage": "Le voisin",
+   "intonation": "vif",
+   "intonation_statut": "proposée",
+   "texte": "C'est lui ! C'est forcément lui !",
+   "genre": "adulte/homme",
+   "duree_ms": 3260,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n4",
+   "type": "replique",
+   "chemin": "nodes.n4.text",
+   "noeud": "n4",
+   "partie": "Le village s'assemble (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Il a beau nier, personne ne l'écoute. Et toi, que dis-tu ?",
+   "genre": "adulte/homme",
+   "duree_ms": 5460,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n4.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.n4.choices.0.label",
+   "texte": "« Sans preuve, on ne condamne personne. »"
+  },
+  {
+   "id": "nodes.n4.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.n4.choices.0.tag",
+   "texte": "prudence"
+  },
+  {
+   "id": "nodes.n4.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.n4.choices.1.label",
+   "texte": "« Chassons-le, on sera tranquilles. »"
+  },
+  {
+   "id": "nodes.n4.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.n4.choices.1.tag",
+   "texte": "accusation"
+  },
+  {
+   "id": "chasse",
+   "type": "replique",
+   "chemin": "nodes.chasse.text",
+   "noeud": "chasse",
+   "partie": "Le village s'assemble (jeu)",
+   "personnage": "L'ancien",
+   "intonation": "grave",
+   "intonation_statut": "proposée",
+   "texte": "Sans preuve, on ne condamne personne. Tu le sais pourtant.",
+   "genre": "âgé/homme",
+   "duree_ms": 4550,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n5",
+   "type": "replique",
+   "chemin": "nodes.n5.text",
+   "noeud": "n5",
+   "partie": "Le village s'assemble (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "L'ancien te demande de redire ton avis devant tous. Le maintiens-tu ?",
+   "genre": "adulte/homme",
+   "duree_ms": 5160,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n5.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.n5.choices.0.label",
+   "texte": "Non, tu retires ce que tu as dit"
+  },
+  {
+   "id": "nodes.n5.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.n5.choices.0.tag",
+   "texte": "avis retiré"
+  },
+  {
+   "id": "nodes.n5.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.n5.choices.1.label",
+   "texte": "Oui, le berger doit partir"
+  },
+  {
+   "id": "nodes.n5.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.n5.choices.1.tag",
+   "texte": "avis maintenu"
+  },
+  {
+   "id": "injuste",
+   "type": "replique",
+   "chemin": "nodes.injuste.text",
+   "noeud": "injuste",
+   "partie": "Le village s'assemble (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "La foule te suit. Le berger reprend la route sous les pierres. Mais le mil ne revient pas, et le voleur, lui, reste au village. Ce chemin n'est pas celui du récit.",
+   "genre": "adulte/homme",
+   "duree_ms": 13810,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "preuve",
+   "type": "replique",
+   "chemin": "nodes.preuve.text",
+   "noeud": "preuve",
+   "partie": "Le village s'assemble (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Les anciens se réunissent. Personne n'a rien vu, et chacun soupçonne l'autre. Ils décident de s'en remettre au vur.",
+   "genre": "adulte/homme",
+   "duree_ms": 8270,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n6",
+   "type": "replique",
+   "chemin": "nodes.n6.text",
+   "noeud": "n6",
+   "partie": "Le village s'assemble (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Ils partent vers le lieu du vur. Veux-tu les suivre ?",
+   "genre": "adulte/homme",
+   "duree_ms": 4780,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n6.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.n6.choices.0.label",
+   "texte": "Non, ce n'est pas à toi d'y aller"
+  },
+  {
+   "id": "nodes.n6.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.n6.choices.0.tag",
+   "texte": "respect"
+  },
+  {
+   "id": "nodes.n6.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.n6.choices.1.label",
+   "texte": "Oui, tu voudrais voir"
+  },
+  {
+   "id": "nodes.n6.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.n6.choices.1.tag",
+   "texte": "curiosité"
+  },
+  {
+   "id": "voir",
+   "type": "replique",
+   "chemin": "nodes.voir.text",
+   "noeud": "voir",
+   "partie": "Le village s'assemble (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "On n'en dira pas plus. Il n'y a rien à montrer : seulement le vent, une lumière, et le noir. Tu rentres sans rien avoir vu.",
+   "genre": "adulte/homme",
+   "duree_ms": 11230,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "reste",
+   "type": "replique",
+   "chemin": "nodes.reste.text",
+   "noeud": "reste",
+   "partie": "Le village s'assemble (jeu)",
+   "personnage": "Le griot",
+   "intonation": "chuchoté",
+   "intonation_statut": "proposée",
+   "texte": "Les nuits suivantes, un jeune homme ne dort plus. C'est lui qui a pris le mil. Une nuit, il rapporte le sac au pied du grenier. Mais Ebéyé est là.",
+   "genre": "adulte/homme",
+   "duree_ms": 12900,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n7",
+   "type": "replique",
+   "chemin": "nodes.n7.text",
+   "noeud": "n7",
+   "partie": "Le village s'assemble (jeu)",
+   "personnage": "Le jeune homme",
+   "intonation": "chuchoté",
+   "intonation_statut": "proposée",
+   "texte": "C'est moi. Pardonne-moi, je n'en peux plus.",
+   "genre": "adulte/homme",
+   "duree_ms": 3410,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n8",
+   "type": "replique",
+   "chemin": "nodes.n8.text",
+   "noeud": "n8",
+   "partie": "Le village s'assemble (jeu)",
+   "personnage": "Ebéyé",
+   "intonation": "doux",
+   "intonation_statut": "proposée",
+   "texte": "Dis-le à ceux qui ont accusé le berger.",
+   "genre": "âgée/femme",
+   "duree_ms": 3340,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n9.question",
+   "type": "jeu",
+   "chemin": "nodes.n9.question",
+   "texte": "Le voleur n'est confondu par personne. Qu'est-ce qui l'a poussé à revenir ?"
+  },
+  {
+   "id": "nodes.n9.gagne",
+   "type": "jeu",
+   "chemin": "nodes.n9.gagne",
+   "texte": "Oui : la peur et le remords le rongeaient."
+  },
+  {
+   "id": "nodes.n9.perdu",
+   "type": "jeu",
+   "chemin": "nodes.n9.perdu",
+   "texte": "Non : personne ne l'a vu. Ce sont la peur et le remords qui le rongeaient."
+  },
+  {
+   "id": "nodes.n9.reponses.0.label",
+   "type": "jeu",
+   "chemin": "nodes.n9.reponses.0.label",
+   "texte": "La peur et le remords"
+  },
+  {
+   "id": "nodes.n9.reponses.1.label",
+   "type": "jeu",
+   "chemin": "nodes.n9.reponses.1.label",
+   "texte": "Une récompense promise"
+  },
+  {
+   "id": "nodes.n9.reponses.2.label",
+   "type": "jeu",
+   "chemin": "nodes.n9.reponses.2.label",
+   "texte": "Un témoin qui l'a vu"
+  },
+  {
+   "id": "nodes.n9.tags.win",
+   "type": "parcours",
+   "chemin": "nodes.n9.tags.win",
+   "texte": "bonne réponse"
+  },
+  {
+   "id": "nodes.n9.tags.lose",
+   "type": "parcours",
+   "chemin": "nodes.n9.tags.lose",
+   "texte": "réponse manquée"
+  },
+  {
+   "id": "n10",
+   "type": "replique",
+   "chemin": "nodes.n10.text",
+   "noeud": "n10",
+   "partie": "L'aveu (jeu)",
+   "personnage": "L'ancien",
+   "intonation": "grave",
+   "intonation_statut": "proposée",
+   "texte": "Tu l'as dit toi-même. C'est bien.",
+   "genre": "âgé/homme",
+   "duree_ms": 2880,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n11",
+   "type": "replique",
+   "chemin": "nodes.n11.text",
+   "noeud": "n11",
+   "partie": "L'aveu (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "On présente des excuses au berger, qui reprend sa route. Et le voleur travaillera le champ de la veuve. Le vur veille, dit-on. La vérité finit toujours par se savoir.",
+   "genre": "adulte/homme",
+   "duree_ms": 12900,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "film-001",
+   "type": "film",
+   "partie": "Film d'animation, de 00:02.0 à 00:08.2",
+   "horodatage": {
+    "debut_ms": 2000,
+    "fin_ms": 8200
+   },
+   "personnage": "Narrateur",
+   "intonation": "sobre",
+   "intonation_statut": "scénario",
+   "texte": "Le mystère du vur. Un récit imaginé, inspiré de la tradition lyela.",
+   "genre": "adulte/libre",
+   "duree_ms": 6200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-002",
+   "type": "film",
+   "partie": "Film d'animation, de 00:09.0 à 00:15.5",
+   "horodatage": {
+    "debut_ms": 9000,
+    "fin_ms": 15500
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Dans un village lyela, chacun connaît son voisin. Et chacun croit tout savoir de lui.",
+   "genre": "adulte/libre",
+   "duree_ms": 6500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-003",
+   "type": "film",
+   "partie": "Film d'animation, de 00:28.0 à 00:32.6",
+   "horodatage": {
+    "debut_ms": 28000,
+    "fin_ms": 32600
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Ebéyé, une veuve, garde dans son grenier tout le mil de l'année.",
+   "genre": "adulte/libre",
+   "duree_ms": 4600,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-004",
+   "type": "film",
+   "partie": "Film d'animation, de 00:40.0 à 00:45.0",
+   "horodatage": {
+    "debut_ms": 40000,
+    "fin_ms": 45000
+   },
+   "personnage": "Narrateur",
+   "intonation": "chuchoté",
+   "intonation_statut": "scénario",
+   "texte": "Cette nuit-là, une ombre se glisse dans sa cour, et vide le grenier.",
+   "genre": "adulte/libre",
+   "duree_ms": 5000,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-005",
+   "type": "film",
+   "partie": "Film d'animation, de 01:02.0 à 01:07.5",
+   "horodatage": {
+    "debut_ms": 62000,
+    "fin_ms": 67500
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Au matin, Ebéyé découvre le vol. Le village s'assemble.",
+   "genre": "adulte/libre",
+   "duree_ms": 5500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-006",
+   "type": "film",
+   "partie": "Film d'animation, de 01:11.0 à 01:15.5",
+   "horodatage": {
+    "debut_ms": 71000,
+    "fin_ms": 75500
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Un berger de passage arrive. Le coupable est trouvé.",
+   "genre": "adulte/libre",
+   "duree_ms": 4500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-007",
+   "type": "film",
+   "partie": "Film d'animation, de 01:15.5 à 01:19.5",
+   "horodatage": {
+    "debut_ms": 75500,
+    "fin_ms": 79500
+   },
+   "personnage": "VOISIN",
+   "intonation": "accusateur",
+   "intonation_statut": "scénario",
+   "texte": "C'est lui ! C'est forcément lui !",
+   "genre": "adulte/femme",
+   "duree_ms": 4000,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-008",
+   "type": "film",
+   "partie": "Film d'animation, de 01:22.0 à 01:25.3",
+   "horodatage": {
+    "debut_ms": 82000,
+    "fin_ms": 85300
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Il a beau nier, personne ne l'écoute.",
+   "genre": "adulte/libre",
+   "duree_ms": 3300,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-009",
+   "type": "film",
+   "partie": "Film d'animation, de 01:28.0 à 01:31.3",
+   "horodatage": {
+    "debut_ms": 88000,
+    "fin_ms": 91300
+   },
+   "personnage": "ANCIEN",
+   "intonation": "ferme",
+   "intonation_statut": "scénario",
+   "texte": "Sans preuve, on ne condamne personne.",
+   "genre": "âgé/libre",
+   "duree_ms": 3300,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-010",
+   "type": "film",
+   "partie": "Film d'animation, de 01:38.0 à 01:44.2",
+   "horodatage": {
+    "debut_ms": 98000,
+    "fin_ms": 104200
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Les anciens se réunissent. Personne n'a rien vu, et chacun soupçonne l'autre.",
+   "genre": "adulte/libre",
+   "duree_ms": 6200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-011",
+   "type": "film",
+   "partie": "Film d'animation, de 01:48.0 à 01:51.0",
+   "horodatage": {
+    "debut_ms": 108000,
+    "fin_ms": 111000
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Ils décident de s'en remettre au vur.",
+   "genre": "adulte/libre",
+   "duree_ms": 3000,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-012",
+   "type": "film",
+   "partie": "Film d'animation, de 02:10.0 à 02:14.6",
+   "horodatage": {
+    "debut_ms": 130000,
+    "fin_ms": 134600
+   },
+   "personnage": "Narrateur",
+   "intonation": "mystérieux",
+   "intonation_statut": "scénario",
+   "texte": "Ils partent vers le lieu du vur. On n'en dira pas plus.",
+   "genre": "adulte/libre",
+   "duree_ms": 4600,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-013",
+   "type": "film",
+   "partie": "Film d'animation, de 02:24.0 à 02:29.2",
+   "horodatage": {
+    "debut_ms": 144000,
+    "fin_ms": 149200
+   },
+   "personnage": "Narrateur",
+   "intonation": "chuchoté",
+   "intonation_statut": "scénario",
+   "texte": "Il n'y a rien à montrer : seulement le vent, une lumière, et le noir.",
+   "genre": "adulte/libre",
+   "duree_ms": 5200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-014",
+   "type": "film",
+   "partie": "Film d'animation, de 02:46.0 à 02:49.4",
+   "horodatage": {
+    "debut_ms": 166000,
+    "fin_ms": 169400
+   },
+   "personnage": "Narrateur",
+   "intonation": "inquiet",
+   "intonation_statut": "scénario",
+   "texte": "Les nuits suivantes, un jeune homme ne dort plus.",
+   "genre": "adulte/libre",
+   "duree_ms": 3400,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-015",
+   "type": "film",
+   "partie": "Film d'animation, de 02:57.0 à 03:02.1",
+   "horodatage": {
+    "debut_ms": 177000,
+    "fin_ms": 182100
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "C'est lui qui a pris le mil. La peur et le remords le rongent.",
+   "genre": "adulte/libre",
+   "duree_ms": 5100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-016",
+   "type": "film",
+   "partie": "Film d'animation, de 03:08.0 à 03:14.7",
+   "horodatage": {
+    "debut_ms": 188000,
+    "fin_ms": 194700
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Une nuit, il rapporte le sac, et il le dépose au pied du grenier. Mais Ebéyé est là.",
+   "genre": "adulte/libre",
+   "duree_ms": 6700,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-017",
+   "type": "film",
+   "partie": "Film d'animation, de 03:18.0 à 03:21.4",
+   "horodatage": {
+    "debut_ms": 198000,
+    "fin_ms": 201400
+   },
+   "personnage": "VOLEUR",
+   "intonation": "honteux",
+   "intonation_statut": "scénario",
+   "texte": "C'est moi. Pardonne-moi, je n'en peux plus.",
+   "genre": "adulte/homme",
+   "duree_ms": 3400,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-018",
+   "type": "film",
+   "partie": "Film d'animation, de 03:27.5 à 03:30.6",
+   "horodatage": {
+    "debut_ms": 207500,
+    "fin_ms": 210600
+   },
+   "personnage": "VOLEUR",
+   "intonation": "honteux, à voix haute",
+   "intonation_statut": "scénario",
+   "texte": "C'est moi qui ai volé. Pas le berger.",
+   "genre": "adulte/homme",
+   "duree_ms": 3100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-019",
+   "type": "film",
+   "partie": "Film d'animation, de 03:36.0 à 03:39.6",
+   "horodatage": {
+    "debut_ms": 216000,
+    "fin_ms": 219600
+   },
+   "personnage": "ANCIEN",
+   "intonation": "sévère puis doux",
+   "intonation_statut": "scénario",
+   "texte": "Tu l'as dit toi-même. C'est bien.",
+   "genre": "âgé/libre",
+   "duree_ms": 3600,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-020",
+   "type": "film",
+   "partie": "Film d'animation, de 03:41.0 à 03:45.3",
+   "horodatage": {
+    "debut_ms": 221000,
+    "fin_ms": 225300
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "On présente des excuses au berger, qui reprend sa route.",
+   "genre": "adulte/libre",
+   "duree_ms": 4300,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-021",
+   "type": "film",
+   "partie": "Film d'animation, de 03:52.0 à 03:55.2",
+   "horodatage": {
+    "debut_ms": 232000,
+    "fin_ms": 235200
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Et le voleur travaillera le champ de la veuve.",
+   "genre": "adulte/libre",
+   "duree_ms": 3200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-022",
+   "type": "film",
+   "partie": "Film d'animation, de 04:06.0 à 04:11.9",
+   "horodatage": {
+    "debut_ms": 246000,
+    "fin_ms": 251900
+   },
+   "personnage": "Narrateur",
+   "intonation": "doux",
+   "intonation_statut": "scénario",
+   "texte": "Le vur veille, dit-on. La vérité finit toujours par se savoir.",
+   "genre": "adulte/libre",
+   "duree_ms": 5900,
+   "duree_statut": "mesurée sur le film"
+  }
+ ]
+}

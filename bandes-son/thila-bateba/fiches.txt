@@ -1,0 +1,372 @@
+# Les thila et les bateba : fiches des bandes-son
+# Généré par « npm run bandes-son » depuis pistes.json. Modifier pistes.json, pas ce fichier.
+
+piste: n1
+histoire: Les thila et les bateba
+partie: La soukala de Kambiré (jeu)
+personnage: Le griot
+fichier: thila-bateba-n1-<langue>.m4a
+intonation: posé (proposée)
+texte: Voici la soukala de Kambiré, une maison-forteresse aux murs épais. Mais un jour, son enfant tombe malade. Puis un serpent se glisse dans le grenier.
+genre: adulte/homme
+duree: 10700ms (estimée)
+
+piste: n2
+histoire: Les thila et les bateba
+partie: La soukala de Kambiré (jeu)
+personnage: Le griot
+fichier: thila-bateba-n2-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Le malheur est entré dans la maison. Que fait Kambiré ?
+genre: adulte/homme
+duree: 4780ms (estimée)
+
+piste: murs
+histoire: Les thila et les bateba
+partie: La soukala de Kambiré (jeu)
+personnage: Le griot
+fichier: thila-bateba-murs-<langue>.m4a
+intonation: posé (proposée)
+texte: Il monte les murs d'une rangée de terre. L'enfant ne guérit pas, et le serpent ne part pas.
+genre: adulte/homme
+duree: 7590ms (estimée)
+
+piste: n3
+histoire: Les thila et les bateba
+partie: La soukala de Kambiré (jeu)
+personnage: Le griot
+fichier: thila-bateba-n3-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Les murs ne suffisent pas. Va-t-il chercher plus loin ?
+genre: adulte/homme
+duree: 4400ms (estimée)
+
+piste: finmurs
+histoire: Les thila et les bateba
+partie: La soukala de Kambiré (jeu)
+personnage: Le griot
+fichier: thila-bateba-finmurs-<langue>.m4a
+intonation: posé (proposée)
+texte: Une maison se garde par ce qu'on y honore autant que par ses murs. Kambiré, lui, ne l'a pas appris cette saison-là.
+genre: adulte/homme
+duree: 9260ms (estimée)
+
+piste: devin
+histoire: Les thila et les bateba
+partie: La soukala de Kambiré (jeu)
+personnage: Kambiré
+fichier: thila-bateba-devin-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Mon enfant souffre. Qui nous en veut ?
+genre: adulte/homme
+duree: 3640ms (estimée)
+
+piste: n4
+histoire: Les thila et les bateba
+partie: La soukala de Kambiré (jeu)
+personnage: La devineresse
+fichier: thila-bateba-n4-<langue>.m4a
+intonation: doux (proposée)
+texte: Voyons cela.
+genre: âgée/femme
+duree: 1060ms (estimée)
+
+piste: n6
+histoire: Les thila et les bateba
+partie: La soukala de Kambiré (jeu)
+personnage: La devineresse
+fichier: thila-bateba-n6-<langue>.m4a
+intonation: doux (proposée)
+texte: Ce sont les thila, les esprits. Ils attendent quelque chose de toi.
+genre: âgée/femme
+duree: 5310ms (estimée)
+
+piste: n7
+histoire: Les thila et les bateba
+partie: La parole du devin (jeu)
+personnage: Un thila
+fichier: thila-bateba-n7-<langue>.m4a
+intonation: mystérieux (proposée)
+texte: Sculpte une statue de bois. Pose-la chez toi. Elle veillera.
+genre: voix d'esprit/libre
+duree: 4700ms (estimée)
+
+piste: n8
+histoire: Les thila et les bateba
+partie: La parole du devin (jeu)
+personnage: Le griot
+fichier: thila-bateba-n8-<langue>.m4a
+intonation: chuchoté (proposée)
+texte: Au réveil, Kambiré sait ce qu'il a à faire. Il choisit un tronc et se met à tailler, sans parler. Une statue, puis une seconde : les bateba. Regarde sa maison.
+genre: adulte/homme
+duree: 13580ms (estimée)
+
+piste: n9
+histoire: Les thila et les bateba
+partie: La parole du devin (jeu)
+personnage: Le griot
+fichier: thila-bateba-n9-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Il les pose sur l'autel, à l'entrée, avec une offrande. Comment la famille les reçoit-elle ?
+genre: adulte/homme
+duree: 6980ms (estimée)
+
+piste: muet
+histoire: Les thila et les bateba
+partie: La parole du devin (jeu)
+personnage: Le griot
+fichier: thila-bateba-muet-<langue>.m4a
+intonation: chuchoté (proposée)
+texte: Kambiré se reprend : on ne pose pas un gardien sans le saluer. Toute la famille revient le faire.
+genre: adulte/homme
+duree: 7970ms (estimée)
+
+piste: salue
+histoire: Les thila et les bateba
+partie: La nuit du serpent (jeu)
+personnage: Le griot
+fichier: thila-bateba-salue-<langue>.m4a
+intonation: grave (proposée)
+texte: La nuit suivante, le serpent revient. Il s'approche de l'autel, et les bateba s'éveillent. Une lueur les entoure. Le serpent recule, et s'en va.
+genre: adulte/homme
+duree: 10770ms (estimée)
+
+piste: n10
+histoire: Les thila et les bateba
+partie: Le matin (jeu)
+personnage: Le griot
+fichier: thila-bateba-n10-<langue>.m4a
+intonation: posé (proposée)
+texte: Au matin, l'enfant joue dans la cour. Depuis, les Lobi disent que les bateba veillent sur la maison.
+genre: adulte/homme
+duree: 7740ms (estimée)
+
+piste: film-001
+histoire: Les thila et les bateba
+partie: Film d'animation, de 00:02.0 à 00:06.3
+personnage: Narrateur
+fichier: thila-bateba-film-001-<langue>.m4a
+intonation: solennel (scénario)
+texte: Les thila et les bateba. Un mythe lobi.
+genre: adulte/libre
+duree: 4300ms (mesurée sur le film)
+
+piste: film-002
+histoire: Les thila et les bateba
+partie: Film d'animation, de 00:08.0 à 00:12.8
+personnage: Narrateur
+fichier: thila-bateba-film-002-<langue>.m4a
+intonation: posé (proposée)
+texte: Voici la soukala de Kambiré, une maison-forteresse aux murs épais.
+genre: adulte/libre
+duree: 4800ms (mesurée sur le film)
+
+piste: film-003
+histoire: Les thila et les bateba
+partie: Film d'animation, de 00:15.0 à 00:19.5
+personnage: Narrateur
+fichier: thila-bateba-film-003-<langue>.m4a
+intonation: posé (proposée)
+texte: Rien ne semble pouvoir l'atteindre. Et pourtant.
+genre: adulte/libre
+duree: 4500ms (mesurée sur le film)
+
+piste: film-004
+histoire: Les thila et les bateba
+partie: Film d'animation, de 00:28.0 à 00:33.7
+personnage: Narrateur
+fichier: thila-bateba-film-004-<langue>.m4a
+intonation: inquiet (scénario)
+texte: Un jour, l'enfant de Kambiré tomba malade. Rien ne le soulageait.
+genre: adulte/libre
+duree: 5700ms (mesurée sur le film)
+
+piste: film-005
+histoire: Les thila et les bateba
+partie: Film d'animation, de 00:47.0 à 00:52.7
+personnage: Narrateur
+fichier: thila-bateba-film-005-<langue>.m4a
+intonation: posé (proposée)
+texte: Puis un serpent se glissa dans le grenier. Le malheur était entré dans la maison.
+genre: adulte/libre
+duree: 5700ms (mesurée sur le film)
+
+piste: film-006
+histoire: Les thila et les bateba
+partie: Film d'animation, de 01:08.0 à 01:11.0
+personnage: Narrateur
+fichier: thila-bateba-film-006-<langue>.m4a
+intonation: posé (proposée)
+texte: Kambiré alla voir la devineresse.
+genre: adulte/libre
+duree: 3000ms (mesurée sur le film)
+
+piste: film-007
+histoire: Les thila et les bateba
+partie: Film d'animation, de 01:12.5 à 01:15.5
+personnage: PERE
+fichier: thila-bateba-film-007-<langue>.m4a
+intonation: inquiet (scénario)
+texte: Mon enfant souffre. Qui nous en veut ?
+genre: adulte/homme
+duree: 3000ms (mesurée sur le film)
+
+piste: film-008
+histoire: Les thila et les bateba
+partie: Film d'animation, de 01:15.5 à 01:17.6
+personnage: DEVINERESSE
+fichier: thila-bateba-film-008-<langue>.m4a
+intonation: lent (scénario)
+texte: Voyons cela.
+genre: âgé/libre
+duree: 2100ms (mesurée sur le film)
+
+piste: film-009
+histoire: Les thila et les bateba
+partie: Film d'animation, de 01:19.0 à 01:23.2
+personnage: Narrateur
+fichier: thila-bateba-film-009-<langue>.m4a
+intonation: posé (proposée)
+texte: Elle jeta les cauris sur le sol, et elle les regarda longtemps.
+genre: adulte/libre
+duree: 4200ms (mesurée sur le film)
+
+piste: film-010
+histoire: Les thila et les bateba
+partie: Film d'animation, de 01:27.0 à 01:32.5
+personnage: DEVINERESSE
+fichier: thila-bateba-film-010-<langue>.m4a
+intonation: grave (scénario)
+texte: Ce sont les thila, les esprits. Ils attendent quelque chose de toi.
+genre: âgé/libre
+duree: 5500ms (mesurée sur le film)
+
+piste: film-011
+histoire: Les thila et les bateba
+partie: Film d'animation, de 01:44.0 à 01:47.3
+personnage: Narrateur
+fichier: thila-bateba-film-011-<langue>.m4a
+intonation: posé (proposée)
+texte: Cette nuit-là, Kambiré fit un rêve.
+genre: adulte/libre
+duree: 3300ms (mesurée sur le film)
+
+piste: film-012
+histoire: Les thila et les bateba
+partie: Film d'animation, de 01:50.0 à 01:54.5
+personnage: Narrateur
+fichier: thila-bateba-film-012-<langue>.m4a
+intonation: mystérieux (scénario)
+texte: Les thila lui apparurent, et lui montrèrent une petite statue de bois.
+genre: adulte/libre
+duree: 4500ms (mesurée sur le film)
+
+piste: film-013
+histoire: Les thila et les bateba
+partie: Film d'animation, de 01:58.0 à 02:03.2
+personnage: THILA
+fichier: thila-bateba-film-013-<langue>.m4a
+intonation: voix profonde (scénario)
+texte: Sculpte-la. Pose-la chez toi. Elle veillera.
+genre: esprit, créature : voix grave/libre
+duree: 5200ms (mesurée sur le film)
+
+piste: film-014
+histoire: Les thila et les bateba
+partie: Film d'animation, de 02:06.0 à 02:09.9
+personnage: Narrateur
+fichier: thila-bateba-film-014-<langue>.m4a
+intonation: posé (proposée)
+texte: Au réveil, Kambiré savait ce qu'il avait à faire.
+genre: adulte/libre
+duree: 3900ms (mesurée sur le film)
+
+piste: film-015
+histoire: Les thila et les bateba
+partie: Film d'animation, de 02:24.0 à 02:27.8
+personnage: Narrateur
+fichier: thila-bateba-film-015-<langue>.m4a
+intonation: posé (proposée)
+texte: Il choisit un tronc et se mit à tailler, sans parler.
+genre: adulte/libre
+duree: 3800ms (mesurée sur le film)
+
+piste: film-016
+histoire: Les thila et les bateba
+partie: Film d'animation, de 02:36.0 à 02:39.0
+personnage: Narrateur
+fichier: thila-bateba-film-016-<langue>.m4a
+intonation: posé (proposée)
+texte: Une statue, puis une seconde.
+genre: adulte/libre
+duree: 3000ms (mesurée sur le film)
+
+piste: film-017
+histoire: Les thila et les bateba
+partie: Film d'animation, de 02:50.0 à 02:53.7
+personnage: Narrateur
+fichier: thila-bateba-film-017-<langue>.m4a
+intonation: posé (proposée)
+texte: Ce sont les bateba : les statuettes gardiennes.
+genre: adulte/libre
+duree: 3700ms (mesurée sur le film)
+
+piste: film-018
+histoire: Les thila et les bateba
+partie: Film d'animation, de 03:04.0 à 03:09.2
+personnage: Narrateur
+fichier: thila-bateba-film-018-<langue>.m4a
+intonation: recueilli (scénario)
+texte: Il les posa sur l'autel, à l'entrée de la maison, avec une offrande.
+genre: adulte/libre
+duree: 5200ms (mesurée sur le film)
+
+piste: film-019
+histoire: Les thila et les bateba
+partie: Film d'animation, de 03:15.0 à 03:19.1
+personnage: Narrateur
+fichier: thila-bateba-film-019-<langue>.m4a
+intonation: posé (proposée)
+texte: La famille les salua, comme on salue des gens de la maison.
+genre: adulte/libre
+duree: 4100ms (mesurée sur le film)
+
+piste: film-020
+histoire: Les thila et les bateba
+partie: Film d'animation, de 03:34.0 à 03:37.4
+personnage: Narrateur
+fichier: thila-bateba-film-020-<langue>.m4a
+intonation: chuchoté (scénario)
+texte: La nuit suivante, le serpent revint.
+genre: adulte/libre
+duree: 3400ms (mesurée sur le film)
+
+piste: film-021
+histoire: Les thila et les bateba
+partie: Film d'animation, de 03:45.0 à 03:51.1
+personnage: Narrateur
+fichier: thila-bateba-film-021-<langue>.m4a
+intonation: mystérieux (scénario)
+texte: Il s'approcha de l'autel, et les bateba s'éveillèrent. Une lueur les entoura.
+genre: adulte/libre
+duree: 6100ms (mesurée sur le film)
+
+piste: film-022
+histoire: Les thila et les bateba
+partie: Film d'animation, de 03:58.0 à 04:01.2
+personnage: Narrateur
+fichier: thila-bateba-film-022-<langue>.m4a
+intonation: posé (proposée)
+texte: Le serpent recula, et s'en alla.
+genre: adulte/libre
+duree: 3200ms (mesurée sur le film)
+
+piste: film-023
+histoire: Les thila et les bateba
+partie: Film d'animation, de 04:14.0 à 04:21.7
+personnage: Narrateur
+fichier: thila-bateba-film-023-<langue>.m4a
+intonation: doux (scénario)
+texte: Au matin, l'enfant jouait dans la cour. Depuis, les Lobi disent que les bateba veillent sur la maison.
+genre: adulte/libre
+duree: 7700ms (mesurée sur le film)

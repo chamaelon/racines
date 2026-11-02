@@ -1,0 +1,1354 @@
+{
+ "id": "yennenga",
+ "titre": "La légende de Yennenga",
+ "peuple": "Mossi",
+ "langues_cibles": [
+  "fr",
+  "mos"
+ ],
+ "pistes": [
+  {
+   "id": "titre",
+   "type": "titre",
+   "chemin": "titre",
+   "texte": "La légende de Yennenga",
+   "langues": {
+    "en": {
+     "texte": "The Legend of Yennenga",
+     "relecture": "traduction de travail, à relire"
+    }
+   }
+  },
+  {
+   "id": "presentation",
+   "type": "presentation",
+   "chemin": "presentation",
+   "texte": "Un griot te raconte l'histoire de la princesse guerrière de Gambaga. Tes choix changent le récit. Clique sur les objets qui brillent pour découvrir la culture du terroir.",
+   "langues": {
+    "en": {
+     "texte": "A griot tells you the story of the warrior princess of Gambaga. Your choices change the tale. Click the glowing objects to discover the culture of the land.",
+     "relecture": "traduction de travail, à relire"
+    }
+   }
+  },
+  {
+   "id": "personnages.griot.nom",
+   "type": "personnage",
+   "chemin": "personnages.griot.nom",
+   "texte": "Le griot",
+   "langues": {
+    "en": {
+     "texte": "The griot",
+     "relecture": "traduction de travail, à relire"
+    }
+   }
+  },
+  {
+   "id": "personnages.nedega.nom",
+   "type": "personnage",
+   "chemin": "personnages.nedega.nom",
+   "texte": "Naaba Nédega",
+   "langues": {
+    "en": {
+     "texte": "Naaba Nedega",
+     "relecture": "traduction de travail, à relire"
+    }
+   }
+  },
+  {
+   "id": "personnages.yennenga.nom",
+   "type": "personnage",
+   "chemin": "personnages.yennenga.nom",
+   "texte": "Yennenga",
+   "langues": {
+    "en": {
+     "texte": "Yennenga",
+     "relecture": "traduction de travail, à relire"
+    }
+   }
+  },
+  {
+   "id": "personnages.riale.nom",
+   "type": "personnage",
+   "chemin": "personnages.riale.nom",
+   "texte": "Rialé",
+   "langues": {
+    "en": {
+     "texte": "Riale",
+     "relecture": "traduction de travail, à relire"
+    }
+   }
+  },
+  {
+   "id": "personnages.enfant.nom",
+   "type": "personnage",
+   "chemin": "personnages.enfant.nom",
+   "texte": "Ouédraogo",
+   "langues": {
+    "en": {
+     "texte": "Ouedraogo",
+     "relecture": "traduction de travail, à relire"
+    }
+   }
+  },
+  {
+   "id": "fins.principale",
+   "type": "fin",
+   "chemin": "fins.principale",
+   "texte": "La vraie fin : Ouédraogo, l'ancêtre des Mossi",
+   "langues": {
+    "en": {
+     "texte": "The true ending: Ouedraogo, ancestor of the Mossi",
+     "relecture": "traduction de travail, à relire"
+    }
+   }
+  },
+  {
+   "id": "fins.alternative",
+   "type": "fin",
+   "chemin": "fins.alternative",
+   "texte": "La fin qu'on raconte tard la nuit : Yennenga reste à Gambaga",
+   "langues": {
+    "en": {
+     "texte": "The ending told late at night: Yennenga stays in Gambaga",
+     "relecture": "traduction de travail, à relire"
+    }
+   }
+  },
+  {
+   "id": "intro",
+   "type": "replique",
+   "chemin": "nodes.intro.text",
+   "noeud": "intro",
+   "partie": "La cour du roi Nedega (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Approche, enfant, et tends l'oreille. Ce que je vais te dire, mon père me l'a dit, et son père le lui avait dit avant lui.",
+   "genre": "adulte/homme",
+   "duree_ms": 10700,
+   "duree_statut": "estimée",
+   "langues": {
+    "en": {
+     "texte": "Come closer, child, and listen well. What I am about to tell you, my father told me, and his father told him before that.",
+     "relecture": "traduction de travail, à relire",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "intro2",
+   "type": "replique",
+   "chemin": "nodes.intro2.text",
+   "noeud": "intro2",
+   "partie": "La cour du roi Nedega (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Il y a bien longtemps, à Gambaga, au royaume dagomba, régnait le Naaba Nédega. Sa fille Yennenga montait à cheval mieux que tous ses guerriers.",
+   "genre": "adulte/homme",
+   "duree_ms": 10550,
+   "duree_statut": "estimée",
+   "langues": {
+    "en": {
+     "texte": "Long ago, in Gambaga, in the Dagomba kingdom, reigned Naaba Nedega. His daughter Yennenga rode better than any of his warriors.",
+     "relecture": "traduction de travail, à relire",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "explore1",
+   "type": "replique",
+   "chemin": "nodes.explore1.text",
+   "noeud": "explore1",
+   "partie": "La cour du roi Nedega (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Regarde autour de toi. Clique sur les objets qui brillent pour les découvrir.",
+   "genre": "adulte/homme",
+   "duree_ms": 5540,
+   "duree_statut": "estimée",
+   "langues": {
+    "en": {
+     "texte": "Look around you. Click the glowing objects to discover them.",
+     "relecture": "traduction de travail, à relire",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "nedega1",
+   "type": "replique",
+   "chemin": "nodes.nedega1.text",
+   "noeud": "nedega1",
+   "partie": "La cour du roi Nedega (jeu)",
+   "personnage": "Naaba Nédega",
+   "intonation": "vif",
+   "intonation_statut": "proposée",
+   "texte": "Yennenga ! Encore une victoire. Sans toi, nos ennemis seraient déjà à nos portes.",
+   "genre": "adulte/homme",
+   "duree_ms": 6370,
+   "duree_statut": "estimée",
+   "langues": {
+    "en": {
+     "texte": "Yennenga! Another victory. Without you, our enemies would already be at our gates.",
+     "relecture": "traduction de travail, à relire",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "yen1",
+   "type": "replique",
+   "chemin": "nodes.yen1.text",
+   "noeud": "yen1",
+   "partie": "La cour du roi Nedega (jeu)",
+   "personnage": "Yennenga",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Père, je combats pour toi depuis l'enfance. Aujourd'hui, je voudrais un mari et un foyer.",
+   "genre": "adulte/femme",
+   "duree_ms": 6600,
+   "duree_statut": "estimée",
+   "langues": {
+    "en": {
+     "texte": "Father, I have fought for you since I was a child. Today I would like a husband and a home.",
+     "relecture": "traduction de travail, à relire",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "nedega2",
+   "type": "replique",
+   "chemin": "nodes.nedega2.text",
+   "noeud": "nedega2",
+   "partie": "La cour du roi Nedega (jeu)",
+   "personnage": "Naaba Nédega",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Un mari ? Jamais. Ma meilleure guerrière reste auprès de moi.",
+   "genre": "adulte/homme",
+   "duree_ms": 5080,
+   "duree_statut": "estimée",
+   "langues": {
+    "en": {
+     "texte": "A husband? Never. My best warrior stays by my side.",
+     "relecture": "traduction de travail, à relire",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "choix1",
+   "type": "replique",
+   "chemin": "nodes.choix1.text",
+   "noeud": "choix1",
+   "partie": "La cour du roi Nedega (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Que doit faire Yennenga ?",
+   "genre": "adulte/homme",
+   "duree_ms": 2200,
+   "duree_statut": "estimée",
+   "langues": {
+    "en": {
+     "texte": "What should Yennenga do?",
+     "relecture": "traduction de travail, à relire",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "nodes.choix1.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.choix1.choices.0.label",
+   "texte": "Semer un champ de gombo et le laisser se flétrir",
+   "langues": {
+    "en": {
+     "texte": "Sow a field of okra and let it wither",
+     "relecture": "traduction de travail, à relire"
+    }
+   }
+  },
+  {
+   "id": "nodes.choix1.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.choix1.choices.0.tag",
+   "texte": "champ de gombo",
+   "langues": {
+    "en": {
+     "texte": "okra field",
+     "relecture": "traduction de travail, à relire"
+    }
+   }
+  },
+  {
+   "id": "nodes.choix1.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.choix1.choices.1.label",
+   "texte": "Se taire et repartir au combat",
+   "langues": {
+    "en": {
+     "texte": "Say nothing and go back to battle",
+     "relecture": "traduction de travail, à relire"
+    }
+   }
+  },
+  {
+   "id": "nodes.choix1.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.choix1.choices.1.tag",
+   "texte": "silence",
+   "langues": {
+    "en": {
+     "texte": "silence",
+     "relecture": "traduction de travail, à relire"
+    }
+   }
+  },
+  {
+   "id": "gombo",
+   "type": "replique",
+   "chemin": "nodes.gombo.text",
+   "noeud": "gombo",
+   "partie": "La cour du roi Nedega (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Yennenga sème un champ de gombo. Quand les fruits mûrissent, elle ne les récolte pas : ils sèchent sur pied.",
+   "genre": "adulte/homme",
+   "duree_ms": 8500,
+   "duree_statut": "estimée",
+   "langues": {
+    "en": {
+     "texte": "Yennenga sows a field of okra. When the pods ripen she does not pick them: they dry on the stalk.",
+     "relecture": "traduction de travail, à relire",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "gombo2",
+   "type": "replique",
+   "chemin": "nodes.gombo2.text",
+   "noeud": "gombo2",
+   "partie": "La cour du roi Nedega (jeu)",
+   "personnage": "Naaba Nédega",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Pourquoi laisses-tu pourrir ce champ, ma fille ?",
+   "genre": "adulte/homme",
+   "duree_ms": 3490,
+   "duree_statut": "estimée",
+   "langues": {
+    "en": {
+     "texte": "Why do you let this field rot, my daughter?",
+     "relecture": "traduction de travail, à relire",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "gombo3",
+   "type": "replique",
+   "chemin": "nodes.gombo3.text",
+   "noeud": "gombo3",
+   "partie": "La cour du roi Nedega (jeu)",
+   "personnage": "Yennenga",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Comme ces gombos, père, je me flétris sans avoir donné de fruits.",
+   "genre": "adulte/femme",
+   "duree_ms": 5160,
+   "duree_statut": "estimée",
+   "langues": {
+    "en": {
+     "texte": "Like this okra, father, I am withering without having borne fruit.",
+     "relecture": "traduction de travail, à relire",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "silence",
+   "type": "replique",
+   "chemin": "nodes.silence.text",
+   "noeud": "silence",
+   "partie": "La cour du roi Nedega (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Yennenga se tait. Les saisons passent, les batailles aussi, mais son cœur reste lourd.",
+   "genre": "adulte/homme",
+   "duree_ms": 6220,
+   "duree_statut": "estimée",
+   "langues": {
+    "en": {
+     "texte": "Yennenga says nothing. The seasons pass, and the battles too, but her heart stays heavy.",
+     "relecture": "traduction de travail, à relire",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "refusA",
+   "type": "replique",
+   "chemin": "nodes.refusA.text",
+   "noeud": "refusA",
+   "partie": "La cour du roi Nedega (jeu)",
+   "personnage": "Naaba Nédega",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "J'ai compris ton message, ma fille. Mais ma réponse ne change pas.",
+   "genre": "adulte/homme",
+   "duree_ms": 5310,
+   "duree_statut": "estimée",
+   "langues": {
+    "en": {
+     "texte": "I understand your message, my daughter. But my answer does not change.",
+     "relecture": "traduction de travail, à relire",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "refusB",
+   "type": "replique",
+   "chemin": "nodes.refusB.text",
+   "noeud": "refusB",
+   "partie": "La cour du roi Nedega (jeu)",
+   "personnage": "Naaba Nédega",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Tu sembles triste, ma fille. Mais la guerre a besoin de toi.",
+   "genre": "adulte/homme",
+   "duree_ms": 5310,
+   "duree_statut": "estimée",
+   "langues": {
+    "en": {
+     "texte": "You seem sad, my daughter. But the war needs you.",
+     "relecture": "traduction de travail, à relire",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "nuit1",
+   "type": "replique",
+   "chemin": "nodes.nuit1.text",
+   "noeud": "nuit1",
+   "partie": "La nuit de la décision (jeu)",
+   "personnage": "Le griot",
+   "intonation": "grave",
+   "intonation_statut": "proposée",
+   "texte": "Cette nuit-là, Yennenga ne dort pas. Son étalon piaffe dans l'enclos.",
+   "genre": "adulte/homme",
+   "duree_ms": 4930,
+   "duree_statut": "estimée",
+   "langues": {
+    "en": {
+     "texte": "That night, Yennenga does not sleep. Her stallion paws the ground in its pen.",
+     "relecture": "traduction de travail, à relire",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "choix2",
+   "type": "replique",
+   "chemin": "nodes.choix2.text",
+   "noeud": "choix2",
+   "partie": "La nuit de la décision (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Partir ou rester ?",
+   "genre": "adulte/homme",
+   "duree_ms": 1820,
+   "duree_statut": "estimée",
+   "langues": {
+    "en": {
+     "texte": "Leave or stay?",
+     "relecture": "traduction de travail, à relire",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "nodes.choix2.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.choix2.choices.0.label",
+   "texte": "Fuir sur son étalon, déguisée en homme",
+   "langues": {
+    "en": {
+     "texte": "Flee on her stallion, disguised as a man",
+     "relecture": "traduction de travail, à relire"
+    }
+   }
+  },
+  {
+   "id": "nodes.choix2.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.choix2.choices.0.tag",
+   "texte": "fuite",
+   "langues": {
+    "en": {
+     "texte": "escape",
+     "relecture": "traduction de travail, à relire"
+    }
+   }
+  },
+  {
+   "id": "nodes.choix2.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.choix2.choices.1.label",
+   "texte": "Rester, par loyauté envers son père",
+   "langues": {
+    "en": {
+     "texte": "Stay, out of loyalty to her father",
+     "relecture": "traduction de travail, à relire"
+    }
+   }
+  },
+  {
+   "id": "nodes.choix2.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.choix2.choices.1.tag",
+   "texte": "reste",
+   "langues": {
+    "en": {
+     "texte": "stays",
+     "relecture": "traduction de travail, à relire"
+    }
+   }
+  },
+  {
+   "id": "rester",
+   "type": "replique",
+   "chemin": "nodes.rester.text",
+   "noeud": "rester",
+   "partie": "La nuit de la décision (jeu)",
+   "personnage": "Le griot",
+   "intonation": "grave",
+   "intonation_statut": "proposée",
+   "texte": "Yennenga reste. Elle devient la plus grande guerrière que Gambaga ait connue…",
+   "genre": "adulte/homme",
+   "duree_ms": 5160,
+   "duree_statut": "estimée",
+   "langues": {
+    "en": {
+     "texte": "Yennenga stays. She becomes the greatest warrior Gambaga has ever known…",
+     "relecture": "traduction de travail, à relire",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "rester2",
+   "type": "replique",
+   "chemin": "nodes.rester2.text",
+   "noeud": "rester2",
+   "partie": "La nuit de la décision (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "…c'est ce que racontent certains, tard dans la nuit. Mais ce n'est pas ainsi que finit la légende. Veux-tu entendre la vraie fin ?",
+   "genre": "adulte/homme",
+   "duree_ms": 10470,
+   "duree_statut": "estimée",
+   "langues": {
+    "en": {
+     "texte": "…or so some say, late at night. But that is not how the legend ends. Do you want to hear the true ending?",
+     "relecture": "traduction de travail, à relire",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "nodes.rester2.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.rester2.choices.0.label",
+   "texte": "Oui, revenir à cette nuit-là",
+   "langues": {
+    "en": {
+     "texte": "Yes, go back to that night",
+     "relecture": "traduction de travail, à relire"
+    }
+   }
+  },
+  {
+   "id": "fuite",
+   "type": "replique",
+   "chemin": "nodes.fuite.text",
+   "noeud": "fuite",
+   "partie": "La fuite vers le nord (jeu)",
+   "personnage": "Le griot",
+   "intonation": "enlevé",
+   "intonation_statut": "proposée",
+   "texte": "Elle saute sur son cheval et file vers le nord. Mais les cavaliers du roi la poursuivent !",
+   "genre": "adulte/homme",
+   "duree_ms": 7440,
+   "duree_statut": "estimée",
+   "langues": {
+    "en": {
+     "texte": "She leaps on her horse and rides north. But the king's horsemen are after her!",
+     "relecture": "traduction de travail, à relire",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "nodes.course.consigne",
+   "type": "jeu",
+   "chemin": "nodes.course.consigne",
+   "texte": "Les cavaliers du roi te poursuivent ! Tape vite sur ESPACE ou sur l'écran pour galoper.",
+   "langues": {
+    "en": {
+     "texte": "The king's horsemen are chasing you! Tap SPACE or the screen quickly to gallop.",
+     "relecture": "traduction de travail, à relire"
+    }
+   }
+  },
+  {
+   "id": "nodes.course.gagne",
+   "type": "jeu",
+   "chemin": "nodes.course.gagne",
+   "texte": "Semés !",
+   "langues": {
+    "en": {
+     "texte": "Shaken off!",
+     "relecture": "traduction de travail, à relire"
+    }
+   }
+  },
+  {
+   "id": "nodes.course.perdu",
+   "type": "jeu",
+   "chemin": "nodes.course.perdu",
+   "texte": "Rattrapée…",
+   "langues": {
+    "en": {
+     "texte": "Caught…",
+     "relecture": "traduction de travail, à relire"
+    }
+   }
+  },
+  {
+   "id": "nodes.course.tags.win",
+   "type": "parcours",
+   "chemin": "nodes.course.tags.win",
+   "texte": "course gagnée",
+   "langues": {
+    "en": {
+     "texte": "race won",
+     "relecture": "traduction de travail, à relire"
+    }
+   }
+  },
+  {
+   "id": "nodes.course.tags.lose",
+   "type": "parcours",
+   "chemin": "nodes.course.tags.lose",
+   "texte": "course perdue",
+   "langues": {
+    "en": {
+     "texte": "race lost",
+     "relecture": "traduction de travail, à relire"
+    }
+   }
+  },
+  {
+   "id": "courseOK",
+   "type": "replique",
+   "chemin": "nodes.courseOK.text",
+   "noeud": "courseOK",
+   "partie": "La fuite vers le nord (jeu)",
+   "personnage": "Le griot",
+   "intonation": "tendu",
+   "intonation_statut": "proposée",
+   "texte": "Son étalon vole au-dessus des herbes. Les cavaliers disparaissent derrière elle.",
+   "genre": "adulte/homme",
+   "duree_ms": 4780,
+   "duree_statut": "estimée",
+   "langues": {
+    "en": {
+     "texte": "Her stallion flies over the grass. The horsemen vanish behind her.",
+     "relecture": "traduction de travail, à relire",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "courseKO",
+   "type": "replique",
+   "chemin": "nodes.courseKO.text",
+   "noeud": "courseKO",
+   "partie": "La fuite vers le nord (jeu)",
+   "personnage": "Le griot",
+   "intonation": "tendu",
+   "intonation_statut": "proposée",
+   "texte": "Les cavaliers la rattrapent presque… quand un orage éclate et efface ses traces. Le ciel a choisi son camp.",
+   "genre": "adulte/homme",
+   "duree_ms": 8120,
+   "duree_statut": "estimée",
+   "langues": {
+    "en": {
+     "texte": "The horsemen nearly catch her… when a storm breaks and wipes out her tracks. The sky has chosen its side.",
+     "relecture": "traduction de travail, à relire",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "foret1",
+   "type": "replique",
+   "chemin": "nodes.foret1.text",
+   "noeud": "foret1",
+   "partie": "La case de Rialé (jeu)",
+   "personnage": "Le griot",
+   "intonation": "mystérieux",
+   "intonation_statut": "proposée",
+   "texte": "Épuisé, l'étalon s'arrête devant une case, au cœur d'une forêt inconnue.",
+   "genre": "adulte/homme",
+   "duree_ms": 4780,
+   "duree_statut": "estimée",
+   "langues": {
+    "en": {
+     "texte": "Exhausted, the stallion stops in front of a hut, deep in an unknown forest.",
+     "relecture": "traduction de travail, à relire",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "riale1",
+   "type": "replique",
+   "chemin": "nodes.riale1.text",
+   "noeud": "riale1",
+   "partie": "La case de Rialé (jeu)",
+   "personnage": "Rialé",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Qui va là ? Un cavalier, seul, dans ma forêt ?",
+   "genre": "adulte/homme",
+   "duree_ms": 5080,
+   "duree_statut": "estimée",
+   "langues": {
+    "en": {
+     "texte": "Who goes there? A rider, alone, in my forest?",
+     "relecture": "traduction de travail, à relire",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "yen2",
+   "type": "replique",
+   "chemin": "nodes.yen2.text",
+   "noeud": "yen2",
+   "partie": "La case de Rialé (jeu)",
+   "personnage": "Yennenga",
+   "intonation": "mystérieux",
+   "intonation_statut": "proposée",
+   "texte": "Je ne suis pas un cavalier. Je suis Yennenga, fille du Naaba Nédega.",
+   "genre": "adulte/femme",
+   "duree_ms": 5690,
+   "duree_statut": "estimée",
+   "langues": {
+    "en": {
+     "texte": "I am no rider. I am Yennenga, daughter of Naaba Nedega.",
+     "relecture": "traduction de travail, à relire",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "riale2",
+   "type": "replique",
+   "chemin": "nodes.riale2.text",
+   "noeud": "riale2",
+   "partie": "La case de Rialé (jeu)",
+   "personnage": "Rialé",
+   "intonation": "mystérieux",
+   "intonation_statut": "proposée",
+   "texte": "Je m'appelle Rialé. Je chasse l'éléphant. Repose-toi : ici, personne ne te trouvera.",
+   "genre": "adulte/homme",
+   "duree_ms": 6140,
+   "duree_statut": "estimée",
+   "langues": {
+    "en": {
+     "texte": "My name is Riale. I hunt elephants. Rest now: no one will find you here.",
+     "relecture": "traduction de travail, à relire",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "explore2",
+   "type": "replique",
+   "chemin": "nodes.explore2.text",
+   "noeud": "explore2",
+   "partie": "La case de Rialé (jeu)",
+   "personnage": "Le griot",
+   "intonation": "mystérieux",
+   "intonation_statut": "proposée",
+   "texte": "Découvre la case du chasseur avant de continuer.",
+   "genre": "adulte/homme",
+   "duree_ms": 3340,
+   "duree_statut": "estimée",
+   "langues": {
+    "en": {
+     "texte": "Discover the hunter's hut before you go on.",
+     "relecture": "traduction de travail, à relire",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "riale3",
+   "type": "replique",
+   "chemin": "nodes.riale3.text",
+   "noeud": "riale3",
+   "partie": "La case de Rialé (jeu)",
+   "personnage": "Rialé",
+   "intonation": "mystérieux",
+   "intonation_statut": "proposée",
+   "texte": "Défier un roi, puis traverser la brousse de nuit… Je n'ai jamais vu un tel courage.",
+   "genre": "adulte/homme",
+   "duree_ms": 6830,
+   "duree_statut": "estimée",
+   "langues": {
+    "en": {
+     "texte": "To defy a king, then cross the bush by night… I have never seen such courage.",
+     "relecture": "traduction de travail, à relire",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "mariage",
+   "type": "replique",
+   "chemin": "nodes.mariage.text",
+   "noeud": "mariage",
+   "partie": "La case de Rialé (jeu)",
+   "personnage": "Le griot",
+   "intonation": "mystérieux",
+   "intonation_statut": "proposée",
+   "texte": "Yennenga et Rialé s'aiment et se marient. De leur union naît un fils.",
+   "genre": "adulte/homme",
+   "duree_ms": 5540,
+   "duree_statut": "estimée",
+   "langues": {
+    "en": {
+     "texte": "Yennenga and Riale fall in love and marry. A son is born to them.",
+     "relecture": "traduction de travail, à relire",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "fin1",
+   "type": "replique",
+   "chemin": "nodes.fin1.text",
+   "noeud": "fin1",
+   "partie": "La naissance d'Ouédraogo (jeu)",
+   "personnage": "Yennenga",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Nous l'appellerons Ouédraogo, « l'étalon mâle », en souvenir du cheval qui m'a conduite jusqu'à toi.",
+   "genre": "adulte/femme",
+   "duree_ms": 6680,
+   "duree_statut": "estimée",
+   "langues": {
+    "en": {
+     "texte": "We shall call him Ouedraogo, \"the stallion\", in memory of the horse that brought me to you.",
+     "relecture": "traduction de travail, à relire",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "explore3",
+   "type": "replique",
+   "chemin": "nodes.explore3.text",
+   "noeud": "explore3",
+   "partie": "La naissance d'Ouédraogo (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Regarde le village qui grandit autour d'eux.",
+   "genre": "adulte/homme",
+   "duree_ms": 2960,
+   "duree_statut": "estimée",
+   "langues": {
+    "en": {
+     "texte": "Look at the village growing around them.",
+     "relecture": "traduction de travail, à relire",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "fin2",
+   "type": "replique",
+   "chemin": "nodes.fin2.text",
+   "noeud": "fin2",
+   "partie": "La naissance d'Ouédraogo (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Ouédraogo deviendra l'ancêtre des Mossi. Et aujourd'hui encore, à Ouagadougou, le grand prix du FESPACO s'appelle l'Étalon d'or de Yennenga.",
+   "genre": "adulte/homme",
+   "duree_ms": 8500,
+   "duree_statut": "estimée",
+   "langues": {
+    "en": {
+     "texte": "Ouedraogo will become the ancestor of the Mossi. And to this day, in Ouagadougou, the grand prize of FESPACO is called the Golden Stallion of Yennenga.",
+     "relecture": "traduction de travail, à relire",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "fin3",
+   "type": "replique",
+   "chemin": "nodes.fin3.text",
+   "noeud": "fin3",
+   "partie": "La naissance d'Ouédraogo (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Mon conte s'arrête ici. Celui qui l'a entendu doit le raconter à son tour.",
+   "genre": "adulte/homme",
+   "duree_ms": 5920,
+   "duree_statut": "estimée",
+   "langues": {
+    "en": {
+     "texte": "My tale ends here. Whoever has heard it must tell it in turn.",
+     "relecture": "traduction de travail, à relire",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "film-001",
+   "type": "film",
+   "partie": "Film d'animation, de 00:02.0 à 00:07.6",
+   "horodatage": {
+    "debut_ms": 2000,
+    "fin_ms": 7600
+   },
+   "personnage": "Narrateur",
+   "intonation": "solennel",
+   "intonation_statut": "scénario",
+   "texte": "Yennenga, la princesse cavalière. Une légende mossi.",
+   "genre": "adulte/libre",
+   "duree_ms": 5600,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-002",
+   "type": "film",
+   "partie": "Film d'animation, de 00:09.0 à 00:13.4",
+   "horodatage": {
+    "debut_ms": 9000,
+    "fin_ms": 13400
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "À Gambaga, en pays dagomba, régnait le roi Nedega.",
+   "genre": "adulte/libre",
+   "duree_ms": 4400,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-003",
+   "type": "film",
+   "partie": "Film d'animation, de 00:16.0 à 00:21.1",
+   "horodatage": {
+    "debut_ms": 16000,
+    "fin_ms": 21100
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Il était fier de sa fille. Plus fier d'elle que de tous ses guerriers.",
+   "genre": "adulte/libre",
+   "duree_ms": 5100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-004",
+   "type": "film",
+   "partie": "Film d'animation, de 00:29.0 à 00:35.0",
+   "horodatage": {
+    "debut_ms": 29000,
+    "fin_ms": 35000
+   },
+   "personnage": "Narrateur",
+   "intonation": "enlevé",
+   "intonation_statut": "scénario",
+   "texte": "Yennenga menait les cavaliers. Personne ne montait comme elle, et personne ne chargeait comme elle.",
+   "genre": "adulte/libre",
+   "duree_ms": 6000,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-005",
+   "type": "film",
+   "partie": "Film d'animation, de 00:41.0 à 00:44.1",
+   "horodatage": {
+    "debut_ms": 41000,
+    "fin_ms": 44100
+   },
+   "personnage": "Narrateur",
+   "intonation": "fort",
+   "intonation_statut": "scénario",
+   "texte": "Les ennemis la voyaient et prenaient la fuite.",
+   "genre": "adulte/libre",
+   "duree_ms": 3100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-006",
+   "type": "film",
+   "partie": "Film d'animation, de 00:53.0 à 00:57.1",
+   "horodatage": {
+    "debut_ms": 53000,
+    "fin_ms": 57100
+   },
+   "personnage": "Narrateur",
+   "intonation": "joyeux",
+   "intonation_statut": "scénario",
+   "texte": "Chaque fois, elle revenait en triomphe devant son père.",
+   "genre": "adulte/libre",
+   "duree_ms": 4100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-007",
+   "type": "film",
+   "partie": "Film d'animation, de 01:08.5 à 01:12.5",
+   "horodatage": {
+    "debut_ms": 68500,
+    "fin_ms": 72500
+   },
+   "personnage": "YENNENGA",
+   "intonation": "fier et grave",
+   "intonation_statut": "scénario",
+   "texte": "Père, je veux me marier, et avoir des enfants.",
+   "genre": "adulte/femme",
+   "duree_ms": 4000,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-008",
+   "type": "film",
+   "partie": "Film d'animation, de 01:13.5 à 01:17.5",
+   "horodatage": {
+    "debut_ms": 73500,
+    "fin_ms": 77500
+   },
+   "personnage": "ROI",
+   "intonation": "sans appel",
+   "intonation_statut": "scénario",
+   "texte": "Tu es trop précieuse au combat. C'est non.",
+   "genre": "âgé/libre",
+   "duree_ms": 4000,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-009",
+   "type": "film",
+   "partie": "Film d'animation, de 01:20.0 à 01:25.1",
+   "horodatage": {
+    "debut_ms": 80000,
+    "fin_ms": 85100
+   },
+   "personnage": "Narrateur",
+   "intonation": "triste",
+   "intonation_statut": "scénario",
+   "texte": "Elle insista, encore et encore. Il ne céda jamais.",
+   "genre": "adulte/libre",
+   "duree_ms": 5100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-010",
+   "type": "film",
+   "partie": "Film d'animation, de 01:42.0 à 01:45.8",
+   "horodatage": {
+    "debut_ms": 102000,
+    "fin_ms": 105800
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Alors elle sema un champ d'okra, tout près du palais.",
+   "genre": "adulte/libre",
+   "duree_ms": 3800,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-011",
+   "type": "film",
+   "partie": "Film d'animation, de 01:53.0 à 02:01.9",
+   "horodatage": {
+    "debut_ms": 113000,
+    "fin_ms": 121900
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Le champ mûrit, puis se fana. Elle ne le récolta pas. Le message était clair : on ne laisse pas pourrir ce qui est mûr.",
+   "genre": "adulte/libre",
+   "duree_ms": 8900,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-012",
+   "type": "film",
+   "partie": "Film d'animation, de 02:04.0 à 02:06.9",
+   "horodatage": {
+    "debut_ms": 124000,
+    "fin_ms": 126900
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Mais le roi ne voulut pas comprendre.",
+   "genre": "adulte/libre",
+   "duree_ms": 2900,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-013",
+   "type": "film",
+   "partie": "Film d'animation, de 02:13.0 à 02:18.1",
+   "horodatage": {
+    "debut_ms": 133000,
+    "fin_ms": 138100
+   },
+   "personnage": "Narrateur",
+   "intonation": "chuchoté",
+   "intonation_statut": "scénario",
+   "texte": "Une nuit, Yennenga sella son étalon blanc, et elle quitta Gambaga.",
+   "genre": "adulte/libre",
+   "duree_ms": 5100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-014",
+   "type": "film",
+   "partie": "Film d'animation, de 02:25.0 à 02:28.2",
+   "horodatage": {
+    "debut_ms": 145000,
+    "fin_ms": 148200
+   },
+   "personnage": "Narrateur",
+   "intonation": "enlevé",
+   "intonation_statut": "scénario",
+   "texte": "Elle galopa sous la lune, sans se retourner.",
+   "genre": "adulte/libre",
+   "duree_ms": 3200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-015",
+   "type": "film",
+   "partie": "Film d'animation, de 02:47.0 à 02:51.8",
+   "horodatage": {
+    "debut_ms": 167000,
+    "fin_ms": 171800
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "L'étalon l'emporta très loin, jusqu'à une forêt qu'elle ne connaissait pas.",
+   "genre": "adulte/libre",
+   "duree_ms": 4800,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-016",
+   "type": "film",
+   "partie": "Film d'animation, de 02:56.0 à 03:01.9",
+   "horodatage": {
+    "debut_ms": 176000,
+    "fin_ms": 181900
+   },
+   "personnage": "Narrateur",
+   "intonation": "chuchoté",
+   "intonation_statut": "scénario",
+   "texte": "Épuisée, elle descendit. Un homme approcha, l'arc tendu.",
+   "genre": "adulte/libre",
+   "duree_ms": 5900,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-017",
+   "type": "film",
+   "partie": "Film d'animation, de 03:06.5 à 03:08.9",
+   "horodatage": {
+    "debut_ms": 186500,
+    "fin_ms": 188900
+   },
+   "personnage": "RIALE",
+   "intonation": "surpris",
+   "intonation_statut": "scénario",
+   "texte": "Qui es-tu ? Que fais-tu ici ?",
+   "genre": "adulte/homme",
+   "duree_ms": 2400,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-018",
+   "type": "film",
+   "partie": "Film d'animation, de 03:09.0 à 03:11.9",
+   "horodatage": {
+    "debut_ms": 189000,
+    "fin_ms": 191900
+   },
+   "personnage": "YENNENGA",
+   "intonation": "digne",
+   "intonation_statut": "scénario",
+   "texte": "Je m'appelle Yennenga. J'ai tout quitté.",
+   "genre": "adulte/femme",
+   "duree_ms": 2900,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-019",
+   "type": "film",
+   "partie": "Film d'animation, de 03:12.0 à 03:14.5",
+   "horodatage": {
+    "debut_ms": 192000,
+    "fin_ms": 194500
+   },
+   "personnage": "RIALE",
+   "intonation": "doux",
+   "intonation_statut": "scénario",
+   "texte": "Reste, ici tu es en paix.",
+   "genre": "adulte/homme",
+   "duree_ms": 2500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-020",
+   "type": "film",
+   "partie": "Film d'animation, de 03:26.0 à 03:32.3",
+   "horodatage": {
+    "debut_ms": 206000,
+    "fin_ms": 212300
+   },
+   "personnage": "Narrateur",
+   "intonation": "tendre",
+   "intonation_statut": "scénario",
+   "texte": "C'était Rialé, un chasseur solitaire. Ils s'aimèrent, et un fils naquit.",
+   "genre": "adulte/libre",
+   "duree_ms": 6300,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-021",
+   "type": "film",
+   "partie": "Film d'animation, de 03:35.0 à 03:38.2",
+   "horodatage": {
+    "debut_ms": 215000,
+    "fin_ms": 218200
+   },
+   "personnage": "RIALE",
+   "intonation": "heureux",
+   "intonation_statut": "scénario",
+   "texte": "Il s'appellera Ouédraogo : l'étalon.",
+   "genre": "adulte/homme",
+   "duree_ms": 3200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-022",
+   "type": "film",
+   "partie": "Film d'animation, de 03:42.0 à 03:47.1",
+   "horodatage": {
+    "debut_ms": 222000,
+    "fin_ms": 227100
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Ainsi, l'enfant porta le nom du cheval qui avait conduit sa mère jusque-là.",
+   "genre": "adulte/libre",
+   "duree_ms": 5100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-023",
+   "type": "film",
+   "partie": "Film d'animation, de 04:03.0 à 04:08.8",
+   "horodatage": {
+    "debut_ms": 243000,
+    "fin_ms": 248800
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Les années passèrent. Yennenga revint enfin à Gambaga avec son fils.",
+   "genre": "adulte/libre",
+   "duree_ms": 5800,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-024",
+   "type": "film",
+   "partie": "Film d'animation, de 04:14.0 à 04:20.0",
+   "horodatage": {
+    "debut_ms": 254000,
+    "fin_ms": 260000
+   },
+   "personnage": "Narrateur",
+   "intonation": "ému",
+   "intonation_statut": "scénario",
+   "texte": "Le vieux roi la reconnut. Il lui pardonna, et il accueillit son petit-fils.",
+   "genre": "adulte/libre",
+   "duree_ms": 6000,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-025",
+   "type": "film",
+   "partie": "Film d'animation, de 04:25.0 à 04:28.5",
+   "horodatage": {
+    "debut_ms": 265000,
+    "fin_ms": 268500
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Il donna à Ouédraogo des chevaux et des guerriers.",
+   "genre": "adulte/libre",
+   "duree_ms": 3500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-026",
+   "type": "film",
+   "partie": "Film d'animation, de 04:30.0 à 04:34.7",
+   "horodatage": {
+    "debut_ms": 270000,
+    "fin_ms": 274700
+   },
+   "personnage": "Narrateur",
+   "intonation": "solennel",
+   "intonation_statut": "scénario",
+   "texte": "Ainsi commença l'histoire d'Ouédraogo, l'ancêtre des Mossi.",
+   "genre": "adulte/libre",
+   "duree_ms": 4700,
+   "duree_statut": "mesurée sur le film"
+  }
+ ]
+}

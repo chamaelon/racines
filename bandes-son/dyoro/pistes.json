@@ -1,0 +1,619 @@
+{
+ "id": "dyoro",
+ "titre": "Le Dyoro, la traversée",
+ "peuple": "Lobi",
+ "langues_cibles": [
+  "fr",
+  "lob"
+ ],
+ "pistes": [
+  {
+   "id": "titre",
+   "type": "titre",
+   "chemin": "titre",
+   "texte": "Le Dyoro, la traversée"
+  },
+  {
+   "id": "presentation",
+   "type": "presentation",
+   "chemin": "presentation",
+   "texte": "Les ancêtres lobi ont traversé la Volta noire pour vivre. Tu marches avec eux. Le jeu raconte le passage de la légende et rien de l'initiation : ce qui s'y passe reste secret."
+  },
+  {
+   "id": "personnages.griot.nom",
+   "type": "personnage",
+   "chemin": "personnages.griot.nom",
+   "texte": "Le griot"
+  },
+  {
+   "id": "personnages.doyen.nom",
+   "type": "personnage",
+   "chemin": "personnages.doyen.nom",
+   "texte": "Le doyen"
+  },
+  {
+   "id": "personnages.enfant.nom",
+   "type": "personnage",
+   "chemin": "personnages.enfant.nom",
+   "texte": "L'enfant"
+  },
+  {
+   "id": "personnages.ancien.nom",
+   "type": "personnage",
+   "chemin": "personnages.ancien.nom",
+   "texte": "L'ancien"
+  },
+  {
+   "id": "fins.canon",
+   "type": "fin",
+   "chemin": "fins.canon",
+   "texte": "Version du griot : le fleuve se souvient"
+  },
+  {
+   "id": "fins.rive",
+   "type": "fin",
+   "chemin": "fins.rive",
+   "texte": "Autre chemin : on reste sur la rive"
+  },
+  {
+   "id": "fins.secret",
+   "type": "fin",
+   "chemin": "fins.secret",
+   "texte": "Le secret gardé : tu as choisi de ne pas demander"
+  },
+  {
+   "id": "n1",
+   "type": "replique",
+   "chemin": "nodes.n1.text",
+   "noeud": "n1",
+   "partie": "La rive est (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Autrefois, sur la rive est de la Volta noire, la terre ne nourrissait plus personne. Le doyen rassemble les siens.",
+   "genre": "adulte/homme",
+   "duree_ms": 8500,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n2",
+   "type": "replique",
+   "chemin": "nodes.n2.text",
+   "noeud": "n2",
+   "partie": "La rive est (jeu)",
+   "personnage": "Le doyen",
+   "intonation": "grave",
+   "intonation_statut": "proposée",
+   "texte": "Il faut partir. Prenez ce qui compte.",
+   "genre": "âgé/homme",
+   "duree_ms": 3260,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n3",
+   "type": "replique",
+   "chemin": "nodes.n3.text",
+   "noeud": "n3",
+   "partie": "La traversée (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Ils arrivent sur la rive. L'eau est haute, et les crocodiles guettent. Personne n'ose avancer. Que fait le doyen ?",
+   "genre": "adulte/homme",
+   "duree_ms": 8950,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n3.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.n3.choices.0.label",
+   "texte": "Il s'approche seul, et il parle au fleuve"
+  },
+  {
+   "id": "nodes.n3.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.n3.choices.0.tag",
+   "texte": "parole au fleuve"
+  },
+  {
+   "id": "nodes.n3.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.n3.choices.1.label",
+   "texte": "Il fait construire des radeaux en silence"
+  },
+  {
+   "id": "nodes.n3.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.n3.choices.1.tag",
+   "texte": "radeaux"
+  },
+  {
+   "id": "radeaux",
+   "type": "replique",
+   "chemin": "nodes.radeaux.text",
+   "noeud": "radeaux",
+   "partie": "La traversée (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Le premier radeau tourne, et revient à la rive. Le deuxième aussi. Le fleuve ne se laisse pas prendre ainsi. Que décide le doyen ?",
+   "genre": "adulte/homme",
+   "duree_ms": 10850,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.radeaux.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.radeaux.choices.0.label",
+   "texte": "Il va parler au fleuve"
+  },
+  {
+   "id": "nodes.radeaux.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.radeaux.choices.0.tag",
+   "texte": "parole au fleuve"
+  },
+  {
+   "id": "nodes.radeaux.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.radeaux.choices.1.label",
+   "texte": "Il reste ici, sur la mauvaise terre"
+  },
+  {
+   "id": "nodes.radeaux.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.radeaux.choices.1.tag",
+   "texte": "retour"
+  },
+  {
+   "id": "rive",
+   "type": "replique",
+   "chemin": "nodes.rive.text",
+   "noeud": "rive",
+   "partie": "La traversée (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Ils restent, et la faim reste avec eux. Cette fin n'existe que dans le jeu : les Lobi, eux, racontent le passage.",
+   "genre": "adulte/homme",
+   "duree_ms": 9560,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "parle",
+   "type": "replique",
+   "chemin": "nodes.parle.text",
+   "noeud": "parle",
+   "partie": "La traversée (jeu)",
+   "personnage": "Le doyen",
+   "intonation": "grave",
+   "intonation_statut": "proposée",
+   "texte": "Fleuve, laisse passer tes enfants. Nous viendrons te saluer, nous et ceux qui naîtront.",
+   "genre": "âgé/homme",
+   "duree_ms": 6220,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n4",
+   "type": "replique",
+   "chemin": "nodes.n4.text",
+   "noeud": "n4",
+   "partie": "La traversée (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "La lumière se pose sur l'eau, et les vagues se calment. Ils entrent dans le fleuve main dans la main. Marche à leur rythme, sans rompre la file.",
+   "genre": "adulte/homme",
+   "duree_ms": 11840,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n5.consigne",
+   "type": "jeu",
+   "chemin": "nodes.n5.consigne",
+   "texte": "Reproduis le pas de la file pour traverser sans lâcher les mains."
+  },
+  {
+   "id": "nodes.n5.gagne",
+   "type": "jeu",
+   "chemin": "nodes.n5.gagne",
+   "texte": "La file tient, et l'enfant passe sur les épaules des hommes."
+  },
+  {
+   "id": "nodes.n5.perdu",
+   "type": "jeu",
+   "chemin": "nodes.n5.perdu",
+   "texte": "La file vacille, on se rattrape, et l'enfant passe sur les épaules des hommes."
+  },
+  {
+   "id": "nodes.n5.tags.win",
+   "type": "parcours",
+   "chemin": "nodes.n5.tags.win",
+   "texte": "rythme tenu"
+  },
+  {
+   "id": "nodes.n5.tags.lose",
+   "type": "parcours",
+   "chemin": "nodes.n5.tags.lose",
+   "texte": "rythme perdu"
+  },
+  {
+   "id": "n6",
+   "type": "replique",
+   "chemin": "nodes.n6.text",
+   "noeud": "n6",
+   "partie": "La traversée (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Les crocodiles les regardent passer, sans attaquer. Sur la rive ouest, ils touchent une terre nouvelle, et ils remercient le fleuve.",
+   "genre": "adulte/homme",
+   "duree_ms": 9030,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n7",
+   "type": "replique",
+   "chemin": "nodes.n7.text",
+   "noeud": "n7",
+   "partie": "Bien des générations plus tard (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Bien des générations plus tard, les jeunes refont ce passage : c'est le Dyoro, la grande initiation.",
+   "genre": "adulte/homme",
+   "duree_ms": 7210,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n8",
+   "type": "replique",
+   "chemin": "nodes.n8.text",
+   "noeud": "n8",
+   "partie": "Bien des générations plus tard (jeu)",
+   "personnage": "L'enfant",
+   "intonation": "vif",
+   "intonation_statut": "proposée",
+   "texte": "Et là-bas, qu'est-ce qu'ils font ? Dis-le-moi !",
+   "genre": "enfant/libre",
+   "duree_ms": 3790,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n9",
+   "type": "replique",
+   "chemin": "nodes.n9.text",
+   "noeud": "n9",
+   "partie": "Bien des générations plus tard (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Le récit s'arrête ici, car ce qui s'y passe reste secret. Que réponds-tu à l'enfant ?",
+   "genre": "adulte/homme",
+   "duree_ms": 6830,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n9.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.n9.choices.0.label",
+   "texte": "« Ils partent en silence, et ils reviennent changés. C'est tout ce qu'on sait. »"
+  },
+  {
+   "id": "nodes.n9.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.n9.choices.0.tag",
+   "texte": "récit respecté"
+  },
+  {
+   "id": "nodes.n9.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.n9.choices.1.label",
+   "texte": "« Ça ne se demande pas. Écoutons plutôt les anciens. »"
+  },
+  {
+   "id": "nodes.n9.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.n9.choices.1.tag",
+   "texte": "question laissée"
+  },
+  {
+   "id": "tait",
+   "type": "replique",
+   "chemin": "nodes.tait.text",
+   "noeud": "tait",
+   "partie": "Bien des générations plus tard (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "L'enfant baisse les yeux, puis il sourit. Le soir, il écoute les anciens, sans plus rien demander.",
+   "genre": "adulte/homme",
+   "duree_ms": 7510,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "retour",
+   "type": "replique",
+   "chemin": "nodes.retour.text",
+   "noeud": "retour",
+   "partie": "Bien des générations plus tard (jeu)",
+   "personnage": "L'ancien",
+   "intonation": "grave",
+   "intonation_statut": "proposée",
+   "texte": "Ils ont traversé, comme nous.",
+   "genre": "âgé/homme",
+   "duree_ms": 2350,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n10",
+   "type": "replique",
+   "chemin": "nodes.n10.text",
+   "noeud": "n10",
+   "partie": "Bien des générations plus tard (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Le village les accueille en dansant. Le soir, les anciens s'assoient au bord de l'eau. Le fleuve se souvient.",
+   "genre": "adulte/homme",
+   "duree_ms": 8270,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "film-001",
+   "type": "film",
+   "partie": "Film d'animation, de 00:02.0 à 00:07.0",
+   "horodatage": {
+    "debut_ms": 2000,
+    "fin_ms": 7000
+   },
+   "personnage": "Narrateur",
+   "intonation": "solennel",
+   "intonation_statut": "scénario",
+   "texte": "Le Dyoro, la traversée. Une légende lobi.",
+   "genre": "adulte/libre",
+   "duree_ms": 5000,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-002",
+   "type": "film",
+   "partie": "Film d'animation, de 00:08.0 à 00:15.0",
+   "horodatage": {
+    "debut_ms": 8000,
+    "fin_ms": 15000
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "La Volta noire coule, large et sombre. Pour les Lobi, elle garde la mémoire d'un passage.",
+   "genre": "adulte/libre",
+   "duree_ms": 7000,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-003",
+   "type": "film",
+   "partie": "Film d'animation, de 00:28.0 à 00:32.8",
+   "horodatage": {
+    "debut_ms": 28000,
+    "fin_ms": 32800
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Autrefois, sur la rive est, la terre ne nourrissait plus personne.",
+   "genre": "adulte/libre",
+   "duree_ms": 4800,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-004",
+   "type": "film",
+   "partie": "Film d'animation, de 00:40.0 à 00:46.8",
+   "horodatage": {
+    "debut_ms": 40000,
+    "fin_ms": 46800
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Le doyen rassembla les siens. Il fallait partir, et de l'autre côté il n'y avait que le fleuve.",
+   "genre": "adulte/libre",
+   "duree_ms": 6800,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-005",
+   "type": "film",
+   "partie": "Film d'animation, de 01:04.0 à 01:09.5",
+   "horodatage": {
+    "debut_ms": 64000,
+    "fin_ms": 69500
+   },
+   "personnage": "Narrateur",
+   "intonation": "inquiet",
+   "intonation_statut": "scénario",
+   "texte": "Ils arrivèrent sur la rive. L'eau était haute, et les crocodiles guettaient.",
+   "genre": "adulte/libre",
+   "duree_ms": 5500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-006",
+   "type": "film",
+   "partie": "Film d'animation, de 01:18.0 à 01:23.7",
+   "horodatage": {
+    "debut_ms": 78000,
+    "fin_ms": 83700
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Personne n'osait avancer. Le doyen s'approcha seul, au bord de l'eau.",
+   "genre": "adulte/libre",
+   "duree_ms": 5700,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-007",
+   "type": "film",
+   "partie": "Film d'animation, de 01:29.0 à 01:35.5",
+   "horodatage": {
+    "debut_ms": 89000,
+    "fin_ms": 95500
+   },
+   "personnage": "DOYEN",
+   "intonation": "recueilli, voix forte",
+   "intonation_statut": "scénario",
+   "texte": "Fleuve, laisse passer tes enfants. Nous viendrons te saluer, nous et ceux qui naîtront.",
+   "genre": "âgé/libre",
+   "duree_ms": 6500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-008",
+   "type": "film",
+   "partie": "Film d'animation, de 01:44.0 à 01:48.3",
+   "horodatage": {
+    "debut_ms": 104000,
+    "fin_ms": 108300
+   },
+   "personnage": "Narrateur",
+   "intonation": "mystérieux",
+   "intonation_statut": "scénario",
+   "texte": "Alors la lumière se posa sur l'eau, et les vagues se calmèrent.",
+   "genre": "adulte/libre",
+   "duree_ms": 4300,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-009",
+   "type": "film",
+   "partie": "Film d'animation, de 01:56.0 à 02:01.9",
+   "horodatage": {
+    "debut_ms": 116000,
+    "fin_ms": 121900
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Ils entrèrent dans le fleuve main dans la main. L'enfant passa sur les épaules des hommes.",
+   "genre": "adulte/libre",
+   "duree_ms": 5900,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-010",
+   "type": "film",
+   "partie": "Film d'animation, de 02:10.0 à 02:14.1",
+   "horodatage": {
+    "debut_ms": 130000,
+    "fin_ms": 134100
+   },
+   "personnage": "Narrateur",
+   "intonation": "chuchoté",
+   "intonation_statut": "scénario",
+   "texte": "Les crocodiles les regardèrent passer, sans attaquer.",
+   "genre": "adulte/libre",
+   "duree_ms": 4100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-011",
+   "type": "film",
+   "partie": "Film d'animation, de 02:29.0 à 02:35.0",
+   "horodatage": {
+    "debut_ms": 149000,
+    "fin_ms": 155000
+   },
+   "personnage": "Narrateur",
+   "intonation": "ému",
+   "intonation_statut": "scénario",
+   "texte": "Sur la rive ouest, ils touchèrent une terre nouvelle. Ils remercièrent le fleuve.",
+   "genre": "adulte/libre",
+   "duree_ms": 6000,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-012",
+   "type": "film",
+   "partie": "Film d'animation, de 02:59.0 à 03:06.5",
+   "horodatage": {
+    "debut_ms": 179000,
+    "fin_ms": 186500
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Bien des générations plus tard, les jeunes refont ce passage. C'est le Dyoro, la grande initiation.",
+   "genre": "adulte/libre",
+   "duree_ms": 7500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-013",
+   "type": "film",
+   "partie": "Film d'animation, de 03:14.0 à 03:21.1",
+   "horodatage": {
+    "debut_ms": 194000,
+    "fin_ms": 201100
+   },
+   "personnage": "Narrateur",
+   "intonation": "chuchoté",
+   "intonation_statut": "scénario",
+   "texte": "Ce qui s'y passe reste secret. On sait seulement qu'ils partent en silence, comme les ancêtres.",
+   "genre": "adulte/libre",
+   "duree_ms": 7100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-014",
+   "type": "film",
+   "partie": "Film d'animation, de 03:39.0 à 03:44.4",
+   "horodatage": {
+    "debut_ms": 219000,
+    "fin_ms": 224400
+   },
+   "personnage": "Narrateur",
+   "intonation": "joyeux",
+   "intonation_statut": "scénario",
+   "texte": "Puis ils reviennent, changés. Le village les accueille en dansant.",
+   "genre": "adulte/libre",
+   "duree_ms": 5400,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-015",
+   "type": "film",
+   "partie": "Film d'animation, de 04:14.3 à 04:17.2",
+   "horodatage": {
+    "debut_ms": 254300,
+    "fin_ms": 257200
+   },
+   "personnage": "ANCIEN",
+   "intonation": "posé",
+   "intonation_statut": "scénario",
+   "texte": "Ils ont traversé, comme nous.",
+   "genre": "âgé/libre",
+   "duree_ms": 2900,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-016",
+   "type": "film",
+   "partie": "Film d'animation, de 04:19.0 à 04:24.9",
+   "horodatage": {
+    "debut_ms": 259000,
+    "fin_ms": 264900
+   },
+   "personnage": "Narrateur",
+   "intonation": "doux",
+   "intonation_statut": "scénario",
+   "texte": "Le soir, les anciens s'assoient au bord de l'eau. Le fleuve se souvient.",
+   "genre": "adulte/libre",
+   "duree_ms": 5900,
+   "duree_statut": "mesurée sur le film"
+  }
+ ]
+}

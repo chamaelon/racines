@@ -1,0 +1,603 @@
+# La légende de Yennenga : fiches des bandes-son
+# Généré par « npm run bandes-son » depuis pistes.json. Modifier pistes.json, pas ce fichier.
+
+piste: intro
+histoire: La légende de Yennenga
+partie: La cour du roi Nedega (jeu)
+personnage: Le griot
+fichier: yennenga-intro-<langue>.m4a
+intonation: posé (proposée)
+texte: Approche, enfant, et tends l'oreille. Ce que je vais te dire, mon père me l'a dit, et son père le lui avait dit avant lui.
+genre: adulte/homme
+duree: 10700ms (estimée)
+texte_en: Come closer, child, and listen well. What I am about to tell you, my father told me, and his father told him before that.
+
+piste: intro2
+histoire: La légende de Yennenga
+partie: La cour du roi Nedega (jeu)
+personnage: Le griot
+fichier: yennenga-intro2-<langue>.m4a
+intonation: posé (proposée)
+texte: Il y a bien longtemps, à Gambaga, au royaume dagomba, régnait le Naaba Nédega. Sa fille Yennenga montait à cheval mieux que tous ses guerriers.
+genre: adulte/homme
+duree: 10550ms (estimée)
+texte_en: Long ago, in Gambaga, in the Dagomba kingdom, reigned Naaba Nedega. His daughter Yennenga rode better than any of his warriors.
+
+piste: explore1
+histoire: La légende de Yennenga
+partie: La cour du roi Nedega (jeu)
+personnage: Le griot
+fichier: yennenga-explore1-<langue>.m4a
+intonation: posé (proposée)
+texte: Regarde autour de toi. Clique sur les objets qui brillent pour les découvrir.
+genre: adulte/homme
+duree: 5540ms (estimée)
+texte_en: Look around you. Click the glowing objects to discover them.
+
+piste: nedega1
+histoire: La légende de Yennenga
+partie: La cour du roi Nedega (jeu)
+personnage: Naaba Nédega
+fichier: yennenga-nedega1-<langue>.m4a
+intonation: vif (proposée)
+texte: Yennenga ! Encore une victoire. Sans toi, nos ennemis seraient déjà à nos portes.
+genre: adulte/homme
+duree: 6370ms (estimée)
+texte_en: Yennenga! Another victory. Without you, our enemies would already be at our gates.
+
+piste: yen1
+histoire: La légende de Yennenga
+partie: La cour du roi Nedega (jeu)
+personnage: Yennenga
+fichier: yennenga-yen1-<langue>.m4a
+intonation: posé (proposée)
+texte: Père, je combats pour toi depuis l'enfance. Aujourd'hui, je voudrais un mari et un foyer.
+genre: adulte/femme
+duree: 6600ms (estimée)
+texte_en: Father, I have fought for you since I was a child. Today I would like a husband and a home.
+
+piste: nedega2
+histoire: La légende de Yennenga
+partie: La cour du roi Nedega (jeu)
+personnage: Naaba Nédega
+fichier: yennenga-nedega2-<langue>.m4a
+intonation: posé (proposée)
+texte: Un mari ? Jamais. Ma meilleure guerrière reste auprès de moi.
+genre: adulte/homme
+duree: 5080ms (estimée)
+texte_en: A husband? Never. My best warrior stays by my side.
+
+piste: choix1
+histoire: La légende de Yennenga
+partie: La cour du roi Nedega (jeu)
+personnage: Le griot
+fichier: yennenga-choix1-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Que doit faire Yennenga ?
+genre: adulte/homme
+duree: 2200ms (estimée)
+texte_en: What should Yennenga do?
+
+piste: gombo
+histoire: La légende de Yennenga
+partie: La cour du roi Nedega (jeu)
+personnage: Le griot
+fichier: yennenga-gombo-<langue>.m4a
+intonation: posé (proposée)
+texte: Yennenga sème un champ de gombo. Quand les fruits mûrissent, elle ne les récolte pas : ils sèchent sur pied.
+genre: adulte/homme
+duree: 8500ms (estimée)
+texte_en: Yennenga sows a field of okra. When the pods ripen she does not pick them: they dry on the stalk.
+
+piste: gombo2
+histoire: La légende de Yennenga
+partie: La cour du roi Nedega (jeu)
+personnage: Naaba Nédega
+fichier: yennenga-gombo2-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Pourquoi laisses-tu pourrir ce champ, ma fille ?
+genre: adulte/homme
+duree: 3490ms (estimée)
+texte_en: Why do you let this field rot, my daughter?
+
+piste: gombo3
+histoire: La légende de Yennenga
+partie: La cour du roi Nedega (jeu)
+personnage: Yennenga
+fichier: yennenga-gombo3-<langue>.m4a
+intonation: posé (proposée)
+texte: Comme ces gombos, père, je me flétris sans avoir donné de fruits.
+genre: adulte/femme
+duree: 5160ms (estimée)
+texte_en: Like this okra, father, I am withering without having borne fruit.
+
+piste: silence
+histoire: La légende de Yennenga
+partie: La cour du roi Nedega (jeu)
+personnage: Le griot
+fichier: yennenga-silence-<langue>.m4a
+intonation: posé (proposée)
+texte: Yennenga se tait. Les saisons passent, les batailles aussi, mais son cœur reste lourd.
+genre: adulte/homme
+duree: 6220ms (estimée)
+texte_en: Yennenga says nothing. The seasons pass, and the battles too, but her heart stays heavy.
+
+piste: refusA
+histoire: La légende de Yennenga
+partie: La cour du roi Nedega (jeu)
+personnage: Naaba Nédega
+fichier: yennenga-refusA-<langue>.m4a
+intonation: posé (proposée)
+texte: J'ai compris ton message, ma fille. Mais ma réponse ne change pas.
+genre: adulte/homme
+duree: 5310ms (estimée)
+texte_en: I understand your message, my daughter. But my answer does not change.
+
+piste: refusB
+histoire: La légende de Yennenga
+partie: La cour du roi Nedega (jeu)
+personnage: Naaba Nédega
+fichier: yennenga-refusB-<langue>.m4a
+intonation: posé (proposée)
+texte: Tu sembles triste, ma fille. Mais la guerre a besoin de toi.
+genre: adulte/homme
+duree: 5310ms (estimée)
+texte_en: You seem sad, my daughter. But the war needs you.
+
+piste: nuit1
+histoire: La légende de Yennenga
+partie: La nuit de la décision (jeu)
+personnage: Le griot
+fichier: yennenga-nuit1-<langue>.m4a
+intonation: grave (proposée)
+texte: Cette nuit-là, Yennenga ne dort pas. Son étalon piaffe dans l'enclos.
+genre: adulte/homme
+duree: 4930ms (estimée)
+texte_en: That night, Yennenga does not sleep. Her stallion paws the ground in its pen.
+
+piste: choix2
+histoire: La légende de Yennenga
+partie: La nuit de la décision (jeu)
+personnage: Le griot
+fichier: yennenga-choix2-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Partir ou rester ?
+genre: adulte/homme
+duree: 1820ms (estimée)
+texte_en: Leave or stay?
+
+piste: rester
+histoire: La légende de Yennenga
+partie: La nuit de la décision (jeu)
+personnage: Le griot
+fichier: yennenga-rester-<langue>.m4a
+intonation: grave (proposée)
+texte: Yennenga reste. Elle devient la plus grande guerrière que Gambaga ait connue…
+genre: adulte/homme
+duree: 5160ms (estimée)
+texte_en: Yennenga stays. She becomes the greatest warrior Gambaga has ever known…
+
+piste: rester2
+histoire: La légende de Yennenga
+partie: La nuit de la décision (jeu)
+personnage: Le griot
+fichier: yennenga-rester2-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: …c'est ce que racontent certains, tard dans la nuit. Mais ce n'est pas ainsi que finit la légende. Veux-tu entendre la vraie fin ?
+genre: adulte/homme
+duree: 10470ms (estimée)
+texte_en: …or so some say, late at night. But that is not how the legend ends. Do you want to hear the true ending?
+
+piste: fuite
+histoire: La légende de Yennenga
+partie: La fuite vers le nord (jeu)
+personnage: Le griot
+fichier: yennenga-fuite-<langue>.m4a
+intonation: enlevé (proposée)
+texte: Elle saute sur son cheval et file vers le nord. Mais les cavaliers du roi la poursuivent !
+genre: adulte/homme
+duree: 7440ms (estimée)
+texte_en: She leaps on her horse and rides north. But the king's horsemen are after her!
+
+piste: courseOK
+histoire: La légende de Yennenga
+partie: La fuite vers le nord (jeu)
+personnage: Le griot
+fichier: yennenga-courseOK-<langue>.m4a
+intonation: tendu (proposée)
+texte: Son étalon vole au-dessus des herbes. Les cavaliers disparaissent derrière elle.
+genre: adulte/homme
+duree: 4780ms (estimée)
+texte_en: Her stallion flies over the grass. The horsemen vanish behind her.
+
+piste: courseKO
+histoire: La légende de Yennenga
+partie: La fuite vers le nord (jeu)
+personnage: Le griot
+fichier: yennenga-courseKO-<langue>.m4a
+intonation: tendu (proposée)
+texte: Les cavaliers la rattrapent presque… quand un orage éclate et efface ses traces. Le ciel a choisi son camp.
+genre: adulte/homme
+duree: 8120ms (estimée)
+texte_en: The horsemen nearly catch her… when a storm breaks and wipes out her tracks. The sky has chosen its side.
+
+piste: foret1
+histoire: La légende de Yennenga
+partie: La case de Rialé (jeu)
+personnage: Le griot
+fichier: yennenga-foret1-<langue>.m4a
+intonation: mystérieux (proposée)
+texte: Épuisé, l'étalon s'arrête devant une case, au cœur d'une forêt inconnue.
+genre: adulte/homme
+duree: 4780ms (estimée)
+texte_en: Exhausted, the stallion stops in front of a hut, deep in an unknown forest.
+
+piste: riale1
+histoire: La légende de Yennenga
+partie: La case de Rialé (jeu)
+personnage: Rialé
+fichier: yennenga-riale1-<langue>.m4a
+intonation: interrogatif (proposée)
+texte: Qui va là ? Un cavalier, seul, dans ma forêt ?
+genre: adulte/homme
+duree: 5080ms (estimée)
+texte_en: Who goes there? A rider, alone, in my forest?
+
+piste: yen2
+histoire: La légende de Yennenga
+partie: La case de Rialé (jeu)
+personnage: Yennenga
+fichier: yennenga-yen2-<langue>.m4a
+intonation: mystérieux (proposée)
+texte: Je ne suis pas un cavalier. Je suis Yennenga, fille du Naaba Nédega.
+genre: adulte/femme
+duree: 5690ms (estimée)
+texte_en: I am no rider. I am Yennenga, daughter of Naaba Nedega.
+
+piste: riale2
+histoire: La légende de Yennenga
+partie: La case de Rialé (jeu)
+personnage: Rialé
+fichier: yennenga-riale2-<langue>.m4a
+intonation: mystérieux (proposée)
+texte: Je m'appelle Rialé. Je chasse l'éléphant. Repose-toi : ici, personne ne te trouvera.
+genre: adulte/homme
+duree: 6140ms (estimée)
+texte_en: My name is Riale. I hunt elephants. Rest now: no one will find you here.
+
+piste: explore2
+histoire: La légende de Yennenga
+partie: La case de Rialé (jeu)
+personnage: Le griot
+fichier: yennenga-explore2-<langue>.m4a
+intonation: mystérieux (proposée)
+texte: Découvre la case du chasseur avant de continuer.
+genre: adulte/homme
+duree: 3340ms (estimée)
+texte_en: Discover the hunter's hut before you go on.
+
+piste: riale3
+histoire: La légende de Yennenga
+partie: La case de Rialé (jeu)
+personnage: Rialé
+fichier: yennenga-riale3-<langue>.m4a
+intonation: mystérieux (proposée)
+texte: Défier un roi, puis traverser la brousse de nuit… Je n'ai jamais vu un tel courage.
+genre: adulte/homme
+duree: 6830ms (estimée)
+texte_en: To defy a king, then cross the bush by night… I have never seen such courage.
+
+piste: mariage
+histoire: La légende de Yennenga
+partie: La case de Rialé (jeu)
+personnage: Le griot
+fichier: yennenga-mariage-<langue>.m4a
+intonation: mystérieux (proposée)
+texte: Yennenga et Rialé s'aiment et se marient. De leur union naît un fils.
+genre: adulte/homme
+duree: 5540ms (estimée)
+texte_en: Yennenga and Riale fall in love and marry. A son is born to them.
+
+piste: fin1
+histoire: La légende de Yennenga
+partie: La naissance d'Ouédraogo (jeu)
+personnage: Yennenga
+fichier: yennenga-fin1-<langue>.m4a
+intonation: posé (proposée)
+texte: Nous l'appellerons Ouédraogo, « l'étalon mâle », en souvenir du cheval qui m'a conduite jusqu'à toi.
+genre: adulte/femme
+duree: 6680ms (estimée)
+texte_en: We shall call him Ouedraogo, "the stallion", in memory of the horse that brought me to you.
+
+piste: explore3
+histoire: La légende de Yennenga
+partie: La naissance d'Ouédraogo (jeu)
+personnage: Le griot
+fichier: yennenga-explore3-<langue>.m4a
+intonation: posé (proposée)
+texte: Regarde le village qui grandit autour d'eux.
+genre: adulte/homme
+duree: 2960ms (estimée)
+texte_en: Look at the village growing around them.
+
+piste: fin2
+histoire: La légende de Yennenga
+partie: La naissance d'Ouédraogo (jeu)
+personnage: Le griot
+fichier: yennenga-fin2-<langue>.m4a
+intonation: posé (proposée)
+texte: Ouédraogo deviendra l'ancêtre des Mossi. Et aujourd'hui encore, à Ouagadougou, le grand prix du FESPACO s'appelle l'Étalon d'or de Yennenga.
+genre: adulte/homme
+duree: 8500ms (estimée)
+texte_en: Ouedraogo will become the ancestor of the Mossi. And to this day, in Ouagadougou, the grand prize of FESPACO is called the Golden Stallion of Yennenga.
+
+piste: fin3
+histoire: La légende de Yennenga
+partie: La naissance d'Ouédraogo (jeu)
+personnage: Le griot
+fichier: yennenga-fin3-<langue>.m4a
+intonation: posé (proposée)
+texte: Mon conte s'arrête ici. Celui qui l'a entendu doit le raconter à son tour.
+genre: adulte/homme
+duree: 5920ms (estimée)
+texte_en: My tale ends here. Whoever has heard it must tell it in turn.
+
+piste: film-001
+histoire: La légende de Yennenga
+partie: Film d'animation, de 00:02.0 à 00:07.6
+personnage: Narrateur
+fichier: yennenga-film-001-<langue>.m4a
+intonation: solennel (scénario)
+texte: Yennenga, la princesse cavalière. Une légende mossi.
+genre: adulte/libre
+duree: 5600ms (mesurée sur le film)
+
+piste: film-002
+histoire: La légende de Yennenga
+partie: Film d'animation, de 00:09.0 à 00:13.4
+personnage: Narrateur
+fichier: yennenga-film-002-<langue>.m4a
+intonation: posé (proposée)
+texte: À Gambaga, en pays dagomba, régnait le roi Nedega.
+genre: adulte/libre
+duree: 4400ms (mesurée sur le film)
+
+piste: film-003
+histoire: La légende de Yennenga
+partie: Film d'animation, de 00:16.0 à 00:21.1
+personnage: Narrateur
+fichier: yennenga-film-003-<langue>.m4a
+intonation: posé (proposée)
+texte: Il était fier de sa fille. Plus fier d'elle que de tous ses guerriers.
+genre: adulte/libre
+duree: 5100ms (mesurée sur le film)
+
+piste: film-004
+histoire: La légende de Yennenga
+partie: Film d'animation, de 00:29.0 à 00:35.0
+personnage: Narrateur
+fichier: yennenga-film-004-<langue>.m4a
+intonation: enlevé (scénario)
+texte: Yennenga menait les cavaliers. Personne ne montait comme elle, et personne ne chargeait comme elle.
+genre: adulte/libre
+duree: 6000ms (mesurée sur le film)
+
+piste: film-005
+histoire: La légende de Yennenga
+partie: Film d'animation, de 00:41.0 à 00:44.1
+personnage: Narrateur
+fichier: yennenga-film-005-<langue>.m4a
+intonation: fort (scénario)
+texte: Les ennemis la voyaient et prenaient la fuite.
+genre: adulte/libre
+duree: 3100ms (mesurée sur le film)
+
+piste: film-006
+histoire: La légende de Yennenga
+partie: Film d'animation, de 00:53.0 à 00:57.1
+personnage: Narrateur
+fichier: yennenga-film-006-<langue>.m4a
+intonation: joyeux (scénario)
+texte: Chaque fois, elle revenait en triomphe devant son père.
+genre: adulte/libre
+duree: 4100ms (mesurée sur le film)
+
+piste: film-007
+histoire: La légende de Yennenga
+partie: Film d'animation, de 01:08.5 à 01:12.5
+personnage: YENNENGA
+fichier: yennenga-film-007-<langue>.m4a
+intonation: fier et grave (scénario)
+texte: Père, je veux me marier, et avoir des enfants.
+genre: adulte/femme
+duree: 4000ms (mesurée sur le film)
+
+piste: film-008
+histoire: La légende de Yennenga
+partie: Film d'animation, de 01:13.5 à 01:17.5
+personnage: ROI
+fichier: yennenga-film-008-<langue>.m4a
+intonation: sans appel (scénario)
+texte: Tu es trop précieuse au combat. C'est non.
+genre: âgé/libre
+duree: 4000ms (mesurée sur le film)
+
+piste: film-009
+histoire: La légende de Yennenga
+partie: Film d'animation, de 01:20.0 à 01:25.1
+personnage: Narrateur
+fichier: yennenga-film-009-<langue>.m4a
+intonation: triste (scénario)
+texte: Elle insista, encore et encore. Il ne céda jamais.
+genre: adulte/libre
+duree: 5100ms (mesurée sur le film)
+
+piste: film-010
+histoire: La légende de Yennenga
+partie: Film d'animation, de 01:42.0 à 01:45.8
+personnage: Narrateur
+fichier: yennenga-film-010-<langue>.m4a
+intonation: posé (proposée)
+texte: Alors elle sema un champ d'okra, tout près du palais.
+genre: adulte/libre
+duree: 3800ms (mesurée sur le film)
+
+piste: film-011
+histoire: La légende de Yennenga
+partie: Film d'animation, de 01:53.0 à 02:01.9
+personnage: Narrateur
+fichier: yennenga-film-011-<langue>.m4a
+intonation: posé (proposée)
+texte: Le champ mûrit, puis se fana. Elle ne le récolta pas. Le message était clair : on ne laisse pas pourrir ce qui est mûr.
+genre: adulte/libre
+duree: 8900ms (mesurée sur le film)
+
+piste: film-012
+histoire: La légende de Yennenga
+partie: Film d'animation, de 02:04.0 à 02:06.9
+personnage: Narrateur
+fichier: yennenga-film-012-<langue>.m4a
+intonation: posé (proposée)
+texte: Mais le roi ne voulut pas comprendre.
+genre: adulte/libre
+duree: 2900ms (mesurée sur le film)
+
+piste: film-013
+histoire: La légende de Yennenga
+partie: Film d'animation, de 02:13.0 à 02:18.1
+personnage: Narrateur
+fichier: yennenga-film-013-<langue>.m4a
+intonation: chuchoté (scénario)
+texte: Une nuit, Yennenga sella son étalon blanc, et elle quitta Gambaga.
+genre: adulte/libre
+duree: 5100ms (mesurée sur le film)
+
+piste: film-014
+histoire: La légende de Yennenga
+partie: Film d'animation, de 02:25.0 à 02:28.2
+personnage: Narrateur
+fichier: yennenga-film-014-<langue>.m4a
+intonation: enlevé (scénario)
+texte: Elle galopa sous la lune, sans se retourner.
+genre: adulte/libre
+duree: 3200ms (mesurée sur le film)
+
+piste: film-015
+histoire: La légende de Yennenga
+partie: Film d'animation, de 02:47.0 à 02:51.8
+personnage: Narrateur
+fichier: yennenga-film-015-<langue>.m4a
+intonation: posé (proposée)
+texte: L'étalon l'emporta très loin, jusqu'à une forêt qu'elle ne connaissait pas.
+genre: adulte/libre
+duree: 4800ms (mesurée sur le film)
+
+piste: film-016
+histoire: La légende de Yennenga
+partie: Film d'animation, de 02:56.0 à 03:01.9
+personnage: Narrateur
+fichier: yennenga-film-016-<langue>.m4a
+intonation: chuchoté (scénario)
+texte: Épuisée, elle descendit. Un homme approcha, l'arc tendu.
+genre: adulte/libre
+duree: 5900ms (mesurée sur le film)
+
+piste: film-017
+histoire: La légende de Yennenga
+partie: Film d'animation, de 03:06.5 à 03:08.9
+personnage: RIALE
+fichier: yennenga-film-017-<langue>.m4a
+intonation: surpris (scénario)
+texte: Qui es-tu ? Que fais-tu ici ?
+genre: adulte/homme
+duree: 2400ms (mesurée sur le film)
+
+piste: film-018
+histoire: La légende de Yennenga
+partie: Film d'animation, de 03:09.0 à 03:11.9
+personnage: YENNENGA
+fichier: yennenga-film-018-<langue>.m4a
+intonation: digne (scénario)
+texte: Je m'appelle Yennenga. J'ai tout quitté.
+genre: adulte/femme
+duree: 2900ms (mesurée sur le film)
+
+piste: film-019
+histoire: La légende de Yennenga
+partie: Film d'animation, de 03:12.0 à 03:14.5
+personnage: RIALE
+fichier: yennenga-film-019-<langue>.m4a
+intonation: doux (scénario)
+texte: Reste, ici tu es en paix.
+genre: adulte/homme
+duree: 2500ms (mesurée sur le film)
+
+piste: film-020
+histoire: La légende de Yennenga
+partie: Film d'animation, de 03:26.0 à 03:32.3
+personnage: Narrateur
+fichier: yennenga-film-020-<langue>.m4a
+intonation: tendre (scénario)
+texte: C'était Rialé, un chasseur solitaire. Ils s'aimèrent, et un fils naquit.
+genre: adulte/libre
+duree: 6300ms (mesurée sur le film)
+
+piste: film-021
+histoire: La légende de Yennenga
+partie: Film d'animation, de 03:35.0 à 03:38.2
+personnage: RIALE
+fichier: yennenga-film-021-<langue>.m4a
+intonation: heureux (scénario)
+texte: Il s'appellera Ouédraogo : l'étalon.
+genre: adulte/homme
+duree: 3200ms (mesurée sur le film)
+
+piste: film-022
+histoire: La légende de Yennenga
+partie: Film d'animation, de 03:42.0 à 03:47.1
+personnage: Narrateur
+fichier: yennenga-film-022-<langue>.m4a
+intonation: posé (proposée)
+texte: Ainsi, l'enfant porta le nom du cheval qui avait conduit sa mère jusque-là.
+genre: adulte/libre
+duree: 5100ms (mesurée sur le film)
+
+piste: film-023
+histoire: La légende de Yennenga
+partie: Film d'animation, de 04:03.0 à 04:08.8
+personnage: Narrateur
+fichier: yennenga-film-023-<langue>.m4a
+intonation: posé (proposée)
+texte: Les années passèrent. Yennenga revint enfin à Gambaga avec son fils.
+genre: adulte/libre
+duree: 5800ms (mesurée sur le film)
+
+piste: film-024
+histoire: La légende de Yennenga
+partie: Film d'animation, de 04:14.0 à 04:20.0
+personnage: Narrateur
+fichier: yennenga-film-024-<langue>.m4a
+intonation: ému (scénario)
+texte: Le vieux roi la reconnut. Il lui pardonna, et il accueillit son petit-fils.
+genre: adulte/libre
+duree: 6000ms (mesurée sur le film)
+
+piste: film-025
+histoire: La légende de Yennenga
+partie: Film d'animation, de 04:25.0 à 04:28.5
+personnage: Narrateur
+fichier: yennenga-film-025-<langue>.m4a
+intonation: posé (proposée)
+texte: Il donna à Ouédraogo des chevaux et des guerriers.
+genre: adulte/libre
+duree: 3500ms (mesurée sur le film)
+
+piste: film-026
+histoire: La légende de Yennenga
+partie: Film d'animation, de 04:30.0 à 04:34.7
+personnage: Narrateur
+fichier: yennenga-film-026-<langue>.m4a
+intonation: solennel (scénario)
+texte: Ainsi commença l'histoire d'Ouédraogo, l'ancêtre des Mossi.
+genre: adulte/libre
+duree: 4700ms (mesurée sur le film)

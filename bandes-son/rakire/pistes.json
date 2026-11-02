@@ -1,0 +1,704 @@
+{
+ "id": "rakire",
+ "titre": "Le rakiré entre Samo et Mossi",
+ "peuple": "Samo et Mossi",
+ "langues_cibles": [
+  "fr",
+  "san",
+  "mos"
+ ],
+ "pistes": [
+  {
+   "id": "titre",
+   "type": "titre",
+   "chemin": "titre",
+   "texte": "Le rakiré entre Samo et Mossi"
+  },
+  {
+   "id": "presentation",
+   "type": "presentation",
+   "chemin": "presentation",
+   "texte": "Samo et Mossi se sont battus toute la journée, et personne n'a gagné. La nuit tombe sur les blessés des deux camps. Dans le noir, c'est à toi de tendre la gourde."
+  },
+  {
+   "id": "personnages.griot.nom",
+   "type": "personnage",
+   "chemin": "personnages.griot.nom",
+   "texte": "Le griot"
+  },
+  {
+   "id": "personnages.samo.nom",
+   "type": "personnage",
+   "chemin": "personnages.samo.nom",
+   "texte": "Le chef samo"
+  },
+  {
+   "id": "personnages.mossi.nom",
+   "type": "personnage",
+   "chemin": "personnages.mossi.nom",
+   "texte": "Le chef mossi"
+  },
+  {
+   "id": "personnages.femme.nom",
+   "type": "personnage",
+   "chemin": "personnages.femme.nom",
+   "texte": "La femme samo"
+  },
+  {
+   "id": "personnages.archer.nom",
+   "type": "personnage",
+   "chemin": "personnages.archer.nom",
+   "texte": "L'archer samo"
+  },
+  {
+   "id": "personnages.cavalier.nom",
+   "type": "personnage",
+   "chemin": "personnages.cavalier.nom",
+   "texte": "Le cavalier mossi"
+  },
+  {
+   "id": "fins.canon",
+   "type": "fin",
+   "chemin": "fins.canon",
+   "texte": "Version du griot : plus jamais la guerre"
+  },
+  {
+   "id": "fins.rancune",
+   "type": "fin",
+   "chemin": "fins.rancune",
+   "texte": "Autre chemin : on recommencera demain"
+  },
+  {
+   "id": "n1",
+   "type": "replique",
+   "chemin": "nodes.n1.text",
+   "noeud": "n1",
+   "partie": "Les cavaliers mossi (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Dans le pays samo, la vie suivait son cours. Jusqu'à ce jour-là, où des cavaliers mossi approchent dans un nuage de poussière.",
+   "genre": "adulte/homme",
+   "duree_ms": 9260,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n2",
+   "type": "replique",
+   "chemin": "nodes.n2.text",
+   "noeud": "n2",
+   "partie": "Les cavaliers mossi (jeu)",
+   "personnage": "Le chef mossi",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Cette terre est désormais à nous.",
+   "genre": "adulte/homme",
+   "duree_ms": 2580,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n3",
+   "type": "replique",
+   "chemin": "nodes.n3.text",
+   "noeud": "n3",
+   "partie": "Les cavaliers mossi (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Le chef samo appelle ses archers. Les flèches contre les chevaux. On se bat toute la journée, et personne ne gagne.",
+   "genre": "adulte/homme",
+   "duree_ms": 9030,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n4",
+   "type": "replique",
+   "chemin": "nodes.n4.text",
+   "noeud": "n4",
+   "partie": "La nuit des blessés (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "La nuit tombe. Il ne reste que des blessés, des deux camps, tous abandonnés. Un archer et un cavalier se regardent. L'archer a encore de l'eau. Que fait-il ?",
+   "genre": "adulte/homme",
+   "duree_ms": 12820,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n4.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.n4.choices.0.label",
+   "texte": "Il tend sa gourde à l'autre"
+  },
+  {
+   "id": "nodes.n4.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.n4.choices.0.tag",
+   "texte": "gourde tendue"
+  },
+  {
+   "id": "nodes.n4.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.n4.choices.1.label",
+   "texte": "Il la garde serrée contre lui"
+  },
+  {
+   "id": "nodes.n4.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.n4.choices.1.tag",
+   "texte": "gourde gardée"
+  },
+  {
+   "id": "garde",
+   "type": "replique",
+   "chemin": "nodes.garde.text",
+   "noeud": "garde",
+   "partie": "La nuit des blessés (jeu)",
+   "personnage": "Le griot",
+   "intonation": "interrogatif",
+   "intonation_statut": "proposée",
+   "texte": "Le cavalier gémit toute la nuit. Une femme samo arrive, s'arrête devant lui, hésite. Va-t-elle le soigner ?",
+   "genre": "adulte/homme",
+   "duree_ms": 8040,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.garde.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.garde.choices.0.label",
+   "texte": "Oui, elle le soigne malgré tout"
+  },
+  {
+   "id": "nodes.garde.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.garde.choices.0.tag",
+   "texte": "blessé soigné"
+  },
+  {
+   "id": "nodes.garde.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.garde.choices.1.label",
+   "texte": "Non, c'est un ennemi"
+  },
+  {
+   "id": "nodes.garde.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.garde.choices.1.tag",
+   "texte": "blessé laissé"
+  },
+  {
+   "id": "rancune",
+   "type": "replique",
+   "chemin": "nodes.rancune.text",
+   "noeud": "rancune",
+   "partie": "La nuit des blessés (jeu)",
+   "personnage": "Le griot",
+   "intonation": "chuchoté",
+   "intonation_statut": "proposée",
+   "texte": "Au matin, chacun compte ses morts, et chacun jure de les venger. Trop de sang pour rien. Ce n'est pas la fin que l'on raconte, heureusement.",
+   "genre": "adulte/homme",
+   "duree_ms": 11230,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "gourde",
+   "type": "replique",
+   "chemin": "nodes.gourde.text",
+   "noeud": "gourde",
+   "partie": "La nuit des blessés (jeu)",
+   "personnage": "Le griot",
+   "intonation": "chuchoté",
+   "intonation_statut": "proposée",
+   "texte": "Une femme samo arrive, s'arrête devant un cavalier mossi. Elle hésite, puis elle le soigne.",
+   "genre": "adulte/homme",
+   "duree_ms": 6600,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "soin",
+   "type": "replique",
+   "chemin": "nodes.soin.text",
+   "noeud": "soin",
+   "partie": "La nuit des blessés (jeu)",
+   "personnage": "Le griot",
+   "intonation": "chuchoté",
+   "intonation_statut": "proposée",
+   "texte": "Un cavalier, à son tour, panse un archer samo. Plus personne ne se souvient du camp de l'autre.",
+   "genre": "adulte/homme",
+   "duree_ms": 7740,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n5",
+   "type": "replique",
+   "chemin": "nodes.n5.text",
+   "noeud": "n5",
+   "partie": "Trop de sang (jeu)",
+   "personnage": "Le chef samo",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Trop de sang pour rien.",
+   "genre": "adulte/homme",
+   "duree_ms": 2200,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n6",
+   "type": "replique",
+   "chemin": "nodes.n6.text",
+   "noeud": "n6",
+   "partie": "Trop de sang (jeu)",
+   "personnage": "Le chef mossi",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Plus jamais de sang entre nous.",
+   "genre": "adulte/homme",
+   "duree_ms": 2580,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n7",
+   "type": "replique",
+   "chemin": "nodes.n7.text",
+   "noeud": "n7",
+   "partie": "Trop de sang (jeu)",
+   "personnage": "Le griot",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Ils boivent, l'un après l'autre, dans la même calebasse. Regarde ce qui les relie.",
+   "genre": "adulte/homme",
+   "duree_ms": 6220,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n8",
+   "type": "replique",
+   "chemin": "nodes.n8.text",
+   "noeud": "n8",
+   "partie": "Le marché, bien plus tard (jeu)",
+   "personnage": "Le griot",
+   "intonation": "joyeux",
+   "intonation_statut": "proposée",
+   "texte": "Le temps a passé. Au marché, un Samo et un Mossi se croisent. À toi de lancer la plaisanterie.",
+   "genre": "adulte/homme",
+   "duree_ms": 8270,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "nodes.n8.choices.0.label",
+   "type": "choix",
+   "chemin": "nodes.n8.choices.0.label",
+   "texte": "« Vous, les Mossi, vous mangez trop ! »"
+  },
+  {
+   "id": "nodes.n8.choices.0.tag",
+   "type": "parcours",
+   "chemin": "nodes.n8.choices.0.tag",
+   "texte": "plaisanterie"
+  },
+  {
+   "id": "nodes.n8.choices.1.label",
+   "type": "choix",
+   "chemin": "nodes.n8.choices.1.label",
+   "texte": "« Toi, je ne te parle pas. »"
+  },
+  {
+   "id": "nodes.n8.choices.1.tag",
+   "type": "parcours",
+   "chemin": "nodes.n8.choices.1.tag",
+   "texte": "silence"
+  },
+  {
+   "id": "froid",
+   "type": "replique",
+   "chemin": "nodes.froid.text",
+   "noeud": "froid",
+   "partie": "Le marché, bien plus tard (jeu)",
+   "personnage": "Le cavalier mossi",
+   "intonation": "vif",
+   "intonation_statut": "proposée",
+   "texte": "Comment ? Pas un mot ? Tu veux donc que je croie que vous êtes fâchés ? Vous, les Samo, vous parlez trop !",
+   "genre": "adulte/homme",
+   "duree_ms": 10620,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "n9",
+   "type": "replique",
+   "chemin": "nodes.n9.text",
+   "noeud": "n9",
+   "partie": "Le marché, bien plus tard (jeu)",
+   "personnage": "L'archer samo",
+   "intonation": "vif",
+   "intonation_statut": "proposée",
+   "texte": "Et vous, les Mossi, vous mangez trop !",
+   "genre": "adulte/homme",
+   "duree_ms": 3640,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "blague",
+   "type": "replique",
+   "chemin": "nodes.blague.text",
+   "noeud": "blague",
+   "partie": "Le marché, bien plus tard (jeu)",
+   "personnage": "Le cavalier mossi",
+   "intonation": "vif",
+   "intonation_statut": "proposée",
+   "texte": "Et vous, les Samo, vous parlez trop !",
+   "genre": "adulte/homme",
+   "duree_ms": 3640,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "fin",
+   "type": "replique",
+   "chemin": "nodes.fin.text",
+   "noeud": "fin",
+   "partie": "Le marché, bien plus tard (jeu)",
+   "personnage": "Le griot",
+   "intonation": "joyeux",
+   "intonation_statut": "proposée",
+   "texte": "Depuis ce temps, ils se moquent les uns des autres, et personne ne se fâche. C'est le rakiré : une façon de se dire « plus jamais la guerre ».",
+   "genre": "adulte/homme",
+   "duree_ms": 12450,
+   "duree_statut": "estimée"
+  },
+  {
+   "id": "film-001",
+   "type": "film",
+   "partie": "Film d'animation, de 00:02.0 à 00:06.5",
+   "horodatage": {
+    "debut_ms": 2000,
+    "fin_ms": 6500
+   },
+   "personnage": "Narrateur",
+   "intonation": "malicieux",
+   "intonation_statut": "scénario",
+   "texte": "Le rakiré. Une légende des Samo et des Mossi.",
+   "genre": "adulte/libre",
+   "duree_ms": 4500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-002",
+   "type": "film",
+   "partie": "Film d'animation, de 00:09.0 à 00:13.9",
+   "horodatage": {
+    "debut_ms": 9000,
+    "fin_ms": 13900
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Dans le pays samo, la vie suivait son cours, jusqu'à ce jour-là.",
+   "genre": "adulte/libre",
+   "duree_ms": 4900,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-003",
+   "type": "film",
+   "partie": "Film d'animation, de 00:28.0 à 00:32.4",
+   "horodatage": {
+    "debut_ms": 28000,
+    "fin_ms": 32400
+   },
+   "personnage": "Narrateur",
+   "intonation": "tendu",
+   "intonation_statut": "scénario",
+   "texte": "Des cavaliers mossi approchaient, dans un nuage de poussière.",
+   "genre": "adulte/libre",
+   "duree_ms": 4400,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-004",
+   "type": "film",
+   "partie": "Film d'animation, de 00:34.0 à 00:36.4",
+   "horodatage": {
+    "debut_ms": 34000,
+    "fin_ms": 36400
+   },
+   "personnage": "CHEFMOSSI",
+   "intonation": "hautain",
+   "intonation_statut": "scénario",
+   "texte": "Cette terre est désormais à nous.",
+   "genre": "adulte/homme",
+   "duree_ms": 2400,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-005",
+   "type": "film",
+   "partie": "Film d'animation, de 00:40.0 à 00:44.8",
+   "horodatage": {
+    "debut_ms": 40000,
+    "fin_ms": 44800
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Le chef samo ne répondit pas. Il appela ses archers.",
+   "genre": "adulte/libre",
+   "duree_ms": 4800,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-006",
+   "type": "film",
+   "partie": "Film d'animation, de 01:03.0 à 01:07.6",
+   "horodatage": {
+    "debut_ms": 63000,
+    "fin_ms": 67600
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Et la guerre commença. Les flèches contre les chevaux.",
+   "genre": "adulte/libre",
+   "duree_ms": 4600,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-007",
+   "type": "film",
+   "partie": "Film d'animation, de 01:16.0 à 01:19.9",
+   "horodatage": {
+    "debut_ms": 76000,
+    "fin_ms": 79900
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "On se battit toute la journée, et personne ne gagna.",
+   "genre": "adulte/libre",
+   "duree_ms": 3900,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-008",
+   "type": "film",
+   "partie": "Film d'animation, de 01:30.0 à 01:33.1",
+   "horodatage": {
+    "debut_ms": 90000,
+    "fin_ms": 93100
+   },
+   "personnage": "Narrateur",
+   "intonation": "grave",
+   "intonation_statut": "scénario",
+   "texte": "La nuit tomba sur le champ de bataille.",
+   "genre": "adulte/libre",
+   "duree_ms": 3100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-009",
+   "type": "film",
+   "partie": "Film d'animation, de 01:43.0 à 01:47.5",
+   "horodatage": {
+    "debut_ms": 103000,
+    "fin_ms": 107500
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Il ne restait que des blessés, des deux camps, tous abandonnés.",
+   "genre": "adulte/libre",
+   "duree_ms": 4500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-010",
+   "type": "film",
+   "partie": "Film d'animation, de 01:56.0 à 02:01.2",
+   "horodatage": {
+    "debut_ms": 116000,
+    "fin_ms": 121200
+   },
+   "personnage": "Narrateur",
+   "intonation": "ému",
+   "intonation_statut": "scénario",
+   "texte": "Deux ennemis se regardèrent. Puis l'un tendit sa gourde à l'autre.",
+   "genre": "adulte/libre",
+   "duree_ms": 5200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-011",
+   "type": "film",
+   "partie": "Film d'animation, de 02:18.0 à 02:22.6",
+   "horodatage": {
+    "debut_ms": 138000,
+    "fin_ms": 142600
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Une femme samo arriva, et elle s'arrêta devant un cavalier mossi.",
+   "genre": "adulte/libre",
+   "duree_ms": 4600,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-012",
+   "type": "film",
+   "partie": "Film d'animation, de 02:29.0 à 02:36.0",
+   "horodatage": {
+    "debut_ms": 149000,
+    "fin_ms": 156000
+   },
+   "personnage": "Narrateur",
+   "intonation": "ému",
+   "intonation_statut": "scénario",
+   "texte": "Elle hésita, puis elle le soigna. Un cavalier, à son tour, pansa un archer samo.",
+   "genre": "adulte/libre",
+   "duree_ms": 7000,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-013",
+   "type": "film",
+   "partie": "Film d'animation, de 02:42.0 à 02:45.2",
+   "horodatage": {
+    "debut_ms": 162000,
+    "fin_ms": 165200
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Plus personne ne se souvenait du camp de l'autre.",
+   "genre": "adulte/libre",
+   "duree_ms": 3200,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-014",
+   "type": "film",
+   "partie": "Film d'animation, de 02:57.5 à 03:00.0",
+   "horodatage": {
+    "debut_ms": 177500,
+    "fin_ms": 180000
+   },
+   "personnage": "CHEFSAMO",
+   "intonation": "grave",
+   "intonation_statut": "scénario",
+   "texte": "Trop de sang pour rien.",
+   "genre": "adulte/homme",
+   "duree_ms": 2500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-015",
+   "type": "film",
+   "partie": "Film d'animation, de 03:00.5 à 03:02.6",
+   "horodatage": {
+    "debut_ms": 180500,
+    "fin_ms": 182600
+   },
+   "personnage": "CHEFMOSSI",
+   "intonation": "grave",
+   "intonation_statut": "scénario",
+   "texte": "Plus jamais de sang entre nous.",
+   "genre": "adulte/homme",
+   "duree_ms": 2100,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-016",
+   "type": "film",
+   "partie": "Film d'animation, de 03:06.0 à 03:10.4",
+   "horodatage": {
+    "debut_ms": 186000,
+    "fin_ms": 190400
+   },
+   "personnage": "Narrateur",
+   "intonation": "recueilli",
+   "intonation_statut": "scénario",
+   "texte": "Ils burent, l'un après l'autre, dans la même calebasse.",
+   "genre": "adulte/libre",
+   "duree_ms": 4400,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-017",
+   "type": "film",
+   "partie": "Film d'animation, de 03:16.0 à 03:20.4",
+   "horodatage": {
+    "debut_ms": 196000,
+    "fin_ms": 200400
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Et ils se serrèrent dans les bras. La paix était scellée.",
+   "genre": "adulte/libre",
+   "duree_ms": 4400,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-018",
+   "type": "film",
+   "partie": "Film d'animation, de 03:33.0 à 03:36.5",
+   "horodatage": {
+    "debut_ms": 213000,
+    "fin_ms": 216500
+   },
+   "personnage": "SAMO",
+   "intonation": "moqueur",
+   "intonation_statut": "scénario",
+   "texte": "Vous, les Mossi, vous mangez trop !",
+   "genre": "adulte/homme",
+   "duree_ms": 3500,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-019",
+   "type": "film",
+   "partie": "Film d'animation, de 03:38.0 à 03:40.8",
+   "horodatage": {
+    "debut_ms": 218000,
+    "fin_ms": 220800
+   },
+   "personnage": "MOSSI",
+   "intonation": "hilare",
+   "intonation_statut": "scénario",
+   "texte": "Et vous, les Samo, vous parlez trop !",
+   "genre": "adulte/homme",
+   "duree_ms": 2800,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-020",
+   "type": "film",
+   "partie": "Film d'animation, de 03:44.0 à 03:50.9",
+   "horodatage": {
+    "debut_ms": 224000,
+    "fin_ms": 230900
+   },
+   "personnage": "Narrateur",
+   "intonation": "joyeux",
+   "intonation_statut": "scénario",
+   "texte": "Depuis ce temps, ils se moquent les uns des autres, et personne ne se fâche. C'est le rakiré.",
+   "genre": "adulte/libre",
+   "duree_ms": 6900,
+   "duree_statut": "mesurée sur le film"
+  },
+  {
+   "id": "film-021",
+   "type": "film",
+   "partie": "Film d'animation, de 04:08.0 à 04:14.4",
+   "horodatage": {
+    "debut_ms": 248000,
+    "fin_ms": 254400
+   },
+   "personnage": "Narrateur",
+   "intonation": "doux",
+   "intonation_statut": "scénario",
+   "texte": "Aujourd'hui encore, la parenté à plaisanterie est une façon de se dire : plus jamais la guerre.",
+   "genre": "adulte/libre",
+   "duree_ms": 6400,
+   "duree_statut": "mesurée sur le film"
+  }
+ ]
+}

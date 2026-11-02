@@ -1,0 +1,9 @@
+{
+ "Bissa": { "composition": { "forme": "triangle", "couleurs": ["#2a1a10", "#f2dfb8"], "position": "haut", "rangs": 2, "nombre": 18 } },
+ "Gulmancé": { "composition": { "forme": "carre", "couleurs": ["#f2dfb8"], "position": "milieu", "rangs": 1, "nombre": 14 } },
+ "Samo (San)": { "composition": { "forme": "losange", "couleurs": ["#2a1a10", "#b8322a"], "position": "bas", "rangs": 2, "nombre": 16 } },
+ "Lyela": { "composition": { "forme": "cercle", "couleurs": ["#f2dfb8", "#2a1a10"], "position": "haut", "rangs": 2, "nombre": 22 } },
+ "Songhaï": { "composition": { "forme": "losange", "couleurs": ["#1d2a66", "#f2dfb8"], "position": "milieu", "rangs": 3, "nombre": 12 } },
+ "Nuna": { "composition": { "forme": "triangle", "couleurs": ["#b8322a", "#2a1a10", "#f2dfb8"], "position": "partout", "rangs": 5, "nombre": 12 } },
+ "Marka (Dafing)": { "composition": { "forme": "carre", "couleurs": ["#1d2a66", "#f2dfb8"], "position": "bas", "rangs": 2, "nombre": 20 } }
+}
