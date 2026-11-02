@@ -1,0 +1,162 @@
+{
+  "id": "silamaka",
+  "titre": "Silamaka et Poullori",
+  "presentation": "Le roi de Ségou réclame un tribut à tous les campements. Tu es Poullori, à qui rien ne fait peur, et tu ne quittes jamais Silamaka. Allez-vous payer ?",
+  "start": "n1",
+  "personnages": {
+    "griot": {
+      "nom": "Le griot",
+      "style": "griot",
+      "couleur": "#8a5a12"
+    },
+    "silamaka": {
+      "nom": "Silamaka",
+      "style": "cavalier",
+      "couleur": "#6b2d1a"
+    },
+    "poullori": {
+      "nom": "Poullori",
+      "style": "guerrier",
+      "couleur": "#8a2a1b"
+    },
+    "envoye": {
+      "nom": "L'envoyé de Ségou",
+      "style": "garde",
+      "couleur": "#1d2a66"
+    },
+    "serpent": {
+      "nom": "Le serpent",
+      "style": "serpent",
+      "couleur": "#5a5a1e"
+    }
+  },
+  "distribution": {
+    "brousse": {
+      "silamaka": -2.2,
+      "serpent": 2.2
+    },
+    "sahel": {
+      "silamaka": -1,
+      "poullori": -3.2,
+      "envoye": 3
+    },
+    "village": {
+      "silamaka": -2,
+      "poullori": 2
+    }
+  },
+  "nodes": {
+    "n1": {
+      "speaker": "griot",
+      "text": "Silamaka, un héros peul. Et Poullori, son compagnon, à qui rien ne fait peur. Silamaka n'était encore qu'un enfant quand un serpent se dressa devant lui, dans la brousse.",
+      "scene": "brousse",
+      "explore": [
+        "calebasse"
+      ],
+      "next": "n2"
+    },
+    "n2": {
+      "speaker": "griot",
+      "text": "Il tend la main, et le serpent, au lieu de mordre, s'incline. Il devient son protecteur.",
+      "next": "n3"
+    },
+    "n3": {
+      "speaker": "griot",
+      "text": "Puis vient le roi de Ségou, qui exige un tribut de tous les campements. Ses envoyés arrivent, sûrs d'eux.",
+      "scene": "sahel",
+      "next": "n4"
+    },
+    "n4": {
+      "speaker": "envoye",
+      "text": "Le tribut. Ou l'armée de Ségou viendra le prendre.",
+      "next": "n5"
+    },
+    "n5": {
+      "speaker": "griot",
+      "text": "Tout le campement se tait. On regarde Silamaka, et il te regarde. Que lui dis-tu ?",
+      "choices": [
+        {
+          "label": "« Je suis avec toi, quoi que tu répondes. »",
+          "next": "avec",
+          "tag": "fidélité"
+        },
+        {
+          "label": "« Paye : nous ne sommes que deux. »",
+          "next": "paye",
+          "tag": "prudence"
+        }
+      ]
+    },
+    "paye": {
+      "speaker": "silamaka",
+      "text": "Tu dis cela, Poullori ? Toi ?",
+      "next": "n6"
+    },
+    "n6": {
+      "speaker": "griot",
+      "text": "Il te regarde encore. Tu maintiens ton conseil ?",
+      "choices": [
+        {
+          "label": "Non : « Je suis avec toi. »",
+          "next": "avec",
+          "tag": "fidélité"
+        },
+        {
+          "label": "Oui : le campement vaut plus que notre fierté",
+          "next": "finpaye",
+          "tag": "tribut payé"
+        }
+      ]
+    },
+    "finpaye": {
+      "speaker": "griot",
+      "text": "Le campement paie. Il paiera l'an prochain aussi. Dans ce chemin imaginé, il n'y a pas d'épopée, et personne ne chante plus vos noms.",
+      "end": "tribut"
+    },
+    "avec": {
+      "speaker": "silamaka",
+      "text": "Dites à votre roi que nous ne paierons pas.",
+      "next": "n7"
+    },
+    "n7": {
+      "speaker": "griot",
+      "text": "Les envoyés font demi-tour. Chacun sait ce qui va suivre. L'armée de Ségou arrive. En selle !",
+      "next": "n8"
+    },
+    "n8": {
+      "minigame": "course_cheval",
+      "tags": {
+        "win": "course gagnée",
+        "lose": "course perdue"
+      },
+      "scene": "course",
+      "consigne": "L'armée de Ségou arrive ! Tape vite sur ESPACE ou sur l'écran pour charger aux côtés de Silamaka.",
+      "gagne": "Vous chargez, côte à côte !",
+      "perdu": "L'armée vous presse, mais vous restez côte à côte !",
+      "next": "n9"
+    },
+    "n9": {
+      "speaker": "griot",
+      "text": "Quand un coup menace Silamaka, le serpent surgit entre vous. Personne n'ose l'approcher, et l'armée recule.",
+      "scene": "village",
+      "next": "n10"
+    },
+    "n10": {
+      "speaker": "griot",
+      "text": "Le soir, les deux amis s'éloignent ensemble, dans la lumière. Certaines versions racontent une fin plus sombre. Toutes disent que Poullori ne le quitta jamais.",
+      "explore": [
+        "etalon"
+      ],
+      "next": "n11"
+    },
+    "n11": {
+      "speaker": "griot",
+      "text": "Silamaka, fils du courage ! Poullori, fidèle ami ! Vos noms ne mourront pas, tant qu'un griot aura une voix !",
+      "end": "canon"
+    }
+  },
+  "fins": {
+    "canon": "Version du griot : vos noms ne mourront pas",
+    "tribut": "Autre chemin : le tribut payé"
+  }
+}

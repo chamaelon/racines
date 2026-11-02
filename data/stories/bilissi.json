@@ -1,0 +1,215 @@
+{
+  "id": "bilissi",
+  "titre": "La part de Bilissi",
+  "presentation": "Au Macina, Bilissi prend la meilleure part de chaque bête. Tu es Hamadi, jeune berger, et tes enfants ont faim. Comment faire tomber un tyran sans armes ?",
+  "start": "n1",
+  "personnages": {
+    "griot": {
+      "nom": "Le griot",
+      "style": "griot",
+      "couleur": "#8a5a12"
+    },
+    "hamadi": {
+      "nom": "Hamadi",
+      "style": "jeune",
+      "couleur": "#2c6e49"
+    },
+    "femme": {
+      "nom": "La femme",
+      "style": "femme",
+      "couleur": "#1f6f6b"
+    },
+    "bilissi": {
+      "nom": "Bilissi",
+      "style": "roi",
+      "couleur": "#2f3f8f"
+    },
+    "garde": {
+      "nom": "Le garde",
+      "style": "garde",
+      "couleur": "#1d2a66"
+    }
+  },
+  "distribution": {
+    "sahel": {
+      "hamadi": -2.4,
+      "garde": 2.4
+    },
+    "veillee": {
+      "hamadi": -2.2,
+      "femme": 2.2
+    },
+    "palais": {
+      "hamadi": -2.6,
+      "bilissi": 2.2
+    },
+    "village": {
+      "hamadi": -1.8,
+      "femme": 2.2
+    }
+  },
+  "nodes": {
+    "n1": {
+      "speaker": "griot",
+      "text": "Au Macina, autrefois, les troupeaux couvraient la plaine. Ce pays aurait pu être heureux, s'il n'avait pas eu Bilissi.",
+      "scene": "sahel",
+      "next": "n2"
+    },
+    "n2": {
+      "speaker": "garde",
+      "text": "La part la plus charnue revient à Bilissi. C'est sa loi.",
+      "next": "n3"
+    },
+    "n3": {
+      "speaker": "griot",
+      "text": "Les gardes ne laissent presque rien aux familles. Hamadi regarde les enfants de son campement maigrir. Que fait-il ?",
+      "choices": [
+        {
+          "label": "Il réfléchit à une ruse",
+          "next": "ruse",
+          "tag": "une idée",
+          "add": {
+            "ruse": 1
+          }
+        },
+        {
+          "label": "Il va se plaindre aux gardes",
+          "next": "plainte",
+          "tag": "plainte"
+        }
+      ]
+    },
+    "plainte": {
+      "speaker": "garde",
+      "text": "Te plaindre ? Encore un mot, et ta bête aussi sera pour lui.",
+      "next": "n4"
+    },
+    "n4": {
+      "speaker": "griot",
+      "text": "La force ne l'aidera pas. Il faut autre chose.",
+      "next": "ruse"
+    },
+    "ruse": {
+      "speaker": "hamadi",
+      "text": "Il aime la meilleure part ? Il va l'avoir.",
+      "next": "n5"
+    },
+    "n5": {
+      "speaker": "griot",
+      "text": "Dans la nuit, ils préparent un morceau magnifique. Regarde ce qu'il y a dans la cour.",
+      "scene": "veillee",
+      "explore": [
+        "calebasse",
+        "chapeau-sapone"
+      ],
+      "next": "n6"
+    },
+    "n6": {
+      "speaker": "griot",
+      "text": "Avec quoi Hamadi remplit-il le morceau ?",
+      "choices": [
+        {
+          "label": "Du piment, et par-dessus du beurre doré",
+          "next": "piment",
+          "tag": "piment",
+          "add": {
+            "ruse": 1
+          }
+        },
+        {
+          "label": "Des cailloux, bien cachés",
+          "next": "cailloux",
+          "tag": "cailloux"
+        }
+      ]
+    },
+    "cailloux": {
+      "speaker": "femme",
+      "text": "Des cailloux ? Il les sentira à la première bouchée, et il saura qui les a mis. Prends plutôt du piment, et couvre-le de beurre.",
+      "next": "n7"
+    },
+    "n7": {
+      "speaker": "griot",
+      "text": "Veux-tu l'écouter ?",
+      "choices": [
+        {
+          "label": "Oui, va pour le piment",
+          "next": "piment",
+          "tag": "piment",
+          "add": {
+            "ruse": 1
+          }
+        },
+        {
+          "label": "Non, je garde mes cailloux",
+          "next": "casse",
+          "tag": "cailloux gardés"
+        }
+      ]
+    },
+    "casse": {
+      "speaker": "griot",
+      "text": "Bilissi mord, crache une dent, et fait battre le campement. On ne rit pas. Le tyran reste, et désormais il fait goûter tout ce qu'on lui sert.",
+      "scene": "palais",
+      "end": "colere"
+    },
+    "piment": {
+      "speaker": "femme",
+      "text": "Et s'il comprend ?",
+      "next": "n8"
+    },
+    "n8": {
+      "speaker": "hamadi",
+      "text": "Il ne regarde que la viande.",
+      "next": "n9"
+    },
+    "n9": {
+      "speaker": "griot",
+      "text": "Le jour du grand sacrifice, les tambours donnent la cadence du cortège. Hamadi doit avancer au rythme, les yeux baissés.",
+      "scene": "palais",
+      "next": "n10"
+    },
+    "n10": {
+      "minigame": "rythme",
+      "tags": {
+        "win": "rythme tenu",
+        "lose": "rythme perdu"
+      },
+      "sequence": [
+        0,
+        1,
+        0,
+        2
+      ],
+      "consigne": "Reproduis le rythme du cortège pour arriver sans attirer l'attention.",
+      "gagne": "Personne ne te regarde : tu arrives devant Bilissi.",
+      "perdu": "Tu trébuches un peu, mais Bilissi ne voit que la viande.",
+      "next": "n11"
+    },
+    "n11": {
+      "speaker": "bilissi",
+      "text": "Donne ! C'est ma part !",
+      "next": "n12"
+    },
+    "n12": {
+      "speaker": "griot",
+      "text": "Bilissi l'engloutit d'un seul coup, sans même mâcher. Le piment ! Il devient rouge, il saute, il hurle. Et pour la première fois, tout le monde ose rire de lui.",
+      "next": "n13"
+    },
+    "n13": {
+      "speaker": "griot",
+      "text": "Un tyran dont on se moque ne fait plus peur. Bilissi, ridiculisé, quitte le pays, et on partage enfin la viande entre toutes les familles.",
+      "scene": "village",
+      "next": "n14"
+    },
+    "n14": {
+      "speaker": "griot",
+      "text": "Depuis, on dit : la part de Bilissi. C'est la part que prend un puissant, sans la mériter.",
+      "end": "canon"
+    }
+  },
+  "fins": {
+    "canon": "Version du griot : la part de Bilissi",
+    "colere": "Autre chemin : Bilissi reste, et il se méfie"
+  }
+}

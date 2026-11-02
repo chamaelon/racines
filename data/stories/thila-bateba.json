@@ -1,0 +1,195 @@
+{
+  "id": "thila-bateba",
+  "titre": "Les thila et les bateba",
+  "presentation": "Rien ne semble pouvoir atteindre la soukala de Kambiré. Pourtant, son enfant tombe malade et un serpent entre dans le grenier. À toi de l'aider à comprendre. Ce mythe reste à remplacer ou à valider après collecte.",
+  "start": "n1",
+  "personnages": {
+    "griot": {
+      "nom": "Le griot",
+      "style": "griot",
+      "couleur": "#8a5a12"
+    },
+    "kambire": {
+      "nom": "Kambiré",
+      "style": "paysan",
+      "couleur": "#6a4a1e"
+    },
+    "devineresse": {
+      "nom": "La devineresse",
+      "style": "vieille",
+      "couleur": "#5b3a6b"
+    },
+    "thila": {
+      "nom": "Un thila",
+      "style": "esprit",
+      "couleur": "#4a4f57"
+    },
+    "enfant": {
+      "nom": "L'enfant",
+      "style": "enfant",
+      "couleur": "#a0670f"
+    },
+    "serpent": {
+      "nom": "Le serpent",
+      "style": "serpent",
+      "couleur": "#5a5a1e"
+    }
+  },
+  "distribution": {
+    "village": {
+      "kambire": -2.4,
+      "devineresse": 2.4
+    },
+    "veillee": {
+      "kambire": -2.6,
+      "thila": 2.2
+    },
+    "champ": {
+      "kambire": -2.4,
+      "enfant": 2.4
+    },
+    "nuit": {
+      "serpent": -1.5
+    }
+  },
+  "nodes": {
+    "n1": {
+      "speaker": "griot",
+      "text": "Voici la soukala de Kambiré, une maison-forteresse aux murs épais. Mais un jour, son enfant tombe malade. Puis un serpent se glisse dans le grenier.",
+      "scene": "village",
+      "next": "n2"
+    },
+    "n2": {
+      "speaker": "griot",
+      "text": "Le malheur est entré dans la maison. Que fait Kambiré ?",
+      "choices": [
+        {
+          "label": "Il va voir la devineresse",
+          "next": "devin",
+          "tag": "devineresse consultée"
+        },
+        {
+          "label": "Il renforce ses murs",
+          "next": "murs",
+          "tag": "murs renforcés"
+        }
+      ]
+    },
+    "murs": {
+      "speaker": "griot",
+      "text": "Il monte les murs d'une rangée de terre. L'enfant ne guérit pas, et le serpent ne part pas.",
+      "next": "n3"
+    },
+    "n3": {
+      "speaker": "griot",
+      "text": "Les murs ne suffisent pas. Va-t-il chercher plus loin ?",
+      "choices": [
+        {
+          "label": "Oui, il va voir la devineresse",
+          "next": "devin",
+          "tag": "devineresse consultée"
+        },
+        {
+          "label": "Non, il garde confiance dans ses murs",
+          "next": "finmurs",
+          "tag": "confiance aux murs"
+        }
+      ]
+    },
+    "finmurs": {
+      "speaker": "griot",
+      "text": "Une maison se garde par ce qu'on y honore autant que par ses murs. Kambiré, lui, ne l'a pas appris cette saison-là.",
+      "end": "murs"
+    },
+    "devin": {
+      "speaker": "kambire",
+      "text": "Mon enfant souffre. Qui nous en veut ?",
+      "next": "n4"
+    },
+    "n4": {
+      "speaker": "devineresse",
+      "text": "Voyons cela.",
+      "next": "n5"
+    },
+    "n5": {
+      "minigame": "devinette",
+      "tags": {
+        "win": "bonne réponse",
+        "lose": "réponse manquée"
+      },
+      "question": "La devineresse jette quelque chose sur le sol pour lire la réponse. Quoi donc ?",
+      "reponses": [
+        {
+          "label": "Des cauris",
+          "correct": true
+        },
+        {
+          "label": "Des grains de mil"
+        },
+        {
+          "label": "Des braises"
+        }
+      ],
+      "gagne": "Elle jette les cauris, et les regarde longtemps.",
+      "perdu": "Ce sont des cauris qu'elle jette, et elle les regarde longtemps.",
+      "next": "n6"
+    },
+    "n6": {
+      "speaker": "devineresse",
+      "text": "Ce sont les thila, les esprits. Ils attendent quelque chose de toi.",
+      "next": "n7"
+    },
+    "n7": {
+      "speaker": "thila",
+      "text": "Sculpte une statue de bois. Pose-la chez toi. Elle veillera.",
+      "scene": "veillee",
+      "next": "n8"
+    },
+    "n8": {
+      "speaker": "griot",
+      "text": "Au réveil, Kambiré sait ce qu'il a à faire. Il choisit un tronc et se met à tailler, sans parler. Une statue, puis une seconde : les bateba. Regarde sa maison.",
+      "explore": [
+        "case-ronde",
+        "canari"
+      ],
+      "next": "n9"
+    },
+    "n9": {
+      "speaker": "griot",
+      "text": "Il les pose sur l'autel, à l'entrée, avec une offrande. Comment la famille les reçoit-elle ?",
+      "choices": [
+        {
+          "label": "Elle les salue, comme des gens de la maison",
+          "next": "salue",
+          "tag": "bateba salués"
+        },
+        {
+          "label": "Elle les laisse là sans un mot",
+          "next": "muet",
+          "tag": "bateba oubliés"
+        }
+      ]
+    },
+    "muet": {
+      "speaker": "griot",
+      "text": "Kambiré se reprend : on ne pose pas un gardien sans le saluer. Toute la famille revient le faire.",
+      "next": "salue"
+    },
+    "salue": {
+      "speaker": "griot",
+      "text": "La nuit suivante, le serpent revient. Il s'approche de l'autel, et les bateba s'éveillent. Une lueur les entoure. Le serpent recule, et s'en va.",
+      "scene": "nuit",
+      "next": "n10"
+    },
+    "n10": {
+      "speaker": "griot",
+      "text": "Au matin, l'enfant joue dans la cour. Depuis, les Lobi disent que les bateba veillent sur la maison.",
+      "scene": "champ",
+      "end": "canon"
+    }
+  },
+  "fins": {
+    "canon": "Version du griot : les bateba veillent",
+    "murs": "Autre chemin : Kambiré se fie à ses murs"
+  }
+}

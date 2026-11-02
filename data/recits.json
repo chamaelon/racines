@@ -149,7 +149,7 @@
         "duree": 61
       }
     },
-    "jouable": null,
+    "jouable": "stories/naaba-wobgo.json",
     "morale": "À retenir : la conquête du pays mossi s'est faite par la force, face à un souverain qui a refusé de se soumettre.",
     "personnages": [
       "Naaba Wobgo (Boukary Koutou)",
@@ -222,7 +222,7 @@
         "duree": 59
       }
     },
-    "jouable": null,
+    "jouable": "stories/tiefo-amoro.json",
     "morale": "À retenir : avant même la conquête coloniale, les peuples de l'Ouest ont dû défendre leurs cités contre les grands empires conquérants.",
     "personnages": [
       "Tiéfo Amoro",
@@ -289,7 +289,7 @@
         "duree": 114
       }
     },
-    "jouable": null,
+    "jouable": "stories/silures-dafra.json",
     "morale": "On ne prend pas à la légère ce qu'une ville entière protège.",
     "personnages": [
       "Awa",
@@ -339,7 +339,7 @@
     "texte": "textes/kinkirsi.fr.md",
     "texteLocal": {},
     "audio": {},
-    "jouable": null,
+    "jouable": "stories/kinkirsi.json",
     "morale": "Le monde visible n'est pas seul : on y marche avec égards.",
     "personnages": [
       "Les kinkirsi",
@@ -399,7 +399,7 @@
         "duree": 95
       }
     },
-    "jouable": null,
+    "jouable": "stories/bilissi.json",
     "morale": "Un tyran dont on se moque ne fait plus peur.",
     "personnages": [
       "Hamadi",
@@ -447,7 +447,7 @@
     "texte": "textes/thila-bateba.fr.md",
     "texteLocal": {},
     "audio": {},
-    "jouable": null,
+    "jouable": "stories/thila-bateba.json",
     "morale": "Une maison se garde par ce qu'on y honore autant que par ses murs.",
     "personnages": [
       "Le père",
@@ -497,7 +497,7 @@
     "texte": "textes/wuro-masque.fr.md",
     "texteLocal": {},
     "audio": {},
-    "jouable": null,
+    "jouable": "stories/wuro-masque.json",
     "morale": "Ce qui nous est confié pour réparer le monde se porte avec respect.",
     "personnages": [
       "Le cultivateur",
@@ -549,7 +549,7 @@
     "texte": "textes/wuro-pilon.fr.md",
     "texteLocal": {},
     "audio": {},
-    "jouable": null,
+    "jouable": "stories/wuro-pilon.json",
     "morale": "Une blessure peut éloigner ceux qui s'aiment sans rompre ce qui les relie.",
     "personnages": [
       "Wuro",
@@ -607,7 +607,7 @@
     "texte": "textes/gazelle.fr.md",
     "texteLocal": {},
     "audio": {},
-    "jouable": null,
+    "jouable": "stories/gazelle.json",
     "morale": "L'orgueil court vite, mais la patience arrive souvent la première.",
     "personnages": [
       "La gazelle",
@@ -651,7 +651,7 @@
     "texte": "textes/tenin-1915.fr.md",
     "texteLocal": {},
     "audio": {},
-    "jouable": null,
+    "jouable": "stories/tenin-1915.json",
     "morale": "À retenir : une injustice faite à une seule personne peut soulever tout un peuple.",
     "personnages": [
       "Le commandant",
@@ -704,7 +704,7 @@
     "texte": "textes/bona-1915.fr.md",
     "texteLocal": {},
     "audio": {},
-    "jouable": null,
+    "jouable": "stories/bona-1915.json",
     "morale": "À retenir : une parole d'espoir peut devenir un soulèvement.",
     "personnages": [
       "Le prédicateur",
@@ -756,7 +756,7 @@
     "texte": "textes/pics-sindou.fr.md",
     "texteLocal": {},
     "audio": {},
-    "jouable": null,
+    "jouable": "stories/pics-sindou.json",
     "morale": "Un peuple garde ce qui l'a protégé en le respectant.",
     "personnages": [
       "Nakan"
@@ -800,7 +800,7 @@
     "texte": "textes/tene-balafon.fr.md",
     "texteLocal": {},
     "audio": {},
-    "jouable": null,
+    "jouable": "stories/tene-balafon.json",
     "morale": "Toute belle musique ne mérite pas qu'on la suive dans la nuit.",
     "personnages": [
       "La mère",
@@ -852,7 +852,7 @@
     "texte": "textes/dyoro.fr.md",
     "texteLocal": {},
     "audio": {},
-    "jouable": null,
+    "jouable": "stories/dyoro.json",
     "morale": "On ne devient pas adulte sans traverser quelque chose.",
     "personnages": [
       "Le doyen",
@@ -894,7 +894,7 @@
     "texte": "textes/loropeni.fr.md",
     "texteLocal": {},
     "audio": {},
-    "jouable": null,
+    "jouable": "stories/loropeni.json",
     "morale": "À retenir : les pierres gardent la mémoire de ceux qui les ont dressées.",
     "personnages": [
       "Le chef",
@@ -943,7 +943,7 @@
     "texte": "textes/obire.fr.md",
     "texteLocal": {},
     "audio": {},
-    "jouable": null,
+    "jouable": "stories/obire.json",
     "morale": "À retenir : un royaume survit à ses rois par les règles de leur succession.",
     "personnages": [
       "Le visiteur",
@@ -986,7 +986,7 @@
     "texte": "textes/zenuo.fr.md",
     "texteLocal": {},
     "audio": {},
-    "jouable": null,
+    "jouable": "stories/zenuo.json",
     "morale": "Un foyer se fonde là où l'on sait lire les signes.",
     "personnages": [
       "Zenuo",
@@ -1031,7 +1031,7 @@
     "texte": "textes/gyil.fr.md",
     "texteLocal": {},
     "audio": {},
-    "jouable": null,
+    "jouable": "stories/gyil.json",
     "morale": "Ce qu'on rapporte de la brousse se partage, et se paie parfois.",
     "personnages": [
       "Le génie",
@@ -1074,7 +1074,7 @@
     "texte": "textes/guimbi.fr.md",
     "texteLocal": {},
     "audio": {},
-    "jouable": null,
+    "jouable": "stories/guimbi.json",
     "morale": "À retenir : l'autorité d'une femme a pu peser dans la politique de son temps.",
     "personnages": [
       "Guimbi",
@@ -1120,7 +1120,7 @@
     "texte": "textes/famagan.fr.md",
     "texteLocal": {},
     "audio": {},
-    "jouable": null,
+    "jouable": "stories/famagan.json",
     "morale": "À retenir : les royaumes naissent de rencontres, et de conquêtes.",
     "personnages": [
       "Famagan",
@@ -1163,7 +1163,7 @@
     "texte": "textes/landolo.fr.md",
     "texteLocal": {},
     "audio": {},
-    "jouable": null,
+    "jouable": "stories/landolo.json",
     "morale": "Celui qu'on méprise peut devenir celui qui sauve.",
     "personnages": [
       "La marâtre",
@@ -1210,7 +1210,7 @@
     "texte": "textes/rakire.fr.md",
     "texteLocal": {},
     "audio": {},
-    "jouable": null,
+    "jouable": "stories/rakire.json",
     "morale": "Mieux vaut se moquer les uns des autres que se battre.",
     "personnages": [
       "Le chef mossi",
@@ -1255,7 +1255,7 @@
     "texte": "textes/vur.fr.md",
     "texteLocal": {},
     "audio": {},
-    "jouable": null,
+    "jouable": "stories/vur.json",
     "morale": "La vérité finit par éclater, même quand l'innocent est seul.",
     "personnages": [
       "Le voisin",
@@ -1299,7 +1299,7 @@
     "texte": "textes/ancetre-ciel.fr.md",
     "texteLocal": {},
     "audio": {},
-    "jouable": null,
+    "jouable": "stories/ancetre-ciel.json",
     "morale": "Un village se souvient d'où il vient, jusque sur ses murs.",
     "personnages": [
       "L'ancêtre",
@@ -1348,7 +1348,7 @@
     "texte": "textes/crocodile.fr.md",
     "texteLocal": {},
     "audio": {},
-    "jouable": null,
+    "jouable": "stories/crocodile.json",
     "morale": "On n'oublie pas celui qui nous a sauvés.",
     "personnages": [
       "Abem",
@@ -1391,7 +1391,7 @@
     "texte": "textes/babatou.fr.md",
     "texteLocal": {},
     "audio": {},
-    "jouable": null,
+    "jouable": "stories/babatou.json",
     "morale": "À retenir : des villages isolés ont su s'unir pour résister.",
     "personnages": [
       "Le guetteur",
@@ -1433,7 +1433,7 @@
     "texte": "textes/lingani.fr.md",
     "texteLocal": {},
     "audio": {},
-    "jouable": null,
+    "jouable": "stories/lingani.json",
     "morale": "Le pouvoir qu'on prend sans suivre la coutume ne tient pas.",
     "personnages": [
       "Le prétendant",
@@ -1477,7 +1477,7 @@
     "texte": "textes/jaba-lompo.fr.md",
     "texteLocal": {},
     "audio": {},
-    "jouable": null,
+    "jouable": "stories/jaba-lompo.json",
     "morale": "Chaque peuple garde son propre récit des commencements.",
     "personnages": [
       "Jaba"
@@ -1520,7 +1520,7 @@
     "texte": "textes/maitres-terre.fr.md",
     "texteLocal": {},
     "audio": {},
-    "jouable": null,
+    "jouable": "stories/maitres-terre.json",
     "morale": "Le pouvoir se conquiert, la terre se respecte.",
     "personnages": [
       "Le maître",
@@ -1564,7 +1564,7 @@
     "texte": "textes/silamaka.fr.md",
     "texteLocal": {},
     "audio": {},
-    "jouable": null,
+    "jouable": "stories/silamaka.json",
     "morale": "La fidélité d'un compagnon vaut plus qu'un tribut.",
     "personnages": [
       "Silamaka",
@@ -1607,7 +1607,7 @@
     "texte": "textes/liptako.fr.md",
     "texteLocal": {},
     "audio": {},
-    "jouable": null,
+    "jouable": "stories/liptako.json",
     "morale": "À retenir : Dori fut la capitale d'un État peul du XIXe siècle.",
     "personnages": [
       "Le cultivateur",
@@ -1653,7 +1653,7 @@
     "texte": "textes/crapaud.fr.md",
     "texteLocal": {},
     "audio": {},
-    "jouable": null,
+    "jouable": "stories/crapaud.json",
     "morale": "Qui se vante le jour peut finir par ne chanter que la nuit.",
     "personnages": [
       "Le crapaud",

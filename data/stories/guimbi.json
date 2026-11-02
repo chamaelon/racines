@@ -1,0 +1,194 @@
+{
+  "id": "guimbi",
+  "titre": "Guimbi Ouattara, la reine de Bobo",
+  "presentation": "À Sya, on écoute Guimbi Ouattara. Tu es l'un de ses envoyés : tu assistes à l'accueil d'un explorateur, puis à l'ultimatum de Tiéba. Tes choix changent ce que tu retiens, pas ce qui s'est passé.",
+  "start": "n1",
+  "personnages": {
+    "griot": {
+      "nom": "Le griot",
+      "style": "griot",
+      "couleur": "#8a5a12"
+    },
+    "guimbi": {
+      "nom": "Guimbi Ouattara",
+      "style": "reine",
+      "couleur": "#7a1f4a"
+    },
+    "explorateur": {
+      "nom": "L'explorateur",
+      "style": "explorateur",
+      "couleur": "#6a5a2c"
+    },
+    "envoye": {
+      "nom": "L'envoyé de Tiéba",
+      "style": "cavalier",
+      "couleur": "#6b2d1a"
+    },
+    "griotte": {
+      "nom": "La griotte",
+      "style": "griotte",
+      "couleur": "#7a3b1d"
+    },
+    "plaignant": {
+      "nom": "Le plaignant",
+      "style": "paysan",
+      "couleur": "#6a4a1e"
+    }
+  },
+  "distribution": {
+    "palais": {
+      "guimbi": -2,
+      "plaignant": 2.6
+    },
+    "marche": {
+      "guimbi": -1.9,
+      "explorateur": 4.2
+    },
+    "village": {
+      "guimbi": -2,
+      "griotte": 2.4
+    }
+  },
+  "nodes": {
+    "n1": {
+      "speaker": "griot",
+      "text": "Fin du dix-neuvième siècle. Sya, que l'on appelle aujourd'hui Bobo-Dioulasso. Une femme y compte plus que beaucoup d'hommes.",
+      "scene": "palais",
+      "next": "n2"
+    },
+    "n2": {
+      "speaker": "guimbi",
+      "text": "Vous partagerez ce champ, et chacun gardera sa part.",
+      "next": "n3"
+    },
+    "n3": {
+      "speaker": "griot",
+      "text": "On vient la voir pour régler les disputes, et on l'écoute. Un jour, un explorateur européen arrive à Sya, épuisé.",
+      "explore": [
+        "soumbala",
+        "bogolan"
+      ],
+      "next": "n4"
+    },
+    "n4": {
+      "speaker": "griot",
+      "text": "Tu dois lui porter ce qu'elle a ordonné. C'est l'accueil dû à un visiteur. Que lui portes-tu ?",
+      "choices": [
+        {
+          "label": "De l'eau et de la cola",
+          "next": "bon",
+          "tag": "accueil"
+        },
+        {
+          "label": "Rien, c'est un inconnu",
+          "next": "rien",
+          "tag": "hésitation"
+        }
+      ]
+    },
+    "rien": {
+      "speaker": "guimbi",
+      "text": "Ici, l'étranger est sous ma protection. Porte-lui de l'eau et de la cola.",
+      "next": "bon"
+    },
+    "bon": {
+      "speaker": "explorateur",
+      "text": "Madame, je vous remercie de votre accueil. J'écrirai ce que j'ai vu.",
+      "scene": "marche",
+      "next": "n5"
+    },
+    "n5": {
+      "speaker": "griot",
+      "text": "Mais un danger s'approche : Tiéba, le roi de Sikasso, veut étendre son pouvoir. Il envoie un émissaire au galop.",
+      "next": "n6"
+    },
+    "n6": {
+      "speaker": "envoye",
+      "text": "Tiéba exige ta soumission.",
+      "scene": "palais",
+      "next": "n7"
+    },
+    "n7": {
+      "speaker": "guimbi",
+      "text": "Dis à ton maître que Bobo ne plie pas.",
+      "next": "n8"
+    },
+    "n8": {
+      "speaker": "griot",
+      "text": "Silence dans la cour. Chacun sait ce que veut dire ce refus. Où vas-tu te placer ? Le récit, lui, restera le même.",
+      "choices": [
+        {
+          "label": "Sur les murs, avec les défenseurs",
+          "next": "murs",
+          "tag": "sur les murs"
+        },
+        {
+          "label": "Près de Guimbi, dans la cour",
+          "next": "cour",
+          "tag": "dans la cour"
+        }
+      ]
+    },
+    "murs": {
+      "speaker": "griot",
+      "text": "Les cavaliers arrivent devant la ville. Depuis les murs, tu vois les flèches pleuvoir et les assauts se briser. Enfin, les cavaliers reculent.",
+      "next": "bilan"
+    },
+    "cour": {
+      "speaker": "griot",
+      "text": "Dans la cour, on entend les cris venus des murs. Les défenseurs tiennent bon, et les assauts se brisent. Enfin, les cavaliers reculent.",
+      "next": "bilan"
+    },
+    "bilan": {
+      "speaker": "griotte",
+      "text": "Guimbi ! Celle qui a tenu tête à un roi.",
+      "scene": "village",
+      "next": "n9"
+    },
+    "n9": {
+      "minigame": "devinette",
+      "tags": {
+        "win": "bonne réponse",
+        "lose": "réponse manquée"
+      },
+      "question": "À quel roi Guimbi Ouattara a-t-elle tenu tête ?",
+      "reponses": [
+        {
+          "label": "Tiéba, le roi de Sikasso",
+          "correct": true
+        },
+        {
+          "label": "Samory Touré"
+        },
+        {
+          "label": "Naaba Wobgo"
+        }
+      ],
+      "gagne": "Oui : Tiéba, le roi de Sikasso. Bobo est sauve, et la ville acclame Guimbi.",
+      "perdu": "C'était Tiéba, le roi de Sikasso. Écoute encore la griotte.",
+      "route": [
+        {
+          "when": {
+            "devinette": "win"
+          },
+          "next": "bien"
+        }
+      ],
+      "next": "relire"
+    },
+    "relire": {
+      "speaker": "griotte",
+      "text": "Reviens m'écouter : un nom se garde en le répétant.",
+      "end": "oubli"
+    },
+    "bien": {
+      "speaker": "griot",
+      "text": "À Bobo-Dioulasso, on se souvient encore de son nom.",
+      "end": "canon"
+    }
+  },
+  "fins": {
+    "canon": "Mémoire : celle qui a tenu tête à un roi",
+    "oubli": "Mémoire à reprendre : réécoute la griotte"
+  }
+}

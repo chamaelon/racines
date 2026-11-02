@@ -1,0 +1,178 @@
+{
+  "id": "gazelle",
+  "titre": "Les deux traits de la gazelle",
+  "presentation": "La gazelle, la plus rapide de la brousse, se moque du caméléon. Il la défie. Tu es dans la peau du caméléon : comment gagner quand on avance une patte après l'autre ?",
+  "start": "n1",
+  "personnages": {
+    "griot": {
+      "nom": "Le griot",
+      "style": "griot",
+      "couleur": "#8a5a12"
+    },
+    "gazelle": {
+      "nom": "La gazelle",
+      "style": "gazelle",
+      "couleur": "#8a5a22"
+    },
+    "cameleon": {
+      "nom": "Le caméléon",
+      "style": "cameleon",
+      "couleur": "#3f6f2a"
+    },
+    "elephant": {
+      "nom": "L'éléphant",
+      "style": "elephant",
+      "couleur": "#555a60"
+    }
+  },
+  "distribution": {
+    "mare": {
+      "gazelle": 2.4,
+      "cameleon": -2.4
+    },
+    "brousse": {
+      "gazelle": 2.2,
+      "cameleon": -3,
+      "elephant": -0.2
+    }
+  },
+  "nodes": {
+    "n1": {
+      "speaker": "griot",
+      "text": "Autrefois, la gazelle n'avait aucune marque sur le museau. Chaque jour, elle s'arrêtait à la mare pour admirer son beau visage.",
+      "scene": "mare",
+      "next": "n2"
+    },
+    "n2": {
+      "speaker": "gazelle",
+      "text": "Alors, vieux lent, tu arriveras avant la saison des pluies ?",
+      "next": "n3"
+    },
+    "n3": {
+      "speaker": "griot",
+      "text": "Elle tourne autour de toi en sautant par-dessus ta tête. Le lièvre et la pintade se mettent à rire. Que réponds-tu ?",
+      "choices": [
+        {
+          "label": "Rien. Tu changes de couleur, et tu réfléchis",
+          "next": "calme",
+          "tag": "calme",
+          "add": {
+            "ruse": 1
+          }
+        },
+        {
+          "label": "Tu lui lances une insulte",
+          "next": "insulte",
+          "tag": "insulte"
+        }
+      ]
+    },
+    "insulte": {
+      "speaker": "gazelle",
+      "text": "Oh, il sait parler ! Répète donc, je n'ai pas eu le temps de t'entendre, j'étais déjà loin.",
+      "next": "n4"
+    },
+    "n4": {
+      "speaker": "griot",
+      "text": "Tu ravales ta colère. Il faut mieux que des mots.",
+      "next": "calme"
+    },
+    "calme": {
+      "speaker": "cameleon",
+      "text": "Une course, gazelle. Jusque là-bas, à la termitière rouge.",
+      "next": "n5"
+    },
+    "n5": {
+      "speaker": "griot",
+      "text": "L'éléphant accepte d'être le juge. Il trace la ligne d'arrivée d'un geste de la trompe. Toute la brousse veut voir ça.",
+      "scene": "brousse",
+      "explore": [
+        "calebasse"
+      ],
+      "next": "n6"
+    },
+    "n6": {
+      "speaker": "gazelle",
+      "text": "Regardez-moi bien, tous ! Je partirai en dernier, pour vous laisser le temps de vous asseoir.",
+      "next": "n7"
+    },
+    "n7": {
+      "speaker": "griot",
+      "text": "Pendant qu'elle fanfaronne, comment courir ?",
+      "choices": [
+        {
+          "label": "Grimper sans bruit sur son dos, et prendre sa couleur",
+          "next": "dos",
+          "tag": "sur le dos",
+          "add": {
+            "ruse": 1
+          }
+        },
+        {
+          "label": "Partir en avance, de toutes tes forces",
+          "next": "avance",
+          "tag": "départ anticipé"
+        }
+      ]
+    },
+    "avance": {
+      "speaker": "elephant",
+      "text": "Reviens sur la ligne, caméléon. Même les juges voient ça.",
+      "next": "n8"
+    },
+    "n8": {
+      "speaker": "griot",
+      "text": "Tu rentres, l'air de rien. L'éléphant lève la trompe, la gazelle s'envole, et toi, tu fais trois pas. Elle n'a même pas besoin de se retourner.",
+      "end": "courue"
+    },
+    "dos": {
+      "speaker": "griot",
+      "text": "L'éléphant lève la trompe, et la gazelle bondit, légère comme le vent. Sur son dos, tu ne bouges pas.",
+      "next": "n9"
+    },
+    "n9": {
+      "speaker": "griot",
+      "text": "Elle se retourne : personne derrière elle. À la mare, elle boit tranquillement. Tu dois te faire oublier. Une devinette pour passer le temps !",
+      "scene": "mare",
+      "next": "n10"
+    },
+    "n10": {
+      "minigame": "devinette",
+      "tags": {
+        "win": "bonne réponse",
+        "lose": "réponse manquée"
+      },
+      "question": "Le caméléon gagne sans courir. Quelle est sa vraie force ?",
+      "reponses": [
+        {
+          "label": "Sa patience",
+          "correct": true
+        },
+        {
+          "label": "Ses longues jambes"
+        },
+        {
+          "label": "Sa grosse voix"
+        }
+      ],
+      "gagne": "La patience : l'orgueil court vite, mais elle arrive souvent la première.",
+      "perdu": "C'est sa patience : l'orgueil court vite, mais elle arrive souvent la première.",
+      "next": "n11"
+    },
+    "n11": {
+      "speaker": "griot",
+      "text": "Juste avant la ligne, la gazelle s'arrête pour se moquer de la piste vide. Alors tu sautes de son dos, et tu franchis la ligne. Toute la brousse éclate de rire.",
+      "scene": "brousse",
+      "next": "n12"
+    },
+    "n12": {
+      "speaker": "griot",
+      "text": "Pour la première fois, elle pleure. Ses larmes de honte laissent deux traits noirs sur son museau, et ils ne partent plus.",
+      "end": "canon"
+    }
+  },
+  "fins": {
+    "canon": "Version du griot : les deux traits de la gazelle",
+    "courue": "Autre chemin : la gazelle garde son museau blanc"
+  }
+}

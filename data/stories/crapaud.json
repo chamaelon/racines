@@ -1,0 +1,173 @@
+{
+  "id": "crapaud",
+  "titre": "Pourquoi le crapaud chante la nuit",
+  "presentation": "Le crapaud a la plus grosse voix de la mare, et il le fait savoir. L'éléphant organise un concours, l'araignée tisse sa toile. De quel côté seras-tu ?",
+  "start": "n1",
+  "personnages": {
+    "griot": {
+      "nom": "Le griot",
+      "style": "griot",
+      "couleur": "#8a5a12"
+    },
+    "crapaud": {
+      "nom": "Le crapaud",
+      "style": "crapaud",
+      "couleur": "#4f6321"
+    },
+    "elephant": {
+      "nom": "L'éléphant",
+      "style": "elephant",
+      "couleur": "#555a60"
+    },
+    "araignee": {
+      "nom": "L'araignée",
+      "style": "araignee",
+      "couleur": "#3a2a3a"
+    }
+  },
+  "distribution": {
+    "mare": {
+      "crapaud": -2.4,
+      "araignee": 2.4
+    },
+    "brousse": {
+      "elephant": -2.4,
+      "crapaud": 2.4
+    },
+    "marche": {
+      "crapaud": -1.9,
+      "elephant": 0.9
+    },
+    "veillee": {
+      "crapaud": -1.4
+    }
+  },
+  "nodes": {
+    "n1": {
+      "speaker": "griot",
+      "text": "Jadis, tous les animaux chantaient le jour, et la brousse était une grande fête. Le crapaud avait la plus grosse voix de la mare. Et surtout, la plus grande bouche.",
+      "scene": "mare",
+      "next": "n2"
+    },
+    "n2": {
+      "speaker": "crapaud",
+      "text": "Je suis le meilleur ! Écoutez plutôt !",
+      "next": "n3"
+    },
+    "n3": {
+      "speaker": "griot",
+      "text": "Il gonfle sa gorge, et il couvre le chant de tous les autres.",
+      "explore": [
+        "calebasse"
+      ],
+      "next": "n4"
+    },
+    "n4": {
+      "speaker": "elephant",
+      "text": "Un grand concours de chant ! Tous ensemble !",
+      "scene": "brousse",
+      "next": "n5"
+    },
+    "n5": {
+      "speaker": "griot",
+      "text": "Chacun s'entraîne : le lièvre, le chien, et même l'hyène. Le crapaud, lui, ne s'entraîne pas. Il est sûr de gagner.",
+      "next": "n6"
+    },
+    "n6": {
+      "minigame": "rythme",
+      "tags": {
+        "win": "rythme tenu",
+        "lose": "rythme perdu"
+      },
+      "sequence": [
+        0,
+        2,
+        0,
+        1
+      ],
+      "consigne": "Toi aussi, entraîne-toi avec les autres : reproduis la chanson.",
+      "gagne": "Bien chanté ! La brousse t'applaudit.",
+      "perdu": "Encore un effort. Tu as au moins essayé, toi.",
+      "next": "n7"
+    },
+    "n7": {
+      "speaker": "griot",
+      "text": "L'araignée a tout entendu, et elle est fatiguée de ce vantard. Elle s'approche de toi.",
+      "scene": "mare",
+      "next": "n8"
+    },
+    "n8": {
+      "speaker": "araignee",
+      "text": "Je vais tisser ma toile au-dessus de la mare. Le laisserons-nous faire le malin ?",
+      "next": "n9"
+    },
+    "n9": {
+      "speaker": "griot",
+      "text": "Que réponds-tu ?",
+      "choices": [
+        {
+          "label": "« Fais donc, il l'a bien cherché. »",
+          "next": "toile",
+          "tag": "toile tissée"
+        },
+        {
+          "label": "« Non, je vais d'abord le prévenir. »",
+          "next": "prevenir",
+          "tag": "avertissement"
+        }
+      ]
+    },
+    "prevenir": {
+      "speaker": "crapaud",
+      "text": "Moi ? M'entraîner ? Prendre garde ? Laisse-moi rire !",
+      "next": "n10"
+    },
+    "n10": {
+      "speaker": "griot",
+      "text": "Il n'écoute pas. Vas-tu insister ?",
+      "choices": [
+        {
+          "label": "Oui, tu lui répètes jusqu'à ce qu'il comprenne",
+          "next": "ecoute",
+          "tag": "crapaud convaincu"
+        },
+        {
+          "label": "Non, tant pis pour lui",
+          "next": "toile",
+          "tag": "toile tissée"
+        }
+      ]
+    },
+    "ecoute": {
+      "speaker": "griot",
+      "text": "Il finit par s'entraîner en grognant. Le jour du concours, il chante à son tour, sans sauter, et personne ne rit. Mais ce n'est pas ce que dit le conte : là, on n'expliquerait pas pourquoi il chante la nuit !",
+      "end": "ami"
+    },
+    "toile": {
+      "speaker": "griot",
+      "text": "Le jour du concours, la pintade chante, puis le chien. Vient le tour du crapaud. Il gonfle, gonfle, gonfle encore. Il monte, et il se prend dans la toile. Et patatras !",
+      "scene": "marche",
+      "next": "n11"
+    },
+    "n11": {
+      "speaker": "griot",
+      "text": "Tout le monde éclate de rire. La honte ! Le crapaud plonge, et il se cache sous l'eau.",
+      "next": "n12"
+    },
+    "n12": {
+      "speaker": "griot",
+      "text": "La nuit venue, il remonte tout doucement. Il regarde autour de lui : personne. Alors il chante, tout bas. La lune s'approche pour l'écouter.",
+      "scene": "veillee",
+      "next": "n13"
+    },
+    "n13": {
+      "speaker": "griot",
+      "text": "Depuis ce jour, le crapaud chante la nuit, quand plus personne ne peut se moquer de lui.",
+      "end": "canon"
+    }
+  },
+  "fins": {
+    "canon": "Version du griot : le crapaud chante la nuit",
+    "ami": "Autre chemin : le concours sans moquerie"
+  }
+}

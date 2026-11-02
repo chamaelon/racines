@@ -1,0 +1,195 @@
+{
+  "id": "pics-sindou",
+  "titre": "Les esprits des pics de Sindou",
+  "presentation": "Des cavaliers ont brûlé le village, et Nakan, la doyenne, mène les siens de nuit vers des pierres que personne n'a jamais vues. Marche avec eux, et choisis comment demander refuge.",
+  "start": "n1",
+  "personnages": {
+    "griot": {
+      "nom": "Le griot",
+      "style": "griot",
+      "couleur": "#8a5a12"
+    },
+    "nakan": {
+      "nom": "Nakan, la doyenne",
+      "style": "vieille",
+      "couleur": "#5b3a6b"
+    },
+    "homme": {
+      "nom": "Le plus fort",
+      "style": "forgeron",
+      "couleur": "#3e3626"
+    },
+    "enfant": {
+      "nom": "L'enfant",
+      "style": "enfant",
+      "couleur": "#a0670f"
+    },
+    "cavalier": {
+      "nom": "Un cavalier",
+      "style": "cavalier",
+      "couleur": "#6b2d1a"
+    },
+    "esprit": {
+      "nom": "Un esprit des rochers",
+      "style": "esprit",
+      "couleur": "#4a4f57"
+    }
+  },
+  "distribution": {
+    "village": {
+      "nakan": -2.6,
+      "cavalier": 2.8
+    },
+    "veillee": {
+      "nakan": -2.4,
+      "homme": 2,
+      "enfant": 3.8
+    },
+    "rochers": {
+      "nakan": -2.6,
+      "esprit": 2.6
+    }
+  },
+  "nodes": {
+    "n1": {
+      "speaker": "griot",
+      "text": "Dans le sud-ouest du Burkina, de hautes aiguilles de pierre se dressent au-dessus de la plaine. Autrefois, un village senoufo vivait plus au sud, en paix.",
+      "scene": "village",
+      "next": "n2"
+    },
+    "n2": {
+      "speaker": "cavalier",
+      "text": "Prenez les hommes ! Brûlez les toits !",
+      "next": "n3"
+    },
+    "n3": {
+      "speaker": "griot",
+      "text": "Les toits brûlent, et le village s'enfuit vers la brousse. Vite !",
+      "next": "n4"
+    },
+    "n4": {
+      "minigame": "course_cheval",
+      "tags": {
+        "win": "course gagnée",
+        "lose": "course perdue"
+      },
+      "scene": "course",
+      "consigne": "Les cavaliers vous poursuivent ! Tape vite sur ESPACE ou sur l'écran pour fuir avec le village.",
+      "gagne": "Les cavaliers perdent votre trace.",
+      "perdu": "Rattrapés de peu… le village se disperse et se retrouve à la nuit.",
+      "next": "n5"
+    },
+    "n5": {
+      "speaker": "griot",
+      "text": "Ils marchent de longues nuits, guidés par Nakan. Un enfant tombe de fatigue. Que fait-on ?",
+      "scene": "veillee",
+      "choices": [
+        {
+          "label": "Le plus fort le prend sur ses épaules",
+          "next": "epaules",
+          "tag": "enfant porté",
+          "add": {
+            "unis": 1
+          }
+        },
+        {
+          "label": "On lui demande de se relever seul",
+          "next": "seul",
+          "tag": "enfant pressé"
+        }
+      ]
+    },
+    "seul": {
+      "speaker": "nakan",
+      "text": "Personne ne reste derrière. Prends-le sur tes épaules, toi, le plus fort.",
+      "next": "epaules"
+    },
+    "epaules": {
+      "speaker": "nakan",
+      "text": "Là-bas ! Les pierres nous attendent.",
+      "next": "n6"
+    },
+    "n6": {
+      "speaker": "griot",
+      "text": "Ils arrivent au pied des pics. Personne n'a jamais rien vu de pareil. Regarde ce qu'ils ont sauvé.",
+      "scene": "rochers",
+      "explore": [
+        "balafon",
+        "case-ronde"
+      ],
+      "next": "n7"
+    },
+    "n7": {
+      "speaker": "griot",
+      "text": "Avant de construire, que fait Nakan au pied du plus grand rocher ?",
+      "choices": [
+        {
+          "label": "Elle dépose une offrande, et elle demande",
+          "next": "offrande",
+          "tag": "offrande",
+          "set": {
+            "offrande": true
+          }
+        },
+        {
+          "label": "Elle commence à bâtir tout de suite",
+          "next": "bati",
+          "tag": "construction sans demander"
+        }
+      ]
+    },
+    "bati": {
+      "speaker": "griot",
+      "text": "Les premières pierres posées roulent au matin. Trois fois, elles roulent. Nakan comprend-elle ?",
+      "choices": [
+        {
+          "label": "Oui, elle revient déposer une offrande",
+          "next": "offrande",
+          "tag": "offrande",
+          "set": {
+            "offrande": true
+          }
+        },
+        {
+          "label": "Non, elle emmène les siens plus loin",
+          "next": "errance",
+          "tag": "départ"
+        }
+      ]
+    },
+    "errance": {
+      "speaker": "griot",
+      "text": "Le village repart, sans abri, vers d'autres plaines. C'est une fin imaginée pour le jeu : ce n'est pas celle que l'on raconte à Sindou.",
+      "end": "errance"
+    },
+    "offrande": {
+      "speaker": "nakan",
+      "text": "Esprits des rochers, cachez-nous.",
+      "next": "n8"
+    },
+    "n8": {
+      "speaker": "esprit",
+      "text": "Nous voyons un peuple sans abri. Reste entre nos pierres.",
+      "next": "n9"
+    },
+    "n9": {
+      "speaker": "griot",
+      "text": "On bâtit le village entre les rochers, et la vie reprend. Mais un jour, les cavaliers retrouvent leur trace. Nakan se dresse et appelle les esprits.",
+      "next": "n10"
+    },
+    "n10": {
+      "speaker": "griot",
+      "text": "La montagne tremble. Des pierres roulent, et les chevaux prennent peur. Les cavaliers s'enfuient, et ils ne reviendront jamais.",
+      "next": "n11"
+    },
+    "n11": {
+      "speaker": "griot",
+      "text": "Aujourd'hui encore, à Sindou, on honore les esprits des rochers, pour garder leur protection.",
+      "end": "canon"
+    }
+  },
+  "fins": {
+    "canon": "Version du griot : les pierres ont gardé ce peuple",
+    "errance": "Autre chemin : le village repart vers le sud"
+  }
+}

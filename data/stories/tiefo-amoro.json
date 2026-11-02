@@ -1,0 +1,169 @@
+{
+  "id": "tiefo-amoro",
+  "titre": "Tiéfo Amoro et la chute de Noumoudara (1897)",
+  "presentation": "En 1897, Samory Touré avance vers la région de Bobo-Dioulasso. Tu vis le siège de Noumoudara auprès de Tiéfo Amoro. Le récit de sa fin ne repose que sur une source, et le jeu le dit. Tes choix changent ton regard, pas les faits.",
+  "start": "n1",
+  "personnages": {
+    "griot": {
+      "nom": "Le griot",
+      "style": "griot",
+      "couleur": "#8a5a12"
+    },
+    "amoro": {
+      "nom": "Tiéfo Amoro",
+      "style": "roi",
+      "couleur": "#2f3f8f"
+    },
+    "samory": {
+      "nom": "Samory Touré",
+      "style": "cavalier",
+      "couleur": "#6b2d1a"
+    },
+    "conferencier": {
+      "nom": "L'historien",
+      "style": "marabout",
+      "couleur": "#2c5f6e"
+    },
+    "defenseur": {
+      "nom": "Le défenseur",
+      "style": "guerrier",
+      "couleur": "#8a2a1b"
+    }
+  },
+  "distribution": {
+    "village": {
+      "amoro": -2.2,
+      "defenseur": 2.2
+    },
+    "ruines": {
+      "amoro": -2.2,
+      "defenseur": 2.2
+    },
+    "palais": {
+      "amoro": -2,
+      "conferencier": 2.4
+    },
+    "brousse": {
+      "samory": 2.4,
+      "defenseur": -2.4
+    }
+  },
+  "nodes": {
+    "n1": {
+      "speaker": "griot",
+      "text": "Noumoudara était le principal centre des Tiéfo, dans l'ouest de l'actuel Burkina Faso. À sa tête, à la fin du XIXe siècle, se trouvait Tiéfo Amoro.",
+      "scene": "village",
+      "explore": [
+        "tambour",
+        "bogolan"
+      ],
+      "next": "n2"
+    },
+    "n2": {
+      "speaker": "conferencier",
+      "text": "Une conférence donnée à Bobo-Dioulasso en 2026 le présente comme le onzième chef des Tiéfo, né vers 1840.",
+      "next": "n3"
+    },
+    "n3": {
+      "speaker": "griot",
+      "text": "En 1897, Samory Touré progresse vers la région de Bobo-Dioulasso. Selon cette même conférence, Tiéfo Amoro lui oppose plusieurs combats, notamment à Bama et à Péni.",
+      "scene": "brousse",
+      "next": "n4"
+    },
+    "n4": {
+      "speaker": "griot",
+      "text": "Frappe l'alerte qui appelle les combattants.",
+      "next": "n5"
+    },
+    "n5": {
+      "minigame": "rythme",
+      "tags": {
+        "win": "rythme tenu",
+        "lose": "rythme perdu"
+      },
+      "sequence": [
+        2,
+        2,
+        3,
+        0
+      ],
+      "consigne": "Les tambours appellent les combattants à Noumoudara. Reproduis l'appel.",
+      "gagne": "L'appel porte, et les combattants arrivent.",
+      "perdu": "L'appel se brouille, puis d'autres tambours le reprennent.",
+      "next": "n6"
+    },
+    "n6": {
+      "speaker": "griot",
+      "text": "Puis Samory assiège la forteresse. Où te tiens-tu pendant le siège ?",
+      "scene": "ruines",
+      "choices": [
+        {
+          "label": "Sur les murs, avec les défenseurs",
+          "next": "murs",
+          "tag": "sur les murs"
+        },
+        {
+          "label": "Près de Tiéfo Amoro",
+          "next": "chef",
+          "tag": "près du chef"
+        }
+      ]
+    },
+    "murs": {
+      "speaker": "defenseur",
+      "text": "Tiens bon. Il ne faut pas qu'ils trouvent une brèche.",
+      "next": "chute"
+    },
+    "chef": {
+      "speaker": "amoro",
+      "text": "Une cité se défend tant qu'il reste quelqu'un pour la défendre.",
+      "next": "n7"
+    },
+    "n7": {
+      "speaker": "griot",
+      "text": "Cette parole est imaginée pour le jeu : aucune source ne la rapporte.",
+      "next": "chute"
+    },
+    "chute": {
+      "speaker": "griot",
+      "text": "La forteresse tombe après environ une semaine, et Samory ordonne de la détruire pour montrer sa force.",
+      "next": "n8"
+    },
+    "n8": {
+      "speaker": "conferencier",
+      "text": "Selon l'historien cité lors de la conférence, une trahison aurait affaibli l'armée de Tiéfo Amoro, et celui-ci aurait choisi la mort plutôt que la reddition.",
+      "scene": "palais",
+      "next": "n9"
+    },
+    "n9": {
+      "speaker": "griot",
+      "text": "Que fais-tu de ce récit ?",
+      "choices": [
+        {
+          "label": "Le répéter tel quel, comme une certitude",
+          "next": "croire",
+          "tag": "répété tel quel"
+        },
+        {
+          "label": "Demander d'où il vient",
+          "next": "source",
+          "tag": "source demandée"
+        }
+      ]
+    },
+    "source": {
+      "speaker": "griot",
+      "text": "Bonne question : nous n'avons trouvé qu'une seule source pour ce récit de sa fin. Il est donné ici comme tel, et il reste à valider.",
+      "end": "source"
+    },
+    "croire": {
+      "speaker": "griot",
+      "text": "Prudence : une seule source rapporte cette fin. Ce qu'on sait, c'est qu'avant même la conquête coloniale, les peuples de l'Ouest ont dû défendre leurs cités contre de grands empires conquérants.",
+      "end": "canon"
+    }
+  },
+  "fins": {
+    "canon": "Mémoire : Noumoudara, un récit à vérifier",
+    "source": "Mémoire d'enquêteur : tu as demandé d'où vient ce récit"
+  }
+}

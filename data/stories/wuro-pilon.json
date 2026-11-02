@@ -1,0 +1,242 @@
+{
+  "id": "wuro-pilon",
+  "titre": "Wuro blessé par le pilon",
+  "presentation": "En ce temps-là, le ciel touchait presque les toits. Un coup de pilon va tout changer, et trois fils de Wuro devront réparer le monde. À toi de dire lequel appeler d'abord.",
+  "start": "n1",
+  "personnages": {
+    "griot": {
+      "nom": "Le griot",
+      "style": "griot",
+      "couleur": "#8a5a12"
+    },
+    "wuro": {
+      "nom": "Wuro",
+      "style": "createur",
+      "couleur": "#8a6a00"
+    },
+    "hame": {
+      "nom": "Hamé",
+      "style": "femme",
+      "couleur": "#1f6f6b"
+    },
+    "bado": {
+      "nom": "Bado",
+      "style": "forgeron",
+      "couleur": "#3e3626"
+    },
+    "sanou": {
+      "nom": "Sanou",
+      "style": "paysan",
+      "couleur": "#6a4a1e"
+    },
+    "yeli": {
+      "nom": "Yéli",
+      "style": "vieille",
+      "couleur": "#5b3a6b"
+    },
+    "tiko": {
+      "nom": "Tiko",
+      "style": "enfant",
+      "couleur": "#a0670f"
+    },
+    "soxo": {
+      "nom": "Soxo",
+      "style": "esprit",
+      "couleur": "#4a4f57"
+    },
+    "dwo": {
+      "nom": "Dwo",
+      "style": "masque",
+      "couleur": "#3f5f1e"
+    }
+  },
+  "distribution": {
+    "village": {
+      "wuro": -1.6,
+      "hame": 2,
+      "tiko": -3.8
+    },
+    "champ": {
+      "bado": -2.4,
+      "sanou": 2.4
+    },
+    "ciel": {
+      "wuro": 0
+    },
+    "bois": {
+      "yeli": -2.4,
+      "soxo": 2.4
+    },
+    "marche": {
+      "dwo": 0.9,
+      "bado": -3.6,
+      "sanou": 4
+    }
+  },
+  "nodes": {
+    "n1": {
+      "speaker": "griot",
+      "text": "Dans la nuit d'avant le monde, Wuro alluma les étoiles une à une. En ce temps-là, le ciel touchait presque les toits, et Wuro marchait parmi les hommes.",
+      "scene": "village",
+      "next": "n2"
+    },
+    "n2": {
+      "speaker": "wuro",
+      "text": "Semez ce mil à la saison des pluies. La terre vous le rendra au centuple.",
+      "next": "n3"
+    },
+    "n3": {
+      "speaker": "griot",
+      "text": "Regarde la cour où Hamé pile le mil.",
+      "explore": [
+        "to",
+        "calebasse"
+      ],
+      "next": "n4"
+    },
+    "n4": {
+      "speaker": "griot",
+      "text": "Wuro arrive, fatigué, et s'assoit près d'elle. Sa main reste suspendue au-dessus du mortier. Hamé pile de plus en plus vite. Et le pilon frappe la main de Wuro.",
+      "next": "n5"
+    },
+    "n5": {
+      "speaker": "hame",
+      "text": "Pardon, Wuro ! Je ne t'avais pas vu !",
+      "next": "n6"
+    },
+    "n6": {
+      "speaker": "griot",
+      "text": "Wuro regarde Hamé, sans colère. Il s'élève lentement, et le ciel monte avec lui, très haut.",
+      "next": "n7"
+    },
+    "n7": {
+      "speaker": "griot",
+      "text": "Sans Wuro, le monde se dérègle. La pluie ne vient plus, et le mil sèche sur pied.",
+      "scene": "champ",
+      "next": "n8"
+    },
+    "n8": {
+      "speaker": "bado",
+      "text": "Cette eau est pour ma famille !",
+      "next": "n9"
+    },
+    "n9": {
+      "speaker": "sanou",
+      "text": "Et la mienne, qu'elle meure de soif ?",
+      "next": "n10"
+    },
+    "n10": {
+      "speaker": "griot",
+      "text": "Le petit Tiko tombe malade. Que fait le village ?",
+      "choices": [
+        {
+          "label": "Il supplie Wuro, tous ensemble",
+          "next": "priere",
+          "tag": "prière commune"
+        },
+        {
+          "label": "Chacun garde son eau et se tait",
+          "next": "silence",
+          "tag": "silence"
+        }
+      ]
+    },
+    "silence": {
+      "speaker": "griot",
+      "text": "Personne n'appelle. Si personne ne lève les yeux, le ciel peut-il encore répondre ? Veux-tu qu'ils essaient une dernière fois ?",
+      "choices": [
+        {
+          "label": "Oui, Yéli appelle encore",
+          "next": "priere",
+          "tag": "prière de Yéli"
+        },
+        {
+          "label": "Non, ils ont trop de rancune",
+          "next": "finsilence",
+          "tag": "rancune"
+        }
+      ]
+    },
+    "finsilence": {
+      "speaker": "griot",
+      "text": "Ceci n'est pas ce que raconte le griot : c'est ce qui serait arrivé si plus personne n'avait appelé. Une blessure peut éloigner, mais le silence sépare tout à fait.",
+      "end": "silence"
+    },
+    "priere": {
+      "speaker": "wuro",
+      "text": "Je les entends. Du haut du ciel, j'ouvre les mains : trois lumières, mes trois fils.",
+      "scene": "ciel",
+      "next": "n11"
+    },
+    "n11": {
+      "speaker": "griot",
+      "text": "Trois malheurs attendent. Par lequel commencer ?",
+      "choices": [
+        {
+          "label": "La pluie : Kwere, la foudre",
+          "next": "kwere",
+          "tag": "Kwere d'abord"
+        },
+        {
+          "label": "Le remède : Soxo, l'esprit de la brousse",
+          "next": "soxo",
+          "tag": "Soxo d'abord"
+        }
+      ]
+    },
+    "kwere": {
+      "speaker": "griot",
+      "text": "Kwere frappe le sol de son bâton. Les nuages s'amoncellent, la pluie tombe enfin, et le mil se redresse.",
+      "next": "n12"
+    },
+    "n12": {
+      "speaker": "griot",
+      "text": "Puis, dans la brousse, Yéli cherche des remèdes quand la hyène surgit. Soxo tend la main, et la bête se couche. Il cueille les feuilles qui guérissent.",
+      "scene": "bois",
+      "next": "dwo"
+    },
+    "soxo": {
+      "speaker": "griot",
+      "text": "Dans la brousse, Yéli cherche des remèdes quand la hyène surgit. Soxo tend la main, et la bête se couche. Il cueille les feuilles qui guérissent.",
+      "scene": "bois",
+      "next": "n13"
+    },
+    "n13": {
+      "speaker": "griot",
+      "text": "Puis Kwere frappe le sol de son bâton. La pluie tombe enfin, et le mil se redresse.",
+      "next": "dwo"
+    },
+    "dwo": {
+      "speaker": "griot",
+      "text": "Tiko se relève. Enfin vient Dwo, le masque de feuilles. Il tourne, il saute. Accompagne-le.",
+      "scene": "marche",
+      "next": "n14"
+    },
+    "n14": {
+      "minigame": "rythme",
+      "tags": {
+        "win": "rythme tenu",
+        "lose": "rythme perdu"
+      },
+      "sequence": [
+        1,
+        3,
+        1,
+        0
+      ],
+      "consigne": "Reproduis la cadence de Dwo devant Bado et Sanou.",
+      "gagne": "Bado et Sanou se tendent la main, et tout le village danse.",
+      "perdu": "La cadence se perd un instant, mais Bado et Sanou se tendent la main.",
+      "next": "n15"
+    },
+    "n15": {
+      "speaker": "griot",
+      "text": "Le soir, Hamé pile de nouveau, plus doucement. Elle lève les yeux vers le ciel, devenu très haut. Une étoile lui répond.",
+      "end": "canon"
+    }
+  },
+  "fins": {
+    "canon": "Version du griot : une étoile répond",
+    "silence": "Autre chemin : on n'a plus levé les yeux"
+  }
+}

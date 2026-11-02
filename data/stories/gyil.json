@@ -1,0 +1,187 @@
+{
+  "id": "gyil",
+  "titre": "Le gyil des génies",
+  "presentation": "Les fêtes dagara sont bien tristes : personne n'a encore de gyil. Perdu dans la brousse, le chasseur Bayuo entend des génies frapper des lames de bois. Sauras-tu retenir leur musique ?",
+  "start": "n1",
+  "personnages": {
+    "griot": {
+      "nom": "Le griot",
+      "style": "griot",
+      "couleur": "#8a5a12"
+    },
+    "bayuo": {
+      "nom": "Bayuo",
+      "style": "chasseur",
+      "couleur": "#5a3d1c"
+    },
+    "genie": {
+      "nom": "Le génie",
+      "style": "genie",
+      "couleur": "#264a7a"
+    },
+    "femme": {
+      "nom": "Une villageoise",
+      "style": "femme",
+      "couleur": "#1f6f6b"
+    }
+  },
+  "distribution": {
+    "village": {
+      "bayuo": -2.2,
+      "femme": 2.2
+    },
+    "bois": {
+      "bayuo": -3,
+      "genie": 2.6
+    },
+    "marche": {
+      "bayuo": -1.9,
+      "femme": 4.2
+    }
+  },
+  "nodes": {
+    "n1": {
+      "speaker": "griot",
+      "text": "Autrefois, les villages dagara n'avaient pas de gyil. Les fêtes étaient bien tristes : on se regardait, et on s'ennuyait.",
+      "scene": "village",
+      "next": "n2"
+    },
+    "n2": {
+      "speaker": "griot",
+      "text": "Un jour, Bayuo s'éloigne trop dans la brousse. La nuit tombe. Soudain, il entend un son qu'il ne connaît pas : des kontomblé, les génies de la brousse, frappent sur des lames de bois.",
+      "scene": "bois",
+      "next": "n3"
+    },
+    "n3": {
+      "speaker": "griot",
+      "text": "Que fait-il ?",
+      "choices": [
+        {
+          "label": "Il se cache derrière un arbre pour écouter",
+          "next": "ecoute",
+          "tag": "écoute cachée"
+        },
+        {
+          "label": "Il s'enfuit vers le village",
+          "next": "fuite",
+          "tag": "fuite"
+        }
+      ]
+    },
+    "fuite": {
+      "speaker": "griot",
+      "text": "Il rentre au matin, et il essaie de raconter ce qu'il a entendu. Personne ne le croit. Les fêtes restent tristes, et lui reste avec un air qu'il ne sait plus retrouver.",
+      "end": "peur"
+    },
+    "ecoute": {
+      "speaker": "griot",
+      "text": "Il revient la nuit suivante, et la suivante encore. Ses mains, dans le vide, imitent les génies. À toi : retiens l'air.",
+      "next": "n4"
+    },
+    "n4": {
+      "minigame": "rythme",
+      "tags": {
+        "win": "rythme tenu",
+        "lose": "rythme perdu"
+      },
+      "sequence": [
+        1,
+        2,
+        0,
+        3
+      ],
+      "consigne": "Écoute les lames des génies, et reproduis l'air.",
+      "gagne": "Tes mains ont tout retenu.",
+      "perdu": "L'air t'échappe un peu, mais tes mains s'en souviennent.",
+      "next": "n5"
+    },
+    "n5": {
+      "speaker": "griot",
+      "text": "Une branche craque. Découvert !",
+      "next": "n6"
+    },
+    "n6": {
+      "speaker": "genie",
+      "text": "Qui ose nous espionner ?",
+      "next": "n7"
+    },
+    "n7": {
+      "speaker": "griot",
+      "text": "Que répond Bayuo ?",
+      "choices": [
+        {
+          "label": "« Je vous offre cette bière. Laissez-moi jouer ! »",
+          "next": "biere",
+          "tag": "bière offerte"
+        },
+        {
+          "label": "« Je suis perdu, je ne voulais rien. »",
+          "next": "perdu",
+          "tag": "excuse"
+        }
+      ]
+    },
+    "perdu": {
+      "speaker": "genie",
+      "text": "Tu mens : cela fait trois nuits que tes mains bougent derrière cet arbre. Qu'as-tu à offrir ?",
+      "next": "n8"
+    },
+    "n8": {
+      "speaker": "griot",
+      "text": "Il tend alors sa gourde de bière.",
+      "next": "biere"
+    },
+    "biere": {
+      "speaker": "griot",
+      "text": "Les génies se regardent. Puis ils lui tendent les baguettes. Bayuo joue. Il a tout retenu. Regarde ce qu'il tient.",
+      "explore": [
+        "balafon",
+        "dolo"
+      ],
+      "next": "n9"
+    },
+    "n9": {
+      "speaker": "genie",
+      "text": "Taille les lames dans cet arbre. Partage.",
+      "next": "n10"
+    },
+    "n10": {
+      "speaker": "griot",
+      "text": "Bayuo rentre. Il tient là un trésor. Qu'en fait-il ?",
+      "scene": "village",
+      "choices": [
+        {
+          "label": "Il le partage avec tout le village",
+          "next": "partage",
+          "tag": "gyil partagé"
+        },
+        {
+          "label": "Il le garde, et il se fait payer pour jouer",
+          "next": "garde",
+          "tag": "gyil gardé"
+        }
+      ]
+    },
+    "garde": {
+      "speaker": "griot",
+      "text": "Il joue seul, et il vend ses notes. Un soir, ses lames sonnent faux. Les génies avaient dit : partage. Dans ce chemin imaginé, le gyil se tait.",
+      "end": "garde"
+    },
+    "partage": {
+      "speaker": "griot",
+      "text": "Il taille les lames et y accroche des calebasses. Dès les premières notes, les pieds se mettent à bouger, et tout le village danse.",
+      "scene": "marche",
+      "next": "n11"
+    },
+    "n11": {
+      "speaker": "griot",
+      "text": "Depuis, le gyil accompagne les Dagara dans les fêtes, et aussi dans le deuil. Il accompagne la vie et la mort.",
+      "end": "canon"
+    }
+  },
+  "fins": {
+    "canon": "Version du griot : le premier gyil des hommes",
+    "garde": "Autre chemin : un gyil gardé pour soi",
+    "peur": "Autre chemin : la musique reste dans la brousse"
+  }
+}

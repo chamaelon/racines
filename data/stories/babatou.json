@@ -1,0 +1,173 @@
+{
+  "id": "babatou",
+  "titre": "Face aux cavaliers de Babatou",
+  "presentation": "Fin du XIXe siècle : les cavaliers zarma de Babatou capturent des hommes pour les vendre. Ton village apprend à veiller. Tes choix racontent ta place dans la défense, sans changer ce qu'a subi le pays.",
+  "start": "n1",
+  "personnages": {
+    "griot": {
+      "nom": "Le griot",
+      "style": "griot",
+      "couleur": "#8a5a12"
+    },
+    "guetteur": {
+      "nom": "Le guetteur",
+      "style": "jeune",
+      "couleur": "#2c6e49"
+    },
+    "chef": {
+      "nom": "Le chef",
+      "style": "ancien",
+      "couleur": "#4a4a4a"
+    },
+    "femme": {
+      "nom": "Une femme",
+      "style": "femme",
+      "couleur": "#1f6f6b"
+    },
+    "messager": {
+      "nom": "Le messager",
+      "style": "enfant",
+      "couleur": "#a0670f"
+    },
+    "cavalier": {
+      "nom": "Un cavalier zarma",
+      "style": "cavalier",
+      "couleur": "#6b2d1a"
+    }
+  },
+  "distribution": {
+    "village": {
+      "guetteur": -2.4,
+      "chef": 2.4
+    },
+    "brousse": {
+      "chef": -2.4,
+      "messager": 2.4
+    },
+    "champ": {
+      "cavalier": 2.8,
+      "guetteur": -2.8
+    },
+    "veillee": {
+      "chef": -2.2,
+      "femme": 2.2
+    }
+  },
+  "nodes": {
+    "n1": {
+      "speaker": "griot",
+      "text": "Fin du dix-neuvième siècle. Dans un village gourounsi, la vie suit le rythme des saisons. Mais dans la brousse passent les cavaliers zarma de Babatou. Ils capturent des hommes pour les vendre.",
+      "scene": "village",
+      "next": "n2"
+    },
+    "n2": {
+      "speaker": "griot",
+      "text": "Alors, chaque village apprend à veiller. Sur un toit, un guetteur ne quitte pas l'horizon.",
+      "next": "n3"
+    },
+    "n3": {
+      "speaker": "guetteur",
+      "text": "La poussière ! Les cavaliers arrivent !",
+      "next": "n4"
+    },
+    "n4": {
+      "speaker": "griot",
+      "text": "Le tambour d'alerte doit résonner jusqu'aux champs. À toi.",
+      "explore": [
+        "tambour"
+      ],
+      "next": "n5"
+    },
+    "n5": {
+      "minigame": "rythme",
+      "tags": {
+        "win": "rythme tenu",
+        "lose": "rythme perdu"
+      },
+      "sequence": [
+        3,
+        3,
+        0,
+        2
+      ],
+      "consigne": "Frappe l'alerte pour prévenir les champs.",
+      "gagne": "L'alerte porte jusqu'aux champs.",
+      "perdu": "L'alerte est maladroite, mais on l'entend quand même.",
+      "next": "n6"
+    },
+    "n6": {
+      "speaker": "chef",
+      "text": "Personne ne fuit. Chacun à sa place !",
+      "next": "n7"
+    },
+    "n7": {
+      "speaker": "griot",
+      "text": "Les femmes et les enfants se cachent dans les cases aux murs épais. Où te places-tu ?",
+      "choices": [
+        {
+          "label": "Avec ceux qui creusent des fosses",
+          "next": "fosses",
+          "tag": "fosses creusées"
+        },
+        {
+          "label": "Sur les toits, avec les archers",
+          "next": "toits",
+          "tag": "sur les toits"
+        }
+      ]
+    },
+    "fosses": {
+      "speaker": "griot",
+      "text": "Tu creuses, puis tu couvres la fosse de branches. Tu ne verras l'attaque que par le bruit.",
+      "next": "attaque"
+    },
+    "toits": {
+      "speaker": "griot",
+      "text": "Tu prépares tes flèches. D'ici, on voit toute la brousse.",
+      "next": "attaque"
+    },
+    "attaque": {
+      "speaker": "griot",
+      "text": "Les cavaliers chargent, certains de leur victoire. Mais les chevaux tombent dans les pièges, et depuis les toits, les flèches pleuvent. Les cavaliers font demi-tour.",
+      "scene": "champ",
+      "next": "n8"
+    },
+    "n8": {
+      "speaker": "griot",
+      "text": "Le village a tenu. Ce soir-là, on chante la victoire. Mais les colonnes de captifs marchent toujours ailleurs. Quelle leçon en tire le chef ?",
+      "scene": "veillee",
+      "choices": [
+        {
+          "label": "Envoyer des messagers aux villages voisins",
+          "next": "unis",
+          "tag": "alliance"
+        },
+        {
+          "label": "Fermer le village et ne compter que sur soi",
+          "next": "seul",
+          "tag": "repli"
+        }
+      ]
+    },
+    "seul": {
+      "speaker": "griot",
+      "text": "Ce ne fut pas leur choix : les voisins ont compris la leçon, et ils se sont alliés. Seuls, ils sont des proies. Reprends cette veillée pour la vivre comme eux.",
+      "end": "seul"
+    },
+    "unis": {
+      "speaker": "griot",
+      "text": "Les villages voisins comprennent la leçon. Ils échangent des messagers, et ils s'allient.",
+      "scene": "brousse",
+      "next": "n9"
+    },
+    "n9": {
+      "speaker": "griot",
+      "text": "Aujourd'hui, on se souvient encore de cette résistance, et de ceux qu'on n'a pas pu sauver.",
+      "end": "canon"
+    }
+  },
+  "fins": {
+    "canon": "Mémoire : unis, ils se défendent",
+    "seul": "Mémoire à reprendre : seuls, ils sont des proies"
+  }
+}

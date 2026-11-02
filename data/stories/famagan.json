@@ -1,0 +1,189 @@
+{
+  "id": "famagan",
+  "titre": "Famagan et le Gwiriko",
+  "presentation": "Au XVIIIe siècle, Famagan Ouattara quitte Kong avec ses cavaliers. Tu chevauches dans sa troupe et tu assistes à la naissance du Gwiriko. Tes choix changent ce que tu vois, pas les faits.",
+  "start": "n1",
+  "personnages": {
+    "griot": {
+      "nom": "Le griot",
+      "style": "griot",
+      "couleur": "#8a5a12"
+    },
+    "famagan": {
+      "nom": "Famagan Ouattara",
+      "style": "cavalier",
+      "couleur": "#6b2d1a"
+    },
+    "chef": {
+      "nom": "Le chef de la terre",
+      "style": "ancien",
+      "couleur": "#4a4a4a"
+    },
+    "rival": {
+      "nom": "Le rival",
+      "style": "garde",
+      "couleur": "#1d2a66"
+    },
+    "griotte": {
+      "nom": "La griotte",
+      "style": "griotte",
+      "couleur": "#7a3b1d"
+    }
+  },
+  "distribution": {
+    "marche": {
+      "famagan": -1.9,
+      "griotte": 4.2
+    },
+    "brousse": {
+      "famagan": -2.4,
+      "chef": 2.4
+    },
+    "champ": {
+      "famagan": -2.4,
+      "rival": 2.4
+    }
+  },
+  "nodes": {
+    "n1": {
+      "speaker": "griot",
+      "text": "Au dix-huitième siècle, Kong est une grande ville de commerce, et de guerre aussi. Famagan Ouattara y dirige des cavaliers.",
+      "scene": "marche",
+      "next": "n2"
+    },
+    "n2": {
+      "speaker": "griot",
+      "text": "Un jour, il mène sa troupe vers le nord-ouest. La route est longue.",
+      "next": "n3"
+    },
+    "n3": {
+      "minigame": "course_cheval",
+      "tags": {
+        "win": "course gagnée",
+        "lose": "course perdue"
+      },
+      "scene": "course",
+      "consigne": "En route vers le nord-ouest ! Tape vite sur ESPACE ou sur l'écran pour garder le rythme de la troupe.",
+      "gagne": "Tu tiens le rang.",
+      "perdu": "Tu arrives dernier, mais tu arrives.",
+      "next": "n4"
+    },
+    "n4": {
+      "speaker": "griot",
+      "text": "Les voici dans la région de Bobo. Ici, la terre a déjà ses maîtres. Toi, tu observes Famagan. Sur quoi portes-tu ton attention ?",
+      "scene": "brousse",
+      "choices": [
+        {
+          "label": "Sur ses paroles au gardien de la terre",
+          "next": "parole",
+          "tag": "ce qui se dit"
+        },
+        {
+          "label": "Sur les cavaliers derrière lui",
+          "next": "cavaliers",
+          "tag": "la troupe"
+        }
+      ]
+    },
+    "cavaliers": {
+      "speaker": "griot",
+      "text": "Ils restent à distance, en armes, et ils se taisent. Chacun comprend que l'on parle aussi avec cela. Mais écoute.",
+      "next": "parole"
+    },
+    "parole": {
+      "speaker": "famagan",
+      "text": "Je viens te saluer, gardien de cette terre.",
+      "next": "n5"
+    },
+    "n5": {
+      "speaker": "chef",
+      "text": "Tu viens en ami, ou en maître ?",
+      "next": "n6"
+    },
+    "n6": {
+      "speaker": "famagan",
+      "text": "En allié.",
+      "next": "n7"
+    },
+    "n7": {
+      "speaker": "griot",
+      "text": "Le sabre est échangé contre la bénédiction de la terre. Une alliance est conclue. Mais tous n'acceptent pas.",
+      "next": "n8"
+    },
+    "n8": {
+      "speaker": "griot",
+      "text": "Un chef rival prend les armes. La charge est rude, et le combat dure.",
+      "scene": "champ",
+      "next": "n9"
+    },
+    "n9": {
+      "speaker": "rival",
+      "text": "Je me rends.",
+      "next": "n10"
+    },
+    "n10": {
+      "speaker": "griot",
+      "text": "Le rival dépose ses armes. Un royaume naît autour de Bobo. Regarde ce qu'on annonce au tambour.",
+      "explore": [
+        "tambour"
+      ],
+      "next": "n11"
+    },
+    "n11": {
+      "speaker": "famagan",
+      "text": "Ce pays sera en paix, et ses routes ouvertes.",
+      "next": "n12"
+    },
+    "n12": {
+      "speaker": "griot",
+      "text": "Le grand marché s'anime : la cola, les étoffes et le sel passent de main en main.",
+      "scene": "marche",
+      "next": "n13"
+    },
+    "n13": {
+      "minigame": "devinette",
+      "tags": {
+        "win": "bonne réponse",
+        "lose": "réponse manquée"
+      },
+      "question": "Comment s'appelle le royaume né autour de Bobo ?",
+      "reponses": [
+        {
+          "label": "Le Gwiriko",
+          "correct": true
+        },
+        {
+          "label": "Le Liptako"
+        },
+        {
+          "label": "Le Gulmu"
+        }
+      ],
+      "gagne": "Oui, le Gwiriko.",
+      "perdu": "C'était le Gwiriko.",
+      "route": [
+        {
+          "when": {
+            "devinette": "win"
+          },
+          "next": "bien"
+        }
+      ],
+      "next": "relire"
+    },
+    "relire": {
+      "speaker": "griotte",
+      "text": "Tu as bien chevauché, mais tu as mal écouté. Reprends la route avec moi.",
+      "end": "relire"
+    },
+    "bien": {
+      "speaker": "griot",
+      "text": "Aujourd'hui encore, les Ouattara de Bobo-Dioulasso se souviennent de cette histoire. Les royaumes naissent de rencontres, et de conquêtes.",
+      "end": "canon"
+    }
+  },
+  "fins": {
+    "canon": "Mémoire : le Gwiriko et ses routes ouvertes",
+    "relire": "Mémoire à reprendre : l'histoire demande une autre écoute"
+  }
+}

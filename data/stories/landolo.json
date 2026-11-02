@@ -1,0 +1,204 @@
+{
+  "id": "landolo",
+  "titre": "Landolo et le grand caïlcédrat",
+  "presentation": "Orphelin chez une marâtre dure, Landolo vient pleurer au pied du grand caïlcédrat. L'arbre s'éveille. Tout dépendra de ce que tu lui chanteras, et de ce que tu feras de sa colère.",
+  "start": "n1",
+  "personnages": {
+    "griot": {
+      "nom": "Le griot",
+      "style": "griot",
+      "couleur": "#8a5a12"
+    },
+    "landolo": {
+      "nom": "Landolo",
+      "style": "enfant",
+      "couleur": "#a0670f"
+    },
+    "maratre": {
+      "nom": "La marâtre",
+      "style": "femme",
+      "couleur": "#1f6f6b"
+    },
+    "bucheron": {
+      "nom": "Le bûcheron",
+      "style": "forgeron",
+      "couleur": "#3e3626"
+    },
+    "villageois": {
+      "nom": "Le villageois",
+      "style": "paysan",
+      "couleur": "#6a4a1e"
+    },
+    "arbre": {
+      "nom": "Le grand caïlcédrat",
+      "style": "esprit",
+      "couleur": "#4a4f57"
+    }
+  },
+  "distribution": {
+    "village": {
+      "landolo": -2,
+      "maratre": 2.4
+    },
+    "bois": {
+      "landolo": -2.6,
+      "arbre": 2.6
+    },
+    "brousse": {
+      "maratre": -2.6,
+      "bucheron": -0.4,
+      "landolo": 2.6
+    },
+    "marche": {
+      "landolo": -1.9,
+      "maratre": 0.9,
+      "villageois": 4.2
+    }
+  },
+  "nodes": {
+    "n1": {
+      "speaker": "griot",
+      "text": "Au bord du village se dressait un arbre immense, plus vieux que tous les anciens. Landolo était orphelin. Il vivait chez sa marâtre, qui gâtait son propre fils.",
+      "scene": "village",
+      "next": "n2"
+    },
+    "n2": {
+      "speaker": "maratre",
+      "text": "Va chercher l'eau. Et vite !",
+      "explore": [
+        "calebasse"
+      ],
+      "next": "n3"
+    },
+    "n3": {
+      "speaker": "griot",
+      "text": "Le fils mange à sa faim. Landolo, lui, n'a rien. Un soir, il vient pleurer au pied du grand caïlcédrat. Une branche s'abaisse, chargée de fruits. Que fait-il ?",
+      "scene": "bois",
+      "choices": [
+        {
+          "label": "Il mange, et il remercie l'arbre",
+          "next": "merci",
+          "tag": "remerciement",
+          "set": {
+            "merci": true
+          }
+        },
+        {
+          "label": "Il remplit ses poches et il s'en va",
+          "next": "poches",
+          "tag": "poches pleines"
+        }
+      ]
+    },
+    "poches": {
+      "speaker": "griot",
+      "text": "Sur le chemin, il se retourne. La branche s'est relevée. Il revient sur ses pas.",
+      "next": "merci"
+    },
+    "merci": {
+      "speaker": "landolo",
+      "text": "Grand arbre, grand arbre, écoute ma chanson.",
+      "next": "n4"
+    },
+    "n4": {
+      "minigame": "rythme",
+      "tags": {
+        "win": "rythme tenu",
+        "lose": "rythme perdu"
+      },
+      "sequence": [
+        0,
+        1,
+        2,
+        1
+      ],
+      "consigne": "Chante avec Landolo : reproduis le balancement de l'arbre.",
+      "gagne": "L'arbre se balance, et le garçon grandit.",
+      "perdu": "La chanson est hésitante, mais l'arbre se balance quand même.",
+      "next": "n5"
+    },
+    "n5": {
+      "speaker": "griot",
+      "text": "La marâtre finit par s'étonner. Elle le suit et elle l'espionne. L'arbre ne lui envoie que des branches sèches.",
+      "scene": "brousse",
+      "next": "n6"
+    },
+    "n6": {
+      "speaker": "maratre",
+      "text": "Abattez-moi cet arbre !",
+      "next": "n7"
+    },
+    "n7": {
+      "speaker": "griot",
+      "text": "Elle revient avec deux bûcherons. Les coups de hache rebondissent sur le tronc. L'arbre gronde, le vent se lève, les branches fouettent l'air. Que fait Landolo ?",
+      "choices": [
+        {
+          "label": "Il demande à l'arbre de se calmer",
+          "next": "calme",
+          "tag": "arbre apaisé"
+        },
+        {
+          "label": "Il laisse la colère de l'arbre les chasser",
+          "next": "colere",
+          "tag": "colère laissée"
+        }
+      ]
+    },
+    "colere": {
+      "speaker": "griot",
+      "text": "Les bûcherons s'enfuient, la marâtre aussi. Mais ils reviendront, plus nombreux, avec le feu. Landolo les arrêtera-t-il en parlant au village ?",
+      "choices": [
+        {
+          "label": "Oui, il va parler au village",
+          "next": "calme",
+          "tag": "parole au village"
+        },
+        {
+          "label": "Non, il part loin d'ici",
+          "next": "part",
+          "tag": "départ"
+        }
+      ]
+    },
+    "part": {
+      "speaker": "griot",
+      "text": "Sans personne pour le défendre, l'arbre tombe. Vient la grande sécheresse, et il n'y a plus de fruits pour personne. Ce chemin n'est pas celui du conte.",
+      "end": "coupe"
+    },
+    "calme": {
+      "speaker": "landolo",
+      "text": "Grand arbre, calme-toi, je t'en prie !",
+      "next": "n8"
+    },
+    "n8": {
+      "speaker": "griot",
+      "text": "Et l'arbre s'apaise, pour lui. Vient l'année de la grande sécheresse. Tout meurt, sauf le caïlcédrat, dont les fruits nourrissent le village.",
+      "next": "n9"
+    },
+    "n9": {
+      "speaker": "griot",
+      "text": "La marâtre vient s'agenouiller devant Landolo, et elle demande pardon.",
+      "scene": "marche",
+      "next": "n10"
+    },
+    "n10": {
+      "speaker": "villageois",
+      "text": "Merci, Landolo. Merci, grand arbre.",
+      "next": "n11"
+    },
+    "n11": {
+      "speaker": "landolo",
+      "text": "Protégez cet arbre. Il vous le rendra.",
+      "next": "n12"
+    },
+    "n12": {
+      "speaker": "griot",
+      "text": "Bien des années plus tard, le grand caïlcédrat veillait toujours.",
+      "end": "canon"
+    }
+  },
+  "fins": {
+    "canon": "Version du griot : le grand caïlcédrat veille",
+    "coupe": "Autre chemin : l'arbre tombe, et le village a faim"
+  }
+}

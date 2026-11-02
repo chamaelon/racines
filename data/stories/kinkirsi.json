@@ -1,0 +1,188 @@
+{
+  "id": "kinkirsi",
+  "titre": "Les kinkirsi, génies de la brousse",
+  "presentation": "Le soir tombe et tu rentres seul par la brousse. Ce récit n'est pas une légende fixée : c'est une scène imaginée pour découvrir ce que la tradition mossi dit des kinkirsi.",
+  "start": "n1",
+  "personnages": {
+    "griot": {
+      "nom": "Le griot",
+      "style": "griot",
+      "couleur": "#8a5a12"
+    },
+    "ancienne": {
+      "nom": "L'ancienne",
+      "style": "vieille",
+      "couleur": "#5b3a6b"
+    },
+    "kinkirga": {
+      "nom": "Un kinkirga",
+      "style": "genie",
+      "couleur": "#264a7a"
+    },
+    "enfant": {
+      "nom": "L'enfant",
+      "style": "enfant",
+      "couleur": "#a0670f"
+    }
+  },
+  "distribution": {
+    "village": {
+      "ancienne": 2.4,
+      "enfant": -2.2
+    },
+    "bois": {
+      "kinkirga": 2.4,
+      "enfant": -2.4
+    }
+  },
+  "nodes": {
+    "n1": {
+      "speaker": "griot",
+      "text": "Cette scène n'est pas un récit transmis : elle est inventée pour le jeu, à partir de descriptions publiées. Une vraie légende de Kaya reste à collecter.",
+      "scene": "village",
+      "next": "n2"
+    },
+    "n2": {
+      "speaker": "ancienne",
+      "text": "Quand on quitte le village à la tombée du jour, on n'est jamais tout à fait seul en brousse. Les kinkirsi y circulent.",
+      "next": "n3"
+    },
+    "n3": {
+      "speaker": "enfant",
+      "text": "Un kinkirsi, c'est quoi ?",
+      "next": "n4"
+    },
+    "n4": {
+      "speaker": "ancienne",
+      "text": "Des génies, organisés en groupes. Chaque groupe porte le nom de son doyen. Prends ceci avant de partir.",
+      "explore": [
+        "calebasse",
+        "canari"
+      ],
+      "next": "n5"
+    },
+    "n5": {
+      "speaker": "griot",
+      "text": "L'ancienne te tend un peu de nourriture pour la route. Que choisis-tu de garder ?",
+      "choices": [
+        {
+          "label": "Du miel et du sésame",
+          "next": "doux",
+          "tag": "miel et sésame",
+          "set": {
+            "doux": true
+          }
+        },
+        {
+          "label": "Une galette de mil bien salée",
+          "next": "sale",
+          "tag": "galette salée"
+        }
+      ]
+    },
+    "sale": {
+      "speaker": "ancienne",
+      "text": "Comme tu veux. Mais les kinkirsi aiment ce qui est doux : le miel, le sésame, les gâteaux de haricots, l'arachide.",
+      "next": "route"
+    },
+    "doux": {
+      "speaker": "ancienne",
+      "text": "Tu as bien écouté. Ce qui est doux leur plaît : le miel, le sésame, les gâteaux de haricots, l'arachide.",
+      "next": "route"
+    },
+    "route": {
+      "speaker": "griot",
+      "text": "La nuit tombe. Un petit bruit dans les herbes, et une silhouette montée sur une bête sauvage passe entre les arbres.",
+      "scene": "bois",
+      "next": "n6"
+    },
+    "n6": {
+      "speaker": "kinkirga",
+      "text": "Qui marche si fort sur notre chemin ?",
+      "next": "n7"
+    },
+    "n7": {
+      "speaker": "griot",
+      "text": "Que fais-tu ?",
+      "choices": [
+        {
+          "label": "Tu t'arrêtes et tu salues",
+          "next": "salut",
+          "tag": "salutation",
+          "add": {
+            "egards": 1
+          }
+        },
+        {
+          "label": "Tu cours sans te retourner",
+          "next": "hate",
+          "tag": "fuite"
+        }
+      ]
+    },
+    "hate": {
+      "speaker": "griot",
+      "text": "Tu cours, tu trébuches, tu ne reconnais plus les arbres. Le sentier tourne, et tourne encore. Tu ne retrouves le village qu'au matin.",
+      "end": "hate"
+    },
+    "salut": {
+      "route": [
+        {
+          "when": {
+            "doux": true
+          },
+          "next": "don"
+        }
+      ],
+      "next": "sans"
+    },
+    "don": {
+      "speaker": "griot",
+      "text": "Tu poses un peu de miel au pied d'un arbre, sans rien demander. La silhouette s'éloigne.",
+      "next": "jumeaux"
+    },
+    "sans": {
+      "speaker": "griot",
+      "text": "Tu n'as que du sel à offrir. Tu baisses les yeux, tu laisses passer, et la silhouette s'éloigne quand même.",
+      "next": "jumeaux"
+    },
+    "jumeaux": {
+      "speaker": "ancienne",
+      "text": "Te voilà. On dit aussi que les kinkirsi sont liés à la venue des enfants, et surtout aux jumeaux.",
+      "scene": "village",
+      "next": "n8"
+    },
+    "n8": {
+      "minigame": "devinette",
+      "tags": {
+        "win": "bonne réponse",
+        "lose": "réponse manquée"
+      },
+      "question": "Selon la tradition décrite ici, comment les jumeaux sont-ils regardés ?",
+      "reponses": [
+        {
+          "label": "Comme proches des génies, leur vie durant",
+          "correct": true
+        },
+        {
+          "label": "Comme les chefs du village"
+        },
+        {
+          "label": "Comme des étrangers"
+        }
+      ],
+      "gagne": "Oui : ils passent pour proches des génies, et certains pour savoir leur parler.",
+      "perdu": "Non : on les regarde leur vie durant comme proches des génies.",
+      "next": "n9"
+    },
+    "n9": {
+      "speaker": "griot",
+      "text": "Le monde visible n'est pas seul : on y marche avec égards.",
+      "end": "canon"
+    }
+  },
+  "fins": {
+    "canon": "Tu as marché avec égards",
+    "hate": "Autre chemin : le sentier t'a égaré jusqu'au matin"
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "id": "crocodile",
+  "titre": "Le crocodile qui sauva l'ancêtre",
+  "presentation": "Abem suit une antilope trop loin, en pleine sécheresse. Quand sa gourde est vide, quelque chose bouge dans les herbes. Va-t-il tirer, ou faire confiance ?",
+  "start": "n1",
+  "personnages": {
+    "griot": {
+      "nom": "Le griot",
+      "style": "griot",
+      "couleur": "#8a5a12"
+    },
+    "abem": {
+      "nom": "Abem",
+      "style": "chasseur",
+      "couleur": "#5a3d1c"
+    },
+    "crocodile": {
+      "nom": "Le crocodile",
+      "style": "crocodile",
+      "couleur": "#2f5a3a"
+    },
+    "enfant": {
+      "nom": "L'enfant",
+      "style": "enfant",
+      "couleur": "#a0670f"
+    }
+  },
+  "distribution": {
+    "brousse": {
+      "abem": -2.6
+    },
+    "champ": {
+      "abem": -2.6,
+      "crocodile": 2.2
+    },
+    "mare": {
+      "abem": -2.6,
+      "crocodile": 2.6
+    },
+    "village": {
+      "abem": -2.2,
+      "enfant": 2.2
+    }
+  },
+  "nodes": {
+    "n1": {
+      "speaker": "griot",
+      "text": "Abem était chasseur, l'ancêtre d'une famille kassena. La grande sécheresse brûle la brousse, et le gibier se fait rare. Une antilope passe au loin. Que fais-tu ?",
+      "scene": "brousse",
+      "choices": [
+        {
+          "label": "Tu la suis, il faut nourrir les tiens",
+          "next": "suit",
+          "tag": "antilope suivie"
+        },
+        {
+          "label": "Tu rentres les mains vides",
+          "next": "rentre",
+          "tag": "retour"
+        }
+      ]
+    },
+    "rentre": {
+      "speaker": "griot",
+      "text": "Au village, les enfants ont faim. Le lendemain, tu repars, et l'antilope est encore là. Tu la suis.",
+      "next": "suit"
+    },
+    "suit": {
+      "speaker": "griot",
+      "text": "Tu la suis de plus en plus loin. Quand tu t'arrêtes, tu ne reconnais plus rien. Le soleil est haut, et la soif te prend. Tu secoues ta gourde : elle est vide.",
+      "next": "n2"
+    },
+    "n2": {
+      "speaker": "griot",
+      "text": "Tu marches encore un peu, puis tu tombes. Quelque chose bouge dans les herbes : un crocodile, loin de toute eau. Tes mains tremblent sur ton arc.",
+      "scene": "champ",
+      "choices": [
+        {
+          "label": "Tu lâches l'arc et tu fermes les yeux",
+          "next": "confiance",
+          "tag": "arc lâché"
+        },
+        {
+          "label": "Tu tires quand même",
+          "next": "tire",
+          "tag": "flèche tirée"
+        }
+      ]
+    },
+    "tire": {
+      "speaker": "griot",
+      "text": "Ta flèche part de travers, et le crocodile s'éloigne. Dans ce chemin imaginé, plus personne ne te montre la mare. On te retrouve bien tard, et ta famille n'a pas de serment à tenir.",
+      "end": "fleche"
+    },
+    "confiance": {
+      "speaker": "griot",
+      "text": "Le crocodile ne mord pas. Du museau, il te pousse doucement. Tu te relèves. Il avance, puis il se retourne, comme pour dire : suis-moi.",
+      "next": "n3"
+    },
+    "n3": {
+      "minigame": "devinette",
+      "tags": {
+        "win": "bonne réponse",
+        "lose": "réponse manquée"
+      },
+      "question": "Où le crocodile mène-t-il Abem ?",
+      "reponses": [
+        {
+          "label": "À une mare cachée derrière les arbres",
+          "correct": true
+        },
+        {
+          "label": "À un puits du village"
+        },
+        {
+          "label": "Au grand fleuve"
+        }
+      ],
+      "gagne": "Oui : une mare cachée, pleine d'eau claire.",
+      "perdu": "Non : c'est une mare cachée, derrière les arbres.",
+      "next": "n4"
+    },
+    "n4": {
+      "speaker": "griot",
+      "text": "Abem boit, et la vie revient. Il se tourne vers le crocodile, et il s'incline devant lui.",
+      "scene": "mare",
+      "explore": [
+        "canari"
+      ],
+      "next": "n5"
+    },
+    "n5": {
+      "speaker": "griot",
+      "text": "Que promet-il ?",
+      "choices": [
+        {
+          "label": "« Jamais nous ne tuerons le crocodile. Ni moi, ni mes enfants. »",
+          "next": "serment",
+          "tag": "serment"
+        },
+        {
+          "label": "« Je te donnerai la moitié de mon gibier. »",
+          "next": "gibier",
+          "tag": "gibier promis"
+        }
+      ]
+    },
+    "gibier": {
+      "speaker": "griot",
+      "text": "Le crocodile regarde ailleurs. Une dette de vie ne se paie pas en viande. Abem comprend, et il fait une autre promesse.",
+      "next": "serment"
+    },
+    "serment": {
+      "speaker": "griot",
+      "text": "Et sa famille fit le serment.",
+      "scene": "village",
+      "next": "n6"
+    },
+    "n6": {
+      "speaker": "enfant",
+      "text": "Il ne nous mange pas ?",
+      "next": "n7"
+    },
+    "n7": {
+      "speaker": "griot",
+      "text": "Aujourd'hui encore, pour certaines familles kassena, le crocodile reste un totem sacré. On n'oublie pas celui qui nous a sauvés.",
+      "end": "canon"
+    }
+  },
+  "fins": {
+    "canon": "Version du griot : le serment d'Abem",
+    "fleche": "Autre chemin : personne pour montrer la mare"
+  }
+}

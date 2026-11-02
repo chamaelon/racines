@@ -1,0 +1,197 @@
+{
+  "id": "zenuo",
+  "titre": "Zenuo, le premier Dagara",
+  "presentation": "Zenuo et Nyolé quittent un village de disputes, avec leur chien, pour chercher leur terre. À toi de lire les signes et de dire où s'arrêter.",
+  "start": "n1",
+  "personnages": {
+    "griot": {
+      "nom": "Le griot",
+      "style": "griot",
+      "couleur": "#8a5a12"
+    },
+    "zenuo": {
+      "nom": "Zenuo",
+      "style": "chasseur",
+      "couleur": "#5a3d1c"
+    },
+    "nyole": {
+      "nom": "Nyolé",
+      "style": "femme",
+      "couleur": "#1f6f6b"
+    },
+    "ancien": {
+      "nom": "L'ancien",
+      "style": "ancien",
+      "couleur": "#4a4a4a"
+    },
+    "enfant": {
+      "nom": "L'enfant",
+      "style": "enfant",
+      "couleur": "#a0670f"
+    }
+  },
+  "distribution": {
+    "village": {
+      "zenuo": -2.4,
+      "ancien": 2.4
+    },
+    "veillee": {
+      "zenuo": -2.2,
+      "nyole": 2.2
+    },
+    "fleuve": {
+      "zenuo": -2.4,
+      "nyole": 2.4
+    },
+    "brousse": {
+      "zenuo": -2.2,
+      "nyole": 2.2
+    },
+    "champ": {
+      "zenuo": -2.4,
+      "nyole": 2.4,
+      "enfant": 0
+    }
+  },
+  "nodes": {
+    "n1": {
+      "speaker": "griot",
+      "text": "Zenuo était chasseur. Il connaissait la brousse mieux que personne. Mais au village, les familles ne s'entendent plus sur les limites des champs.",
+      "scene": "village",
+      "next": "n2"
+    },
+    "n2": {
+      "speaker": "ancien",
+      "text": "Ce champ n'est pas à toi !",
+      "next": "n3"
+    },
+    "n3": {
+      "speaker": "griot",
+      "text": "Encore une dispute de terres. Que décident Zenuo et Nyolé ?",
+      "choices": [
+        {
+          "label": "Partir chercher une terre ailleurs",
+          "next": "partir",
+          "tag": "départ"
+        },
+        {
+          "label": "Rester et discuter encore",
+          "next": "rester",
+          "tag": "discussion"
+        }
+      ]
+    },
+    "rester": {
+      "speaker": "griot",
+      "text": "Ils discutent toute une saison. Au bout du compte, chacun garde sa colère, et personne n'a plus envie de semer.",
+      "next": "partir"
+    },
+    "partir": {
+      "speaker": "griot",
+      "text": "Ils prennent leurs affaires, et leur chien avec eux. Le soir, ils s'arrêtent près d'un feu et regardent les étoiles.",
+      "scene": "veillee",
+      "explore": [
+        "dolo"
+      ],
+      "next": "n4"
+    },
+    "n4": {
+      "speaker": "griot",
+      "text": "Un jour, un fleuve large leur barre la route : la Volta noire. Comment passer ?",
+      "scene": "fleuve",
+      "choices": [
+        {
+          "label": "Creuser une pirogue dans un tronc",
+          "next": "pirogue",
+          "tag": "pirogue",
+          "add": {
+            "patience": 1
+          }
+        },
+        {
+          "label": "Passer à la nage avec le chien",
+          "next": "nage",
+          "tag": "à la nage"
+        }
+      ]
+    },
+    "nage": {
+      "speaker": "griot",
+      "text": "Le courant est trop fort. Ils reviennent sur la rive, trempés, et Zenuo prend sa hache : il creuse une pirogue.",
+      "next": "pirogue"
+    },
+    "pirogue": {
+      "speaker": "griot",
+      "text": "Sur l'autre rive, tout est nouveau. Mais où s'arrêter ? Zenuo attend un signe. Observe bien.",
+      "scene": "brousse",
+      "next": "n5"
+    },
+    "n5": {
+      "minigame": "devinette",
+      "tags": {
+        "win": "bonne réponse",
+        "lose": "réponse manquée"
+      },
+      "question": "Quel signe indique à Zenuo le lieu du foyer ?",
+      "reponses": [
+        {
+          "label": "Un vol de pintades qui tourne au-dessus d'un grand arbre",
+          "correct": true
+        },
+        {
+          "label": "Une étoile qui tombe dans le fleuve"
+        },
+        {
+          "label": "Un lion qui garde une colline"
+        }
+      ],
+      "gagne": "Oui : les pintades tournent au-dessus du grand arbre. Le lieu est là.",
+      "perdu": "Regarde mieux : c'est un vol de pintades qui tourne au-dessus d'un grand arbre.",
+      "next": "n6"
+    },
+    "n6": {
+      "speaker": "griot",
+      "text": "Que fait Zenuo devant cet arbre ?",
+      "choices": [
+        {
+          "label": "Il plante son arc au pied de l'arbre",
+          "next": "arc",
+          "tag": "arc planté"
+        },
+        {
+          "label": "Il continue, il y a peut-être mieux plus loin",
+          "next": "loin",
+          "tag": "marche reprise"
+        }
+      ]
+    },
+    "loin": {
+      "speaker": "griot",
+      "text": "Ils marchent encore. Des arbres, ils en verront d'autres, mais plus de pintades. C'est une fin imaginée : la légende, elle, s'arrête à l'arbre.",
+      "end": "trop"
+    },
+    "arc": {
+      "speaker": "zenuo",
+      "text": "C'est ici, Nyolé. C'est ici.",
+      "next": "n7"
+    },
+    "n7": {
+      "speaker": "griot",
+      "text": "Ensemble, ils bâtissent une case ronde et préparent le premier champ. D'autres familles arrivent. Un enfant naît. Le village a commencé.",
+      "scene": "champ",
+      "explore": [
+        "case-ronde"
+      ],
+      "next": "n8"
+    },
+    "n8": {
+      "speaker": "griot",
+      "text": "Ainsi, dit la légende, naquit le peuple des descendants de Zenuo.",
+      "end": "canon"
+    }
+  },
+  "fins": {
+    "canon": "Version du griot : le premier foyer",
+    "trop": "Autre chemin : ils marchent encore"
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "id": "loropeni",
+  "titre": "Les ruines de Loropéni",
+  "presentation": "De longs murs de pierre sortent de la brousse. Qui les a bâtis, et pourquoi ? Remonte le temps, choisis ce que tu veux voir, puis réponds à l'enquête. Tes choix changent ce que tu découvres, jamais les faits.",
+  "start": "n1",
+  "personnages": {
+    "griot": {
+      "nom": "Le griot",
+      "style": "griot",
+      "couleur": "#8a5a12"
+    },
+    "guide": {
+      "nom": "La guide",
+      "style": "femme",
+      "couleur": "#1f6f6b"
+    },
+    "chef": {
+      "nom": "Le chef",
+      "style": "roi",
+      "couleur": "#2f3f8f"
+    },
+    "orfevre": {
+      "nom": "L'orfèvre",
+      "style": "forgeron",
+      "couleur": "#3e3626"
+    },
+    "marchand": {
+      "nom": "Le marchand",
+      "style": "marabout",
+      "couleur": "#2c5f6e"
+    },
+    "laveuse": {
+      "nom": "La laveuse d'or",
+      "style": "femme",
+      "couleur": "#1f6f6b"
+    }
+  },
+  "distribution": {
+    "ruines": {
+      "guide": -3
+    },
+    "palais": {
+      "chef": -2.4
+    },
+    "fleuve": {
+      "laveuse": -1.6
+    },
+    "marche": {
+      "orfevre": -1.9,
+      "marchand": 4.6
+    }
+  },
+  "nodes": {
+    "n1": {
+      "speaker": "guide",
+      "text": "Aujourd'hui, dans le sud-ouest du Burkina, de longs murs de pierre sortent de la brousse. Remontons le temps : les pierres se relèvent, une à une.",
+      "scene": "ruines",
+      "explore": [
+        "case-ronde"
+      ],
+      "next": "n2"
+    },
+    "n2": {
+      "speaker": "chef",
+      "text": "Plus haut, ce mur doit tenir des siècles !",
+      "scene": "palais",
+      "next": "n3"
+    },
+    "n3": {
+      "speaker": "griot",
+      "text": "Les Lohron ou les Koulango, ancêtres des chefs Touna, occupent le lieu. Leurs murs de latérite montent, rangée après rangée. Que veux-tu voir d'abord ?",
+      "choices": [
+        {
+          "label": "D'où vient l'or",
+          "next": "or",
+          "tag": "la piste de l'or",
+          "set": {
+            "or": true
+          }
+        },
+        {
+          "label": "Comment on l'échange",
+          "next": "echange",
+          "tag": "le marché",
+          "set": {
+            "echange": true
+          }
+        }
+      ]
+    },
+    "or": {
+      "speaker": "laveuse",
+      "text": "On lave le gravier à la calebasse. Au fond, quelques paillettes brillent. C'est long et dur, mais ces grains font la richesse de tout un pays.",
+      "scene": "fleuve",
+      "next": "n4"
+    },
+    "n4": {
+      "speaker": "griot",
+      "text": "Veux-tu voir aussi le marché ?",
+      "choices": [
+        {
+          "label": "Oui, allons voir les marchands",
+          "next": "echange",
+          "tag": "le marché",
+          "set": {
+            "echange": true
+          }
+        },
+        {
+          "label": "Non, passons à la suite",
+          "next": "abandon",
+          "tag": "marché négligé"
+        }
+      ]
+    },
+    "echange": {
+      "speaker": "griot",
+      "text": "Dans la forteresse, les orfèvres fondent l'or. Les marchands arrivent de loin, et ils échangent le sel et les étoffes contre l'or.",
+      "scene": "marche",
+      "next": "n5"
+    },
+    "n5": {
+      "speaker": "orfevre",
+      "text": "Touche-le : il est pur.",
+      "next": "n6"
+    },
+    "n6": {
+      "speaker": "marchand",
+      "text": "Beau, mais trop cher pour moi.",
+      "next": "n7"
+    },
+    "n7": {
+      "speaker": "orfevre",
+      "text": "Alors, plus de sel !",
+      "next": "abandon"
+    },
+    "abandon": {
+      "speaker": "guide",
+      "text": "Puis la forteresse est abandonnée. Personne ne sait vraiment pourquoi. La brousse reprend les murs, et les arbres poussent entre les pierres.",
+      "scene": "ruines",
+      "next": "n8"
+    },
+    "n8": {
+      "minigame": "devinette",
+      "tags": {
+        "win": "bonne réponse",
+        "lose": "réponse manquée"
+      },
+      "question": "Quelle année Loropéni est-il inscrit au patrimoine mondial de l'UNESCO ?",
+      "reponses": [
+        {
+          "label": "2009",
+          "correct": true
+        },
+        {
+          "label": "1960"
+        },
+        {
+          "label": "1991"
+        }
+      ],
+      "gagne": "Oui, en 2009 : c'est le premier site du Burkina Faso inscrit au patrimoine mondial.",
+      "perdu": "C'était en 2009 : le premier site du Burkina Faso inscrit au patrimoine mondial.",
+      "route": [
+        {
+          "when": {
+            "devinette": "win"
+          },
+          "next": "bien"
+        }
+      ],
+      "next": "relire"
+    },
+    "relire": {
+      "speaker": "guide",
+      "text": "Rien n'est perdu : les pierres ne bougeront pas d'ici. Tu peux recommencer l'enquête.",
+      "end": "hate"
+    },
+    "bien": {
+      "speaker": "guide",
+      "text": "Le mystère reste entier. Mais les pierres sont toujours là, et elles gardent la mémoire de ceux qui les ont dressées.",
+      "end": "canon"
+    }
+  },
+  "fins": {
+    "canon": "Enquête réussie : le mystère reste entier, les pierres aussi",
+    "hate": "Enquête à reprendre : les pierres ont encore à dire"
+  }
+}
