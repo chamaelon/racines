@@ -11,7 +11,6 @@ export function filtrer(recits, f, { localitesParId = {} } = {}) {
     if (f.region && !r.localites.some((l) => localitesParId[l]?.region === f.region)) return false;
     if (f.peuple && r.peuple !== f.peuple) return false;
     if (f.langue && !r.langues.includes(f.langue) && !r.audio[f.langue]) return false;
-    if (f.jouable && !r.jouable) return false;
     if (f.audio && !Object.keys(r.audio).length) return false;
     if (q && !sansAccent([r.titre, r.resume, ...(r.motsCles || []), r.peuple].join(' ')).includes(q)) return false;
     return true;

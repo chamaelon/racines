@@ -11,6 +11,9 @@ import { definirPage, esc, reduit, TYPES, webgl } from '../ui.js';
 const ZOOM_MAX = 8;
 const TAILLE_MARQUEUR = 9;
 
+// Les récits proposés en premier : un de chaque type, de régions différentes.
+const A_LA_UNE = ['yennenga', 'lievre-hyene', 'gazelle', 'guimbi'];
+
 export async function monter(el, ctx) {
   const [{ svg, W, H, projeter }, regions, localites, recits, patrimoine, langues] = await Promise.all([
     chargerCarte(), data.regions(), data.localites(), data.recits(), data.patrimoine(), data.langues(),
@@ -22,7 +25,6 @@ export async function monter(el, ctx) {
       <fieldset class="carte-legende">
         <legend>Légende et filtres</legend>
         ${Object.entries(TYPES).map(([k, t]) => `<label><input type="checkbox" data-type="${k}" checked><span class="puce type-${k}" aria-hidden="true"></span>${t.pluriel}</label>`).join('')}
-        <label><input type="checkbox" data-jouables><span class="puce-jouable" aria-hidden="true">▶</span>Jouables seulement</label>
       </fieldset>
       <div class="carte-boutons">
         <button type="button" class="bouton" data-zoom="1.6" aria-label="Zoomer">+</button>
@@ -61,8 +63,8 @@ export async function monter(el, ctx) {
   });
   svg.append(groupeEtiquettes);
 
-  // ---- Marqueurs : forme et couleur selon le type de récit, triangle si jouable, coche si terminé
-  const filtres = { types: new Set(Object.keys(TYPES)), jouables: false };
+  // ---- Marqueurs : forme et couleur selon le type de récit, coche si terminé
+  const filtres = { types: new Set(Object.keys(TYPES)) };
   const groupeMarqueurs = creerSvg('g', { class: 'marqueurs' });
   svg.append(groupeMarqueurs);
   const marqueurs = {};
@@ -84,14 +86,13 @@ export async function monter(el, ctx) {
   function majMarqueurs() {
     localites.forEach((l) => {
       const rs = l.recits.map(recitDe);
-      const visibles = rs.filter((r) => filtres.types.has(r.type) && (!filtres.jouables || r.jouable));
+      const visibles = rs.filter((r) => filtres.types.has(r.type));
       const g = marqueurs[l.id];
       g.classList.toggle('cache', visibles.length === 0);
       if (!visibles.length) return;
       const type = visibles[0].type;
       g.setAttribute('data-type', type);
       g.querySelector('.forme').setAttribute('d', FORMES[type]);
-      g.classList.toggle('jouable', rs.some((r) => r.jouable));
       g.classList.toggle('termine', rs.some((r) => store.estTermine(r.id)));
     });
   }
@@ -251,7 +252,6 @@ export async function monter(el, ctx) {
   el.querySelector('.carte-legende').addEventListener('change', (e) => {
     const t = e.target;
     if (t.dataset.type) { if (t.checked) filtres.types.add(t.dataset.type); else filtres.types.delete(t.dataset.type); }
-    if ('jouables' in t.dataset) filtres.jouables = t.checked;
     majMarqueurs();
     if (relief) relief.majFiltres(visiblesIds());
   });
@@ -297,15 +297,16 @@ export async function monter(el, ctx) {
   }
 
   function panneauAccueil() {
-    const jouables = recits.filter((r) => r.jouable);
+    const aLaUne = A_LA_UNE.map(recitDe);
     const peuples = new Set(localites.flatMap((l) => l.peuples));
     const aRecits = regions.filter((r) => nbRecits(r.id));
     return `<p class="sur-titre">Patrimoine oral du Burkina Faso</p>
       <h2>Parcourez le pays, écoutez ses récits</h2>
       <div class="chiffres"><div><b>${recits.length}</b><span>récits</span></div><div><b>${peuples.size}</b><span>peuples</span></div><div><b>${aRecits.length}/17</b><span>régions</span></div></div>
-      <p>Touchez une région ou un marqueur. Chaque lieu ouvre ses récits : à lire, à écouter ou à vivre.</p>
-      <h3>Vivre une histoire</h3>
-      <ul class="liste-recits">${jouables.map((r) => `<li><a href="#/jouer/${r.id}"><span class="puce-jouable" aria-hidden="true">▶</span><span><b>${esc(r.titre)}</b><small>${TYPES[r.type].nom}, avec choix et mini-jeux</small></span></a></li>`).join('')}</ul>
+      <p>Touchez une région ou un marqueur. Chaque lieu ouvre ses récits : les ${recits.length} se vivent en jouant, avec des choix et plusieurs fins.</p>
+      <h3>Pour commencer</h3>
+      <ul class="liste-recits">${aLaUne.map((r) => `<li><a href="#/jouer/${r.id}"><span class="puce-jouable" aria-hidden="true">▶</span><span><b>${esc(r.titre)}</b><small>${TYPES[r.type].nom}, à vivre</small></span></a></li>`).join('')}</ul>
+      <p><a href="#/catalogue">Voir les ${recits.length} récits</a></p>
       <h3>Tous les lieux, par région</h3>
       <div class="liste-regions">${[...regions].sort((a, b) => a.nom.localeCompare(b.nom)).map((r) => {
         const ls = locParRegion[r.id] || [];

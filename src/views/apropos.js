@@ -13,6 +13,9 @@ export async function monter(el) {
     <p>Les ${recits.length} récits sont des <strong>versions de travail</strong>. Les contes et les légendes sont des adaptations libres, écrites à partir de fiches et de motifs connus. Les récits historiques sont simplifiés, et leurs sources sont citées sur chaque fiche. Une légende a souvent plusieurs versions selon les villages : celle-ci n'en est qu'une. Les pratiques secrètes, comme le Dyoro ou le vur, ne sont pas décrites.</p>
     <p>Tant qu'un texte n'est pas vérifié, il porte le bandeau « texte provisoire ». Une collecte auprès de griots et de conteurs reste à faire.</p>
 
+    <h2>Ce que le jeu ajoute aux récits</h2>
+    <p>Chaque récit se vit aussi en jouant. Dans un conte ou une légende, la fin « Version du griot » suit le texte de la fiche, et les fins « Autre chemin » sont inventées pour le jeu. Dans un récit historique, les choix changent ce que l'on regarde, jamais les faits ; le témoin joué et certaines répliques sont imaginés. Ce qui relève du secret, comme le Dyoro ou le vur, n'est pas montré.</p>
+
     <h2>Les voix</h2>
     <p>Les bandes sonores sont pensées en mooré, dioula et fulfulde, avec des sous-titres français. Les voix sont enregistrées par des personnes, pas générées. Tant qu'un enregistrement manque, le lecteur affiche « audio à venir ».</p>
 

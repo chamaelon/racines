@@ -255,7 +255,7 @@ export async function monter(el, ctx) {
       <h2>Pause</h2>
       <div class="j-reglage"><span>Son</span><button type="button" class="j-btn" data-p-son aria-pressed="${son}">${son ? 'Activé' : 'Coupé'}</button></div>
       <div class="j-reglage"><span id="j-v">Vitesse du texte</span><div role="group" aria-labelledby="j-v" class="segments">${VITESSES.map(([t, x]) => `<button type="button" data-v="${x}" aria-pressed="${v === x}">${t}</button>`).join('')}</div></div>
-      <div class="j-reglage"><span>Voix en ${esc(langues[langue] || langue)}</span><span class="meta-clair">${histoire.audioProvisoire ? 'audio à venir' : 'disponible'}</span></div>
+      ${langue ? `<div class="j-reglage"><span>Voix en ${esc(langues[langue] || langue)}</span><span class="meta-clair">${histoire.audioProvisoire ? 'audio à venir' : 'disponible'}</span></div>` : ''}
       <div class="rangee">
         <button type="button" class="j-btn fort" data-p-reprendre>Reprendre</button>
         <button type="button" class="j-btn" data-p-recommencer>Recommencer</button>
