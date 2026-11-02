@@ -5,7 +5,7 @@
  */
 window.CATALOGUE = {
   titre: 'Racines',
-  sousTitre: 'Contes, légendes et récits du Burkina Faso, en animation muette',
+  sousTitre: 'Contes, légendes et récits du Burkina Faso, en animation',
   regions: ['Ouest et Sud-Ouest', 'Nord-Ouest et Centre-Ouest', 'Sud', 'Centre et Est', 'Nord et Sahel'],
   histoires: [
     { n: 1, dossier: '01-wuro-masque', titre: 'Wuro et le masque de feuilles', peuple: 'Bobo', type: 'Mythe', region: 0, duree: 317, statut: 'adaptation',

@@ -5,3 +5,9 @@ videos/journaux/
 
 dist/
 
+
+# Pistes audio générées (régénérables avec outils/doublage.py audio) ; les voix enregistrées restent suivies
+audio/*/voix-fr.mp3
+audio/*/ambiance.mp3
+audio/*/musique.mp3
+videos-web/

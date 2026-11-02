@@ -1,0 +1,289 @@
+# Scripts de voix off et de doublage — films 11 à 20. Format : voir lot-1.txt.
+
+=== 11-loropeni
+#roles CHEF=h ORFEVRE=a MARCHAND=h2
+@amb 0:00 vent; 0:48 village; 1:26 eau; 2:06 foule; 2:46 village; 3:18 vent
+@mus 0:00 mystere; 0:48 conte; 2:46 fete; 3:18 triste; 3:50 doux
+@sfx 0:27 magie; 0:50 marteau 10; 2:08 marteau 8; 2:27 galop 5; 2:48 tambour 14
+0:02|N|sobre|Les ruines de Loropéni. Un récit historique, simplifié pour l'image.
+0:09|N||Aujourd'hui, dans le sud-ouest du Burkina, de longs murs de pierre sortent de la brousse.
+0:18|N||Qui les a bâtis ? Et pourquoi ? Remontons le temps.
+0:30|N|mystérieux|Les pierres se relèvent, une à une. La forteresse se dresse à nouveau, il y a plusieurs siècles.
+0:50|N||Les Lohron ou les Koulango, ancêtres des chefs Touna, occupent le lieu. Leurs murs de latérite montent, rangée après rangée.
+0:58|CHEF|ferme|Plus haut, ce mur doit tenir des siècles !
+1:05|N||Il protège ce que le pays a de plus précieux.
+1:28|N||L'or. On le tire de la terre et des rivières de la région.
+1:40|N||Les femmes lavent le gravier à la calebasse. Au fond, quelques paillettes brillent.
+1:54|N||C'est long et dur, mais ces grains font la richesse de tout un pays.
+2:08|N||Dans la forteresse, les orfèvres fondent l'or et le travaillent.
+2:20|N||Les marchands arrivent de loin. Ils échangent le sel et les étoffes contre l'or.
+2:33.5|ORFEVRE|fier|Touche-le : il est pur.
+2:36|MARCHAND|négociateur|Beau, mais trop cher pour moi.
+2:38.5|ORFEVRE|amusé|Alors, plus de sel !
+2:48|N|joyeux|Le chef reçoit l'or dans sa cour. Les tambours résonnent, et l'on danse.
+3:20|N|grave|Puis la forteresse est abandonnée. Personne ne sait vraiment pourquoi.
+3:31|N||Peu à peu, la brousse reprend les murs, et les arbres poussent entre les pierres.
+3:52|N||En 2009, Loropéni devient le premier site du Burkina Faso inscrit au patrimoine mondial de l'UNESCO.
+4:02|N|doux|Le mystère reste entier. Mais les pierres sont toujours là.
+?arret 1:25|À quoi servait cette puissante forteresse, selon ce récit ?|*À contrôler et à protéger l'or de la région|À abriter un grand marché aux chevaux|À garder un fleuve sacré|La fiche indique que les occupants contrôlaient l'extraction et le travail de l'or.
+?quiz Que s'est-il passé pour Loropéni en 2009 ?|*Le site a été inscrit au patrimoine mondial de l'UNESCO|La forteresse a été reconstruite|Les habitants y sont retournés vivre|C'est le premier site burkinabè inscrit au patrimoine mondial.
+
+=== 12-obire
+#roles VISITEUR=h ROI=a ANCIEN=a
+@amb 0:00 village; 1:00 vent; 1:32 nuit; 2:12 village; 2:52 nuit; 3:28 foule; 4:10 village
+@mus 0:00 conte; 1:00 triste; 1:32 mystere; 2:12 conte; 2:52 mystere; 3:28 fete; 4:10 doux
+@sfx 1:04 tambour 16; 2:18 cauris; 3:32 tambour 20; 3:50 mains 12
+0:02|N|sobre|Le royaume gan d'Obiré. Un récit historique, simplifié pour l'image.
+0:09|N||À Obiré, dans le sud-ouest du Burkina, la royauté gan se transmet depuis des générations.
+0:28|N||Le vieux roi reçoit dans sa cour. On s'agenouille devant lui.
+0:36|VISITEUR|respectueux|Puissant roi, nous t'apportons nos salutations.
+0:41|ROI|voix fatiguée|Soyez les bienvenus chez moi.
+0:48|N|grave|Mais le roi tousse. Il est fatigué, et tout le monde le voit.
+1:03|N|grave|Un soir, la nouvelle tombe : le roi est mort.
+1:14|N||Les tambours l'annoncent, et le pays entre en deuil.
+1:35|N|recueilli|Le cortège prend le chemin du bois, vers les tombeaux des rois.
+1:50|ANCIEN|recueilli|Ancêtres, un des vôtres vous rejoint.
+1:56|N||Ici, les rois disparus veillent toujours sur leur peuple.
+2:15|N||Le trône ne reste pas vide. Le conseil des anciens se réunit.
+2:24|N||Les cauris sont jetés. Les princes attendent. Qui sera le nouveau roi ?
+2:35|N||Un prince est choisi.
+2:55|N|chuchoté|On le conduit à l'écart. Le futur roi est préparé en secret, loin des regards.
+3:06|N|mystérieux|Dans la nuit du bois, on dit que les ancêtres viennent à sa rencontre.
+3:31|N|joyeux|Le jour de l'intronisation arrive. Le parasol royal s'ouvre au-dessus du nouveau roi.
+3:44|N|joyeux|Les tambours et les danses disent au pays que la chaîne n'est pas rompue.
+4:13|N|doux|Aujourd'hui encore, la royauté gan continue à Obiré.
+?arret 2:14|Le vieux roi est mort. Qui va décider de son successeur ?|*Le conseil des anciens|Le fils aîné seul|Un envoyé venu d'un autre pays|Le film évoque un choix par le conseil ; les rites réels sont à vérifier auprès de la cour d'Obiré.
+?quiz Où le cortège conduit-il le roi défunt ?|*Vers les tombeaux des rois, dans le bois|Au bord du fleuve|Vers la forteresse de Loropéni|Le récit montre une procession vers les tombeaux, où les ancêtres veillent.
+
+=== 13-zenuo
+#roles ZENUO=h NYOLE=f ANCIEN=a
+@amb 0:00 savane; 0:26 village; 1:02 savane; 1:25 nuit; 1:38 eau; 2:18 savane; 3:34 village; 4:08 nuit
+@mus 0:00 conte; 0:26 triste; 1:02 conte; 1:38 mystere; 2:18 doux; 2:54 conte; 3:34 fete; 4:08 doux
+@sfx 1:42 plouf; 2:22 magie; 3:00 hache 6; 3:40 mains 6
+0:02|N|solennel|Zenuo, le premier Dagara. Une légende fondatrice.
+0:09|N||Zenuo était chasseur. Il connaissait la brousse mieux que personne.
+0:28|ZENUO|lassé|Encore une dispute de terres.
+0:32|N||Au village, les familles ne s'entendaient plus sur les limites des champs.
+0:38|ANCIEN|sévère|Ce champ n'est pas à toi !
+0:42.5|NYOLE|décidé|Allons-nous-en.
+0:44.5|ZENUO|calme|Allons chercher notre terre.
+0:50|N||Zenuo et sa femme Nyolé prirent leurs affaires, et leur chien avec eux.
+1:04|N||Ils marchèrent des jours durant, à travers la brousse.
+1:18|N|doux|Le soir, ils s'arrêtaient près d'un feu, et ils regardaient les étoiles.
+1:40|N||Un jour, un fleuve large leur barra la route : la Volta noire.
+1:51|N||Zenuo creusa une pirogue, et ils se lancèrent sur l'eau.
+2:04|N|ému|Sur l'autre rive, tout était nouveau. Ils ne se retournèrent pas.
+2:20|N||Mais où s'arrêter ? Zenuo attendait un signe.
+2:28|N|émerveillé|Alors un vol de pintades se mit à tourner au-dessus d'un grand arbre.
+2:33.5|ZENUO|ému|C'est ici, Nyolé. C'est ici.
+2:57|N||Zenuo planta son arc au pied de l'arbre. Ici serait le premier foyer.
+3:08|N||Ensemble, ils bâtirent une case ronde et préparèrent le premier champ.
+3:36|N|joyeux|D'autres familles arrivèrent, et elles s'installèrent à leur tour.
+3:48|N|tendre|Un enfant naquit. Le village avait commencé.
+4:10|N|doux|Ainsi, dit la légende, naquit le peuple des descendants de Zenuo.
+?arret 2:26|Zenuo cherche où s'installer. Quel signe va-t-il recevoir ?|*Un vol de pintades tournant au-dessus d'un grand arbre|Un éclair dans le ciel|Une voix venue du fleuve|Dans cette version, ce sont les pintades qui désignent le lieu du premier foyer.
+?quiz Quel fleuve Zenuo et Nyolé doivent-ils traverser ?|*La Volta noire|Le Niger|Le Sénégal|La Volta noire traverse le pays dagara et marque beaucoup de ses récits.
+
+=== 14-gyil
+#roles GENIE=c BAYUO=h
+@amb 0:00 village; 0:28 savane; 0:50 nuit; 2:52 village; 3:28 foule; 4:04 village
+@mus 0:00 triste; 0:28 mystere; 2:52 conte; 3:28 fete; 4:04 doux
+@sfx 1:02 balafon 28; 1:38 balafon 30; 2:42 magie; 2:54 hache 12; 3:30 balafon 30; 3:40 mains 20
+0:02|N|malicieux|Le gyil des génies. Une légende dagara.
+0:09|N||Autrefois, les villages dagara n'avaient pas de gyil. Les fêtes étaient bien tristes : on se regardait, et on s'ennuyait.
+0:30|N||Un jour, Bayuo, un chasseur, s'éloigna trop dans la brousse.
+0:42|N|inquiet|La nuit tomba, et il ne retrouva plus son chemin.
+1:00|N|mystérieux|Soudain, il entendit un son qu'il ne connaissait pas.
+1:10|N||Derrière les arbres, des kontomblé, les génies de la brousse, frappaient sur des lames de bois.
+1:22|N|émerveillé|Bayuo oublia sa peur. Il n'avait jamais rien entendu d'aussi beau.
+1:38|N|chuchoté|Il revint la nuit suivante, et la suivante encore, caché derrière un arbre.
+1:52|N||La lune changeait de place. Et ses mains, dans le vide, imitaient de mieux en mieux les génies.
+2:13|N||Une branche craqua. Découvert !
+2:16.5|GENIE|menaçant|Qui ose nous espionner ?
+2:21.5|BAYUO|tremblant|Je vous offre cette bière. Laissez-moi jouer !
+2:27|N||Les génies se regardèrent. Puis ils lui tendirent les baguettes.
+2:35|N|ému|Bayuo joua. Il avait tout retenu.
+2:42|GENIE|voix profonde|Taille les lames dans cet arbre. Partage.
+2:54|N||Au village, il tailla les lames, et il y accrocha des calebasses.
+3:06|N||C'était le premier gyil des hommes.
+3:30|N|joyeux|Dès les premières notes, les pieds se mirent à bouger. Tout le village dansa.
+3:45|N||Au bord de la brousse, deux génies regardaient en souriant.
+4:06|N|doux|Depuis, le gyil accompagne les Dagara dans les fêtes, et aussi dans le deuil. Il accompagne la vie et la mort.
+?arret 2:14|Bayuo a été découvert par les génies. Comment va-t-il s'en sortir ?|*Il leur offre de la bière et prouve qu'il sait jouer|Il s'enfuit en volant l'instrument|Il combat les génies avec son arc|Bayuo ne vole pas la musique : il l'apprend, puis les génies acceptent de la partager.
+?quiz Qu'est-ce que le gyil ?|*Le xylophone des Dagara|Un masque de feuilles|Une danse de chasseurs|Le gyil est un xylophone à lames de bois et à calebasses.
+
+=== 15-guimbi
+#roles GUIMBI=f EXPLORATEUR=h TIEBA=h2 ENVOYE=h GRIOTTE=g
+@amb 0:00 village; 1:40 savane; 2:12 village; 2:52 vent; 3:37 foule; 4:09 village
+@mus 0:00 conte; 1:40 epique; 2:12 mystere; 2:52 epique; 3:37 fete; 4:09 doux
+@sfx 1:45 galop 8; 2:00 galop 6; 2:55 fleche; 3:02 fleche; 3:08 impact; 3:12 fleche; 3:20 galop 6; 3:38 mains 14
+0:02|N|sobre|Guimbi Ouattara. Un récit historique, simplifié pour l'image.
+0:09|N||Fin du dix-neuvième siècle. Sya, que l'on appelle aujourd'hui Bobo-Dioulasso.
+0:28|N||Une femme y compte plus que beaucoup d'hommes : Guimbi Ouattara.
+0:38|GUIMBI|calme, ferme|Vous partagerez ce champ, et chacun gardera sa part.
+0:46|N||On vient la voir pour régler les disputes, et on l'écoute.
+1:04|N||Un jour, un explorateur européen arrive à Sya, épuisé.
+1:13|N||Elle lui fait porter de l'eau et de la cola : c'est l'accueil dû à un visiteur.
+1:20|EXPLORATEUR|poli|Madame, je vous remercie de votre accueil.
+1:23|GUIMBI|souriant|Ici, l'étranger est sous ma protection.
+1:26.5|EXPLORATEUR|admiratif|J'écrirai ce que j'ai vu.
+1:42|N||Mais un danger s'approche. Tiéba, le roi de Sikasso, veut étendre son pouvoir.
+1:52|TIEBA|autoritaire|Bobo se soumettra. Porte-lui mon message.
+2:01|N||Un émissaire part au galop.
+2:18.5|ENVOYE|arrogant|Tiéba exige ta soumission.
+2:23|N||Guimbi se lève.
+2:26.5|GUIMBI|ferme, sans crier|Dis à ton maître que Bobo ne plie pas.
+2:33|N||Silence dans la cour. Chacun sait ce que veut dire ce refus.
+2:54|N|tendu|Les cavaliers arrivent devant la ville. Sur les murs, les défenseurs tiennent bon.
+3:08|N||Les flèches pleuvent. Les assauts se brisent.
+3:20|N|ferme|Enfin, les cavaliers reculent.
+3:39|N|joyeux|Bobo est sauve, et la ville acclame Guimbi.
+4:10.5|GRIOTTE|voix chantante|Guimbi ! Celle qui a tenu tête à un roi.
+4:16|N|doux|À Bobo-Dioulasso, on se souvient encore de son nom.
+?arret 2:20|Tiéba exige la soumission de Bobo. Que va répondre Guimbi ?|*Elle refuse et prépare la défense|Elle accepte et lui remet la ville|Elle s'enfuit avec l'explorateur|Le récit retient une femme qui tient tête au roi de Sikasso.
+?quiz Quel était l'ancien nom de Bobo-Dioulasso dans ce récit ?|*Sya|Bingo|Gambaga|Sya est l'ancien nom de la ville. Bingo est celui de Fada N'Gourma, et Gambaga se trouve en pays dagomba.
+
+=== 16-famagan
+#roles CHEF=a FAMAGAN=h ALLIE=h2 RIVAL=h2
+@amb 0:00 village; 0:26 savane; 1:30 village; 2:08 vent; 2:52 village; 3:28 foule; 4:00 village
+@mus 0:00 conte; 0:26 epique; 1:30 doux; 2:08 epique; 2:52 fete; 3:28 conte; 4:00 doux
+@sfx 0:32 galop 10; 1:04 galop 16; 2:14 galop 8; 2:20 impact; 2:23 impact; 3:03 tambour 6
+0:02|N|sobre|Famagan et le Gwiriko. Un récit historique, simplifié pour l'image.
+0:09|N||Au dix-huitième siècle, Kong est une grande ville de commerce, et de guerre aussi.
+0:28|N||Famagan Ouattara y dirige des cavaliers.
+0:38|N||Il les entraîne à charger, à faire demi-tour, à saluer du sabre.
+1:03|N||Un jour, il mène sa troupe vers le nord-ouest. La route est longue.
+1:14|N||Ils passent les plaines et les rivières, sans s'arrêter.
+1:33|N||Les voici dans la région de Bobo. Ici, la terre a déjà ses maîtres.
+1:43.5|FAMAGAN|respectueux|Je viens te saluer, gardien de cette terre.
+1:46.5|CHEF|prudent|Tu viens en ami, ou en maître ?
+1:49.5|FAMAGAN|sincère|En allié.
+1:54|N||Le sabre est échangé contre la bénédiction de la terre. Une alliance est conclue.
+2:11|N|tendu|Mais tous n'acceptent pas. Un chef rival prend les armes.
+2:19|N||La charge est rude, et le combat dure.
+2:31|RIVAL|vaincu|Je me rends.
+2:34|N||Le rival dépose ses armes. Plus personne ne s'oppose à Famagan.
+2:55|N||Un royaume naît autour de Bobo : le Gwiriko.
+3:01|FAMAGAN|solennel|Ce pays sera en paix, et ses routes ouvertes.
+3:10|N||Famagan est proclamé. La région entre dans une nouvelle ère.
+3:31|N|joyeux|Le grand marché s'anime : la cola, les étoffes et le sel passent de main en main.
+4:02|N|doux|Aujourd'hui encore, les Ouattara de Bobo-Dioulasso se souviennent de cette histoire.
+?arret 1:42|Famagan arrive dans la région de Bobo avec ses cavaliers. Que va-t-il faire d'abord ?|*Rechercher l'alliance d'un chef de terre|Détruire le village|Repartir vers Kong|Cette version montre un accord avec un chef de terre avant la guerre contre un rival.
+?quiz Comment s'appelle le royaume fondé autour de Bobo ?|*Le Gwiriko|Le Liptako|Le Macina|Le Gwiriko est né au XVIIIe siècle, selon la fiche de ce récit.
+
+=== 17-landolo
+#roles MARATRE=f LANDOLO=e VILLAGEOIS=f2 LANDOLOADULTE=h
+@amb 0:00 savane; 0:26 village; 1:02 savane; 2:48 vent; 3:28 vent; 4:08 savane
+@mus 0:00 conte; 0:26 triste; 1:02 doux; 2:12 mystere; 2:48 epique; 3:28 triste; 4:08 doux
+@sfx 1:14 magie; 2:50 hache 12; 3:00 vent 8
+0:02|N|malicieux|Landolo et le grand caïlcédrat. Un conte du pays san.
+0:09|N||Au bord du village se dressait un arbre immense, plus vieux que tous les anciens.
+0:28|N||Landolo était orphelin. Il vivait chez sa marâtre, qui gâtait son propre fils.
+0:33.5|MARATRE|sec|Va chercher l'eau. Et vite !
+0:40|N|triste|Le fils mangeait à sa faim. Landolo, lui, n'avait rien.
+1:04|N||Un soir, le garçon vint pleurer au pied du grand caïlcédrat.
+1:16|N|émerveillé|Alors l'arbre s'éveilla. Une branche s'abaissa, chargée de fruits.
+1:30|N|tendre|Landolo mangea, et il remercia le vieil arbre.
+1:44|LANDOLO|chanté, doux|Grand arbre, grand arbre, écoute ma chanson.
+1:52|N||Chaque jour, il chantait, et l'arbre se balançait. Et le garçon grandissait.
+2:14|N|malicieux|La marâtre finit par s'étonner. Elle le suivit et elle l'espionna.
+2:24.5|MARATRE|avide|À moi aussi, donne !
+2:28|N||L'arbre ne lui envoya que des branches sèches.
+2:38|MARATRE|furieux|Abattez-moi cet arbre !
+2:42|N||Elle revint avec deux bûcherons.
+2:50|N|tendu|Mais les coups de hache rebondissaient sur le tronc.
+2:59|N||L'arbre se mit à gronder. Le vent se leva, et les branches fouettèrent l'air.
+3:07.5|LANDOLO|suppliant|Grand arbre, calme-toi, je t'en prie !
+3:14|N||Et l'arbre s'apaisa, pour lui.
+3:31|N|grave|Vint l'année de la grande sécheresse. Tout mourut, sauf le caïlcédrat, dont les fruits nourrirent le village.
+3:46|N|ému|La marâtre vint s'agenouiller devant Landolo, et elle demanda pardon.
+3:55|VILLAGEOIS|reconnaissant|Merci, Landolo. Merci, grand arbre.
+4:10|LANDOLOADULTE|posé|Protégez cet arbre. Il vous le rendra.
+4:15|N|doux|Bien des années plus tard, le grand caïlcédrat veillait toujours.
+?arret 2:44|La marâtre veut faire abattre l'arbre. Que va-t-il se passer ?|*Les haches rebondissent : l'arbre se défend|Les bûcherons l'abattent en un jour|Landolo l'aide à le couper|Dans les contes, l'arbre protecteur défend ceux qui le respectent.
+?quiz Pourquoi tout le village finit-il par remercier le caïlcédrat ?|*Il l'a nourri pendant la grande sécheresse|Il a chassé des cavaliers|Il a fait pleuvoir|Seul l'arbre donne encore des fruits pendant la sécheresse : celui qu'on voulait abattre sauve tout le monde.
+
+=== 18-rakire
+#roles CHEFMOSSI=h CHEFSAMO=h2 SAMO=h2 MOSSI=h
+@amb 0:00 village; 1:00 vent; 1:40 nuit; 2:52 savane; 3:30 foule; 4:06 village
+@mus 0:00 conte; 0:26 mystere; 1:00 epique; 1:40 triste; 2:52 doux; 3:30 fete; 4:06 doux
+@sfx 0:28 galop 8; 1:06 fleche; 1:10 impact; 1:15 fleche; 1:20 galop 6; 1:25 impact; 3:40 mains 10
+0:02|N|malicieux|Le rakiré. Une légende des Samo et des Mossi.
+0:09|N||Dans le pays samo, la vie suivait son cours, jusqu'à ce jour-là.
+0:28|N|tendu|Des cavaliers mossi approchaient, dans un nuage de poussière.
+0:34|CHEFMOSSI|hautain|Cette terre est désormais à nous.
+0:40|N||Le chef samo ne répondit pas. Il appela ses archers.
+1:03|N||Et la guerre commença. Les flèches contre les chevaux.
+1:16|N||On se battit toute la journée, et personne ne gagna.
+1:30|N|grave|La nuit tomba sur le champ de bataille.
+1:43|N||Il ne restait que des blessés, des deux camps, tous abandonnés.
+1:56|N|ému|Deux ennemis se regardèrent. Puis l'un tendit sa gourde à l'autre.
+2:18|N||Une femme samo arriva, et elle s'arrêta devant un cavalier mossi.
+2:29|N|ému|Elle hésita, puis elle le soigna. Un cavalier, à son tour, pansa un archer samo.
+2:42|N||Plus personne ne se souvenait du camp de l'autre.
+2:57.5|CHEFSAMO|grave|Trop de sang pour rien.
+3:00.5|CHEFMOSSI|grave|Plus jamais de sang entre nous.
+3:06|N|recueilli|Ils burent, l'un après l'autre, dans la même calebasse.
+3:16|N||Et ils se serrèrent dans les bras. La paix était scellée.
+3:33|SAMO|moqueur|Vous, les Mossi, vous mangez trop !
+3:38|MOSSI|hilare|Et vous, les Samo, vous parlez trop !
+3:44|N|joyeux|Depuis ce temps, ils se moquent les uns des autres, et personne ne se fâche. C'est le rakiré.
+4:08|N|doux|Aujourd'hui encore, la parenté à plaisanterie est une façon de se dire : plus jamais la guerre.
+?arret 2:16|Blessés des deux camps : ennemis, ils sont à terre côte à côte. Que va-t-il se passer ?|*Ils se soignent les uns les autres|Ils reprennent le combat|Ils s'abandonnent mutuellement|La paix naît d'un geste de soin, avant même l'accord des chefs.
+?quiz Qu'est-ce que le rakiré ?|*Une parenté à plaisanterie : on se moque et on ne se bat plus|Une danse de guerre|Un impôt payé entre deux peuples|Le rakiré transforme un ancien conflit en moqueries amicales.
+
+=== 19-vur
+#roles VOISIN=f ANCIEN=a VOLEUR=h
+@amb 0:00 village; 0:38 nuit; 1:00 village; 2:08 vent; 2:44 nuit; 3:26 village; 4:04 nuit
+@mus 0:00 conte; 0:26 mystere; 1:00 triste; 2:08 mystere; 3:26 doux; 4:04 mystere
+@sfx 2:20 vent 12
+0:02|N|sobre|Le mystère du vur. Un récit imaginé, inspiré de la tradition lyela.
+0:09|N||Dans un village lyela, chacun connaît son voisin. Et chacun croit tout savoir de lui.
+0:28|N||Ebéyé, une veuve, garde dans son grenier tout le mil de l'année.
+0:40|N|chuchoté|Cette nuit-là, une ombre se glisse dans sa cour, et vide le grenier.
+1:02|N||Au matin, Ebéyé découvre le vol. Le village s'assemble.
+1:11|N||Un berger de passage arrive. Le coupable est trouvé.
+1:15.5|VOISIN|accusateur|C'est lui ! C'est forcément lui !
+1:22|N||Il a beau nier, personne ne l'écoute.
+1:28|ANCIEN|ferme|Sans preuve, on ne condamne personne.
+1:38|N||Les anciens se réunissent. Personne n'a rien vu, et chacun soupçonne l'autre.
+1:48|N||Ils décident de s'en remettre au vur.
+2:10|N|mystérieux|Ils partent vers le lieu du vur. On n'en dira pas plus.
+2:24|N|chuchoté|Il n'y a rien à montrer : seulement le vent, une lumière, et le noir.
+2:46|N|inquiet|Les nuits suivantes, un jeune homme ne dort plus.
+2:57|N||C'est lui qui a pris le mil. La peur et le remords le rongent.
+3:08|N||Une nuit, il rapporte le sac, et il le dépose au pied du grenier. Mais Ebéyé est là.
+3:18|VOLEUR|honteux|C'est moi. Pardonne-moi, je n'en peux plus.
+3:27.5|VOLEUR|honteux, à voix haute|C'est moi qui ai volé. Pas le berger.
+3:36|ANCIEN|sévère puis doux|Tu l'as dit toi-même. C'est bien.
+3:41|N||On présente des excuses au berger, qui reprend sa route.
+3:52|N||Et le voleur travaillera le champ de la veuve.
+4:06|N|doux|Le vur veille, dit-on. La vérité finit toujours par se savoir.
+?arret 2:44|Les anciens s'en sont remis au vur. Que va faire le vrai coupable ?|*Il finit par rapporter le mil et avouer|Il quitte le pays sans être inquiété|Il accuse une autre personne|Dans ce récit inventé, le remords suffit : le culte n'est pas montré et le film ne prétend pas le décrire.
+?quiz Quel tort le village commet-il au début de l'histoire ?|*Il accuse un berger innocent, parce qu'il est étranger|Il oublie de faire la fête|Il refuse de cultiver le champ de la veuve|L'histoire rappelle qu'il ne faut pas condamner sans preuve.
+
+=== 20-ancetre-ciel
+#roles ANCETRE=c VIEUX=a ENFANT=e
+@amb 0:00 cosmos; 0:56 cosmos; 1:32 vent; 1:48 pluie; 2:12 savane; 2:52 village; 4:04 village
+@mus 0:00 mystere; 1:32 mystere; 2:12 conte; 2:52 doux; 3:30 conte; 4:04 doux
+@sfx 0:58 magie; 1:42 tonnerre; 1:48 tonnerre; 2:16 hache 8
+0:02|N|solennel|L'ancêtre tombé du ciel. Un mythe kassena.
+0:09|N||Là-haut, au-dessus des nuages, il y avait un pays d'en haut. Rien n'y manquait.
+0:28|N||Par un trou dans les nuages, l'ancêtre de Kollo regardait la terre, tout en bas.
+0:39|N||Avec son épouse, il observait ce monde vide, sans une case et sans une voix.
+0:58|N|mystérieux|Une corde de lumière se déroula jusqu'au sol, et ils commencèrent à descendre.
+1:10|N||Longtemps, ils glissèrent, entre ciel et terre.
+1:19|N||Une terre vide les attendait, là où sera Tiébélé.
+1:34|N||Le sol était sec. Rien n'y pousserait sans eau.
+1:40|ANCETRE|voix profonde, levé vers le ciel|Pluie du pays d'en haut, viens à moi !
+1:47|N|joyeux|Et les nuages s'ouvrirent, et la terre but enfin.
+2:14|N||Ils bâtirent une première case ronde, et ils ouvrirent un champ.
+2:28|N|tendre|Ce fut le premier village. Les années passèrent, et des enfants naquirent.
+2:55|N||Les femmes prirent de la terre et des pierres de couleur, et elles peignirent les murs.
+3:07|N|émerveillé|Elles y dessinèrent des motifs venus du ciel, pour que personne n'oublie d'où l'on venait.
+3:35|VIEUX|posé|Notre père est venu d'en haut, souvenez-vous.
+3:46|N||Bien plus tard, naîtra la chefferie de Tiébélé.
+4:06|ENFANT|curieux|Dis, qui a peint ces murs ?
+4:10|N|doux|À Tiébélé, aujourd'hui, les femmes peignent toujours leurs maisons.
+?arret 1:40|L'ancêtre et son épouse arrivent sur une terre sèche. Que va-t-il faire ?|*Appeler la pluie du pays d'en haut|Remonter au ciel aussitôt|Creuser un immense puits|Le mythe lie le village au ciel : son ancêtre en fait descendre la pluie.
+?quiz Pour quelle pratique Tiébélé est-il connu dans ce récit ?|*Les murs peints par les femmes|Les pirogues sculptées|Les tissus indigo|Les maisons peintes de Tiébélé font sa renommée ; le film en imagine l'origine.

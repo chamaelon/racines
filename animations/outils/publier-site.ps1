@@ -3,26 +3,26 @@
   Assemble le site Racines en dossiers prêts à publier (dist/).
 
 .DESCRIPTION
-  Produit trois dossiers autonomes, à copier tels quels sur un hébergement statique ou une clé USB :
-    dist/racines-complet/     accueil + version animée + version vidéo (le site complet)
-    dist/racines-animations/  version animée seule (lib, bible, histoires)
-    dist/racines-videos/      version vidéo seule (MP4)
-  Dans les versions seules, les liens vers l'autre version sont retirés (commun/config.js).
-  Un index.html à la racine de chaque dossier ouvre la bonne page.
+  Produit des dossiers autonomes, à copier tels quels sur un hébergement statique ou une clé USB :
+    dist/racines-complet/     carte, animations, vidéos, pistes audio, doublage (le site complet)
+    dist/racines-animations/  sans les vidéos
+    dist/racines-videos/      sans le moteur d'animation
+  Par défaut, les vidéos publiées sont celles de videos-web/ (légères, avec pistes audio : voir
+  doublage.py videos-web) quand elles existent, sinon celles de videos/.
 
 .EXAMPLE
   ./publier-site.ps1
-  ./publier-site.ps1 -Sortie D:\publication
+  ./publier-site.ps1 -Seul complet -Sortie D:\publication
 #>
-param([string]$Sortie)
+param(
+  [string]$Sortie,
+  [ValidateSet('tous', 'complet', 'animations', 'videos')][string]$Seul = 'tous',
+  [switch]$SansVideos   # publication rapide : les vidéos pourront s'ajouter ensuite
+)
 $ErrorActionPreference = 'Stop'
 $animations = Split-Path $PSScriptRoot -Parent
 if (-not $Sortie) { $Sortie = Join-Path $animations 'dist' }
 
-function Copier([string]$de, [string]$vers) {
-  New-Item -ItemType Directory -Force (Split-Path $vers -Parent) | Out-Null
-  Copy-Item $de $vers -Recurse -Force
-}
 function Redirection([string]$fichier, [string]$cible, [string]$titre) {
   @"
 <!DOCTYPE html>
@@ -32,36 +32,44 @@ function Redirection([string]$fichier, [string]$cible, [string]$titre) {
 "@ | Set-Content $fichier -Encoding utf8
 }
 
-$videos = Get-ChildItem (Join-Path $animations 'videos') -Filter *.mp4 -ErrorAction SilentlyContinue
 $histoires = Get-ChildItem (Join-Path $animations 'histoires') -Directory | Where-Object { Test-Path (Join-Path $_.FullName 'scenes.js') }
-Write-Host "$($histoires.Count) histoires animées, $($videos.Count) vidéos."
 $manquantes = $histoires.Name | Where-Object { -not (Test-Path (Join-Path $animations "videos\$_.mp4")) }
 if ($manquantes) { Write-Warning "Vidéos manquantes : $($manquantes -join ', ') (lancer exporter-tout.ps1)" }
 
-foreach ($v in 'complet', 'animations', 'videos') {
+$versions = if ($Seul -eq 'tous') { 'complet', 'animations', 'videos' } else { @($Seul) }
+foreach ($v in $versions) {
   $d = Join-Path $Sortie "racines-$v"
   if (Test-Path $d) { Remove-Item $d -Recurse -Force }
-  New-Item -ItemType Directory -Force (Join-Path $d 'site') | Out-Null
-  Copier (Join-Path $animations 'site\commun') (Join-Path $d 'site\commun')
+  New-Item -ItemType Directory -Force $d | Out-Null
+  Copy-Item (Join-Path $animations 'site') (Join-Path $d 'site') -Recurse
   Remove-Item (Join-Path $d 'site\commun\durees.txt') -ErrorAction SilentlyContinue
+
+  # Pistes audio et fichiers de doublage (sans les sources)
+  Copy-Item (Join-Path $animations 'audio') (Join-Path $d 'audio') -Recurse
+  New-Item -ItemType Directory -Force (Join-Path $d 'doublage') | Out-Null
+  foreach ($h in $histoires) { Copy-Item (Join-Path $animations "doublage\$($h.Name)") (Join-Path $d "doublage\$($h.Name)") -Recurse }
+  Copy-Item (Join-Path $animations 'doublage\GUIDE-DOUBLAGE.md') (Join-Path $d 'doublage\GUIDE-DOUBLAGE.md') -ErrorAction SilentlyContinue
+
   if ($v -ne 'videos') {
-    Copier (Join-Path $animations 'site\animations') (Join-Path $d 'site\animations')
-    foreach ($x in 'lib', 'bible') { Copier (Join-Path $animations $x) (Join-Path $d $x) }
-    foreach ($h in $histoires) { Copier $h.FullName (Join-Path $d "histoires\$($h.Name)") }
+    foreach ($x in 'lib', 'bible') { Copy-Item (Join-Path $animations $x) (Join-Path $d $x) -Recurse }
+    New-Item -ItemType Directory -Force (Join-Path $d 'histoires') | Out-Null
+    foreach ($h in $histoires) { Copy-Item $h.FullName (Join-Path $d "histoires\$($h.Name)") -Recurse }
   }
-  if ($v -ne 'animations') {
-    Copier (Join-Path $animations 'site\videos') (Join-Path $d 'site\videos')
+  if ($v -ne 'animations' -and -not $SansVideos) {
     New-Item -ItemType Directory -Force (Join-Path $d 'videos') | Out-Null
-    foreach ($f in $videos) { Copy-Item $f.FullName (Join-Path $d "videos\$($f.Name)") }
+    foreach ($h in $histoires) {
+      $web = Join-Path $animations "videos-web\$($h.Name).mp4"
+      $src = if (Test-Path $web) { $web } else { Join-Path $animations "videos\$($h.Name).mp4" }
+      # Un MP4 en cours d'export n'est pas encore lisible : son journal n'indique pas la fin.
+      $log = Join-Path $animations "videos\journaux\$($h.Name).log"
+      $fini = (Test-Path $web) -or -not (Test-Path $log) -or (Select-String -Path $log -Pattern 'Termin' -Quiet)
+      if ((Test-Path $src) -and $fini) { Copy-Item $src (Join-Path $d "videos\$($h.Name).mp4") }
+    }
   }
-  if ($v -eq 'complet') {
-    Copy-Item (Join-Path $animations 'site\index.html') (Join-Path $d 'site\index.html')
-    Redirection (Join-Path $d 'index.html') 'site/index.html' 'Racines'
-  } else {
-    'window.SITE_SEUL = true;' | Set-Content (Join-Path $d 'site\commun\config.js') -Encoding utf8
-    Redirection (Join-Path $d 'site\index.html') "$v/index.html" 'Racines'
-    Redirection (Join-Path $d 'index.html') "site/$v/index.html" 'Racines'
-  }
+  $mode = switch ($v) { 'animations' { "'anim'" } 'videos' { "'video'" } default { 'null' } }
+  "window.MODE_SEUL = $mode;`nwindow.RACINE_VIDEOS = '../videos';" | Set-Content (Join-Path $d 'site\commun\config.js') -Encoding utf8
+  Redirection (Join-Path $d 'index.html') 'site/index.html' 'Racines'
+  New-Item -ItemType File -Force (Join-Path $d '.nojekyll') | Out-Null   # GitHub Pages : servir les fichiers tels quels
   $taille = (Get-ChildItem $d -Recurse -File | Measure-Object Length -Sum).Sum / 1MB
   Write-Host ("racines-{0} : {1:N0} Mo → {2}" -f $v, $taille, $d)
 }

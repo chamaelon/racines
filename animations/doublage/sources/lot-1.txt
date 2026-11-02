@@ -1,0 +1,341 @@
+# Scripts de voix off et de doublage — films 01 à 10.
+# Format (voir doublage/GUIDE-DOUBLAGE.md) :
+#   === dossier-du-film
+#   #roles NOM=classe …      classes : h, h2, f, f2, a (ancien), e (enfant), c (créature/esprit), g (griot)
+#   @amb / @mus / @sfx       pistes sonores : TC nom [durée] ; TC nom …
+#   TC|ROLE|ton|texte        N = narrateur. Le ton est une indication de jeu, facultative.
+#   ?arret TC|question|*bonne réponse|autre|autre|commentaire    arrêt interactif du griot
+#   ?quiz question|*bonne réponse|autre|autre|commentaire         question de fin
+
+=== 01-wuro-masque
+#roles WURO=c FORGERON=h CULTIVATEUR=h2 JEUNE=e
+@amb 0:00 cosmos; 0:30 savane; 1:10 village; 2:23 nuit; 3:30 village; 4:45 nuit
+@mus 0:00 mystere; 0:30 conte; 1:50 triste; 2:35 mystere; 3:55 fete; 4:45 doux
+@sfx 0:15 magie; 0:42 magie; 0:58 marteau 6; 1:54 impact; 2:08 vent 8; 2:58 magie; 3:42 magie; 3:55 mains 10; 4:20 mains 20
+0:02|N|solennel|Wuro et le masque de feuilles. Un mythe du pays bobo.
+0:08|N||Au commencement, il n'y avait que la nuit. Puis Wuro abaissa les mains, et la terre monta.
+0:14|N||Il lança une boule de feu vers l'horizon : ce fut le soleil.
+0:20|N||Les arbres poussèrent d'un seul coup. Et Wuro, le Créateur, posa le pied sur sa terre neuve.
+0:32|N||La terre était belle, mais personne ne la foulait. Wuro s'accroupit et modela un tertre.
+0:40|N|émerveillé|Un homme en sortit, massif et silencieux. Il regarda ses mains, puis son Créateur.
+0:50|N||Wuro lui donna le feu. Il fit surgir une enclume et lui tendit un marteau.
+0:58|N||L'homme frappa, les étincelles volèrent, et la première houe naquit. Il était forgeron.
+1:12|N||Les maisons de banco s'élevèrent une à une. Wuro ouvrit les bras, et d'autres hommes sortirent de terre.
+1:24|N||Le forgeron donna une houe à chacun. Tous cultivèrent, et le mil se leva.
+1:38|N|tendre|Content de son œuvre, Wuro les salua et s'éloigna dans le ciel.
+1:51|N|inquiet|Mais sans Wuro, les hommes oublièrent vite.
+1:54.6|CULTIVATEUR|colère|Recule ta houe, ce champ est à moi !
+1:57.7|JEUNE|colère|Ton champ s'arrête au piquet !
+2:05|N||Puis un tourbillon de poussière traversa le village. Il arracha le toit d'un grenier. Un enfant pleura.
+2:17|N||Cette nuit-là, le forgeron resta seul devant sa forge éteinte.
+2:23.8|FORGERON|suppliant|Wuro ! Les hommes se déchirent. Réponds-moi !
+2:29|N||Une étoile grossit, puis glissa vers le bois sacré.
+2:38|N||Le forgeron y entra. Une lumière tomba : Wuro était là.
+2:48|N|mystérieux|Wuro leva les bras vers le grand arbre. Les feuilles tombèrent et formèrent un costume, surmonté d'un masque de bois.
+2:59|N||Il le toucha : c'était Dwo, son fils.
+3:03|WURO|grave, lent|Voici mon fils. Toi, forgeron, porte-le.
+3:09|N||Dwo tourna sur lui-même et redevint costume. Le forgeron le reçut dans ses bras.
+3:17.2|WURO|doux|Va. Rends-leur l'ordre.
+3:22|N||Wuro remonta au ciel, et le forgeron repartit, décidé.
+3:32|N||À l'aube, il passa derrière une case. Les feuilles frémirent au-dessus du toit.
+3:40|N||Dwo sortit. Les villageois reculèrent, effrayés.
+3:47|N|apaisé|Mais l'Ancien s'avança, reconnut le fils de Wuro et s'inclina.
+3:57|N|joyeux|Dwo dansa, et le village frappa dans ses mains.
+4:06|N||Il secoua ses feuilles entre les deux querelleurs. Ils baissèrent les bras et se serrèrent la main.
+4:17|N||Le tourbillon revint. Dwo lui fit face, les bras ouverts, et le tourbillon s'éteignit.
+4:30|N|joyeux|Le mil sortit de terre, et tout le village dansa avec Dwo.
+4:47|N|doux|Le soir, Dwo rentra dans le bois. Le forgeron en ressortit seul.
+4:55|N||Depuis ce jour, quand le désordre revient, on sort le masque de feuilles.
+5:02|N|très doux|Et là-haut, une étoile veille.
+?arret 2:46|Le forgeron a appelé Wuro à l'aide. Que va lui donner le Créateur ?|*Un costume de feuilles qui contient son fils|Une armée pour punir les querelleurs|Une nouvelle forge plus puissante|Wuro ne punit pas : il confie aux hommes le masque, Dwo, pour rétablir l'ordre eux-mêmes.
+?quiz Qui est Dwo dans ce récit ?|*Le fils de Wuro, qui agit à travers le masque de feuilles|Le premier forgeron|Le frère du tourbillon|En portant le masque, le forgeron laisse agir Dwo, le fils de Wuro.
+
+=== 02-silures-dafra
+#roles AWA=f MAH=a PECHEUR=h
+@amb 0:00 eau; 0:32 village; 1:00 eau; 1:42 village; 2:06 eau; 2:50 vent; 3:30 eau; 4:15 eau
+@mus 0:00 mystere; 0:32 conte; 1:42 doux; 2:06 mystere; 2:50 triste; 3:30 doux; 3:58 fete; 4:15 doux
+@sfx 0:12 plouf; 1:36 plouf; 2:36 plouf; 3:44 plouf; 3:56 mains 10
+0:02|N|solennel|Les silures sacrés de Dafra. Une légende de Bobo-Dioulasso.
+0:08|N||Dans une gorge, à la source du Houet, l'eau tombe en cascade depuis toujours.
+0:14|N|mystérieux|Sous sa surface vivent de grands poissons moustachus : les silures.
+0:21|N||Un jour, au temps des fondateurs, un chasseur assoiffé trouva ce lieu. Il but, et il laissa une offrande en remerciement.
+0:34|N||Près de la source, une ville grandit : Sya, l'ancienne Bobo-Dioulasso.
+0:44|N||Ses habitants venaient chercher l'eau à Dafra, et ils n'oubliaient jamais de nourrir les silures.
+1:02|N|tendre|Awa, une jeune femme de Sya, n'avait pas d'enfant. Son cœur était lourd.
+1:10|N||Un matin, elle prit le chemin de la gorge.
+1:18|N||Mah, la gardienne de Dafra, l'y attendait.
+1:24|AWA|timide, plein d'espoir|Silures de Dafra, je vous en prie, donnez-moi un enfant.
+1:30|MAH|bienveillant|Fais ton vœu, et attends.
+1:35|N|émerveillé|Un silure sauta hors de l'eau. Le vœu était entendu.
+1:45|N|joyeux|Et bientôt, Awa berça son enfant. Elle revint à Dafra pour dire merci.
+2:08|N||Mais un jour arriva un pêcheur étranger, avec un harpon sur l'épaule.
+2:17|MAH|ferme|Ici, personne ne pêche. Ces poissons sont sacrés.
+2:23|N|inquiet|Il éclata de rire. Il lança son harpon et prit un silure.
+2:40|N||Il repartit, content de lui. Derrière lui, le ciel s'assombrit.
+2:52|N|grave|Alors la cascade se tarit, goutte après goutte.
+3:03|N||À Sya, les canaris restèrent vides. Les habitants revenaient des puits les mains vides.
+3:16|N||Et loin de là, dans son campement, le pêcheur tomba malade.
+3:32|N||Tremblant, il revint à la gorge avec le silure entre les mains.
+3:38.6|PECHEUR|brisé|Pardonne-moi, gardienne. Je ne savais pas.
+3:44|N||Il rendit le poisson à l'eau. Mah nourrit les silures.
+3:52|N|joyeux|Et l'eau revint. Les habitants accoururent pour fêter son retour.
+4:17|N|apaisé|Aujourd'hui encore, à Dafra, les visiteurs nourrissent les silures, et ils leur confient leurs vœux.
+?arret 2:48|Le pêcheur a enlevé un silure sacré. Que va-t-il arriver à la ville ?|*L'eau va disparaître|La pêche sera abondante|Rien : les silures ne sont que des poissons|Dans la légende, les silures protègent la ville : toucher à eux, c'est menacer l'eau de tous.
+?quiz Qui veille sur les silures dans ce récit ?|*Mah, la gardienne de Dafra|Awa, la jeune mère|Le pêcheur étranger|Mah garde le lieu et rappelle l'interdit. Awa et le pêcheur viennent tous deux lui demander de l'aide.
+
+=== 03-wuro-pilon
+#roles WURO=c HAME=f BADO=h SANOU=h2 YELI=a
+@amb 0:00 cosmos; 0:30 village; 1:48 village; 2:32 vent; 2:43 nuit; 2:53 vent; 3:22 cosmos; 3:42 orage; 4:02 pluie; 4:12 savane; 4:47 village; 5:27 nuit
+@mus 0:00 mystere; 0:30 conte; 1:48 triste; 3:22 mystere; 3:42 epique; 4:12 mystere; 4:47 fete; 5:27 doux
+@sfx 0:10 magie; 1:20 pilon 22; 1:44 impact; 2:58 impact; 3:25 magie; 3:48 tonnerre; 3:53 tonnerre; 4:00 tonnerre; 4:47 mains 30
+0:02|N|solennel|Wuro et le pilon. Un mythe des Bwaba.
+0:07|N||Dans la nuit d'avant le monde, Wuro alluma les étoiles une à une.
+0:14|N||Il fit monter la terre, couler le fleuve, et d'un souffle, il fit pousser les arbres.
+0:32|N||En ce temps-là, le ciel touchait presque les toits. Wuro marchait parmi les hommes.
+0:40|N|tendre|Tiko, un enfant du village, courait autour de ses jambes. Wuro le souleva jusqu'au ciel.
+0:51|N||Au forgeron Bado, il offrit le mil.
+1:00.5|WURO|chaleureux|Semez ceci à la saison des pluies. La terre vous le rendra au centuple.
+1:17|N||Dans sa cour, Hamé pilait le mil.
+1:27|N||Wuro arriva, fatigué, et s'assit près d'elle. Il bâilla, s'étira, et sa main resta suspendue au-dessus du mortier.
+1:39|N|inquiet|Hamé pilait de plus en plus vite, de plus en plus haut.
+1:44.5|N|bref|Et le pilon frappa la main de Wuro.
+1:50|N|grave|Wuro serra sa main blessée. Sa lumière se mit à trembler.
+1:57.3|HAME|affolé|Pardon, Wuro ! Je ne t'avais pas vu !
+2:04|N||Les villageois accoururent, puis reculèrent, effrayés.
+2:12|N|triste|Wuro regarda Hamé, sans colère. Il secoua la tête et s'éleva lentement.
+2:21|N||Le ciel monta avec lui, très haut. Bientôt, il ne fut plus qu'une étoile.
+2:34|N|grave|Sans Wuro, le monde se dérégla. La pluie ne venait plus, et le mil séchait sur pied.
+2:45|N||La nuit, une hyène pillait le grenier.
+2:55|BADO|colère|Cette eau est pour ma famille !
+2:58.3|SANOU|colère|Et la mienne, qu'elle meure de soif ?
+3:05|N||Le petit Tiko tomba malade.
+3:15.5|YELI|suppliant, voix usée|Wuro, entends-nous !
+3:19|N|triste|Personne ne répondit.
+3:24|N||Mais du haut du ciel, Wuro regardait. Il ouvrit ses mains : trois lumières plongèrent vers la terre. Ses trois fils.
+3:45|N|fort|Kwere, la foudre, frappa le sol de son bâton. Les nuages s'amoncelèrent.
+3:58|N|joyeux|La pluie tomba enfin, et le mil se redressa.
+4:13|N||Dans la brousse, Yéli cherchait des remèdes, quand la hyène surgit.
+4:25|N||Soxo, l'esprit de la brousse, tendit la main, et la bête se coucha.
+4:33|N|tendre|Il cueillit les feuilles qui guérissent. Et Tiko se releva.
+4:51|N||Enfin vint Dwo, le masque de feuilles.
+4:57|N|joyeux|Il tourna, sauta, secoua ses feuilles devant Bado et Sanou. Les deux hommes se tendirent la main.
+5:12|N|joyeux|Et tout le village dansa.
+5:29|N|doux|Le soir, Hamé pile de nouveau, plus doucement. Elle lève les yeux vers le ciel, devenu très haut.
+5:37|N|très doux|Une étoile lui répond.
+?arret 3:22|Sans Wuro, les hommes souffrent et l'Ancien prie en vain. Que va faire Wuro ?|*Envoyer ses trois fils pour aider les hommes|Redescendre vivre au village|Punir Hamé pour sa faute|Wuro reste au ciel, mais il envoie Kwere, Soxo et Dwo : la foudre, la brousse et la renaissance.
+?quiz Quel fils de Wuro apporte la pluie ?|*Kwere, la foudre|Soxo, l'esprit de la brousse|Dwo, le masque de feuilles|Kwere fait pleuvoir, Soxo guérit l'enfant et Dwo réconcilie les hommes.
+
+=== 04-gazelle
+#roles CAMELEON=h2 GAZELLE=f
+@amb 0:00 savane; 3:28 vent; 4:03 nuit
+@mus 0:00 conte; 2:08 epique; 2:53 conte; 3:28 triste; 4:03 doux
+@sfx 2:10 galop 6; 2:34 plouf; 2:42 galop 8; 3:06 mains 8
+0:02|N|malicieux|Les deux traits de la gazelle. Un conte bwaba.
+0:08|N||Autrefois, la gazelle n'avait aucune marque sur le museau. C'était la plus rapide de la brousse, et elle le savait.
+0:19|N||Chaque jour, elle s'arrêtait à la mare pour admirer son beau visage.
+0:30|N||Un matin, elle croisa le caméléon, qui avançait une patte après l'autre.
+0:38|GAZELLE|moqueur|Alors, vieux lent, tu arriveras avant la saison des pluies ?
+0:45|N||Elle tourna autour de lui en sautant par-dessus sa tête. Le lièvre et la pintade se mirent à rire.
+0:56|N|malicieux|Le caméléon s'arrêta, changea de couleur, et ne dit rien.
+1:10|CAMELEON|calme, rusé|Une course, gazelle. Jusque là-bas, à la termitière rouge.
+1:17|N||L'éléphant, qui passait par là, accepta d'être le juge.
+1:26|N||Il traça la ligne d'arrivée d'un geste de la trompe. Toute la brousse voulut voir ça.
+1:45|N||Le jour venu, la gazelle fanfaronna devant les autres.
+1:53|N|chuchoté|Pendant ce temps, le caméléon s'approchait sans bruit. Il grimpa sur son dos et prit la couleur de son pelage.
+2:10|N|enlevé|L'éléphant leva la trompe, et la gazelle bondit, légère comme le vent.
+2:21|N||Elle se retourna : personne derrière elle. Elle ralentit, sûre de sa victoire.
+2:31|N||À la mare, elle but tranquillement. Sur son dos, le caméléon ne bougeait pas.
+2:44|N||Puis elle repartit, en riant toute seule.
+2:55|N||Juste avant la ligne, elle s'arrêta pour se moquer de la piste vide.
+3:05|N|malicieux|Alors le caméléon sauta de son dos et franchit la ligne. Il avait gagné !
+3:17|N||Toute la brousse éclata de rire.
+3:30|N|triste|La gazelle ne dit plus rien. Pour la première fois, elle pleura.
+3:42|N||Ses larmes de honte coulèrent le long de son museau, et y laissèrent deux traits noirs.
+3:54|N||Elle eut beau frotter, ils ne partirent plus.
+4:05|N|doux|Depuis ce jour, toutes les gazelles portent ces deux traits. Et le caméléon, lui, avance toujours sans se presser.
+?arret 2:06|La course va commencer et le caméléon est bien lent. Comment peut-il gagner ?|*En voyageant caché sur le dos de la gazelle|En courant plus vite que prévu|En faisant tomber la gazelle dans la mare|C'est sa couleur qui le sauve : invisible sur le pelage de la gazelle, il se fait porter jusqu'à l'arrivée.
+?quiz Que disent les deux traits noirs de la gazelle, dans ce conte ?|*Ce sont les traces de ses larmes de honte|Ce sont des peintures de guerre|Le caméléon les a dessinés|Le conte explique l'origine des traits : l'orgueil a fini en larmes.
+
+=== 05-tenin-1915
+#roles COMMANDANT=h CHEF=a GARDE=h2 MARI=h FORGERON=h2 CONTEUSE=a
+@amb 0:00 village; 1:08 vent; 1:43 village; 2:03 vent; 2:23 nuit; 3:03 vent; 3:48 vent; 4:23 village
+@mus 0:00 conte; 0:28 triste; 2:23 mystere; 3:03 epique; 3:48 triste; 4:23 doux
+@sfx 2:38 tambour 18; 3:10 tambour 6; 3:18 fleche; 3:20 fusil; 3:23 fleche; 3:25 fusil; 3:28 impact
+0:02|N|sobre|Tenin Coulibaly. Un récit de la révolte de 1915, simplifié pour l'image.
+0:10|N||1915. Dans la boucle du Mouhoun, un village bwa vit au rythme des champs.
+0:18|N|tendre|Tenin et son mari attendent un enfant.
+0:30|N||Mais le pays est sous administration coloniale. Le commandant de cercle arrive au village.
+0:38|COMMANDANT|sec|Il me faut du mil et des hommes pour la route.
+0:41|CHEF|digne|Nos greniers sont presque vides.
+0:43.5|COMMANDANT|cassant|Ce n'est pas une question, c'est un ordre.
+0:49|N||Les gardes prennent le mil et emmènent trois hommes.
+1:10|N||Sur le chantier de la route, le travail est forcé.
+1:13.5|GARDE|dur|Plus vite ! Avancez !
+1:18|N|grave|Un homme s'effondre sous la chaleur.
+1:27|GARDE|dur|Relève-toi. Au travail !
+1:33|N||Il en faut toujours plus. Alors les gardes reviennent au village.
+1:45|N||Cette fois, ils désignent Tenin, qui est enceinte.
+1:53.8|MARI|désespéré|Elle porte notre enfant !
+1:57|N||On l'emmène quand même.
+2:04|N|grave|Au chantier, on la fait porter des pierres, jusqu'à ce qu'elle tombe.
+2:13.6|GARDE|dur|Laisse-la !
+2:16|N||Un homme veut l'aider. Le garde l'en empêche.
+2:25|N||Cette nuit-là, le village se réunit autour du feu.
+2:35.5|FORGERON|grondant|Assez ! Nous ne donnerons plus rien.
+2:41|N||L'Ancien donne son accord. Les tambours parlent, et des messagers partent vers les autres villages.
+3:05|N|ferme|Novembre 1915. La guerre du Bani-Volta commence.
+3:12|N||Les insurgés arrivent sur le chantier. Les flèches répondent aux fusils.
+3:27|N||Le forgeron charge, les gardes s'enfuient.
+3:37|N|ému|Tenin est libérée.
+3:50|N||Le soulèvement gagne de village en village. Il sera l'un des plus grands de cette époque en Afrique de l'Ouest.
+4:05|N|grave|Mais en 1916, les colonnes militaires écrasent la révolte. Les villages paient très cher leur courage.
+4:24.5|CONTEUSE|voix usée, posée|Une femme, un enfant, un village qui dit non.
+4:27.5|CONTEUSE|voix usée, posée|Voilà pourquoi on se souvient.
+?arret 2:22|Tenin s'est effondrée sur le chantier. Comment va réagir le village ?|*Il se réunit la nuit et décide de se soulever|Il envoie une lettre au gouverneur|Il attend le retour de Tenin sans rien faire|Cette injustice pousse les Bwaba à entrer dans la guerre du Bani-Volta.
+?quiz Quelle guerre anticoloniale ce récit raconte-t-il ?|*La guerre du Bani-Volta, en 1915-1916|La Première Guerre mondiale en Europe|La guerre de Silamaka contre Ségou|En 1915-1916, des villages bwa et marka se soulèvent contre l'administration coloniale.
+
+=== 06-bona-1915
+#roles PREDICATEUR=a FOULE=f COMMANDANT=h CHEF=a ANCIEN=a
+@amb 0:00 village; 1:44 nuit; 2:20 vent; 3:05 savane; 3:35 vent; 4:05 village
+@mus 0:00 conte; 0:26 mystere; 1:06 triste; 1:44 mystere; 2:20 epique; 3:35 triste; 4:05 doux
+@sfx 2:05 tambour 14; 2:30 fleche; 2:32 fusil; 2:35 fleche; 2:38 fusil; 2:50 impact; 3:08 galop 8
+0:02|N|sobre|Le soulèvement de Bona. Un récit du pays marka, simplifié pour l'image.
+0:09|N||1915. À Datomon, la mosquée se dresse au cœur du pays marka.
+0:18|N||La guerre des Blancs est loin. Mais ses exigences arrivent jusqu'ici.
+0:28|PREDICATEUR|inspiré|Écoutez ! Un messie viendra. Le pouvoir des Blancs prendra fin.
+0:37|N||Un prédicateur parle chaque jour devant la mosquée. La foule l'écoute et commence à espérer.
+0:51|FOULE|murmure plein d'espoir|Quand viendra-t-il ? Dis-nous quand !
+1:08|N||Puis arrive le recrutement. L'administration veut des soldats pour sa guerre.
+1:15.5|CHEF|digne|Nos fils sont nos bras pour les champs.
+1:18|COMMANDANT|sec|Ils partiront. Ce sont les ordres.
+1:24|N|grave|Les gardes emmènent les jeunes hommes. Les mères pleurent au bord du chemin.
+1:47|N||Une nuit, à Bona, les anciens se réunissent autour de l'autel.
+1:55|N|ferme|Ils tendent la main au-dessus de lui, et ils font serment.
+2:06|N||Dans le noir, les tambours de guerre commencent à parler.
+2:22|N|ferme|Le 17 novembre 1915, l'insurrection éclate à Bona.
+2:30|N||La colonne arrive. Les flèches répondent aux fusils derrière le muret de banco.
+2:45|N||Les défenseurs franchissent le muret, et la colonne recule.
+3:07|N||La nouvelle court de village en village. Des cavaliers portent le message.
+3:18|N||Le soulèvement s'étend aux villages marka et bwa.
+3:37|N|grave|Mais en 1916, la révolte est réprimée. À Bona, il ne reste que des ruines.
+3:50|N||Le pays a payé très cher ce refus.
+4:07|ANCIEN|posé|Nos pères ont dit non.
+4:10.5|ANCIEN|posé|Ne l'oublions pas.
+?arret 1:43|Les jeunes hommes ont été emmenés de force. Que vont décider les anciens de Bona ?|*Prêter serment et se préparer à résister|Partir vivre dans une autre région|Demander aux jeunes de s'enfuir seuls|La colère du recrutement forcé et l'espoir annoncé par le prédicateur mènent à l'insurrection.
+?quiz Quelle date reste attachée à l'insurrection de Bona ?|*Le 17 novembre 1915|Le 11 décembre 1960|Le 5 août 2009|Selon la fiche de ce récit, l'insurrection éclate à Bona le 17 novembre 1915.
+
+=== 07-pics-sindou
+#roles NAKAN=a
+@amb 0:00 vent; 0:26 village; 0:32 foule; 1:02 nuit; 1:34 vent; 2:16 savane; 2:44 orage; 3:30 savane; 4:00 vent
+@mus 0:00 mystere; 0:26 epique; 1:02 triste; 1:34 mystere; 2:16 conte; 2:44 epique; 3:30 fete; 4:00 doux
+@sfx 0:30 galop 12; 1:58 magie; 2:46 galop 8; 3:00 magie; 3:05 tonnerre; 3:10 tonnerre; 3:14 impact
+0:02|N|solennel|Les esprits des pics de Sindou. Une légende senoufo.
+0:09|N||Dans le sud-ouest du Burkina, de hautes aiguilles de pierre se dressent au-dessus de la plaine. On dit qu'elles ne sont pas vides.
+0:28|N||Autrefois, un village senoufo vivait plus au sud, en paix.
+0:34|N|tendu|Un matin, des cavaliers surgirent, venus capturer des hommes.
+0:43|N||Les toits brûlèrent, et le village s'enfuit vers la brousse.
+1:04|N||Ils marchèrent de longues nuits, guidés par Nakan, la doyenne.
+1:15|N||Un enfant tomba de fatigue. Le plus fort des hommes le prit sur ses épaules.
+1:22.3|NAKAN|épuisé mais ferme|Là-bas ! Les pierres nous attendent.
+1:37|N|émerveillé|Ils arrivèrent au pied des pics. Personne n'avait jamais rien vu de pareil.
+1:47|N||Au pied du plus grand, Nakan déposa une offrande.
+1:51|NAKAN|recueilli|Esprits des rochers, cachez-nous.
+1:58|N|mystérieux|Alors la pierre s'éveilla, et les esprits en sortirent. Ils regardèrent ce peuple sans abri, et ils l'adoptèrent.
+2:18|N||On bâtit le village entre les rochers, et la vie reprit.
+2:46|N|tendu|Mais un jour, les cavaliers retrouvèrent leur trace.
+2:55|N||Nakan se dressa et appela les esprits.
+3:03|N|fort|La montagne trembla. Des pierres roulèrent, et les chevaux prirent peur.
+3:15|N||Les cavaliers s'enfuirent. Ils ne revinrent jamais.
+3:32|N|joyeux|Le village éclata de joie, et les esprits retournèrent dans la pierre.
+3:45|N||Jamais plus ce peuple ne fut dominé.
+4:02|N|doux|Aujourd'hui encore, à Sindou, on honore les esprits des rochers, pour garder leur protection.
+?arret 1:50|Le peuple est arrivé épuisé au pied des pics. Qui va le protéger ?|*Les esprits des rochers|Une armée de cavaliers alliés|Un roi voisin|Dans la légende, c'est la montagne elle-même qui protège les Senoufo, en échange du respect et des offrandes.
+?quiz Pourquoi fait-on encore des offrandes à Sindou, selon la légende ?|*Pour garder la protection des esprits des rochers|Pour payer un tribut aux cavaliers|Pour faire pleuvoir sur les champs de coton|L'offrande entretient l'alliance entre les habitants et les esprits des pics.
+
+=== 08-tene-balafon
+#roles MERE=f PERE=h ZIE=a MAITRE=h2 GENIE=c TENE=f2
+@amb 0:00 village; 0:28 nuit; 1:44 village; 2:14 village; 2:50 nuit; 4:10 foule
+@mus 0:00 conte; 0:28 mystere; 1:44 triste; 2:14 epique; 2:50 mystere; 4:10 fete
+@sfx 0:29 balafon 14; 1:04 balafon 30; 2:56 balafon 8; 3:27 magie; 3:32 tonnerre; 4:12 mains 14
+0:02|N|malicieux|Téné et le balafon des génies. Un conte senoufo.
+0:08|N||Le soir, au village, le vieux Ziè jouait du balafon.
+0:14|N|tendre|Et Téné dansait. Elle aimait cet instrument plus que tout au monde.
+0:30|N|mystérieux|Une nuit, une autre musique monta de la brousse. Plus belle que celle de Ziè. Plus lointaine aussi.
+0:44|N||Téné se leva sans bruit. Elle quitta sa natte, et elle partit vers le son.
+1:06|N|mystérieux|Dans une clairière, les génies de la brousse jouaient à la lune.
+1:18|N||Téné se mit à danser, et elle ne put plus s'arrêter. Les génies tournaient autour d'elle.
+1:31|N||Elle avait tout oublié : son nom, sa mère, son village.
+1:46|N||Au matin, la natte était vide.
+1:49.5|MERE|paniqué|Téné ! Ma fille n'est plus là !
+1:56|PERE|inquiet|Personne ne l'a vue ?
+1:58.5|ZIE|grave|Cette nuit, j'ai entendu jouer en brousse.
+2:01.5|MERE|effrayé|Les génies !
+2:16|N||On alla trouver les chasseurs dozo, les gardiens de la brousse.
+2:21|PERE|suppliant|Ramenez-moi ma fille, je vous en prie.
+2:24|MAITRE|calme|Nous partirons ce soir.
+2:30|N||Le maître consulta ses amulettes et leva son chasse-mouche. Puis les dozo partirent avec leur chien.
+2:52|N||Ils marchèrent toute la nuit. Le chien flairait les herbes.
+3:05|N|chuchoté|Au loin, la musique revenait. Les hommes s'arrêtèrent, puis ils avancèrent en silence.
+3:27|N|fort|Le maître dozo leva son chasse-mouche. Un éclair, et tout s'arrêta.
+3:39|MAITRE|ferme|Rendez cette enfant à sa mère.
+3:43|N||Le chef des génies hésita, puis il céda.
+3:50|GENIE|voix profonde|Garde ce balafon. Il est à toi.
+3:56|N|ému|Il le laissa à Téné, qui s'éveilla comme d'un long rêve.
+4:12|N|joyeux|À la fête des récoltes, Téné joua le balafon des génies. Et tout le village dansa.
+?arret 3:25|Téné est envoûtée par les génies. Comment les dozo vont-ils la sauver ?|*Le maître rompt le charme et négocie avec les génies|Les chasseurs tuent tous les génies|Le chien mord le chef des génies|Le pouvoir des dozo ne repose pas sur la force seule : leur maître impose le respect aux génies.
+?quiz Que garde Téné de son aventure ?|*Le balafon des génies|Le chasse-mouche du maître dozo|Une amulette de sa mère|Les génies rendent Téné et lui laissent leur balafon.
+
+=== 09-thila-bateba
+#roles PERE=h DEVINERESSE=a THILA=c
+@amb 0:00 savane; 0:46 nuit; 1:06 savane; 1:42 nuit; 2:22 savane; 3:32 nuit; 4:12 savane
+@mus 0:00 conte; 0:26 triste; 1:06 mystere; 2:22 conte; 3:02 doux; 3:32 mystere; 4:12 doux
+@sfx 1:20 cauris; 1:50 magie; 2:26 hache 10; 3:45 magie
+0:02|N|solennel|Les thila et les bateba. Un mythe lobi.
+0:08|N||Voici la soukala de Kambiré, une maison-forteresse aux murs épais.
+0:15|N||Rien ne semble pouvoir l'atteindre. Et pourtant.
+0:28|N|inquiet|Un jour, l'enfant de Kambiré tomba malade. Rien ne le soulageait.
+0:47|N||Puis un serpent se glissa dans le grenier. Le malheur était entré dans la maison.
+1:08|N||Kambiré alla voir la devineresse.
+1:12.5|PERE|inquiet|Mon enfant souffre. Qui nous en veut ?
+1:15.5|DEVINERESSE|lent|Voyons cela.
+1:19|N||Elle jeta les cauris sur le sol, et elle les regarda longtemps.
+1:27|DEVINERESSE|grave|Ce sont les thila, les esprits. Ils attendent quelque chose de toi.
+1:44|N||Cette nuit-là, Kambiré fit un rêve.
+1:50|N|mystérieux|Les thila lui apparurent, et lui montrèrent une petite statue de bois.
+1:58|THILA|voix profonde|Sculpte-la. Pose-la chez toi. Elle veillera.
+2:06|N||Au réveil, Kambiré savait ce qu'il avait à faire.
+2:24|N||Il choisit un tronc et se mit à tailler, sans parler.
+2:36|N||Une statue, puis une seconde.
+2:50|N||Ce sont les bateba : les statuettes gardiennes.
+3:04|N|recueilli|Il les posa sur l'autel, à l'entrée de la maison, avec une offrande.
+3:15|N||La famille les salua, comme on salue des gens de la maison.
+3:34|N|chuchoté|La nuit suivante, le serpent revint.
+3:45|N|mystérieux|Il s'approcha de l'autel, et les bateba s'éveillèrent. Une lueur les entoura.
+3:58|N||Le serpent recula, et s'en alla.
+4:14|N|doux|Au matin, l'enfant jouait dans la cour. Depuis, les Lobi disent que les bateba veillent sur la maison.
+?arret 2:20|Les thila ont parlé en rêve à Kambiré. Que doit-il faire ?|*Sculpter des statuettes gardiennes|Quitter sa maison|Offrir son grenier au serpent|Les bateba sculptées à la demande des thila protègent la maison.
+?quiz Qui sont les bateba ?|*Des statuettes de bois gardiennes de la maison|Des esprits de la brousse|Des devineresses lobi|Les thila sont les esprits ; les bateba sont les statuettes qu'ils demandent aux hommes de sculpter.
+
+=== 10-dyoro
+#roles DOYEN=a ANCIEN=a
+@amb 0:00 eau; 0:26 vent; 1:02 eau; 2:27 savane; 2:57 eau; 3:37 village; 4:12 eau
+@mus 0:00 mystere; 0:26 triste; 1:02 mystere; 1:42 epique; 2:27 doux; 2:57 mystere; 3:37 fete; 4:12 doux
+@sfx 1:20 plouf; 1:44 magie; 1:50 plouf; 2:05 plouf; 3:39 tambour 12
+0:02|N|solennel|Le Dyoro, la traversée. Une légende lobi.
+0:08|N||La Volta noire coule, large et sombre. Pour les Lobi, elle garde la mémoire d'un passage.
+0:28|N||Autrefois, sur la rive est, la terre ne nourrissait plus personne.
+0:40|N||Le doyen rassembla les siens. Il fallait partir, et de l'autre côté il n'y avait que le fleuve.
+1:04|N|inquiet|Ils arrivèrent sur la rive. L'eau était haute, et les crocodiles guettaient.
+1:18|N||Personne n'osait avancer. Le doyen s'approcha seul, au bord de l'eau.
+1:29|DOYEN|recueilli, voix forte|Fleuve, laisse passer tes enfants. Nous viendrons te saluer, nous et ceux qui naîtront.
+1:44|N|mystérieux|Alors la lumière se posa sur l'eau, et les vagues se calmèrent.
+1:56|N||Ils entrèrent dans le fleuve main dans la main. L'enfant passa sur les épaules des hommes.
+2:10|N|chuchoté|Les crocodiles les regardèrent passer, sans attaquer.
+2:29|N|ému|Sur la rive ouest, ils touchèrent une terre nouvelle. Ils remercièrent le fleuve.
+2:59|N||Bien des générations plus tard, les jeunes refont ce passage. C'est le Dyoro, la grande initiation.
+3:14|N|chuchoté|Ce qui s'y passe reste secret. On sait seulement qu'ils partent en silence, comme les ancêtres.
+3:39|N|joyeux|Puis ils reviennent, changés. Le village les accueille en dansant.
+4:14.3|ANCIEN|posé|Ils ont traversé, comme nous.
+4:19|N|doux|Le soir, les anciens s'assoient au bord de l'eau. Le fleuve se souvient.
+?arret 1:43|Le doyen a prié au bord du fleuve. Que va-t-il se passer ?|*Le fleuve s'apaise et le peuple traverse|Les crocodiles attaquent|Ils renoncent et font demi-tour|La traversée fonde le récit : ce passage réussi donne son sens à l'initiation.
+?quiz Que refont les jeunes lors du Dyoro, selon cette légende ?|*Le passage de leurs ancêtres à travers la Volta noire|La construction du premier village|Une course de pirogues|Le film ne montre rien du rite, qui reste secret : il évoque seulement ce passage symbolique.

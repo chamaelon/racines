@@ -1,0 +1,289 @@
+# Scripts de voix off et de doublage — films 21 à 30. Format : voir lot-1.txt.
+
+=== 21-crocodile
+#roles ABEM=h ENFANT=e
+@amb 0:00 savane; 0:26 vent; 1:36 vent; 2:48 eau; 3:26 village; 4:04 eau
+@mus 0:00 conte; 0:26 triste; 1:36 mystere; 2:12 doux; 2:48 conte; 3:26 doux
+@sfx 2:52 plouf; 2:58 plouf
+0:02|N|solennel|Le crocodile qui sauva l'ancêtre. Une légende kassena.
+0:09|N||Abem était chasseur, l'ancêtre d'une famille kassena. Il partit, comme chaque jour, avec son arc.
+0:28|N|grave|Mais la grande sécheresse brûlait la brousse. Le gibier se faisait rare.
+0:40|N||Abem suivit une antilope, de plus en plus loin. Et quand il s'arrêta, il ne reconnut plus rien.
+1:04|N||Le soleil était haut, et la soif le prit.
+1:16|N|inquiet|Il secoua sa gourde. Elle était vide.
+1:24|N||Il marcha encore un peu, puis il tomba.
+1:39|N|chuchoté|Quelque chose bougeait dans les herbes. Un crocodile, loin de toute eau.
+1:53|N|tendu|Abem voulut prendre son arc, mais ses mains ne lui obéissaient plus. Il ferma les yeux.
+2:14|N|émerveillé|Le crocodile ne mordit pas. Du museau, il le poussa doucement.
+2:27|N||Abem se releva. Le crocodile avança, puis il se retourna, comme pour dire : suis-moi.
+2:51|N|joyeux|Derrière les arbres, il y avait une mare cachée, pleine d'eau claire.
+3:02|N||Abem but, et la vie revint.
+3:12|N|ému|Il se tourna vers le crocodile, et il s'inclina devant lui.
+3:35|ABEM|solennel|Jamais nous ne tuerons le crocodile. Ni moi, ni mes enfants.
+3:44|N||Et sa famille fit le serment.
+4:06|ENFANT|curieux, à mi-voix|Il ne nous mange pas ?
+4:10|N|doux|Aujourd'hui encore, pour certaines familles kassena, le crocodile reste un totem sacré.
+?arret 2:12|Un crocodile s'approche d'Abem, à bout de forces. Que va-t-il faire ?|*Le guider jusqu'à l'eau|Le dévorer|L'ignorer et repartir|La légende explique ainsi pourquoi certaines familles kassena honorent le crocodile.
+?quiz Pourquoi la famille d'Abem respecte-t-elle le crocodile ?|*Parce qu'il a sauvé son ancêtre de la soif|Parce qu'il garde un trésor|Parce qu'il a tué un ennemi|Le crocodile est ici un totem, par reconnaissance envers l'animal qui a sauvé l'ancêtre.
+
+=== 22-babatou
+#roles GUETTEUR=e CHEF=a
+@amb 0:00 village; 0:26 vent; 1:00 village; 2:08 foule; 3:28 savane; 4:02 village
+@mus 0:00 conte; 0:26 triste; 1:00 mystere; 2:08 epique; 3:28 doux; 4:02 doux
+@sfx 0:30 galop 10; 1:21 tambour 8; 2:10 galop 12; 2:22 impact; 2:26 impact; 2:50 fleche; 2:54 fleche; 2:58 fleche; 3:06 galop 6
+0:02|N|sobre|Face aux cavaliers de Babatou. Un récit historique, simplifié pour l'image.
+0:09|N||Fin du dix-neuvième siècle. Dans un village gourounsi, la vie suit le rythme des saisons.
+0:28|N||Mais dans la brousse, passent les cavaliers zarma de Babatou.
+0:40|N|grave|Ils capturent des hommes pour les vendre. Des colonnes de captifs marchent, encordés.
+1:03|N||Alors, chaque village apprend à veiller. Sur un toit, un guetteur ne quitte pas l'horizon.
+1:14.3|GUETTEUR|essoufflé|La poussière ! Les cavaliers arrivent !
+1:21|N||Le tambour d'alerte résonne jusqu'aux champs.
+1:31.5|CHEF|ferme|Personne ne fuit. Chacun à sa place !
+1:37|N||Les femmes et les enfants se cachent dans les cases aux murs épais.
+1:47|N||Les hommes creusent des fosses, puis ils les couvrent de branches.
+1:58|N||Les arcs et les flèches sont prêts.
+2:10|N|tendu|L'attaque arrive. Les cavaliers chargent, certains de leur victoire.
+2:21|N||Mais les chevaux tombent dans les pièges.
+2:51|N||Depuis les toits, les flèches pleuvent.
+3:03|N|ferme|Les cavaliers font demi-tour. Le village a tenu.
+3:15|N|joyeux|Ce soir-là, on chante la victoire.
+3:30|N||Les villages voisins comprennent la leçon. Seuls, ils sont des proies. Unis, ils se défendent.
+3:47|N||Ils échangent des messagers, et ils s'allient.
+4:04|N|doux|Aujourd'hui, on se souvient encore de cette résistance, et de ceux qu'on n'a pas pu sauver.
+?arret 2:08|Les cavaliers de Babatou chargent. Qu'est-ce qui va arrêter les chevaux ?|*Des fosses couvertes de branches|Un mur de feu|Une rivière détournée|Ce récit simplifié imagine une défense par pièges et par flèches.
+?quiz Quelle leçon les villages tirent-ils de cette attaque ?|*Ils doivent s'unir pour se défendre|Ils doivent quitter la région|Ils doivent payer Babatou|L'alliance entre villages conclut le récit.
+
+=== 23-yennenga
+#roles YENNENGA=f ROI=a RIALE=h
+@amb 0:00 village; 0:26 savane; 1:04 village; 1:40 savane; 2:10 nuit; 2:44 nuit; 3:24 savane; 4:00 foule
+@mus 0:00 conte; 0:26 epique; 1:04 triste; 2:10 epique; 2:44 mystere; 3:24 doux; 4:00 fete
+@sfx 0:28 galop 6; 0:33 galop 6; 0:37 impact; 0:38 impact; 2:12 galop 26; 2:36 galop 8; 4:03 galop 6; 4:25 tambour 12
+0:02|N|solennel|Yennenga, la princesse cavalière. Une légende mossi.
+0:09|N||À Gambaga, en pays dagomba, régnait le roi Nedega.
+0:16|N||Il était fier de sa fille. Plus fier d'elle que de tous ses guerriers.
+0:29|N|enlevé|Yennenga menait les cavaliers. Personne ne montait comme elle, et personne ne chargeait comme elle.
+0:41|N|fort|Les ennemis la voyaient et prenaient la fuite.
+0:53|N|joyeux|Chaque fois, elle revenait en triomphe devant son père.
+1:08.5|YENNENGA|fier et grave|Père, je veux me marier, et avoir des enfants.
+1:13.5|ROI|sans appel|Tu es trop précieuse au combat. C'est non.
+1:20|N|triste|Elle insista, encore et encore. Il ne céda jamais.
+1:42|N||Alors elle sema un champ d'okra, tout près du palais.
+1:53|N||Le champ mûrit, puis se fana. Elle ne le récolta pas. Le message était clair : on ne laisse pas pourrir ce qui est mûr.
+2:04|N||Mais le roi ne voulut pas comprendre.
+2:13|N|chuchoté|Une nuit, Yennenga sella son étalon blanc, et elle quitta Gambaga.
+2:25|N|enlevé|Elle galopa sous la lune, sans se retourner.
+2:47|N||L'étalon l'emporta très loin, jusqu'à une forêt qu'elle ne connaissait pas.
+2:56|N|chuchoté|Épuisée, elle descendit. Un homme approcha, l'arc tendu.
+3:06.5|RIALE|surpris|Qui es-tu ? Que fais-tu ici ?
+3:09|YENNENGA|digne|Je m'appelle Yennenga. J'ai tout quitté.
+3:12|RIALE|doux|Reste, ici tu es en paix.
+3:26|N|tendre|C'était Rialé, un chasseur solitaire. Ils s'aimèrent, et un fils naquit.
+3:35|RIALE|heureux|Il s'appellera Ouédraogo : l'étalon.
+3:42|N||Ainsi, l'enfant porta le nom du cheval qui avait conduit sa mère jusque-là.
+4:03|N||Les années passèrent. Yennenga revint enfin à Gambaga avec son fils.
+4:14|N|ému|Le vieux roi la reconnut. Il lui pardonna, et il accueillit son petit-fils.
+4:25|N||Il donna à Ouédraogo des chevaux et des guerriers.
+4:30|N|solennel|Ainsi commença l'histoire d'Ouédraogo, l'ancêtre des Mossi.
+?arret 2:09|Le roi refuse toujours de marier Yennenga, malgré le message du champ. Que va-t-elle faire ?|*S'enfuir de nuit sur son étalon blanc|Renoncer et continuer à combattre|Attaquer le palais de son père|Sa fuite à cheval est le cœur de la légende : l'étalon lui donnera aussi le nom de son fils.
+?quiz Que signifie le nom d'Ouédraogo dans ce récit ?|*L'étalon|Le chasseur|Le roi|Ouédraogo porte le nom de l'animal qui a mené sa mère vers Rialé. Il est présenté comme l'ancêtre des Mossi.
+
+=== 24-lingani
+#roles PRETENDANT=h2 GUIDE=a
+@amb 0:00 village; 0:56 village; 1:32 orage; 2:08 savane; 2:38 nuit; 3:20 foule; 3:42 pluie; 4:00 village
+@mus 0:00 conte; 0:26 triste; 0:56 mystere; 1:32 triste; 2:08 conte; 2:38 mystere; 3:20 fete; 4:00 doux
+@sfx 0:30 tambour 10; 1:38 tonnerre; 1:48 tonnerre; 3:04 magie; 3:24 tambour 16
+0:02|N|sobre|Les Lingani de Tangaré. Une légende de pouvoir, en pays bissa.
+0:09|N||À Garango, en pays bissa, la chefferie a sa règle. Elle est ancienne, et elle ne se discute pas.
+0:28|N|grave|Le chef est mort, et le pays est en deuil. Mais déjà, on regarde la couronne.
+0:59|N||Un homme ne veut pas attendre.
+1:08|PRETENDANT|arrogant|Je n'ai besoin de personne.
+1:12|N||Et il pose la couronne lui-même sur sa tête. Les anciens baissent les yeux, sans rien dire.
+1:34|N|grave|La couronne glisse et tombe. Il la ramasse. Elle retombe encore.
+1:46|N||Un orage éclate, et le mil se couche dans les champs. Les gens se détournent de lui.
+1:58|N||Sans les Lingani, disent-ils, la couronne ne tient pas.
+2:10|N||Alors, les anciens vont chercher le futur chef, celui que le conseil a désigné.
+2:22|N||Ils le conduisent sur la route de Tangaré.
+2:40|N||Tangaré est le village des Lingani, les gardiens du pouvoir.
+2:49|GUIDE|respectueux|Voici celui qui vient.
+2:53|N|chuchoté|L'élu entre dans la case. Nul ne sait ce qui s'y passe.
+3:03|N|mystérieux|La préparation reste secrète, et nous n'en dirons pas plus.
+3:23|N|joyeux|Le jour du couronnement arrive. La couronne se pose sur sa tête, et elle tient.
+3:35|N||Doucement, la pluie revient sur le pays.
+4:02|N|doux|Aujourd'hui encore, dit-on, nul ne règne à Garango sans passer par Tangaré.
+?arret 2:08|La couronne ne tient pas sur la tête du prétendant. Que va faire le pays ?|*Conduire le futur chef auprès des Lingani de Tangaré|Fabriquer une nouvelle couronne|Laisser le trône vide pour toujours|La légende place le pouvoir sous la préparation des Lingani, que le film se garde de montrer.
+?quiz Où se trouve Tangaré, le village des Lingani ?|*À Garango|À Dori|À Tiébélé|Tangaré, le village des Lingani, se trouve à Garango, en pays bissa.
+
+=== 25-jaba-lompo
+#roles JABA=c
+@amb 0:00 cosmos; 0:50 savane; 1:42 nuit; 2:18 savane; 2:58 village; 4:08 village
+@mus 0:00 mystere; 1:02 conte; 1:42 mystere; 2:18 conte; 2:58 doux; 3:34 conte; 4:08 doux
+@sfx 0:28 magie; 0:42 galop 8; 1:20 magie; 1:45 cauris; 2:22 impact; 3:50 galop 6
+0:02|N|solennel|Jaba Lompo, le devin ancêtre. Une légende gulmancé.
+0:09|N||Les traditions ne s'accordent pas sur l'origine des Gulmancé. Certaines refusent de les lier aux Mossi, et parlent d'un homme venu d'ailleurs.
+0:28|N|mystérieux|Selon l'une d'elles, Jaba Lompo descendit du ciel sur un cheval blanc.
+0:47|N||Il arriva au pays de l'Est, au treizième siècle.
+1:04|N||Les gens se méfiaient de ce géant étranger.
+1:10.5|JABA|doux|Amenez-moi cet enfant.
+1:16|N|ému|Il se pencha sur un enfant malade, et l'enfant se releva. Alors on l'écouta.
+1:44|N||Il jetait les cauris, et il lisait l'avenir dans leur chute.
+1:54|N|mystérieux|Une vision lui apparut : une ville sur une colline.
+2:04|JABA|inspiré|Là-bas, sur la colline, s'élèvera votre ville.
+2:20|N||Il marcha jusqu'à ce lieu et planta son bâton : ici sera la ville.
+2:30|N||Ce fut Bingo, qui deviendra Fada N'Gourma.
+2:41|N||Les maisons montèrent autour du bâton.
+3:00|N||Jaba Lompo y siégea, à la fois devin et chef.
+3:12|N||On venait de loin pour le consulter.
+3:36|JABA|paternel|Mes fils, fondez d'autres royaumes.
+3:42|N||Et ses fils partirent dans des directions différentes, pour étendre le pays gulmancé.
+4:10|N|doux|Aujourd'hui, Fada N'Gourma se souvient de son fondateur. C'est une tradition parmi d'autres, et elle mérite d'être écoutée.
+?arret 2:16|Les cauris ont montré une ville à Jaba Lompo. Que va-t-il faire ?|*Marcher jusqu'au lieu et y planter son bâton|Interdire à quiconque d'y aller|Repartir vers le ciel|Selon cette tradition, le devin fonde lui-même Bingo, future Fada N'Gourma.
+?quiz Quel était l'ancien nom de Fada N'Gourma, selon ce récit ?|*Bingo|Sya|Tangaré|La tradition situe cette fondation au XIIIe siècle, sous le nom de Bingo.
+
+=== 26-maitres-terre
+#roles MAITRE=a CHEF=h
+@amb 0:00 vent; 0:26 savane; 1:02 savane; 1:38 vent; 2:14 village; 2:48 savane; 3:10 pluie; 3:30 village; 4:04 savane
+@mus 0:00 mystere; 0:26 conte; 1:02 epique; 1:38 triste; 2:14 conte; 2:48 mystere; 3:30 fete; 4:04 doux
+@sfx 1:04 galop 10; 3:06 tonnerre; 3:34 tambour 10
+0:02|N|solennel|Les maîtres de la terre. Une légende kurumba.
+0:09|N||Le Nord est un pays de sable et de vent. La terre n'y donne rien sans raison.
+0:27|N||Le maître de la terre descend des premiers occupants. Il connaît les autels.
+0:32.5|MAITRE|recueilli|Terre, reçois ceci, et donne-nous à manger.
+0:40|N||Il fait l'offrande, et le mil pousse.
+1:04|N|tendu|Un jour, des cavaliers viennent d'ailleurs, et ils s'imposent par la force.
+1:14|N||Leur chef occupe le village. Les conquérants s'installent.
+1:40|N||Il fait semer ses champs. Mais la terre refuse ses fruits.
+1:52|N||Rien ne pousse. Et ses cavaliers ont faim.
+1:56.5|CHEF|interdit|Mes hommes ont faim. Pourquoi rien ne pousse ?
+2:16|N||Le chef des conquérants baisse enfin les yeux. Il va voir le vieil homme.
+2:24|CHEF|embarrassé|Vieux père, ta terre me refuse.
+2:27|MAITRE|calme|Elle ne te connaît pas encore.
+2:31|CHEF|humble|Présente-moi à elle.
+2:49.5|N||Un accord est conclu.
+2:53.5|MAITRE|solennel|Tu commanderas les hommes, et je parlerai à la terre.
+3:00|N||Seul le maître de la terre parle aux autels.
+3:10|N|joyeux|Ensemble, ils font l'offrande, et la pluie revient.
+3:34|MAITRE|solennel|La terre te reconnaît.
+3:38|N||Et le chef est intronisé, de la main même du maître de la terre.
+4:06|CHEF|respectueux|Puis-je semer ?
+4:08|MAITRE|amusé|Sème, mon fils.
+4:12|N|doux|Aujourd'hui encore, le chef consulte le maître de la terre.
+?arret 2:13|Le conquérant a la force, mais ses champs restent vides. Que va-t-il faire ?|*Demander l'aide du maître de la terre|Brûler le village|Partir chercher une autre terre|La légende illustre un partage : le pouvoir pour les conquérants, la terre pour les premiers occupants.
+?quiz Selon cette légende, que garde le maître de la terre ?|*Les autels et le lien avec la terre|L'armée du pays|Les routes du commerce|Il confère sa légitimité au chef, tout en gardant le lien avec la terre.
+
+=== 27-bilissi
+#roles HAMADI=h FEMME=f
+@amb 0:00 vent; 0:26 village; 1:00 savane; 1:36 savane; 2:06 nuit; 2:42 foule; 3:22 savane; 4:00 vent
+@mus 0:00 conte; 0:26 mystere; 1:00 triste; 1:36 conte; 2:06 mystere; 2:42 conte; 3:22 fete; 4:00 doux
+@sfx 2:43 tambour 6; 3:04 mains 10
+0:02|N|malicieux|La part de Bilissi. Une légende peule.
+0:09|N||Au Macina, autrefois, les troupeaux couvraient la plaine.
+0:18|N||Ce pays aurait pu être heureux, s'il n'avait pas eu Bilissi.
+0:29|N||Bilissi était un tyran. Gros, content de lui, il se faisait servir toute la journée.
+0:42|N|ironique|Il mangeait, il mangeait, et ensuite, il mangeait encore.
+1:02|N||Et il avait fait sa loi.
+1:07|N|grave|Quand on sacrifiait une bête, la part la plus charnue lui revenait.
+1:18|N||Ses gardes passaient partout, et ils ne laissaient presque rien aux familles, qui avaient faim.
+1:38|N||Hamadi, un jeune berger, regardait les enfants de son campement maigrir.
+1:49|N|malicieux|Et soudain, il eut une idée.
+1:53.5|HAMADI|malicieux|Il aime la meilleure part ? Il va l'avoir.
+2:08|N|chuchoté|Dans la nuit, ils préparèrent un morceau magnifique, et ils le remplirent de piment.
+2:17|N||Puis ils le couvrirent de beurre doré. Il paraissait encore plus beau.
+2:25|FEMME|effrayé|Et s'il comprend ?
+2:27|HAMADI|sûr de lui|Il ne regarde que la viande.
+2:45|N||Le jour du grand sacrifice, Hamadi présenta la part de Bilissi, les yeux baissés.
+2:54|N|ironique|Bilissi l'engloutit d'un seul coup, sans même mâcher.
+3:01|N|enlevé|Le piment ! Il devint rouge, il sauta, il hurla.
+3:10|N|joyeux|Et pour la première fois, tout le monde osa rire de lui.
+3:24|N||Un tyran dont on se moque ne fait plus peur.
+3:33|N||Bilissi, ridiculisé, quitta le pays.
+3:44|N|joyeux|Ce jour-là, on partagea enfin la viande comme il faut, entre toutes les familles.
+4:02|N|doux|Depuis, on dit : la part de Bilissi. C'est la part que prend un puissant, sans la mériter.
+?arret 2:42|Hamadi a préparé un morceau de choix pour Bilissi. Quel est son piège ?|*Le morceau est rempli de piment|Le morceau est empoisonné|Le morceau est fait de terre|Conte satirique : le tyran n'est pas tué. Il est moqué, et c'est ce qui le fait tomber.
+?quiz Que veut dire aujourd'hui l'expression « la part de Bilissi » ?|*La part prise par un puissant, sans la mériter|La part réservée aux enfants|La part offerte aux esprits|La fin du récit explique le dicton.
+
+=== 28-silamaka
+#roles SILAMAKA=h GRIOT=g
+@amb 0:00 vent; 0:28 savane; 1:06 village; 2:14 vent; 3:14 nuit; 3:46 nuit
+@mus 0:00 epique; 0:28 mystere; 1:06 conte; 2:14 epique; 3:14 doux; 3:46 griot
+@sfx 1:14 galop 6; 2:15 galop 12; 2:30 impact; 2:34 impact; 2:42 magie; 2:52 impact; 3:03 galop 5
+0:02|N|solennel|Silamaka et Poullori. Une épopée peule, partagée avec le Mali.
+0:10|N||Silamaka, un héros peul. Et Poullori, son compagnon, à qui rien ne fait peur.
+0:18|N||On ne les vit jamais l'un sans l'autre.
+0:30|N||Silamaka n'était encore qu'un enfant quand un serpent se dressa devant lui, dans la brousse.
+0:39|N|émerveillé|Il tendit la main, et le serpent, au lieu de mordre, s'inclina.
+0:49|N||Il devint son protecteur.
+1:08|N||Puis vint le roi de Ségou, qui exigeait un tribut de tous les campements.
+1:15|N|tendu|Ses envoyés arrivèrent, sûrs d'eux, et ils réclamèrent leur dû.
+1:27|N||Tout le campement se tut, et l'on regarda Silamaka.
+1:43|N||Silamaka s'avança à cheval.
+1:47.5|SILAMAKA|calme et fier|Dites à votre roi que nous ne paierons pas.
+1:54|N||Les envoyés firent demi-tour. Chacun savait ce qui allait suivre.
+2:16|N|enlevé|L'armée de Ségou arriva. Silamaka et Poullori la chargèrent, côte à côte.
+2:40|N|mystérieux|Quand un coup menaça Silamaka, le serpent surgit entre eux.
+2:52|N|fort|Personne n'osa l'approcher, et l'armée recula.
+3:05|N|joyeux|Silamaka était vainqueur, et Poullori toujours à ses côtés.
+3:16|N|doux|Le soir, les deux amis s'éloignèrent ensemble, dans la lumière.
+3:27|N||Certaines versions racontent une fin plus sombre. Toutes disent que Poullori ne le quitta jamais.
+3:47.5|GRIOT|chanté|Silamaka, fils du courage ! Poullori, fidèle ami ! Vos noms ne mourront pas, tant qu'un griot aura une voix !
+?arret 2:39|Silamaka est en danger au milieu du combat. Qui va le protéger ?|*Le serpent qui veille sur lui depuis l'enfance|Le roi de Ségou|Un génie de la brousse|Le serpent est le troisième personnage clé de cette épopée.
+?quiz Quelle qualité de Poullori est célébrée dans cette épopée ?|*Sa fidélité à son ami|Sa richesse|Sa ruse pour tromper le roi|Le récit célèbre l'amitié autant que le courage. Il existe de nombreuses versions de cette épopée.
+
+=== 29-liptako
+#roles CULTIVATEUR=h BERGER=h2 CHEFG=a MARABOUT=a EMIR=h
+@amb 0:00 vent; 0:26 savane; 1:36 village; 2:10 vent; 2:50 village; 3:26 foule; 4:02 vent
+@mus 0:00 conte; 1:00 mystere; 1:36 mystere; 2:10 epique; 2:50 doux; 3:26 conte; 4:02 doux
+@sfx 2:15 galop 12; 2:21 impact; 2:24 impact; 2:56 tambour 6
+0:02|N|sobre|L'émirat du Liptako. Un récit historique, simplifié pour l'image.
+0:09|N||Début du dix-neuvième siècle, dans la région de Dori, au Sahel.
+0:28|N||Ici vivent deux mondes : les éleveurs peuls avec leurs troupeaux, et les cultivateurs gulmancé avec leurs champs.
+0:42|N||La terre doit nourrir les uns et les autres.
+1:02|N||Mais un jour, un troupeau entre dans un champ.
+1:08.5|CULTIVATEUR|colère|Ton troupeau a mangé mon mil !
+1:11.5|BERGER|colère|Tes champs couvrent nos pistes !
+1:14|CULTIVATEUR|colère|Sors de là !
+1:17.5|CHEFG|autoritaire|Cette bête est à moi, maintenant.
+1:23|N||Le chef gulmancé saisit une bête, et la querelle s'envenime.
+1:39|N||Un chef peul rassemble ses cavaliers.
+1:41.5|BERGER|révolté|On ne peut plus accepter ça.
+1:46|N||On prie avant de partir.
+1:52.5|MARABOUT|solennel|Que Dieu guide vos pas et vos cœurs.
+2:13|N|tendu|Et c'est la guerre. Les cavaliers peuls affrontent les Gulmancé.
+2:28|CHEFG|las|C'est fini. J'arrête.
+2:32|N||Le chef gulmancé se rend.
+2:53|N||Un État naît : l'émirat du Liptako.
+2:56|EMIR|solennel|Ici, désormais, siège l'émirat du Liptako.
+3:03|N||Un nouveau pouvoir s'installe sur la région.
+3:29|N|joyeux|Dori devient la capitale. Autour de sa mosquée, le marché s'anime, et le bétail arrive de loin.
+4:05|N|doux|Aujourd'hui, Dori reste l'une des grandes villes du Sahel burkinabè. Son histoire se raconte encore.
+?arret 1:36|Un troupeau, un champ, une bête saisie : où cette querelle va-t-elle mener ?|*À une guerre, puis à la naissance d'un État|À un simple dédommagement|Au départ de tous les éleveurs|Ce récit simplifié ne prend pas parti : il montre comment une querelle s'inscrit dans un conflit plus large.
+?quiz Quelle ville devient la capitale de l'émirat du Liptako ?|*Dori|Bobo-Dioulasso|Tenkodogo|Dori se trouve au Sahel, au nord-est du Burkina Faso.
+
+=== 30-crapaud
+#roles CRAPAUD=h2 ELEPHANT=c
+@amb 0:00 savane; 2:52 eau; 3:26 nuit; 4:04 nuit
+@mus 0:00 conte; 1:38 mystere; 2:08 conte; 2:52 triste; 3:26 doux
+@sfx 1:06 impact; 2:40 plouf; 2:44 mains 8
+0:02|N|malicieux|Pourquoi le crapaud chante la nuit. Un conte songhaï.
+0:09|N||Jadis, tous les animaux chantaient le jour, et la brousse était une grande fête.
+0:30|N||Le crapaud avait la plus grosse voix de la mare. Et surtout, la plus grande bouche.
+0:38|CRAPAUD|vantard|Je suis le meilleur ! Écoutez plutôt !
+0:44|N|malicieux|Il gonflait sa gorge, et il couvrait le chant de tous les autres.
+0:53|N||Les autres avaient beau se plaindre, il chantait encore plus fort.
+1:07|N||L'éléphant, le roi des animaux, décida d'y mettre bon ordre.
+1:13|ELEPHANT|voix grave|Un grand concours de chant ! Tous ensemble !
+1:19|N||Chacun s'entraîna : le lièvre, le chien, et même l'hyène.
+1:29|N|malicieux|Le crapaud, lui, ne s'entraîna pas. Il était sûr de gagner.
+1:41|N||Mais l'araignée avait tout entendu, et elle était fatiguée de ce vantard.
+1:52|N|chuchoté|Sans bruit, elle descendit au bout de son fil et tissa sa toile au-dessus de la mare.
+2:10|N||Le jour du concours, la pintade chanta, puis le chien.
+2:21|N|enlevé|Vint le tour du crapaud. Il gonfla, gonfla, gonfla encore.
+2:32|N|malicieux|Il monta, et il se prit dans la toile. Et patatras !
+2:43|N|joyeux|Tout le monde éclata de rire.
+2:55|N|triste|La honte. Le crapaud plongea, et il se cacha sous l'eau.
+3:08|N||Les autres rentrèrent chez eux, et le soir tomba.
+3:29|N|doux|La nuit venue, il remonta tout doucement. Il regarda autour de lui : personne.
+3:42|N|très doux|Alors il chanta, tout bas. La lune s'approcha pour l'écouter, et les étoiles se mirent à briller.
+3:56|N|très doux|Des lucioles dansaient autour de lui.
+4:06|N|doux|Depuis ce jour, le crapaud chante la nuit, quand plus personne ne peut se moquer de lui.
+?arret 2:21|C'est au tour du crapaud de chanter, et l'araignée a tissé sa toile. Que va-t-il se passer ?|*Il gonfle tant qu'il s'emmêle dans le fil et tombe|Il gagne le concours|Il mange l'araignée|Sa vantardise se retourne contre lui, devant toute la brousse.
+?quiz Quel animal organise le concours de chant ?|*L'éléphant|Le lièvre|L'araignée|L'éléphant, roi des animaux, lance le concours. L'araignée, elle, prépare son piège.

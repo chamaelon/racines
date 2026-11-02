@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Studio de doublage — Racines</title>
+<link rel="stylesheet" href="commun/app.css">
+</head>
+<body>
+<main class="page">
+  <h1 style="font-size:34px;margin:6px 0">Studio de doublage</h1>
+  <p class="texte">Prêtez votre voix à un récit : en mooré, en dioula, en fulfulde ou dans votre langue. Choisissez un film, traduisez chaque réplique, enregistrez-la en regardant l'image, puis téléchargez la piste. Rien n'est envoyé en ligne.</p>
+  <div class="barre-filtres">
+    <select id="film" aria-label="Film à doubler"><option value="">Choisir un film…</option></select>
+    <select id="langue" aria-label="Langue du doublage">
+      <option value="mos">Mooré</option><option value="dyu">Dioula</option><option value="fuf">Fulfulde</option>
+      <option value="bwa">Bwamu</option><option value="gux">Gulmancema</option><option value="knc">Kasem</option>
+      <option value="lob">Lobiri</option><option value="dga">Dagara</option><option value="bib">Bissa</option><option value="son">Songhaï</option>
+      <option value="fr">Français (voix réelle)</option>
+    </select>
+  </div>
+  <div id="espace" class="lecteur-grille">
+    <div class="boite" style="padding:0">
+      <div id="liste"></div>
+    </div>
+    <aside style="position:sticky;top:70px">
+      <div id="ecran" class="ecran" style="margin-bottom:10px"></div>
+      <section class="boite">
+        <p id="etat" aria-live="polite" style="margin-top:0"></p>
+        <div class="actions" style="margin:0"><button id="assembler" class="bouton fort" type="button" disabled>Télécharger la piste</button><button id="exporter" class="bouton" type="button">Exporter la traduction</button></div>
+      </section>
+      <section class="boite">
+        <h2>Après l'enregistrement</h2>
+        <ol style="padding-left:18px;margin:0;font-size:14px">
+          <li>Écoutez la piste : sur la page du film, dans « Bandes sonores », choisissez « Importer une piste de voix ».</li>
+          <li>Faites relire la traduction par un locuteur de la langue.</li>
+          <li>Placez le fichier dans <code>audio/&lt;film&gt;/voix-&lt;langue&gt;.mp3</code>, puis lancez <code>outils/doublage.py pistes</code> et republiez le site.</li>
+        </ol>
+      </section>
+    </aside>
+  </div>
+</main>
+<script src="commun/catalogue.js"></script>
+<script src="commun/geo.js"></script>
+<script src="commun/app.js"></script>
+<script src="commun/film.js"></script>
+<script>
+  (function () {
+    var id = new URLSearchParams(location.search).get('h');
+    if (window.CATALOGUE.histoires.some(function (h) { return h.dossier === id; })) document.write('<script src="commun/doublage/' + id + '.js"><\/script>');
+  })();
+</script>
+<script src="commun/studio.js"></script>
+</body>
+</html>

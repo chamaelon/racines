@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Racines — lecteur</title>
+<link rel="stylesheet" href="commun/app.css">
+</head>
+<body>
+<main class="page">
+  <p style="margin:0 0 8px"><a id="retour" href="index.html">← Retour à la carte</a> <span id="parcours" class="meta" style="margin-left:10px"></span></p>
+  <div style="display:flex;gap:12px;align-items:end;flex-wrap:wrap;margin-bottom:12px">
+    <div style="flex:1;min-width:260px">
+      <h1 id="titre" style="font-size:30px"></h1>
+      <p id="meta" class="meta" style="margin:4px 0 0"></p>
+    </div>
+    <div id="version" class="actions" style="margin:0"></div>
+  </div>
+  <div class="lecteur-grille">
+    <div>
+      <div id="ecran" class="ecran">
+        <div id="sous-titre" class="sous-titre" aria-live="off"></div>
+        <button id="depart" class="grand-lecture" type="button" disabled><b>…</b><span>Chargement du film</span></button>
+        <div id="griot" class="griot cache"></div>
+      </div>
+      <div class="transport">
+        <button id="lecture" class="bouton" type="button" aria-label="Lecture ou pause">▶</button>
+        <input id="curseur" type="range" min="0" step="0.05" value="0" aria-label="Position dans le film">
+        <span id="temps" class="temps">0:00</span>
+        <select id="scenes" aria-label="Aller à une scène" style="height:36px;max-width:200px;border-radius:999px;border:1px solid var(--bord);background:var(--nuit-2);padding:0 8px"><option value="">Scènes…</option></select>
+        <button id="plein" class="bouton" type="button" aria-label="Plein écran">⛶</button>
+      </div>
+      <nav id="navigation" class="navigation" aria-label="Récit précédent et suivant"></nav>
+      <div class="grille-fiche">
+        <section><h2 style="font-size:20px;margin-bottom:6px">Ce récit</h2><div id="fiche"></div></section>
+        <section><h2 style="font-size:20px;margin-bottom:6px">Pour le doublage</h2>
+          <ul id="fichiers" style="padding-left:18px;margin:6px 0"></ul>
+        </section>
+      </div>
+    </div>
+    <aside>
+      <section class="boite">
+        <h2>Bandes sonores</h2>
+        <label class="lecteur-seul" for="voix">Choix de la voix</label>
+        <select id="voix"></select>
+        <input id="fichier" type="file" accept="audio/*" class="cache">
+        <div class="reglage"><label for="vol-voix">Voix</label><input id="vol-voix" type="range" min="0" max="1" step="0.05"></div>
+        <div class="reglage"><label for="vol-ambiance">Ambiance</label><input id="vol-ambiance" type="range" min="0" max="1" step="0.05"></div>
+        <div class="reglage"><label for="vol-musique">Musique</label><input id="vol-musique" type="range" min="0" max="1" step="0.05"></div>
+        <label class="bascule"><input id="c-st" type="checkbox"> Sous-titres en français</label>
+        <label class="bascule"><input id="c-griot" type="checkbox"> Arrêts du griot (questions pendant le film)</label>
+      </section>
+      <section class="boite">
+        <h2>Texte du récit</h2>
+        <div id="script" class="script"></div>
+      </section>
+    </aside>
+  </div>
+</main>
+<script src="commun/config.js"></script>
+<script src="commun/catalogue.js"></script>
+<script src="commun/geo.js"></script>
+<script src="commun/pistes.js"></script>
+<script src="commun/app.js"></script>
+<script src="commun/film.js"></script>
+<script>
+  // Les données du film : chargées ici, sans fetch, pour que le site marche aussi en file://.
+  (function () {
+    var id = new URLSearchParams(location.search).get('h') || window.CATALOGUE.histoires[0].dossier;
+    var valide = window.CATALOGUE.histoires.some(function (h) { return h.dossier === id; });
+    document.write('<script src="commun/doublage/' + (valide ? id : window.CATALOGUE.histoires[0].dossier) + '.js"><\/script>');
+  })();
+</script>
+<script src="commun/lecteur.js"></script>
+</body>
+</html>
