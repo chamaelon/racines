@@ -70,9 +70,9 @@
 /* ---- Écran d'accueil du griot ---- */
 .veillee { position: fixed; inset: 0; z-index: 70; display: flex; align-items: center; justify-content: center; padding: 18px; background: radial-gradient(ellipse at center, rgba(70, 36, 14, .92), rgba(20, 14, 10, .97)); }
 .veillee-carte { display: flex; gap: 18px; align-items: center; width: min(620px, 100%); background: var(--papier); border: 3px solid var(--ocre); border-radius: 18px; padding: 18px 22px; box-shadow: var(--ombre); }
-.veillee-carte img { flex: none; width: 104px; height: 208px; }
+.veillee-carte img { flex: none; width: 104px; height: 104px; align-self: center; border-radius: 50%; }
 .veillee-texte { font-size: 19px; min-height: 5.2em; }
-@media (max-width: 480px) { .veillee-carte img { width: 72px; height: 144px; } .veillee-texte { font-size: 17px; } .veillee-carte { gap: 10px; padding: 14px; } }
+@media (max-width: 480px) { .veillee-carte img { width: 72px; height: 72px; } .veillee-texte { font-size: 17px; } .veillee-carte { gap: 10px; padding: 14px; } }
 
 /* ---- Catalogue ---- */
 .filtres { display: flex; flex-wrap: wrap; gap: 10px 12px; align-items: flex-end; padding: 12px 14px; background: var(--papier-2); border-radius: var(--rayon); margin-bottom: 10px; }

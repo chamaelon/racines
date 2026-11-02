@@ -30,7 +30,7 @@ async function jouerJusquaLaFin(page, plan = []) {
       const objet = page.locator('.j-explore-liste button:not(.trouve)').first();
       if (await objet.count()) await objet.click(); else await suiteExplore.click();
     } else if (await choix.count()) await choix.nth(plan.shift() ?? 0).click();
-    else if (await piste.isVisible()) await page.keyboard.press('Space');
+    else if (await piste.isVisible()) { await page.keyboard.press('Space'); await page.waitForTimeout(40); }
     else if (await page.locator('.mj-tams').count()) { if (await tam.count()) await tam.first().click().catch(() => {}); else await page.waitForTimeout(100); }
     else if (await suiteMini.count()) await suiteMini.click();
     else if (await reponse.count()) await reponse.first().click();
