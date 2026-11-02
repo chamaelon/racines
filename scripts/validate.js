@@ -6,6 +6,7 @@ import { existsSync, readdirSync, readFileSync } from 'node:fs';
 import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { DECORS, MINIJEUX } from '../src/scenes/catalogue-decors.js';
+import { STYLES } from '../src/scenes/personnages.js';
 
 const lire = (racine, f) => JSON.parse(readFileSync(join(racine, f), 'utf8'));
 
@@ -32,6 +33,12 @@ export function validerHistoire(h, { patrimoine = new Set(), fichierExiste = () 
     Object.values(n.audio || {}).forEach((a) => { if (!fichierExiste(a)) err(`${id} : fichier audio manquant « ${a} »`); });
     if (!n.end && ciblesDe(n).length === 0) err(`${id} : cul-de-sac, ni suite ni fin`);
     if (n.text && !n.speaker) err(`${id} : réplique sans personnage`);
+  }
+  Object.entries(h.personnages || {}).forEach(([p, d]) => { if (!STYLES[d.style]) err(`personnage ${p} : style inconnu « ${d.style} »`); });
+  const fins = new Set(Object.values(nodes).filter((n) => n.end).map((n) => n.end));
+  if (h.fins) {
+    fins.forEach((f) => { if (!h.fins[f]) err(`fin sans titre « ${f} »`); });
+    Object.keys(h.fins).forEach((f) => { if (!fins.has(f)) err(`fin jamais atteinte « ${f} »`); });
   }
   // Atteignable depuis start
   const vus = new Set();
@@ -98,7 +105,8 @@ export function validerDonnees(racine = 'public') {
     if (!r.lexique.length) m('lexique vide');
     if (!r.sources.length) m('sources manquantes');
     if (!['a_valider', 'valide'].includes(r.statut)) m(`statut inconnu ${r.statut}`);
-    if (r.jouable && !dataExiste(r.jouable)) m(`histoire jouable manquante ${r.jouable}`);
+    if (!r.jouable) m('récit sans narration interactive');
+    else if (!dataExiste(r.jouable)) m(`histoire jouable manquante ${r.jouable}`);
   }
   for (const l of localites) {
     const m = (t) => e.push(`localites.json, ${l.id} : ${t}`);

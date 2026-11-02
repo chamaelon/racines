@@ -18,7 +18,7 @@ describe('contenu', () => {
     expect(n('legende')).toBeGreaterThanOrEqual(3);
     expect(n('histoire')).toBeGreaterThanOrEqual(2);
     expect(new Set(localites.map((l) => l.region)).size).toBeGreaterThanOrEqual(6);
-    expect(recits.filter((r) => r.jouable).length).toBeGreaterThanOrEqual(2);
+    expect(recits.filter((r) => r.jouable).length).toBe(recits.length);
     const audio = recits.filter((r) => ['mos', 'dyu', 'fuf'].some((l) => r.audio[l]));
     expect(audio.length).toBeGreaterThanOrEqual(3);
     expect(new Set(audio.flatMap((r) => Object.keys(r.audio))).size).toBeGreaterThanOrEqual(3);
@@ -54,16 +54,15 @@ describe('validation des graphes', () => {
 describe('filtres du catalogue', () => {
   const f = (o) => filtrer(recits, o, { localitesParId: parId }).map((r) => r.id);
   it('sans filtre, tout passe', () => { expect(f({}).length).toBe(recits.length); });
-  it('filtre par type, région, langue, jouable, audio', () => {
+  it('filtre par type, région, langue, audio', () => {
     expect(filtrer(recits, { type: 'histoire' }, {}).every((r) => r.type === 'histoire')).toBe(true);
     expect(f({ region: 'nakambe' })).toContain('yennenga');
     expect(f({ region: 'nakambe' })).not.toContain('silures-dafra');
     expect(f({ langue: 'dyu' })).toContain('tiefo-amoro');
-    expect(f({ jouable: true }).sort()).toEqual(['lievre-hyene', 'yennenga']);
     expect(f({ audio: true })).toContain('naaba-wobgo');
     expect(f({ audio: true })).not.toContain('kinkirsi');
   });
-  it('combine les filtres', () => { expect(f({ type: 'conte', jouable: true })).toEqual(['lievre-hyene']); });
+  it('combine les filtres', () => { expect(f({ type: 'conte', q: 'lievre' })).toEqual(['lievre-hyene']); });
   it('cherche sans tenir compte des accents ni de la casse', () => {
     expect(f({ q: 'LIEVRE' })).toContain('lievre-hyene');
     expect(f({ q: 'legende de yennenga' })).toContain('yennenga');
@@ -71,7 +70,7 @@ describe('filtres du catalogue', () => {
     expect(f({ q: 'zzzz' })).toEqual([]);
   });
   it('écrit les filtres dans l\'URL', () => {
-    expect(versQuery({ q: '', type: 'conte', jouable: true, audio: false })).toBe('type=conte&jouable=1');
+    expect(versQuery({ q: '', type: 'conte', audio: true })).toBe('type=conte&audio=1');
   });
 });
 
@@ -113,11 +112,13 @@ describe('histoires jouables', () => {
     }
     return atteintes;
   }
-  for (const id of ['yennenga', 'lievre-hyene']) {
+  for (const { id } of recits) {
     it(`${id} : toutes les fins sont atteignables`, async () => {
       const h = lireHistoire(id);
       expect(await explorerTout(h)).toEqual(new Set(finsDe(h)));
       expect(finsDe(h).length).toBeGreaterThanOrEqual(2);
+      expect(Object.values(h.nodes).some((n) => n.choices)).toBe(true);
+      expect(Object.values(h.nodes).some((n) => n.explore || n.minigame)).toBe(true);
       finsDe(h).forEach((f) => expect(h.fins[f]).toBeTruthy());
     });
   }

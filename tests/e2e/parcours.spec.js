@@ -1,3 +1,4 @@
+import { readFileSync } from 'node:fs';
 import { expect, test } from '@playwright/test';
 
 // Le visiteur déjà venu : pas d'écran d'accueil, texte instantané pour aller vite.
@@ -67,7 +68,7 @@ test('accueil, localité, fiche, jeu, fin, sans erreur', async ({ page }, info) 
   await jouerJusquaLaFin(page, [0, 0]);
   await expect(page.locator('.j-fin')).toContainText('fin découverte sur 2');
   await page.locator('.j-fin a', { hasText: 'Mon parcours' }).click();
-  await expect(page.locator('.chiffres')).toContainText('1/5');
+  await expect(page.locator('.chiffres')).toContainText(/1\/\d+/);
   expect(erreurs, `console (${info.project.name})`).toEqual([]);
 });
 
@@ -177,3 +178,17 @@ test.describe("moins d'animations", () => {
     expect(erreurs).toEqual([]);
   });
 });
+
+// Chaque récit se joue du début à une fin, dans ses décors, sans erreur dans la console.
+const IDS = JSON.parse(readFileSync('public/data/recits.json', 'utf8')).map((r) => r.id);
+for (const id of IDS) {
+  test(`de bout en bout : ${id}`, async ({ page }) => {
+    test.setTimeout(150000);
+    const erreurs = await preparer(page);
+    await page.goto(`./#/jouer/${id}`);
+    await page.getByRole('button', { name: /Commencer/ }).click();
+    await jouerJusquaLaFin(page);
+    await expect(page.locator('.j-fin h2')).not.toBeEmpty();
+    expect(erreurs).toEqual([]);
+  });
+}
