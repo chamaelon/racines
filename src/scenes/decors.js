@@ -133,6 +133,77 @@ function brousseTex() {
   });
 }
 
+// Une étendue d'eau, avec des reflets clairs
+function eauTex(haut, bas) {
+  return makeTex(2048, 256, (g, w, h) => {
+    const gr = g.createLinearGradient(0, 0, 0, h); gr.addColorStop(0, haut); gr.addColorStop(1, bas);
+    g.fillStyle = gr; g.fillRect(0, 0, w, h);
+    const r = rng(51); g.strokeStyle = 'rgba(255,255,255,.28)'; g.lineCap = 'round';
+    for (let i = 0; i < 160; i++) { const x = r() * w, y = r() * h, l = 14 + y * 0.35 + r() * 30; g.lineWidth = 1 + y / 90; line(g, x, y, x + l, y); }
+  });
+}
+// Les pics de Sindou : des aiguilles de grès serrées
+function picsTex(col, seed) {
+  return makeTex(2048, 512, (g, w, h) => {
+    const r = rng(seed), gy = h * 0.92;
+    for (let x = -40; x < w + 40; x += 34 + r() * 46) {
+      const l = 26 + r() * 42, sommet = h * (0.1 + r() * 0.5), pointe = x + (r() - 0.5) * 20;
+      const gr = g.createLinearGradient(x - l, 0, x + l, 0); gr.addColorStop(0, shade(col, -28)); gr.addColorStop(0.5, shade(col, 16)); gr.addColorStop(1, shade(col, -40));
+      g.fillStyle = gr; g.beginPath(); g.moveTo(x - l, gy); g.quadraticCurveTo(x - l * 0.7, sommet + (gy - sommet) * 0.35, pointe, sommet); g.quadraticCurveTo(x + l * 0.7, sommet + (gy - sommet) * 0.35, x + l, gy); g.closePath(); g.fill();
+    }
+    g.fillStyle = shade(col, -35); g.fillRect(0, gy - 2, w, h - gy + 2);
+  });
+}
+// Les murs de latérite de Loropéni, debout par endroits, envahis par la brousse
+function ruinesTex() {
+  return makeTex(2048, 512, (g, w, h) => {
+    const r = rng(61), gy = h * 0.86;
+    [180, 1120, 1880].forEach((x) => baobab(g, x, gy, 1.1 + r() * 0.3, '#5f3f22', '#6f8f42'));
+    for (let m = 0; m < 5; m++) {
+      const x0 = 80 + m * 400, large = 300;
+      for (let c = 0; c < large; c += 30) {
+        const haut = 40 + Math.abs(Math.sin((c + m * 90) / 70)) * 130 + r() * 30;
+        for (let y = 0; y < haut; y += 18) { g.fillStyle = shade('#9a4f2a', Math.floor(r() * 36) - 18); g.fillRect(x0 + c + (Math.floor(y / 18) % 2) * 8, gy - y - 18, 27, 16); }
+      }
+    }
+    g.strokeStyle = '#5f7f32'; g.lineCap = 'round';
+    for (let i = 0; i < 260; i++) { const x = r() * w; g.lineWidth = 2 + r() * 3; line(g, x, gy + 4, x + (r() - 0.5) * 24, gy - 20 - r() * 56); }
+  });
+}
+// Le Sahel : acacias, et une mosquée de banco hérissée de bois
+function sahelTex() {
+  return makeTex(2048, 512, (g, w, h) => {
+    const gy = h * 0.86, x = 1250;
+    [220, 720, 1780].forEach((a, i) => {
+      g.strokeStyle = '#5a4326'; g.lineWidth = 10; line(g, a, gy, a, gy - 70 - i * 10);
+      g.fillStyle = '#7a7a3e'; g.beginPath(); g.ellipse(a, gy - 86 - i * 10, 76, 18, 0, 0, 7); g.fill();
+    });
+    g.fillStyle = '#b9824c'; g.fillRect(x - 200, gy - 110, 400, 110);
+    [-200, -66, 66, 200].forEach((d, i) => {
+      const t = i === 1 || i === 2 ? 210 : 165;
+      g.fillStyle = '#a97440'; g.beginPath(); g.moveTo(x + d - 34, gy); g.lineTo(x + d - 22, gy - t); g.lineTo(x + d, gy - t - 30); g.lineTo(x + d + 22, gy - t); g.lineTo(x + d + 34, gy); g.closePath(); g.fill();
+      g.strokeStyle = '#4a3016'; g.lineWidth = 4; for (let y = 50; y < t; y += 40) line(g, x + d - 34, gy - y, x + d + 34, gy - y);
+    });
+    g.fillStyle = '#3a2410'; g.beginPath(); g.moveTo(x - 24, gy); g.lineTo(x - 24, gy - 50); g.arc(x, gy - 50, 24, Math.PI, 0); g.lineTo(x + 24, gy); g.fill();
+    g.fillStyle = '#e0c088'; g.fillRect(0, gy, w, h - gy);
+  });
+}
+// Le sol de nuages du pays d'en haut
+function nuagesTex() {
+  return makeTex(2048, 256, (g, w, h) => {
+    const r = rng(71);
+    for (let i = 0; i < 120; i++) { g.fillStyle = `rgba(255,255,255,${0.35 + r() * 0.5})`; g.beginPath(); g.ellipse(r() * w, h * (0.3 + r() * 0.7), 60 + r() * 90, 22 + r() * 36, 0, 0, 7); g.fill(); }
+  });
+}
+function feuTex() {
+  return makeTex(256, 256, (g) => {
+    const lueur = g.createRadialGradient(128, 170, 4, 128, 170, 120); lueur.addColorStop(0, 'rgba(255,190,90,.8)'); lueur.addColorStop(1, 'rgba(255,150,60,0)');
+    g.fillStyle = lueur; g.fillRect(0, 0, 256, 256);
+    [['#d9481c', 40, 120], ['#f08a24', 28, 90], ['#fbd35a', 15, 56]].forEach(([c, l, t]) => { g.fillStyle = c; g.beginPath(); g.moveTo(128 - l, 226); g.quadraticCurveTo(128 - l, 226 - t * 0.6, 128, 226 - t); g.quadraticCurveTo(128 + l, 226 - t * 0.6, 128 + l, 226); g.closePath(); g.fill(); });
+    g.strokeStyle = '#2a170c'; g.lineWidth = 12; g.lineCap = 'round'; line(g, 80, 238, 176, 222); line(g, 80, 222, 176, 238);
+  });
+}
+
 export function construireDecor(name) {
   const g = new THREE.Group();
   const d = { group: g, spots: [], hotspots: {}, scrollers: [], galop: null, avant: [] };
@@ -216,6 +287,64 @@ export function construireDecor(name) {
     nearGround('#b9763f', '#8a6a2a');
     spots([-5, 0.4], [5, 0.4]);
     fg('#4a3418');
+  }
+  if (name === 'bois') {
+    add(plane(skyTex('#16304a', '#3f6a5a', { stars: true, sun: [0.7, 0.2, 24, 'rgba(210,225,255,.45)', '#eef2ff'], seed: 18 }), 170, 90, 0, 8, -40));
+    add(plane(forestTex('#23423f', 19, 0.3), 110, 28, 0, -5, -28));
+    add(plane(forestTex('#1a3a30', 20, 0.36), 60, 15, 0, -3.8, -12));
+    nearGround('#34452c', '#4f6f4a');
+    spots([-5, 0.4], [5, 0.4]);
+    fg('#08120c');
+  }
+  if (name === 'veillee') {
+    add(plane(skyTex('#090c22', '#3a2a4a', { stars: true, seed: 22 }), 170, 90, 0, 8, -40));
+    add(plane(hillsTex('#1a2244', 23, 0.55, 0.14, { trees: 8 }), 110, 28, 0, -5, -28));
+    add(plane(villageTex({ ground: '#141a30', huts: 6, hwall: '#3a2f42', roof: '#454056', door: '#f0a640', seed: 24 }), 52, 13, 0, 0.5, -12));
+    nearGround('#2a2230', '#3a3050');
+    add(plane(feuTex(), 2.4, 2.4, 0, GROUND + 1, -0.5));
+    spots([-5, 0.4], [5, 0.4]);
+    fg('#0c0a14');
+  }
+  if (name === 'fleuve' || name === 'mare') {
+    const fleuve = name === 'fleuve';
+    add(plane(fleuve ? skyTex('#6fa9cc', '#f3d9a6', { sun: [0.3, 0.45, 30, 'rgba(255,235,180,.7)', '#fff6dc'], clouds: 'rgba(255,255,255,.4)', seed: 25 }) : skyTex('#d97a5a', '#f7d39a', { sun: [0.6, 0.6, 44, 'rgba(255,215,150,.8)', '#ffe9b8'], seed: 26 }), 170, 90, 0, 8, -40));
+    add(plane(hillsTex(fleuve ? '#8f8a5a' : '#8a5a3a', 27, 0.56, 0.12, { trees: 12 }), 110, 28, 0, -5, -28));
+    add(plane(fleuve ? brousseTex() : forestTex('#3a4f2a', 28, 0.5), 52, 13, 0, 1.4, -12));
+    add(plane(fleuve ? eauTex('#3f8caf', '#1f5a7a') : eauTex('#5f9a8a', '#2f5f58'), 90, 8, 0, fleuve ? -5.5 : -5.9, -8));
+    nearGround(fleuve ? '#a98a52' : '#6f7a3a', fleuve ? '#7a8a42' : '#3f6a2a');
+    spots([-5, 0.4], [5, 0.4]);
+    fg(fleuve ? '#3f5a22' : '#26401c');
+  }
+  if (name === 'rochers') {
+    add(plane(skyTex('#7fb0d0', '#f0d6a8', { sun: [0.2, 0.3, 30, 'rgba(255,235,180,.7)', '#fff6dc'], clouds: 'rgba(255,255,255,.4)', seed: 29 }), 170, 90, 0, 8, -40));
+    add(plane(picsTex('#8f6a52', 30), 90, 22, 0, 2, -24));
+    add(plane(picsTex('#a4623a', 32), 52, 14, 0, 1.4, -10));
+    nearGround('#b9763f', '#8a7a3a');
+    spots([-5, 0.4], [5, 0.4]);
+    fg('#4a3418');
+  }
+  if (name === 'ruines') {
+    add(plane(skyTex('#8fb7c9', '#efdcae', { sun: [0.75, 0.35, 32, 'rgba(255,235,180,.7)', '#fff6dc'], clouds: 'rgba(255,255,255,.35)', seed: 33 }), 170, 90, 0, 8, -40));
+    add(plane(hillsTex('#8a8a52', 34, 0.58, 0.12, { trees: 14 }), 110, 28, 0, -5, -28));
+    add(plane(ruinesTex(), 52, 13, 0, 0.7, -10));
+    nearGround('#a4692f', '#6f7f32');
+    spots([-5, 0.4], [5, 0.4]);
+    fg('#39501f');
+  }
+  if (name === 'sahel') {
+    add(plane(skyTex('#d9c08a', '#f8ecc8', { sun: [0.25, 0.3, 36, 'rgba(255,240,190,.8)', '#fff8e0'], seed: 35 }), 170, 90, 0, 8, -40));
+    add(plane(hillsTex('#d8b67c', 36, 0.62, 0.08), 110, 28, 0, -5, -28));
+    add(plane(sahelTex(), 52, 13, 0, 0.7, -10));
+    nearGround('#e0c088', '#b09a5a');
+    spots([-5, 0.4], [5, 0.4]);
+    fg('#a08a4a');
+  }
+  if (name === 'ciel') {
+    add(plane(skyTex('#28418f', '#a9c7ea', { sun: [0.5, 0.2, 40, 'rgba(255,240,190,.9)', '#fff8dc'], clouds: 'rgba(255,255,255,.55)', seed: 37 }), 170, 90, 0, 8, -40));
+    add(plane(nuagesTex(), 110, 14, 0, -3.4, -20));
+    nearGround('#dfe8f5', '#ffffff');
+    add(plane(nuagesTex(), 60, 4, 0, GROUND - 0.2, -2));
+    spots([-5, 0.4], [5, 0.4]);
   }
   return d;
 }

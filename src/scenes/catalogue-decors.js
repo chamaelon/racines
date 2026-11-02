@@ -11,6 +11,14 @@ export const DECORS = {
   village: { mood: 'fete', ciel: ['#f6b26b', '#fde3b0'] },
   marche: { mood: 'fete', ciel: ['#f0c27a', '#fbe6bd'] },
   brousse: { mood: 'calme', ciel: ['#e8904a', '#fbd58f'] },
+  bois: { mood: 'nuit', ciel: ['#16304a', '#3f6a5a'] },
+  veillee: { mood: 'nuit', ciel: ['#090c22', '#3a2a4a'] },
+  fleuve: { mood: 'calme', ciel: ['#6fa9cc', '#f3d9a6'] },
+  mare: { mood: 'calme', ciel: ['#d97a5a', '#f7d39a'] },
+  rochers: { mood: 'tension', ciel: ['#7fb0d0', '#f0d6a8'] },
+  ruines: { mood: 'calme', ciel: ['#8fb7c9', '#efdcae'] },
+  sahel: { mood: 'calme', ciel: ['#d9c08a', '#f8ecc8'] },
+  ciel: { mood: 'calme', ciel: ['#28418f', '#a9c7ea'] },
 };
 
 export const MINIJEUX = ['course_cheval', 'devinette', 'rythme'];
