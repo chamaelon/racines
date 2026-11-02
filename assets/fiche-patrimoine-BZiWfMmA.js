@@ -1,0 +1,3 @@
+import{n as e}from"./dessins-CvIoYCfY.js";import{o as t}from"./index-om3feeHo.js";var n={objet:`Objets`,habit:`Habits`,instrument:`Instruments`,met:`Mets`,habitat:`Habitat`},r=e=>`<canvas class="dessin-patrimoine" width="256" height="256" data-dessin="${e.dessin}" role="img" aria-label="Dessin : ${t(e.titre)}"></canvas>
+  <h2>${t(e.titre)}</h2>
+  <p>${t(e.texte)}</p>`;function i(t){t.querySelectorAll(`canvas[data-dessin]`).forEach(t=>{t.dataset.peint||(e(t,t.dataset.dessin),t.dataset.peint=`1`)})}export{r as n,i as r,n as t};
