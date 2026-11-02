@@ -20,6 +20,16 @@
 - **Statut :** tous les textes portent `a_valider` et affichent le bandeau « texte provisoire ». L'étudiant valide chaque texte puis passe le statut à `valide`.
 - **Morales et lexiques :** rédigés pour cette version, donc à valider eux aussi.
 
+## Narration interactive
+
+- **Les 34 récits se jouent.** Le cahier en demandait 2. Chaque histoire a au moins un choix, deux fins, et une exploration ou un mini-jeu ; `tests/donnees.test.js` vérifie que toutes les fins sont atteignables.
+- **Contes et légendes :** la fin titrée « Version du griot » suit le texte de la fiche. Les fins « Autre chemin » sont inventées pour le jeu, et le disent souvent dans leur dernière réplique.
+- **Récits historiques :** les choix changent le regard du joueur (qui suivre, où se placer), jamais les faits. Le témoin joué et certaines répliques sont imaginés pour le jeu ; les faits, dates et noms viennent du texte de la fiche. Les fins y sont titrées « Mémoire ».
+- **Secrets :** le jeu ne montre ni le Dyoro, ni le vur, ni la préparation des rois d'Obiré et de Garango. Les curieux sont renvoyés, et le récit le dit.
+- **Les kinkirsi :** la scène est entièrement imaginée, faute de légende collectée. Le griot l'annonce dès la première réplique.
+- **À valider :** ces branches, répliques et devinettes sont à relire avec les textes, comme tout le contenu.
+- **Voix du jeu :** seuls Yennenga et Le lièvre et l'hyène ont des emplacements de répliques doublées. Les 32 autres histoires se jouent avec le texte français, sans voix.
+
 ## Audio
 
 - Aucune voix en langue nationale n'est encore enregistrée. Les fichiers actuels sont des MP3 muets (`scripts/bouche-trous.js`), signalés par « audio à venir ». La liste complète est dans `ENREGISTREMENTS.md`.
@@ -31,4 +41,5 @@
 - **Polices :** Cinzel et Nunito sont servies depuis le site (paquets fontsource) plutôt que par Google Fonts. Il n'y a donc aucun appel réseau externe.
 - **Déploiement :** GitHub Actions publie dans la branche `gh-pages`, avec `keep_files`, pour garder les films et le studio qui s'y trouvent déjà.
 - **Tests de bout en bout :** lancés en local avec Edge (`npm run test:e2e`), pas en CI.
+- **Filtre « jouables » retiré :** il n'a plus d'objet, tout se joue.
 - **Fonctions P3 :** le mini-jeu `rythme` et le générateur de récit sont faits. La traduction des menus et le service worker ne le sont pas.

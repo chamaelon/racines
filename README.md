@@ -6,7 +6,7 @@ Plateforme web multimédia et carte interactive des contes et légendes du Burki
 
 - **Carte interactive** des 17 régions en SVG, avec une vue en relief 3D (Three.js).
 - **34 récits** : contes, légendes et récits historiques, avec texte, morale, lexique et sources.
-- **Narration interactive** : 2 histoires jouables en scènes 2,5D, avec choix, exploration, mini-jeux et plusieurs fins.
+- **Narration interactive** : les 34 récits se jouent en scènes 2,5D, avec choix, exploration, mini-jeux et plusieurs fins (584 nœuds, 71 fins).
 - **Lecteur audio multilingue** avec sous-titres français (voix en cours d'enregistrement, voir [ENREGISTREMENTS.md](ENREGISTREMENTS.md)).
 - **Patrimoine** (objets, habits, instruments, mets, habitat) et **progression** sans compte.
 
@@ -29,9 +29,8 @@ npm run build      # site statique dans dist/
 
 1. Écrire le texte dans `public/data/textes/<id>.fr.md`.
 2. Ajouter une entrée dans `public/data/recits.json`, et le récit à sa localité dans `public/data/localites.json`.
-3. Lancer `npm run validate` : le script signale toute référence cassée.
-
-Pour le rendre jouable, ajouter `public/data/stories/<id>.json` et renseigner `jouable` dans `recits.json`. Le format des nœuds est décrit en tête de [src/engine/moteur.js](src/engine/moteur.js).
+3. Écrire son histoire dans `public/data/stories/<id>.json` et renseigner `jouable` dans `recits.json`. Le format des nœuds est décrit en tête de [src/engine/moteur.js](src/engine/moteur.js).
+4. Lancer `npm run validate` : le script signale toute référence cassée, et refuse un récit sans narration interactive.
 
 ## Ajouter une voix
 
