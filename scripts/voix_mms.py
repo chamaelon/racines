@@ -4,6 +4,7 @@ Les histoires en langues nationales, en automatique : traduction NLLB-200, voix 
   python scripts/voix_mms.py traduire              tire 2 langues par histoire et traduit tout (mémorisé, reprend où il s'était arrêté)
   python scripts/voix_mms.py ecrire                écrit pistes.json, les textes des fiches et recits.json
   python scripts/voix_mms.py voix --part 1/5       voix du jeu, pistes et sous-titres des films (lancer une fois par part)
+  python scripts/voix_mms.py remixer --part 1/5    refait les pistes des films avec les niveaux ci-dessous, sans retraduire
   puis : npm run bandes-son && npm run films
 
 Le Python est celui de montage/.venv-tts (voir NOTES.md). Rien de tout cela n'a été relu par un locuteur : le site le signale.
@@ -41,6 +42,9 @@ GRAINE = "racines-2026"
 NOTE = "traduction automatique, non relue"
 SR_MIX = 44100
 ACCELERATION_MAX = 1.5
+# Le mélange des films : la voix passe devant. Le fond est baissé, et il s'efface encore pendant que quelqu'un parle.
+VOIX_LUFS = -14
+GAIN_AMBIANCE, GAIN_MUSIQUE = 0.2, 0.18
 FFMPEG, FFPROBE = shutil.which("ffmpeg") or "ffmpeg", shutil.which("ffprobe") or "ffprobe"
 
 # ---- Reformulations
@@ -359,19 +363,43 @@ def voix_jeu(r, code, pistes, voix):
             continue
         brut = TRAVAIL / r["id"] / code / f"{p['id']}.wav"
         brut.parent.mkdir(parents=True, exist_ok=True)
-        sf.write(brut, voix.dire(p["langues"][code]["texte"]), voix.sr)
+        son = voix.dire(p["langues"][code]["texte"])
+        sf.write(brut, son / (abs(son).max() or 1) * 0.8, voix.sr)  # les modèles parlent bas : la réplique doit passer devant l'ambiance du jeu
         temp = sortie.with_name(sortie.stem + ".tmp.m4a")
         ffmpeg("-i", brut, "-ac", 1, "-c:a", "aac", "-b:a", "32k", "-movflags", "+faststart", temp)
         temp.replace(sortie)
         brut.unlink()
 
 
-def piste_film(r, code, pistes, voix):
+def sonie(fichier):
+    r = subprocess.run([FFMPEG, "-hide_banner", "-nostats", "-i", str(fichier), "-af", "ebur128=framelog=quiet", "-f", "null", "-"], capture_output=True, text=True)
+    return float(re.findall(r"I:\s+(-?[\d.]+) LUFS", r.stderr)[-1])
+
+
+def melanger(film, voix_f, sortie):
+    """Écrit la piste complète d'un film : la voix à VOIX_LUFS, l'ambiance et la musique très en dessous."""
+    duree_film = float(subprocess.run([FFPROBE, "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0", str(FILMS / film / "video.mp4")], capture_output=True, text=True).stdout)
+    gain = VOIX_LUFS - sonie(voix_f)
+    filtre = (
+        f"[1]volume={GAIN_AMBIANCE}[a];[2]volume={GAIN_MUSIQUE}[m];[a][m]amix=inputs=2:duration=longest:normalize=0[fond];"
+        f"[0]volume={gain:.2f}dB,asplit=2[v1][v2];[fond][v2]sidechaincompress=threshold=0.02:ratio=4:attack=30:release=500[fd];"
+        "[v1][fd]amix=inputs=2:duration=first:normalize=0,alimiter=limit=0.95"
+    )
+    temp = sortie.with_name(sortie.stem + ".tmp.m4a")
+    ffmpeg("-i", voix_f, "-i", SONS / film / "ambiance.mp3", "-i", SONS / film / "musique.mp3", "-filter_complex", filtre, "-t", duree_film, "-vn", "-ac", 2, "-c:a", "aac", "-b:a", "96k", "-movflags", "+faststart", temp)
+    temp.replace(sortie)
+
+
+def piste_film(r, code, pistes, voix, refaire=False):
     import numpy as np
     import soundfile as sf
     film = r["film"]
     sortie = FILMS / film / f"{code}.m4a"
-    if sortie.exists() and (FILMS / film / f"{code}.vtt").exists():
+    voix_f = TRAVAIL / film / code / "voix.wav"
+    if refaire and voix_f.exists():
+        melanger(film, voix_f, sortie)
+        return
+    if not refaire and sortie.exists() and (FILMS / film / f"{code}.vtt").exists():
         return
     lignes = sorted((p for p in pistes["pistes"] if p["type"] == "film"), key=lambda p: p["horodatage"]["debut_ms"])
     if not lignes:
@@ -395,18 +423,31 @@ def piste_film(r, code, pistes, voix):
         curseur = debut + duree
         vtt += [f"{temps_vtt(debut)} --> {temps_vtt(max(curseur, debut + 1))}", texte.replace("&", "&amp;").replace("<", "&lt;"), ""]
     crete = np.abs(tout).max() or 1
-    voix_f = dossier / "voix.wav"
+    # La voix seule reste dans montage/voix-mms : changer les niveaux ne demandera plus de la régénérer.
     sf.write(voix_f, tout / crete * 0.9, SR_MIX)
-    entrees = [voix_f] + [SONS / film / n for n in ("ambiance.mp3", "musique.mp3") if (SONS / film / n).exists()]
-    temp = sortie.with_name(sortie.stem + ".tmp.m4a")
-    ffmpeg(*sum((["-i", e] for e in entrees), []), "-filter_complex", f"amix=inputs={len(entrees)}:duration=first:normalize=0,alimiter=limit=0.95", "-t", duree_film, "-vn", "-ac", 2, "-c:a", "aac", "-b:a", "96k", "-movflags", "+faststart", temp)
-    temp.replace(sortie)
-    voix_f.unlink()
+    melanger(film, voix_f, sortie)
     (FILMS / film / f"{code}.vtt").write_text("\n".join(vtt), "utf-8", newline="\n")
     memoire = FILMS / film / "provisoires.json"
     liste = lire_json(memoire, [])
     if code not in liste:
         ecrire_json(memoire, liste + [code], indent=None)
+
+
+def remixer(part):
+    i, n = map(int, part.split("/"))
+    choix = tirage()
+    liste = recits()
+    if i == 1:
+        for r in liste:
+            melanger(r["film"], SONS / r["film"] / "voix-fr.mp3", FILMS / r["film"] / "fr.m4a")
+        print("français : fait", flush=True)
+    taches = sorted(((r, c) for r in liste for c in choix[r["id"]]), key=lambda t: (t[1], t[0]["id"]))[i - 1 :: n]
+    voix = {}
+    for r, code in taches:
+        pistes = lire_json(BANDES / r["id"] / "pistes.json")
+        v = voix[code] = voix.get(code) or (None if (TRAVAIL / r["film"] / code / "voix.wav").exists() else Voix(LANGUES[code][2]))
+        piste_film(r, code, pistes, v, refaire=True)
+        print(r["film"], code, "fait", flush=True)
 
 
 def voix_main(part):
@@ -429,7 +470,7 @@ def voix_main(part):
 
 if __name__ == "__main__":
     a = argparse.ArgumentParser()
-    a.add_argument("action", choices=["traduire", "ecrire", "voix"])
+    a.add_argument("action", choices=["traduire", "ecrire", "voix", "remixer"])
     a.add_argument("--part", default="1/1")
     x = a.parse_args()
-    {"traduire": traduire, "ecrire": ecrire, "voix": lambda: voix_main(x.part)}[x.action]()
+    {"traduire": traduire, "ecrire": ecrire, "voix": lambda: voix_main(x.part), "remixer": lambda: remixer(x.part)}[x.action]()

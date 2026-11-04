@@ -89,7 +89,9 @@ function completerProvisoires(recits) {
     }
     const pistes = lireProvisoires(film);
     const sons = join(ANIMATIONS, 'audio', film);
-    const mixer = (sortie, ...entrees) => produire(sortie, ...entrees.flatMap((e) => ['-i', join(sons, e)]), '-filter_complex', `amix=inputs=${entrees.length}:duration=longest:normalize=0`, ...ENCODAGE_SON);
+    // Avec voix, le fond est baissé et s'efface quand on parle (mêmes niveaux que scripts/voix_mms.py) ; sans voix, il reste entier.
+    const avecVoix = '[1]volume=0.2[a];[2]volume=0.18[m];[a][m]amix=inputs=2:duration=longest:normalize=0[fond];[0]asplit=2[v1][v2];[fond][v2]sidechaincompress=threshold=0.02:ratio=4:attack=30:release=500[fd];[v1][fd]amix=inputs=2:duration=first:normalize=0,alimiter=limit=0.95';
+    const mixer = (sortie, ...entrees) => produire(sortie, ...entrees.flatMap((e) => ['-i', join(sons, e)]), '-filter_complex', entrees.length === 3 ? avecVoix : `amix=inputs=${entrees.length}:duration=longest:normalize=0`, ...ENCODAGE_SON);
     for (const [piste, entrees] of [['fr', ['voix-fr.mp3', 'ambiance.mp3', 'musique.mp3']], ['zxx', ['ambiance.mp3', 'musique.mp3']]]) {
       const sortie = join(dossier, `${piste}.m4a`);
       if (existsSync(sortie) || !entrees.every((e) => existsSync(join(sons, e)))) continue;

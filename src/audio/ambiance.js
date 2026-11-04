@@ -16,7 +16,7 @@ export class Ambiance {
   init() {
     if (this.actx) return;
     try { this.actx = new (window.AudioContext || window.webkitAudioContext)(); } catch (e) { return; }
-    this.master = this.actx.createGain(); this.master.gain.value = 0.45; this.master.connect(this.actx.destination);
+    this.master = this.actx.createGain(); this.master.gain.value = 0.2; this.master.connect(this.actx.destination);
     this.bruit = this.actx.createBuffer(1, this.actx.sampleRate * 0.2, this.actx.sampleRate);
     const d = this.bruit.getChannelData(0);
     for (let i = 0; i < d.length; i++) d[i] = Math.random() * 2 - 1;
