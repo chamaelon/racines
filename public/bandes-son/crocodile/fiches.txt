@@ -10,6 +10,10 @@ intonation: interrogatif (proposée)
 texte: Abem était chasseur, l'ancêtre d'une famille kassena. La grande sécheresse brûle la brousse, et le gibier se fait rare. Une antilope passe au loin. Que fais-tu ?
 genre: adulte/homme
 duree: 11760ms (estimée)
+texte_fuf: Abem laati mannguɗo, mawɗo saare Kassena. Duuɗeeje mawɗe ɗon halki le'i, e yiite ɗe ɗon ɓeyda. Antilope ɗon yaha haa yaasi. Ko honɗun waɗata?
+enregistre_fuf: crocodile-n1-fuf.m4a (10718ms)
+texte_mos: A Abem ra yaa zĩm-biisi, la a yaa Kassena zakã yaab. Kɩɩm-kãsengã rɩka bugum, la namsgã paoodame. Bãng-y t'a Antɩlopã kẽnda yɩɩga. Bõe la fo maanda?
+enregistre_mos: crocodile-n1-mos.m4a (14350ms)
 
 piste: rentre
 histoire: Le crocodile qui sauva l'ancêtre
@@ -20,6 +24,10 @@ intonation: posé (proposée)
 texte: Au village, les enfants ont faim. Le lendemain, tu repars, et l'antilope est encore là. Tu la suis.
 genre: adulte/homme
 duree: 8190ms (estimée)
+texte_fuf: Ɓiɓɓe nder gariiri ɗon njaafa. To ndeen, to a yehi, antilope ɗon haaje. On ɗon tokkimo.
+enregistre_fuf: crocodile-rentre-fuf.m4a (7172ms)
+texte_mos: Tẽngã pʋgẽ, kom-bɩɩsã komdame. A vẽkembeoogo, fo sã n lebg n kẽngẽ, a ket n bee be. Fo tũuda-a lame.
+enregistre_mos: crocodile-rentre-mos.m4a (9380ms)
 
 piste: suit
 histoire: Le crocodile qui sauva l'ancêtre
@@ -30,6 +38,10 @@ intonation: posé (proposée)
 texte: Tu la suis de plus en plus loin. Quand tu t'arrêtes, tu ne reconnais plus rien. Le soleil est haut, et la soif te prend. Tu secoues ta gourde : elle est vide.
 genre: adulte/homme
 duree: 14190ms (estimée)
+texte_fuf: A ɗon ɓeyda bee maako. To a ummi, a anndaa kooɗume. Ɗuum woni naange, nden kam yiite nyaamoto ma. On ɗon moƴƴina ko'e mon, ɗe meere.
+enregistre_fuf: crocodile-suit-fuf.m4a (10542ms)
+texte_mos: Fo tũuda-a lame n paasdẽ. Fo sã n wa kaoose, fo pa le mi bũmb ye. Wĩndgã yikame, tɩ ko-yũud yõk foom. Fo sã n ning f gãndã, a ka tarẽ ye.
+enregistre_mos: crocodile-suit-mos.m4a (14798ms)
 
 piste: n2
 histoire: Le crocodile qui sauva l'ancêtre
@@ -40,6 +52,10 @@ intonation: posé (proposée)
 texte: Tu marches encore un peu, puis tu tombes. Quelque chose bouge dans les herbes : un crocodile, loin de toute eau. Tes mains tremblent sur ton arc.
 genre: adulte/homme
 duree: 11610ms (estimée)
+texte_fuf: A ɗon yaha yeeso, nden a ɗon maayi. Koo ɗume ɗon hooda nder leɗɗe, ko crocodile, yaasi ndiyam fuu. Juŋŋgo maaɗa ɗon hoosi dow maago maaɗa.
+enregistre_fuf: crocodile-n2-fuf.m4a (10852ms)
+texte_mos: Y sã n ket n kẽnd bilf bɩ y lʋɩ. Bũmb n be we-kãnga pʋgẽ: bõn-buud sẽn zãr ne koomã. Yãmb nusã tãsdda y noore.
+enregistre_mos: crocodile-n2-mos.m4a (8670ms)
 
 piste: tire
 histoire: Le crocodile qui sauva l'ancêtre
@@ -50,6 +66,10 @@ intonation: posé (proposée)
 texte: Ta flèche part de travers, et le crocodile s'éloigne. Dans ce chemin imaginé, plus personne ne te montre la mare. On te retrouve bien tard, et ta famille n'a pas de serment à tenir.
 genre: adulte/homme
 duree: 14270ms (estimée)
+texte_fuf: Fuufaare maaɗa ɗon ƴiwoyi dow laawol laaɓal, dokkal boo ɗon dilli. Nder laawol ngol, walaa goɗɗo ɗon holla ma ko'e mon. Mi ɗon wara bee maaɗa haa ɓaawo wakkati, nden saare ma boo walaa alkawal.
+enregistre_fuf: crocodile-tire-fuf.m4a (15220ms)
+texte_mos: Fo sã n na n zãag f sɩbgrã, bõn-naandgã na n loogame. Woto yĩnga, ned pa le tõe n wilg-f t'a yaa a soaba ye. D sã n wa yãend-y wakat sẽn kaoos, y zakã rãmb pa na n maan pʋlem ye.
+enregistre_mos: crocodile-tire-mos.m4a (13764ms)
 
 piste: confiance
 histoire: Le crocodile qui sauva l'ancêtre
@@ -60,6 +80,10 @@ intonation: posé (proposée)
 texte: Le crocodile ne mord pas. Du museau, il te pousse doucement. Tu te relèves. Il avance, puis il se retourne, comme pour dire : suis-moi.
 genre: adulte/homme
 duree: 11300ms (estimée)
+texte_fuf: Krokodil naa nyaamataa. O ɓeydaani ma bee hakkiilo. A ɗon ummii. O yahi yeeso, o yaari, o wi'i: "Taa yam".
+enregistre_fuf: crocodile-confiance-fuf.m4a (9960ms)
+texte_mos: Ko-kãnga pa wãbd ye. A naaga yãmb ne sũ-bʋgsem. Yãmb yikdame. A Zezi kẽngame n yaool n wẽnemd b poorẽ n yeel-b yaa: "Bɩ y tũ maam".
+enregistre_mos: crocodile-confiance-mos.m4a (11256ms)
 
 piste: n4
 histoire: Le crocodile qui sauva l'ancêtre
@@ -70,6 +94,10 @@ intonation: posé (proposée)
 texte: Abem boit, et la vie revient. Il se tourne vers le crocodile, et il s'incline devant lui.
 genre: adulte/homme
 duree: 7360ms (estimée)
+texte_fuf: Abem ɗon nyaama, nden nduumi. Sey o yaari haa ko'e maako, o sujidani mo.
+enregistre_fuf: crocodile-n4-fuf.m4a (5482ms)
+texte_mos: A Abem yũuda, t'a vɩɩmã lebgdẽ. A wẽnemdame n na n wõgemd a taoore.
+enregistre_mos: crocodile-n4-mos.m4a (5274ms)
 
 piste: n5
 histoire: Le crocodile qui sauva l'ancêtre
@@ -80,6 +108,10 @@ intonation: interrogatif (proposée)
 texte: Que promet-il ?
 genre: adulte/homme
 duree: 1440ms (estimée)
+texte_fuf: Hol ko o wi'i?
+enregistre_fuf: crocodile-n5-fuf.m4a (1344ms)
+texte_mos: Bõe la a kãab-yã?
+enregistre_mos: crocodile-n5-mos.m4a (1152ms)
 
 piste: gibier
 histoire: Le crocodile qui sauva l'ancêtre
@@ -90,6 +122,10 @@ intonation: posé (proposée)
 texte: Le crocodile regarde ailleurs. Une dette de vie ne se paie pas en viande. Abem comprend, et il fait une autre promesse.
 genre: adulte/homme
 duree: 9410ms (estimée)
+texte_fuf: Crocodile ɗon ndaara feere. Jaɓɓorgo Kewuuji pinal. Abem faama, o waɗi alkawal feere.
+enregistre_fuf: crocodile-gibier-fuf.m4a (6660ms)
+texte_mos: Kẽer geta zĩig a to. Ned sã n tar yõor yaoodo, a ka tõe n lebs-a ne nam ye. A Abem wʋmame, la a maana kãabg a to.
+enregistre_mos: crocodile-gibier-mos.m4a (10436ms)
 
 piste: serment
 histoire: Le crocodile qui sauva l'ancêtre
@@ -100,6 +136,10 @@ intonation: posé (proposée)
 texte: Et sa famille fit le serment.
 genre: adulte/homme
 duree: 2580ms (estimée)
+texte_fuf: O wi'i yimɓe maako ɓe njokki alkawal ngal.
+enregistre_fuf: crocodile-serment-fuf.m4a (3456ms)
+texte_mos: A zakã rãmb wẽename.
+enregistre_mos: crocodile-serment-mos.m4a (2160ms)
 
 piste: n6
 histoire: Le crocodile qui sauva l'ancêtre
@@ -110,6 +150,10 @@ intonation: interrogatif (proposée)
 texte: Il ne nous mange pas ?
 genre: enfant/libre
 duree: 2580ms (estimée)
+texte_fuf: O ɗon nyaama en naa?
+enregistre_fuf: crocodile-n6-fuf.m4a (1632ms)
+texte_mos: A pa na n dɩ tõnd sɩda?
+enregistre_mos: crocodile-n6-mos.m4a (1792ms)
 
 piste: n7
 histoire: Le crocodile qui sauva l'ancêtre
@@ -120,6 +164,10 @@ intonation: posé (proposée)
 texte: Aujourd'hui encore, pour certaines familles kassena, le crocodile reste un totem sacré. On n'oublie pas celui qui nous a sauvés.
 genre: adulte/homme
 duree: 8500ms (estimée)
+texte_fuf: Haa hande, koo toɓɓe saare kassena'en ɗon ɗaɓɓa ko crocodile woni totem. On meeɗaay yi'ugo mo o hisni en.
+enregistre_fuf: crocodile-n7-fuf.m4a (8010ms)
+texte_mos: Hal baa rũndã-rũndã, kassena neb kẽer ket n getame t'a yaa bõn-sõngo. D pa tõe n yĩm ned ning sẽn fãag tõndã ye.
+enregistre_mos: crocodile-n7-mos.m4a (7402ms)
 
 piste: film-001
 histoire: Le crocodile qui sauva l'ancêtre
@@ -130,6 +178,8 @@ intonation: solennel (scénario)
 texte: Le crocodile qui sauva l'ancêtre. Une légende kassena.
 genre: adulte/libre
 duree: 5200ms (mesurée sur le film)
+texte_fuf: Ko crocodiil mo o hisniri kaanankeejo. Fedde kassena.
+texte_mos: Kẽerã sẽn fãag nin-buiida. Yaa kassena lagem-n-taar.
 
 piste: film-002
 histoire: Le crocodile qui sauva l'ancêtre
@@ -140,6 +190,8 @@ intonation: posé (proposée)
 texte: Abem était chasseur, l'ancêtre d'une famille kassena. Il partit, comme chaque jour, avec son arc.
 genre: adulte/libre
 duree: 7800ms (mesurée sur le film)
+texte_fuf: Abem laati mannguɗo, mawɗo saare Kassena. O wurti, bana no o waɗata nder nyalawma fuu, bee kaŋŋe maako.
+texte_mos: A Abem ra yaa zĩm-biisi, la a yaa Kassena zakã yaab. A ra zãada a boog n loogda, wa a sẽn da maand daar fãa wã.
 
 piste: film-003
 histoire: Le crocodile qui sauva l'ancêtre
@@ -150,6 +202,8 @@ intonation: grave (scénario)
 texte: Mais la grande sécheresse brûlait la brousse. Le gibier se faisait rare.
 genre: adulte/libre
 duree: 5500ms (mesurée sur le film)
+texte_fuf: Ammaa leɗɗe ɗon halki ngam de'i mawɗi. Yiite ɗon ɓeyda.
+texte_mos: La kom-kãsengã kɩtame tɩ weoogã yõog bugum. B ra pa le yãgdẽ ye.
 
 piste: film-004
 histoire: Le crocodile qui sauva l'ancêtre
@@ -160,6 +214,8 @@ intonation: posé (proposée)
 texte: Abem suivit une antilope, de plus en plus loin. Et quand il s'arrêta, il ne reconnut plus rien.
 genre: adulte/libre
 duree: 7200ms (mesurée sur le film)
+texte_fuf: Abem ɗon tokki antelop, ɓeydaaki. Ammaa nde o ummii, walaa ko o anndi.
+texte_mos: A Abem ra tũuda nin-buiida, n paasdẽ. La a sẽn wa n bas-a wã, a pa le mi bũmb ye.
 
 piste: film-005
 histoire: Le crocodile qui sauva l'ancêtre
@@ -170,6 +226,8 @@ intonation: posé (proposée)
 texte: Le soleil était haut, et la soif le prit.
 genre: adulte/libre
 duree: 3300ms (mesurée sur le film)
+texte_fuf: Nde naange wurtini, njaram maɓɓiti mo.
+texte_mos: Wĩndgã dag n zẽkame, tɩ ko-yũud yõk a Zezi.
 
 piste: film-006
 histoire: Le crocodile qui sauva l'ancêtre
@@ -180,6 +238,8 @@ intonation: inquiet (scénario)
 texte: Il secoua sa gourde. Elle était vide.
 genre: adulte/libre
 duree: 4200ms (mesurée sur le film)
+texte_fuf: O wurtini ko'e maako. O walaa goɗɗum.
+texte_mos: A wa n zẽka a gãagã. A ra pa tar bũmb ye.
 
 piste: film-007
 histoire: Le crocodile qui sauva l'ancêtre
@@ -190,6 +250,8 @@ intonation: posé (proposée)
 texte: Il marcha encore un peu, puis il tomba.
 genre: adulte/libre
 duree: 3400ms (mesurée sur le film)
+texte_fuf: O tokki ɓeya, o waroyi.
+texte_mos: A sã n da ket n kẽnd bilfu, a lʋɩame.
 
 piste: film-008
 histoire: Le crocodile qui sauva l'ancêtre
@@ -200,6 +262,8 @@ intonation: chuchoté (scénario)
 texte: Quelque chose bougeait dans les herbes. Un crocodile, loin de toute eau.
 genre: adulte/libre
 duree: 5800ms (mesurée sur le film)
+texte_fuf: Walaa ko ɗon hoosi nder leɗɗe. Ɗu'um woni kooɗume nder ndiyam.
+texte_mos: Bũmb n da kẽnd weoogẽ wã. Koɛɛg sẽn zãr ne koomã.
 
 piste: film-009
 histoire: Le crocodile qui sauva l'ancêtre
@@ -210,6 +274,8 @@ intonation: tendu (scénario)
 texte: Abem voulut prendre son arc, mais ses mains ne lui obéissaient plus. Il ferma les yeux.
 genre: adulte/libre
 duree: 6200ms (mesurée sur le film)
+texte_fuf: Abem yi'i yahugo maako, ammaa juŋŋgo maako tokki mo. O maaki gite maako.
+texte_mos: A Abɛem ra baood n na n dɩka a boogã, la b nugã ka leb n sak-a ye. A ninga a ninã.
 
 piste: film-010
 histoire: Le crocodile qui sauva l'ancêtre
@@ -220,6 +286,8 @@ intonation: émerveillé (scénario)
 texte: Le crocodile ne mordit pas. Du museau, il le poussa doucement.
 genre: adulte/libre
 duree: 5500ms (mesurée sur le film)
+texte_fuf: Krokodil naa nyaamataa. O jippini mo bee ɓernde laaɓɗum.
+texte_mos: Ko-kãnga pa wãbd ye. A zẽka-a-la ne sũ-bʋgsem.
 
 piste: film-011
 histoire: Le crocodile qui sauva l'ancêtre
@@ -230,6 +298,8 @@ intonation: posé (proposée)
 texte: Abem se releva. Le crocodile avança, puis il se retourna, comme pour dire : suis-moi.
 genre: adulte/libre
 duree: 7300ms (mesurée sur le film)
+texte_fuf: Abem ummi. Go'oto ɓadake, o wayliti, o wi'i: "Taa yam".
+texte_mos: A Abem yikame. La bõn-bilã kolgame, n wẽnemd a meng n yeel-a t'a tũ-m.
 
 piste: film-012
 histoire: Le crocodile qui sauva l'ancêtre
@@ -240,6 +310,8 @@ intonation: joyeux (scénario)
 texte: Derrière les arbres, il y avait une mare cachée, pleine d'eau claire.
 genre: adulte/libre
 duree: 4800ms (mesurée sur le film)
+texte_fuf: Hakkiilo leɗɗe ɗon woodi ndiyam ɓoyma.
+texte_mos: Kẽer poore, koomã ra pida ne koom sẽn yaa vẽenega.
 
 piste: film-013
 histoire: Le crocodile qui sauva l'ancêtre
@@ -250,6 +322,8 @@ intonation: posé (proposée)
 texte: Abem but, et la vie revint.
 genre: adulte/libre
 duree: 2700ms (mesurée sur le film)
+texte_fuf: Abem maɓɓiti, nden ndu ummi.
+texte_mos: La a Abɛem yũu rãam n lebg n vɩ.
 
 piste: film-014
 histoire: Le crocodile qui sauva l'ancêtre
@@ -260,6 +334,8 @@ intonation: ému (scénario)
 texte: Il se tourna vers le crocodile, et il s'inclina devant lui.
 genre: adulte/libre
 duree: 4200ms (mesurée sur le film)
+texte_fuf: Sey o yaari haa ko'e maako, o sujidani ɗum.
+texte_mos: A Zezi leb n wẽnemdame n wõgemd b taoore.
 
 piste: film-015
 histoire: Le crocodile qui sauva l'ancêtre
@@ -270,6 +346,8 @@ intonation: solennel (scénario)
 texte: Jamais nous ne tuerons le crocodile. Ni moi, ni mes enfants.
 genre: adulte/homme
 duree: 4800ms (mesurée sur le film)
+texte_fuf: En mburtataa ko'e mum. Walaa mi, wala ɓiɓɓe am.
+texte_mos: D pa na n kʋ bõn-buudã ye. Ne maam bɩ m kambã.
 
 piste: film-016
 histoire: Le crocodile qui sauva l'ancêtre
@@ -280,6 +358,8 @@ intonation: posé (proposée)
 texte: Et sa famille fit le serment.
 genre: adulte/libre
 duree: 2600ms (mesurée sur le film)
+texte_fuf: O wi'i yimɓe maako ɓe njokki alkawal ngal.
+texte_mos: A zakã rãmb wẽename.
 
 piste: film-017
 histoire: Le crocodile qui sauva l'ancêtre
@@ -290,6 +370,8 @@ intonation: curieux, à mi-voix (scénario)
 texte: Il ne nous mange pas ?
 genre: enfant/libre
 duree: 2200ms (mesurée sur le film)
+texte_fuf: O ɗon nyaama en naa?
+texte_mos: A pa na n dɩ tõnd sɩda?
 
 piste: film-018
 histoire: Le crocodile qui sauva l'ancêtre
@@ -300,3 +382,5 @@ intonation: doux (scénario)
 texte: Aujourd'hui encore, pour certaines familles kassena, le crocodile reste un totem sacré.
 genre: adulte/libre
 duree: 6200ms (mesurée sur le film)
+texte_fuf: Haa hande, koo toɓɓe saare kassena'en ɗon ɗaɓɓa ko crocodile woni totem.
+texte_mos: Hal baa rũndã-rũndã, kassena neb kẽer ket n getame t'a yaa bõn-sõngo.

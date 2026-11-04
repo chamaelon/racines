@@ -10,6 +10,10 @@ intonation: posé (proposée)
 texte: À la fin du XIXe siècle, Ouagadougou est la capitale d'un royaume mossi ancien. Son souverain, Boukary Koutou, a pris à son avènement le nom de Naaba Wobgo.
 genre: adulte/homme
 duree: 11690ms (estimée)
+texte_fuf: Haa fuɗɗam karnijum 19, Ouagadougou laati laamorgo laamu Moosi. Laamiiɗo maako, Boukary Koutou, fuɗɗii innde Naaba Wobgo.
+enregistre_fuf: naaba-wobgo-n1-fuf.m4a (10586ms)
+texte_mos: Yʋʋm kobs 19 wã saabẽ, a Ouagadougou ra yaa Mozi soolmã tẽn-kãsengã. A Buukary Koutou sẽn wa n yaa rĩmã, a pʋdame t'a Naaba Wobgo.
+enregistre_mos: naaba-wobgo-n1-mos.m4a (13226ms)
 
 piste: n2
 histoire: Naaba Wobgo et la résistance de 1896
@@ -20,6 +24,10 @@ intonation: posé (proposée)
 texte: En 1894, il signe un traité d'amitié avec George Ekem Ferguson, envoyé des Britanniques. Les Français contestent cet accord : ils convoitent eux aussi la région.
 genre: adulte/homme
 duree: 10930ms (estimée)
+texte_fuf: E hitaande 1894, o saini alkawal goɗɗum e George Ekem Ferguson, gardiiɗo leydi Britaniya. Farayse'en ɗon haɓɓa e dille nden: ɓe ngiɗi leydi ndii boo.
+enregistre_fuf: naaba-wobgo-n2-fuf.m4a (12740ms)
+texte_mos: Yʋʋmd 1894 wã, a sigla taab ne Britãnsã tʋm-tʋmd a George Ekem Ferguson. Fransi nebã kɩɩsame, bala b ratame tɩ bãmb me paam tẽn-kãnga.
+enregistre_mos: naaba-wobgo-n2-mos.m4a (11770ms)
 
 piste: n3
 histoire: Naaba Wobgo et la résistance de 1896
@@ -30,6 +38,10 @@ intonation: posé (proposée)
 texte: Voici le traité. Il parle d'amitié entre nous.
 genre: adulte/homme
 duree: 3640ms (estimée)
+texte_fuf: Ɗuum woni kuugal ngal. O ɗon wi'a wonde en goonɗinɓe.
+enregistre_fuf: naaba-wobgo-n3-fuf.m4a (3690ms)
+texte_mos: Ad seb-kãnga. A yeelame tɩ d yaa zo-rãmba.
+enregistre_mos: naaba-wobgo-n3-mos.m4a (3850ms)
 
 piste: n4
 histoire: Naaba Wobgo et la résistance de 1896
@@ -40,6 +52,10 @@ intonation: interrogatif (proposée)
 texte: Toi, le page, que regardes-tu pendant que l'on signe ?
 genre: adulte/homme
 duree: 4400ms (estimée)
+texte_fuf: On ɗon ɗaɓɓita ko'e mooɗon ngam on ndaara?
+enregistre_fuf: naaba-wobgo-n4-fuf.m4a (2896ms)
+texte_mos: Fo sã n wa tar seb-kãnga, bõe la fo getẽ?
+enregistre_mos: naaba-wobgo-n4-mos.m4a (3984ms)
 
 piste: visage
 histoire: Naaba Wobgo et la résistance de 1896
@@ -50,6 +66,10 @@ intonation: posé (proposée)
 texte: Il sait qu'un papier n'arrête pas une colonne. Mais c'est aujourd'hui tout ce qu'on lui propose.
 genre: adulte/homme
 duree: 6680ms (estimée)
+texte_fuf: O anndi kubaruuji mbaawataa haɗugo yimɓe. Ammaa haa jooni, ɗum kooɗume.
+enregistre_fuf: naaba-wobgo-visage-fuf.m4a (5274ms)
+texte_mos: A miime tɩ pa sebre n tõe n kɩt tɩ b gãd neb a taabã ye. La rũndã-rũndã, yaa rẽ bal la d tõe n kõ-a.
+enregistre_mos: naaba-wobgo-visage-mos.m4a (9226ms)
 
 piste: route
 histoire: Naaba Wobgo et la résistance de 1896
@@ -60,6 +80,10 @@ intonation: posé (proposée)
 texte: Tu entends parler d'hommes en armes loin au sud et à l'ouest. Personne n'en sait encore beaucoup.
 genre: adulte/homme
 duree: 7060ms (estimée)
+texte_fuf: On nanii haala yimɓe mari kaafaaji dow fombinaare e hirnaange. Walaa mo anndi ɗuɗɗum haa jooni.
+enregistre_fuf: naaba-wobgo-route-fuf.m4a (7802ms)
+texte_mos: Yãmb wʋmda neb sẽn zabd ne zab-teedã sẽn be zĩn-dʋʋg la wĩntoogã pʋga. La neb wʋsg pa mi rẽ ye.
+enregistre_mos: naaba-wobgo-route-mos.m4a (7098ms)
 
 piste: colonne
 histoire: Naaba Wobgo et la résistance de 1896
@@ -70,6 +94,10 @@ intonation: grave (proposée)
 texte: En 1896, la colonne de Paul Voulet et Julien Chanoine marche sur le pays mossi.
 genre: adulte/homme
 duree: 6150ms (estimée)
+texte_fuf: Nder hitaande 1896, kolonne Paul Voulet e Julien Chanoine ɗon yaha lesdi Mossi.
+enregistre_fuf: naaba-wobgo-colonne-fuf.m4a (5568ms)
+texte_mos: Yʋʋmd 1896 wã, Paul Voulet ne a Julien Chanoine sull n kẽnga Mossi tẽngẽ.
+enregistre_mos: naaba-wobgo-colonne-mos.m4a (4576ms)
 
 piste: n5
 histoire: Naaba Wobgo et la résistance de 1896
@@ -80,6 +108,10 @@ intonation: grave (proposée)
 texte: Ouagadougou sera prise.
 genre: adulte/homme
 duree: 1440ms (estimée)
+texte_fuf: Ouagadougou heɓay.
+enregistre_fuf: naaba-wobgo-n5-fuf.m4a (1776ms)
+texte_mos: B na n dɩka a Ouagadougou.
+enregistre_mos: naaba-wobgo-n5-mos.m4a (2320ms)
 
 piste: n6
 histoire: Naaba Wobgo et la résistance de 1896
@@ -90,6 +122,10 @@ intonation: grave (proposée)
 texte: Naaba Wobgo tente de résister, et sa ville est incendiée. Voulet s'empare de Ouagadougou.
 genre: adulte/homme
 duree: 6070ms (estimée)
+texte_fuf: Naaba Wobgo ɗon ɗaɓɓa haɓre, nden gariiri maako ɗon halki. Voulet jaɓan lesdi Ouagadougou
+enregistre_fuf: naaba-wobgo-n6-fuf.m4a (7834ms)
+texte_mos: A Naaba Wobgo sẽn modgd n na n tõoge, b yõoga a tẽngã bugum. A Voulet rɩka Ouagadougou.
+enregistre_mos: naaba-wobgo-n6-mos.m4a (7466ms)
 
 piste: n7
 histoire: Naaba Wobgo et la résistance de 1896
@@ -100,6 +136,10 @@ intonation: grave (proposée)
 texte: Le page doit-il rester ou fuir avec le souverain ? L'histoire sera la même, seul ton récit change.
 genre: adulte/homme
 duree: 7590ms (estimée)
+texte_fuf: Ɗuum ɗemngal ina haani jooɗude walla yahda e laamiiɗo? Ko'e mon tan ko'e ma.
+enregistre_fuf: naaba-wobgo-n7-fuf.m4a (7082ms)
+texte_mos: Pagã segd n paame bɩ a zoe ne rĩmã? Yaa yãmb koe-moonegã bal n na n toeemã.
+enregistre_mos: naaba-wobgo-n7-mos.m4a (5930ms)
 
 piste: ville
 histoire: Naaba Wobgo et la résistance de 1896
@@ -110,6 +150,10 @@ intonation: posé (proposée)
 texte: Le souverain est déposé, et Voulet installe à sa place son frère Sighiri. Les sources ne s'accordent pas sur la date exacte de cette déposition.
 genre: adulte/homme
 duree: 10250ms (estimée)
+texte_fuf: Nde laamiiɗo ummii, Voulet waɗi sakiraaɓe maako Sighiri. Firooji ɗi'e ɗon njaɓɓa wakkati gooŋgaaje nde deftere nden waɗi.
+enregistre_fuf: naaba-wobgo-ville-fuf.m4a (8170ms)
+texte_mos: B kɩtame t'a Voulet yãk a saam-biig a Sighiri. Sẽn yaa to-to wã pa zemsd ne rẽ ye.
+enregistre_mos: naaba-wobgo-ville-mos.m4a (5866ms)
 
 piste: suivre
 histoire: Naaba Wobgo et la résistance de 1896
@@ -120,6 +164,10 @@ intonation: posé (proposée)
 texte: Je demande de l'aide aux Britanniques.
 genre: adulte/homme
 duree: 2580ms (estimée)
+texte_fuf: Mi ɗon ɗaɓɓa wallude to yimɓe Britaniya.
+enregistre_fuf: naaba-wobgo-suivre-fuf.m4a (3344ms)
+texte_mos: Mam kotame tɩ Britãnsã sõng-m.
+enregistre_mos: naaba-wobgo-suivre-mos.m4a (2336ms)
 
 piste: n8
 histoire: Naaba Wobgo et la résistance de 1896
@@ -130,6 +178,10 @@ intonation: posé (proposée)
 texte: L'aide ne vient pas. Le souverain est déposé, et son frère Sighiri installé à sa place. Les sources ne s'accordent pas sur les conditions exactes de sa fuite.
 genre: adulte/homme
 duree: 11690ms (estimée)
+texte_fuf: Wallude ɗon warugo. Laamiiɗo laatii, deerɗiraawo maako Sighiri jooɗii. Fooyre'en njaɓaayi haala laaɓtugol mo.
+enregistre_fuf: naaba-wobgo-n8-fuf.m4a (9028ms)
+texte_mos: B pa na n wa sõng-b ye. B kɩtame t'a saam-biig a Sighiri zĩnd a naamã zĩigẽ. B pa wʋmd bũmb ning sẽn kɩt t'a zoe ye.
+enregistre_mos: naaba-wobgo-n8-mos.m4a (10308ms)
 
 piste: quiz
 histoire: Naaba Wobgo et la résistance de 1896
@@ -140,6 +192,10 @@ intonation: posé (proposée)
 texte: Il se réfugie en Gold Coast, l'actuel Ghana, et il y meurt en 1904.
 genre: adulte/homme
 duree: 5920ms (estimée)
+texte_fuf: O dilli haa Gold Coast, to Ghana hannde, o maayi ton nder 1904.
+enregistre_fuf: naaba-wobgo-quiz-fuf.m4a (5216ms)
+texte_mos: A zoe n kẽnga Gold Coast, sẽn yaa Ghana rũndã-rũndã wã.
+enregistre_mos: naaba-wobgo-quiz-mos.m4a (4448ms)
 
 piste: relire
 histoire: Naaba Wobgo et la résistance de 1896
@@ -150,6 +206,10 @@ intonation: posé (proposée)
 texte: Reviens m'écouter : ces dates, on les doit à ceux qui les ont vécues.
 genre: adulte/femme
 duree: 5920ms (estimée)
+texte_fuf: Ndaa, nana ko mi wi'i: sahaaji ɗi'e ngam yimɓe goonɗinɓe ɓeen njooɗii.
+enregistre_fuf: naaba-wobgo-relire-fuf.m4a (5386ms)
+texte_mos: Kẽng-y n kelg m goama. Yaa neb nins sẽn vɩɩmd wakat ningã yĩng la b segd n maan bõn-kãens.
+enregistre_mos: naaba-wobgo-relire-mos.m4a (7002ms)
 
 piste: bien
 histoire: Naaba Wobgo et la résistance de 1896
@@ -160,3 +220,7 @@ intonation: posé (proposée)
 texte: À retenir : la conquête du pays mossi s'est faite par la force, face à un souverain qui a refusé de se soumettre.
 genre: adulte/homme
 duree: 9340ms (estimée)
+texte_fuf: Ngam anndingo ɗum: lesdi Mossi laɓɓini bee semmbe, yeeso laamiiɗo mo wanyani ɗowtanaago.
+enregistre_fuf: naaba-wobgo-bien-fuf.m4a (7194ms)
+texte_mos: D tẽeg t'a Moyiiz tẽngã paamame ne pãnga, rĩm a ye sẽn da pa sak n na n deeg-a wã yĩnga.
+enregistre_mos: naaba-wobgo-bien-mos.m4a (6368ms)

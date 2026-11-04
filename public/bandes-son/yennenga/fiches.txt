@@ -11,6 +11,10 @@ texte: Approche, enfant, et tends l'oreille. Ce que je vais te dire, mon père m
 genre: adulte/homme
 duree: 10700ms (estimée)
 texte_en: Come closer, child, and listen well. What I am about to tell you, my father told me, and his father told him before that.
+texte_fuf: Ɓiɗɗo am, ɓadake, nana. Ko mbi'aymi to maaɗa, baaba am wi'i yam. Baabiraawo maako boo o wi'ii mo ɗum yeeso maako.
+enregistre_fuf: yennenga-intro-fuf.m4a (9572ms)
+texte_mos: Kom-biiga, bɩ f kolg n kelge. Bũmb ning mam sẽn na n togs yãmbã, m ba wã wilga maam la a ba wã wilg-a lame.
+enregistre_mos: yennenga-intro-mos.m4a (12794ms)
 
 piste: intro2
 histoire: La légende de Yennenga
@@ -22,6 +26,10 @@ texte: Il y a bien longtemps, à Gambaga, au royaume dagomba, régnait le Naaba 
 genre: adulte/homme
 duree: 10550ms (estimée)
 texte_en: Long ago, in Gambaga, in the Dagomba kingdom, reigned Naaba Nedega. His daughter Yennenga rode better than any of his warriors.
+texte_fuf: Nder Gambaga nder laamorde dagomba, Naaba Negega laamani diga na'i. Ɓiɗɗo maako Yennenga ɗon yahda dow le'i ɓurɓe mo konu fuu.
+enregistre_fuf: yennenga-intro2-fuf.m4a (8698ms)
+texte_mos: Yʋʋm wʋsg sẽn looge, Gambaga, Dagomba soolmẽ wã, Naaba Nédega naam da beeme. A bi-pugl a ye, a Yennenga ra zaooda soaal n yɩɩd a sodaasã fãa.
+enregistre_mos: yennenga-intro2-mos.m4a (12618ms)
 
 piste: explore1
 histoire: La légende de Yennenga
@@ -33,6 +41,10 @@ texte: Regarde autour de toi. Clique sur les objets qui brillent pour les décou
 genre: adulte/homme
 duree: 5540ms (estimée)
 texte_en: Look around you. Click the glowing objects to discover them.
+texte_fuf: Ndaaree ko'e mon. Ɗoɗee dow kuuje ɗe cembiɗɗi ngam heɓugo ɗi.
+enregistre_fuf: yennenga-explore1-fuf.m4a (5034ms)
+texte_mos: Ges-y y sẽn gũbg yãmbã. Sõng-y bũmb nins sẽn yãgdã n bãng-b.
+enregistre_mos: yennenga-explore1-mos.m4a (4634ms)
 
 piste: nedega1
 histoire: La légende de Yennenga
@@ -44,6 +56,10 @@ texte: Yennenga ! Encore une victoire. Sans toi, nos ennemis seraient déjà à 
 genre: adulte/homme
 duree: 6370ms (estimée)
 texte_en: Yennenga! Another victory. Without you, our enemies would already be at our gates.
+texte_fuf: Yennenga ! Goɗɗum feere. To on walaa, konne'en meeɗen ɓe ɗon wondi haa dammuɗe amin.
+enregistre_fuf: yennenga-nedega1-fuf.m4a (7988ms)
+texte_mos: Yennenga! Rẽ n so tɩ d tõog-a lame. Yãmb sã n da ka be, tõnd bɛɛbã ra na n bee d zakẽ.
+enregistre_mos: yennenga-nedega1-mos.m4a (7860ms)
 
 piste: yen1
 histoire: La légende de Yennenga
@@ -55,6 +71,10 @@ texte: Père, je combats pour toi depuis l'enfance. Aujourd'hui, je voudrais un 
 genre: adulte/femme
 duree: 6600ms (estimée)
 texte_en: Father, I have fought for you since I was a child. Today I would like a husband and a home.
+texte_fuf: Baabiraawo, mi ɗon haɓana ngam maaɗa diga ɓikkoy am. Hannde mi yiɗi gorko e saare.
+enregistre_fuf: yennenga-yen1-fuf.m4a (6410ms)
+texte_mos: M ba, m zoe n zabda f yĩnga hal m yãadem wakate. Rũndã-rũndã, mam dat n paama sɩd la m zakã.
+enregistre_mos: yennenga-yen1-mos.m4a (8618ms)
 
 piste: nedega2
 histoire: La légende de Yennenga
@@ -66,6 +86,10 @@ texte: Un mari ? Jamais. Ma meilleure guerrière reste auprès de moi.
 genre: adulte/homme
 duree: 5080ms (estimée)
 texte_en: A husband? Never. My best warrior stays by my side.
+texte_fuf: Goɗɗo gorko? Walaa. Sooreejo am ɓurɗo wooɗugo ɗon wondi bee am.
+enregistre_fuf: yennenga-nedega2-fuf.m4a (5764ms)
+texte_mos: A sɩdã? D pa tõe n maan woto ye. Mam sõdga sẽn yaa sõma n yɩɩd fãa wã ket n bee ne maam.
+enregistre_mos: yennenga-nedega2-mos.m4a (6484ms)
 
 piste: choix1
 histoire: La légende de Yennenga
@@ -77,6 +101,10 @@ texte: Que doit faire Yennenga ?
 genre: adulte/homme
 duree: 2200ms (estimée)
 texte_en: What should Yennenga do?
+texte_fuf: Ko honɗun Yennenga waɗata?
+enregistre_fuf: yennenga-choix1-fuf.m4a (1984ms)
+texte_mos: Bõe la a Yennenga segd n maane?
+enregistre_mos: yennenga-choix1-mos.m4a (2144ms)
 
 piste: gombo
 histoire: La légende de Yennenga
@@ -88,6 +116,10 @@ texte: Yennenga sème un champ de gombo. Quand les fruits mûrissent, elle ne le
 genre: adulte/homme
 duree: 8500ms (estimée)
 texte_en: Yennenga sows a field of okra. When the pods ripen she does not pick them: they dry on the stalk.
+texte_fuf: Yennenga sowi gese okira. Ammaa to ɗi nyaami, ɗi ngaɗataa. Ɗu'um ɓadake.
+enregistre_fuf: yennenga-gombo-fuf.m4a (6276ms)
+texte_mos: A Yennenga bʋta okra pʋʋgẽ. La a sã n bɩ, a ka tigim ye. A kʋɩɩsda a nao wã zugu.
+enregistre_mos: yennenga-gombo-mos.m4a (6836ms)
 
 piste: gombo2
 histoire: La légende de Yennenga
@@ -99,6 +131,10 @@ texte: Pourquoi laisses-tu pourrir ce champ, ma fille ?
 genre: adulte/homme
 duree: 3490ms (estimée)
 texte_en: Why do you let this field rot, my daughter?
+texte_fuf: Ngam ɗume a acci ngesa ma'a, ɓiɗɗo am?
+enregistre_fuf: yennenga-gombo2-fuf.m4a (2528ms)
+texte_mos: Bõe yĩng tɩ f bas tɩ pʋʋgã sãam, m bi-pugl?
+enregistre_mos: yennenga-gombo2-mos.m4a (3584ms)
 
 piste: gombo3
 histoire: La légende de Yennenga
@@ -110,6 +146,10 @@ texte: Comme ces gombos, père, je me flétris sans avoir donné de fruits.
 genre: adulte/femme
 duree: 5160ms (estimée)
 texte_en: Like this okra, father, I am withering without having borne fruit.
+texte_fuf: Bana gombooje ɗe'e, baaba am, mi ɗon nyaama hoore am, ammaa walaa ko maayi.
+enregistre_fuf: yennenga-gombo3-fuf.m4a (5856ms)
+texte_mos: Wa gom-kãensã, m ba, mam sãamda m meng n pa womd biis ye.
+enregistre_mos: yennenga-gombo3-mos.m4a (4256ms)
 
 piste: silence
 histoire: La légende de Yennenga
@@ -121,6 +161,10 @@ texte: Yennenga se tait. Les saisons passent, les batailles aussi, mais son cœu
 genre: adulte/homme
 duree: 6220ms (estimée)
 texte_en: Yennenga says nothing. The seasons pass, and the battles too, but her heart stays heavy.
+texte_fuf: Yennenga ɗon suuɗa. Wakkati ɓeydi e konu, ammaa ɓerɗe maako ɗon cembiɗina.
+enregistre_fuf: yennenga-silence-fuf.m4a (7706ms)
+texte_mos: A Yennenga sĩndame. Wakatã loogdame, zabrã me loogdame. La a sũurã ket n yaa toog ne-a.
+enregistre_mos: yennenga-silence-mos.m4a (8148ms)
 
 piste: refusA
 histoire: La légende de Yennenga
@@ -132,6 +176,10 @@ texte: J'ai compris ton message, ma fille. Mais ma réponse ne change pas.
 genre: adulte/homme
 duree: 5310ms (estimée)
 texte_en: I understand your message, my daughter. But my answer does not change.
+texte_fuf: Mi faami ko mbi'oton, ɓiɗɗo am. Ammaa jaabooji am ɗon waylita.
+enregistre_fuf: yennenga-refusA-fuf.m4a (5946ms)
+texte_mos: Mam wʋmda yãmb koɛɛgã võore, m bi-pugli. La mam leokrã pa toeem ye.
+enregistre_mos: yennenga-refusA-mos.m4a (6106ms)
 
 piste: refusB
 histoire: La légende de Yennenga
@@ -143,6 +191,10 @@ texte: Tu sembles triste, ma fille. Mais la guerre a besoin de toi.
 genre: adulte/homme
 duree: 5310ms (estimée)
 texte_en: You seem sad, my daughter. But the war needs you.
+texte_fuf: A ɗon yi'a ɓernde, ɓiɗɗo am. Ammaa konu ɗon yiɗi ma.
+enregistre_fuf: yennenga-refusB-fuf.m4a (4394ms)
+texte_mos: Yãmb wẽnda sũ-sãanga, m bi-pugli. La zabrã baoodame tɩ y sõng-a.
+enregistre_mos: yennenga-refusB-mos.m4a (6106ms)
 
 piste: nuit1
 histoire: La légende de Yennenga
@@ -154,6 +206,10 @@ texte: Cette nuit-là, Yennenga ne dort pas. Son étalon piaffe dans l'enclos.
 genre: adulte/homme
 duree: 4930ms (estimée)
 texte_en: That night, Yennenga does not sleep. Her stallion paws the ground in its pen.
+texte_fuf: Nder jemma maajum, Yennenga ɗon ɗaana. Fooɗeeje maako ɗon ɓilla nder suudu.
+enregistre_fuf: yennenga-nuit1-fuf.m4a (6138ms)
+texte_mos: Zĩ-kãng yʋngo, a Yennenga ra pa gõe ye. A sã n wa beẽ wã, a na n yɩɩg-a lame.
+enregistre_mos: yennenga-nuit1-mos.m4a (7642ms)
 
 piste: choix2
 histoire: La légende de Yennenga
@@ -165,6 +221,10 @@ texte: Partir ou rester ?
 genre: adulte/homme
 duree: 1820ms (estimée)
 texte_en: Leave or stay?
+texte_fuf: Mi dilli walla mi jooɗoto?
+enregistre_fuf: yennenga-choix2-fuf.m4a (2064ms)
+texte_mos: D na n kẽnga bɩ d ketame?
+enregistre_mos: yennenga-choix2-mos.m4a (1696ms)
 
 piste: rester
 histoire: La légende de Yennenga
@@ -176,6 +236,10 @@ texte: Yennenga reste. Elle devient la plus grande guerrière que Gambaga ait co
 genre: adulte/homme
 duree: 5160ms (estimée)
 texte_en: Yennenga stays. She becomes the greatest warrior Gambaga has ever known…
+texte_fuf: Yennenga jooɗoto. O laatoto konu ɓurɗo Gambaga annde...
+enregistre_fuf: yennenga-rester-fuf.m4a (4458ms)
+texte_mos: A Yennenga kell n paa be. A lebga sodaas sẽn yaa kãsenga Gambaga sẽn yãã.
+enregistre_mos: yennenga-rester-mos.m4a (5082ms)
 
 piste: rester2
 histoire: La légende de Yennenga
@@ -187,6 +251,10 @@ texte: …c'est ce que racontent certains, tard dans la nuit. Mais ce n'est pas 
 genre: adulte/homme
 duree: 10470ms (estimée)
 texte_en: …or so some say, late at night. But that is not how the legend ends. Do you want to hear the true ending?
+texte_fuf: ...ko woɗɓe mbi'i, laatoto jemma. Ammaa non haala maako timmini. A yiɗi nanugo ko goonga?
+enregistre_fuf: yennenga-rester2-fuf.m4a (7092ms)
+texte_mos: ... neb kẽer yetame tɩ yaa yʋngo. La pa woto la kibarã pʋga. Yãmb dat n wʋma sɩd-sɩdã saabã bɩ?
+enregistre_mos: yennenga-rester2-mos.m4a (8916ms)
 
 piste: fuite
 histoire: La légende de Yennenga
@@ -198,6 +266,10 @@ texte: Elle saute sur son cheval et file vers le nord. Mais les cavaliers du roi
 genre: adulte/homme
 duree: 7440ms (estimée)
 texte_en: She leaps on her horse and rides north. But the king's horsemen are after her!
+texte_fuf: O dilli dow konngi maako o yahdi haa woyla. Ammaa ardiiɓe laamiiɗo ɗon tokki mo.
+enregistre_fuf: yennenga-fuite-fuf.m4a (6538ms)
+texte_mos: A kẽnga t'a zoe n kẽng rɩtgo. La rĩm-dãmb ne b nao wã n dabda a poorẽ.
+enregistre_mos: yennenga-fuite-mos.m4a (7114ms)
 
 piste: courseOK
 histoire: La légende de Yennenga
@@ -209,6 +281,10 @@ texte: Son étalon vole au-dessus des herbes. Les cavaliers disparaissent derri�
 genre: adulte/homme
 duree: 4780ms (estimée)
 texte_en: Her stallion flies over the grass. The horsemen vanish behind her.
+texte_fuf: Lodo maako ɗon dilli dow leɗɗe. Yimɓe ɗon njooɗoto bee maako.
+enregistre_fuf: yennenga-courseOK-fuf.m4a (4650ms)
+texte_mos: A soaalã paasa tɩɩsã zutu ye. So-pakdbã loogda ne yẽnda.
+enregistre_mos: yennenga-courseOK-mos.m4a (4938ms)
 
 piste: courseKO
 histoire: La légende de Yennenga
@@ -220,6 +296,10 @@ texte: Les cavaliers la rattrapent presque… quand un orage éclate et efface s
 genre: adulte/homme
 duree: 8120ms (estimée)
 texte_en: The horsemen nearly catch her… when a storm breaks and wipes out her tracks. The sky has chosen its side.
+texte_fuf: Yimɓe mooliiɓe ɗon wara dow maako. Nde ɓooyaaki, o wurtinaay laawol maako. Ceniiɗo suɓii laabi muuɗum.
+enregistre_fuf: yennenga-courseKO-fuf.m4a (8052ms)
+texte_mos: Neb nins sẽn zʋʋgd-a wã kolg-a lame. Sa-kãseng sã n wa, la a sãam a zĩiga. Yaa yĩngr n yãk a sẽn datã.
+enregistre_mos: yennenga-courseKO-mos.m4a (8084ms)
 
 piste: foret1
 histoire: La légende de Yennenga
@@ -231,6 +311,10 @@ texte: Épuisé, l'étalon s'arrête devant une case, au cœur d'une forêt inco
 genre: adulte/homme
 duree: 4780ms (estimée)
 texte_en: Exhausted, the stallion stops in front of a hut, deep in an unknown forest.
+texte_fuf: O ɓeydaaki, o jooɗi yeeso jaŋde nder leɗɗe ɗe andaa.
+enregistre_fuf: yennenga-foret1-fuf.m4a (3376ms)
+texte_mos: A sẽn wa n pa le tõe n maan bũmb a to wã, a gãnda zĩig a ye.
+enregistre_mos: yennenga-foret1-mos.m4a (4960ms)
 
 piste: riale1
 histoire: La légende de Yennenga
@@ -242,6 +326,10 @@ texte: Qui va là ? Un cavalier, seul, dans ma forêt ?
 genre: adulte/homme
 duree: 5080ms (estimée)
 texte_en: Who goes there? A rider, alone, in my forest?
+texte_fuf: Moy ɗon yaha? Gooduɗo koyɗol go'oto nder leɗɗe am?
+enregistre_fuf: yennenga-riale1-fuf.m4a (4058ms)
+texte_mos: Ãnd dãmb n be? Ned sẽn na n soog m weoogẽ wã?
+enregistre_mos: yennenga-riale1-mos.m4a (3594ms)
 
 piste: yen2
 histoire: La légende de Yennenga
@@ -253,6 +341,10 @@ texte: Je ne suis pas un cavalier. Je suis Yennenga, fille du Naaba Nédega.
 genre: adulte/femme
 duree: 5690ms (estimée)
 texte_en: I am no rider. I am Yennenga, daughter of Naaba Nedega.
+texte_fuf: Mi laataaki jaagorɗo. Mi woni Yennenga, ɓiɗɗo Naaba Nédega.
+enregistre_fuf: yennenga-yen2-fuf.m4a (4666ms)
+texte_mos: Mam pa so-rʋʋda ye. Mam yʋʋr yaa Yennenga, Naaba Nedega bi-pugli.
+enregistre_mos: yennenga-yen2-mos.m4a (5098ms)
 
 piste: riale2
 histoire: La légende de Yennenga
@@ -264,6 +356,10 @@ texte: Je m'appelle Rialé. Je chasse l'éléphant. Repose-toi : ici, personne n
 genre: adulte/homme
 duree: 6140ms (estimée)
 texte_en: My name is Riale. I hunt elephants. Rest now: no one will find you here.
+texte_fuf: Innde am woni Rialé. Mi ɗon ɗaɓɓa nduu. Laamii, walaa mo heɓay ma ɗo.
+enregistre_fuf: yennenga-riale2-fuf.m4a (5620ms)
+texte_mos: Mam yʋʋr la Rialé. Mam yãbdda wũndã. Bas-y tɩ ned baa a yen ka yã yãmb be ye.
+enregistre_mos: yennenga-riale2-mos.m4a (7076ms)
 
 piste: explore2
 histoire: La légende de Yennenga
@@ -275,6 +371,10 @@ texte: Découvre la case du chasseur avant de continuer.
 genre: adulte/homme
 duree: 3340ms (estimée)
 texte_en: Discover the hunter's hut before you go on.
+texte_fuf: Ndaa nokkuure jaayndeejo yeeso.
+enregistre_fuf: yennenga-explore2-fuf.m4a (2512ms)
+texte_mos: Kẽng-y n bãnge, n yaool n kẽng taoor.
+enregistre_mos: yennenga-explore2-mos.m4a (3216ms)
 
 piste: riale3
 histoire: La légende de Yennenga
@@ -286,6 +386,10 @@ texte: Défier un roi, puis traverser la brousse de nuit… Je n'ai jamais vu un
 genre: adulte/homme
 duree: 6830ms (estimée)
 texte_en: To defy a king, then cross the bush by night… I have never seen such courage.
+texte_fuf: E dow laamiiɗo, e dow leɗɗe jemma. Mi meeɗaayi yi'ugo hakkiilo ɗu'um.
+enregistre_fuf: yennenga-riale3-fuf.m4a (4570ms)
+texte_mos: B sẽn na n zab ne rĩm-dãmb la b sã n zãadẽ, b na n kẽnga weoogẽ wã. Mam zɩ n yã ned sẽn tar raood a woto ye.
+enregistre_mos: yennenga-riale3-mos.m4a (9194ms)
 
 piste: mariage
 histoire: La légende de Yennenga
@@ -297,6 +401,10 @@ texte: Yennenga et Rialé s'aiment et se marient. De leur union naît un fils.
 genre: adulte/homme
 duree: 5540ms (estimée)
 texte_en: Yennenga and Riale fall in love and marry. A son is born to them.
+texte_fuf: Yennenga e Rialé ɓe ngiɗi, ɓe kawti. Ɓiɗɗo boo jibini nder kawtal maɓɓe.
+enregistre_fuf: yennenga-mariage-fuf.m4a (6202ms)
+texte_mos: A Yennenga ne a Rialé nongame n kẽ kãadem. B kãadmã poore, b paama bi-ribl a ye.
+enregistre_mos: yennenga-mariage-mos.m4a (7114ms)
 
 piste: fin1
 histoire: La légende de Yennenga
@@ -308,6 +416,10 @@ texte: Nous l'appellerons Ouédraogo, « l'étalon mâle », en souvenir du chev
 genre: adulte/femme
 duree: 6680ms (estimée)
 texte_en: We shall call him Ouedraogo, "the stallion", in memory of the horse that brought me to you.
+texte_fuf: En noddiray mo Ouédraogo, koyɗol gorko, ngam non en siftoroy koyɗel ngol hoodi yam haa maaɗa.
+enregistre_fuf: yennenga-fin1-fuf.m4a (8192ms)
+texte_mos: D na n boola-a lame t'a Ouédraogo, rat n yeel tɩ rao wã wedã. D tẽegda wedã sẽn tall maam n wa yãmb nengẽ wã yelle.
+enregistre_mos: yennenga-fin1-mos.m4a (9210ms)
 
 piste: explore3
 histoire: La légende de Yennenga
@@ -319,6 +431,10 @@ texte: Regarde le village qui grandit autour d'eux.
 genre: adulte/homme
 duree: 2960ms (estimée)
 texte_en: Look at the village growing around them.
+texte_fuf: Ndaa gariiri ɓurɗo mawnude dow maɓɓe.
+enregistre_fuf: yennenga-explore3-fuf.m4a (2624ms)
+texte_mos: Ges-y tẽn-gãongã sẽn wat ne bãmba.
+enregistre_mos: yennenga-explore3-mos.m4a (2992ms)
 
 piste: fin2
 histoire: La légende de Yennenga
@@ -330,6 +446,10 @@ texte: Ouédraogo deviendra l'ancêtre des Mossi. Et aujourd'hui encore, à Ouag
 genre: adulte/homme
 duree: 8500ms (estimée)
 texte_en: Ouedraogo will become the ancestor of the Mossi. And to this day, in Ouagadougou, the grand prize of FESPACO is called the Golden Stallion of Yennenga.
+texte_fuf: Ouédraogo laatoto baaba Mossi'en. Haa jooni, nder Ouagadougou, jaaynde FESPACO biyeteeɗo Yennenga Gold Stallion.
+enregistre_fuf: yennenga-fin2-fuf.m4a (8410ms)
+texte_mos: A Ouédraogo na n lebga Mossi rãmbã yaab. La hal rũndã-rũndã, b ket n boond a FESPACO kũun ning sẽn be Ouagadougou wã tɩ Yennenga sãnem soaalã.
+enregistre_mos: yennenga-fin2-mos.m4a (12666ms)
 
 piste: fin3
 histoire: La légende de Yennenga
@@ -341,6 +461,10 @@ texte: Mon conte s'arrête ici. Celui qui l'a entendu doit le raconter à son to
 genre: adulte/homme
 duree: 5920ms (estimée)
 texte_en: My tale ends here. Whoever has heard it must tell it in turn.
+texte_fuf: Haala am timmi ɗo. Koo moye nanɗo ɗum, sey o wi'a yimɓe.
+enregistre_fuf: yennenga-fin3-fuf.m4a (5242ms)
+texte_mos: Rẽ n so tɩ mam kibarã sa. Bɩ ned ning sẽn wʋm-a wã me togs a soaba.
+enregistre_mos: yennenga-fin3-mos.m4a (5578ms)
 
 piste: film-001
 histoire: La légende de Yennenga
@@ -351,6 +475,8 @@ intonation: solennel (scénario)
 texte: Yennenga, la princesse cavalière. Une légende mossi.
 genre: adulte/libre
 duree: 5600ms (mesurée sur le film)
+texte_fuf: Yennenga, laamiiɗo mawɗo. Fedde moƴƴere.
+texte_mos: Yaa a Yennenga, rĩm-poak ning sẽn kẽed ne soaalã. Yaa moos-rãmbã lagem-n-taar.
 
 piste: film-002
 histoire: La légende de Yennenga
@@ -361,6 +487,8 @@ intonation: posé (proposée)
 texte: À Gambaga, en pays dagomba, régnait le roi Nedega.
 genre: adulte/libre
 duree: 4400ms (mesurée sur le film)
+texte_fuf: Nder lesdi Gambaga, nder lesdi dagomba, laamiiɗo Nedega ummini.
+texte_mos: A Nedega naam da yaa Gambaga, Dagomba soolmẽ.
 
 piste: film-003
 histoire: La légende de Yennenga
@@ -371,6 +499,8 @@ intonation: posé (proposée)
 texte: Il était fier de sa fille. Plus fier d'elle que de tous ses guerriers.
 genre: adulte/libre
 duree: 5100ms (mesurée sur le film)
+texte_fuf: O ɗon teddina ɓiɗɗo maako. Ɓeydi mawnugo dow maako, ɓurɗum fuu konu'en.
+texte_mos: A ra maanda sũ-noog ne a bi-puglã. A sũur yɩɩ noog ne-a n yɩɩd a sodaasã fãa.
 
 piste: film-004
 histoire: La légende de Yennenga
@@ -381,6 +511,8 @@ intonation: enlevé (scénario)
 texte: Yennenga menait les cavaliers. Personne ne montait comme elle, et personne ne chargeait comme elle.
 genre: adulte/libre
 duree: 6000ms (mesurée sur le film)
+texte_fuf: Yennenga woni ardiiɗo hawrotooɓe. Walaa goɗɗo mo nandi bee maako, walaa mo nandi e maako.
+texte_mos: Yaa a Yennenga n lʋɩt so-pakdbã taoor. Ned baa a yen ka zẽkd wa yẽ ye, la ned ba a yen pa zɩt wa yẽnda ye.
 
 piste: film-005
 histoire: La légende de Yennenga
@@ -391,6 +523,8 @@ intonation: fort (scénario)
 texte: Les ennemis la voyaient et prenaient la fuite.
 genre: adulte/libre
 duree: 3100ms (mesurée sur le film)
+texte_fuf: Yimɓe konne'en ɓe ngi'i mo, ɓe ndilli.
+texte_mos: B bɛɛbã yãe-a lame n zoe.
 
 piste: film-006
 histoire: La légende de Yennenga
@@ -401,6 +535,8 @@ intonation: joyeux (scénario)
 texte: Chaque fois, elle revenait en triomphe devant son père.
 genre: adulte/libre
 duree: 4100ms (mesurée sur le film)
+texte_fuf: Ngam maajum o wurtini baaba maako nder jaalorgal.
+texte_mos: Wakat ning fãa, a ra lebda a ba wã taoore n tõoge.
 
 piste: film-007
 histoire: La légende de Yennenga
@@ -411,6 +547,8 @@ intonation: fier et grave (scénario)
 texte: Père, je veux me marier, et avoir des enfants.
 genre: adulte/femme
 duree: 4000ms (mesurée sur le film)
+texte_fuf: Baabiraawo, mi yiɗi dewta, e woodi ɓiɓɓe.
+texte_mos: Ba, mam dat n kẽe kãadem la m dog kamb.
 
 piste: film-008
 histoire: La légende de Yennenga
@@ -421,6 +559,8 @@ intonation: sans appel (scénario)
 texte: Tu es trop précieuse au combat. C'est non.
 genre: âgé/libre
 duree: 4000ms (mesurée sur le film)
+texte_fuf: On ɗon mari sembe masin ngam haɓugo. Walaa.
+texte_mos: Fo tara yõod wʋsg zab-teedã pʋgẽ. Yaa sɩd tɩ pa woto ye.
 
 piste: film-009
 histoire: La légende de Yennenga
@@ -431,6 +571,8 @@ intonation: triste (scénario)
 texte: Elle insista, encore et encore. Il ne céda jamais.
 genre: adulte/libre
 duree: 5100ms (mesurée sur le film)
+texte_fuf: O torraaki, haa e ɗon. O yejjitataa.
+texte_mos: A yeela woto naoor wʋsgo. A ra pa tol n bas-a ye.
 
 piste: film-010
 histoire: La légende de Yennenga
@@ -441,6 +583,8 @@ intonation: posé (proposée)
 texte: Alors elle sema un champ d'okra, tout près du palais.
 genre: adulte/libre
 duree: 3800ms (mesurée sur le film)
+texte_fuf: Sey o jippini haa nokkuure ɓadake laamiiɗo.
+texte_mos: Rẽ n so t'a pagã bʋd a Okra pʋʋgẽ, roogã sɛɛgẽ.
 
 piste: film-011
 histoire: La légende de Yennenga
@@ -451,6 +595,8 @@ intonation: posé (proposée)
 texte: Le champ mûrit, puis se fana. Elle ne le récolta pas. Le message était clair : on ne laisse pas pourrir ce qui est mûr.
 genre: adulte/libre
 duree: 8900ms (mesurée sur le film)
+texte_fuf: Luttuɗum ɓanngini, ɓaawo maajum maaki. O jaɓataa ɗum. Ko o wi'i ɗon laaɓti: "Ɗum ɓeydaaki".
+texte_mos: Kẽerã bɩame, la b kʋɩɩme. A pa wʋk-a ye. Gomdã ra yaa vẽenega: ned pa segd n bas tɩ bũmb nins sẽn bɩ wã sãam ye.
 
 piste: film-012
 histoire: La légende de Yennenga
@@ -461,6 +607,8 @@ intonation: posé (proposée)
 texte: Mais le roi ne voulut pas comprendre.
 genre: adulte/libre
 duree: 2900ms (mesurée sur le film)
+texte_fuf: Ammaa laamiiɗo yi'aayi faamu.
+texte_mos: La rĩmã ra pa rat n wʋm a võore.
 
 piste: film-013
 histoire: La légende de Yennenga
@@ -471,6 +619,8 @@ intonation: chuchoté (scénario)
 texte: Une nuit, Yennenga sella son étalon blanc, et elle quitta Gambaga.
 genre: adulte/libre
 duree: 5100ms (mesurée sur le film)
+texte_fuf: Nder jemma go'o, Yennenga dartini sooje maako jeɗɗi, nden o wurti Gambaga.
+texte_mos: Daar a ye yʋngo, a Yennenga kẽnga a wed-bil sẽn yaa pemse, n yi Gambaga.
 
 piste: film-014
 histoire: La légende de Yennenga
@@ -481,6 +631,8 @@ intonation: enlevé (scénario)
 texte: Elle galopa sous la lune, sans se retourner.
 genre: adulte/libre
 duree: 3200ms (mesurée sur le film)
+texte_fuf: O dilli dow lewru, o yahrataa.
+texte_mos: A ra gũuda kiuugã pʋgẽ n pa wẽnemd a meng ye.
 
 piste: film-015
 histoire: La légende de Yennenga
@@ -491,6 +643,8 @@ intonation: posé (proposée)
 texte: L'étalon l'emporta très loin, jusqu'à une forêt qu'elle ne connaissait pas.
 genre: adulte/libre
 duree: 4800ms (mesurée sur le film)
+texte_fuf: Ɗuum waɗi o yaari haa nokkuure nde o anndaa.
+texte_mos: A sẽn yã bũmb ningã kɩtame t'a kẽng zĩig sẽn zãre, zĩig a sẽn da pa mi.
 
 piste: film-016
 histoire: La légende de Yennenga
@@ -501,6 +655,8 @@ intonation: chuchoté (scénario)
 texte: Épuisée, elle descendit. Un homme approcha, l'arc tendu.
 genre: adulte/libre
 duree: 5900ms (mesurée sur le film)
+texte_fuf: O ɓeydii, o dilli. Sey goɗɗo ɓaditoo to maako.
+texte_mos: A sẽn wa n beẽ wã, a ra yɛɛsame. Ned n kolgame, t'a tãag-a lame.
 
 piste: film-017
 histoire: La légende de Yennenga
@@ -511,6 +667,8 @@ intonation: surpris (scénario)
 texte: Qui es-tu ? Que fais-tu ici ?
 genre: adulte/homme
 duree: 2400ms (mesurée sur le film)
+texte_fuf: Moy woni? Ko honɗun waɗi ɗo?
+texte_mos: Yãmb yaa ãnna? Fo maanda bõe be?
 
 piste: film-018
 histoire: La légende de Yennenga
@@ -521,6 +679,8 @@ intonation: digne (scénario)
 texte: Je m'appelle Yennenga. J'ai tout quitté.
 genre: adulte/femme
 duree: 2900ms (mesurée sur le film)
+texte_fuf: Innde am Yennenga. Mi acci koo ɗume.
+texte_mos: Mam yʋʋr la a Yennenga. Mam basa bũmb fãa.
 
 piste: film-019
 histoire: La légende de Yennenga
@@ -531,6 +691,8 @@ intonation: doux (scénario)
 texte: Reste, ici tu es en paix.
 genre: adulte/homme
 duree: 2500ms (mesurée sur le film)
+texte_fuf: To'o jooɗoto, to'o ɗon nder jam.
+texte_mos: Dɩɩ-y n zĩnd be, la y na n paama laafɩ.
 
 piste: film-020
 histoire: La légende de Yennenga
@@ -541,6 +703,8 @@ intonation: tendre (scénario)
 texte: C'était Rialé, un chasseur solitaire. Ils s'aimèrent, et un fils naquit.
 genre: adulte/libre
 duree: 6300ms (mesurée sur le film)
+texte_fuf: Kanko woni Rialé, mawɗo duɗal gootol. Ɓe ngiɗi, ɓe ngoodi ɓiɗɗo gorko.
+texte_mos: A ra yaa Rialé, zĩ-yũud a ye. B ra nong taaba, tɩ b dog bi-ribl.
 
 piste: film-021
 histoire: La légende de Yennenga
@@ -551,6 +715,8 @@ intonation: heureux (scénario)
 texte: Il s'appellera Ouédraogo : l'étalon.
 genre: adulte/homme
 duree: 3200ms (mesurée sur le film)
+texte_fuf: O noddiray wi'eteeɗo Ouédraogo.
+texte_mos: A yʋʋr na n yɩɩ Ouédraogo.
 
 piste: film-022
 histoire: La légende de Yennenga
@@ -561,6 +727,8 @@ intonation: posé (proposée)
 texte: Ainsi, l'enfant porta le nom du cheval qui avait conduit sa mère jusque-là.
 genre: adulte/libre
 duree: 5100ms (mesurée sur le film)
+texte_fuf: Ngam maajum ɓiyiiko o noddiri ko'e maako.
+texte_mos: A Zezi yeel-b lame yaa: "Bɩ y bãng tɩ m na n dɩka bi-riblã, la b kõ-y sũ-noogo".
 
 piste: film-023
 histoire: La légende de Yennenga
@@ -571,6 +739,8 @@ intonation: posé (proposée)
 texte: Les années passèrent. Yennenga revint enfin à Gambaga avec son fils.
 genre: adulte/libre
 duree: 5800ms (mesurée sur le film)
+texte_fuf: Too, duuɓi ɗuuɗɗi naati. Yennenga wartii Gambaga bee ɓiɗɗo maako.
+texte_mos: Yʋʋmã loogame. A Yennenga wa n lebg n waa Gambaga ne a bi-riblã.
 
 piste: film-024
 histoire: La légende de Yennenga
@@ -581,6 +751,8 @@ intonation: ému (scénario)
 texte: Le vieux roi la reconnut. Il lui pardonna, et il accueillit son petit-fils.
 genre: adulte/libre
 duree: 6000ms (mesurée sur le film)
+texte_fuf: Laamiiɗo mawɗo on anndi mo. O yaafani mo, o jaɓii ɓiyum maako.
+texte_mos: La rĩm-gãsenga bãngame t'a pagã yaa a soaba. A Zeova kõ-a-la sugri, n deeg a bi-puglã.
 
 piste: film-025
 histoire: La légende de Yennenga
@@ -591,6 +763,8 @@ intonation: posé (proposée)
 texte: Il donna à Ouédraogo des chevaux et des guerriers.
 genre: adulte/libre
 duree: 3500ms (mesurée sur le film)
+texte_fuf: O hokki Ouédraogo koyɗe e konu.
+texte_mos: A kõo a Ouédraogo so-rãmb la sodaasã.
 
 piste: film-026
 histoire: La légende de Yennenga
@@ -601,3 +775,5 @@ intonation: solennel (scénario)
 texte: Ainsi commença l'histoire d'Ouédraogo, l'ancêtre des Mossi.
 genre: adulte/libre
 duree: 4700ms (mesurée sur le film)
+texte_fuf: Ɗon woni fuɗɗam taariika Ouedraogo, ardiiɗo ummaatoore Mossi.
+texte_mos: Rẽ n so t'a Ouedraogo, a Mozi rãmbã yaab-rãmbã kibar sɩngre.

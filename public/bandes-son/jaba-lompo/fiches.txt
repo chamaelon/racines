@@ -10,6 +10,10 @@ intonation: solennel (proposée)
 texte: Les traditions ne s'accordent pas sur l'origine des Gulmancé. Selon l'une d'elles, Jaba Lompo descendit du ciel sur un cheval blanc, au treizième siècle.
 genre: adulte/homme
 duree: 10020ms (estimée)
+texte_fuf: Aadaaji feere-feere dow ko Gulmance'en fuɗɗii. Gooto nder maɓɓe wi'i Jaba Lompo wari diga asama dow kawal weelo, nder karnuuji 13th.
+enregistre_fuf: jaba-lompo-n1-fuf.m4a (9818ms)
+texte_mos: Gullmanse rãmbã sẽn yi zĩig ningã pa zemsd taab ye. A yembr yeelame t'a Jaba Lompo yii saasẽ n kẽed wed-bil sẽn yaa pemse, yʋʋm kob-gĩnd 13 soabã pʋgẽ.
+enregistre_mos: jaba-lompo-n1-mos.m4a (13690ms)
 
 piste: n2
 histoire: Jaba Lompo, le devin ancêtre
@@ -20,6 +24,10 @@ intonation: solennel (proposée)
 texte: Celle que voici n'est pas la seule. Écoute-la comme on écoute un voisin.
 genre: adulte/homme
 duree: 5540ms (estimée)
+texte_fuf: Ammaa gooduɗo ɗo'o tan walaa. Njaŋge no njaŋganirɗon ɓerɗe mooɗon.
+enregistre_fuf: jaba-lompo-n2-fuf.m4a (5722ms)
+texte_mos: La pa a yembr bal n be woto ye. D kelgd-a-la wa d sẽn kelgd d yagengã.
+enregistre_mos: jaba-lompo-n2-mos.m4a (4698ms)
 
 piste: n3
 histoire: Jaba Lompo, le devin ancêtre
@@ -30,6 +38,10 @@ intonation: posé (proposée)
 texte: Qui est ce géant ? Il n'a rien à faire ici. Un enfant est malade, et on n'a pas le temps pour les étrangers.
 genre: adulte/homme
 duree: 10170ms (estimée)
+texte_fuf: Moy woni mawɗo on? O walaa ko waɗata haa ɗo. Ɓiɗɗo on ɗon nyawdi, nden kam en ngalaa wakkati ngam yimɓe ɓe anndaa.
+enregistre_fuf: jaba-lompo-n3-fuf.m4a (8900ms)
+texte_mos: Ãnd n yaa gãenkã? A pa segd n zĩnd be ye. Bi-ribl n yaa bãad la d pa tar sẽk ne sãambã ye.
+enregistre_mos: jaba-lompo-n3-mos.m4a (7764ms)
 
 piste: n4
 histoire: Jaba Lompo, le devin ancêtre
@@ -40,6 +52,10 @@ intonation: interrogatif (proposée)
 texte: Tu es au village. Que proposes-tu ?
 genre: adulte/homme
 duree: 3260ms (estimée)
+texte_fuf: On ɗon nder gariiri. Hol ko mbi'oton?
+enregistre_fuf: jaba-lompo-n4-fuf.m4a (3722ms)
+texte_mos: Yãmb bee tẽngẽ wã. Bõe la y rat n maane?
+enregistre_mos: jaba-lompo-n4-mos.m4a (3498ms)
 
 piste: renvoi
 histoire: Jaba Lompo, le devin ancêtre
@@ -50,6 +66,10 @@ intonation: posé (proposée)
 texte: On lui montre le chemin. Il repart sans un mot, et on ne saura jamais ce qu'il savait. Ce chemin n'est pas la tradition rapportée ici.
 genre: adulte/homme
 duree: 10930ms (estimée)
+texte_fuf: En hollata mo laawol. O dilli walaa wolde, nden kam en anndaay ko o andi. Ɗuum laawol naa' ɗum habaru ɗo.
+enregistre_fuf: jaba-lompo-renvoi-fuf.m4a (8308ms)
+texte_mos: D wilgd-a-la sorã. A loogame n pa le gomd ye, la d pa na n bãng a sẽn da mi bũmb ningã ye. Woto pa sor ning b sẽn kõ-d ka wã ye.
+enregistre_mos: jaba-lompo-renvoi-mos.m4a (11028ms)
 
 piste: enfant
 histoire: Jaba Lompo, le devin ancêtre
@@ -60,6 +80,10 @@ intonation: posé (proposée)
 texte: Amenez-moi cet enfant.
 genre: âgé/homme
 duree: 1440ms (estimée)
+texte_fuf: Ngaree to am ɓiɗɗo on.
+enregistre_fuf: jaba-lompo-enfant-fuf.m4a (1408ms)
+texte_mos: Tall-y biigã n wa ne maam.
+enregistre_mos: jaba-lompo-enfant-mos.m4a (2112ms)
 
 piste: n5
 histoire: Jaba Lompo, le devin ancêtre
@@ -70,6 +94,10 @@ intonation: posé (proposée)
 texte: Il se penche sur l'enfant malade, et l'enfant se relève. Alors on l'écoute. Il jette les cauris, et il lit l'avenir dans leur chute.
 genre: adulte/homme
 duree: 10320ms (estimée)
+texte_fuf: O yaari ɓiɗɗo mo nyawɗo on, o ummii. Ngam maajum en nana ɗum. O ɗon hoola ɓikkoy maako, o ɗon yi'a ko waɗata yeeso nder saɗugo maɓɓe.
+enregistre_fuf: jaba-lompo-n5-fuf.m4a (9700ms)
+texte_mos: A wõgemda bi-riblã zugu, t'a yikame. Woto yĩnga, bɩ d kelg-a. A lobda bõn-naandsã, la a geta b sẽn na n wa yɩ to-to wã.
+enregistre_mos: jaba-lompo-n5-mos.m4a (11220ms)
 
 piste: n7
 histoire: Jaba Lompo, le devin ancêtre
@@ -80,6 +108,10 @@ intonation: posé (proposée)
 texte: Là-bas, sur la colline, s'élèvera votre ville.
 genre: âgé/homme
 duree: 3260ms (estimée)
+texte_fuf: Ɗon ɗon dow hooseere, gariiri mooɗon ɓadake.
+enregistre_fuf: jaba-lompo-n7-fuf.m4a (3056ms)
+texte_mos: Yãmb tẽngã na n yɩɩ tãnga zugu.
+enregistre_mos: jaba-lompo-n7-mos.m4a (3120ms)
 
 piste: n8
 histoire: Jaba Lompo, le devin ancêtre
@@ -90,6 +122,10 @@ intonation: posé (proposée)
 texte: Il marche jusqu'à ce lieu et plante son bâton : ici sera la ville. Ce fut Bingo, qui deviendra Fada N'Gourma. Les maisons montent autour du bâton.
 genre: adulte/homme
 duree: 11460ms (estimée)
+texte_fuf: O wari haa nokkuure nde'e, o wurtini maɓɓere maako. Ɗon woni gariiri. Kanjum woni bingo, mo laato Fada N'Gourma. Duuɗe ɗon ɓadito dow maare.
+enregistre_fuf: jaba-lompo-n8-fuf.m4a (11390ms)
+texte_mos: La b na n kẽnga tẽn-kãnga, la b gãnegd b raadã. Yaa Bingo, sẽn na n lebg Fada N'Gourma wã. Yãk-y n tool-y neda Bãng-y bũmb nins b sẽn yeel tɩ b tõe n maan to-to wã
+enregistre_mos: jaba-lompo-n8-mos.m4a (14788ms)
 
 piste: n9
 histoire: Jaba Lompo, le devin ancêtre
@@ -100,6 +136,10 @@ intonation: interrogatif (proposée)
 texte: On vient de loin pour le consulter. Il est à la fois devin et chef. Ses fils ont grandi. Que leur demande-t-il ?
 genre: adulte/homme
 duree: 9940ms (estimée)
+texte_fuf: En ngari haa nokkuure woɗɗi ngam en ndaara mo. Kanko woni laamiiɗo e hooreejo. Ɓiɓɓe maako mawni. Hol ko o yiɗi ɓe?
+enregistre_fuf: jaba-lompo-n9-fuf.m4a (10158ms)
+texte_mos: Tõnd yii zĩis wʋsg n na n tɩ ges-a. A yaa bãngd la taoor soaba. A kom-dibli wã bɩɩme. Bõe la a kot-b tɩ b maane?
+enregistre_mos: jaba-lompo-n9-mos.m4a (8862ms)
 
 piste: rester
 histoire: Jaba Lompo, le devin ancêtre
@@ -110,6 +150,10 @@ intonation: posé (proposée)
 texte: Père, la colline est petite, et nous sommes nombreux. Laisse-nous aller.
 genre: adulte/homme
 duree: 5080ms (estimée)
+texte_fuf: Nyaako am, dow hooseere ɗum ɗuuɗɗum, ammaa en ɗuuɗɓe. Hokka en njaha.
+enregistre_fuf: jaba-lompo-rester-fuf.m4a (6394ms)
+texte_mos: M ba, tãnga yaa bilfu, la tõnd sõor yaa wʋsgo. Bas-y tɩ d looge.
+enregistre_mos: jaba-lompo-rester-mos.m4a (6170ms)
 
 piste: n10
 histoire: Jaba Lompo, le devin ancêtre
@@ -120,6 +164,10 @@ intonation: posé (proposée)
 texte: Jaba Lompo sourit. C'est bien ce qu'il voulait entendre.
 genre: adulte/homme
 duree: 4020ms (estimée)
+texte_fuf: Jaba Lompo ɗon ummii. Ɗum woni ko o yiɗi nani.
+enregistre_fuf: jaba-lompo-n10-fuf.m4a (3898ms)
+texte_mos: A Jaba Lompo puka a nengẽ. Yaa woto la a ra rat n wʋm.
+enregistre_mos: jaba-lompo-n10-mos.m4a (4794ms)
 
 piste: fonder
 histoire: Jaba Lompo, le devin ancêtre
@@ -130,6 +178,10 @@ intonation: posé (proposée)
 texte: Mes fils, fondez d'autres royaumes.
 genre: âgé/homme
 duree: 2350ms (estimée)
+texte_fuf: Ɓiɓɓe am, njooɗee laamiije goɗɗe.
+enregistre_fuf: jaba-lompo-fonder-fuf.m4a (2912ms)
+texte_mos: M kom-bõonego, bɩ y maneg soolem a taabã.
+enregistre_mos: jaba-lompo-fonder-mos.m4a (3360ms)
 
 piste: n11
 histoire: Jaba Lompo, le devin ancêtre
@@ -140,6 +192,10 @@ intonation: posé (proposée)
 texte: Ils partent dans des directions différentes, pour étendre le pays gulmancé. Fada N'Gourma se souvient de son fondateur.
 genre: adulte/homme
 duree: 7590ms (estimée)
+texte_fuf: Ɓe ndilli haa nokkuure feere feere, ngam ɓe ɓesda lesdi. Fada N'Gourma ɗon yejjita mo fuɗɗitiiɗo.
+enregistre_fuf: jaba-lompo-n11-fuf.m4a (6826ms)
+texte_mos: B kẽnga zĩis a taab n na n paas tẽn-gãongã. A Fada N'Gourma tẽra a sẽn lugl-a wã.
+enregistre_mos: jaba-lompo-n11-mos.m4a (8010ms)
 
 piste: n12
 histoire: Jaba Lompo, le devin ancêtre
@@ -150,6 +206,10 @@ intonation: posé (proposée)
 texte: C'est une tradition parmi d'autres, et elle mérite d'être écoutée. Chaque peuple garde son propre récit des commencements.
 genre: adulte/homme
 duree: 7590ms (estimée)
+texte_fuf: Kanjum woni al'aadaaji feere-feere. Yimɓe fuu mbaɗata haala maɓɓe dow fuɗɗam.
+enregistre_fuf: jaba-lompo-n12-fuf.m4a (5866ms)
+texte_mos: Yaa bũmb a taab me la d segd n tũ. Tẽns fãa tara b meng kibar sẽn gomd sɩngrẽ wã yelle.
+enregistre_mos: jaba-lompo-n12-mos.m4a (6266ms)
 
 piste: film-001
 histoire: Jaba Lompo, le devin ancêtre
@@ -160,6 +220,8 @@ intonation: solennel (scénario)
 texte: Jaba Lompo, le devin ancêtre. Une légende gulmancé.
 genre: adulte/libre
 duree: 5500ms (mesurée sur le film)
+texte_fuf: Jaba Lompo, jaagorɗo mawɗo. Gooto gooduɗo ko'e maɓɓe.
+texte_mos: A Jaba Lompo, sẽn yaa pĩnd-n-bãngdã. Bãngr-gomd a ye.
 
 piste: film-002
 histoire: Jaba Lompo, le devin ancêtre
@@ -170,6 +232,8 @@ intonation: posé (proposée)
 texte: Les traditions ne s'accordent pas sur l'origine des Gulmancé. Certaines refusent de les lier aux Mossi, et parlent d'un homme venu d'ailleurs.
 genre: adulte/libre
 duree: 8600ms (mesurée sur le film)
+texte_fuf: Aadaaji feere-feere dow ko Gulmance'en fuɗɗii. Woɓɓe maɓɓe ɓe njaɓaayi bandugo ɓe bee Musa, ammaa ɓe mbi'i dow goɗɗo ƴiwoyi daga woɗɓe.
+texte_mos: Gullmanse rãmbã sẽn yi zĩig ningã pa zemsd taab ye. Neb kẽer pa sak n loe-b ne a Moyiis ye, la b gomda rao sẽn yi zĩig a to yelle.
 
 piste: film-003
 histoire: Jaba Lompo, le devin ancêtre
@@ -180,6 +244,8 @@ intonation: mystérieux (scénario)
 texte: Selon l'une d'elles, Jaba Lompo descendit du ciel sur un cheval blanc.
 genre: adulte/libre
 duree: 4800ms (mesurée sur le film)
+texte_fuf: Gooto nder maɓɓe wi'i Jaba Lompo ɗon dari diga asama e koyngal sendundu.
+texte_mos: A yembr yeelame t'a Jaba Lompo yii saasẽ n zao wed-bil sẽn yaa pemse.
 
 piste: film-004
 histoire: Jaba Lompo, le devin ancêtre
@@ -190,6 +256,8 @@ intonation: posé (proposée)
 texte: Il arriva au pays de l'Est, au treizième siècle.
 genre: adulte/libre
 duree: 3800ms (mesurée sur le film)
+texte_fuf: O wari nder lesdi fuunaaŋge nder karnuwol sappo e tati.
+texte_mos: A wa n waa tẽns nins sẽn be Eastern soolmẽ wã yʋʋm kob-gĩnd 13 soabã pʋgẽ.
 
 piste: film-005
 histoire: Jaba Lompo, le devin ancêtre
@@ -200,6 +268,8 @@ intonation: posé (proposée)
 texte: Les gens se méfiaient de ce géant étranger.
 genre: adulte/libre
 duree: 3200ms (mesurée sur le film)
+texte_fuf: Yimɓe ɓeen ɗon mbaɗata ko'e maɓɓe.
+texte_mos: Nebã ra gũusda ne tẽn-zẽng nin-kãnga.
 
 piste: film-006
 histoire: Jaba Lompo, le devin ancêtre
@@ -210,6 +280,8 @@ intonation: doux (scénario)
 texte: Amenez-moi cet enfant.
 genre: esprit, créature : voix grave/libre
 duree: 2400ms (mesurée sur le film)
+texte_fuf: Ngaree to am ɓiɗɗo on.
+texte_mos: Tall-y biigã n wa ne maam.
 
 piste: film-007
 histoire: Jaba Lompo, le devin ancêtre
@@ -220,6 +292,8 @@ intonation: ému (scénario)
 texte: Il se pencha sur un enfant malade, et l'enfant se releva. Alors on l'écouta.
 genre: adulte/libre
 duree: 6100ms (mesurée sur le film)
+texte_fuf: Sey o yaari ɓiɗɗo mo nyawɗo, ɓikkoy maako ummii. Ngam maajum min nana mo.
+texte_mos: A Zezi wõgemdame n gãneg bi-riblã zugu, la biigã yikame. Rẽ n so tɩ d kelg-a lame.
 
 piste: film-008
 histoire: Jaba Lompo, le devin ancêtre
@@ -230,6 +304,8 @@ intonation: posé (proposée)
 texte: Il jetait les cauris, et il lisait l'avenir dans leur chute.
 genre: adulte/libre
 duree: 4100ms (mesurée sur le film)
+texte_fuf: O ɗon maɓɓita ko'e maɓɓe, o ɗon wi'a yeeso nder ɓoggi maɓɓe.
+texte_mos: A ra lobda rũmsã, la a ra karemda beoog-daare b sã n wa lʋɩt taoore.
 
 piste: film-009
 histoire: Jaba Lompo, le devin ancêtre
@@ -240,6 +316,8 @@ intonation: mystérieux (scénario)
 texte: Une vision lui apparut : une ville sur une colline.
 genre: adulte/libre
 duree: 3700ms (mesurée sur le film)
+texte_fuf: O yi'i gariiri dow hooseere.
+texte_mos: A yãee yel-bũnd n yã tẽng sẽn be tãnga zugu.
 
 piste: film-010
 histoire: Jaba Lompo, le devin ancêtre
@@ -250,6 +328,8 @@ intonation: inspiré (scénario)
 texte: Là-bas, sur la colline, s'élèvera votre ville.
 genre: esprit, créature : voix grave/libre
 duree: 4000ms (mesurée sur le film)
+texte_fuf: Ɗon ɗon dow hooseere, gariiri mooɗon ɓadake.
+texte_mos: Yãmb tẽngã na n yɩɩ tãnga zugu.
 
 piste: film-011
 histoire: Jaba Lompo, le devin ancêtre
@@ -260,6 +340,8 @@ intonation: posé (proposée)
 texte: Il marcha jusqu'à ce lieu et planta son bâton : ici sera la ville.
 genre: adulte/libre
 duree: 4800ms (mesurée sur le film)
+texte_fuf: O yahi haa nokkuure nde'e, o wurtini laami maako, o wi'i: "Ɗum woni gariiri".
+texte_mos: A Zozɛf kẽngame n ta zĩig ning b sẽn da beẽ wã, la a gãda a raad n yeel tɩ yaa tẽn-kãnga.
 
 piste: film-012
 histoire: Jaba Lompo, le devin ancêtre
@@ -270,6 +352,8 @@ intonation: posé (proposée)
 texte: Ce fut Bingo, qui deviendra Fada N'Gourma.
 genre: adulte/libre
 duree: 3800ms (mesurée sur le film)
+texte_fuf: Kanjum woni bingo, mo laato Fada N'Gourma.
+texte_mos: Yaa Bingo, sẽn na n lebg Fada N'Gourma wã.
 
 piste: film-013
 histoire: Jaba Lompo, le devin ancêtre
@@ -280,6 +364,8 @@ intonation: posé (proposée)
 texte: Les maisons montèrent autour du bâton.
 genre: adulte/libre
 duree: 2900ms (mesurée sur le film)
+texte_fuf: Duuɗe ɗon ɓadito dow maɓɓere.
+texte_mos: Yãk-y n tool-y neda.
 
 piste: film-014
 histoire: Jaba Lompo, le devin ancêtre
@@ -290,6 +376,8 @@ intonation: posé (proposée)
 texte: Jaba Lompo y siégea, à la fois devin et chef.
 genre: adulte/libre
 duree: 4000ms (mesurée sur le film)
+texte_fuf: Jaba Lompo jooɗii ton, kanko e hooreejo.
+texte_mos: A Jaba Lompo zĩnda be, la a ra yaa bãngd la taoor soaba.
 
 piste: film-015
 histoire: Jaba Lompo, le devin ancêtre
@@ -300,6 +388,8 @@ intonation: posé (proposée)
 texte: On venait de loin pour le consulter.
 genre: adulte/libre
 duree: 2900ms (mesurée sur le film)
+texte_fuf: En ngari diga toɗɗaaɗe ngam en ndaara mo.
+texte_mos: Tõnd yii tẽn-zãrse n na n ges-a.
 
 piste: film-016
 histoire: Jaba Lompo, le devin ancêtre
@@ -310,6 +400,8 @@ intonation: paternel (scénario)
 texte: Mes fils, fondez d'autres royaumes.
 genre: esprit, créature : voix grave/libre
 duree: 3200ms (mesurée sur le film)
+texte_fuf: Ɓiɓɓe am, njooɗee laamiije goɗɗe.
+texte_mos: M kom-bõonego, bɩ y maneg soolem a taabã.
 
 piste: film-017
 histoire: Jaba Lompo, le devin ancêtre
@@ -320,6 +412,8 @@ intonation: posé (proposée)
 texte: Et ses fils partirent dans des directions différentes, pour étendre le pays gulmancé.
 genre: adulte/libre
 duree: 5300ms (mesurée sur le film)
+texte_fuf: Ɓiɓɓe maako boo ɓe njehi haa nokkuure feere-feere ngam ɓe ɓesda lesdi.
+texte_mos: A yagensã kẽnga zĩis a taab n na n paas tẽnga pʋga.
 
 piste: film-018
 histoire: Jaba Lompo, le devin ancêtre
@@ -330,3 +424,5 @@ intonation: doux (scénario)
 texte: Aujourd'hui, Fada N'Gourma se souvient de son fondateur. C'est une tradition parmi d'autres, et elle mérite d'être écoutée.
 genre: adulte/libre
 duree: 8800ms (mesurée sur le film)
+texte_fuf: Hannde, Fada N'Gourma ɗon siftora mo fuɗɗiiɗo. Kanjum woni al'aadaaji feere-feere.
+texte_mos: Rũndã-rũndã, a Fada N'Gourma tẽegda a sẽn lugl-a wã yelle. Yaa bũmb a taab me la d segd n tũ.

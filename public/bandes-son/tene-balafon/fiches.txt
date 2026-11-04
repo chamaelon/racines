@@ -10,6 +10,10 @@ intonation: posé (proposée)
 texte: Le soir, au village, le vieux Ziè jouait du balafon. Et Téné dansait. Regarde l'instrument.
 genre: adulte/homme
 duree: 6900ms (estimée)
+texte_dyu: Sɔgɔma wulafɛ, Ziè tun be balafɔni kɛra dugu kɔnɔ. O kɔ, Téné tun be dansi kɛra. A filɛ o fɔlifɛn ye min ye.
+enregistre_dyu: tene-balafon-n1-dyu.m4a (10724ms)
+texte_fuf: Nder jemma nder gariiri, Ziè mawɗo ɗon mooɓta balafon. Téné boo ɗon yaha. Ndaa kuugal ngal.
+enregistre_fuf: tene-balafon-n1-fuf.m4a (7716ms)
 
 piste: n2
 histoire: Téné et le balafon des génies
@@ -20,6 +24,10 @@ intonation: posé (proposée)
 texte: Une nuit, une autre musique monte de la brousse, plus belle que celle de Ziè. Téné se lève sans bruit. Elle part vers le son.
 genre: adulte/homme
 duree: 10700ms (estimée)
+texte_dyu: Lon dɔ su fɛ, dɔnkiri wɛrɛ bɔra yiritunin kɔnɔ; a ka ɲi ni Zi ta ye. Téné be wuli ni mankan tɛ. A be taga mankan fɛ.
+enregistre_dyu: tene-balafon-n2-dyu.m4a (9582ms)
+texte_fuf: Nder jemma go'oto, yiite ɓurɗo yiite Si'a ɗon wurta nder leɗɗe. Téné ɗon ummitoo ngam walaa ko waawata. O ɗon yahda to waawde.
+enregistre_fuf: tene-balafon-n2-fuf.m4a (8996ms)
 
 piste: n3
 histoire: Téné et le balafon des génies
@@ -30,6 +38,10 @@ intonation: vif (proposée)
 texte: Téné ! Ma fille n'est plus là !
 genre: adulte/femme
 duree: 3640ms (estimée)
+texte_dyu: N' y'a fɔ i ye ko: Ne denmuso tɛ yan tugun!
+enregistre_dyu: tene-balafon-n3-dyu.m4a (3450ms)
+texte_fuf: Tinndi ! Ɓiɗɗo am boo walaa!
+enregistre_fuf: tene-balafon-n3-fuf.m4a (2426ms)
 
 piste: n4
 histoire: Téné et le balafon des génies
@@ -40,6 +52,10 @@ intonation: chuchoté (proposée)
 texte: Cette nuit, j'ai entendu jouer en brousse.
 genre: adulte/homme
 duree: 3110ms (estimée)
+texte_dyu: Loon dɔ sufɛ, n' y'a mɛn ko mɔgɔw be tulogwɛlɛnw kɛra yiritu kɔnɔ.
+enregistre_dyu: tene-balafon-n4-dyu.m4a (5392ms)
+texte_fuf: E nder jemma oo, mi nani yimɓe ɗon kolli nder lekki.
+enregistre_fuf: tene-balafon-n4-fuf.m4a (3632ms)
 
 piste: n5
 histoire: Téné et le balafon des génies
@@ -50,6 +66,10 @@ intonation: enlevé (proposée)
 texte: Les génies ! Que fait la famille ?
 genre: adulte/homme
 duree: 3640ms (estimée)
+texte_dyu: Hakilitigiw! Denbaya be mun lo kɛra?
+enregistre_dyu: tene-balafon-n5-dyu.m4a (3562ms)
+texte_fuf: Geniiji! Hol ko yimɓe mum'en ngaɗata?
+enregistre_fuf: tene-balafon-n5-fuf.m4a (3722ms)
 
 piste: seul
 histoire: Téné et le balafon des génies
@@ -60,6 +80,10 @@ intonation: chuchoté (proposée)
 texte: Il marche jusqu'au matin, il appelle, et seule la musique lui répond. Il revient épuisé. Il reste une nuit pour bien faire.
 genre: adulte/homme
 duree: 9560ms (estimée)
+texte_dyu: A bɛ tagama fɔ ka taga dugu gbɛ; a bɛ kule, nka dɔnkiri dɔrɔn le b'a jaabi. A sɛgɛnin lo. An ka ɲi k'o kɛ suu kelen dɔrɔn.
+enregistre_dyu: tene-balafon-seul-dyu.m4a (10414ms)
+texte_fuf: O ɗon yaha haa jemma, o ɗon ewna. Yimɓe ɗon nana ɗum tan. O wurtinaama ɓeydaani. Wonaa jemma go'o ngam waɗugo ko wooɗi.
+enregistre_fuf: tene-balafon-seul-fuf.m4a (9742ms)
 
 piste: attente
 histoire: Téné et le balafon des génies
@@ -70,6 +94,10 @@ intonation: chuchoté (proposée)
 texte: Elle ne revient pas. Les soirs de lune, dit-on, quelqu'un danse encore dans la clairière, sans nom et sans village. Tu pourrais recommencer pour changer cela.
 genre: adulte/homme
 duree: 11230ms (estimée)
+texte_dyu: A tɛ kɔsegi. Mɔgɔw b'a fɔ ko kalo sufɛ, mɔgɔ dɔ bɛ to ka dɔnkiri la kɛnɛgbɛ kɔnɔ, tɔgɔ t'a ra, dugumɔgɔw tɛ o yɔrɔ ra. I be se k'a daminɛ kokura walisa k'o yɛlɛma.
+enregistre_dyu: tene-balafon-attente-dyu.m4a (14420ms)
+texte_fuf: O warataa. Ɓe mbi'i nder jemmaare lewru, goɗɗo ɗon yiya haa foroy, walaa innde, walaa gariiri. A waawaa fuɗɗitaade ngam waylude ɗum.
+enregistre_fuf: tene-balafon-attente-fuf.m4a (10692ms)
 
 piste: dozo
 histoire: Téné et le balafon des génies
@@ -80,6 +108,10 @@ intonation: chuchoté (proposée)
 texte: Le maître consulte ses amulettes et lève son chasse-mouche. Les dozo partent avec leur chien. Au loin, la musique revient.
 genre: adulte/homme
 duree: 8650ms (estimée)
+texte_dyu: Matigi bɛ a ta nɛgɛbɛnnanw flɛ, k'a ta sowotorow kɔrɔta. Dozow be taga n'u ka wulu ye. K'a to yɔrɔjan, dɔnkilila be na.
+enregistre_dyu: tene-balafon-dozo-dyu.m4a (9636ms)
+texte_fuf: Mawɗo on ɗon ɗaɓɓita kuuje maako, o ɗon ummina kuuje muuɗum. Dozo'en ɗon njaha bee doggi maɓɓe. Nder yaasi, yimɓe ɗon maaro.
+enregistre_fuf: tene-balafon-dozo-fuf.m4a (9892ms)
 
 piste: n7
 histoire: Téné et le balafon des génies
@@ -90,6 +122,10 @@ intonation: mystérieux (proposée)
 texte: Dans une clairière, les génies jouent à la lune. Téné danse, et elle ne peut plus s'arrêter. Elle a tout oublié : son nom, sa mère, son village.
 genre: adulte/homme
 duree: 12290ms (estimée)
+texte_dyu: O yɔrɔ la, lɔnnikɛlaw be kalo ɲagaminin kɛra. Téné be to ka dɔn kɛ ani a tɛ se k'a yɛrɛ tanga. A ɲinɛna a tɔgɔ, a bamuso ani a ka dugudennin kɔ.
+enregistre_dyu: tene-balafon-n7-dyu.m4a (11524ms)
+texte_fuf: E nder go'o, jinnaaɓe njanngoo lewru. Téné ɗon dansa, nden o waawataa jonta. O yejjiti koo ɗume: innde maako, inna maako, gariiri maako.
+enregistre_fuf: tene-balafon-n7-fuf.m4a (10990ms)
 
 piste: n8
 histoire: Téné et le balafon des génies
@@ -100,6 +136,10 @@ intonation: interrogatif (proposée)
 texte: Le maître lève son chasse-mouche. Un éclair, et tout s'arrête. Que dit-il ?
 genre: adulte/homme
 duree: 5990ms (estimée)
+texte_dyu: Matigi y'a ka kɛlɛkɛminan kɔrɔta. Ni fɔɲɔ ye manamana, o bɛɛ be ban. A be mun lo fɔra?
+enregistre_dyu: tene-balafon-n8-dyu.m4a (7476ms)
+texte_fuf: Mawɗo'en ɗon ummi nyaamo maako. Ɗuum woni ɓooyaare, koo ɗume timmi. Hol ko o wi'i?
+enregistre_fuf: tene-balafon-n8-fuf.m4a (7348ms)
 
 piste: combat
 histoire: Téné et le balafon des génies
@@ -110,6 +150,10 @@ intonation: mystérieux (proposée)
 texte: Personne ne combat la brousse chez elle, chasseur. Parle mieux, ou repars seul.
 genre: voix de génie/libre
 duree: 5840ms (estimée)
+texte_dyu: Mɔgɔ si t'a fɛ k'o yiritu kɛlɛ. N'i tɛ se ka kuma, i kelen lo bena taga.
+enregistre_dyu: tene-balafon-combat-dyu.m4a (5594ms)
+texte_fuf: Walaa mo torra bee le'i nder saare maako, mawɗo. Ɗowan ko ɓuri wooɗugo, koo boo toɗɗaa hoore maaɗa.
+enregistre_fuf: tene-balafon-combat-fuf.m4a (7306ms)
 
 piste: n9
 histoire: Téné et le balafon des génies
@@ -120,6 +164,10 @@ intonation: mystérieux (proposée)
 texte: Rendez cette enfant à sa mère.
 genre: adulte/homme
 duree: 2580ms (estimée)
+texte_dyu: Aw ye den nin di a bamuso ma.
+enregistre_dyu: tene-balafon-n9-dyu.m4a (2288ms)
+texte_fuf: A hokke ɓiɗɗo o'o to inna maako.
+enregistre_fuf: tene-balafon-n9-fuf.m4a (2400ms)
 
 piste: rendre
 histoire: Téné et le balafon des génies
@@ -130,6 +178,10 @@ intonation: mystérieux (proposée)
 texte: Garde ce balafon, enfant. Il est à toi.
 genre: voix de génie/libre
 duree: 3790ms (estimée)
+texte_dyu: N'a sɔrɔ i ka kan k'o kɛ. A ye i ta ye.
+enregistre_dyu: tene-balafon-rendre-dyu.m4a (3850ms)
+texte_fuf: Goɗɗum, ɓiyum. O jeyaa to maaɗa.
+enregistre_fuf: tene-balafon-rendre-fuf.m4a (3178ms)
 
 piste: n10
 histoire: Téné et le balafon des génies
@@ -140,6 +192,10 @@ intonation: joyeux (proposée)
 texte: Téné s'éveille comme d'un long rêve. À la fête des récoltes, elle joue le balafon des génies, et tout le village danse.
 genre: adulte/homme
 duree: 9260ms (estimée)
+texte_dyu: Téné kununna i n'a fɔ sikojan. Simantigɛ ɲanagwɛ tuma na, a be dɔnkirila ni jinamɔgɔw ye. O kɔ, dugumɔgɔw bɛɛ b'a fɛ ka dɔn kɛ.
+enregistre_dyu: tene-balafon-n10-dyu.m4a (10452ms)
+texte_fuf: Téné ummi bana nder ɗaanaare. Nder juulde nyaamdu, o ɗon fijirta ko'e maako. Yimɓe gariiri fuu ɗon njogge.
+enregistre_fuf: tene-balafon-n10-fuf.m4a (8660ms)
 
 piste: film-001
 histoire: Téné et le balafon des génies
@@ -150,6 +206,8 @@ intonation: malicieux (scénario)
 texte: Téné et le balafon des génies. Un conte senoufo.
 genre: adulte/libre
 duree: 4600ms (mesurée sur le film)
+texte_dyu: Téné ni jinɛw ka mankan. O tun ye maana dɔ ye.
+texte_fuf: Tinndi e ɓeynguure jinnaaɓe. Ɗuum woni haala senoufu.
 
 piste: film-002
 histoire: Téné et le balafon des génies
@@ -160,6 +218,8 @@ intonation: posé (proposée)
 texte: Le soir, au village, le vieux Ziè jouait du balafon.
 genre: adulte/libre
 duree: 4300ms (mesurée sur le film)
+texte_dyu: Sɔgɔma wulafɛ, Ziè tun be balafɔni kɛra dugu kɔnɔ.
+texte_fuf: Nder jemma nder gariiri, Ziè mawɗo ɗon mooɓta balafon.
 
 piste: film-003
 histoire: Téné et le balafon des génies
@@ -170,6 +230,8 @@ intonation: tendre (scénario)
 texte: Et Téné dansait. Elle aimait cet instrument plus que tout au monde.
 genre: adulte/libre
 duree: 5200ms (mesurée sur le film)
+texte_dyu: O kɔ, Téné tun be dansi kɛra. A tun b'o fɔlifɛnw kanu ka tɛmɛ fɛɛn bɛɛ kan.
+texte_fuf: Téné boo ɗon yaha. O yiɗi kuugal ngal ɓurɗum kooɗume nder duuniyaaru.
 
 piste: film-004
 histoire: Téné et le balafon des génies
@@ -180,6 +242,8 @@ intonation: mystérieux (scénario)
 texte: Une nuit, une autre musique monta de la brousse. Plus belle que celle de Ziè. Plus lointaine aussi.
 genre: adulte/libre
 duree: 7900ms (mesurée sur le film)
+texte_dyu: Loon dɔ sufɛ, dɔnkilila wɛrɛ bɔra yiritu la. A cɛ ka ɲi ka tɛmɛ Ziye ta kan. O fana ka kan ka kɛ yɔrɔjan.
+texte_fuf: Nder jemma go'o, muusikol feere ummi diga nder leɗɗe. Ɗuum ɓurii ɗi Zié waɗi. Bana non boo, ɓe ɓeydi.
 
 piste: film-005
 histoire: Téné et le balafon des génies
@@ -190,6 +254,8 @@ intonation: posé (proposée)
 texte: Téné se leva sans bruit. Elle quitta sa natte, et elle partit vers le son.
 genre: adulte/libre
 duree: 5700ms (mesurée sur le film)
+texte_dyu: Téné kununna ani mankan ma bɔ a kaan na. A bɔra a ka dilan kan, ka taga mankan fɛ.
+texte_fuf: Téné ummi haa ɗon. O wurti nder kawtal maako, o yahdi to haala.
 
 piste: film-006
 histoire: Téné et le balafon des génies
@@ -200,6 +266,8 @@ intonation: mystérieux (scénario)
 texte: Dans une clairière, les génies de la brousse jouaient à la lune.
 genre: adulte/libre
 duree: 4100ms (mesurée sur le film)
+texte_dyu: Yɔrɔ dɔ la, yirituw tun b'a fɛ ka kalo ta.
+texte_fuf: E nder go'o, mawɓe ley leɗɗe ɓe ngaɗi bee lewru.
 
 piste: film-007
 histoire: Téné et le balafon des génies
@@ -210,6 +278,8 @@ intonation: posé (proposée)
 texte: Téné se mit à danser, et elle ne put plus s'arrêter. Les génies tournaient autour d'elle.
 genre: adulte/libre
 duree: 6400ms (mesurée sur le film)
+texte_dyu: Téné y'a daminɛ ka dɔn kɛ, a ma se k'a to. Hakilitigiw tun b'a lamini.
+texte_fuf: Téné fuɗɗi nyaamugo, o waawataa daranaago. Mawɓe ɓeen mbi'i ɗum'en.
 
 piste: film-008
 histoire: Téné et le balafon des génies
@@ -220,6 +290,8 @@ intonation: posé (proposée)
 texte: Elle avait tout oublié : son nom, sa mère, son village.
 genre: adulte/libre
 duree: 4600ms (mesurée sur le film)
+texte_dyu: A tun ɲinɛna a tɔgɔ, a bamuso ani a ka dugudennin kɔ.
+texte_fuf: O yejjiti koo ɗume: innde maako, inna maako, gariiri maako.
 
 piste: film-009
 histoire: Téné et le balafon des génies
@@ -230,6 +302,8 @@ intonation: posé (proposée)
 texte: Au matin, la natte était vide.
 genre: adulte/libre
 duree: 3100ms (mesurée sur le film)
+texte_dyu: O dugusagwɛ sɔgɔmada joona fɛ, sinɔgɔ tun tɛ yen.
+texte_fuf: Nde subaka, ɗerewol ngol walaa.
 
 piste: film-010
 histoire: Téné et le balafon des génies
@@ -240,6 +314,8 @@ intonation: paniqué (scénario)
 texte: Téné ! Ma fille n'est plus là !
 genre: adulte/femme
 duree: 3700ms (mesurée sur le film)
+texte_dyu: N' y'a fɔ i ye ko: Ne denmuso tɛ yan tugun!
+texte_fuf: Tinndi ! Ɓiɗɗo am boo walaa!
 
 piste: film-011
 histoire: Téné et le balafon des génies
@@ -250,6 +326,8 @@ intonation: inquiet (scénario)
 texte: Personne ne l'a vue ?
 genre: adulte/homme
 duree: 2100ms (mesurée sur le film)
+texte_dyu: Mɔgɔ si m'a ye wa?
+texte_fuf: Walaa goɗɗo yi'i mo?
 
 piste: film-012
 histoire: Téné et le balafon des génies
@@ -260,6 +338,8 @@ intonation: grave (scénario)
 texte: Cette nuit, j'ai entendu jouer en brousse.
 genre: âgé/libre
 duree: 3000ms (mesurée sur le film)
+texte_dyu: Loon dɔ sufɛ, n' y'a mɛn ko mɔgɔw be tulogwɛlɛnw kɛra yiritu kɔnɔ.
+texte_fuf: E nder jemma oo, mi nani yimɓe ɗon kolli nder lekki.
 
 piste: film-013
 histoire: Téné et le balafon des génies
@@ -270,6 +350,8 @@ intonation: effrayé (scénario)
 texte: Les génies !
 genre: adulte/femme
 duree: 2100ms (mesurée sur le film)
+texte_dyu: Hakilitigiw!
+texte_fuf: Geniiji!
 
 piste: film-014
 histoire: Téné et le balafon des génies
@@ -280,6 +362,8 @@ intonation: posé (proposée)
 texte: On alla trouver les chasseurs dozo, les gardiens de la brousse.
 genre: adulte/libre
 duree: 4300ms (mesurée sur le film)
+texte_dyu: An tagara dozo jagokɛlaw yɔrɔ, yiritu kɔrɔsibagaw.
+texte_fuf: En njahi haa ɓe ɗon ɗaɓɓa dozo'en, ɓe ɗon cembiɗina leɗɗe.
 
 piste: film-015
 histoire: Téné et le balafon des génies
@@ -290,6 +374,8 @@ intonation: suppliant (scénario)
 texte: Ramenez-moi ma fille, je vous en prie.
 genre: adulte/homme
 duree: 2800ms (mesurée sur le film)
+texte_dyu: N'i b'a fɛ i ka n' denmuso di ne ma, ne b'i daali.
+texte_fuf: Wurtinee yam ɓiɗɗo am debbo, torake.
 
 piste: film-016
 histoire: Téné et le balafon des génies
@@ -300,6 +386,8 @@ intonation: calme (scénario)
 texte: Nous partirons ce soir.
 genre: adulte/homme
 duree: 2600ms (mesurée sur le film)
+texte_dyu: An bena taga bi sufɛ.
+texte_fuf: En njahi nder jemma.
 
 piste: film-017
 histoire: Téné et le balafon des génies
@@ -310,6 +398,8 @@ intonation: posé (proposée)
 texte: Le maître consulta ses amulettes et leva son chasse-mouche. Puis les dozo partirent avec leur chien.
 genre: adulte/libre
 duree: 6800ms (mesurée sur le film)
+texte_dyu: A k'a ta nɛgɛbɛnnanw flɛ. O kɔ, a ka a ta sowotoro kɔrɔta. O kɔ, u tagara n'u ka wulu ye.
+texte_fuf: Joomiraawo boo ƴamɗini ko'e maako, o ummini mo. Nden dozo'en ndilli bee doggi maɓɓe.
 
 piste: film-018
 histoire: Téné et le balafon des génies
@@ -320,6 +410,8 @@ intonation: posé (proposée)
 texte: Ils marchèrent toute la nuit. Le chien flairait les herbes.
 genre: adulte/libre
 duree: 4700ms (mesurée sur le film)
+texte_dyu: U tagamana suu bɛɛ. Wuluw kasa tun b'a la.
+texte_fuf: Ɓe ɗon yaha jemma fuu. Mbira'en ɗon nana leɗɗe.
 
 piste: film-019
 histoire: Téné et le balafon des génies
@@ -330,6 +422,8 @@ intonation: chuchoté (scénario)
 texte: Au loin, la musique revenait. Les hommes s'arrêtèrent, puis ils avancèrent en silence.
 genre: adulte/libre
 duree: 7000ms (mesurée sur le film)
+texte_dyu: Ka fara o kan, dɔnkilila tun be bɔ yɔrɔjan. Cɛɛw lɔra, o kɔ, u jera.
+texte_fuf: Nder yaasi, yimɓe ɗon maaro. Yimɓe ɓen ummii, ɓe ndilli.
 
 piste: film-020
 histoire: Téné et le balafon des génies
@@ -340,6 +434,8 @@ intonation: fort (scénario)
 texte: Le maître dozo leva son chasse-mouche. Un éclair, et tout s'arrêta.
 genre: adulte/libre
 duree: 6000ms (mesurée sur le film)
+texte_dyu: Dozo kuntigi y'a ka kɛlɛkɛminanw kɔrɔta. Sanmanamana dɔ nana bɔ, o bɛɛ banna.
+texte_fuf: Jaagorɗo dozo ƴetti nyaamdu mum. Ɗuum woni ɓooyaare, nden koo ɗume ummi.
 
 piste: film-021
 histoire: Téné et le balafon des génies
@@ -350,6 +446,8 @@ intonation: ferme (scénario)
 texte: Rendez cette enfant à sa mère.
 genre: adulte/homme
 duree: 2900ms (mesurée sur le film)
+texte_dyu: Aw ye den nin di a bamuso ma.
+texte_fuf: A hokke ɓiɗɗo o'o to inna maako.
 
 piste: film-022
 histoire: Téné et le balafon des génies
@@ -360,6 +458,8 @@ intonation: posé (proposée)
 texte: Le chef des génies hésita, puis il céda.
 genre: adulte/libre
 duree: 3600ms (mesurée sur le film)
+texte_dyu: Hakili senu kuntigi tun be sigasigara ani a sɔnna.
+texte_fuf: Mawɗo ginnaaji'en duumii, sey o hooti.
 
 piste: film-023
 histoire: Téné et le balafon des génies
@@ -370,6 +470,8 @@ intonation: voix profonde (scénario)
 texte: Garde ce balafon. Il est à toi.
 genre: esprit, créature : voix grave/libre
 duree: 3800ms (mesurée sur le film)
+texte_dyu: I k'i yɛrɛ tanga o fɔlifɛn ma. A ye i ta ye.
+texte_fuf: Jaɓɓorgo Fedde Ɓamtaare. O jeyaa to maaɗa.
 
 piste: film-024
 histoire: Téné et le balafon des génies
@@ -380,6 +482,8 @@ intonation: ému (scénario)
 texte: Il le laissa à Téné, qui s'éveilla comme d'un long rêve.
 genre: adulte/libre
 duree: 4100ms (mesurée sur le film)
+texte_dyu: A k'a to Tenɛ ye sunɔgɔ, min kununa i ko sikojan.
+texte_fuf: O acci mo to Tene, o ummi bana nder lekki.
 
 piste: film-025
 histoire: Téné et le balafon des génies
@@ -390,3 +494,5 @@ intonation: joyeux (scénario)
 texte: À la fête des récoltes, Téné joua le balafon des génies. Et tout le village dansa.
 genre: adulte/libre
 duree: 6300ms (mesurée sur le film)
+texte_dyu: O kɔ, Téné y'a fɔ a ye ko: "N' tun b'i fɛ ka suman tigɛ. O kɔ, dugumɔgɔw bɛɛ ye dɔɔn kɛ.
+texte_fuf: Nder juulde re'eteeɓe, Téné feewti balfon genius. Yimɓe nder gariiri ndin fuu mbi'i:

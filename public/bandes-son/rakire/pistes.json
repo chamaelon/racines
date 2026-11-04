@@ -12,61 +12,149 @@
    "id": "titre",
    "type": "titre",
    "chemin": "titre",
-   "texte": "Le rakiré entre Samo et Mossi"
+   "texte": "Le rakiré entre Samo et Mossi",
+   "langues": {
+    "dyu": {
+     "texte": "Samo ni Mossi ka bɛnbaliya",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "A Samo ne a Mossi sẽn wa n zabd ne taaba",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "presentation",
    "type": "presentation",
    "chemin": "presentation",
-   "texte": "Samo et Mossi se sont battus toute la journée, et personne n'a gagné. La nuit tombe sur les blessés des deux camps. Dans le noir, c'est à toi de tendre la gourde."
+   "texte": "Samo et Mossi se sont battus toute la journée, et personne n'a gagné. La nuit tombe sur les blessés des deux camps. Dans le noir, c'est à toi de tendre la gourde.",
+   "langues": {
+    "dyu": {
+     "texte": "Samo ni Mosisi tun ye ɲɔgɔn kɛlɛ lon bɛɛ, nka mɔgɔ si ma se sɔrɔ. Su kora mɔgɔ mandimininw kan fan fla bɛɛ ra. I ka kan k'i yɛrɛ majigi dibi la.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "A Samo ne a Mossi zabame daar fãa, la ned baa a yen ka tõog ye. Sẽn paam-b sebrã bee tẽns a yiibu pʋsẽ. Y sã n wa be lik pʋgẽ, yaa yãmb bal n segd n kõ-a noorã.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "personnages.griot.nom",
    "type": "personnage",
    "chemin": "personnages.griot.nom",
-   "texte": "Le griot"
+   "texte": "Le griot",
+   "langues": {
+    "dyu": {
+     "texte": "Le griot"
+    },
+    "mos": {
+     "texte": "Le griot"
+    }
+   }
   },
   {
    "id": "personnages.samo.nom",
    "type": "personnage",
    "chemin": "personnages.samo.nom",
-   "texte": "Le chef samo"
+   "texte": "Le chef samo",
+   "langues": {
+    "dyu": {
+     "texte": "Le chef samo"
+    },
+    "mos": {
+     "texte": "Le chef samo"
+    }
+   }
   },
   {
    "id": "personnages.mossi.nom",
    "type": "personnage",
    "chemin": "personnages.mossi.nom",
-   "texte": "Le chef mossi"
+   "texte": "Le chef mossi",
+   "langues": {
+    "dyu": {
+     "texte": "Le chef mossi"
+    },
+    "mos": {
+     "texte": "Le chef mossi"
+    }
+   }
   },
   {
    "id": "personnages.femme.nom",
    "type": "personnage",
    "chemin": "personnages.femme.nom",
-   "texte": "La femme samo"
+   "texte": "La femme samo",
+   "langues": {
+    "dyu": {
+     "texte": "La femme samo"
+    },
+    "mos": {
+     "texte": "La femme samo"
+    }
+   }
   },
   {
    "id": "personnages.archer.nom",
    "type": "personnage",
    "chemin": "personnages.archer.nom",
-   "texte": "L'archer samo"
+   "texte": "L'archer samo",
+   "langues": {
+    "dyu": {
+     "texte": "L'archer samo"
+    },
+    "mos": {
+     "texte": "L'archer samo"
+    }
+   }
   },
   {
    "id": "personnages.cavalier.nom",
    "type": "personnage",
    "chemin": "personnages.cavalier.nom",
-   "texte": "Le cavalier mossi"
+   "texte": "Le cavalier mossi",
+   "langues": {
+    "dyu": {
+     "texte": "Le cavalier mossi"
+    },
+    "mos": {
+     "texte": "Le cavalier mossi"
+    }
+   }
   },
   {
    "id": "fins.canon",
    "type": "fin",
    "chemin": "fins.canon",
-   "texte": "Version du griot : plus jamais la guerre"
+   "texte": "Version du griot : plus jamais la guerre",
+   "langues": {
+    "dyu": {
+     "texte": "Bibulu ka maanaw: Kɛlɛ tɛna kɛ tugun",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Grigot sẽn yeele: zabr ka na n le zĩnd ye",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "fins.rancune",
    "type": "fin",
    "chemin": "fins.rancune",
-   "texte": "Autre chemin : on recommencera demain"
+   "texte": "Autre chemin : on recommencera demain",
+   "langues": {
+    "dyu": {
+     "texte": "An ka sira wɛrɛ ta: an bena segi k'a daminɛ sini",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Bũmb a to: d na n le sɩngame rũnna",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "n1",
@@ -80,7 +168,23 @@
    "texte": "Dans le pays samo, la vie suivait son cours. Jusqu'à ce jour-là, où des cavaliers mossi approchent dans un nuage de poussière.",
    "genre": "adulte/homme",
    "duree_ms": 9260,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Samoa jamana na, mɔgɔw tun be ɲɛnamaya kɛ cogo nɔgɔman na. fɔ ka taga se o lon ma. O lon na, sotigi dɔw bɛna na ni buguri ye sankaba ra.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 11668,
+     "fichier": "rakire-n1-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Saam-bi-poak sẽn da be Samõ wã, vɩɩmã ra yaa to-to. Hal tɩ ta daar ning b sẽn na n yãt tãb-biis sẽn be bugum pʋgẽ wã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8986,
+     "fichier": "rakire-n1-mos.m4a"
+    }
+   }
   },
   {
    "id": "n2",
@@ -94,7 +198,23 @@
    "texte": "Cette terre est désormais à nous.",
    "genre": "adulte/homme",
    "duree_ms": 2580,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "O dugukolo ye an ta ye sisan.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2496,
+     "fichier": "rakire-n2-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Yaa tõnd n so tẽngã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 1776,
+     "fichier": "rakire-n2-mos.m4a"
+    }
+   }
   },
   {
    "id": "n3",
@@ -108,7 +228,23 @@
    "texte": "Le chef samo appelle ses archers. Les flèches contre les chevaux. On se bat toute la journée, et personne ne gagne.",
    "genre": "adulte/homme",
    "duree_ms": 9030,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Jamana kuntigi Samo b'a ka kalanbonbagaw wele. Aw ye biɲɛw ta ka taga soow kama. An ye kɛlɛ kɛ tile bɛɛ, nka mɔgɔ si ma see sɔrɔ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 10836,
+     "fichier": "rakire-n3-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Saam-bi-poakã boola a zabdbã. Sagls nins sẽn zabd ne wed-rãmbã. Tõnd zabda ne taab daar fãa, la ned baa a yen ka tõogd ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9796,
+     "fichier": "rakire-n3-mos.m4a"
+    }
+   }
   },
   {
    "id": "n4",
@@ -122,31 +258,87 @@
    "texte": "La nuit tombe. Il ne reste que des blessés, des deux camps, tous abandonnés. Un archer et un cavalier se regardent. L'archer a encore de l'eau. Que fait-il ?",
    "genre": "adulte/homme",
    "duree_ms": 12820,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Suu be ɲini ka don. Mɔgɔ minw mandiminin tora, o bɛɛ bɔra fan fla ra. Sotigi ni kalanbɔbaga be ɲɔgɔn filɛra. Ji bele be kalanbaga fɛ. A be mun lo kɛra?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 12552,
+     "fichier": "rakire-n4-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Yĩng n beẽ. Sẽn ket-b lame yaa neb nins b sẽn maan kaalem to-to wã bala. B fãa basame. Zĩ-bõonegã ne a soaalã geta taaba. Koɛɛgã ket n tara koomã. A maanda bõe?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 14402,
+     "fichier": "rakire-n4-mos.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n4.choices.0.label",
    "type": "choix",
    "chemin": "nodes.n4.choices.0.label",
-   "texte": "Il tend sa gourde à l'autre"
+   "texte": "Il tend sa gourde à l'autre",
+   "langues": {
+    "dyu": {
+     "texte": "A b'a bolo la ɲɔgɔn kan",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "A tara a nug ne a to wã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n4.choices.0.tag",
    "type": "parcours",
    "chemin": "nodes.n4.choices.0.tag",
-   "texte": "gourde tendue"
+   "texte": "gourde tendue",
+   "langues": {
+    "dyu": {
+     "texte": "jɔɔrɔ ka jugu",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "gãndã sẽn yaa toog ne-a",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n4.choices.1.label",
    "type": "choix",
    "chemin": "nodes.n4.choices.1.label",
-   "texte": "Il la garde serrée contre lui"
+   "texte": "Il la garde serrée contre lui",
+   "langues": {
+    "dyu": {
+     "texte": "A b'a magwɛrɛ a la kosɔbɛ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "A gũuda pagã ne a sũur fãa",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n4.choices.1.tag",
    "type": "parcours",
    "chemin": "nodes.n4.choices.1.tag",
-   "texte": "gourde gardée"
+   "texte": "gourde gardée",
+   "langues": {
+    "dyu": {
+     "texte": "n' be to k'o kɛ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "gãnd b sẽn gũudã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "garde",
@@ -160,31 +352,87 @@
    "texte": "Le cavalier gémit toute la nuit. Une femme samo arrive, s'arrête devant lui, hésite. Va-t-elle le soigner ?",
    "genre": "adulte/homme",
    "duree_ms": 8040,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Mɔgɔ min tun yɛlɛnin be soo kan, ale ye kulo suu bɛɛ. Samusɔn muso dɔ nana, a lɔra a kɔrɔ ka sigasigara. Yala a bena o furakɛ wa?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 12116,
+     "fichier": "rakire-garde-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Sẽn zao-a wã kelemda yʋngo fãa. Saam-bi-poak a ye n wa, t'a na n kẽng n tɩ zĩnd ne-a. A na n gesa a yell bɩ?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 10036,
+     "fichier": "rakire-garde-mos.m4a"
+    }
+   }
   },
   {
    "id": "nodes.garde.choices.0.label",
    "type": "choix",
    "chemin": "nodes.garde.choices.0.label",
-   "texte": "Oui, elle le soigne malgré tout"
+   "texte": "Oui, elle le soigne malgré tout",
+   "langues": {
+    "dyu": {
+     "texte": "O bɛɛ n'a ta, a b'a janto a la.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "La baa ne rẽ fãa, a sakda-a lame.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.garde.choices.0.tag",
    "type": "parcours",
    "chemin": "nodes.garde.choices.0.tag",
-   "texte": "blessé soigné"
+   "texte": "blessé soigné",
+   "langues": {
+    "dyu": {
+     "texte": "mɔgɔ mandiminin furakɛ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "sã n wa paam bãaga",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.garde.choices.1.label",
    "type": "choix",
    "chemin": "nodes.garde.choices.1.label",
-   "texte": "Non, c'est un ennemi"
+   "texte": "Non, c'est un ennemi",
+   "langues": {
+    "dyu": {
+     "texte": "Ayi, a kɛra i jugu ye.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "A yaa bɛɛba.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.garde.choices.1.tag",
    "type": "parcours",
    "chemin": "nodes.garde.choices.1.tag",
-   "texte": "blessé laissé"
+   "texte": "blessé laissé",
+   "langues": {
+    "dyu": {
+     "texte": "mɔgɔ min mandimi",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "sã n wa gãneg-a lame",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "rancune",
@@ -198,7 +446,23 @@
    "texte": "Au matin, chacun compte ses morts, et chacun jure de les venger. Trop de sang pour rien. Ce n'est pas la fin que l'on raconte, heureusement.",
    "genre": "adulte/homme",
    "duree_ms": 11230,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "O bɛ o mɔgɔ faganinw jate sɔgɔmada joona fɛ, k'a fɔ ko o bɛna wuri o kama. Joli tun ka ca. An be min fɔra, o tɛ laban ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 10980,
+     "fichier": "rakire-rancune-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Sã n ya rũnna, ned kam fãa getda a nin-buiida la b wẽeneda tɩ b na n sɩbg-b lame. Yaa zɩɩm wʋsg n pa tõe n maan bũmb ye. La sũ-noogo, d sẽn yetã pa baasg ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 13812,
+     "fichier": "rakire-rancune-mos.m4a"
+    }
+   }
   },
   {
    "id": "gourde",
@@ -212,7 +476,23 @@
    "texte": "Une femme samo arrive, s'arrête devant un cavalier mossi. Elle hésite, puis elle le soigne.",
    "genre": "adulte/homme",
    "duree_ms": 6600,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Samusɔn muso dɔ nana, a lɔra sotigi dɔ ɲɛfɛ. O kɔ, a y'a janto a la.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6618,
+     "fichier": "rakire-gourde-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Saam-bi-poak a ye waame, t'a zĩndi n na n yãgẽ. A yɛɛsame t'a na n sõng-a lame.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7930,
+     "fichier": "rakire-gourde-mos.m4a"
+    }
+   }
   },
   {
    "id": "soin",
@@ -226,7 +506,23 @@
    "texte": "Un cavalier, à son tour, panse un archer samo. Plus personne ne se souvient du camp de l'autre.",
    "genre": "adulte/homme",
    "duree_ms": 7740,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "O kɔ, a y'a fɔ u ye ko: \"Aw k'aw yɛrɛ majigi. Mɔgɔ si tɛ se k'a hakili to a tɔɲɔgɔn ka sigiyɔrɔ la tugun.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9460,
+     "fichier": "rakire-soin-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Sã n yaa ne so-rʋʋda, a sẽbda Samõ nin-tũudu. Ned pa le tẽr a taabã logtoogã ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6042,
+     "fichier": "rakire-soin-mos.m4a"
+    }
+   }
   },
   {
    "id": "n5",
@@ -240,7 +536,23 @@
    "texte": "Trop de sang pour rien.",
    "genre": "adulte/homme",
    "duree_ms": 2200,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Joli tun ka ca.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 1552,
+     "fichier": "rakire-n5-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Yaa zɩɩm wʋsg n pa tõe n maan bũmb ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2224,
+     "fichier": "rakire-n5-mos.m4a"
+    }
+   }
   },
   {
    "id": "n6",
@@ -254,7 +566,23 @@
    "texte": "Plus jamais de sang entre nous.",
    "genre": "adulte/homme",
    "duree_ms": 2580,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "An tɛ se ka joli bɔn tugun.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2144,
+     "fichier": "rakire-n6-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Tõnd sʋka, zɩɩm kõn le zĩnd ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3024,
+     "fichier": "rakire-n6-mos.m4a"
+    }
+   }
   },
   {
    "id": "n7",
@@ -268,7 +596,23 @@
    "texte": "Ils boivent, l'un après l'autre, dans la même calebasse. Regarde ce qui les relie.",
    "genre": "adulte/homme",
    "duree_ms": 6220,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "O bɛɛ kelen kelen bɛ ji min o dɔ ra. An k'a filɛ fɛɛn min b'u cɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5450,
+     "fichier": "rakire-n7-dyu.m4a"
+    },
+    "mos": {
+     "texte": "B rɩka bõn-yũudl a yembre, la b yũuda. Ges-y bũmb ning sẽn kɩt tɩ b zems taaba.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5818,
+     "fichier": "rakire-n7-mos.m4a"
+    }
+   }
   },
   {
    "id": "n8",
@@ -282,31 +626,87 @@
    "texte": "Le temps a passé. Au marché, un Samo et un Mossi se croisent. À toi de lancer la plaisanterie.",
    "genre": "adulte/homme",
    "duree_ms": 8270,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Waati tɛmɛna. O kɔ, u ye Samɔ ni Mosisi kunbɛn lɔgɔfiyɛ la. I ka yɛlɛmisɛn kɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7540,
+     "fichier": "rakire-n8-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Wakatã loogame. Zĩ-gũudẽ wã, Samõ ne Mossi kẽnga taaba. Yaa yãmb n na n maan burkĩndã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7652,
+     "fichier": "rakire-n8-mos.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n8.choices.0.label",
    "type": "choix",
    "chemin": "nodes.n8.choices.0.label",
-   "texte": "« Vous, les Mossi, vous mangez trop ! »"
+   "texte": "« Vous, les Mossi, vous mangez trop ! »",
+   "langues": {
+    "dyu": {
+     "texte": "Aw Musaw, aw be dumuni kɛ kojugu! ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Yãmb Mossi wã rɩta wʋsgo! ",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n8.choices.0.tag",
    "type": "parcours",
    "chemin": "nodes.n8.choices.0.tag",
-   "texte": "plaisanterie"
+   "texte": "plaisanterie",
+   "langues": {
+    "dyu": {
+     "texte": "lɔgɔbɔli",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "jokes",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n8.choices.1.label",
    "type": "choix",
    "chemin": "nodes.n8.choices.1.label",
-   "texte": "« Toi, je ne te parle pas. »"
+   "texte": "« Toi, je ne te parle pas. »",
+   "langues": {
+    "dyu": {
+     "texte": "Ne tɛ kumana ele fɛ. ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Mam pa gomd ne foom ye. ",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n8.choices.1.tag",
    "type": "parcours",
    "chemin": "nodes.n8.choices.1.tag",
-   "texte": "silence"
+   "texte": "silence",
+   "langues": {
+    "dyu": {
+     "texte": "ka to ka je",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "sĩndg",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "froid",
@@ -320,7 +720,23 @@
    "texte": "Comment ? Pas un mot ? Tu veux donc que je croie que vous êtes fâchés ? Vous, les Samo, vous parlez trop !",
    "genre": "adulte/homme",
    "duree_ms": 10620,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Mun na do? A ma kuma i fɛ wa? I b'a fɛ ne k'a miiri ko aw diminin lo wa? Aw Samow, aw be kuma ka ca!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8734,
+     "fichier": "rakire-froid-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Wãn to la y tõe n maan woto? Pa gomd baa a yen ye? Yãmb datame tɩ m tẽ tɩ y sũur sãamame? Yãmb Samo rãmbã gomda wʋsgo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 10206,
+     "fichier": "rakire-froid-mos.m4a"
+    }
+   }
   },
   {
    "id": "n9",
@@ -334,7 +750,23 @@
    "texte": "Et vous, les Mossi, vous mangez trop !",
    "genre": "adulte/homme",
    "duree_ms": 3640,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Aw Musaw kɔni, aw be dumuni kɛ kojugu!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2976,
+     "fichier": "rakire-n9-dyu.m4a"
+    },
+    "mos": {
+     "texte": "La yãmb Mossi wã rɩta wʋsgo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2128,
+     "fichier": "rakire-n9-mos.m4a"
+    }
+   }
   },
   {
    "id": "blague",
@@ -348,7 +780,23 @@
    "texte": "Et vous, les Samo, vous parlez trop !",
    "genre": "adulte/homme",
    "duree_ms": 3640,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Aw Samow kɔni, aw be kuma ka ca!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2896,
+     "fichier": "rakire-blague-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Sã n yaa ne yãmba, Samo rãmbã gomda wʋsgo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3360,
+     "fichier": "rakire-blague-mos.m4a"
+    }
+   }
   },
   {
    "id": "fin",
@@ -362,7 +810,23 @@
    "texte": "Depuis ce temps, ils se moquent les uns des autres, et personne ne se fâche. C'est le rakiré : une façon de se dire « plus jamais la guerre ».",
    "genre": "adulte/homme",
    "duree_ms": 12450,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Kabini o wagati ra, o bɛ ɲɔgɔn lɔgɔbɔra; mɔgɔ si tɛ dimi tuun. O kɔrɔ ko, an man kan k'a fɔ tugun ko an be kɛlɛ kɛra.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 10996,
+     "fichier": "rakire-fin-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Sẽn sɩng ne wakat kãnga, b yaalda taaba, la ned ka yikd sũ-yikri ye. Yaa raare: ned sã n pa le tõe n yeel a meng t'a ka na n leb n zab ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 11684,
+     "fichier": "rakire-fin-mos.m4a"
+    }
+   }
   },
   {
    "id": "film-001",
@@ -378,7 +842,19 @@
    "texte": "Le rakiré. Une légende des Samo et des Mossi.",
    "genre": "adulte/libre",
    "duree_ms": 4500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "A ye min fɔ, a y'o kɛ. O ye Samow ni Musaw ka maana dɔ ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A raaga ne-a. Saam-bi-rãmbã la Mossi rãmbã lagem-n-taar.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-002",
@@ -394,7 +870,19 @@
    "texte": "Dans le pays samo, la vie suivait son cours, jusqu'à ce jour-là.",
    "genre": "adulte/libre",
    "duree_ms": 4900,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Samoa jamana na, mɔgɔw tun be ɲɛnamaya kɛ cogo nɔgɔman na fɔɔ ka taga se o loon ma.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Sã n yaa ne Samõ wã, vɩɩmã yɩɩ wa b sẽn da ratã hal tɩ ta rũndã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-003",
@@ -410,7 +898,19 @@
    "texte": "Des cavaliers mossi approchaient, dans un nuage de poussière.",
    "genre": "adulte/libre",
    "duree_ms": 4400,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Mɔgɔ minw tun bɛ yɛlɛn so kan, olugu nana ni buguri ye sankaba kɔnɔ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Neb nins sẽn zʋʋgd malɛgsã ra gũuda ne bugum sawadga.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-004",
@@ -426,7 +926,19 @@
    "texte": "Cette terre est désormais à nous.",
    "genre": "adulte/homme",
    "duree_ms": 2400,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O dugukolo ye an ta ye sisan.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Yaa tõnd n so tẽngã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-005",
@@ -442,7 +954,19 @@
    "texte": "Le chef samo ne répondit pas. Il appela ses archers.",
    "genre": "adulte/libre",
    "duree_ms": 4800,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Jamana kuntigi ma foyi fɔ. A y'a ka kalanbonbagaw wele.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A Samo taoor soab pa leok ye. A boola a tãb-biisi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-006",
@@ -458,7 +982,19 @@
    "texte": "Et la guerre commença. Les flèches contre les chevaux.",
    "genre": "adulte/libre",
    "duree_ms": 4600,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O kɔ, kɛlɛ daminɛna. Aw ye biɲɛw ta ka taga soow kama.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "La zabr sɩngame. Sagls nins sẽn zabd ne wed-rãmbã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-007",
@@ -474,7 +1010,19 @@
    "texte": "On se battit toute la journée, et personne ne gagna.",
    "genre": "adulte/libre",
    "duree_ms": 3900,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "An tora kɛrɛ ra lon bɛɛ, nka mɔgɔ si ma se sɔrɔ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Tõnd zabame daar fãa, la ned baa a yen ka tõog ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-008",
@@ -490,7 +1038,19 @@
    "texte": "La nuit tomba sur le champ de bataille.",
    "genre": "adulte/libre",
    "duree_ms": 3100,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Su donna kɛlɛkɛyɔrɔ la.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Zĩ-kãnga ra lebga yʋngo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-009",
@@ -506,7 +1066,19 @@
    "texte": "Il ne restait que des blessés, des deux camps, tous abandonnés.",
    "genre": "adulte/libre",
    "duree_ms": 4500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Mɔgɔ minw tun tora, o tun ye mɔgɔ mandimininw dɔrɔn le ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Neb nins b sẽn da yã wã ra yaa nin-buiid bal n kell n zĩnd be.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-010",
@@ -522,7 +1094,19 @@
    "texte": "Deux ennemis se regardèrent. Puis l'un tendit sa gourde à l'autre.",
    "genre": "adulte/libre",
    "duree_ms": 5200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Kɛlɛden fila y'u ɲɛɛ sin ɲɔgɔn ma. O kɔ, u kelen kelen bɛɛ y'u ka dɔrɔ di ɲɔgɔn ma.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Neb a yiib n gesa taaba. Rẽ poore, ned a yembr kõ-a-la a to wã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-011",
@@ -538,7 +1122,19 @@
    "texte": "Une femme samo arriva, et elle s'arrêta devant un cavalier mossi.",
    "genre": "adulte/libre",
    "duree_ms": 4600,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Samusɔn muso dɔ nana, a lɔra sotigi dɔ ɲɛfɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Saam-bi-poak a ye n wa, t'a tɩ yals moosã soabg taoore.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-012",
@@ -554,7 +1150,19 @@
    "texte": "Elle hésita, puis elle le soigna. Un cavalier, à son tour, pansa un archer samo.",
    "genre": "adulte/libre",
    "duree_ms": 7000,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "A tun be sigasigara ani a y'a janto a la. Sotigi dɔ fana ye Samusɔn kɛlɛbaga dɔ faga.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A yɛɛsame, la a wa n gesa biigã. Ned a ye sẽn da lʋɩt so-kãsengã zug n na n zab ne Samõ tãb-biisi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-013",
@@ -570,7 +1178,19 @@
    "texte": "Plus personne ne se souvenait du camp de l'autre.",
    "genre": "adulte/libre",
    "duree_ms": 3200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Mɔgɔ si tun tɛ se k'a hakili to a tɔɲɔgɔn ka yɔrɔ la tugun.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Ned pa leb n tẽr a taabã logtoogã ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-014",
@@ -586,7 +1206,19 @@
    "texte": "Trop de sang pour rien.",
    "genre": "adulte/homme",
    "duree_ms": 2500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Joli tun ka ca.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Yaa zɩɩm wʋsg n pa tõe n maan bũmb ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-015",
@@ -602,7 +1234,19 @@
    "texte": "Plus jamais de sang entre nous.",
    "genre": "adulte/homme",
    "duree_ms": 2100,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "An tɛ se ka joli bɔn tugun.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Tõnd sʋka, zɩɩm kõn le zĩnd ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-016",
@@ -618,7 +1262,19 @@
    "texte": "Ils burent, l'un après l'autre, dans la même calebasse.",
    "genre": "adulte/libre",
    "duree_ms": 4400,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O bɛɛ kelen kelen tun bɛ duvɛn min o kelen na.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "La bãmb ned kam fãa ra yũuda koom-koglg a yembre.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-017",
@@ -634,7 +1290,19 @@
    "texte": "Et ils se serrèrent dans les bras. La paix était scellée.",
    "genre": "adulte/libre",
    "duree_ms": 4400,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O kɔ, u ye ɲɔgɔn kunbɛn. Hɛɛrɛ tun be yen.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "La b yõka taab ne taab. La laafɩ wã ra pa le be ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-018",
@@ -650,7 +1318,19 @@
    "texte": "Vous, les Mossi, vous mangez trop !",
    "genre": "adulte/homme",
    "duree_ms": 3500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Aw Musaw, aw be dumuni kɛ kojugu!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Yãmb Mossi wã rɩta wʋsgo!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-019",
@@ -666,7 +1346,19 @@
    "texte": "Et vous, les Samo, vous parlez trop !",
    "genre": "adulte/homme",
    "duree_ms": 2800,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Aw Samow kɔni, aw be kuma ka ca!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Sã n yaa ne yãmba, Samo rãmbã gomda wʋsgo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-020",
@@ -682,7 +1374,19 @@
    "texte": "Depuis ce temps, ils se moquent les uns des autres, et personne ne se fâche. C'est le rakiré.",
    "genre": "adulte/libre",
    "duree_ms": 6900,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Kabini o wagati ra, o bɛ ɲɔgɔn lɔgɔbɔra; mɔgɔ si tɛ dimi tuun. O ye kuncɛbayakow lo ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Sẽn sɩng ne wakat kãnga, b yaalda taaba, la ned ka yikd sũ-yikri ye. Yaa a Zeova n yeel-a woto.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-021",
@@ -698,7 +1402,19 @@
    "texte": "Aujourd'hui encore, la parenté à plaisanterie est une façon de se dire : plus jamais la guerre.",
    "genre": "adulte/libre",
    "duree_ms": 6400,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Hali bi, an be se k'a fɔ ko: \"Kɛlɛ tɛna kɛ tugun\".",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Rũndã-rũndã me, d sã n gomd zak rãmb yelle, d tõe n yeelame tɩ zabr pa na n le zĩnd ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   }
  ]
 }

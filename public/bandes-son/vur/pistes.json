@@ -11,61 +11,149 @@
    "id": "titre",
    "type": "titre",
    "chemin": "titre",
-   "texte": "Le mystère du vur"
+   "texte": "Le mystère du vur",
+   "langues": {
+    "fuf": {
+     "texte": "Sirru wulduwol",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Vur wã yel-solemdã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "presentation",
    "type": "presentation",
    "chemin": "presentation",
-   "texte": "Le mil d'Ebéyé a disparu, et tout le village accuse un berger de passage. Tu es parmi les voisins. Le vur n'est jamais montré, et rien ne se dira de lui ici : ce récit parle de ce que la peur fait à un coupable."
+   "texte": "Le mil d'Ebéyé a disparu, et tout le village accuse un berger de passage. Tu es parmi les voisins. Le vur n'est jamais montré, et rien ne se dira de lui ici : ce récit parle de ce que la peur fait à un coupable.",
+   "langues": {
+    "fuf": {
+     "texte": "Yimɓe nder gariiri fuu mbi'i gooduɗo baali ɗon yaha. On ɗon nder ɓerɗe maɓɓe. Wolde nden walaa ko hollata, koo ɗume ɗum wi'ataa dow maako haa ɗo: haala maajum ɗon anndina ko kulol waɗata kuwoowo.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "A Ebéyé kiime, la tẽn-tẽngã fãa yetame tɩ pe-kɩɩm n loogda. Yãmb bee neb nins sẽn pẽd-b wã sʋka. B pa wilg tɩ ned yaa nin-wẽng ye, la b pa na n yeel t'a beẽ ye.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "personnages.griot.nom",
    "type": "personnage",
    "chemin": "personnages.griot.nom",
-   "texte": "Le griot"
+   "texte": "Le griot",
+   "langues": {
+    "fuf": {
+     "texte": "Le griot"
+    },
+    "mos": {
+     "texte": "Le griot"
+    }
+   }
   },
   {
    "id": "personnages.ebeye.nom",
    "type": "personnage",
    "chemin": "personnages.ebeye.nom",
-   "texte": "Ebéyé"
+   "texte": "Ebéyé",
+   "langues": {
+    "fuf": {
+     "texte": "Ebéyé"
+    },
+    "mos": {
+     "texte": "Ebéyé"
+    }
+   }
   },
   {
    "id": "personnages.voisin.nom",
    "type": "personnage",
    "chemin": "personnages.voisin.nom",
-   "texte": "Le voisin"
+   "texte": "Le voisin",
+   "langues": {
+    "fuf": {
+     "texte": "Le voisin"
+    },
+    "mos": {
+     "texte": "Le voisin"
+    }
+   }
   },
   {
    "id": "personnages.ancien.nom",
    "type": "personnage",
    "chemin": "personnages.ancien.nom",
-   "texte": "L'ancien"
+   "texte": "L'ancien",
+   "langues": {
+    "fuf": {
+     "texte": "L'ancien"
+    },
+    "mos": {
+     "texte": "L'ancien"
+    }
+   }
   },
   {
    "id": "personnages.berger.nom",
    "type": "personnage",
    "chemin": "personnages.berger.nom",
-   "texte": "Le berger"
+   "texte": "Le berger",
+   "langues": {
+    "fuf": {
+     "texte": "Le berger"
+    },
+    "mos": {
+     "texte": "Le berger"
+    }
+   }
   },
   {
    "id": "personnages.voleur.nom",
    "type": "personnage",
    "chemin": "personnages.voleur.nom",
-   "texte": "Le jeune homme"
+   "texte": "Le jeune homme",
+   "langues": {
+    "fuf": {
+     "texte": "Le jeune homme"
+    },
+    "mos": {
+     "texte": "Le jeune homme"
+    }
+   }
   },
   {
    "id": "fins.canon",
    "type": "fin",
    "chemin": "fins.canon",
-   "texte": "Version du griot : la vérité se sait toujours"
+   "texte": "Version du griot : la vérité se sait toujours",
+   "langues": {
+    "fuf": {
+     "texte": "Winndannde caggalGriot: goonga ina anndaa",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Kibar ning b sẽn togsã: Ned sã n bãng sɩdã, a na n bãnga wakat fãa",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "fins.injuste",
    "type": "fin",
    "chemin": "fins.injuste",
-   "texte": "Autre chemin : le berger est chassé, le voleur dort mal"
+   "texte": "Autre chemin : le berger est chassé, le voleur dort mal",
+   "langues": {
+    "fuf": {
+     "texte": "Ɗerewol go'o: booboowo ɗon yi'a, ɓoyma ɗon ɗaana",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Bũmb a to: b digda pe-kɩɩmbã, tɩ wagdemdã pa gãe ye",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "n1",
@@ -79,7 +167,23 @@
    "texte": "Dans un village lyela, chacun connaît son voisin, et chacun croit tout savoir de lui. Ebéyé, une veuve, garde dans son grenier tout le mil de l'année. Cette nuit-là, une ombre vide le grenier.",
    "genre": "adulte/homme",
    "duree_ms": 14570,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Nder gariiri go'o, koo moye anndi bandiraawo maako, nden kam koo moye ɗon tammi anndugo koo ɗume dow maako. Mawɗo debbo mo'o maayi, ɗon cembiɗina nder ceede maako duuɓi ujune fuu. Nder jemma maajum, ɗii kammu ɓeydani suudu.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 16788,
+     "fichier": "vur-n1-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Tẽng a yembr pʋgẽ, ned kam fãa mii a to. Ned kam fãa tagsdame t'a mii bũmb fãa yẽ zugu. Pʋg-kõorã sẽn yaa pʋg-paalã kogla a roogẽ bõn-buud fãa. Zĩ-kãng yʋngo, bi-bees sẽn da be roogã pʋgẽ wã ra pa le tarẽ ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 15886,
+     "fichier": "vur-n1-mos.m4a"
+    }
+   }
   },
   {
    "id": "n2",
@@ -93,7 +197,23 @@
    "texte": "Au matin, le village s'assemble. Un berger de passage arrive.",
    "genre": "adulte/homme",
    "duree_ms": 4550,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Nde subaka, yimɓe gariiri ɗon mooɓta. Goonɗinɗo go'o ɗon wara.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5546,
+     "fichier": "vur-n2-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Vẽngrẽ wã, tẽn-tẽngã tigimdame. Kɩɩmb n wat be.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3402,
+     "fichier": "vur-n2-mos.m4a"
+    }
+   }
   },
   {
    "id": "n3",
@@ -107,7 +227,23 @@
    "texte": "C'est lui ! C'est forcément lui !",
    "genre": "adulte/homme",
    "duree_ms": 3260,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Kanko woni! Kanko woni ko o waɗi!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3050,
+     "fichier": "vur-n3-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Yaa yẽ! Yaa yẽ bal n tõe n maan woto!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2874,
+     "fichier": "vur-n3-mos.m4a"
+    }
+   }
   },
   {
    "id": "n4",
@@ -121,31 +257,87 @@
    "texte": "Il a beau nier, personne ne l'écoute. Et toi, que dis-tu ?",
    "genre": "adulte/homme",
    "duree_ms": 5460,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Koo to o haɓɓi, walaa mo nana. E mon, ɗume mbi'oton?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3946,
+     "fichier": "vur-n4-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Baa a sã n kɩɩsda, ned baa a yen pa kelg-a ye. La yãmb me yetame tɩ bõe?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5802,
+     "fichier": "vur-n4-mos.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n4.choices.0.label",
    "type": "choix",
    "chemin": "nodes.n4.choices.0.label",
-   "texte": "« Sans preuve, on ne condamne personne. »"
+   "texte": "« Sans preuve, on ne condamne personne. »",
+   "langues": {
+    "fuf": {
+     "texte": "To walaa daliila, a waɗataa goɗɗo hakke. ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Ned sã n pa tar kaset, a ka tõe n kao ned bʋʋd ye. ",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n4.choices.0.tag",
    "type": "parcours",
    "chemin": "nodes.n4.choices.0.tag",
-   "texte": "prudence"
+   "texte": "prudence",
+   "langues": {
+    "fuf": {
+     "texte": "hakkiilo",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "maan gũusgu",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n4.choices.1.label",
    "type": "choix",
    "chemin": "nodes.n4.choices.1.label",
-   "texte": "« Chassons-le, on sera tranquilles. »"
+   "texte": "« Chassons-le, on sera tranquilles. »",
+   "langues": {
+    "fuf": {
+     "texte": "Ngam maajum en njaara mo. ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Bɩ d yãag-a, tɩ laafɩ zĩnd tõnd sʋka. ",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n4.choices.1.tag",
    "type": "parcours",
    "chemin": "nodes.n4.choices.1.tag",
-   "texte": "accusation"
+   "texte": "accusation",
+   "langues": {
+    "fuf": {
+     "texte": "accusation",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "yel-solemdã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "chasse",
@@ -159,7 +351,23 @@
    "texte": "Sans preuve, on ne condamne personne. Tu le sais pourtant.",
    "genre": "âgé/homme",
    "duree_ms": 4550,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "To walaa daliila, a waɗataa goɗɗo hakke. On andi non.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4634,
+     "fichier": "vur-chasse-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Ned sã n pa tar kaset, a ka tõe n kao ned bʋʋd ye. La yãmb mii rẽ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4778,
+     "fichier": "vur-chasse-mos.m4a"
+    }
+   }
   },
   {
    "id": "n5",
@@ -173,31 +381,87 @@
    "texte": "L'ancien te demande de redire ton avis devant tous. Le maintiens-tu ?",
    "genre": "adulte/homme",
    "duree_ms": 5160,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Mawɗo'en on ɗon toroo'on to yimɓe fuu mbi'a. On njogii mo naa?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5514,
+     "fichier": "vur-n5-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Kãsem-biigã kotame tɩ y lebs n togs y sẽn tagsdã nebã fãa taoore. Yãmb get-a lame bɩ?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7482,
+     "fichier": "vur-n5-mos.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n5.choices.0.label",
    "type": "choix",
    "chemin": "nodes.n5.choices.0.label",
-   "texte": "Non, tu retires ce que tu as dit"
+   "texte": "Non, tu retires ce que tu as dit",
+   "langues": {
+    "fuf": {
+     "texte": "Naa, a ƴeewa ko mbi'iɗaa",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Pa rẽ ye, bɩ f bas bũmb ning fo sẽn yeelã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n5.choices.0.tag",
    "type": "parcours",
    "chemin": "nodes.n5.choices.0.tag",
-   "texte": "avis retiré"
+   "texte": "avis retiré",
+   "langues": {
+    "fuf": {
+     "texte": "hokkugo anndal",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "saglg b sẽn yiis",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n5.choices.1.label",
    "type": "choix",
    "chemin": "nodes.n5.choices.1.label",
-   "texte": "Oui, le berger doit partir"
+   "texte": "Oui, le berger doit partir",
+   "langues": {
+    "fuf": {
+     "texte": "Eey, mawɗo baali'en ɗon njaha",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "N-ye, pe-kɩɩmã tog n loogame",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n5.choices.1.tag",
    "type": "parcours",
    "chemin": "nodes.n5.choices.1.tag",
-   "texte": "avis maintenu"
+   "texte": "avis maintenu",
+   "langues": {
+    "fuf": {
+     "texte": "hakkiilo",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "saglg ning b sẽn deegã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "injuste",
@@ -211,7 +475,23 @@
    "texte": "La foule te suit. Le berger reprend la route sous les pierres. Mais le mil ne revient pas, et le voleur, lui, reste au village. Ce chemin n'est pas celui du récit.",
    "genre": "adulte/homme",
    "duree_ms": 13810,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Yimɓe ɗon tokki ma. Goonɗinjo on fuɗɗiti laawol nder kaaƴe. Ammaa ɓooyma naa' ɗum warti, ammaa ɓorkoowo jooɗoto nder gariiri. Ɗuum woni laawol haala.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 12190,
+     "fichier": "vur-injuste-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Neb kʋʋngã tũuda yãmba. Pe-kɩɩmbã leb n kẽnda kugẽ wã. La bõn-buudã ka lebg n wa ye, la wagdrã kell n bee tẽn-kãng pʋgẽ. Woto pa sor ning b sẽn togsã ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 13774,
+     "fichier": "vur-injuste-mos.m4a"
+    }
+   }
   },
   {
    "id": "preuve",
@@ -225,7 +505,23 @@
    "texte": "Les anciens se réunissent. Personne n'a rien vu, et chacun soupçonne l'autre. Ils décident de s'en remettre au vur.",
    "genre": "adulte/homme",
    "duree_ms": 8270,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Mawɓe ɗon kawta. Walaa go'oto yi'i kooɗume, nden kam ɓe fuu ɓe ɗon du'ana woɓɓe. Kamɓe ɓe njokki haala maɓɓe.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8836,
+     "fichier": "vur-preuve-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Kãsem dãmbã tigimdame. Ned pa yã bũmb ye, tɩ ned kam fãa tagsd a to yelle. B yãka yam n na n bas-a lame.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8996,
+     "fichier": "vur-preuve-mos.m4a"
+    }
+   }
   },
   {
    "id": "n6",
@@ -239,31 +535,87 @@
    "texte": "Ils partent vers le lieu du vur. Veux-tu les suivre ?",
    "genre": "adulte/homme",
    "duree_ms": 4780,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Ɓe ɗon njaha haa nokkuure wooɗugo. A yiɗi tokkugo ɓe?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3898,
+     "fichier": "vur-n6-fuf.m4a"
+    },
+    "mos": {
+     "texte": "B kẽnga tẽn-kʋdgã zĩigẽ. Yãmb dat n tũ-b lame bɩ?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4378,
+     "fichier": "vur-n6-mos.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n6.choices.0.label",
    "type": "choix",
    "chemin": "nodes.n6.choices.0.label",
-   "texte": "Non, ce n'est pas à toi d'y aller"
+   "texte": "Non, ce n'est pas à toi d'y aller",
+   "langues": {
+    "fuf": {
+     "texte": "Na'o, ɗum to maaɗa yahugo",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "N-ye, pa yãmb n segd n kẽng ye",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n6.choices.0.tag",
    "type": "parcours",
    "chemin": "nodes.n6.choices.0.tag",
-   "texte": "respect"
+   "texte": "respect",
+   "langues": {
+    "fuf": {
+     "texte": "hakkiilo",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "waoogre",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n6.choices.1.label",
    "type": "choix",
    "chemin": "nodes.n6.choices.1.label",
-   "texte": "Oui, tu voudrais voir"
+   "texte": "Oui, tu voudrais voir",
+   "langues": {
+    "fuf": {
+     "texte": "Ee, a yiɗi yi'ugo",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "N-ye, yãmb dat n yãa",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n6.choices.1.tag",
    "type": "parcours",
    "chemin": "nodes.n6.choices.1.tag",
-   "texte": "curiosité"
+   "texte": "curiosité",
+   "langues": {
+    "fuf": {
+     "texte": "yiɗde",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "neb nins sẽn nong n bãng bũmb ninsã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "voir",
@@ -277,7 +629,23 @@
    "texte": "On n'en dira pas plus. Il n'y a rien à montrer : seulement le vent, une lumière, et le noir. Tu rentres sans rien avoir vu.",
    "genre": "adulte/homme",
    "duree_ms": 11230,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Walaa ko ɓe mbi'ata dow maajum. Walaa ko hollata, sey hendu, jayngol e nyiwre. On nji'ataa kooɗume.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7876,
+     "fichier": "vur-voir-fuf.m4a"
+    },
+    "mos": {
+     "texte": "D pa na n le togs bũmb a to ye. La b ka tõe n wilg bũmb ye, yaa sobg bala, vẽenem la lik bala. Fo sã n wa, fo pa yãend bũmb ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9012,
+     "fichier": "vur-voir-mos.m4a"
+    }
+   }
   },
   {
    "id": "reste",
@@ -291,7 +659,23 @@
    "texte": "Les nuits suivantes, un jeune homme ne dort plus. C'est lui qui a pris le mil. Une nuit, il rapporte le sac au pied du grenier. Mais Ebéyé est là.",
    "genre": "adulte/homme",
    "duree_ms": 12900,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Wakkati go'o, sukaajo mo ɗon ɗaani. Kanko woni jaɓɓi miliyaar. Wakkati go'oto, o wurtini ceede maako haa dammugal suudu. Ammaa Ebéyé ɗon.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 11902,
+     "fichier": "vur-reste-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Vʋʋsem a yiib-n-soabã, bi-bɩɩg a ye ra pa tol n gõe ye. A rɩka koodã. Daar a ye yʋngo, a lebg n waa ne bugum roogẽ wã. La a Ebéyé beeme.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 14110,
+     "fichier": "vur-reste-mos.m4a"
+    }
+   }
   },
   {
    "id": "n7",
@@ -305,7 +689,23 @@
    "texte": "C'est moi. Pardonne-moi, je n'en peux plus.",
    "genre": "adulte/homme",
    "duree_ms": 3410,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Ɗuum woni am. A yaafana yam, mi waawataa ɓeydaago.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3930,
+     "fichier": "vur-n7-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Yaa maam. Bas-y maam, m pa le tõe n maan woto ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4682,
+     "fichier": "vur-n7-mos.m4a"
+    }
+   }
   },
   {
    "id": "n8",
@@ -319,55 +719,151 @@
    "texte": "Dis-le à ceux qui ont accusé le berger.",
    "genre": "âgée/femme",
    "duree_ms": 3340,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "A wi'a yimɓe ɓe mbi'i mawɗo baali on.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3456,
+     "fichier": "vur-n8-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Wilg-y neb nins sẽn dõd pe-kɩɩmdã yellã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2928,
+     "fichier": "vur-n8-mos.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n9.question",
    "type": "jeu",
    "chemin": "nodes.n9.question",
-   "texte": "Le voleur n'est confondu par personne. Qu'est-ce qui l'a poussé à revenir ?"
+   "texte": "Le voleur n'est confondu par personne. Qu'est-ce qui l'a poussé à revenir ?",
+   "langues": {
+    "fuf": {
+     "texte": "Walaa gooduɗo ɓillaaɗo. Ko honɗun waɗi o wari?",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Ned sã n zãmbda, ned pa tõe n zab ne-a ye. Bõe n kɩt t'a lebg n wa?",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n9.gagne",
    "type": "jeu",
    "chemin": "nodes.n9.gagne",
-   "texte": "Oui : la peur et le remords le rongeaient."
+   "texte": "Oui : la peur et le remords le rongeaient.",
+   "langues": {
+    "fuf": {
+     "texte": "Goonga: kulol e ɓerɗe maako.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "N-ye, rabeem la sũ-sãangã ra namsd-a lame.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n9.perdu",
    "type": "jeu",
    "chemin": "nodes.n9.perdu",
-   "texte": "Non : personne ne l'a vu. Ce sont la peur et le remords qui le rongeaient."
+   "texte": "Non : personne ne l'a vu. Ce sont la peur et le remords qui le rongeaient.",
+   "langues": {
+    "fuf": {
+     "texte": "Walaa: walaa goɗɗo yi'i mo. Hakkiilo maako e hulɓuki ɓerɗe maako.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Ned pa yã-a ye. Yaa rabeem la sũ-sãangã n da namsd-a.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n9.reponses.0.label",
    "type": "jeu",
    "chemin": "nodes.n9.reponses.0.label",
-   "texte": "La peur et le remords"
+   "texte": "La peur et le remords",
+   "langues": {
+    "fuf": {
+     "texte": "Hakkiilo e ɓernde",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Zu-loees la sũ-sãamsã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n9.reponses.1.label",
    "type": "jeu",
    "chemin": "nodes.n9.reponses.1.label",
-   "texte": "Une récompense promise"
+   "texte": "Une récompense promise",
+   "langues": {
+    "fuf": {
+     "texte": "Jaɓɓorgo Ceede",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "A Zeova kãab-a lame t'a na n kõ-a-la barka",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n9.reponses.2.label",
    "type": "jeu",
    "chemin": "nodes.n9.reponses.2.label",
-   "texte": "Un témoin qui l'a vu"
+   "texte": "Un témoin qui l'a vu",
+   "langues": {
+    "fuf": {
+     "texte": "Goɗɗo go'o yi'i ɗum",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Kaset soab sẽn yã-a",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n9.tags.win",
    "type": "parcours",
    "chemin": "nodes.n9.tags.win",
-   "texte": "bonne réponse"
+   "texte": "bonne réponse",
+   "langues": {
+    "fuf": {
+     "texte": "jaabawol gooŋga",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "leokr sẽn yaa sõma",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n9.tags.lose",
    "type": "parcours",
    "chemin": "nodes.n9.tags.lose",
-   "texte": "réponse manquée"
+   "texte": "réponse manquée",
+   "langues": {
+    "fuf": {
+     "texte": "jaabol maayi",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "sẽn pa leokã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "n10",
@@ -381,7 +877,23 @@
    "texte": "Tu l'as dit toi-même. C'est bien.",
    "genre": "âgé/homme",
    "duree_ms": 2880,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "On mbi'i hoore mon. Ɗuum woni ko wooɗi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3258,
+     "fichier": "vur-n10-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Fo meng n yeel-a lame. Woto yaa sõma.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3306,
+     "fichier": "vur-n10-mos.m4a"
+    }
+   }
   },
   {
    "id": "n11",
@@ -395,7 +907,23 @@
    "texte": "On présente des excuses au berger, qui reprend sa route. Et le voleur travaillera le champ de la veuve. Le vur veille, dit-on. La vérité finit toujours par se savoir.",
    "genre": "adulte/homme",
    "duree_ms": 12900,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Ngam maajum, ɓe njaafani gooduɗo nyaamdu. Sey ɓoymaajo maɓɓa gese debbo duɗuɗo. Ɓe ɗon mbi'a wonde wolde. Goonga ɗon anndina yeeso bee ɓaawo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 10430,
+     "fichier": "vur-n11-fuf.m4a"
+    },
+    "mos": {
+     "texte": "B kosa pe-kɩɩmã sugri, t'a lebg n kẽng a sorẽ. Ned sã n wa soog pʋg-kõor pʋʋgẽ, B yetame t'a na n yɩɩ nin-buiida. Wakat ninga, nebã ra bãngda sɩdã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 14548,
+     "fichier": "vur-n11-mos.m4a"
+    }
+   }
   },
   {
    "id": "film-001",
@@ -411,7 +939,19 @@
    "texte": "Le mystère du vur. Un récit imaginé, inspiré de la tradition lyela.",
    "genre": "adulte/libre",
    "duree_ms": 6200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Ɓernde wooru. Ɗum ko haala ɓaleejo, ɗum hollitii e aada liyela.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Vur wã yel-solemdã. B sẽn yeelã yaa: \"Neb nins b sẽn maandã, b maana wa b sẽn da tẽedã\".",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-002",
@@ -427,7 +967,19 @@
    "texte": "Dans un village lyela, chacun connaît son voisin. Et chacun croit tout savoir de lui.",
    "genre": "adulte/libre",
    "duree_ms": 6500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "E nder wuro Lyela, koo moye anndi bandiraawo muuɗum. Ɓe fuu ɓe ngi'i ɓe andi koo ɗume dow maako.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Tẽng a yembr pʋgẽ, ned fãa mii a to. La ned kam fãa tagsdame t'a mii bũmb fãa yẽ mengã zugu.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-003",
@@ -443,7 +995,19 @@
    "texte": "Ebéyé, une veuve, garde dans son grenier tout le mil de l'année.",
    "genre": "adulte/libre",
    "duree_ms": 4600,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Mawɗo debbo mo'o maayi, ɗon cembiɗina nder ceede maako duuɓi ujune fuu.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Pʋg-kõorã sẽn yaa pʋg-paalã kogla a roogẽ bõn-buud fãa.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-004",
@@ -459,7 +1023,19 @@
    "texte": "Cette nuit-là, une ombre se glisse dans sa cour, et vide le grenier.",
    "genre": "adulte/libre",
    "duree_ms": 5000,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Nder jemma maajum, ɗerewol ɓadake nder suudu maako.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Zĩ-kãnga yʋngo, sobg n kẽe a zakẽ wã, la b zãag ne kood roogã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-005",
@@ -475,7 +1051,19 @@
    "texte": "Au matin, Ebéyé découvre le vol. Le village s'assemble.",
    "genre": "adulte/libre",
    "duree_ms": 5500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Nde subaka, Ebéyé heɓii ɓoymaaku. Yimɓe nder gariiri ɗon mooɓta.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Vẽkembeoogo, a Ebéyé bãngame tɩ b zãmb-a lame. Tẽngã tigimdame.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-006",
@@ -491,7 +1079,19 @@
    "texte": "Un berger de passage arrive. Le coupable est trouvé.",
    "genre": "adulte/libre",
    "duree_ms": 4500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Goonɗinɗo go'o ɗon wara. Goɗɗo mo waɗani ɗum heɓii.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Kɩɩmb n wat be. B yãee ned ning sẽn maan-a yel-wẽnã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-007",
@@ -507,7 +1107,19 @@
    "texte": "C'est lui ! C'est forcément lui !",
    "genre": "adulte/femme",
    "duree_ms": 4000,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Kanko woni! Kanko woni ko o waɗi!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Yaa yẽ! Yaa yẽ bal n tõe n maan woto!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-008",
@@ -523,7 +1135,19 @@
    "texte": "Il a beau nier, personne ne l'écoute.",
    "genre": "adulte/libre",
    "duree_ms": 3300,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Koo to o haɓɓi, walaa mo nana.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Baa a sã n kɩɩsda, ned baa a yen pa kelg-a ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-009",
@@ -539,7 +1163,19 @@
    "texte": "Sans preuve, on ne condamne personne.",
    "genre": "âgé/libre",
    "duree_ms": 3300,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "To walaa daliila, a waɗataa goɗɗo hakke.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Ned sã n pa tar kaset, a ka tõe n kao ned bʋʋd ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-010",
@@ -555,7 +1191,19 @@
    "texte": "Les anciens se réunissent. Personne n'a rien vu, et chacun soupçonne l'autre.",
    "genre": "adulte/libre",
    "duree_ms": 6200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Mawɓe ɗon kawta. Walaa go'oto yi'i kooɗume, nden kam ɓe fuu ɓe ɗon du'ana woɓɓe.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Kãsem dãmbã tigimdame. Ned pa yã bũmb ye, tɩ ned kam fãa tagsd a to yelle.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-011",
@@ -571,7 +1219,19 @@
    "texte": "Ils décident de s'en remettre au vur.",
    "genre": "adulte/libre",
    "duree_ms": 3000,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Kamɓe ɓe njokki haala maɓɓe.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "B yãka yam n na n bas-a lame.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-012",
@@ -587,7 +1247,19 @@
    "texte": "Ils partent vers le lieu du vur. On n'en dira pas plus.",
    "genre": "adulte/libre",
    "duree_ms": 4600,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Ɓe ɗon njaha haa nokkuure wooɗugo. Walaa ko ɓe mbi'ata dow maajum.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "B kẽnga tẽn-kʋdgã zĩigẽ. D pa na n le togs bũmb a to ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-013",
@@ -603,7 +1275,19 @@
    "texte": "Il n'y a rien à montrer : seulement le vent, une lumière, et le noir.",
    "genre": "adulte/libre",
    "duree_ms": 5200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Walaa ko hollata, sey hendu, jayngol e nyiwre.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "La b ka tõe n wilg bũmb ye, yaa sobg bala, vẽenem la lik bala.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-014",
@@ -619,7 +1303,19 @@
    "texte": "Les nuits suivantes, un jeune homme ne dort plus.",
    "genre": "adulte/libre",
    "duree_ms": 3400,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Wakkati go'o, sukaajo mo ɗon ɗaani.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Vʋʋsem a yiib-n-soabã, bi-bɩɩg a ye ra pa tol n gõe ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-015",
@@ -635,7 +1331,19 @@
    "texte": "C'est lui qui a pris le mil. La peur et le remords le rongent.",
    "genre": "adulte/libre",
    "duree_ms": 5100,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Kanko woni jaɓɓi miliyaar. Hakkiilo e ɓerɗe maako ɗon nyaami mo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A rɩka koodã. La rabeemã la a sũur sãamame.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-016",
@@ -651,7 +1359,19 @@
    "texte": "Une nuit, il rapporte le sac, et il le dépose au pied du grenier. Mais Ebéyé est là.",
    "genre": "adulte/libre",
    "duree_ms": 6700,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Nder jemma o wurtini ceede nden, o hoccani ɗum to hooseere wuro. Ammaa Ebéyé ɗon.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Daar a ye yʋngo, a wʋka sakã n bĩng koglgã tẽngre. La a Ebéyé beeme.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-017",
@@ -667,7 +1387,19 @@
    "texte": "C'est moi. Pardonne-moi, je n'en peux plus.",
    "genre": "adulte/homme",
    "duree_ms": 3400,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Ɗuum woni am. A yaafana yam, mi waawataa ɓeydaago.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Yaa maam. Bas-y maam, m pa le tõe n maan woto ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-018",
@@ -683,7 +1415,19 @@
    "texte": "C'est moi qui ai volé. Pas le berger.",
    "genre": "adulte/homme",
    "duree_ms": 3100,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Mi timmini. Walaa boowal mawɗo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Yaa maam n yibe. Pa pe-kɩɩmã ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-019",
@@ -699,7 +1443,19 @@
    "texte": "Tu l'as dit toi-même. C'est bien.",
    "genre": "âgé/libre",
    "duree_ms": 3600,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "On mbi'i hoore mon. Ɗuum woni ko wooɗi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Fo meng n yeel-a lame. Woto yaa sõma.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-020",
@@ -715,7 +1471,19 @@
    "texte": "On présente des excuses au berger, qui reprend sa route.",
    "genre": "adulte/libre",
    "duree_ms": 4300,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Ngam maajum, ɓe njaafani gooduɗo nyaamdu.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "B kosa pe-kɩɩmã sugri, t'a lebg n kẽng a sorẽ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-021",
@@ -731,7 +1499,19 @@
    "texte": "Et le voleur travaillera le champ de la veuve.",
    "genre": "adulte/libre",
    "duree_ms": 3200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Sey ɓoymaajo maɓɓa gese debbo duɗuɗo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Ned sã n wa soog pʋg-kõor pʋʋgẽ,",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-022",
@@ -747,7 +1527,19 @@
    "texte": "Le vur veille, dit-on. La vérité finit toujours par se savoir.",
    "genre": "adulte/libre",
    "duree_ms": 5900,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Ɓe ɗon mbi'a wonde wolde. Goonga ɗon anndina yeeso bee ɓaawo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "B yetame t'a na n yɩɩ nin-buiida. Wakat ninga, nebã ra bãngda sɩdã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   }
  ]
 }

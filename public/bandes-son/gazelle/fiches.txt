@@ -11,6 +11,10 @@ texte: Autrefois, la gazelle n'avait aucune marque sur le museau. Chaque jour, e
 genre: adulte/homme
 duree: 8880ms (estimée)
 texte_en: Once, the gazelle had no mark on her muzzle. Every day she stopped at the pond to admire her lovely face.
+texte_dyu: Wagati tɛmɛninw na, tagamasiyɛn si tun t'a ɲada la. Loon o loon, a tun be to k'a filɛ a ɲada cɛɲumanba ye.
+enregistre_dyu: gazelle-n1-dyu.m4a (8714ms)
+texte_mos: Pĩnd wẽndẽ wã, sã n wa beẽ-kãnga, a ra pa tar makr baa a yen a nifẽ ye. Zu-loees fãa, a ra basd-a lame t'a ges a nin-sõngo.
+enregistre_mos: gazelle-n1-mos.m4a (9898ms)
 
 piste: n2
 histoire: Les deux traits de la gazelle
@@ -22,6 +26,10 @@ texte: Alors, vieux lent, tu arriveras avant la saison des pluies ?
 genre: voix de conte/libre
 duree: 4780ms (estimée)
 texte_en: Well, old slowcoach, will you get there before the rainy season?
+texte_dyu: O tuma na, mɔgɔkɔrɔba malasa, i bena se yan sanni sanji ka ben wa?
+enregistre_dyu: gazelle-n2-dyu.m4a (5440ms)
+texte_mos: Rẽ yĩnga, zo-rũng sẽn yaa sũ-mar soaba, fo na n waa be tɩ saaga yaool n ta bɩ?
+enregistre_mos: gazelle-n2-mos.m4a (6752ms)
 
 piste: n3
 histoire: Les deux traits de la gazelle
@@ -33,6 +41,10 @@ texte: Elle tourne autour de toi en sautant par-dessus ta tête. Le lièvre et l
 genre: adulte/homme
 duree: 9260ms (estimée)
 texte_en: She circles you, leaping over your head. The hare and the guinea fowl start to laugh. What do you answer?
+texte_dyu: A be kolonkolon i fan fɛ, k'i kunbiri gwan. Lɔnnikɛbaga n'a ɲamaɲama b'a daminɛ ka yɛlɛ. I b'a jaabi cogo di?
+enregistre_dyu: gazelle-n3-dyu.m4a (9092ms)
+texte_mos: A leb n wẽnda fo zugã, n zʋʋgd foo zugu. Zĩigã ne piisgã sɩngame n yãgsda. Yãmb leokda bõe?
+enregistre_mos: gazelle-n3-mos.m4a (9044ms)
 
 piste: insulte
 histoire: Les deux traits de la gazelle
@@ -44,6 +56,10 @@ texte: Oh, il sait parler ! Répète donc, je n'ai pas eu le temps de t'entendre
 genre: voix de conte/libre
 duree: 7890ms (estimée)
 texte_en: Oh, it can talk! Say that again, I had no time to hear you, I was already far away.
+texte_dyu: A be se ka kuma! O ra, a fɔ ne ye tuun ko ne ma wagati sɔrɔ ka i lamɛn, sabu ne tun tɛ yɔrɔjan fɔlɔ.
+enregistre_dyu: gazelle-insulte-dyu.m4a (8234ms)
+texte_mos: A tõe n goma! Rẽ yĩnga, leb n yeel-y lame tɩ m ka tar sẽk n kelg yãmb ye.
+enregistre_mos: gazelle-insulte-mos.m4a (6426ms)
 
 piste: n4
 histoire: Les deux traits de la gazelle
@@ -55,6 +71,10 @@ texte: Tu ravales ta colère. Il faut mieux que des mots.
 genre: adulte/homme
 duree: 4400ms (estimée)
 texte_en: You swallow your anger. This calls for more than words.
+texte_dyu: I be dimi kojugu. A ka fisa ni kuma ye.
+enregistre_dyu: gazelle-n4-dyu.m4a (3722ms)
+texte_mos: Fo sũur sãamda wʋsgo. Yaa bũmb sẽn yɩɩd gom-biis bal la d segd n maane.
+enregistre_mos: gazelle-n4-mos.m4a (5562ms)
 
 piste: calme
 histoire: Les deux traits de la gazelle
@@ -66,6 +86,10 @@ texte: Une course, gazelle. Jusque là-bas, à la termitière rouge.
 genre: voix de conte/libre
 duree: 4320ms (estimée)
 texte_en: A race, gazelle. To over there, to the red termite mound.
+texte_dyu: O ye ɲɔgɔndan dɔ le ye. O yɔrɔ la, a tun be i n'a fɔ terimitiri wulen.
+enregistre_dyu: gazelle-calme-dyu.m4a (5754ms)
+texte_mos: Yaa zoees bala, gazelle. Sẽn kolg-a n ta be wã, t'a lebg a Termitɛɛr sẽn yaa miuugu.
+enregistre_mos: gazelle-calme-mos.m4a (7450ms)
 
 piste: n5
 histoire: Les deux traits de la gazelle
@@ -77,6 +101,10 @@ texte: L'éléphant accepte d'être le juge. Il trace la ligne d'arrivée d'un g
 genre: adulte/homme
 duree: 8880ms (estimée)
 texte_en: The elephant agrees to be the judge. He marks the finish line with a sweep of his trunk. The whole bush wants to see this.
+texte_dyu: Elefan sɔnna ka kɛ kititigɛla ye. O kɔ, a ye burufiyɛkan dɔ kɛ k'a kuun sinsin. O yɔrɔ mɔgɔw bɛɛ b'a fɛ k'o ye.
+enregistre_dyu: gazelle-n5-dyu.m4a (8868ms)
+texte_mos: Tĩngã sakame n na n yɩ bʋ-kaood. A rɩka karẽn-biis a ye n na n maan bũmb sẽn tõe n sõng-a t'a paam saagr wʋsgo. Tẽngã fãa rat n yãame.
+enregistre_mos: gazelle-n5-mos.m4a (14180ms)
 
 piste: n6
 histoire: Les deux traits de la gazelle
@@ -88,6 +116,10 @@ texte: Regardez-moi bien, tous ! Je partirai en dernier, pour vous laisser le te
 genre: voix de conte/libre
 duree: 6980ms (estimée)
 texte_en: Watch me, all of you! I'll start last, to give you time to sit down.
+texte_dyu: Aw bɛɛ k'aw ɲaa sin ne ma. Ne yɛrɛ le bena kɛ laban ye, janko aw ka se ka sigi.
+enregistre_dyu: gazelle-n6-dyu.m4a (6074ms)
+texte_mos: Ges-y maam neere! Mam na n yɩɩ yaoolem soaba, tɩ y paam sẽk n zĩnd.
+enregistre_mos: gazelle-n6-mos.m4a (5754ms)
 
 piste: n7
 histoire: Les deux traits de la gazelle
@@ -99,6 +131,10 @@ texte: Pendant qu'elle fanfaronne, comment courir ?
 genre: adulte/homme
 duree: 2730ms (estimée)
 texte_en: While she shows off, how will you run?
+texte_dyu: N'a b'a fɛ k'a yɛrɛ boɲa, a be se ka boli cogo di?
+enregistre_dyu: gazelle-n7-dyu.m4a (3424ms)
+texte_mos: La a sẽn wa n maand woto wã, wãn to la d tõe n zoe?
+enregistre_mos: gazelle-n7-mos.m4a (3024ms)
 
 piste: avance
 histoire: Les deux traits de la gazelle
@@ -110,6 +146,10 @@ texte: Reviens sur la ligne, caméléon. Même les juges voient ça.
 genre: voix de conte/libre
 duree: 4550ms (estimée)
 texte_en: Back to the line, chameleon. Even judges can see that.
+texte_dyu: I ka segi k'a fɔ ne ye, kamɛliɔn. Hali kititigɛlaw yɛrɛ b'o ye.
+enregistre_dyu: gazelle-avance-dyu.m4a (5354ms)
+texte_mos: Bas-y tɩ d lebg n wa, kameleonã. Baa bʋ-kaoodbã me geta rẽ.
+enregistre_mos: gazelle-avance-mos.m4a (5002ms)
 
 piste: n8
 histoire: Les deux traits de la gazelle
@@ -121,6 +161,10 @@ texte: Tu rentres, l'air de rien. L'éléphant lève la trompe, la gazelle s'env
 genre: adulte/homme
 duree: 11380ms (estimée)
 texte_en: You walk back, as if nothing had happened. The elephant raises his trunk, the gazelle takes flight, and you take three steps. She does not even need to look back.
+texte_dyu: N'i kɔsegira, i be komi i tɛ foyi kɛra. Elefan b'a ta buru fiyɛ, kongowara bɛ borira; ele fana bɛ tagama saba. A t'a fɛ k'a ɲɛɛ yɛlɛma.
+enregistre_dyu: gazelle-n8-dyu.m4a (10142ms)
+texte_mos: Fo sã n wa beẽ, fo pa mi bũmb ye. Zĩ-kãnga zẽkda a bugum, la we-rũngã kelemdame. La fo maanda so-toog a tãabo. A pa segd n wẽnemd a meng ye.
+enregistre_mos: gazelle-n8-mos.m4a (12942ms)
 
 piste: dos
 histoire: Les deux traits de la gazelle
@@ -132,6 +176,10 @@ texte: L'éléphant lève la trompe, et la gazelle bondit, légère comme le ven
 genre: adulte/homme
 duree: 8270ms (estimée)
 texte_en: The elephant raises his trunk and the gazelle bounds off, light as the wind. On her back, you do not move.
+texte_dyu: Elefan b'a ta buru fiyɛ, kongowara bɛ bori ka bɔ san fɛ i ko fɔɲɔ. N'i tora n'a ye a kɔfɛ, i tɛ se ka foyi kɛ.
+enregistre_dyu: gazelle-dos-dyu.m4a (9706ms)
+texte_mos: Zĩ-kãnga zẽka a tãmbã, la bõn-naandã zʋʋgame, n yɩlem wa sobgã. Fo ka yikd a poorẽ ye.
+enregistre_mos: gazelle-dos-mos.m4a (9242ms)
 
 piste: n9
 histoire: Les deux traits de la gazelle
@@ -143,6 +191,10 @@ texte: Elle se retourne : personne derrière elle. À la mare, elle boit tranqui
 genre: adulte/homme
 duree: 11000ms (estimée)
 texte_en: She turns round: nobody behind her. At the pond, she drinks calmly. You must stay unnoticed. A riddle to pass the time!
+texte_dyu: A y'a ɲaa yɛlɛma, mɔgɔ si ma to a kɔ. A be to ka minni kɛ n'a ye. I ka kan k'a to mɔgɔw b'i ɲinɛ. N' tun b'a fɛ ka wagati ta cogo min na, n' y'o lɔn.
+enregistre_dyu: gazelle-n9-dyu.m4a (11134ms)
+texte_mos: A wẽnemdame: ned ka be a poorẽ ye. A sẽn wa n be wã, a yũuda ne sũ-noogo. Fo segd n kɩtame tɩ b yĩm f yelle. Yãk-y n tool-y neda!
+enregistre_mos: gazelle-n9-mos.m4a (11656ms)
 
 piste: n11
 histoire: Les deux traits de la gazelle
@@ -154,6 +206,10 @@ texte: Juste avant la ligne, la gazelle s'arrête pour se moquer de la piste vid
 genre: adulte/homme
 duree: 12980ms (estimée)
 texte_en: Just before the line, the gazelle stops to mock the empty track. Then you jump from her back and cross the line. The whole bush bursts out laughing.
+texte_dyu: O kɔ, a y'a daminɛ k'o sira tagama. O kɔ, i be boli ka bɔ a kɔ. Yirisun bɛɛ tun be yɛlɛla.
+enregistre_dyu: gazelle-n11-dyu.m4a (9076ms)
+texte_mos: A sẽn wa n be sorẽ wã, a gãagã sɩnga n na n yãg-a lame. Rẽ poore, y na n yɩɩg-a lame, la y sãame. La log-tẽngã fãa yãgdame.
+enregistre_mos: gazelle-n11-mos.m4a (11780ms)
 
 piste: n12
 histoire: Les deux traits de la gazelle
@@ -165,6 +221,10 @@ texte: Pour la première fois, elle pleure. Ses larmes de honte laissent deux tr
 genre: adulte/homme
 duree: 9260ms (estimée)
 texte_en: For the first time, she weeps. Her tears of shame leave two black stripes on her muzzle, and they never fade.
+texte_dyu: A siɲɛ fɔlɔ lo ka kasi. A ɲaji minw bɛ bɔ a maroya ra, o ye finfin fla to a ɲada kan; o tɛ bɔ tuun.
+enregistre_dyu: gazelle-n12-dyu.m4a (9300ms)
+texte_mos: Yaa rẽ n kɩt t'a yãbdẽ. A yãbrã sẽn kɩt t'a nintãmã pa le loogd ye.
+enregistre_mos: gazelle-n12-mos.m4a (5210ms)
 
 piste: film-001
 histoire: Les deux traits de la gazelle
@@ -175,6 +235,8 @@ intonation: malicieux (scénario)
 texte: Les deux traits de la gazelle. Un conte bwaba.
 genre: adulte/libre
 duree: 4300ms (mesurée sur le film)
+texte_dyu: Gasiliw ka jogo fila bɛɛ. A ye koo dɔ lakali.
+texte_mos: Gʋls-kãnga yel-bũn a yiibã fãa. A yaa bwaba kibar.
 
 piste: film-002
 histoire: Les deux traits de la gazelle
@@ -185,6 +247,8 @@ intonation: posé (proposée)
 texte: Autrefois, la gazelle n'avait aucune marque sur le museau. C'était la plus rapide de la brousse, et elle le savait.
 genre: adulte/libre
 duree: 7900ms (mesurée sur le film)
+texte_dyu: Wagati tɛmɛninw na, tagamasiyɛn si tun t'a ɲada la. A tun be se ka tɛmɛ bɛɛ kan ani a tun b'o lɔn.
+texte_mos: Pĩnd wẽndẽ wã, sã n wa beẽ-kãnga, a ra pa tar makr baa a yen a nifẽ ye. A ra yaa ned sẽn tar pãng n yɩɩd zĩ-kãens fãa, la a ra miime.
 
 piste: film-003
 histoire: Les deux traits de la gazelle
@@ -195,6 +259,8 @@ intonation: posé (proposée)
 texte: Chaque jour, elle s'arrêtait à la mare pour admirer son beau visage.
 genre: adulte/libre
 duree: 4700ms (mesurée sur le film)
+texte_dyu: Loon o loon, a tun be to k'a filɛ a ɲada cɛɲumanba ye.
+texte_mos: Zu-loees fãa, a ra basd-a lame t'a ges a nin-sõngo.
 
 piste: film-004
 histoire: Les deux traits de la gazelle
@@ -205,6 +271,8 @@ intonation: posé (proposée)
 texte: Un matin, elle croisa le caméléon, qui avançait une patte après l'autre.
 genre: adulte/libre
 duree: 5300ms (mesurée sur le film)
+texte_dyu: Loon dɔ sɔgɔma, a y'a ye ko kamɛliɔn tun be tagara.
+texte_mos: Daar a ye koabgẽ, a yãame t'a kamelõonã kẽnga taoor ne a nao n paasdẽ.
 
 piste: film-005
 histoire: Les deux traits de la gazelle
@@ -215,6 +283,8 @@ intonation: moqueur (scénario)
 texte: Alors, vieux lent, tu arriveras avant la saison des pluies ?
 genre: adulte/femme
 duree: 4500ms (mesurée sur le film)
+texte_dyu: O tuma na, mɔgɔkɔrɔba malasa, i bena se yan sanni sanji ka ben wa?
+texte_mos: Rẽ yĩnga, zo-rũng sẽn yaa sũ-mar soaba, fo na n waa be tɩ saaga yaool n ta bɩ?
 
 piste: film-006
 histoire: Les deux traits de la gazelle
@@ -225,6 +295,8 @@ intonation: posé (proposée)
 texte: Elle tourna autour de lui en sautant par-dessus sa tête. Le lièvre et la pintade se mirent à rire.
 genre: adulte/libre
 duree: 6700ms (mesurée sur le film)
+texte_dyu: A y'a kolonkolon k'a kunbiri gwan. Lɔnnikɛbaga ni sungurunin y'a daminɛ ka yɛlɛ ɲɔgɔn fɛ.
+texte_mos: A wẽnga a zug n zʋʋg a zugu. Zĩigã ne piiga sɩngame n yãgd-a.
 
 piste: film-007
 histoire: Les deux traits de la gazelle
@@ -235,6 +307,8 @@ intonation: malicieux (scénario)
 texte: Le caméléon s'arrêta, changea de couleur, et ne dit rien.
 genre: adulte/libre
 duree: 4700ms (mesurée sur le film)
+texte_dyu: O kɔ, a y'a fari yɛlɛma ani a ma foyi fɔ.
+texte_mos: La kameleõ wã sĩndame, n toeem a yĩn-vẽenega, la a ka leok ye.
 
 piste: film-008
 histoire: Les deux traits de la gazelle
@@ -245,6 +319,8 @@ intonation: calme, rusé (scénario)
 texte: Une course, gazelle. Jusque là-bas, à la termitière rouge.
 genre: adulte/homme
 duree: 5900ms (mesurée sur le film)
+texte_dyu: O ye ɲɔgɔndan dɔ le ye. O yɔrɔ la, a tun be i n'a fɔ terimitiri wulen.
+texte_mos: Yaa zoees bala, gazelle. Sẽn kolg-a n ta be wã, t'a lebg a Termitɛɛr sẽn yaa miuugu.
 
 piste: film-009
 histoire: Les deux traits de la gazelle
@@ -255,6 +331,8 @@ intonation: posé (proposée)
 texte: L'éléphant, qui passait par là, accepta d'être le juge.
 genre: adulte/libre
 duree: 4600ms (mesurée sur le film)
+texte_dyu: Elefan min tun be tɛmɛna, ale sɔnna ka kɛ kititigɛbaga ye.
+texte_mos: Wʋs-kãnga sẽn da loogd be wã sakame n na n yɩ bʋ-kaood.
 
 piste: film-010
 histoire: Les deux traits de la gazelle
@@ -265,6 +343,8 @@ intonation: posé (proposée)
 texte: Il traça la ligne d'arrivée d'un geste de la trompe. Toute la brousse voulut voir ça.
 genre: adulte/libre
 duree: 6000ms (mesurée sur le film)
+texte_dyu: O kɔ, a y'a fɔ u ye ko: "Aw k'aw tulo malɔ ka ɲa. Yiriw bɛɛ tun b'a fɛ k'o ye.
+texte_mos: A sẽn wa n na n maan woto wã, a maana yɩɩl-yẽng n wilg sor ning b sẽn na n ta. Kẽerã fãa ra rat n yãame.
 
 piste: film-011
 histoire: Les deux traits de la gazelle
@@ -275,6 +355,8 @@ intonation: posé (proposée)
 texte: Le jour venu, la gazelle fanfaronna devant les autres.
 genre: adulte/libre
 duree: 4300ms (mesurée sur le film)
+texte_dyu: Dugu gwɛra tuma min na, wara nin tun b'a yɛrɛ bonya mɔgɔw bɛɛ ɲana.
+texte_mos: Zĩig sã n wa vẽege, bu-zẽkrã ra pẽgda neb a taabã taoore.
 
 piste: film-012
 histoire: Les deux traits de la gazelle
@@ -285,6 +367,8 @@ intonation: chuchoté (scénario)
 texte: Pendant ce temps, le caméléon s'approchait sans bruit. Il grimpa sur son dos et prit la couleur de son pelage.
 genre: adulte/libre
 duree: 7800ms (mesurée sur le film)
+texte_dyu: Ka fara o kan, kamɛliɔn tun b'a fɛ ka gwɛrɛ. A yɛlɛnna a kɔ kan k'a fari furakɛ.
+texte_mos: Wakat kãng fãa, kameleõ wã kolga ne sũ-noogo. A kẽnga a poorẽ n dɩk a sũ-paalgã sãnem.
 
 piste: film-013
 histoire: Les deux traits de la gazelle
@@ -295,6 +379,8 @@ intonation: enlevé (scénario)
 texte: L'éléphant leva la trompe, et la gazelle bondit, légère comme le vent.
 genre: adulte/libre
 duree: 4500ms (mesurée sur le film)
+texte_dyu: Elefan le ka buru fiyɛ, kongowara fana wurira; a tɛ foyi ɲa i ko fɔɲɔ.
+texte_mos: Ninsaalã zẽka a yɩɩnga, t'a sãnemd wa sobgã.
 
 piste: film-014
 histoire: Les deux traits de la gazelle
@@ -305,6 +391,8 @@ intonation: posé (proposée)
 texte: Elle se retourna : personne derrière elle. Elle ralentit, sûre de sa victoire.
 genre: adulte/libre
 duree: 6300ms (mesurée sur le film)
+texte_dyu: A y'a ɲaa yɛlɛma, mɔgɔ si ma to a kɔ. A tun lanin b'a la ko a bena see sɔrɔ.
+texte_mos: A wẽneg n wẽnda a poorẽ: ned ka be ye. A sẽn na n tõog-a wã kɩtame t'a pa tar raood ye.
 
 piste: film-015
 histoire: Les deux traits de la gazelle
@@ -315,6 +403,8 @@ intonation: posé (proposée)
 texte: À la mare, elle but tranquillement. Sur son dos, le caméléon ne bougeait pas.
 genre: adulte/libre
 duree: 6100ms (mesurée sur le film)
+texte_dyu: A tun be to ka dɔrɔ min n'a ye. O kɔ, kamɛliɔn tun tɛ se k'a lamaga.
+texte_mos: A sẽn wa n be wã, a yũuda sũ-bʋgsem. A sẽn da be a poorẽ wã, kameleonã ra pa yikd ye.
 
 piste: film-016
 histoire: Les deux traits de la gazelle
@@ -325,6 +415,8 @@ intonation: posé (proposée)
 texte: Puis elle repartit, en riant toute seule.
 genre: adulte/libre
 duree: 3500ms (mesurée sur le film)
+texte_dyu: O kɔ, a y'a yɛrɛ yɛlɛla.
+texte_mos: Rẽ poore, a yiime n sega a meng.
 
 piste: film-017
 histoire: Les deux traits de la gazelle
@@ -335,6 +427,8 @@ intonation: posé (proposée)
 texte: Juste avant la ligne, elle s'arrêta pour se moquer de la piste vide.
 genre: adulte/libre
 duree: 4700ms (mesurée sur le film)
+texte_dyu: O kɔ, a lɔra ka yɛlɛko kɛ sira lakolon kan.
+texte_mos: A sẽn wa n be sorẽ wã, a sɩnga n na n maan yaal ne rotã sẽn pa tar pãng ye.
 
 piste: film-018
 histoire: Les deux traits de la gazelle
@@ -345,6 +439,8 @@ intonation: malicieux (scénario)
 texte: Alors le caméléon sauta de son dos et franchit la ligne. Il avait gagné !
 genre: adulte/libre
 duree: 5700ms (mesurée sur le film)
+texte_dyu: O kɔ, kamɛliɔn bolila ka bɔ a kɔfɛ ka tɛmɛ. A ye see sɔrɔ!
+texte_mos: Rẽ n so t'a kameleõ wã yi a poorẽ, n tɩ pɩʋʋg sorã. A ra tõoga!
 
 piste: film-019
 histoire: Les deux traits de la gazelle
@@ -355,6 +451,8 @@ intonation: posé (proposée)
 texte: Toute la brousse éclata de rire.
 genre: adulte/libre
 duree: 2800ms (mesurée sur le film)
+texte_dyu: Yirisun bɛɛ tun be yɛlɛla.
+texte_mos: La log-tẽngã fãa ra yãgda.
 
 piste: film-020
 histoire: Les deux traits de la gazelle
@@ -365,6 +463,8 @@ intonation: triste (scénario)
 texte: La gazelle ne dit plus rien. Pour la première fois, elle pleura.
 genre: adulte/libre
 duree: 5300ms (mesurée sur le film)
+texte_dyu: A ma foyi fɔ tugun. A siɲɛ fɔlɔ la, a kasira.
+texte_mos: Gɛtã ka leb n gomd ye. Yaa rẽ n kɩt t'a yãbdẽ.
 
 piste: film-021
 histoire: Les deux traits de la gazelle
@@ -375,6 +475,8 @@ intonation: posé (proposée)
 texte: Ses larmes de honte coulèrent le long de son museau, et y laissèrent deux traits noirs.
 genre: adulte/libre
 duree: 4900ms (mesurée sur le film)
+texte_dyu: A ka maroya kosɔn, a ɲaji jigira k'a ɲada datugu.
+texte_mos: A yãnde nintãm yii a nifẽ, n bas zĩn-dãmb a yiib sẽn ya wĩndgo.
 
 piste: film-022
 histoire: Les deux traits de la gazelle
@@ -385,6 +487,8 @@ intonation: posé (proposée)
 texte: Elle eut beau frotter, ils ne partirent plus.
 genre: adulte/libre
 duree: 3200ms (mesurée sur le film)
+texte_dyu: O kɔ, a y'a fɔ o ye ko: "Aw kana bɔ yan tuun.
+texte_mos: A sẽn wa n tãag-a wã, b pa le yik ye.
 
 piste: film-023
 histoire: Les deux traits de la gazelle
@@ -395,3 +499,5 @@ intonation: doux (scénario)
 texte: Depuis ce jour, toutes les gazelles portent ces deux traits. Et le caméléon, lui, avance toujours sans se presser.
 genre: adulte/libre
 duree: 8500ms (mesurée sur le film)
+texte_dyu: Kabi o wagati, gazelɔnw bɛɛ b'o jogo fila lo yira. Kameliyɔnw kɔni, u tɛ teliya ka taga.
+texte_mos: Sẽn sɩng ne rũndã-rũndã, gazelã fãa tara zʋg-kãensã a yiibã. La kameleõ wã ket n kẽndame, la a pa yãgdẽ ye.

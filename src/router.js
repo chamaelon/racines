@@ -9,6 +9,7 @@ const ROUTES = [
   { re: /^\/carte(?:\/([^/]+))?$/, vue: 'carte', charge: () => import('./views/carte.js') },
   { re: /^\/catalogue$/, vue: 'catalogue', charge: () => import('./views/catalogue.js') },
   { re: /^\/recit\/([^/]+)$/, vue: 'recit', nav: 'catalogue', charge: () => import('./views/recit.js') },
+  { re: /^\/film\/([^/]+)$/, vue: 'film', nav: 'catalogue', charge: () => import('./views/film.js') },
   { re: /^\/jouer\/([^/]+)$/, vue: 'jeu', charge: () => import('./views/jeu.js') },
   { re: /^\/patrimoine(?:\/([^/]+))?$/, vue: 'patrimoine', charge: () => import('./views/patrimoine.js') },
   { re: /^\/parcours$/, vue: 'parcours', charge: () => import('./views/parcours.js') },

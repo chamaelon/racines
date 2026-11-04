@@ -11,61 +11,149 @@
    "id": "titre",
    "type": "titre",
    "chemin": "titre",
-   "texte": "L'émirat du Liptako"
+   "texte": "L'émirat du Liptako",
+   "langues": {
+    "dyu": {
+     "texte": "Liptako ka Masaya",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Liptako soolmã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "presentation",
    "type": "presentation",
    "chemin": "presentation",
-   "texte": "Début du XIXe siècle, à Dori. Un troupeau entre dans un champ, et la querelle devient une guerre. Tu écoutes les deux camps avant de voir naître l'émirat. Tes choix changent ton regard, pas les faits."
+   "texte": "Début du XIXe siècle, à Dori. Un troupeau entre dans un champ, et la querelle devient une guerre. Tu écoutes les deux camps avant de voir naître l'émirat. Tes choix changent ton regard, pas les faits.",
+   "langues": {
+    "dyu": {
+     "texte": "Saan 1800 daminɛ na, Dori dugu la. Ni sagakuru donna kongo kɔnɔ, kɛrɛ bɛ kɛ kɛrɛ ye. I ka kan k'i tulo malɔ kɛlɛkɛyɔrɔ fila bɛɛ la sani i ye kibaro diiman fɔ. I be koow latigɛ cogo min na, o lo b'a to i be yɛlɛmani don u la.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Yʋʋmd 1800 wã sɩngrẽ, Dori. Kẽer kẽeda pʋʋg pʋgẽ, la no-koeemd lebg zabr ye. Fo kelgd-a lame n yaool n yã Rĩungã rogmã. Fo sẽn yãk yam n na n maan bũmb ninsã pa kɩtd tɩ f toeem f tagsgo.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "personnages.griot.nom",
    "type": "personnage",
    "chemin": "personnages.griot.nom",
-   "texte": "Le griot"
+   "texte": "Le griot",
+   "langues": {
+    "dyu": {
+     "texte": "Le griot"
+    },
+    "mos": {
+     "texte": "Le griot"
+    }
+   }
   },
   {
    "id": "personnages.cultivateur.nom",
    "type": "personnage",
    "chemin": "personnages.cultivateur.nom",
-   "texte": "Le cultivateur"
+   "texte": "Le cultivateur",
+   "langues": {
+    "dyu": {
+     "texte": "Le cultivateur"
+    },
+    "mos": {
+     "texte": "Le cultivateur"
+    }
+   }
   },
   {
    "id": "personnages.berger.nom",
    "type": "personnage",
    "chemin": "personnages.berger.nom",
-   "texte": "Le berger"
+   "texte": "Le berger",
+   "langues": {
+    "dyu": {
+     "texte": "Le berger"
+    },
+    "mos": {
+     "texte": "Le berger"
+    }
+   }
   },
   {
    "id": "personnages.chef.nom",
    "type": "personnage",
    "chemin": "personnages.chef.nom",
-   "texte": "Le chef gulmancé"
+   "texte": "Le chef gulmancé",
+   "langues": {
+    "dyu": {
+     "texte": "Le chef gulmancé"
+    },
+    "mos": {
+     "texte": "Le chef gulmancé"
+    }
+   }
   },
   {
    "id": "personnages.marabout.nom",
    "type": "personnage",
    "chemin": "personnages.marabout.nom",
-   "texte": "Le marabout"
+   "texte": "Le marabout",
+   "langues": {
+    "dyu": {
+     "texte": "Le marabout"
+    },
+    "mos": {
+     "texte": "Le marabout"
+    }
+   }
   },
   {
    "id": "personnages.emir.nom",
    "type": "personnage",
    "chemin": "personnages.emir.nom",
-   "texte": "L'émir"
+   "texte": "L'émir",
+   "langues": {
+    "dyu": {
+     "texte": "L'émir"
+    },
+    "mos": {
+     "texte": "L'émir"
+    }
+   }
   },
   {
    "id": "fins.canon",
    "type": "fin",
    "chemin": "fins.canon",
-   "texte": "Mémoire : Dori, capitale du Liptako"
+   "texte": "Mémoire : Dori, capitale du Liptako",
+   "langues": {
+    "dyu": {
+     "texte": "Lɔnnikɛla: Dori, Liptako duguba",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Tẽegre: Dori, Liptako tẽn-kãsengã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "fins.relire",
    "type": "fin",
    "chemin": "fins.relire",
-   "texte": "Mémoire à reprendre : retourne au marché de Dori"
+   "texte": "Mémoire à reprendre : retourne au marché de Dori",
+   "langues": {
+    "dyu": {
+     "texte": "O kɔ, an ka taga Dori lɔgɔfiyɛ la",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Tẽeg-y bũmb ning sẽn na n yɩ to-to: lebg n kẽng Dori wã zĩiga",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "n1",
@@ -79,7 +167,23 @@
    "texte": "Début du dix-neuvième siècle, dans la région de Dori, au Sahel. Ici vivent deux mondes : les éleveurs peuls avec leurs troupeaux, et les cultivateurs gulmancé avec leurs champs.",
    "genre": "adulte/homme",
    "duree_ms": 12220,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Saan 1900 wagati daminɛ na, Dori mara la Sahɛli jamana na. Jamana fla le bɛ yan: sagadɛndɛbagaw ni o ta bɛganw, ani sɛnɛkɛlaw ni o ka forow.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 11940,
+     "fichier": "liptako-n1-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Yʋʋm kobs a 19 soabã sɩngrẽ, Dori soolmẽ wã. Yaa neb a yiib n be tẽng zug: pe-kɩɩmb ne b rũmbu, la pʋʋsa rãmb ne b pʋtẽ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 10564,
+     "fichier": "liptako-n1-mos.m4a"
+    }
+   }
   },
   {
    "id": "n2",
@@ -93,7 +197,23 @@
    "texte": "La terre doit nourrir les uns et les autres. Mais un jour, un troupeau entre dans un champ.",
    "genre": "adulte/homme",
    "duree_ms": 7590,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Dugukolo ka ɲi k'u bɛɛ balo. Nka loon dɔ, u ye sagakulu dɔ kunbɛn foro dɔ la.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6410,
+     "fichier": "liptako-n2-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Tẽngã segd n dɩka a taaba. La daar a ye, piisã kẽe weoogẽ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5674,
+     "fichier": "liptako-n2-mos.m4a"
+    }
+   }
   },
   {
    "id": "n3",
@@ -107,7 +227,23 @@
    "texte": "Ton troupeau a mangé mon mil !",
    "genre": "adulte/homme",
    "duree_ms": 2960,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "I ka sagakuruw ye ne ka suman ɲimi!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3088,
+     "fichier": "liptako-n3-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Yãmb piisã rɩka maam!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2096,
+     "fichier": "liptako-n3-mos.m4a"
+    }
+   }
   },
   {
    "id": "n4",
@@ -121,7 +257,23 @@
    "texte": "Tes champs couvrent nos pistes !",
    "genre": "jeune/homme",
    "duree_ms": 2580,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "I ka forow b'an ka siraw datugu!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2496,
+     "fichier": "liptako-n4-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Yãmb pʋɩɩrã zãada tõnd sorã!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2144,
+     "fichier": "liptako-n4-mos.m4a"
+    }
+   }
   },
   {
    "id": "n5",
@@ -135,31 +287,87 @@
    "texte": "Qui écouter d'abord ? L'un et l'autre ont leurs raisons. Les faits, eux, ne changeront pas.",
    "genre": "adulte/homme",
    "duree_ms": 7280,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Jɔn lo ka kan ka lamɛnni kɛ fɔlɔ? U fila bɛɛ ka ɲi k'u yɛrɛ majigi. Nka, o koow tɛna yɛlɛma.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8276,
+     "fichier": "liptako-n5-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Ãnda n na n deng n kelg-yã? B yiibã fãa tara b toor-toore. Sã n yaa ne rẽ, yɛlã pa na n toeem ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7476,
+     "fichier": "liptako-n5-mos.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n5.choices.0.label",
    "type": "choix",
    "chemin": "nodes.n5.choices.0.label",
-   "texte": "Le cultivateur : la récolte d'une année"
+   "texte": "Le cultivateur : la récolte d'une année",
+   "langues": {
+    "dyu": {
+     "texte": "Sɛnɛkɛla: saan kelen ka suman",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Ned ning sẽn bʋd a pʋʋgẽ wã: yʋʋmdã koodã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n5.choices.0.tag",
    "type": "parcours",
    "chemin": "nodes.n5.choices.0.tag",
-   "texte": "côté du champ"
+   "texte": "côté du champ",
+   "langues": {
+    "dyu": {
+     "texte": "foro faan fɛ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "pʋga fãaga",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n5.choices.1.label",
    "type": "choix",
    "chemin": "nodes.n5.choices.1.label",
-   "texte": "Le berger : les pistes de ses pères"
+   "texte": "Le berger : les pistes de ses pères",
+   "langues": {
+    "dyu": {
+     "texte": "Sagadɛndɛbaga: a faaw ka tagamacogo",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Pe-kɩɩmbã: a ba-rãmbã sẽn maan bũmb ninsã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n5.choices.1.tag",
    "type": "parcours",
    "chemin": "nodes.n5.choices.1.tag",
-   "texte": "côté du troupeau"
+   "texte": "côté du troupeau",
+   "langues": {
+    "dyu": {
+     "texte": "sagakuru faan fɛ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "rũngã nugẽ",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "cult",
@@ -173,7 +381,23 @@
    "texte": "Le mil, c'est le grenier de l'année. Sans lui, sa famille aura faim. Et le berger ?",
    "genre": "adulte/homme",
    "duree_ms": 7660,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Siman ye san siman ta so le ye. N'o tɛ, kɔngɔ bena a somɔgɔw bɛɛ faga. O sagagbɛnbaga ye mun lo ye?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7876,
+     "fichier": "liptako-cult-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Bõn-buudã makda bõn-buudu sẽn be yʋʋmdã roogẽ. A sã n ka be, kom na n yõk a zakã rãmba. La pe-kɩɩmã me yaa bõe?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 10468,
+     "fichier": "liptako-cult-mos.m4a"
+    }
+   }
   },
   {
    "id": "n6",
@@ -187,7 +411,23 @@
    "texte": "Mes bêtes passaient ici avant ton champ. Où veux-tu qu'elles aillent ?",
    "genre": "jeune/homme",
    "duree_ms": 5160,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Ne ka begɛnw tun be tɛmɛ yan i ka foro ɲa. I b'a fɛ u ka taga min?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5194,
+     "fichier": "liptako-n6-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Mam rũngã ra tũuda yãmb pʋʋgã. Yãmb datame tɩ b kẽng yɛ?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4730,
+     "fichier": "liptako-n6-mos.m4a"
+    }
+   }
   },
   {
    "id": "berg",
@@ -201,7 +441,23 @@
    "texte": "Une piste coupée, c'est un troupeau qui meurt de soif. Et le cultivateur ?",
    "genre": "adulte/homme",
    "duree_ms": 6070,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Ni a kɛra ko o yɔrɔ tigɛra, o ye sagakuru dɔ le ye min minnɔgɔ bɛ faga. O sɛnɛkɛla tun ye mun lo ye?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7450,
+     "fichier": "liptako-berg-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Ned sã n maan bũmb sẽn pa zems ne-a, yaa wa b kʋʋd rũmse. Sã n yaa ne pʋʋg soabã, bõe?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8650,
+     "fichier": "liptako-berg-mos.m4a"
+    }
+   }
   },
   {
    "id": "n7",
@@ -215,7 +471,23 @@
    "texte": "J'ai travaillé cette terre toute la saison. Sors de là !",
    "genre": "adulte/homme",
    "duree_ms": 4780,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Ne ye dugukolo nin sɛnɛ saan bɛɛ. Aw ye bɔ yan!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3946,
+     "fichier": "liptako-n7-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Mam tʋma tẽn-kãnga wakat fãa. Kẽng-y n yi be!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3850,
+     "fichier": "liptako-n7-mos.m4a"
+    }
+   }
   },
   {
    "id": "suite",
@@ -229,7 +501,23 @@
    "texte": "Cette bête est à moi, maintenant.",
    "genre": "adulte/homme",
    "duree_ms": 2730,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "O sogo ye ne ta ye sisan.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2048,
+     "fichier": "liptako-suite-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Bãng-y tɩ rũnga yaa mam rẽnda masã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3008,
+     "fichier": "liptako-suite-mos.m4a"
+    }
+   }
   },
   {
    "id": "n8",
@@ -243,7 +531,23 @@
    "texte": "Le chef gulmancé saisit une bête, et la querelle s'envenime. Un chef peul rassemble ses cavaliers.",
    "genre": "adulte/homme",
    "duree_ms": 6830,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "O kuntigi min tun dimininba lo, ale ka bɛgan dɔ mina k'a faga. Jamanatigi dɔ b'a ta sotigiw lajɛn.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7594,
+     "fichier": "liptako-n8-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Sẽn yaa-a taoor soabã rɩka rũnda, la no-koeemdã paasdame. Ned ning sẽn ya kãsmã na n tigma a soaadbã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9178,
+     "fichier": "liptako-n8-mos.m4a"
+    }
+   }
   },
   {
    "id": "n9",
@@ -257,7 +561,23 @@
    "texte": "Que Dieu guide vos pas et vos cœurs.",
    "genre": "âgé/homme",
    "duree_ms": 3340,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Ala y'a to i senw ni i jusukun bɛɛ ye tagama.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2880,
+     "fichier": "liptako-n9-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Bɩ Wẽnnaam wilg yãmb sor la y sũyã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2720,
+     "fichier": "liptako-n9-mos.m4a"
+    }
+   }
   },
   {
    "id": "n10",
@@ -271,37 +591,103 @@
    "texte": "Et c'est la guerre. Les cavaliers peuls affrontent les Gulmancé.",
    "genre": "adulte/homme",
    "duree_ms": 4400,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "O ye kɛlɛ lo ye. O kɔ, u y'a fɔ ko: \"Aw ye boliw ta ka taga kɛlɛ kɛ\".",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7092,
+     "fichier": "liptako-n10-dyu.m4a"
+    },
+    "mos": {
+     "texte": "La yaa zabrã. Neb nins sẽn be Burkĩna wã zabda ne Gulmanse rãmbã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5514,
+     "fichier": "liptako-n10-mos.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n11.consigne",
    "type": "jeu",
    "chemin": "nodes.n11.consigne",
-   "texte": "Les cavaliers partent ! Tape vite sur ESPACE ou sur l'écran pour suivre la charge."
+   "texte": "Les cavaliers partent ! Tape vite sur ESPACE ou sur l'écran pour suivre la charge.",
+   "langues": {
+    "dyu": {
+     "texte": "Sotigiw be tagara! N'i b'a fɛ k'o kɛ, i ka teli k'a ɲini k'i yɔrɔ jaɲa.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "So-pakdbã yikame! Yãk-y n tool-y neda Yãkk-y tɩ y yã bũmb ning sẽn wat ne-yã.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n11.gagne",
    "type": "jeu",
    "chemin": "nodes.n11.gagne",
-   "texte": "La charge est lancée."
+   "texte": "La charge est lancée.",
+   "langues": {
+    "dyu": {
+     "texte": "An ye min kɛ, o bɔra.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "B sɩnga bũmb ning b sẽn da maandã.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n11.perdu",
    "type": "jeu",
    "chemin": "nodes.n11.perdu",
-   "texte": "Tu restes derrière, et tu vois de loin."
+   "texte": "Tu restes derrière, et tu vois de loin.",
+   "langues": {
+    "dyu": {
+     "texte": "I bɛ to kɔfɛ ka filɛli kɛ yɔrɔjan.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Fo ket n getame, la f getame.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n11.tags.win",
    "type": "parcours",
    "chemin": "nodes.n11.tags.win",
-   "texte": "course gagnée"
+   "texte": "course gagnée",
+   "langues": {
+    "dyu": {
+     "texte": "ɲɔgɔndan boli",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "zoees sẽn paamã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n11.tags.lose",
    "type": "parcours",
    "chemin": "nodes.n11.tags.lose",
-   "texte": "course perdue"
+   "texte": "course perdue",
+   "langues": {
+    "dyu": {
+     "texte": "ɲɔgɔndan min cɛnna",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "zoees ning b sẽn sãamã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "n12",
@@ -315,7 +701,23 @@
    "texte": "C'est fini. J'arrête.",
    "genre": "adulte/homme",
    "duree_ms": 1740,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "O bɛɛ banna! Ne be ban.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2890,
+     "fichier": "liptako-n12-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Bãng-y tɩ b baasame. M na n basame.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2858,
+     "fichier": "liptako-n12-mos.m4a"
+    }
+   }
   },
   {
    "id": "n13",
@@ -329,7 +731,23 @@
    "texte": "Le chef gulmancé se rend. Un État naît.",
    "genre": "adulte/homme",
    "duree_ms": 3640,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Kuntigiba be sɔn. Jamana dɔ be kɛra.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3754,
+     "fichier": "liptako-n13-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Tãn-soab ning b sẽn yã wã kõome. Tẽnga rogdame.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3882,
+     "fichier": "liptako-n13-mos.m4a"
+    }
+   }
   },
   {
    "id": "n14",
@@ -343,55 +761,151 @@
    "texte": "Ici, désormais, siège l'émirat du Liptako.",
    "genre": "âgé/homme",
    "duree_ms": 2880,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "O yɔrɔ lo ye Liptako mara ka sigiyɔrɔ ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2976,
+     "fichier": "liptako-n14-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Rẽ n so t'a Liptako soolmã na n zĩnda be.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4288,
+     "fichier": "liptako-n14-mos.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n15.question",
    "type": "jeu",
    "chemin": "nodes.n15.question",
-   "texte": "Quelle ville devient la capitale de l'émirat ?"
+   "texte": "Quelle ville devient la capitale de l'émirat ?",
+   "langues": {
+    "dyu": {
+     "texte": "Dugu juman lo bena kɛ emirate ka duguba ye?",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Tẽnga bʋg n na n lebg soolemã tẽn-kãsenga?",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n15.gagne",
    "type": "jeu",
    "chemin": "nodes.n15.gagne",
-   "texte": "Oui, Dori. Autour de sa mosquée, le marché s'anime."
+   "texte": "Oui, Dori. Autour de sa mosquée, le marché s'anime.",
+   "langues": {
+    "dyu": {
+     "texte": "N'o tɛ, Dori. O yɔrɔ la, lɔgɔfiyɛ tun be ɲagaminin lo.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Yaa woto, Dori. Zĩ-paalã sẽn gũbg a masjiidã, yaa wʋsgo.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n15.perdu",
    "type": "jeu",
    "chemin": "nodes.n15.perdu",
-   "texte": "C'est Dori. Autour de sa mosquée, le marché s'anime."
+   "texte": "C'est Dori. Autour de sa mosquée, le marché s'anime.",
+   "langues": {
+    "dyu": {
+     "texte": "O ye Dori lo ye. O yɔrɔ la, lɔgɔfiyɛ tun be ɲagaminin lo.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Yaa Dori. Zĩ-paalã sẽn gũbg a masjiidã, yaa wʋsgo.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n15.reponses.0.label",
    "type": "jeu",
    "chemin": "nodes.n15.reponses.0.label",
-   "texte": "Dori"
+   "texte": "Dori",
+   "langues": {
+    "dyu": {
+     "texte": "Dori ka koo",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "A Dori",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n15.reponses.1.label",
    "type": "jeu",
    "chemin": "nodes.n15.reponses.1.label",
-   "texte": "Fada N'Gourma"
+   "texte": "Fada N'Gourma",
+   "langues": {
+    "dyu": {
+     "texte": "Fada N'Gourma",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Fada N'Gourma",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n15.reponses.2.label",
    "type": "jeu",
    "chemin": "nodes.n15.reponses.2.label",
-   "texte": "Sya"
+   "texte": "Sya",
+   "langues": {
+    "dyu": {
+     "texte": "I ye min fɔ,",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Yaa",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n15.tags.win",
    "type": "parcours",
    "chemin": "nodes.n15.tags.win",
-   "texte": "bonne réponse"
+   "texte": "bonne réponse",
+   "langues": {
+    "dyu": {
+     "texte": "jaabili ɲuman",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "leokr sẽn yaa sõma",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n15.tags.lose",
    "type": "parcours",
    "chemin": "nodes.n15.tags.lose",
-   "texte": "réponse manquée"
+   "texte": "réponse manquée",
+   "langues": {
+    "dyu": {
+     "texte": "a ma jaabi",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "sẽn pa leokã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "relire",
@@ -405,7 +919,23 @@
    "texte": "Reviens quand tu veux au marché de Dori : son histoire se raconte encore.",
    "genre": "adulte/homme",
    "duree_ms": 5770,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "N'i b'a fɛ ka na Dori ka lɔgɔfiyɛ la tuma o tuma, i be se k'a ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5568,
+     "fichier": "liptako-relire-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Yãmb sã n dat, bɩ y lebg n wa Dori zakẽ wã: a kibarã ket n beeme.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6314,
+     "fichier": "liptako-relire-mos.m4a"
+    }
+   }
   },
   {
    "id": "bien",
@@ -419,7 +949,23 @@
    "texte": "Aujourd'hui, Dori reste l'une des grandes villes du Sahel burkinabè. Son histoire se raconte encore.",
    "genre": "adulte/homme",
    "duree_ms": 6450,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Bi, Dori ye duguba dɔ ye Sahɛli jamana na. A ka maana be to k'a lakali.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5930,
+     "fichier": "liptako-bien-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Rũndã-rũndã, Dori ket n yaa tẽn-kãsems sẽn be Burkina Faso soolmẽ wã. A kibarã ket n yaa to-to.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8842,
+     "fichier": "liptako-bien-mos.m4a"
+    }
+   }
   },
   {
    "id": "film-001",
@@ -435,7 +981,19 @@
    "texte": "L'émirat du Liptako. Un récit historique, simplifié pour l'image.",
    "genre": "adulte/libre",
    "duree_ms": 6000,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O ye Liptako ka mara ye. O ye tarikiko dɔ lo ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A Liptako soolmẽ wã. Bãngr-gomdã yaa bũmb sẽn zĩnd pĩnd wẽndẽ wã, la d tõe n yeelame tɩ yaa vẽenega.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-002",
@@ -451,7 +1009,19 @@
    "texte": "Début du dix-neuvième siècle, dans la région de Dori, au Sahel.",
    "genre": "adulte/libre",
    "duree_ms": 4800,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Saan 1900 wagati daminɛ na, Dori mara la Sahɛli jamana na.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Yʋʋm kobs a 19 soabã sɩngrẽ, Dori soolmẽ wã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-003",
@@ -467,7 +1037,19 @@
    "texte": "Ici vivent deux mondes : les éleveurs peuls avec leurs troupeaux, et les cultivateurs gulmancé avec leurs champs.",
    "genre": "adulte/libre",
    "duree_ms": 6400,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Jamana fla le bɛ yan: sagadɛndɛbagaw ni o ta bɛganw, ani sɛnɛkɛlaw ni o ka forow.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Yaa neb a yiib n be tẽng zug: pe-kɩɩmb ne b rũmbu, la pʋʋsa rãmb ne b pʋtẽ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-004",
@@ -483,7 +1065,19 @@
    "texte": "La terre doit nourrir les uns et les autres.",
    "genre": "adulte/libre",
    "duree_ms": 3200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Dugukolo ka ɲi k'u bɛɛ balo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Tẽngã segd n dɩka a taaba.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-005",
@@ -499,7 +1093,19 @@
    "texte": "Mais un jour, un troupeau entre dans un champ.",
    "genre": "adulte/libre",
    "duree_ms": 3400,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Nka loon dɔ, u ye sagakulu dɔ kunbɛn foro dɔ la.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "La daar a ye, piisã kẽe weoogẽ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-006",
@@ -515,7 +1121,19 @@
    "texte": "Ton troupeau a mangé mon mil !",
    "genre": "adulte/homme",
    "duree_ms": 2300,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "I ka sagakuruw ye ne ka suman ɲimi!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Yãmb piisã rɩka maam!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-007",
@@ -531,7 +1149,19 @@
    "texte": "Tes champs couvrent nos pistes !",
    "genre": "adulte/homme",
    "duree_ms": 2500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "I ka forow b'an ka siraw datugu!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Yãmb pʋɩɩrã zãada tõnd sorã!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-008",
@@ -547,7 +1177,19 @@
    "texte": "Sors de là !",
    "genre": "adulte/homme",
    "duree_ms": 2100,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Aw ye bɔ yan!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Kẽng-y n yi be!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-009",
@@ -563,7 +1205,19 @@
    "texte": "Cette bête est à moi, maintenant.",
    "genre": "âgé/libre",
    "duree_ms": 3000,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O sogo ye ne ta ye sisan.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Bãng-y tɩ rũnga yaa mam rẽnda masã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-010",
@@ -579,7 +1233,19 @@
    "texte": "Le chef gulmancé saisit une bête, et la querelle s'envenime.",
    "genre": "adulte/libre",
    "duree_ms": 4300,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O kuntigi min tun dimininba lo, ale ka bɛgan dɔ mina k'a faga.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Sẽn yaa-a taoor soabã rɩka rũnda, la no-koeemdã paasdame.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-011",
@@ -595,7 +1261,19 @@
    "texte": "Un chef peul rassemble ses cavaliers.",
    "genre": "adulte/libre",
    "duree_ms": 2500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Jamanatigi dɔ b'a ta sotigiw lajɛn.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Ned ning sẽn ya kãsmã na n tigma a soaadbã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-012",
@@ -611,7 +1289,19 @@
    "texte": "On ne peut plus accepter ça.",
    "genre": "adulte/homme",
    "duree_ms": 2700,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "An tɛ se ka sɔn o ma tugun.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "D pa le tõe n sak rẽ ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-013",
@@ -627,7 +1317,19 @@
    "texte": "On prie avant de partir.",
    "genre": "adulte/libre",
    "duree_ms": 2500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "An ka delili kɛ sanni an ka taga.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "D pʋʋsda Wẽnnaam n yaool n looge.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-014",
@@ -643,7 +1345,19 @@
    "texte": "Que Dieu guide vos pas et vos cœurs.",
    "genre": "âgé/libre",
    "duree_ms": 3100,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Ala y'a to i senw ni i jusukun bɛɛ ye tagama.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Bɩ Wẽnnaam wilg yãmb sor la y sũyã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-015",
@@ -659,7 +1373,19 @@
    "texte": "Et c'est la guerre. Les cavaliers peuls affrontent les Gulmancé.",
    "genre": "adulte/libre",
    "duree_ms": 5100,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O ye kɛlɛ lo ye. O kɔ, u y'a fɔ ko: \"Aw ye boliw ta ka taga kɛlɛ kɛ\".",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "La yaa zabrã. Neb nins sẽn be Burkĩna wã zabda ne Gulmanse rãmbã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-016",
@@ -675,7 +1401,19 @@
    "texte": "C'est fini. J'arrête.",
    "genre": "âgé/libre",
    "duree_ms": 3400,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O bɛɛ banna! Ne be ban.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Bãng-y tɩ b baasame. M na n basame.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-017",
@@ -691,7 +1429,19 @@
    "texte": "Le chef gulmancé se rend.",
    "genre": "adulte/libre",
    "duree_ms": 2600,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Kuntigiba be sɔn.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Tãn-soab ning b sẽn yã wã kõome.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-018",
@@ -707,7 +1457,19 @@
    "texte": "Un État naît : l'émirat du Liptako.",
    "genre": "adulte/libre",
    "duree_ms": 2900,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Jamana dɔ sigira: Liptako mara.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Tẽnga rogame: Liptako soolmã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-019",
@@ -723,7 +1485,19 @@
    "texte": "Ici, désormais, siège l'émirat du Liptako.",
    "genre": "adulte/homme",
    "duree_ms": 4200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O yɔrɔ lo ye Liptako mara ka sigiyɔrɔ ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Rẽ n so t'a Liptako soolmã na n zĩnda be.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-020",
@@ -739,7 +1513,19 @@
    "texte": "Un nouveau pouvoir s'installe sur la région.",
    "genre": "adulte/libre",
    "duree_ms": 3200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Fanga kura dɔ sigira o mara kan.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Tãn-paal a ye n be tẽngã zugu.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-021",
@@ -755,7 +1541,19 @@
    "texte": "Dori devient la capitale. Autour de sa mosquée, le marché s'anime, et le bétail arrive de loin.",
    "genre": "adulte/libre",
    "duree_ms": 7400,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Dori kɛra duguba ye. A ka dugu lamini na, lɔgɔfiyɛ kɛra yɔrɔjan. O kɔ, sagaw ni baw bɔra yɔrɔjan ka na.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Dori lebga tẽn-kãsengã. Zĩ-gũudã sẽn be a masjiidã sɛɛgẽ wã, ra-kãsems n wat ne rũmsã sẽn yit yɩɩga.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-022",
@@ -771,7 +1569,19 @@
    "texte": "Aujourd'hui, Dori reste l'une des grandes villes du Sahel burkinabè. Son histoire se raconte encore.",
    "genre": "adulte/libre",
    "duree_ms": 7600,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Bi, Dori ye duguba dɔ ye Sahɛli jamana na. A ka maana be to k'a lakali.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Rũndã-rũndã, Dori ket n yaa tẽn-kãsems sẽn be Burkina Faso soolmẽ wã. A kibarã ket n yaa to-to.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   }
  ]
 }

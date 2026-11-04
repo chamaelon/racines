@@ -10,6 +10,10 @@ intonation: posé (proposée)
 texte: Dans la nuit d'avant le monde, Wuro alluma les étoiles une à une. En ce temps-là, le ciel touchait presque les toits, et Wuro marchait parmi les hommes.
 genre: adulte/homme
 duree: 11690ms (estimée)
+texte_dyu: Wuro ye lolow bɛɛ kelen kelen mana sufɛ. O wagati ra, sankolo tun sera bonw bɛɛ ma. Wuro tun bɛ mɔgɔw cɛ ra.
+enregistre_dyu: wuro-pilon-n1-dyu.m4a (9380ms)
+texte_fuf: Nder jemma yeeso duniyaaru, Wuro wurtini koode go'oto go'o. Wakkati maajum asama ɓadake hawtaago dow daande, Wuro ɗon yaha caka yimɓe.
+enregistre_fuf: wuro-pilon-n1-fuf.m4a (10858ms)
 
 piste: n2
 histoire: Wuro blessé par le pilon
@@ -20,6 +24,10 @@ intonation: solennel (proposée)
 texte: Semez ce mil à la saison des pluies. La terre vous le rendra au centuple.
 genre: voix solennelle/libre
 duree: 6300ms (estimée)
+texte_dyu: Aw ye nin kisɛ seri sanji tuma na. Dugukolo bena o ɲɔgɔn kɛmɛ di aw ma.
+enregistre_dyu: wuro-pilon-n2-dyu.m4a (5514ms)
+texte_fuf: Fuuɗee leɗɗe ɗe nder sahaa ndiyam. Duniyaaru hokkata'on ceede.
+enregistre_fuf: wuro-pilon-n2-fuf.m4a (4810ms)
 
 piste: n3
 histoire: Wuro blessé par le pilon
@@ -30,6 +38,10 @@ intonation: posé (proposée)
 texte: Regarde la cour où Hamé pile le mil.
 genre: adulte/homme
 duree: 3340ms (estimée)
+texte_dyu: A flɛ, Hamɛ ka lu kɔnɔ.
+enregistre_dyu: wuro-pilon-n3-dyu.m4a (1872ms)
+texte_fuf: Ndaa nder suudu haa Hammu ɓanngini ŋerɗi.
+enregistre_fuf: wuro-pilon-n3-fuf.m4a (3360ms)
 
 piste: n4
 histoire: Wuro blessé par le pilon
@@ -40,6 +52,10 @@ intonation: posé (proposée)
 texte: Wuro arrive, fatigué, et s'assoit près d'elle. Sa main reste suspendue au-dessus du mortier. Hamé pile de plus en plus vite. Et le pilon frappe la main de Wuro.
 genre: adulte/homme
 duree: 12520ms (estimée)
+texte_dyu: Wuro nana, a sɛgɛninba tagara sigi a kɔrɔ. A b'a bolo dulon balawu sanfɛ. Hamɛ tun be caya ka taga. O kɔ, a ye Wuro boro gosi.
+enregistre_dyu: wuro-pilon-n4-dyu.m4a (12078ms)
+texte_fuf: Wuro wari, o nani, o jooɗi to maako. Juŋŋgo maako ɗon maɓɓana dow leɗɗe mawɗe. Hamé ɗon ɓeyda ɓeydagol. Ɗu'um ɗon maɓɓita jungo Wuro.
+enregistre_fuf: wuro-pilon-n4-fuf.m4a (10350ms)
 
 piste: n5
 histoire: Wuro blessé par le pilon
@@ -50,6 +66,10 @@ intonation: vif (proposée)
 texte: Pardon, Wuro ! Je ne t'avais pas vu !
 genre: adulte/femme
 duree: 4170ms (estimée)
+texte_dyu: N bɛ yafa i ma, Wuro! Ne tun ma i ye.
+enregistre_dyu: wuro-pilon-n5-dyu.m4a (3578ms)
+texte_fuf: Miɗo yaafaa, Wuro! Mi yi'ii on!
+enregistre_fuf: wuro-pilon-n5-fuf.m4a (3146ms)
 
 piste: n6
 histoire: Wuro blessé par le pilon
@@ -60,6 +80,10 @@ intonation: posé (proposée)
 texte: Wuro regarde Hamé, sans colère. Il s'élève lentement, et le ciel monte avec lui, très haut.
 genre: adulte/homme
 duree: 7130ms (estimée)
+texte_dyu: Wuro ye Hamɛ filɛ, a ma dimi. A bɛ yɛlɛn san fɛ ka taga ni a ye fɔ san fɛ.
+enregistre_dyu: wuro-pilon-n6-dyu.m4a (6346ms)
+texte_fuf: Wuro ɗon yi'a Hameh, walaa ɓernde. O ɓeydi ɓeydaago, o ƴeewa dow bee maako.
+enregistre_fuf: wuro-pilon-n6-fuf.m4a (6378ms)
 
 piste: n7
 histoire: Wuro blessé par le pilon
@@ -70,6 +94,10 @@ intonation: posé (proposée)
 texte: Sans Wuro, le monde se dérègle. La pluie ne vient plus, et le mil sèche sur pied.
 genre: adulte/homme
 duree: 7360ms (estimée)
+texte_dyu: Ni Wuro tun tɛ yen, duniɲa bɛɛ tun bena kɛ faratiba ye. Sanji tɛ nana tuun, sanfɔɲɔ fana bɛ ja ka ban.
+enregistre_dyu: wuro-pilon-n7-dyu.m4a (8570ms)
+texte_fuf: To walaa Wuro, duniyaaru ɗon ɓilla. Ngam maajum ndiyam ɓeydaayi, le'i ɗon maaki.
+enregistre_fuf: wuro-pilon-n7-fuf.m4a (6154ms)
 
 piste: n8
 histoire: Wuro blessé par le pilon
@@ -80,6 +108,10 @@ intonation: vif (proposée)
 texte: Cette eau est pour ma famille !
 genre: adulte/homme
 duree: 2960ms (estimée)
+texte_dyu: O jii ye ne ka denbaya ta le ye!
+enregistre_dyu: wuro-pilon-n8-dyu.m4a (2144ms)
+texte_fuf: ndiyam ɗam ngam saare am!
+enregistre_fuf: wuro-pilon-n8-fuf.m4a (1968ms)
 
 piste: n9
 histoire: Wuro blessé par le pilon
@@ -90,6 +122,10 @@ intonation: interrogatif (proposée)
 texte: Et la mienne, qu'elle meure de soif ?
 genre: adulte/homme
 duree: 3490ms (estimée)
+texte_dyu: N'a sɔrɔ n' muso fana minnɔgɔ tun b'a la.
+enregistre_dyu: wuro-pilon-n9-dyu.m4a (3056ms)
+texte_fuf: Nden kamɓe boo, ngam ɓe maayi bee weelo?
+enregistre_fuf: wuro-pilon-n9-fuf.m4a (3072ms)
 
 piste: n10
 histoire: Wuro blessé par le pilon
@@ -100,6 +136,10 @@ intonation: interrogatif (proposée)
 texte: Le petit Tiko tombe malade. Que fait le village ?
 genre: adulte/homme
 duree: 4400ms (estimée)
+texte_dyu: Tiko fitinin banana. Dugu nin be mun lo kɛra?
+enregistre_dyu: wuro-pilon-n10-dyu.m4a (3546ms)
+texte_fuf: Suka Tiko ɗon nyawta. Ko honɗun yimɓe gariiri waɗi?
+enregistre_fuf: wuro-pilon-n10-fuf.m4a (4106ms)
 
 piste: silence
 histoire: Wuro blessé par le pilon
@@ -110,6 +150,10 @@ intonation: interrogatif (proposée)
 texte: Personne n'appelle. Si personne ne lève les yeux, le ciel peut-il encore répondre ? Veux-tu qu'ils essaient une dernière fois ?
 genre: adulte/homme
 duree: 9030ms (estimée)
+texte_dyu: Mɔgɔ si tɛ n' weele. Ni mɔgɔ si tɛ a ɲa kɔrɔta, sankolo bɛ se k'a jaabi wa? Yala i b'a fɛ u k'o kɛ siɲɛ laban na wa?
+enregistre_dyu: wuro-pilon-silence-dyu.m4a (8644ms)
+texte_fuf: Walaa mo noddaago. To go'oto ɗon ɗaɓɓita gite maako, kammu waaway jaɓugo? On ngiɗi ɓe ɗaɓɓita ɗum'en wakkati go'o?
+enregistre_fuf: wuro-pilon-silence-fuf.m4a (10692ms)
 
 piste: finsilence
 histoire: Wuro blessé par le pilon
@@ -120,6 +164,10 @@ intonation: posé (proposée)
 texte: Ceci n'est pas ce que raconte le griot : c'est ce qui serait arrivé si plus personne n'avait appelé. Une blessure peut éloigner, mais le silence sépare tout à fait.
 genre: adulte/homme
 duree: 12300ms (estimée)
+texte_dyu: N'o tɛ, n'a sɔrɔ o lo tun bena kɛ ni mɔgɔ si ma na. Ni mɔgɔ dɔ mandimi, o tigi be se k'a yɛrɛ mabɔ a la.
+enregistre_dyu: wuro-pilon-finsilence-dyu.m4a (8874ms)
+texte_fuf: Ɗuum naa' ɗum ko griot wi'i: ɗum woni ko waɗataama to walaa ɓeydiiɗo noddugo. Ɗuɓɓugo ɓerɗe ina waawi yaajugo yimɓe, ammaa jamɗingol waawata waylitugo ɓe.
+enregistre_fuf: wuro-pilon-finsilence-fuf.m4a (13268ms)
 
 piste: priere
 histoire: Wuro blessé par le pilon
@@ -130,6 +178,10 @@ intonation: solennel (proposée)
 texte: Je les entends. Du haut du ciel, j'ouvre les mains : trois lumières, mes trois fils.
 genre: voix solennelle/libre
 duree: 7130ms (estimée)
+texte_dyu: Ne b'u lamɛnna. Ne ka ne boro lawuri ka bɔ sankolo ra, k'a ye ko fitinada saba lo; ne dencɛ saba.
+enregistre_dyu: wuro-pilon-priere-dyu.m4a (8788ms)
+texte_fuf: Mi nani ɓe. Mi wurtini juuɗe am daga dow, mi yi'i laabi tati e ɓikkoy am tato.
+enregistre_fuf: wuro-pilon-priere-fuf.m4a (6506ms)
 
 piste: n11
 histoire: Wuro blessé par le pilon
@@ -140,6 +192,10 @@ intonation: interrogatif (proposée)
 texte: Trois malheurs attendent. Par lequel commencer ?
 genre: adulte/homme
 duree: 3260ms (estimée)
+texte_dyu: Tɔɔrɔ saba b'an kɔnɔna. An ka kan k'a daminɛ ni jɔn ye?
+enregistre_dyu: wuro-pilon-n11-dyu.m4a (4090ms)
+texte_fuf: Kooje tati ɗon wara. Ko honɗun fuɗɗirta?
+enregistre_fuf: wuro-pilon-n11-fuf.m4a (3290ms)
 
 piste: kwere
 histoire: Wuro blessé par le pilon
@@ -150,6 +206,10 @@ intonation: solennel (proposée)
 texte: Kwere frappe le sol de son bâton. Les nuages s'amoncellent, la pluie tombe enfin, et le mil se redresse.
 genre: adulte/homme
 duree: 8120ms (estimée)
+texte_dyu: Kwere y'a ka bere bugɔ duguma. Sankabaw bɛ o ta ɲɔgɔn kan, sanji fana bɛ ben; simanw bɛ simankura.
+enregistre_dyu: wuro-pilon-kwere-dyu.m4a (7748ms)
+texte_fuf: Kwere e'i haa lesdi bee kuuje maako. Nde duule ɓadake, nde ndiyam wara, nden kam leɗɗe ɗon nyaami.
+enregistre_fuf: wuro-pilon-kwere-fuf.m4a (6602ms)
 
 piste: n12
 histoire: Wuro blessé par le pilon
@@ -160,6 +220,10 @@ intonation: mystérieux (proposée)
 texte: Puis, dans la brousse, Yéli cherche des remèdes quand la hyène surgit. Soxo tend la main, et la bête se couche. Il cueille les feuilles qui guérissent.
 genre: adulte/homme
 duree: 11610ms (estimée)
+texte_dyu: O kɔ, Eli tagara yiritu kɔnɔ ka taga fura ɲini. Soxo y'a bolo kɔrɔta ka taga la. A be furaburu minw tigɛ, a b'o tigɛ.
+enregistre_dyu: wuro-pilon-n12-dyu.m4a (11268ms)
+texte_fuf: Sey Eli ɗon ɗaɓɓa yamiroore nder le'i. Soxo maɓɓiti juuɗe maako, dabbaajo ɗon ɗaana. O hooƴi leɗɗe ɗe nyaametee.
+enregistre_fuf: wuro-pilon-n12-fuf.m4a (9412ms)
 
 piste: soxo
 histoire: Wuro blessé par le pilon
@@ -170,6 +234,10 @@ intonation: mystérieux (proposée)
 texte: Dans la brousse, Yéli cherche des remèdes quand la hyène surgit. Soxo tend la main, et la bête se couche. Il cueille les feuilles qui guérissent.
 genre: adulte/homme
 duree: 11080ms (estimée)
+texte_dyu: Yɛli tun be yiritunin dɔ kɔnɔ, a tun b'a fɛ k'a yɛrɛ kɛnɛya. Soxo y'a bolo kɔrɔta ka taga la. A be furaburu minw tigɛ, a b'o tigɛ.
+enregistre_dyu: wuro-pilon-soxo-dyu.m4a (11764ms)
+texte_fuf: E nder ladde, Eli ɗon ɗaɓɓa wayloore nde hyena wari. Soxo maɓɓiti juuɗe maako, dabbaajo ɗon ɗaana. O hooƴi leɗɗe ɗe nyaametee.
+enregistre_fuf: wuro-pilon-soxo-fuf.m4a (9604ms)
 
 piste: n13
 histoire: Wuro blessé par le pilon
@@ -180,6 +248,10 @@ intonation: mystérieux (proposée)
 texte: Puis Kwere frappe le sol de son bâton. La pluie tombe enfin, et le mil se redresse.
 genre: adulte/homme
 duree: 7210ms (estimée)
+texte_dyu: O kɔ, Kwere y'a ka bere gosi duguma. Sanji jigira ka ban minkɛ, simanw kununa.
+enregistre_dyu: wuro-pilon-n13-dyu.m4a (7002ms)
+texte_fuf: Nden Kwere wurtini duniyaaru bee maɓɓere maako. Ngam maajum ndiyam ɗon wara, leɗɗe boo ɗon umma.
+enregistre_fuf: wuro-pilon-n13-fuf.m4a (6794ms)
 
 piste: dwo
 histoire: Wuro blessé par le pilon
@@ -190,6 +262,10 @@ intonation: joyeux (proposée)
 texte: Tiko se relève. Enfin vient Dwo, le masque de feuilles. Il tourne, il saute. Accompagne-le.
 genre: adulte/homme
 duree: 7200ms (estimée)
+texte_dyu: Tiko be wili. O kɔ, a kɛra Dwo ye. A be yɛlɛma, a be sanfɛ. I ka taga n'a ye.
+enregistre_dyu: wuro-pilon-dwo-dyu.m4a (7518ms)
+texte_fuf: Tiko ɗon ummo. Toonde Dwo, ɓooyaaku leɗɗe. O wurtini, o ƴiwoyi. Kaɓɓa mo.
+enregistre_fuf: wuro-pilon-dwo-fuf.m4a (6910ms)
 
 piste: n15
 histoire: Wuro blessé par le pilon
@@ -200,6 +276,10 @@ intonation: joyeux (proposée)
 texte: Le soir, Hamé pile de nouveau, plus doucement. Elle lève les yeux vers le ciel, devenu très haut. Une étoile lui répond.
 genre: adulte/homme
 duree: 9710ms (estimée)
+texte_dyu: Sɔgɔma wulafɛ, Hamɛ tun b'a bolow kɔrɔta tugu. A k'a ɲa kɔrɔta san fɛ, ka filɛli kɛ. Lolo dɔ y'a jaabi.
+enregistre_dyu: wuro-pilon-n15-dyu.m4a (8820ms)
+texte_fuf: Nde jemma waɗi, Hamé ɓeydi moƴƴugo. O ɗon ɗaɓɓita gite maako haa asama. Gooto ɗon jaabana mo.
+enregistre_fuf: wuro-pilon-n15-fuf.m4a (7604ms)
 
 piste: film-001
 histoire: Wuro blessé par le pilon
@@ -210,6 +290,8 @@ intonation: solennel (scénario)
 texte: Wuro et le pilon. Un mythe des Bwaba.
 genre: adulte/libre
 duree: 4100ms (mesurée sur le film)
+texte_dyu: Wuro n'a ka piyɔniyew. Bwabaw ka kibaroya lo.
+texte_fuf: Wuro e ko'e maako. Ɗuum woni kaalanuuji Bwaba'en.
 
 piste: film-002
 histoire: Wuro blessé par le pilon
@@ -220,6 +302,8 @@ intonation: posé (proposée)
 texte: Dans la nuit d'avant le monde, Wuro alluma les étoiles une à une.
 genre: adulte/libre
 duree: 4200ms (mesurée sur le film)
+texte_dyu: Wuro ye lolow bɛɛ kelen kelen mana sufɛ.
+texte_fuf: Nder jemma yeeso duniyaaru, Wuro wurtini koode go'oto go'o.
 
 piste: film-003
 histoire: Wuro blessé par le pilon
@@ -230,6 +314,8 @@ intonation: posé (proposée)
 texte: Il fit monter la terre, couler le fleuve, et d'un souffle, il fit pousser les arbres.
 genre: adulte/libre
 duree: 5700ms (mesurée sur le film)
+texte_dyu: A ka dugukolo lajigi, k'a to bajiw ye woyo; a ka yiriw falen ni fɔɲɔ le ye.
+texte_fuf: O wurtini duniyaaru, o wurtiniri maayo. O waɗani leɗɗe ɓesdaaki nder maago maako.
 
 piste: film-004
 histoire: Wuro blessé par le pilon
@@ -240,6 +326,8 @@ intonation: posé (proposée)
 texte: En ce temps-là, le ciel touchait presque les toits. Wuro marchait parmi les hommes.
 genre: adulte/libre
 duree: 6200ms (mesurée sur le film)
+texte_dyu: O wagati la, sankolo tun be ɲini ka yɛlɛ boonw kunna. Wuro tun be tagama cɛw cɛma.
+texte_fuf: Haa saa'i maajum, asama ɗon hawta nder cuuɗi. Wuro ɗon yaha caka worɓe.
 
 piste: film-005
 histoire: Wuro blessé par le pilon
@@ -250,6 +338,8 @@ intonation: tendre (scénario)
 texte: Tiko, un enfant du village, courait autour de ses jambes. Wuro le souleva jusqu'au ciel.
 genre: adulte/libre
 duree: 7100ms (mesurée sur le film)
+texte_dyu: Tiko tun ye denmisɛn dɔ ye dugu kɔnɔ. Wuro y'a kɔrɔta fɔɔ sankolo la.
+texte_fuf: Tiko, ɓiɗɗo gorko nder gariiri ndin, ɗon wurta e koyɗe maako. Wuro ummi mo haa asama.
 
 piste: film-006
 histoire: Wuro blessé par le pilon
@@ -260,6 +350,8 @@ intonation: posé (proposée)
 texte: Au forgeron Bado, il offrit le mil.
 genre: adulte/libre
 duree: 3400ms (mesurée sur le film)
+texte_dyu: O kɔ, a y'o wari di Bado ma.
+texte_fuf: Sey o hokki Bado, maccuɗo njamndi.
 
 piste: film-007
 histoire: Wuro blessé par le pilon
@@ -270,6 +362,8 @@ intonation: chaleureux (scénario)
 texte: Semez ceci à la saison des pluies. La terre vous le rendra au centuple.
 genre: esprit, créature : voix grave/libre
 duree: 5500ms (mesurée sur le film)
+texte_dyu: N'i y'o kɛ sanji tuma na, i ka kan k'o sɛnɛ. Dugukolo bena o ɲɔgɔn kɛmɛ di aw ma.
+texte_fuf: Fuuɗee ko'e mon nder sahaa ndiyam. Duniyaaru hokkata'on ceede.
 
 piste: film-008
 histoire: Wuro blessé par le pilon
@@ -280,6 +374,8 @@ intonation: posé (proposée)
 texte: Dans sa cour, Hamé pilait le mil.
 genre: adulte/libre
 duree: 3200ms (mesurée sur le film)
+texte_dyu: Hamɛ tun bɛ siman gosira a ta lu kɔnɔ.
+texte_fuf: Ngam maajum Hamama waɗi ko o wi'i nder suudu maako.
 
 piste: film-009
 histoire: Wuro blessé par le pilon
@@ -290,6 +386,8 @@ intonation: posé (proposée)
 texte: Wuro arriva, fatigué, et s'assit près d'elle. Il bâilla, s'étira, et sa main resta suspendue au-dessus du mortier.
 genre: adulte/libre
 duree: 8900ms (mesurée sur le film)
+texte_dyu: Wuro nana, a sɛgɛninba. A tagara sigi muso kɔrɔ. A ka ŋuna, k'a boro kɔrɔta; a boro lanin tora bɔgɔ kan.
+texte_fuf: Wuro wari, o nani, o jooɗi to maako. Sey o maɓɓiti, o nyaami, ammaa juŋŋgo maako duumi dow leɗɗe.
 
 piste: film-010
 histoire: Wuro blessé par le pilon
@@ -300,6 +398,8 @@ intonation: inquiet (scénario)
 texte: Hamé pilait de plus en plus vite, de plus en plus haut.
 genre: adulte/libre
 duree: 3900ms (mesurée sur le film)
+texte_dyu: Hamɛ tun b'a ka koli kɛ ka tɛmɛ a dan kan, ka taga ɲa.
+texte_fuf: Hame ɗon ɓeyda ɓeydagol, ɓeydigol.
 
 piste: film-011
 histoire: Wuro blessé par le pilon
@@ -310,6 +410,8 @@ intonation: bref (scénario)
 texte: Et le pilon frappa la main de Wuro.
 genre: adulte/libre
 duree: 2900ms (mesurée sur le film)
+texte_dyu: O kɔ, Wuro k'a boro bugɔ a ra.
+texte_fuf: Sey maɓɓere nde'e udditii jungo Wuro.
 
 piste: film-012
 histoire: Wuro blessé par le pilon
@@ -320,6 +422,8 @@ intonation: grave (scénario)
 texte: Wuro serra sa main blessée. Sa lumière se mit à trembler.
 genre: adulte/libre
 duree: 5100ms (mesurée sur le film)
+texte_dyu: Wuro y'a ka bolo mandimi. A ka yeelen tun be yɛrɛyɛrɛla.
+texte_fuf: Wuro wurtini jungo maako ɗon maaki. Ɗuum waɗi jayngol maayi.
 
 piste: film-013
 histoire: Wuro blessé par le pilon
@@ -330,6 +434,8 @@ intonation: affolé (scénario)
 texte: Pardon, Wuro ! Je ne t'avais pas vu !
 genre: adulte/femme
 duree: 4300ms (mesurée sur le film)
+texte_dyu: N bɛ yafa i ma, Wuro! Ne tun ma i ye.
+texte_fuf: Miɗo yaafaa, Wuro! Mi yi'ii on!
 
 piste: film-014
 histoire: Wuro blessé par le pilon
@@ -340,6 +446,8 @@ intonation: posé (proposée)
 texte: Les villageois accoururent, puis reculèrent, effrayés.
 genre: adulte/libre
 duree: 4200ms (mesurée sur le film)
+texte_dyu: Dugumɔgɔw sinna ka na, o kɔ, u siranna.
+texte_fuf: Yimɓe gariiri'en ngari bee hakkiilo, ɓaawo maajum ɓe njogii ngam kulol.
 
 piste: film-015
 histoire: Wuro blessé par le pilon
@@ -350,6 +458,8 @@ intonation: triste (scénario)
 texte: Wuro regarda Hamé, sans colère. Il secoua la tête et s'éleva lentement.
 genre: adulte/libre
 duree: 6100ms (mesurée sur le film)
+texte_dyu: Wuro ka Hamɛ flɛ ni jusugban ye. A y'a kuun yuguyugu ka wili dɔɔni dɔɔni.
+texte_fuf: Wuro yi'i Hame, ammaa o ɓeydi masin. O hocci hoore maako, o ummi bee hakkiilo.
 
 piste: film-016
 histoire: Wuro blessé par le pilon
@@ -360,6 +470,8 @@ intonation: posé (proposée)
 texte: Le ciel monta avec lui, très haut. Bientôt, il ne fut plus qu'une étoile.
 genre: adulte/libre
 duree: 6300ms (mesurée sur le film)
+texte_dyu: Sankolo yɛlɛnna ni a ye san fɛ. Dɔɔni o kɔ, a kɛra lolo dɔ ye tugun.
+texte_fuf: Sey Allah wurtini mo haa asama. Gaɗa ɗon, o laati dow koode.
 
 piste: film-017
 histoire: Wuro blessé par le pilon
@@ -370,6 +482,8 @@ intonation: grave (scénario)
 texte: Sans Wuro, le monde se dérégla. La pluie ne venait plus, et le mil séchait sur pied.
 genre: adulte/libre
 duree: 6600ms (mesurée sur le film)
+texte_dyu: Ni Wuro tun tɛ yen, duniɲa bɛɛ tun bena kɛ faratiba ye. Sanji nana ban minkɛ, simanw jajara.
+texte_fuf: To Wuro walaa, duniyaaru ɗon ɓeyda. Nde ndiyam ɓeydi waraa, leɗɗe boo mbaɗti.
 
 piste: film-018
 histoire: Wuro blessé par le pilon
@@ -380,6 +494,8 @@ intonation: posé (proposée)
 texte: La nuit, une hyène pillait le grenier.
 genre: adulte/libre
 duree: 3200ms (mesurée sur le film)
+texte_dyu: Loon dɔ sufɛ, jinamɔgɔ dɔw tun be don boon kɔnɔ ka ben mɔgɔw kan.
+texte_fuf: Nder jemma, gooduɗo geɗal ƴiwoyi nder suudu.
 
 piste: film-019
 histoire: Wuro blessé par le pilon
@@ -390,6 +506,8 @@ intonation: colère (scénario)
 texte: Cette eau est pour ma famille !
 genre: adulte/homme
 duree: 2200ms (mesurée sur le film)
+texte_dyu: O jii ye ne ka denbaya ta le ye!
+texte_fuf: ndiyam ɗam ngam saare am!
 
 piste: film-020
 histoire: Wuro blessé par le pilon
@@ -400,6 +518,8 @@ intonation: colère (scénario)
 texte: Et la mienne, qu'elle meure de soif ?
 genre: adulte/homme
 duree: 3100ms (mesurée sur le film)
+texte_dyu: N'a sɔrɔ n' muso fana minnɔgɔ tun b'a la.
+texte_fuf: Nden kamɓe boo, ngam ɓe maayi bee weelo?
 
 piste: film-021
 histoire: Wuro blessé par le pilon
@@ -410,6 +530,8 @@ intonation: posé (proposée)
 texte: Le petit Tiko tomba malade.
 genre: adulte/libre
 duree: 2800ms (mesurée sur le film)
+texte_dyu: Tiko fitini bana tun b'a la.
+texte_fuf: Ɓiɗɗo Tiko warti nyawɗo.
 
 piste: film-022
 histoire: Wuro blessé par le pilon
@@ -420,6 +542,8 @@ intonation: suppliant, voix usée (scénario)
 texte: Wuro, entends-nous !
 genre: âgé/libre
 duree: 2500ms (mesurée sur le film)
+texte_dyu: Wuro, an lamɛn dɛ!
+texte_fuf: Wuro, nana en!
 
 piste: film-023
 histoire: Wuro blessé par le pilon
@@ -430,6 +554,8 @@ intonation: triste (scénario)
 texte: Personne ne répondit.
 genre: adulte/libre
 duree: 2300ms (mesurée sur le film)
+texte_dyu: Mɔgɔ si m'a jaabi.
+texte_fuf: Walaa jaabɗo.
 
 piste: film-024
 histoire: Wuro blessé par le pilon
@@ -440,6 +566,8 @@ intonation: posé (proposée)
 texte: Mais du haut du ciel, Wuro regardait. Il ouvrit ses mains : trois lumières plongèrent vers la terre. Ses trois fils.
 genre: adulte/libre
 duree: 8800ms (mesurée sur le film)
+texte_dyu: Nka, Wuro tun be filɛli kɛra ka bɔ sanfɛ. A k'a boro fla dayɛlɛ, ka yeelen saba bɔ dugukolo kan. A dencɛ saba.
+texte_fuf: Ammaa Wuro ɗon yi'a diga dow. O udditiri juuɗe maako, sey yiite tati ndilli dow duniyaaru. Ɓiɓɓe maako tato.
 
 piste: film-025
 histoire: Wuro blessé par le pilon
@@ -450,6 +578,8 @@ intonation: fort (scénario)
 texte: Kwere, la foudre, frappa le sol de son bâton. Les nuages s'amoncelèrent.
 genre: adulte/libre
 duree: 6300ms (mesurée sur le film)
+texte_dyu: Sanmanamana nana ben dugu ma ni a ta bere ye. Sankabaw tun be fara ɲɔgɔn kan.
+texte_fuf: Kwere, yiite maɓɓiti lesdi bee kuuje maako. Ɗuum ɓooyii e duule.
 
 piste: film-026
 histoire: Wuro blessé par le pilon
@@ -460,6 +590,8 @@ intonation: joyeux (scénario)
 texte: La pluie tomba enfin, et le mil se redressa.
 genre: adulte/libre
 duree: 3800ms (mesurée sur le film)
+texte_dyu: Sanji jigira ka na, sanbɛrɛ lɔra.
+texte_fuf: Wakkati maajum ndiyam dilli, ɓooyaari boo ummi.
 
 piste: film-027
 histoire: Wuro blessé par le pilon
@@ -470,6 +602,8 @@ intonation: posé (proposée)
 texte: Dans la brousse, Yéli cherchait des remèdes, quand la hyène surgit.
 genre: adulte/libre
 duree: 4600ms (mesurée sur le film)
+texte_dyu: O y'a sɔrɔ Yɛli tun bɛ yaala yiritunin dɔ kɔnɔ.
+texte_fuf: Eeli ɗon ɗaɓɓita wayloore nder leɗɗe, sey hayre wari.
 
 piste: film-028
 histoire: Wuro blessé par le pilon
@@ -480,6 +614,8 @@ intonation: posé (proposée)
 texte: Soxo, l'esprit de la brousse, tendit la main, et la bête se coucha.
 genre: adulte/libre
 duree: 5300ms (mesurée sur le film)
+texte_dyu: Soxo, min ye yiritu nin nin ye, ale k'a boro kɔrɔta ka taga la.
+texte_fuf: Soxo, ruuhu nder le'i wurtini nyaamo maako, o ɗaɓɓiti ndu.
 
 piste: film-029
 histoire: Wuro blessé par le pilon
@@ -490,6 +626,8 @@ intonation: tendre (scénario)
 texte: Il cueillit les feuilles qui guérissent. Et Tiko se releva.
 genre: adulte/libre
 duree: 4800ms (mesurée sur le film)
+texte_dyu: A bɛ furaburu minw tigɛ, a b'o tigɛ. O kɔ, Tiko wilila.
+texte_fuf: O hoo'i leɗɗe ɗe nyaameteeɗe. Nden Tiko ummii.
 
 piste: film-030
 histoire: Wuro blessé par le pilon
@@ -500,6 +638,8 @@ intonation: posé (proposée)
 texte: Enfin vint Dwo, le masque de feuilles.
 genre: adulte/libre
 duree: 3700ms (mesurée sur le film)
+texte_dyu: A laban, "Dwo" nana.
+texte_fuf: Toonde, Dwo wari, ɓeynguɗo leɗɗe.
 
 piste: film-031
 histoire: Wuro blessé par le pilon
@@ -510,6 +650,8 @@ intonation: joyeux (scénario)
 texte: Il tourna, sauta, secoua ses feuilles devant Bado et Sanou. Les deux hommes se tendirent la main.
 genre: adulte/libre
 duree: 7100ms (mesurée sur le film)
+texte_dyu: A y'a kunbiri gwan, k'a furaburuw yuguyugu Bado ni Sanou ɲɛɛ kɔrɔ. Cɛɛ fila nunu y'u bolo sin ɲɔgɔn ma.
+texte_fuf: O wurtini, o dilli, o jippinii lekki maako yeeso Bado e Sanou. Yimɓe ɗiɗo fuu ɓe kawti juuɗe maɓɓe.
 
 piste: film-032
 histoire: Wuro blessé par le pilon
@@ -520,6 +662,8 @@ intonation: joyeux (scénario)
 texte: Et tout le village dansa.
 genre: adulte/libre
 duree: 2500ms (mesurée sur le film)
+texte_dyu: O kɔ, dugumɔgɔw bɛɛ ye dɔɔn kɛ.
+texte_fuf: Yimɓe nder gariiri ndin fuu mbi'i:
 
 piste: film-033
 histoire: Wuro blessé par le pilon
@@ -530,6 +674,8 @@ intonation: doux (scénario)
 texte: Le soir, Hamé pile de nouveau, plus doucement. Elle lève les yeux vers le ciel, devenu très haut.
 genre: adulte/libre
 duree: 7600ms (mesurée sur le film)
+texte_dyu: Sɔgɔma wulafɛ, Hamɛ tun b'a bolow kɔrɔta tugu. A k'a ɲa kɔrɔta san fɛ, ka filɛli kɛ.
+texte_fuf: Nde jemma waɗi, Hamé ɓeydi moƴƴugo. O ɗon ɗaɓɓita gite maako haa asama.
 
 piste: film-034
 histoire: Wuro blessé par le pilon
@@ -540,3 +686,5 @@ intonation: très doux (scénario)
 texte: Une étoile lui répond.
 genre: adulte/libre
 duree: 2400ms (mesurée sur le film)
+texte_dyu: Lolo dɔ y'a jaabi.
+texte_fuf: Gooto ɗon jaabana mo.

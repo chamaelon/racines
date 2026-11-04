@@ -45,7 +45,18 @@ blender -b --python modeles3d/personnages.py -- [styles]
 blender -b --python modeles3d/decors.py -- [noms]
 ```
 
-Les fichiers vont dans `public/modeles/`. Sans argument, tout est reconstruit.
+Les fichiers vont dans `public/modeles/`, et ceux des personnages aussi dans `films3d/modeles/`, avec les gestes des films. Sans argument, tout est reconstruit.
+
+## Rendre et monter un film
+
+```sh
+npm run dev                               # puis /films3d/?film=03-wuro-pilon pour relire le découpage
+npm run film:rendu -- 03-wuro-pilon       # l'image en pleine qualité, dans montage/masters/<film>.mp4
+npm run films                             # compresse pour le site, range les exports du montage, écrit public/data/films.json
+./scripts/publier-films.ps1               # envoie les médias sur gh-pages
+```
+
+Mode d'emploi complet : [films3d/GUIDE-MONTAGE.md](films3d/GUIDE-MONTAGE.md).
 
 ## Ajouter une langue ou une voix
 
@@ -68,13 +79,14 @@ src/scenes3d/  rendu 3D du jeu, ambiances, visionneuse du patrimoine
 src/scenes/    relief 3D de la carte, styles et catalogue des décors
 src/voyage.js  les deux axes : époques et lieux
 modeles3d/     scripts Blender des objets, personnages et décors
+films3d/       films 3D : moteur, découpages, gestes, guide de montage (GUIDE-MONTAGE.md)
 public/modeles/     les modèles GLB, vignettes et portraits
 public/bandes-son/  les fiches de toutes les pistes, par histoire, et les voix
 public/traductions/ translate-<langue>.json : le français à gauche, la traduction à droite
 public/motifs/      les images de motifs posées sur les modèles 3D
 scripts/       carte, bandes-son, validation, fichiers audio provisoires
 tests/         tests unitaires et de bout en bout
-animations/    production des films stickman (voir animations/README.md)
+animations/    anciens films stickman, scripts de voix et sons (voir animations/README.md)
 ```
 
 ## Sources et licences

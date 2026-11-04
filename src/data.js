@@ -23,6 +23,7 @@ export const patrimoine = () => charger('data/patrimoine.json');
 export const regions = () => charger('data/regions.json');
 export const langues = () => charger('data/langues.json');
 export const voyages = () => charger('data/voyages.json');
+export const films = () => charger('data/films.json');
 export const motifs = () => Promise.all([charger('motifs/index.json').catch(() => ({})), charger('motifs/peuples.json').catch(() => ({}))]).then(([images, peuples]) => ({ images, peuples }));
 export const bilanBandes = () => charger('bandes-son/index.json');
 export const pistes = (id) => charger(`bandes-son/${id}/pistes.json`);

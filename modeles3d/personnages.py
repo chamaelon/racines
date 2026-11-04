@@ -1,6 +1,6 @@
 """
 Les personnages, en marionnettes de bois peint articulées. Lancer : blender -b --python modeles3d/personnages.py -- [styles...]
-Produit public/modeles/personnages/<style>.glb (animations : repos, parle, marche, monte) et public/modeles/portraits/<style>.webp
+Produit public/modeles/personnages/<style>.glb (repos, parle, marche, monte), films3d/modeles/<style>.glb (tous les gestes) et public/modeles/portraits/<style>.webp
 Les styles reprennent ceux de src/scenes/personnages.js : mêmes noms, mêmes couleurs.
 
 Tous les os sont verticaux et de même orientation, pour que les poses s'écrivent dans un seul repère :
@@ -17,6 +17,9 @@ from mathutils import Matrix, Vector
 
 from commun import (Assembleur, SORTIE, arguments, exporter_glb, image_motif, materiau as M, points, recalculer_normales, rendre, studio, vider)
 from formes import cheval, tube
+
+SORTIE_FILMS = os.path.join(os.path.dirname(__file__), '..', 'films3d', 'modeles')
+GESTES_DU_JEU = {'repos', 'parle', 'marche', 'monte'}
 
 STYLES = {
     'roi': dict(skin='#5a3825', tunic='#2f3f8f', stripes=['#2f3f8f', '#e9e1cf', '#2f3f8f', '#1d2a66'], wide=1, long=1, head='bonnet', acc='baton'),
@@ -137,7 +140,74 @@ def animer_humain(o):
 
     monte = {'cuisse.G': (-58, 0, 20), 'cuisse.D': (-58, 0, -20), 'jambe.G': (62, 0, 0), 'jambe.D': (62, 0, 0), 'bras.G': (-28, 0, 8), 'bras.D': (-28, 0, -8), 'avbras.G': (-48, 0, 0), 'avbras.D': (-48, 0, 0), 'torse': (-10, 0, 0)}
     poser(o, 'monte', [(1, monte), (10, {**monte, 'torse': (-16, 0, 0)}), (20, monte)])
+    animer_gestes_film(o, cote)
     o.animation_data.action = bpy.data.actions['repos']
+
+
+def animer_gestes_film(o, cote):
+    """Les gestes des films (films3d/) : le jeu ne se sert que de repos, parle, marche et monte."""
+    def cycle(nom, n, pose, pas=2):
+        poser(o, nom, [(i + 1, pose(i / n * 2 * math.pi)) for i in range(0, n + 1, pas)])
+
+    def tenue(nom, pose, souffle=1.2):
+        """Une attitude tenue, qui respire un peu pour ne pas se figer."""
+        def s(k):
+            return {**pose, 'torse': tuple(a + (b * k) for a, b in zip(pose.get('torse', (0, 0, 0)), (souffle, 0, 0)))}
+        poser(o, nom, [(1, s(-1)), (30, s(1)), (60, s(-1))])
+
+    def court(k):
+        a = math.sin(k) * 44
+        return {'cuisse.G': (-a - 8, 0, 0), 'cuisse.D': (a - 8, 0, 0), 'jambe.G': (max(0, math.sin(k + 1.3)) * 78 + 8, 0, 0), 'jambe.D': (max(0, math.sin(k + 1.3 + math.pi)) * 78 + 8, 0, 0),
+                'bras.G': (a * .8, 0, 8), 'bras.D': (-a * .8, 0, -8), 'avbras.G': (-72, 0, 0), 'avbras.D': (-72, 0, 0), 'torse': (12, -a * .16, 0), 'tete': (-8, a * .08, 0), 'z': abs(math.cos(k)) * .07 - .03}
+    cycle('court', 16, court)
+
+    # Le pilon monte des deux mains au-dessus de la tête, puis tombe : le choc arrive à mi-cycle.
+    def pile(k):
+        h = .5 + .5 * math.cos(k)
+        return {'bras.G': (-48 - 106 * h, 0, -3), 'bras.D': (-48 - 106 * h, 0, 3), 'avbras.G': (-44 + 22 * h, 0, 0), 'avbras.D': (-44 + 22 * h, 0, 0),
+                'torse': (15 - 21 * h, 0, 0), 'ventre': (5 - 7 * h, 0, 0), 'tete': (-10 * h, 0, 0), 'cuisse.G': (-10 * (1 - h), 0, 4), 'cuisse.D': (-10 * (1 - h), 0, -4), 'jambe.G': (17 * (1 - h), 0, 0), 'jambe.D': (17 * (1 - h), 0, 0), 'z': -.035 * (1 - h)}
+    cycle('pile', 24, pile)
+
+    jambes_assises = {'cuisse.G': (-86, 0, 8), 'cuisse.D': (-86, 0, -8), 'jambe.G': (84, 0, 0), 'jambe.D': (84, 0, 0), 'z': -.42}
+    tenue('assis', {**jambes_assises, 'bras.G': (-34, 0, 6), 'bras.D': (-34, 0, -6), 'avbras.G': (-40, 0, 0), 'avbras.D': (-40, 0, 0), 'torse': (8, 0, 0), 'tete': (2, 0, 0)})
+    # Assis, un bras s'étire au-dessus de la tête ; le menton s'ouvre sur un bâillement.
+    tenue('assis_etire', {**jambes_assises, 'bras.D': (-168, 0, -6), 'avbras.D': (-8, 0, 0), 'bras.G': (-30, 0, 6), 'avbras.G': (-50, 0, 0), 'torse': (-6, 0, -4), 'tete': (-14, 0, 0), 'machoire': (14, 0, 0)})
+    tenue('assis_blesse', {**jambes_assises, 'bras.D': (-62, 0, 22), 'avbras.D': (-92, 0, 28), 'bras.G': (-58, 0, -24), 'avbras.G': (-94, 0, -30), 'torse': (24, 0, 0), 'tete': (8, 0, 0), 'machoire': (12, 0, 0)}, souffle=3)
+    tenue('assis_parle', {**jambes_assises, 'bras.D': (-40, 0, -14), 'avbras.D': (-70, 0, 8), 'bras.G': (-34, 0, 6), 'avbras.G': (-40, 0, 0), 'torse': (6, 0, 0), 'machoire': (9, 0, 0)})
+
+    # Debout, le corps se courbe sur une main blessée, avec un tremblement.
+    cycle('blesse', 10, lambda k: {'bras.D': (-62, 0, 22), 'avbras.D': (-92, 0, 28), 'bras.G': (-58, 0, -24), 'avbras.G': (-94, 0, -30), 'torse': (22 + math.sin(k) * 2, math.sin(k * 2) * 1.5, 0), 'tete': (8, 0, 0), 'machoire': (10, 0, 0), 'cuisse.G': (-14, 0, 0), 'cuisse.D': (-14, 0, 0), 'jambe.G': (22, 0, 0), 'jambe.D': (22, 0, 0), 'z': -.03})
+    tenue('effroi', {'bras.G': (-98, 0, -26), 'bras.D': (-98, 0, 26), 'avbras.G': (-118, 0, 0), 'avbras.D': (-118, 0, 0), 'torse': (-6, 0, 0), 'tete': (-6, 0, 0), 'machoire': (16, 0, 0)}, souffle=2.4)
+    cycle('bras_leves', 60, lambda k: {'bras.G': (-158 - 7 * math.sin(k), 0, -20), 'bras.D': (-158 - 7 * math.sin(k), 0, 20), 'avbras.G': (-12, 0, 0), 'avbras.D': (-12, 0, 0), 'torse': (-7, 0, 0), 'tete': (-22, 0, 0), 'machoire': (6 + 6 * math.sin(k * 3), 0, 0)}, pas=4)
+    tenue('tend_main', {**cote, 'bras.D': (-82, 0, -6), 'avbras.D': (-8, 0, 0), 'torse': (5, 0, 0)})
+    tenue('offre', {'bras.G': (-68, 0, -8), 'bras.D': (-68, 0, 8), 'avbras.G': (-32, 0, 0), 'avbras.D': (-32, 0, 0), 'torse': (9, 0, 0), 'tete': (3, 0, 0)})
+    tenue('incline', {**cote, 'torse': (40, 0, 0), 'ventre': (10, 0, 0), 'tete': (8, 0, 0)})
+    tenue('regarde_haut', {**cote, 'tete': (-30, 0, 0), 'torse': (-6, 0, 0)})
+    tenue('tete_basse', {**cote, 'tete': (30, 0, 0), 'torse': (14, 0, 0), 'bras.G': (-2, 0, 4), 'bras.D': (-2, 0, -4)})
+    # Le corps entier se penche pour cueillir : la main droite va et vient vers le sol.
+    cycle('cueille', 40, lambda k: {'torse': (58 + 4 * math.sin(k), 0, 0), 'ventre': (20, 0, 0), 'bras.D': (-66 - 16 * math.sin(k), 0, -4), 'avbras.D': (-14, 0, 0), 'bras.G': (-24, 0, 6), 'avbras.G': (-30, 0, 0), 'cuisse.G': (-22, 0, 0), 'cuisse.D': (-22, 0, 0), 'jambe.G': (28, 0, 0), 'jambe.D': (28, 0, 0), 'z': -.05})
+    # Les deux bras levés portent quelqu'un ou quelque chose au-dessus de la tête.
+    tenue('souleve', {'bras.G': (-160, 0, -8), 'bras.D': (-160, 0, 8), 'avbras.G': (-18, 0, 0), 'avbras.D': (-18, 0, 0), 'torse': (-8, 0, 0), 'tete': (-24, 0, 0), 'machoire': (10, 0, 0)})
+
+    # La lutte de deux hommes : un bras pousse, puis l'autre.
+    cycle('lutte', 28, lambda k: {'bras.D': (-74 - 28 * math.sin(k), 0, 6), 'avbras.D': (-38 + 28 * math.sin(k), 0, 0), 'bras.G': (-74 + 28 * math.sin(k), 0, -6), 'avbras.G': (-38 - 28 * math.sin(k), 0, 0), 'torse': (15 + 6 * math.sin(k), 10 * math.sin(k), 0), 'cuisse.G': (-22, 0, 8), 'cuisse.D': (14, 0, -8), 'jambe.G': (20, 0, 0), 'jambe.D': (8, 0, 0), 'tete': (-6, 0, 0), 'machoire': (8 + 6 * math.sin(k * 2), 0, 0), 'z': -.03})
+    # Le bâton se lève puis s'abat une fois par cycle.
+    cycle('frappe', 40, lambda k: {'bras.D': (-164 * (.5 + .5 * math.cos(k)) - 44, 0, -6), 'avbras.D': (-22, 0, 0), 'bras.G': (2, 0, 16), 'avbras.G': (-24, 0, 0), 'torse': (16 * (1 - (.5 + .5 * math.cos(k))) - 8, 0, 0), 'tete': (-4, 0, 0), 'machoire': (6, 0, 0)})
+
+    def danse(k):
+        return {'cuisse.G': (-30 * max(0, math.sin(k)), 0, 10), 'cuisse.D': (-30 * max(0, -math.sin(k)), 0, -10), 'jambe.G': (50 * max(0, math.sin(k)), 0, 0), 'jambe.D': (50 * max(0, -math.sin(k)), 0, 0),
+                'bras.G': (-98 - 56 * math.sin(k), 0, 34), 'bras.D': (-98 + 56 * math.sin(k), 0, -34), 'avbras.G': (-44, 0, 0), 'avbras.D': (-44, 0, 0), 'torse': (5, 14 * math.sin(k), 7 * math.sin(k)), 'tete': (-6, -8 * math.sin(k), 0), 'machoire': (9, 0, 0), 'z': abs(math.sin(k)) * .1}
+    cycle('danse', 24, danse)
+
+    # À quatre pattes, pour la hyène et les bêtes qui rôdent.
+    def rampe(k):
+        a = math.sin(k) * 22
+        return {'bassin': (0, 0, 0), 'ventre': (46, 0, 0), 'torse': (38, 0, 0), 'cou': (-26, 0, 0), 'tete': (-32, 0, 0),
+                'cuisse.G': (-72 - a, 0, 8), 'cuisse.D': (-72 + a, 0, -8), 'jambe.G': (102, 0, 0), 'jambe.D': (102, 0, 0),
+                'bras.G': (-64 + a, 0, 6), 'bras.D': (-64 - a, 0, -6), 'avbras.G': (-8, 0, 0), 'avbras.D': (-8, 0, 0), 'z': -.5}
+    cycle('rampe', 28, rampe)
+    # Allongé sur le dos, bras le long du corps : le film couche le personnage en entier.
+    tenue('allonge', {**cote, 'tete': (-8, 0, 0)}, souffle=.8)
 
 
 def tete_humaine(a, st, peau):
@@ -413,6 +483,11 @@ def construire_personnage(nom):
     echelle = .72 if enfant else st.get('echelle', 1)
     arm.scale = (echelle, echelle, echelle)
     bpy.context.view_layer.update()
+    # Les films ont tous les gestes ; le jeu, lui, ne charge que les siens.
+    os.makedirs(SORTIE_FILMS, exist_ok=True)
+    exporter_glb(os.path.join(SORTIE_FILMS, f'{nom}.glb'), animations=True)
+    for action in [x for x in bpy.data.actions if x.name not in GESTES_DU_JEU]:
+        bpy.data.actions.remove(action)
     taille = exporter_glb(os.path.join(SORTIE, 'personnages', f'{nom}.glb'), animations=True)
     # Portrait pour la boîte de dialogue
     z0 = 1.3 * echelle

@@ -11,55 +11,135 @@
    "id": "titre",
    "type": "titre",
    "chemin": "titre",
-   "texte": "Jaba Lompo, le devin ancêtre"
+   "texte": "Jaba Lompo, le devin ancêtre",
+   "langues": {
+    "fuf": {
+     "texte": "Jaba Lompo, jaagorɗo mawɗo",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "A Jaba Lompo sẽn yaa pĩnd-n-bãngdã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "presentation",
    "type": "presentation",
    "chemin": "presentation",
-   "texte": "Un géant étranger arrive au pays de l'Est sur un cheval blanc, et les gens se méfient. Ce récit est une tradition parmi d'autres sur l'origine des Gulmancé. Jette les cauris avec lui."
+   "texte": "Un géant étranger arrive au pays de l'Est sur un cheval blanc, et les gens se méfient. Ce récit est une tradition parmi d'autres sur l'origine des Gulmancé. Jette les cauris avec lui.",
+   "langues": {
+    "fuf": {
+     "texte": "O wi'i ɓe: \"Goɗɗo mawɗo gariiri wari haa lesdi fuunaaŋge, o ɗon yaha dow sooje cembiɗɗe. Ɗuum ko haala feere dow fuɗɗoode Gulmance. Wota bee maako.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Ned a ye sẽn yaa tẽn-zẽng n be Zĩ-rɩtgã soolmẽ wã, t'a zaoogd wed-bil sẽn ya pemse, la nebã pa tẽed-a ye. Yaa gom-biis a taab n gomd Gulmanse rãmbã sẽn yi zĩig ningã yelle. Yãk-y n tool-y neda.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "personnages.griot.nom",
    "type": "personnage",
    "chemin": "personnages.griot.nom",
-   "texte": "Le griot"
+   "texte": "Le griot",
+   "langues": {
+    "fuf": {
+     "texte": "Le griot"
+    },
+    "mos": {
+     "texte": "Le griot"
+    }
+   }
   },
   {
    "id": "personnages.jaba.nom",
    "type": "personnage",
    "chemin": "personnages.jaba.nom",
-   "texte": "Jaba Lompo"
+   "texte": "Jaba Lompo",
+   "langues": {
+    "fuf": {
+     "texte": "Jaba Lompo"
+    },
+    "mos": {
+     "texte": "Jaba Lompo"
+    }
+   }
   },
   {
    "id": "personnages.villageois.nom",
    "type": "personnage",
    "chemin": "personnages.villageois.nom",
-   "texte": "Le villageois"
+   "texte": "Le villageois",
+   "langues": {
+    "fuf": {
+     "texte": "Le villageois"
+    },
+    "mos": {
+     "texte": "Le villageois"
+    }
+   }
   },
   {
    "id": "personnages.enfant.nom",
    "type": "personnage",
    "chemin": "personnages.enfant.nom",
-   "texte": "L'enfant"
+   "texte": "L'enfant",
+   "langues": {
+    "fuf": {
+     "texte": "L'enfant"
+    },
+    "mos": {
+     "texte": "L'enfant"
+    }
+   }
   },
   {
    "id": "personnages.fils.nom",
    "type": "personnage",
    "chemin": "personnages.fils.nom",
-   "texte": "Son fils"
+   "texte": "Son fils",
+   "langues": {
+    "fuf": {
+     "texte": "Son fils"
+    },
+    "mos": {
+     "texte": "Son fils"
+    }
+   }
   },
   {
    "id": "fins.canon",
    "type": "fin",
    "chemin": "fins.canon",
-   "texte": "Une tradition : Fada N'Gourma se souvient"
+   "texte": "Une tradition : Fada N'Gourma se souvient",
+   "langues": {
+    "fuf": {
+     "texte": "Aadaaji: Fada N'Gourma tawata",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "A Fada N'Gourma tẽegda a sẽn maan to-to",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "fins.mefiance",
    "type": "fin",
    "chemin": "fins.mefiance",
-   "texte": "Autre chemin : on renvoie l'étranger"
+   "texte": "Autre chemin : on renvoie l'étranger",
+   "langues": {
+    "fuf": {
+     "texte": "Yiide wootere: en ƴeewta ɓeen",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Bũmb a to: d na n kɩtame tɩ tẽn-zẽngã lebg n wa",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "n1",
@@ -73,7 +153,23 @@
    "texte": "Les traditions ne s'accordent pas sur l'origine des Gulmancé. Selon l'une d'elles, Jaba Lompo descendit du ciel sur un cheval blanc, au treizième siècle.",
    "genre": "adulte/homme",
    "duree_ms": 10020,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Aadaaji feere-feere dow ko Gulmance'en fuɗɗii. Gooto nder maɓɓe wi'i Jaba Lompo wari diga asama dow kawal weelo, nder karnuuji 13th.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9818,
+     "fichier": "jaba-lompo-n1-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Gullmanse rãmbã sẽn yi zĩig ningã pa zemsd taab ye. A yembr yeelame t'a Jaba Lompo yii saasẽ n kẽed wed-bil sẽn yaa pemse, yʋʋm kob-gĩnd 13 soabã pʋgẽ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 13690,
+     "fichier": "jaba-lompo-n1-mos.m4a"
+    }
+   }
   },
   {
    "id": "n2",
@@ -87,7 +183,23 @@
    "texte": "Celle que voici n'est pas la seule. Écoute-la comme on écoute un voisin.",
    "genre": "adulte/homme",
    "duree_ms": 5540,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Ammaa gooduɗo ɗo'o tan walaa. Njaŋge no njaŋganirɗon ɓerɗe mooɗon.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5722,
+     "fichier": "jaba-lompo-n2-fuf.m4a"
+    },
+    "mos": {
+     "texte": "La pa a yembr bal n be woto ye. D kelgd-a-la wa d sẽn kelgd d yagengã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4698,
+     "fichier": "jaba-lompo-n2-mos.m4a"
+    }
+   }
   },
   {
    "id": "n3",
@@ -101,7 +213,23 @@
    "texte": "Qui est ce géant ? Il n'a rien à faire ici. Un enfant est malade, et on n'a pas le temps pour les étrangers.",
    "genre": "adulte/homme",
    "duree_ms": 10170,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Moy woni mawɗo on? O walaa ko waɗata haa ɗo. Ɓiɗɗo on ɗon nyawdi, nden kam en ngalaa wakkati ngam yimɓe ɓe anndaa.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8900,
+     "fichier": "jaba-lompo-n3-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Ãnd n yaa gãenkã? A pa segd n zĩnd be ye. Bi-ribl n yaa bãad la d pa tar sẽk ne sãambã ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7764,
+     "fichier": "jaba-lompo-n3-mos.m4a"
+    }
+   }
   },
   {
    "id": "n4",
@@ -115,31 +243,87 @@
    "texte": "Tu es au village. Que proposes-tu ?",
    "genre": "adulte/homme",
    "duree_ms": 3260,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "On ɗon nder gariiri. Hol ko mbi'oton?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3722,
+     "fichier": "jaba-lompo-n4-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Yãmb bee tẽngẽ wã. Bõe la y rat n maane?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3498,
+     "fichier": "jaba-lompo-n4-mos.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n4.choices.0.label",
    "type": "choix",
    "chemin": "nodes.n4.choices.0.label",
-   "texte": "De lui amener l'enfant"
+   "texte": "De lui amener l'enfant",
+   "langues": {
+    "fuf": {
+     "texte": "Ngam ɓe ngurtina ɓiyum to maako",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Sẽn na yɩl n tall biigã n wa ne-a",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n4.choices.0.tag",
    "type": "parcours",
    "chemin": "nodes.n4.choices.0.tag",
-   "texte": "confiance"
+   "texte": "confiance",
+   "langues": {
+    "fuf": {
+     "texte": "hoolaare",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "tẽebo",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n4.choices.1.label",
    "type": "choix",
    "chemin": "nodes.n4.choices.1.label",
-   "texte": "De le renvoyer d'où il vient"
+   "texte": "De le renvoyer d'où il vient",
+   "langues": {
+    "fuf": {
+     "texte": "To ɓe acci mo haa to o wari",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "D sẽn na n lebs-a t'a wa a nengẽ wã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n4.choices.1.tag",
    "type": "parcours",
    "chemin": "nodes.n4.choices.1.tag",
-   "texte": "méfiance"
+   "texte": "méfiance",
+   "langues": {
+    "fuf": {
+     "texte": "huutoreede",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "ned sã n pa kɩs sɩd ne",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "renvoi",
@@ -153,7 +337,23 @@
    "texte": "On lui montre le chemin. Il repart sans un mot, et on ne saura jamais ce qu'il savait. Ce chemin n'est pas la tradition rapportée ici.",
    "genre": "adulte/homme",
    "duree_ms": 10930,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "En hollata mo laawol. O dilli walaa wolde, nden kam en anndaay ko o andi. Ɗuum laawol naa' ɗum habaru ɗo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8308,
+     "fichier": "jaba-lompo-renvoi-fuf.m4a"
+    },
+    "mos": {
+     "texte": "D wilgd-a-la sorã. A loogame n pa le gomd ye, la d pa na n bãng a sẽn da mi bũmb ningã ye. Woto pa sor ning b sẽn kõ-d ka wã ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 11028,
+     "fichier": "jaba-lompo-renvoi-mos.m4a"
+    }
+   }
   },
   {
    "id": "enfant",
@@ -167,7 +367,23 @@
    "texte": "Amenez-moi cet enfant.",
    "genre": "âgé/homme",
    "duree_ms": 1440,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Ngaree to am ɓiɗɗo on.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 1408,
+     "fichier": "jaba-lompo-enfant-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Tall-y biigã n wa ne maam.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2112,
+     "fichier": "jaba-lompo-enfant-mos.m4a"
+    }
+   }
   },
   {
    "id": "n5",
@@ -181,55 +397,151 @@
    "texte": "Il se penche sur l'enfant malade, et l'enfant se relève. Alors on l'écoute. Il jette les cauris, et il lit l'avenir dans leur chute.",
    "genre": "adulte/homme",
    "duree_ms": 10320,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "O yaari ɓiɗɗo mo nyawɗo on, o ummii. Ngam maajum en nana ɗum. O ɗon hoola ɓikkoy maako, o ɗon yi'a ko waɗata yeeso nder saɗugo maɓɓe.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9700,
+     "fichier": "jaba-lompo-n5-fuf.m4a"
+    },
+    "mos": {
+     "texte": "A wõgemda bi-riblã zugu, t'a yikame. Woto yĩnga, bɩ d kelg-a. A lobda bõn-naandsã, la a geta b sẽn na n wa yɩ to-to wã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 11220,
+     "fichier": "jaba-lompo-n5-mos.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n6.question",
    "type": "jeu",
    "chemin": "nodes.n6.question",
-   "texte": "Avec quoi Jaba Lompo lit-il l'avenir ?"
+   "texte": "Avec quoi Jaba Lompo lit-il l'avenir ?",
+   "langues": {
+    "fuf": {
+     "texte": "Ko honɗun Jaba Lompo wi'ata yeeso?",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Bõe n kɩt t'a Jaba Lompo bãng beoog-daare?",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n6.gagne",
    "type": "jeu",
    "chemin": "nodes.n6.gagne",
-   "texte": "Oui, les cauris. Et une vision lui apparaît."
+   "texte": "Oui, les cauris. Et une vision lui apparaît.",
+   "langues": {
+    "fuf": {
+     "texte": "Ee, goonɗinɓe. Sey o yi'i laamiiɗo.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Yaa woto. La a yãa bõn-naandsã.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n6.perdu",
    "type": "jeu",
    "chemin": "nodes.n6.perdu",
-   "texte": "Ce sont les cauris. Et une vision lui apparaît."
+   "texte": "Ce sont les cauris. Et une vision lui apparaît.",
+   "langues": {
+    "fuf": {
+     "texte": "Ɗo'on ɗon ɓeen. Sey o yi'i laamiiɗo.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "B yaa rũmsã. La a yãa bõn-naandsã.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n6.reponses.0.label",
    "type": "jeu",
    "chemin": "nodes.n6.reponses.0.label",
-   "texte": "Des cauris"
+   "texte": "Des cauris",
+   "langues": {
+    "fuf": {
+     "texte": "Ɗuurɗe",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Kẽerã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n6.reponses.1.label",
    "type": "jeu",
    "chemin": "nodes.n6.reponses.1.label",
-   "texte": "Les étoiles"
+   "texte": "Les étoiles",
+   "langues": {
+    "fuf": {
+     "texte": "Koodeeji",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Ãdsã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n6.reponses.2.label",
    "type": "jeu",
    "chemin": "nodes.n6.reponses.2.label",
-   "texte": "Des feuilles de karité"
+   "texte": "Des feuilles de karité",
+   "langues": {
+    "fuf": {
+     "texte": "Fuuɗeeje jaayɗe",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "D sã n dat tɩ b sõng-d lame, d segd n baoame.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n6.tags.win",
    "type": "parcours",
    "chemin": "nodes.n6.tags.win",
-   "texte": "bonne réponse"
+   "texte": "bonne réponse",
+   "langues": {
+    "fuf": {
+     "texte": "jaabawol gooŋga",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "leokr sẽn yaa sõma",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n6.tags.lose",
    "type": "parcours",
    "chemin": "nodes.n6.tags.lose",
-   "texte": "réponse manquée"
+   "texte": "réponse manquée",
+   "langues": {
+    "fuf": {
+     "texte": "jaabol maayi",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "sẽn pa leokã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "n7",
@@ -243,7 +555,23 @@
    "texte": "Là-bas, sur la colline, s'élèvera votre ville.",
    "genre": "âgé/homme",
    "duree_ms": 3260,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Ɗon ɗon dow hooseere, gariiri mooɗon ɓadake.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3056,
+     "fichier": "jaba-lompo-n7-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Yãmb tẽngã na n yɩɩ tãnga zugu.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3120,
+     "fichier": "jaba-lompo-n7-mos.m4a"
+    }
+   }
   },
   {
    "id": "n8",
@@ -257,7 +585,23 @@
    "texte": "Il marche jusqu'à ce lieu et plante son bâton : ici sera la ville. Ce fut Bingo, qui deviendra Fada N'Gourma. Les maisons montent autour du bâton.",
    "genre": "adulte/homme",
    "duree_ms": 11460,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "O wari haa nokkuure nde'e, o wurtini maɓɓere maako. Ɗon woni gariiri. Kanjum woni bingo, mo laato Fada N'Gourma. Duuɗe ɗon ɓadito dow maare.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 11390,
+     "fichier": "jaba-lompo-n8-fuf.m4a"
+    },
+    "mos": {
+     "texte": "La b na n kẽnga tẽn-kãnga, la b gãnegd b raadã. Yaa Bingo, sẽn na n lebg Fada N'Gourma wã. Yãk-y n tool-y neda Bãng-y bũmb nins b sẽn yeel tɩ b tõe n maan to-to wã",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 14788,
+     "fichier": "jaba-lompo-n8-mos.m4a"
+    }
+   }
   },
   {
    "id": "n9",
@@ -271,31 +615,87 @@
    "texte": "On vient de loin pour le consulter. Il est à la fois devin et chef. Ses fils ont grandi. Que leur demande-t-il ?",
    "genre": "adulte/homme",
    "duree_ms": 9940,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "En ngari haa nokkuure woɗɗi ngam en ndaara mo. Kanko woni laamiiɗo e hooreejo. Ɓiɓɓe maako mawni. Hol ko o yiɗi ɓe?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 10158,
+     "fichier": "jaba-lompo-n9-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Tõnd yii zĩis wʋsg n na n tɩ ges-a. A yaa bãngd la taoor soaba. A kom-dibli wã bɩɩme. Bõe la a kot-b tɩ b maane?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8862,
+     "fichier": "jaba-lompo-n9-mos.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n9.choices.0.label",
    "type": "choix",
    "chemin": "nodes.n9.choices.0.label",
-   "texte": "De partir fonder d'autres royaumes"
+   "texte": "De partir fonder d'autres royaumes",
+   "langues": {
+    "fuf": {
+     "texte": "Nde ɓe njahi, ɓe ngaɗi laamiije goɗɗe",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "B sẽn wa n na n sig soolem a taaba",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n9.choices.0.tag",
    "type": "parcours",
    "chemin": "nodes.n9.choices.0.tag",
-   "texte": "royaumes à fonder"
+   "texte": "royaumes à fonder",
+   "langues": {
+    "fuf": {
+     "texte": "laamiije haɓɓanɗe",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "soolem dãmb b sẽn na n sigã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n9.choices.1.label",
    "type": "choix",
    "chemin": "nodes.n9.choices.1.label",
-   "texte": "De rester tous autour de lui"
+   "texte": "De rester tous autour de lui",
+   "langues": {
+    "fuf": {
+     "texte": "To yimɓe fuu njooɗoto bee maako",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Sẽn na yɩl tɩ ned fãa tall a meng ne-a",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n9.choices.1.tag",
    "type": "parcours",
    "chemin": "nodes.n9.choices.1.tag",
-   "texte": "fils gardés"
+   "texte": "fils gardés",
+   "langues": {
+    "fuf": {
+     "texte": "ɓikkoy ɗowanteeɓe",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "bi-ribl nins b sẽn gũudã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "rester",
@@ -309,7 +709,23 @@
    "texte": "Père, la colline est petite, et nous sommes nombreux. Laisse-nous aller.",
    "genre": "adulte/homme",
    "duree_ms": 5080,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Nyaako am, dow hooseere ɗum ɗuuɗɗum, ammaa en ɗuuɗɓe. Hokka en njaha.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6394,
+     "fichier": "jaba-lompo-rester-fuf.m4a"
+    },
+    "mos": {
+     "texte": "M ba, tãnga yaa bilfu, la tõnd sõor yaa wʋsgo. Bas-y tɩ d looge.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6170,
+     "fichier": "jaba-lompo-rester-mos.m4a"
+    }
+   }
   },
   {
    "id": "n10",
@@ -323,7 +739,23 @@
    "texte": "Jaba Lompo sourit. C'est bien ce qu'il voulait entendre.",
    "genre": "adulte/homme",
    "duree_ms": 4020,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Jaba Lompo ɗon ummii. Ɗum woni ko o yiɗi nani.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3898,
+     "fichier": "jaba-lompo-n10-fuf.m4a"
+    },
+    "mos": {
+     "texte": "A Jaba Lompo puka a nengẽ. Yaa woto la a ra rat n wʋm.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4794,
+     "fichier": "jaba-lompo-n10-mos.m4a"
+    }
+   }
   },
   {
    "id": "fonder",
@@ -337,7 +769,23 @@
    "texte": "Mes fils, fondez d'autres royaumes.",
    "genre": "âgé/homme",
    "duree_ms": 2350,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Ɓiɓɓe am, njooɗee laamiije goɗɗe.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2912,
+     "fichier": "jaba-lompo-fonder-fuf.m4a"
+    },
+    "mos": {
+     "texte": "M kom-bõonego, bɩ y maneg soolem a taabã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3360,
+     "fichier": "jaba-lompo-fonder-mos.m4a"
+    }
+   }
   },
   {
    "id": "n11",
@@ -351,7 +799,23 @@
    "texte": "Ils partent dans des directions différentes, pour étendre le pays gulmancé. Fada N'Gourma se souvient de son fondateur.",
    "genre": "adulte/homme",
    "duree_ms": 7590,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Ɓe ndilli haa nokkuure feere feere, ngam ɓe ɓesda lesdi. Fada N'Gourma ɗon yejjita mo fuɗɗitiiɗo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6826,
+     "fichier": "jaba-lompo-n11-fuf.m4a"
+    },
+    "mos": {
+     "texte": "B kẽnga zĩis a taab n na n paas tẽn-gãongã. A Fada N'Gourma tẽra a sẽn lugl-a wã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8010,
+     "fichier": "jaba-lompo-n11-mos.m4a"
+    }
+   }
   },
   {
    "id": "n12",
@@ -365,7 +829,23 @@
    "texte": "C'est une tradition parmi d'autres, et elle mérite d'être écoutée. Chaque peuple garde son propre récit des commencements.",
    "genre": "adulte/homme",
    "duree_ms": 7590,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Kanjum woni al'aadaaji feere-feere. Yimɓe fuu mbaɗata haala maɓɓe dow fuɗɗam.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5866,
+     "fichier": "jaba-lompo-n12-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Yaa bũmb a taab me la d segd n tũ. Tẽns fãa tara b meng kibar sẽn gomd sɩngrẽ wã yelle.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6266,
+     "fichier": "jaba-lompo-n12-mos.m4a"
+    }
+   }
   },
   {
    "id": "film-001",
@@ -381,7 +861,19 @@
    "texte": "Jaba Lompo, le devin ancêtre. Une légende gulmancé.",
    "genre": "adulte/libre",
    "duree_ms": 5500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Jaba Lompo, jaagorɗo mawɗo. Gooto gooduɗo ko'e maɓɓe.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A Jaba Lompo, sẽn yaa pĩnd-n-bãngdã. Bãngr-gomd a ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-002",
@@ -397,7 +889,19 @@
    "texte": "Les traditions ne s'accordent pas sur l'origine des Gulmancé. Certaines refusent de les lier aux Mossi, et parlent d'un homme venu d'ailleurs.",
    "genre": "adulte/libre",
    "duree_ms": 8600,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Aadaaji feere-feere dow ko Gulmance'en fuɗɗii. Woɓɓe maɓɓe ɓe njaɓaayi bandugo ɓe bee Musa, ammaa ɓe mbi'i dow goɗɗo ƴiwoyi daga woɗɓe.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Gullmanse rãmbã sẽn yi zĩig ningã pa zemsd taab ye. Neb kẽer pa sak n loe-b ne a Moyiis ye, la b gomda rao sẽn yi zĩig a to yelle.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-003",
@@ -413,7 +917,19 @@
    "texte": "Selon l'une d'elles, Jaba Lompo descendit du ciel sur un cheval blanc.",
    "genre": "adulte/libre",
    "duree_ms": 4800,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Gooto nder maɓɓe wi'i Jaba Lompo ɗon dari diga asama e koyngal sendundu.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A yembr yeelame t'a Jaba Lompo yii saasẽ n zao wed-bil sẽn yaa pemse.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-004",
@@ -429,7 +945,19 @@
    "texte": "Il arriva au pays de l'Est, au treizième siècle.",
    "genre": "adulte/libre",
    "duree_ms": 3800,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "O wari nder lesdi fuunaaŋge nder karnuwol sappo e tati.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A wa n waa tẽns nins sẽn be Eastern soolmẽ wã yʋʋm kob-gĩnd 13 soabã pʋgẽ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-005",
@@ -445,7 +973,19 @@
    "texte": "Les gens se méfiaient de ce géant étranger.",
    "genre": "adulte/libre",
    "duree_ms": 3200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Yimɓe ɓeen ɗon mbaɗata ko'e maɓɓe.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Nebã ra gũusda ne tẽn-zẽng nin-kãnga.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-006",
@@ -461,7 +1001,19 @@
    "texte": "Amenez-moi cet enfant.",
    "genre": "esprit, créature : voix grave/libre",
    "duree_ms": 2400,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Ngaree to am ɓiɗɗo on.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Tall-y biigã n wa ne maam.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-007",
@@ -477,7 +1029,19 @@
    "texte": "Il se pencha sur un enfant malade, et l'enfant se releva. Alors on l'écouta.",
    "genre": "adulte/libre",
    "duree_ms": 6100,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Sey o yaari ɓiɗɗo mo nyawɗo, ɓikkoy maako ummii. Ngam maajum min nana mo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A Zezi wõgemdame n gãneg bi-riblã zugu, la biigã yikame. Rẽ n so tɩ d kelg-a lame.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-008",
@@ -493,7 +1057,19 @@
    "texte": "Il jetait les cauris, et il lisait l'avenir dans leur chute.",
    "genre": "adulte/libre",
    "duree_ms": 4100,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "O ɗon maɓɓita ko'e maɓɓe, o ɗon wi'a yeeso nder ɓoggi maɓɓe.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A ra lobda rũmsã, la a ra karemda beoog-daare b sã n wa lʋɩt taoore.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-009",
@@ -509,7 +1085,19 @@
    "texte": "Une vision lui apparut : une ville sur une colline.",
    "genre": "adulte/libre",
    "duree_ms": 3700,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "O yi'i gariiri dow hooseere.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A yãee yel-bũnd n yã tẽng sẽn be tãnga zugu.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-010",
@@ -525,7 +1113,19 @@
    "texte": "Là-bas, sur la colline, s'élèvera votre ville.",
    "genre": "esprit, créature : voix grave/libre",
    "duree_ms": 4000,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Ɗon ɗon dow hooseere, gariiri mooɗon ɓadake.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Yãmb tẽngã na n yɩɩ tãnga zugu.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-011",
@@ -541,7 +1141,19 @@
    "texte": "Il marcha jusqu'à ce lieu et planta son bâton : ici sera la ville.",
    "genre": "adulte/libre",
    "duree_ms": 4800,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "O yahi haa nokkuure nde'e, o wurtini laami maako, o wi'i: \"Ɗum woni gariiri\".",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A Zozɛf kẽngame n ta zĩig ning b sẽn da beẽ wã, la a gãda a raad n yeel tɩ yaa tẽn-kãnga.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-012",
@@ -557,7 +1169,19 @@
    "texte": "Ce fut Bingo, qui deviendra Fada N'Gourma.",
    "genre": "adulte/libre",
    "duree_ms": 3800,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Kanjum woni bingo, mo laato Fada N'Gourma.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Yaa Bingo, sẽn na n lebg Fada N'Gourma wã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-013",
@@ -573,7 +1197,19 @@
    "texte": "Les maisons montèrent autour du bâton.",
    "genre": "adulte/libre",
    "duree_ms": 2900,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Duuɗe ɗon ɓadito dow maɓɓere.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Yãk-y n tool-y neda.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-014",
@@ -589,7 +1225,19 @@
    "texte": "Jaba Lompo y siégea, à la fois devin et chef.",
    "genre": "adulte/libre",
    "duree_ms": 4000,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Jaba Lompo jooɗii ton, kanko e hooreejo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A Jaba Lompo zĩnda be, la a ra yaa bãngd la taoor soaba.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-015",
@@ -605,7 +1253,19 @@
    "texte": "On venait de loin pour le consulter.",
    "genre": "adulte/libre",
    "duree_ms": 2900,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "En ngari diga toɗɗaaɗe ngam en ndaara mo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Tõnd yii tẽn-zãrse n na n ges-a.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-016",
@@ -621,7 +1281,19 @@
    "texte": "Mes fils, fondez d'autres royaumes.",
    "genre": "esprit, créature : voix grave/libre",
    "duree_ms": 3200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Ɓiɓɓe am, njooɗee laamiije goɗɗe.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "M kom-bõonego, bɩ y maneg soolem a taabã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-017",
@@ -637,7 +1309,19 @@
    "texte": "Et ses fils partirent dans des directions différentes, pour étendre le pays gulmancé.",
    "genre": "adulte/libre",
    "duree_ms": 5300,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Ɓiɓɓe maako boo ɓe njehi haa nokkuure feere-feere ngam ɓe ɓesda lesdi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A yagensã kẽnga zĩis a taab n na n paas tẽnga pʋga.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-018",
@@ -653,7 +1337,19 @@
    "texte": "Aujourd'hui, Fada N'Gourma se souvient de son fondateur. C'est une tradition parmi d'autres, et elle mérite d'être écoutée.",
    "genre": "adulte/libre",
    "duree_ms": 8800,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Hannde, Fada N'Gourma ɗon siftora mo fuɗɗiiɗo. Kanjum woni al'aadaaji feere-feere.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Rũndã-rũndã, a Fada N'Gourma tẽegda a sẽn lugl-a wã yelle. Yaa bũmb a taab me la d segd n tũ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   }
  ]
 }

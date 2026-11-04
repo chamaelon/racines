@@ -11,55 +11,137 @@
    "id": "titre",
    "type": "titre",
    "chemin": "titre",
-   "texte": "Le gyil des génies"
+   "texte": "Le gyil des génies",
+   "langues": {
+    "fuf": {
+     "texte": "Killer geniusɓe",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Bõn-naandb kʋʋdã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "presentation",
    "type": "presentation",
    "chemin": "presentation",
-   "texte": "Les fêtes dagara sont bien tristes : personne n'a encore de gyil. Perdu dans la brousse, le chasseur Bayuo entend des génies frapper des lames de bois. Sauras-tu retenir leur musique ?"
+   "texte": "Les fêtes dagara sont bien tristes : personne n'a encore de gyil. Perdu dans la brousse, le chasseur Bayuo entend des génies frapper des lames de bois. Sauras-tu retenir leur musique ?",
+   "langues": {
+    "fuf": {
+     "texte": "Yimɓe dagara ɗon ɓeyda masin: walaa gooduɗo hakke. Nde Bayuo woni nder le'i, o nani jinnaaɓe ɓe ɗon mbaroya lekki. A waawataa jaɓugo numooji maɓɓe?",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Dagara kibsã yaa sũ-sãoong wʋsgo: ned baa a yen ka zoe n kʋ ye. A Bayuo sẽn wa n be weoogẽ wã, a wʋma bõn-vɩɩs nins sẽn wẽed tɩɩsã. Yãmb na n tõog n tall b mizikã bɩ?",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "personnages.griot.nom",
    "type": "personnage",
    "chemin": "personnages.griot.nom",
-   "texte": "Le griot"
+   "texte": "Le griot",
+   "langues": {
+    "fuf": {
+     "texte": "Le griot"
+    },
+    "mos": {
+     "texte": "Le griot"
+    }
+   }
   },
   {
    "id": "personnages.bayuo.nom",
    "type": "personnage",
    "chemin": "personnages.bayuo.nom",
-   "texte": "Bayuo"
+   "texte": "Bayuo",
+   "langues": {
+    "fuf": {
+     "texte": "Bayuo"
+    },
+    "mos": {
+     "texte": "Bayuo"
+    }
+   }
   },
   {
    "id": "personnages.genie.nom",
    "type": "personnage",
    "chemin": "personnages.genie.nom",
-   "texte": "Le génie"
+   "texte": "Le génie",
+   "langues": {
+    "fuf": {
+     "texte": "Le génie"
+    },
+    "mos": {
+     "texte": "Le génie"
+    }
+   }
   },
   {
    "id": "personnages.femme.nom",
    "type": "personnage",
    "chemin": "personnages.femme.nom",
-   "texte": "Une villageoise"
+   "texte": "Une villageoise",
+   "langues": {
+    "fuf": {
+     "texte": "Une villageoise"
+    },
+    "mos": {
+     "texte": "Une villageoise"
+    }
+   }
   },
   {
    "id": "fins.canon",
    "type": "fin",
    "chemin": "fins.canon",
-   "texte": "Version du griot : le premier gyil des hommes"
+   "texte": "Version du griot : le premier gyil des hommes",
+   "langues": {
+    "fuf": {
+     "texte": "Winndannde caggalGriot: Murtuɗo arandeeɓe",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Gryot version: nin-kʋʋdb pipi soabã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "fins.garde",
    "type": "fin",
    "chemin": "fins.garde",
-   "texte": "Autre chemin : un gyil gardé pour soi"
+   "texte": "Autre chemin : un gyil gardé pour soi",
+   "langues": {
+    "fuf": {
+     "texte": "laawol go'otol: neɗɗo moƴƴuɗo",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Bũmb a to: ned sẽn pa tõe n maan yel-wẽnã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "fins.peur",
    "type": "fin",
    "chemin": "fins.peur",
-   "texte": "Autre chemin : la musique reste dans la brousse"
+   "texte": "Autre chemin : la musique reste dans la brousse",
+   "langues": {
+    "fuf": {
+     "texte": "laawol gootol: music keewi nder leɗɗe",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Bũmb a to: mizikã ket n bee weoogẽ wã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "n1",
@@ -73,7 +155,23 @@
    "texte": "Autrefois, les villages dagara n'avaient pas de gyil. Les fêtes étaient bien tristes : on se regardait, et on s'ennuyait.",
    "genre": "adulte/homme",
    "duree_ms": 8650,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Wakkati naane, gure dagara'en mbaawataa haayri. Nyalnde nden e woodi ɓernde kalluɗum. Yimɓe ɗon ngi'a hakkunde maɓɓe, ɓe ngaɗata ko wooɗi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9124,
+     "fichier": "gyil-n1-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Pĩnd wẽndẽ, dagara tẽn-tẽnsã ra pa tar kʋʋdb ye. La kibsã ra yaa sũ-sãangre, tɩ nebã ra get taab la b basd taaba.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9818,
+     "fichier": "gyil-n1-mos.m4a"
+    }
+   }
   },
   {
    "id": "n2",
@@ -87,7 +185,23 @@
    "texte": "Un jour, Bayuo s'éloigne trop dans la brousse. La nuit tombe. Soudain, il entend un son qu'il ne connaît pas : des kontomblé, les génies de la brousse, frappent sur des lames de bois.",
    "genre": "adulte/homme",
    "duree_ms": 14570,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Go'o go'o Bayuo ɗon yahda nder ladde. Nde jemma wara. Sey o nani kaayeefiiji ɗe o anndaa, ɓe mbi'i: \"Koohooɓe, ruuhuuji nder ladde ɗon maaro dow leɗɗe.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 12062,
+     "fichier": "gyil-n2-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Daar a ye, a Bayuo kẽnga weoogẽ. Yĩng n beẽ. A wʋma koɛɛg a sẽn da pa mi. B ra wẽnda wa tãb-biisi, la zĩn-dãmbã ra wẽeda tɩɩs bĩis zutu.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 12894,
+     "fichier": "gyil-n2-mos.m4a"
+    }
+   }
   },
   {
    "id": "n3",
@@ -101,31 +215,87 @@
    "texte": "Que fait-il ?",
    "genre": "adulte/homme",
    "duree_ms": 1440,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Hol ko o waɗi?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 1184,
+     "fichier": "gyil-n3-fuf.m4a"
+    },
+    "mos": {
+     "texte": "A maanda bõe?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 1232,
+     "fichier": "gyil-n3-mos.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n3.choices.0.label",
    "type": "choix",
    "chemin": "nodes.n3.choices.0.label",
-   "texte": "Il se cache derrière un arbre pour écouter"
+   "texte": "Il se cache derrière un arbre pour écouter",
+   "langues": {
+    "fuf": {
+     "texte": "O ɓooydi caka leggal ngam nanugo",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "A solg-a-la tɩɩgã poorẽ n kelgdẽ",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n3.choices.0.tag",
    "type": "parcours",
    "chemin": "nodes.n3.choices.0.tag",
-   "texte": "écoute cachée"
+   "texte": "écoute cachée",
+   "langues": {
+    "fuf": {
+     "texte": "nanngoo ɓoyma",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "kelg-y ne zĩiga",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n3.choices.1.label",
    "type": "choix",
    "chemin": "nodes.n3.choices.1.label",
-   "texte": "Il s'enfuit vers le village"
+   "texte": "Il s'enfuit vers le village",
+   "langues": {
+    "fuf": {
+     "texte": "O dilli haa gariiri",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "A zoeeme n kẽng tẽn-gãongã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n3.choices.1.tag",
    "type": "parcours",
    "chemin": "nodes.n3.choices.1.tag",
-   "texte": "fuite"
+   "texte": "fuite",
+   "langues": {
+    "fuf": {
+     "texte": "fuɗugo",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "sã n zoe",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "fuite",
@@ -139,7 +309,23 @@
    "texte": "Il rentre au matin, et il essaie de raconter ce qu'il a entendu. Personne ne le croit. Les fêtes restent tristes, et lui reste avec un air qu'il ne sait plus retrouver.",
    "genre": "adulte/homme",
    "duree_ms": 13360,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "O warti haa jemmaare, o ɗaɓɓi haala maako. Walaa gooduɗo nuɗɗinki. Yimɓe boo ɓe ngalaa hakkiilo, nden kam o ɗon mbaawa yi'ugo ko'e maɓɓe.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 11060,
+     "fichier": "gyil-fuite-fuf.m4a"
+    },
+    "mos": {
+     "texte": "A waame n na n togs nebã bũmb nins a sẽn wʋmã. Ned pa tẽed-a ye. Tẽegrã ket n yaa sũ-sãanga, t'a pa le tõe n yãend a meng ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 10324,
+     "fichier": "gyil-fuite-mos.m4a"
+    }
+   }
   },
   {
    "id": "ecoute",
@@ -153,37 +339,103 @@
    "texte": "Il revient la nuit suivante, et la suivante encore. Ses mains, dans le vide, imitent les génies. À toi : retiens l'air.",
    "genre": "adulte/homme",
    "duree_ms": 9860,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "O warti jemma go'o, nden boo jemma gaɗa. Hannde maako boo, nder meere, nandi bee jinnaaɓe. To maaɗa: njooɗee.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9086,
+     "fichier": "gyil-ecoute-fuf.m4a"
+    },
+    "mos": {
+     "texte": "A lebg n waame yʋngo, t'a leb n wa. A nusã sẽn pa tar bũmbã wõnda zĩn-dãmbã. La f sã n wa tar-a, bɩ f gãneg f menga.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 10484,
+     "fichier": "gyil-ecoute-mos.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n4.consigne",
    "type": "jeu",
    "chemin": "nodes.n4.consigne",
-   "texte": "Écoute les lames des génies, et reproduis l'air."
+   "texte": "Écoute les lames des génies, et reproduis l'air.",
+   "langues": {
+    "fuf": {
+     "texte": "Njaɓee ko jannaaɓe mbi'i, nden ngaɗee ndiyam.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Kelg-y yel-bũndbã sẽn gomd bũmb ningã, la y rɩkd yĩngrã.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n4.gagne",
    "type": "jeu",
    "chemin": "nodes.n4.gagne",
-   "texte": "Tes mains ont tout retenu."
+   "texte": "Tes mains ont tout retenu.",
+   "langues": {
+    "fuf": {
+     "texte": "Juŋŋgo maaɗa njooɗi koo ɗume.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Fo nugã zãmsa bũmb fãa.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n4.perdu",
    "type": "jeu",
    "chemin": "nodes.n4.perdu",
-   "texte": "L'air t'échappe un peu, mais tes mains s'en souviennent."
+   "texte": "L'air t'échappe un peu, mais tes mains s'en souviennent.",
+   "langues": {
+    "fuf": {
+     "texte": "Ɗu'um ɓeydaama, ammaa juuɗe ma ɗon nji'a ɗum.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "La fo sã n ket n tagsdẽ t'a Zeova na n sõng-y lame, bɩ y maan bũmb sẽn tõe n sõng yãmb tɩ y paam sũ-noogo.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n4.tags.win",
    "type": "parcours",
    "chemin": "nodes.n4.tags.win",
-   "texte": "rythme tenu"
+   "texte": "rythme tenu",
+   "langues": {
+    "fuf": {
+     "texte": "ɓeydaaki",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "b sẽn maand to-to wã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n4.tags.lose",
    "type": "parcours",
    "chemin": "nodes.n4.tags.lose",
-   "texte": "rythme perdu"
+   "texte": "rythme perdu",
+   "langues": {
+    "fuf": {
+     "texte": "ɓeydaaki",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "b sẽn wa n paame",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "n5",
@@ -197,7 +449,23 @@
    "texte": "Une branche craque. Découvert !",
    "genre": "adulte/homme",
    "duree_ms": 2500,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Ɗerewol ɗon ɓilla. Wonaa !",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2490,
+     "fichier": "gyil-n5-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Bãng-y tɩ b rũmsã sãame. B bãngame!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3130,
+     "fichier": "gyil-n5-mos.m4a"
+    }
+   }
   },
   {
    "id": "n6",
@@ -211,7 +479,23 @@
    "texte": "Qui ose nous espionner ?",
    "genre": "voix de génie/libre",
    "duree_ms": 2200,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Honooɓe ɓe'e nana en?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 1840,
+     "fichier": "gyil-n6-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Ãnd dãmb n tõe n gũnug-d lame?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 1888,
+     "fichier": "gyil-n6-mos.m4a"
+    }
+   }
   },
   {
    "id": "n7",
@@ -225,31 +509,87 @@
    "texte": "Que répond Bayuo ?",
    "genre": "adulte/homme",
    "duree_ms": 1820,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Hol ko Bayuo jaabi?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 1680,
+     "fichier": "gyil-n7-fuf.m4a"
+    },
+    "mos": {
+     "texte": "A Bayuo leokame tɩ bõe?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 1776,
+     "fichier": "gyil-n7-mos.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n7.choices.0.label",
    "type": "choix",
    "chemin": "nodes.n7.choices.0.label",
-   "texte": "« Je vous offre cette bière. Laissez-moi jouer ! »"
+   "texte": "« Je vous offre cette bière. Laissez-moi jouer ! »",
+   "langues": {
+    "fuf": {
+     "texte": "Mi hokkata on beerol ngol. Hokka mi huutoroo! ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "M kõt-y-la bi-kãnga. Bas-y tɩ m maan yɩɩr ye! ",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n7.choices.0.tag",
    "type": "parcours",
    "chemin": "nodes.n7.choices.0.tag",
-   "texte": "bière offerte"
+   "texte": "bière offerte",
+   "langues": {
+    "fuf": {
+     "texte": "beer haɓɓii",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "rãam sẽn kõ wã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n7.choices.1.label",
    "type": "choix",
    "chemin": "nodes.n7.choices.1.label",
-   "texte": "« Je suis perdu, je ne voulais rien. »"
+   "texte": "« Je suis perdu, je ne voulais rien. »",
+   "langues": {
+    "fuf": {
+     "texte": "Mi majjini, mi yiɗaa koo ɗume. ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Mam menemame, m da pa rat bũmb ye. ",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n7.choices.1.tag",
    "type": "parcours",
    "chemin": "nodes.n7.choices.1.tag",
-   "texte": "excuse"
+   "texte": "excuse",
+   "langues": {
+    "fuf": {
+     "texte": "yaafugo",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "kõ-y sugri",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "perdu",
@@ -263,7 +603,23 @@
    "texte": "Tu mens : cela fait trois nuits que tes mains bougent derrière cet arbre. Qu'as-tu à offrir ?",
    "genre": "voix de génie/libre",
    "duree_ms": 7590,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "On ɗon fewra, ngam nyalɗe joweego'en njooɗoto dow leggal ngol. Ko honɗun hokkata?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6138,
+     "fichier": "gyil-perdu-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Yãmb zãmbda: yãmb rɩka tɩɩgã zug yʋng a tãab masã. Bõe la y tõe n kõ-yã?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6132,
+     "fichier": "gyil-perdu-mos.m4a"
+    }
+   }
   },
   {
    "id": "n8",
@@ -277,7 +633,23 @@
    "texte": "Il tend alors sa gourde de bière.",
    "genre": "adulte/homme",
    "duree_ms": 2960,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Sey o ɓanngini ko'e maako.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2032,
+     "fichier": "gyil-n8-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Rẽ poore, a kõ-a-la biiri.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2800,
+     "fichier": "gyil-n8-mos.m4a"
+    }
+   }
   },
   {
    "id": "biere",
@@ -291,7 +663,23 @@
    "texte": "Les génies se regardent. Puis ils lui tendent les baguettes. Bayuo joue. Il a tout retenu. Regarde ce qu'il tient.",
    "genre": "adulte/homme",
    "duree_ms": 9100,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Genius'en ɗon ndaara bee maɓɓe. Caggal ɗum, ɓe ndilli e makko. Bayuo ɗon mooɓta. O hoo'i koo ɗume. Ndaa ko o woodi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 10680,
+     "fichier": "gyil-biere-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Vʋʋsem dãmbã getda taaba. Rẽ poore, b kõ-a lame. A Bayuo yɩɩla. A rɩka bũmba fãa. Ges-y bũmb ning a sẽn tarã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 11160,
+     "fichier": "gyil-biere-mos.m4a"
+    }
+   }
   },
   {
    "id": "n9",
@@ -305,7 +693,23 @@
    "texte": "Taille les lames dans cet arbre. Partage.",
    "genre": "voix de génie/libre",
    "duree_ms": 3260,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Fulii lamɓe nder leggal ngal. Ɗaɓɓo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3210,
+     "fichier": "gyil-n9-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Kẽng-y tɩɩgã pʋgẽ. D pʋɩ-a.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2938,
+     "fichier": "gyil-n9-mos.m4a"
+    }
+   }
   },
   {
    "id": "n10",
@@ -319,31 +723,87 @@
    "texte": "Bayuo rentre. Il tient là un trésor. Qu'en fait-il ?",
    "genre": "adulte/homme",
    "duree_ms": 4700,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Bayuo ɗon wara. O jogii jawdi. Hol ko o waɗi?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4372,
+     "fichier": "gyil-n10-fuf.m4a"
+    },
+    "mos": {
+     "texte": "A Bayuo waa be. A tara arzɛk wʋsgo. A maanda wãna?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4804,
+     "fichier": "gyil-n10-mos.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n10.choices.0.label",
    "type": "choix",
    "chemin": "nodes.n10.choices.0.label",
-   "texte": "Il le partage avec tout le village"
+   "texte": "Il le partage avec tout le village",
+   "langues": {
+    "fuf": {
+     "texte": "O dilli bee yimɓe gariiri fuu",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "A pʋɩ-a ne tẽn-kãng neba fãa",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n10.choices.0.tag",
    "type": "parcours",
    "chemin": "nodes.n10.choices.0.tag",
-   "texte": "gyil partagé"
+   "texte": "gyil partagé",
+   "langues": {
+    "fuf": {
+     "texte": "ɓeydaama",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "gãndã b sẽn pʋɩ",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n10.choices.1.label",
    "type": "choix",
    "chemin": "nodes.n10.choices.1.label",
-   "texte": "Il le garde, et il se fait payer pour jouer"
+   "texte": "Il le garde, et il se fait payer pour jouer",
+   "langues": {
+    "fuf": {
+     "texte": "O hokki ɗum, o hokka hoore maako ceede ngam huutoraade",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "A tall-a lame, la b yaood-a-la t'a tõe n maan yɩɩr",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n10.choices.1.tag",
    "type": "parcours",
    "chemin": "nodes.n10.choices.1.tag",
-   "texte": "gyil gardé"
+   "texte": "gyil gardé",
+   "langues": {
+    "fuf": {
+     "texte": "darnugol",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "t'a gãneg-a lame",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "garde",
@@ -357,7 +817,23 @@
    "texte": "Il joue seul, et il vend ses notes. Un soir, ses lames sonnent faux. Les génies avaient dit : partage. Dans ce chemin imaginé, le gyil se tait.",
    "genre": "adulte/homme",
    "duree_ms": 12440,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "O ɗon jooɗa bee hoore maako, o ɗon feere kuuje maako. Nder jemma go'o, kuuje maako ɗon maaro. Genius'en mbi'i: \"Ndaa\". E nder laawol ngol fooyre, moodiyanke'en ɗon suuɗa.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 14152,
+     "fichier": "gyil-garde-fuf.m4a"
+    },
+    "mos": {
+     "texte": "A yɩɩla a yembre, la a koosda b notã. Daar a ye yʋngo, yɩɩl nins a sẽn gʋlsã ra pa sɩd ye. Neb nins sẽn da yaa bãngdba ra yeelame tɩ d segd n pʋɩta taaba. Sẽn na yɩl n tõog-b tɩ b bãng b sẽn tõe n maan to-to wã, ned sã n wa kʋ-a, a sĩnddame.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 20542,
+     "fichier": "gyil-garde-mos.m4a"
+    }
+   }
   },
   {
    "id": "partage",
@@ -371,7 +847,23 @@
    "texte": "Il taille les lames et y accroche des calebasses. Dès les premières notes, les pieds se mettent à bouger, et tout le village danse.",
    "genre": "adulte/homme",
    "duree_ms": 10020,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "O taƴi gacce ɗe, o hokki boobooje. Nde ɓe nganndi, koyɗe mum'en fuɗɗii ɓamtude, yimɓe wuro ngoo fuu njanngini.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7546,
+     "fichier": "gyil-partage-fuf.m4a"
+    },
+    "mos": {
+     "texte": "A kẽesa b sʋʋsã, la a gãnegda a tãb-biisi. La b sẽn wa n yãendẽ wã, b yikame tɩ tẽn-kãng nebã fãa yɩɩ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 10746,
+     "fichier": "gyil-partage-mos.m4a"
+    }
+   }
   },
   {
    "id": "n11",
@@ -385,7 +877,23 @@
    "texte": "Depuis, le gyil accompagne les Dagara dans les fêtes, et aussi dans le deuil. Il accompagne la vie et la mort.",
    "genre": "adulte/homme",
    "duree_ms": 8880,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Diga saa'i maajum, Muritanko'en ɗon yahda bee Dagara'en nder juulde e boo nder rewo. O ɗon yahda bee mayde e yonki.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8714,
+     "fichier": "gyil-n11-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Rẽ n so t'a sɩnga Dagara rãmbã tɩ b maand kibsã, la b maan sũ-sãoong me. Yaa vɩɩm la kũum sʋka.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8586,
+     "fichier": "gyil-n11-mos.m4a"
+    }
+   }
   },
   {
    "id": "film-001",
@@ -401,7 +909,19 @@
    "texte": "Le gyil des génies. Une légende dagara.",
    "genre": "adulte/libre",
    "duree_ms": 4200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "O ɗon wi'a ko o woni. Fedde dagara.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Yaa yel-wẽn-maandb kʋʋdã. Yaa Dagara lagem-n-taar.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-002",
@@ -417,7 +937,19 @@
    "texte": "Autrefois, les villages dagara n'avaient pas de gyil. Les fêtes étaient bien tristes : on se regardait, et on s'ennuyait.",
    "genre": "adulte/libre",
    "duree_ms": 8100,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Wakkati naane, gure dagara'en mbaawataa haayri. Nyalnde nden e woodi ɓernde kalluɗum. Yimɓe ɗon ngi'a hakkunde maɓɓe, ɓe ngaɗata ko wooɗi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Pĩnd wẽndẽ, dagara tẽn-tẽnsã ra pa tar kʋʋdb ye. La kibsã ra yaa sũ-sãangre, tɩ nebã ra get taab la b basd taaba.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-003",
@@ -433,7 +965,19 @@
    "texte": "Un jour, Bayuo, un chasseur, s'éloigna trop dans la brousse.",
    "genre": "adulte/libre",
    "duree_ms": 5100,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Go'o go'o Bayuo, mawɗo geɗal, ɓeydi haa nder leɗɗe.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Daar a ye, Bayuo sẽn da yaa zĩ-yũudd n kẽed weoogẽ wã n loogame.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-004",
@@ -449,7 +993,19 @@
    "texte": "La nuit tomba, et il ne retrouva plus son chemin.",
    "genre": "adulte/libre",
    "duree_ms": 3800,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Nde jemma waɗi, o yi'i laawol.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Zĩigã lebga yʋngo, t'a ra pa le tõe n paam a sor ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-005",
@@ -465,7 +1021,19 @@
    "texte": "Soudain, il entendit un son qu'il ne connaissait pas.",
    "genre": "adulte/libre",
    "duree_ms": 3800,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Ɗoon o nani wolde mo anndaa.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "La tao-tao bala, a wʋma koɛɛg a sẽn da pa mi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-006",
@@ -481,7 +1049,19 @@
    "texte": "Derrière les arbres, des kontomblé, les génies de la brousse, frappaient sur des lames de bois.",
    "genre": "adulte/libre",
    "duree_ms": 6100,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Ɓaawo leɗɗe, ruuhuuji nder ladde ɗon mbaroyi lekki.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "La tɩɩsã poore, zĩn-dãmbã ra wẽeda tɩɩgã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-007",
@@ -497,7 +1077,19 @@
    "texte": "Bayuo oublia sa peur. Il n'avait jamais rien entendu d'aussi beau.",
    "genre": "adulte/libre",
    "duree_ms": 5500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Bayuo yejjiti kulol muuɗum. O meeɗaay nanugo ko ɓuri wooɗugo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A Bayuo basa rabeem ning a sẽn da tarã. A ra zɩ n wʋm bũmb sẽn yaa sõma woto ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-008",
@@ -513,7 +1105,19 @@
    "texte": "Il revint la nuit suivante, et la suivante encore, caché derrière un arbre.",
    "genre": "adulte/libre",
    "duree_ms": 5500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "O warti haa jemma, nden kam o ɓoydi dow leggal.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A waame yʋngo, t'a leb n solg-a-la tɩɩgã poorẽ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-009",
@@ -529,7 +1133,19 @@
    "texte": "La lune changeait de place. Et ses mains, dans le vide, imitaient de mieux en mieux les génies.",
    "genre": "adulte/libre",
    "duree_ms": 6700,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Lewru ɗon wayla nokkuure maako. Ammaa juuɗe maako ɗe laatoy, ɗon ɓeyda ɓeydagol ruumiije.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Sẽn paase, kiuugã ra toeemda a zĩiga. La a nusã sẽn da pa tar bũmbã ra rɩkda zĩn-dãmb togs-n-taare.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-010",
@@ -545,7 +1161,19 @@
    "texte": "Une branche craqua. Découvert !",
    "genre": "adulte/libre",
    "duree_ms": 3400,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Ɗerewol gootol ɓanngini. Wonaa !",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Tʋʋm-kãnga ra yikame. B bãngame!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-011",
@@ -561,7 +1189,19 @@
    "texte": "Qui ose nous espionner ?",
    "genre": "esprit, créature : voix grave/libre",
    "duree_ms": 2300,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Honooɓe ɓe'e nana en?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Ãnd dãmb n tõe n gũnug-d lame?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-012",
@@ -577,7 +1217,19 @@
    "texte": "Je vous offre cette bière. Laissez-moi jouer !",
    "genre": "adulte/homme",
    "duree_ms": 3500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Mi hokkata on beerol ngol. Hokka mi huutoroo!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "M kõt-y-la bi-kãnga. Bas-y tɩ m maan yɩɩr ye!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-013",
@@ -593,7 +1245,19 @@
    "texte": "Les génies se regardèrent. Puis ils lui tendirent les baguettes.",
    "genre": "adulte/libre",
    "duree_ms": 5100,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Mawɓe ɗon ndaara. Sey ɓe mbi'i mo: \"Ndaa.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Ninsaalbã gesa b taabã. Rẽ poore, b kõ-a lame.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-014",
@@ -609,7 +1273,19 @@
    "texte": "Bayuo joua. Il avait tout retenu.",
    "genre": "adulte/libre",
    "duree_ms": 3900,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Bayuo waɗi. O hoo'i kooɗume.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A Bayuo yɩɩla. A ra zãmsa bũmb fãa.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-015",
@@ -625,7 +1301,19 @@
    "texte": "Taille les lames dans cet arbre. Partage.",
    "genre": "esprit, créature : voix grave/libre",
    "duree_ms": 4200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Fulii lamɓe nder leggal ngal. Ɗaɓɓo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Kẽng-y tɩɩgã pʋgẽ. D pʋɩ-a.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-016",
@@ -641,7 +1329,19 @@
    "texte": "Au village, il tailla les lames, et il y accrocha des calebasses.",
    "genre": "adulte/libre",
    "duree_ms": 4800,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Nde o wari nder gariiri ndin, o taƴi lamɓe, o hokki ɓe limce.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "La a Zozɛf kẽnga tẽn-tẽngẽ wã n yẽeg bĩisã, la a gãneg-b lame.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-017",
@@ -657,7 +1357,19 @@
    "texte": "C'était le premier gyil des hommes.",
    "genre": "adulte/libre",
    "duree_ms": 2800,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Kanko woni neɗɗo arandeeɗo worɓe.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A ra yaa nin-kʋʋd ning pipi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-018",
@@ -673,7 +1385,19 @@
    "texte": "Dès les premières notes, les pieds se mirent à bouger. Tout le village dansa.",
    "genre": "adulte/libre",
    "duree_ms": 5800,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Nde ɓe nganndi, koyɗe maɓɓe fuɗɗii ɓeydaade. Yimɓe nder gariiri fuu njogii.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "D sã n wa karemdẽ wã, d naoã sɩngame n yikdẽ. Tẽngã fãa ra dansame.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-019",
@@ -689,7 +1413,19 @@
    "texte": "Au bord de la brousse, deux génies regardaient en souriant.",
    "genre": "adulte/libre",
    "duree_ms": 4000,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Ɗon wakkati, yimɓe ɗiɗo ɗon ngi'a bee ɓerɗe maɓɓe.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Neb a yiibu sẽn da be weoogẽ wã ra ges-a lame, la b yãenda sũ-noogo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-020",
@@ -705,7 +1441,19 @@
    "texte": "Depuis, le gyil accompagne les Dagara dans les fêtes, et aussi dans le deuil. Il accompagne la vie et la mort.",
    "genre": "adulte/libre",
    "duree_ms": 8100,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Diga saa'i maajum, Muritanko'en ɗon yahda bee Dagara'en nder juulde e boo nder rewo. O ɗon yahda bee mayde e yonki.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Rẽ n so t'a sɩnga Dagara rãmbã tɩ b maand kibsã, la b maan sũ-sãoong me. Yaa vɩɩm la kũum sʋka.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   }
  ]
 }

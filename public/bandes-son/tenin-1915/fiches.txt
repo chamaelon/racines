@@ -10,6 +10,10 @@ intonation: posé (proposée)
 texte: 1915. Dans la boucle du Mouhoun, un village bwa vit au rythme des champs. Tenin et son mari attendent un enfant. Mais le pays est sous administration coloniale.
 genre: adulte/homme
 duree: 11990ms (estimée)
+texte_dyu: Saan 1915. Ka fara o kan, Mohoun kulu gɛrɛfɛ dugu dɔ lo be yen. Tenin n'a cɛɛ b'a fɛ ka deen sɔrɔ. Nka, o jamana tun be yen.
+enregistre_dyu: tenin-1915-n1-dyu.m4a (10910ms)
+texte_mos: Yʋʋmd 1915. A Mohoun pʋga pʋgẽ, bug-tẽng a ye n be t'a vɩ ne pʋʋgo. A Tenin ne a sɩdã tara biiga. La tẽn-kãng yaa soolmã taoor soaba.
+enregistre_mos: tenin-1915-n1-mos.m4a (11758ms)
 
 piste: n2
 histoire: Tenin Coulibaly et la révolte de 1915
@@ -20,6 +24,10 @@ intonation: posé (proposée)
 texte: Il me faut du mil et des hommes pour la route.
 genre: adulte/homme
 duree: 4480ms (estimée)
+texte_dyu: Ne ka kan ni kilomɛtɛrɛ kelen ye ani mɔgɔ dɔw ye sira kan.
+enregistre_dyu: tenin-1915-n2-dyu.m4a (5248ms)
+texte_mos: M segd n dɩka koodã la nin-buiidã sorã yĩnga.
+enregistre_mos: tenin-1915-n2-mos.m4a (3504ms)
 
 piste: n3
 histoire: Tenin Coulibaly et la révolte de 1915
@@ -30,6 +38,10 @@ intonation: grave (proposée)
 texte: Nos greniers sont presque vides.
 genre: âgé/homme
 duree: 2200ms (estimée)
+texte_dyu: An ka boonw fanin lo pewu.
+enregistre_dyu: tenin-1915-n3-dyu.m4a (2064ms)
+texte_mos: Tõnd gãos-n-soadbã kolgame tɩ b ka tar bũmb ye.
+enregistre_mos: tenin-1915-n3-mos.m4a (2960ms)
 
 piste: n4
 histoire: Tenin Coulibaly et la révolte de 1915
@@ -40,6 +52,10 @@ intonation: posé (proposée)
 texte: Ce n'est pas une question, c'est un ordre.
 genre: adulte/homme
 duree: 3490ms (estimée)
+texte_dyu: O tɛ ɲiningali ye, o ye cikan lo ye.
+enregistre_dyu: tenin-1915-n4-dyu.m4a (3008ms)
+texte_mos: Woto pa sokr ye, yaa noor la b kõ-yã.
+enregistre_mos: tenin-1915-n4-mos.m4a (3216ms)
 
 piste: n5
 histoire: Tenin Coulibaly et la révolte de 1915
@@ -50,6 +66,10 @@ intonation: posé (proposée)
 texte: Les gardes prennent le mil et emmènent trois hommes. Qui veux-tu suivre ? Tu reverras les deux lieux.
 genre: adulte/homme
 duree: 7740ms (estimée)
+texte_dyu: Dugu kɔrɔsibagaw tagara ni cɛ saba ye. I b'a fɛ ka tugu jɔn kɔ? I bena o yɔrɔ fila bɛɛ ye.
+enregistre_dyu: tenin-1915-n5-dyu.m4a (7204ms)
+texte_mos: Gũusg-n-taas rɩka koabgã n tall neb a tãabo. Ãnd n na n tũ? Y na n yãa zĩis a yiibã fãa.
+enregistre_mos: tenin-1915-n5-mos.m4a (7508ms)
 
 piste: reste
 histoire: Tenin Coulibaly et la révolte de 1915
@@ -60,6 +80,10 @@ intonation: posé (proposée)
 texte: Au village, les greniers sonnent creux. On compte ce qu'il reste, et on attend. Mais les gardes reviennent toujours.
 genre: adulte/homme
 duree: 8420ms (estimée)
+texte_dyu: Dugumɔgɔw b'a miiri ko boonw kɔnɔ, u tɛ foyi ye. An k'an tɔ jati ka kɔnɔni kɛ. Nka, garadiw be kɔsegi tuma bɛɛ.
+enregistre_dyu: tenin-1915-reste-dyu.m4a (9988ms)
+texte_mos: Tẽngẽ wã, b sẽn be roogã pʋgẽ wã yɩɩ wa b sẽn pa yãend ye. D sõdda neb nins sẽn ketã, la d gũuda. La gũudbã kell n waame.
+enregistre_mos: tenin-1915-reste-mos.m4a (10756ms)
 
 piste: chantier
 histoire: Tenin Coulibaly et la révolte de 1915
@@ -70,6 +94,10 @@ intonation: posé (proposée)
 texte: Sur le chantier de la route, le travail est forcé. Un homme s'effondre sous la chaleur.
 genre: adulte/homme
 duree: 6830ms (estimée)
+texte_dyu: K'an to sirada la, u b'an waajibiya ka baara kɛ. Cɛɛ dɔ tun be sumaya la.
+enregistre_dyu: tenin-1915-chantier-dyu.m4a (6010ms)
+texte_mos: Sẽn na yɩl n tõog-b tɩ b bãng b sẽn tõe n maan to-to wã, yaa tɩlae tɩ b tʋm tʋʋmde. Rao a ye wãbdame, t'a zĩndi.
+enregistre_mos: tenin-1915-chantier-mos.m4a (7962ms)
 
 piste: n6
 histoire: Tenin Coulibaly et la révolte de 1915
@@ -80,6 +108,10 @@ intonation: vif (proposée)
 texte: Relève-toi. Au travail !
 genre: adulte/homme
 duree: 2120ms (estimée)
+texte_dyu: Wili ka lɔ. An ka taga baara la!
+enregistre_dyu: tenin-1915-n6-dyu.m4a (3210ms)
+texte_mos: Kẽng-y y yĩngri. Yaa tʋʋmde!
+enregistre_mos: tenin-1915-n6-mos.m4a (2394ms)
 
 piste: n7
 histoire: Tenin Coulibaly et la révolte de 1915
@@ -90,6 +122,10 @@ intonation: posé (proposée)
 texte: Il en faut toujours plus. Alors les gardes reviennent au village. Cette fois, ils désignent Tenin, qui est enceinte.
 genre: adulte/homme
 duree: 8420ms (estimée)
+texte_dyu: An mako b'a la ka tɛmɛ o kan. Kɔlɔsilikɛbagaw kɔsegira dugu kɔnɔ. O wagati la, u y'a fɔ Tenin ye ko a kɔnɔman lo.
+enregistre_dyu: tenin-1915-n7-dyu.m4a (8836ms)
+texte_mos: D segd n baooda neb wʋsg n paase. Rẽ n so t'a gũudbã lebg n wa tẽngã pʋgẽ. Wakat kãnga, b pʋd-a lame t'a Tenin sẽn tar pʋgã.
+enregistre_mos: tenin-1915-n7-mos.m4a (10788ms)
 
 piste: n8
 histoire: Tenin Coulibaly et la révolte de 1915
@@ -100,6 +136,10 @@ intonation: posé (proposée)
 texte: Avance.
 genre: adulte/homme
 duree: 800ms (estimée)
+texte_dyu: I ka taga ɲɛ.
+enregistre_dyu: tenin-1915-n8-dyu.m4a (1392ms)
+texte_mos: Kẽng-y n kẽng.
+enregistre_mos: tenin-1915-n8-mos.m4a (848ms)
 
 piste: n9
 histoire: Tenin Coulibaly et la révolte de 1915
@@ -110,6 +150,10 @@ intonation: posé (proposée)
 texte: Son mari crie : elle porte leur enfant. On l'emmène quand même. Au chantier, on la fait porter des pierres, jusqu'à ce qu'elle tombe.
 genre: adulte/homme
 duree: 10470ms (estimée)
+texte_dyu: A cɛɛ pɛrɛnna ko: "A b'u ka den ta". An bena taga n'a ye o cogo kelen na. Mɔgɔw b'a bon ni kabakuruw ye k'a la dugu ma, fɔ ka na a ben.
+enregistre_dyu: tenin-1915-n9-dyu.m4a (12478ms)
+texte_mos: A sɩdã zẽka a koɛɛg n yeele: "A tʋkda b bi-riblã". La d na n talla-a lame. Tʋm-tʋmdã pʋgẽ, b tʋt-a lame t'a lʋɩ.
+enregistre_mos: tenin-1915-n9-mos.m4a (10030ms)
 
 piste: n10
 histoire: Tenin Coulibaly et la révolte de 1915
@@ -120,6 +164,10 @@ intonation: posé (proposée)
 texte: Un homme veut l'aider, et le garde l'en empêche. Tu ne peux rien changer à cela. Personne ne l'a pu ce jour-là.
 genre: adulte/homme
 duree: 9410ms (estimée)
+texte_dyu: Cɛ dɔ b'a fɛ k'a dɛmɛ, nka a kɔrɔsibaga t'a sɔn. I tɛ se ka foyi yɛlɛma o koo la. Mɔgɔ si ma se k'o kɛ o loon na.
+enregistre_dyu: tenin-1915-n10-dyu.m4a (9796ms)
+texte_mos: Ned sã n dat n sõng-a, a gũudã gɩdg-a lame. Fo pa tõe n toeem bũmb ye. Ned baa a yen pa tõog n maan woto ye.
+enregistre_mos: tenin-1915-n10-mos.m4a (8564ms)
 
 piste: n11
 histoire: Tenin Coulibaly et la révolte de 1915
@@ -130,6 +178,10 @@ intonation: chuchoté (proposée)
 texte: Cette nuit-là, le village se réunit autour du feu.
 genre: adulte/homme
 duree: 3870ms (estimée)
+texte_dyu: O su fɛ, dugumɔgɔw bɛɛ nana ɲɔgɔn lajɛn tasuma kɔrɔ.
+enregistre_dyu: tenin-1915-n11-dyu.m4a (4608ms)
+texte_mos: Zĩ-kãng yʋngo, tẽngã nebã ra tigma taab n gũbg bugmã.
+enregistre_mos: tenin-1915-n11-mos.m4a (5104ms)
 
 piste: n12
 histoire: Tenin Coulibaly et la révolte de 1915
@@ -140,6 +192,10 @@ intonation: vif (proposée)
 texte: Assez ! Nous ne donnerons plus rien.
 genre: adulte/homme
 duree: 3260ms (estimée)
+texte_dyu: O ka ɲi! An tɛna foyi di.
+enregistre_dyu: tenin-1915-n12-dyu.m4a (3018ms)
+texte_mos: Bas-y tɩ b maan woto! D pa na n le kõ bũmb ye.
+enregistre_mos: tenin-1915-n12-mos.m4a (3834ms)
 
 piste: n13
 histoire: Tenin Coulibaly et la révolte de 1915
@@ -150,6 +206,10 @@ intonation: chuchoté (proposée)
 texte: L'Ancien donne son accord. Les tambours parlent, et des messagers partent vers les autres villages.
 genre: adulte/homme
 duree: 6450ms (estimée)
+texte_dyu: Cɛkɔrɔba b'a fɛ k'o kɛ. O ka buruw fiyɛ, ka ciraden dɔw ci ka taga dugumɔgɔw fɛ.
+enregistre_dyu: tenin-1915-n13-dyu.m4a (7114ms)
+texte_mos: Kãsem-dãmbã sakame. B sẽn da wa n wẽed bugumã, b tʋmda koe-moondbã tɩ b kẽng tẽns a taabã.
+enregistre_mos: tenin-1915-n13-mos.m4a (8314ms)
 
 piste: n15
 histoire: Tenin Coulibaly et la révolte de 1915
@@ -160,6 +220,10 @@ intonation: posé (proposée)
 texte: Novembre 1915. La guerre du Bani-Volta commence. Les flèches répondent aux fusils, les gardes s'enfuient, et Tenin est libérée.
 genre: adulte/homme
 duree: 8420ms (estimée)
+texte_dyu: Saan 1915 novanburu. Bani Volta kɛlɛ daminɛna. Kɛrɛkɛminanw ka biɲɛw jaabi, kɛrɛkɛcɛw borira; Tenin bɔra.
+enregistre_dyu: tenin-1915-n15-dyu.m4a (9166ms)
+texte_mos: Yʋʋmd 1915 noobre. A Bani-Volta zabrã sɩngame. Zĩigã leokda zab-teedã, gũudbã zoetame, la a Tenin basdame.
+enregistre_mos: tenin-1915-n15-mos.m4a (10100ms)
 
 piste: n16
 histoire: Tenin Coulibaly et la révolte de 1915
@@ -170,6 +234,10 @@ intonation: posé (proposée)
 texte: Le soulèvement gagne de village en village. Il sera l'un des plus grands de cette époque en Afrique de l'Ouest. Mais en 1916, les colonnes militaires l'écrasent. Les villages paient très cher leur courage.
 genre: adulte/homme
 duree: 14270ms (estimée)
+texte_dyu: Kɔfɛ, u ye murutili kɛ dugu ni dugu. O wagati la, a tun ye mɔgɔbaba dɔ ye Afiriki tileben fan fɛ. Nka saan 1916 la, sɔrɔdasiw y'a halaki. Dugumɔgɔw b'u ka jagwɛlɛya sara kosɔbɛ.
+enregistre_dyu: tenin-1915-n16-dyu.m4a (15198ms)
+texte_mos: B sẽn wa n maand woto wã kɩtame tɩ b tõog n moond koɛɛgã tẽns wʋsg pʋsẽ. A na n yɩɩ nin-tũusds nins sẽn be Afirik Wɛtgã wakatẽ wã sʋka. La yʋʋmd 1916 wã, sodaasã kolg-a lame. Tẽnsã sã n paam raoodã, b segd n baoo ligd wʋsgo.
+enregistre_mos: tenin-1915-n16-mos.m4a (19470ms)
 
 piste: n17
 histoire: Tenin Coulibaly et la révolte de 1915
@@ -180,6 +248,10 @@ intonation: posé (proposée)
 texte: Une femme, un enfant, un village qui dit non.
 genre: adulte/femme
 duree: 4020ms (estimée)
+texte_dyu: Muso dɔ, denmisɛn dɔ, dugumɔgɔw minw b'a fɔ ko u tɛ sɔn.
+enregistre_dyu: tenin-1915-n17-dyu.m4a (4464ms)
+texte_mos: Pag ne bi-ribl, tẽn-tẽng sẽn yeel tɩ ka be ye.
+enregistre_mos: tenin-1915-n17-mos.m4a (3296ms)
 
 piste: relire
 histoire: Tenin Coulibaly et la révolte de 1915
@@ -190,6 +262,10 @@ intonation: posé (proposée)
 texte: Viens t'asseoir encore une fois. On se souvient en écoutant.
 genre: adulte/femme
 duree: 4400ms (estimée)
+texte_dyu: Na sigi tugun. I be se k'i hakili to o la n'i b'a lamɛnna.
+enregistre_dyu: tenin-1915-relire-dyu.m4a (4970ms)
+texte_mos: Kẽng-y n zĩnd yɛs. D sã n kelgdẽ, d tẽegda rẽ.
+enregistre_mos: tenin-1915-relire-mos.m4a (4138ms)
 
 piste: bien
 histoire: Tenin Coulibaly et la révolte de 1915
@@ -200,6 +276,10 @@ intonation: posé (proposée)
 texte: Voilà pourquoi on se souvient.
 genre: adulte/femme
 duree: 2200ms (estimée)
+texte_dyu: O kama, an hakili b'a la.
+enregistre_dyu: tenin-1915-bien-dyu.m4a (2384ms)
+texte_mos: Yaa rẽ yĩng la d tẽegd bũmb nins d sẽn maandã.
+enregistre_mos: tenin-1915-bien-mos.m4a (3024ms)
 
 piste: film-001
 histoire: Tenin Coulibaly et la révolte de 1915
@@ -210,6 +290,8 @@ intonation: sobre (scénario)
 texte: Tenin Coulibaly. Un récit de la révolte de 1915, simplifié pour l'image.
 genre: adulte/libre
 duree: 6700ms (mesurée sur le film)
+texte_dyu: Tenin Coulibaly lo ye. Saan 1915 ka murutiliko kofɔra cogo nɔgɔman na
+texte_mos: A Tenin Coulibaly. Yʋʋmd 1915 kɩɩsgã kibar sẽn yɩll n sõng-d tɩ d bãnge.
 
 piste: film-002
 histoire: Tenin Coulibaly et la révolte de 1915
@@ -220,6 +302,8 @@ intonation: posé (proposée)
 texte: 1915. Dans la boucle du Mouhoun, un village bwa vit au rythme des champs.
 genre: adulte/libre
 duree: 5100ms (mesurée sur le film)
+texte_dyu: Saan 1915. Ka fara o kan, Mohoun kulu gɛrɛfɛ dugu dɔ lo be yen.
+texte_mos: Yʋʋmd 1915. A Mohoun pʋga pʋgẽ, bug-tẽng a ye n be t'a vɩ ne pʋʋgo.
 
 piste: film-003
 histoire: Tenin Coulibaly et la révolte de 1915
@@ -230,6 +314,8 @@ intonation: tendre (scénario)
 texte: Tenin et son mari attendent un enfant.
 genre: adulte/libre
 duree: 2900ms (mesurée sur le film)
+texte_dyu: Tenin n'a cɛɛ b'a fɛ ka deen sɔrɔ.
+texte_mos: A Tenin ne a sɩdã tara biiga.
 
 piste: film-004
 histoire: Tenin Coulibaly et la révolte de 1915
@@ -240,6 +326,8 @@ intonation: posé (proposée)
 texte: Mais le pays est sous administration coloniale. Le commandant de cercle arrive au village.
 genre: adulte/libre
 duree: 6400ms (mesurée sur le film)
+texte_dyu: Nka, o jamana tun be yen. Kɔlɔsilikɛbagaw kuntigi nana dugu kɔnɔ.
+texte_mos: La tẽn-kãng yaa soolmã taoor soaba. Zĩ-kãnga taoor soab wa n waa tẽn-kãng pʋgẽ.
 
 piste: film-005
 histoire: Tenin Coulibaly et la révolte de 1915
@@ -250,6 +338,8 @@ intonation: sec (scénario)
 texte: Il me faut du mil et des hommes pour la route.
 genre: adulte/homme
 duree: 2700ms (mesurée sur le film)
+texte_dyu: Ne ka kan ni kilomɛtɛrɛ kelen ye ani mɔgɔ dɔw ye sira kan.
+texte_mos: M segd n dɩka koodã la nin-buiidã sorã yĩnga.
 
 piste: film-006
 histoire: Tenin Coulibaly et la révolte de 1915
@@ -260,6 +350,8 @@ intonation: digne (scénario)
 texte: Nos greniers sont presque vides.
 genre: âgé/libre
 duree: 2500ms (mesurée sur le film)
+texte_dyu: An ka boonw fanin lo pewu.
+texte_mos: Tõnd gãos-n-soadbã kolgame tɩ b ka tar bũmb ye.
 
 piste: film-007
 histoire: Tenin Coulibaly et la révolte de 1915
@@ -270,6 +362,8 @@ intonation: cassant (scénario)
 texte: Ce n'est pas une question, c'est un ordre.
 genre: adulte/homme
 duree: 3000ms (mesurée sur le film)
+texte_dyu: O tɛ ɲiningali ye, o ye cikan lo ye.
+texte_mos: Woto pa sokr ye, yaa noor la b kõ-yã.
 
 piste: film-008
 histoire: Tenin Coulibaly et la révolte de 1915
@@ -280,6 +374,8 @@ intonation: posé (proposée)
 texte: Les gardes prennent le mil et emmènent trois hommes.
 genre: adulte/libre
 duree: 3400ms (mesurée sur le film)
+texte_dyu: Dugu kɔrɔsibagaw tagara ni cɛ saba ye.
+texte_mos: Gũusg-n-taas rɩka koabgã n tall neb a tãabo.
 
 piste: film-009
 histoire: Tenin Coulibaly et la révolte de 1915
@@ -290,6 +386,8 @@ intonation: posé (proposée)
 texte: Sur le chantier de la route, le travail est forcé.
 genre: adulte/libre
 duree: 3500ms (mesurée sur le film)
+texte_dyu: K'an to sirada la, u b'an waajibiya ka baara kɛ.
+texte_mos: Sẽn na yɩl n tõog-b tɩ b bãng b sẽn tõe n maan to-to wã, yaa tɩlae tɩ b tʋm tʋʋmde.
 
 piste: film-010
 histoire: Tenin Coulibaly et la révolte de 1915
@@ -300,6 +398,8 @@ intonation: dur (scénario)
 texte: Plus vite ! Avancez !
 genre: adulte/homme
 duree: 3500ms (mesurée sur le film)
+texte_dyu: Aw ye teliya ka taga! Aw ye jija!
+texte_mos: Kẽng-y tao-tao. Bɩ y kẽng taoor!
 
 piste: film-011
 histoire: Tenin Coulibaly et la révolte de 1915
@@ -310,6 +410,8 @@ intonation: grave (scénario)
 texte: Un homme s'effondre sous la chaleur.
 genre: adulte/libre
 duree: 3000ms (mesurée sur le film)
+texte_dyu: Cɛɛ dɔ tun be sumaya la.
+texte_mos: Rao a ye wãbdame, t'a zĩndi.
 
 piste: film-012
 histoire: Tenin Coulibaly et la révolte de 1915
@@ -320,6 +422,8 @@ intonation: dur (scénario)
 texte: Relève-toi. Au travail !
 genre: adulte/homme
 duree: 3800ms (mesurée sur le film)
+texte_dyu: Wili ka lɔ. An ka taga baara la!
+texte_mos: Kẽng-y y yĩngri. Yaa tʋʋmde!
 
 piste: film-013
 histoire: Tenin Coulibaly et la révolte de 1915
@@ -330,6 +434,8 @@ intonation: posé (proposée)
 texte: Il en faut toujours plus. Alors les gardes reviennent au village.
 genre: adulte/libre
 duree: 5300ms (mesurée sur le film)
+texte_dyu: An mako b'a la ka tɛmɛ o kan. Kɔlɔsilikɛbagaw kɔsegira dugu kɔnɔ.
+texte_mos: D segd n baooda neb wʋsg n paase. Rẽ n so t'a gũudbã lebg n wa tẽngã pʋgẽ.
 
 piste: film-014
 histoire: Tenin Coulibaly et la révolte de 1915
@@ -340,6 +446,8 @@ intonation: posé (proposée)
 texte: Cette fois, ils désignent Tenin, qui est enceinte.
 genre: adulte/libre
 duree: 4100ms (mesurée sur le film)
+texte_dyu: O wagati la, u y'a fɔ Tenin ye ko a kɔnɔman lo.
+texte_mos: Wakat kãnga, b pʋd-a lame t'a Tenin sẽn tar pʋgã.
 
 piste: film-015
 histoire: Tenin Coulibaly et la révolte de 1915
@@ -350,6 +458,8 @@ intonation: désespéré (scénario)
 texte: Elle porte notre enfant !
 genre: adulte/homme
 duree: 2100ms (mesurée sur le film)
+texte_dyu: A b'an ka den ta!
+texte_mos: A tara tõnd biiga!
 
 piste: film-016
 histoire: Tenin Coulibaly et la révolte de 1915
@@ -360,6 +470,8 @@ intonation: posé (proposée)
 texte: On l'emmène quand même.
 genre: adulte/libre
 duree: 2300ms (mesurée sur le film)
+texte_dyu: An bena taga n'a ye o cogo kelen na.
+texte_mos: La d na n talla-a lame.
 
 piste: film-017
 histoire: Tenin Coulibaly et la révolte de 1915
@@ -370,6 +482,8 @@ intonation: grave (scénario)
 texte: Au chantier, on la fait porter des pierres, jusqu'à ce qu'elle tombe.
 genre: adulte/libre
 duree: 4800ms (mesurée sur le film)
+texte_dyu: Mɔgɔw b'a bon ni kabakuruw ye k'a la dugu ma, fɔ ka na a ben.
+texte_mos: Tʋm-tʋmdã pʋgẽ, b tʋt-a lame t'a lʋɩ.
 
 piste: film-018
 histoire: Tenin Coulibaly et la révolte de 1915
@@ -380,6 +494,8 @@ intonation: dur (scénario)
 texte: Laisse-la !
 genre: adulte/homme
 duree: 2100ms (mesurée sur le film)
+texte_dyu: I k'a to yen!
+texte_mos: Bas-y-yã-a!
 
 piste: film-019
 histoire: Tenin Coulibaly et la révolte de 1915
@@ -390,6 +506,8 @@ intonation: posé (proposée)
 texte: Un homme veut l'aider. Le garde l'en empêche.
 genre: adulte/libre
 duree: 4300ms (mesurée sur le film)
+texte_dyu: Cɛ dɔ b'a fɛ k'a dɛmɛ. Kɔlɔsilikɛbaga b'a bali k'o kɛ.
+texte_mos: Ned n dat n sõng-a lame. La gũudã gɩdg-a lame t'a pa maan woto ye.
 
 piste: film-020
 histoire: Tenin Coulibaly et la révolte de 1915
@@ -400,6 +518,8 @@ intonation: posé (proposée)
 texte: Cette nuit-là, le village se réunit autour du feu.
 genre: adulte/libre
 duree: 3900ms (mesurée sur le film)
+texte_dyu: O su fɛ, dugumɔgɔw bɛɛ nana ɲɔgɔn lajɛn tasuma kɔrɔ.
+texte_mos: Zĩ-kãng yʋngo, tẽngã nebã ra tigma taab n gũbg bugmã.
 
 piste: film-021
 histoire: Tenin Coulibaly et la révolte de 1915
@@ -410,6 +530,8 @@ intonation: grondant (scénario)
 texte: Assez ! Nous ne donnerons plus rien.
 genre: adulte/homme
 duree: 4000ms (mesurée sur le film)
+texte_dyu: O ka ɲi! An tɛna foyi di.
+texte_mos: Bas-y tɩ b maan woto! D pa na n le kõ bũmb ye.
 
 piste: film-022
 histoire: Tenin Coulibaly et la révolte de 1915
@@ -420,6 +542,8 @@ intonation: posé (proposée)
 texte: L'Ancien donne son accord. Les tambours parlent, et des messagers partent vers les autres villages.
 genre: adulte/libre
 duree: 6900ms (mesurée sur le film)
+texte_dyu: Cɛkɔrɔba b'a fɛ k'o kɛ. O ka buruw fiyɛ, ka ciraden dɔw ci ka taga dugumɔgɔw fɛ.
+texte_mos: Kãsem-dãmbã sakame. B sẽn da wa n wẽed bugumã, b tʋmda koe-moondbã tɩ b kẽng tẽns a taabã.
 
 piste: film-023
 histoire: Tenin Coulibaly et la révolte de 1915
@@ -430,6 +554,8 @@ intonation: ferme (scénario)
 texte: Novembre 1915. La guerre du Bani-Volta commence.
 genre: adulte/libre
 duree: 5500ms (mesurée sur le film)
+texte_dyu: Saan 1915 novanburu. Bani Volta kɛlɛ daminɛna.
+texte_mos: Yʋʋmd 1915 noobre. A Bani-Volta zabrã sɩngame.
 
 piste: film-024
 histoire: Tenin Coulibaly et la révolte de 1915
@@ -440,6 +566,8 @@ intonation: posé (proposée)
 texte: Les insurgés arrivent sur le chantier. Les flèches répondent aux fusils.
 genre: adulte/libre
 duree: 5300ms (mesurée sur le film)
+texte_dyu: Mɔgɔ murutininw be tagara baara la. Miiri k'a filɛ, biɲɛw be se ka marifaw jaabi.
+texte_mos: Rẽ n so t'a Zeova nin-buiidã na n paama sũ-noogo. Sagl-kãens leokda zab-teedã.
 
 piste: film-025
 histoire: Tenin Coulibaly et la révolte de 1915
@@ -450,6 +578,8 @@ intonation: posé (proposée)
 texte: Le forgeron charge, les gardes s'enfuient.
 genre: adulte/libre
 duree: 3700ms (mesurée sur le film)
+texte_dyu: Kɛrɛkɛcɛ min bɛ nɛgɛtigɛbana kɛ, ale ka o doni ta; a kɔrɔsibagaw borira.
+texte_mos: Ned ning sẽn tigimd tãnsã zãad-a lame, la gũudbã zoeeme.
 
 piste: film-026
 histoire: Tenin Coulibaly et la révolte de 1915
@@ -460,6 +590,8 @@ intonation: ému (scénario)
 texte: Tenin est libérée.
 genre: adulte/libre
 duree: 2100ms (mesurée sur le film)
+texte_dyu: Tenin bɔra kaso la.
+texte_mos: A Tenin basame.
 
 piste: film-027
 histoire: Tenin Coulibaly et la révolte de 1915
@@ -470,6 +602,8 @@ intonation: posé (proposée)
 texte: Le soulèvement gagne de village en village. Il sera l'un des plus grands de cette époque en Afrique de l'Ouest.
 genre: adulte/libre
 duree: 7100ms (mesurée sur le film)
+texte_dyu: Kɔfɛ, u ye murutili kɛ dugu ni dugu. O wagati la, a tun ye mɔgɔbaba dɔ ye Afiriki tileben fan fɛ.
+texte_mos: B sẽn wa n maand woto wã kɩtame tɩ b tõog n moond koɛɛgã tẽns wʋsg pʋsẽ. A na n yɩɩ nin-tũusds nins sẽn be Afirik Wɛtgã wakatẽ wã sʋka.
 
 piste: film-028
 histoire: Tenin Coulibaly et la révolte de 1915
@@ -480,6 +614,8 @@ intonation: grave (scénario)
 texte: Mais en 1916, les colonnes militaires écrasent la révolte. Les villages paient très cher leur courage.
 genre: adulte/libre
 duree: 7600ms (mesurée sur le film)
+texte_dyu: Nka saan 1916 la, sɔrɔdasiw y'u ka murutili nagasi. Dugumɔgɔw b'u ka jagwɛlɛya sara kosɔbɛ.
+texte_mos: La yʋʋmd 1916 wã, sodaasã kɩtame tɩ kɩɩsgã sa. Tẽnsã sã n paam raoodã, b segd n baoo ligd wʋsgo.
 
 piste: film-029
 histoire: Tenin Coulibaly et la révolte de 1915
@@ -490,6 +626,8 @@ intonation: voix usée, posée (scénario)
 texte: Une femme, un enfant, un village qui dit non.
 genre: âgé/libre
 duree: 2900ms (mesurée sur le film)
+texte_dyu: Muso dɔ, denmisɛn dɔ, dugumɔgɔw minw b'a fɔ ko u tɛ sɔn.
+texte_mos: Pag ne bi-ribl, tẽn-tẽng sẽn yeel tɩ ka be ye.
 
 piste: film-030
 histoire: Tenin Coulibaly et la révolte de 1915
@@ -500,3 +638,5 @@ intonation: voix usée, posée (scénario)
 texte: Voilà pourquoi on se souvient.
 genre: âgé/libre
 duree: 2600ms (mesurée sur le film)
+texte_dyu: O kama, an hakili b'a la.
+texte_mos: Yaa rẽ yĩng la d tẽegd bũmb nins d sẽn maandã.

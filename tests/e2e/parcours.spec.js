@@ -1,4 +1,4 @@
-import { readFileSync } from 'node:fs';
+import { existsSync, readFileSync } from 'node:fs';
 import { expect, test } from '@playwright/test';
 
 // Le visiteur déjà venu : pas d'écran d'accueil, texte instantané pour aller vite.
@@ -250,8 +250,11 @@ test("voyager : quitter, changer d'étape, par lieu", async ({ page }) => {
 test('la langue du récit change en cours de partie, et les langues non traduites sont signalées', async ({ page }) => {
   const erreurs = await preparer(page);
   await page.goto('./#/jouer/yennenga');
-  await expect(page.locator('[data-l-texte] option[value=mos]')).toHaveAttribute('disabled');
-  await expect(page.locator('[data-l-texte] option[value=mos]')).toContainText('à traduire');
+  await expect(page.locator('[data-l-texte] option[value=mos]')).toBeEnabled();
+  await expect(page.locator('[data-l-voix] option[value=mos]')).toBeEnabled();
+  await page.goto('./#/jouer/pics-sindou');
+  await expect(page.locator('[data-l-texte] option[disabled]').first()).toContainText('à traduire');
+  await page.goto('./#/jouer/yennenga');
   await page.getByRole('button', { name: /Commencer/ }).click();
   await expect(page.locator('.j-texte')).toContainText('avant lui');
   await page.locator('[data-pause]').click();
@@ -350,4 +353,63 @@ test("le patrimoine se filtre par peuple et s'ouvre en 3D", async ({ page }) => 
   await page.getByRole('button', { name: 'Tourner en 3D' }).click();
   await expect(page.locator('.objet-3d-canvas')).toBeVisible({ timeout: 20000 });
   expect(erreurs).toEqual([]);
+});
+
+// Les médias des films ne sont pas dans le dépôt : ce parcours se joue là où ils ont été rangés (npm run films).
+test.describe('le lecteur de films', () => {
+  test.skip(!existsSync('public/films/03-wuro-pilon/video.mp4'), 'médias absents');
+  const ecart = (page) => page.evaluate(() => { const v = document.querySelector('.film video'), a = document.querySelector('.film audio'); return Math.abs(v.currentTime - a.currentTime); });
+
+  test('joue l\'image et le son en phase, et change de piste sans s\'arrêter', async ({ page }) => {
+    const erreurs = [];
+    page.on('pageerror', (e) => erreurs.push(e.message));
+    await page.goto('#/recit/wuro-pilon');
+    await page.getByRole('link', { name: 'Voir le film' }).click();
+    await expect(page.locator('[data-note]')).toContainText('synthèse');
+    await page.locator('[data-lancer]').click();
+    await expect.poll(() => page.evaluate(() => document.querySelector('.film video').currentTime), { timeout: 15000 }).toBeGreaterThan(2.2);
+    await expect(page.locator('[data-carton] strong')).toHaveText('Wuro et le pilon');
+    expect(await page.evaluate(() => document.querySelector('.film audio').paused)).toBe(false);
+    expect(await ecart(page)).toBeLessThan(0.4);
+
+    await page.locator('[data-langue]').selectOption('zxx');
+    await expect.poll(() => page.evaluate(() => document.querySelector('.film audio').currentSrc)).toContain('zxx.m4a');
+    await expect.poll(() => page.evaluate(() => !document.querySelector('.film audio').paused && document.querySelector('.film audio').currentTime > 2.2)).toBe(true);
+    expect(await ecart(page)).toBeLessThan(0.4);
+
+    await page.evaluate(() => { document.querySelector('.film video').currentTime = 100; });
+    await expect.poll(() => page.evaluate(() => document.querySelector('.film video').currentTime), { timeout: 15000 }).toBeGreaterThan(100.3);
+    await expect.poll(() => ecart(page), { timeout: 10000 }).toBeLessThan(0.4);
+
+    await page.locator('[data-lire]').click();
+    await expect.poll(() => page.evaluate(() => document.querySelector('.film audio').paused)).toBe(true);
+    expect(erreurs).toEqual([]);
+  });
+
+  test('garde la piste choisie d\'un film à l\'autre, et signale un film encore en stickman', async ({ page }) => {
+    await preparer(page);
+    await page.goto('#/film/03-wuro-pilon');
+    await page.locator('[data-langue]').selectOption('zxx');
+    await page.goto('#/film/23-yennenga');
+    await expect(page.getByText('Version provisoire en attendant le film en 3D.')).toBeVisible();
+    await expect(page.locator('[data-langue]')).toHaveValue('zxx');
+  });
+
+  test('dit qu\'un film manque, au lieu d\'un bouton qui ne fait rien', async ({ page }) => {
+    await preparer(page);
+    await page.route('**/films/**/video.mp4', (r) => r.abort());
+    await page.goto('#/film/03-wuro-pilon');
+    await expect(page.locator('[data-note]')).toContainText('ne peut pas être lu');
+    await expect(page.locator('[data-lancer]')).toBeHidden();
+  });
+
+  test('explique qu\'une langue du site n\'a pas encore de piste', async ({ page }) => {
+    await preparer(page);
+    await page.goto('#/film/03-wuro-pilon');
+    const site = page.locator('[data-langue-site]');
+    const options = await site.locator('option').evaluateAll((l) => l.map((o) => o.value));
+    test.skip(!options.includes('en'), 'pas de langue à essayer');
+    await site.selectOption('en');
+    await expect(page.locator('[data-note]')).toContainText('anglais');
+  });
 });

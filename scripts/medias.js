@@ -33,7 +33,7 @@ function indexerMotifs() {
 const NON_PHRASE = /^(?:[#./]|https?:|[a-z0-9_-]+$|[a-z-]+:|.*\.(?:js|json|glb|css|mp3|m4a|webp|png)$|[a-z]+\[|\.)/;
 const CODE = /[=;{}\\|]|=>|\(\)|\bquerySelector\b/;
 // Ce qui ressemble à une phrase sans en être une : classes, touches, media queries, messages de console.
-const HORS_ECRAN = new Set(['bouton objet-3d-btn', 'marqueur marqueur-etape', 'fort grand', 'NFD', 'Escape', 'Space', 'Enter', 'button, a, input, select, summary', 'Décor indisponible :', '3D indisponible, mode lecture :', 'Nœud inconnu : {}', 'nœud courant', 'décor', "nœuds dans l'histoire", 'data/{}']);
+const HORS_ECRAN = new Set(['select, input, a, button', 'ArrowRight', 'ArrowLeft', 'bouton objet-3d-btn', 'marqueur marqueur-etape', 'fort grand', 'NFD', 'Escape', 'Space', 'Enter', 'button, a, input, select, summary', 'Décor indisponible :', '3D indisponible, mode lecture :', 'Nœud inconnu : {}', 'nœud courant', 'décor', "nœuds dans l'histoire", 'data/{}']);
 const GABARIT_CODE = /\{\}\.|\.\{\}|\{\}\/\{\}$|^\(?(?:prefers|max-width)|^linear-gradient|^bandes-son\//;
 
 function phrasesDuHtml(html, garder) {
@@ -150,6 +150,7 @@ function sections() {
     ['Régions et lieux', [...textesDe(lire('data/regions.json')), ...textesDe(lire('data/localites.json')), ...textesDe(voyages.lieux)]],
     ['Époques', voyages.epoques.flatMap((e) => [e.nom, e.court, e.periode, e.texte])],
     ['Patrimoine', textesDe(patrimoine)],
+    ['Films', Object.values(existsSync(join(PUBLIC, 'data/films.json')) ? lire('data/films.json') : {}).flatMap((f) => f.cartons.flatMap((c) => [c.titre, c.detail]))],
     ['Fiches des récits', recits.flatMap((r) => [...textesDe(r), ...(typeof r.texte === 'string' ? paragraphes(r.texte) : [])])],
   ];
   for (const r of recits) {

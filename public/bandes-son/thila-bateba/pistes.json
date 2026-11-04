@@ -11,61 +11,149 @@
    "id": "titre",
    "type": "titre",
    "chemin": "titre",
-   "texte": "Les thila et les bateba"
+   "texte": "Les thila et les bateba",
+   "langues": {
+    "dyu": {
+     "texte": "Thila ni bateba",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Thila e bateba",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "presentation",
    "type": "presentation",
    "chemin": "presentation",
-   "texte": "Rien ne semble pouvoir atteindre la soukala de Kambiré. Pourtant, son enfant tombe malade et un serpent entre dans le grenier. À toi de l'aider à comprendre. Ce mythe reste à remplacer ou à valider après collecte."
+   "texte": "Rien ne semble pouvoir atteindre la soukala de Kambiré. Pourtant, son enfant tombe malade et un serpent entre dans le grenier. À toi de l'aider à comprendre. Ce mythe reste à remplacer ou à valider après collecte.",
+   "langues": {
+    "dyu": {
+     "texte": "A be komi foyi tɛ se ka Kambire dugumɔgɔw sɔrɔ. Ayiwa, o y'a sɔrɔ a dencɛ tun man kɛnɛ. Sa dɔ donna a ta so kɔnɔ. I ka ɲi k'a dɛmɛ a k'o faamu. N'u y'o fɔ, o be se k'u nɔɔ ta.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Walaa ko waawata heɓugo soukala Kambire. Ammaa ɓikkoy maako ɗon nyawdi, hocci nder suudu. Aɗa waawi wallude mo. Ɗuum miijo haa jooni ina waawi jeytaade, koo ɗum ɓeydaaki haɓaade.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "personnages.griot.nom",
    "type": "personnage",
    "chemin": "personnages.griot.nom",
-   "texte": "Le griot"
+   "texte": "Le griot",
+   "langues": {
+    "dyu": {
+     "texte": "Le griot"
+    },
+    "fuf": {
+     "texte": "Le griot"
+    }
+   }
   },
   {
    "id": "personnages.kambire.nom",
    "type": "personnage",
    "chemin": "personnages.kambire.nom",
-   "texte": "Kambiré"
+   "texte": "Kambiré",
+   "langues": {
+    "dyu": {
+     "texte": "Kambiré"
+    },
+    "fuf": {
+     "texte": "Kambiré"
+    }
+   }
   },
   {
    "id": "personnages.devineresse.nom",
    "type": "personnage",
    "chemin": "personnages.devineresse.nom",
-   "texte": "La devineresse"
+   "texte": "La devineresse",
+   "langues": {
+    "dyu": {
+     "texte": "La devineresse"
+    },
+    "fuf": {
+     "texte": "La devineresse"
+    }
+   }
   },
   {
    "id": "personnages.thila.nom",
    "type": "personnage",
    "chemin": "personnages.thila.nom",
-   "texte": "Un thila"
+   "texte": "Un thila",
+   "langues": {
+    "dyu": {
+     "texte": "Un thila"
+    },
+    "fuf": {
+     "texte": "Un thila"
+    }
+   }
   },
   {
    "id": "personnages.enfant.nom",
    "type": "personnage",
    "chemin": "personnages.enfant.nom",
-   "texte": "L'enfant"
+   "texte": "L'enfant",
+   "langues": {
+    "dyu": {
+     "texte": "L'enfant"
+    },
+    "fuf": {
+     "texte": "L'enfant"
+    }
+   }
   },
   {
    "id": "personnages.serpent.nom",
    "type": "personnage",
    "chemin": "personnages.serpent.nom",
-   "texte": "Le serpent"
+   "texte": "Le serpent",
+   "langues": {
+    "dyu": {
+     "texte": "Le serpent"
+    },
+    "fuf": {
+     "texte": "Le serpent"
+    }
+   }
   },
   {
    "id": "fins.canon",
    "type": "fin",
    "chemin": "fins.canon",
-   "texte": "Version du griot : les bateba veillent"
+   "texte": "Version du griot : les bateba veillent",
+   "langues": {
+    "dyu": {
+     "texte": "Kalan tigitigi: batebaw be to k'u yɛrɛ kɔrɔsi",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Winndannde caggalGriot: bateba'en ɗon ndaara",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "fins.murs",
    "type": "fin",
    "chemin": "fins.murs",
-   "texte": "Autre chemin : Kambiré se fie à ses murs"
+   "texte": "Autre chemin : Kambiré se fie à ses murs",
+   "langues": {
+    "dyu": {
+     "texte": "Kambiré y'a jigi la a yɛrɛ kan",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Habhe feere: Kambiré ɗon hoola ko'e mum",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "n1",
@@ -79,7 +167,23 @@
    "texte": "Voici la soukala de Kambiré, une maison-forteresse aux murs épais. Mais un jour, son enfant tombe malade. Puis un serpent se glisse dans le grenier.",
    "genre": "adulte/homme",
    "duree_ms": 10700,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Ayiwa, o ye Kambirɛ dugumɔgɔw ta so ye; bon barakaman dɔ lo. Nka loon dɔ, a deen banana. O kɔ, saa dɔ tagara don boon kɔnɔ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 12318,
+     "fichier": "thila-bateba-n1-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Ɗuum woni suukala Kambire, wuro go'o e cuuɗi mawɗi. Ammaa nyalnde go'oto, ɓiɗɗo maako nyawdi. Nden laamiiɗo wi'i mo: \"Ndaa!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9662,
+     "fichier": "thila-bateba-n1-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n2",
@@ -93,31 +197,87 @@
    "texte": "Le malheur est entré dans la maison. Que fait Kambiré ?",
    "genre": "adulte/homme",
    "duree_ms": 4780,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Tɔɔrɔ donna soo kɔnɔ. Kambiré be mun lo kɛra?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3610,
+     "fichier": "thila-bateba-n2-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Kaŋko hawti nder suudu. Hol ko Kambiré waɗi?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3754,
+     "fichier": "thila-bateba-n2-fuf.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n2.choices.0.label",
    "type": "choix",
    "chemin": "nodes.n2.choices.0.label",
-   "texte": "Il va voir la devineresse"
+   "texte": "Il va voir la devineresse",
+   "langues": {
+    "dyu": {
+     "texte": "A bena taga o lɔnnikɛla fɛ.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "O yahra haa o yi'a jaŋde",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n2.choices.0.tag",
    "type": "parcours",
    "chemin": "nodes.n2.choices.0.tag",
-   "texte": "devineresse consultée"
+   "texte": "devineresse consultée",
+   "langues": {
+    "dyu": {
+     "texte": "muso min be siniɲasigi lɔn, a ka ladili",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "debbo yi'ayɗo yeeso",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n2.choices.1.label",
    "type": "choix",
    "chemin": "nodes.n2.choices.1.label",
-   "texte": "Il renforce ses murs"
+   "texte": "Il renforce ses murs",
+   "langues": {
+    "dyu": {
+     "texte": "A b'a ka kogow sabati",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "O ɓeydi wallol maako",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n2.choices.1.tag",
    "type": "parcours",
    "chemin": "nodes.n2.choices.1.tag",
-   "texte": "murs renforcés"
+   "texte": "murs renforcés",
+   "langues": {
+    "dyu": {
+     "texte": "kogo barikamanw",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "cembal ɓeydaama",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "murs",
@@ -131,7 +291,23 @@
    "texte": "Il monte les murs d'une rangée de terre. L'enfant ne guérit pas, et le serpent ne part pas.",
    "genre": "adulte/homme",
    "duree_ms": 7590,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "A ka dugu laminikogow lɔra ni dugukolo ye. Den ma kɛnɛya, sa fana ma bɔ a ra.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5866,
+     "fichier": "thila-bateba-murs-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "O ɓeydi wallugo nder leɗɗe. Ɓiɗɗo on yamɗitiima, ammaa haykaliiru boo yaawataa.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6282,
+     "fichier": "thila-bateba-murs-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n3",
@@ -145,31 +321,87 @@
    "texte": "Les murs ne suffisent pas. Va-t-il chercher plus loin ?",
    "genre": "adulte/homme",
    "duree_ms": 4400,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "O kogow tɛ se k'an dɛmɛ. Yala a bena yɔrɔ wɛrɛ ɲini wa?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4426,
+     "fichier": "thila-bateba-n3-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Wurooji ɗi'e naa haani. O ɗon ɗaɓɓita ɓaawo maajum naa?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4554,
+     "fichier": "thila-bateba-n3-fuf.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n3.choices.0.label",
    "type": "choix",
    "chemin": "nodes.n3.choices.0.label",
-   "texte": "Oui, il va voir la devineresse"
+   "texte": "Oui, il va voir la devineresse",
+   "langues": {
+    "dyu": {
+     "texte": "Ɔnhɔn, a bena taga muso nataw filɛ.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Ee, o yahi haa debbo mo anndaa yeeso",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n3.choices.0.tag",
    "type": "parcours",
    "chemin": "nodes.n3.choices.0.tag",
-   "texte": "devineresse consultée"
+   "texte": "devineresse consultée",
+   "langues": {
+    "dyu": {
+     "texte": "muso min be siniɲasigi lɔn, a ka ladili",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "debbo yi'ayɗo yeeso",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n3.choices.1.label",
    "type": "choix",
    "chemin": "nodes.n3.choices.1.label",
-   "texte": "Non, il garde confiance dans ses murs"
+   "texte": "Non, il garde confiance dans ses murs",
+   "langues": {
+    "dyu": {
+     "texte": "Ayi, a b'a jigi la a yɛrɛ kan",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Na'o, o ɗon hoola wallol maako",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n3.choices.1.tag",
    "type": "parcours",
    "chemin": "nodes.n3.choices.1.tag",
-   "texte": "confiance aux murs"
+   "texte": "confiance aux murs",
+   "langues": {
+    "dyu": {
+     "texte": "jigi la kogow kan",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "hoolaare nder cuuɗi",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "finmurs",
@@ -183,7 +415,23 @@
    "texte": "Une maison se garde par ce qu'on y honore autant que par ses murs. Kambiré, lui, ne l'a pas appris cette saison-là.",
    "genre": "adulte/homme",
    "duree_ms": 9260,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Ni mɔgɔ k'a ta so bonya, o tigi b'a janto a ra i n'a fɔ a bɛ a ta kogow bonya cogo min na. Nka, Kambire m'o kalan o wagati la.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9898,
+     "fichier": "thila-bateba-finmurs-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Nde yimɓe mawnina wuro, ɓe ngaɗata ɗum bo ɓe mawninanta maago maako. Kambire, o anndaa ɗum saa'i maajum.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8810,
+     "fichier": "thila-bateba-finmurs-fuf.m4a"
+    }
+   }
   },
   {
    "id": "devin",
@@ -197,7 +445,23 @@
    "texte": "Mon enfant souffre. Qui nous en veut ?",
    "genre": "adulte/homme",
    "duree_ms": 3640,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "N' deen be tɔɔrɔla. Jɔn lo b'an darabɔ?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3610,
+     "fichier": "thila-bateba-devin-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Ɓiɗɗo am ɗon torra. Honooɓe e meeɗen ?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3578,
+     "fichier": "thila-bateba-devin-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n4",
@@ -211,55 +475,151 @@
    "texte": "Voyons cela.",
    "genre": "âgée/femme",
    "duree_ms": 1060,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "An k'a filɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 1104,
+     "fichier": "thila-bateba-n4-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Eɗen ndaara ɗum.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 1616,
+     "fichier": "thila-bateba-n4-fuf.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n5.question",
    "type": "jeu",
    "chemin": "nodes.n5.question",
-   "texte": "La devineresse jette quelque chose sur le sol pour lire la réponse. Quoi donc ?"
+   "texte": "La devineresse jette quelque chose sur le sol pour lire la réponse. Quoi donc ?",
+   "langues": {
+    "dyu": {
+     "texte": "A ye fɛɛn dɔ fili duguma walisa k'a ka jaabili kalan. Mun na do?",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Janngoowo on ɗon hocci ko'e maako dow leydi ngam o nanugo jaabawol ngol. Ngam ɗume?",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n5.gagne",
    "type": "jeu",
    "chemin": "nodes.n5.gagne",
-   "texte": "Elle jette les cauris, et les regarde longtemps."
+   "texte": "Elle jette les cauris, et les regarde longtemps.",
+   "langues": {
+    "dyu": {
+     "texte": "A be to k'u filɛ wagatijan.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "O ɗon yi'a ɓe, o ɗon ɗaɓɓita ɓe.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n5.perdu",
    "type": "jeu",
    "chemin": "nodes.n5.perdu",
-   "texte": "Ce sont des cauris qu'elle jette, et elle les regarde longtemps."
+   "texte": "Ce sont des cauris qu'elle jette, et elle les regarde longtemps.",
+   "langues": {
+    "dyu": {
+     "texte": "A b'a janto o la wagatijan kɔnɔ.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Ɗuum woni ɓikkoy maako, o ɗon ndaara ɗi.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n5.reponses.0.label",
    "type": "jeu",
    "chemin": "nodes.n5.reponses.0.label",
-   "texte": "Des cauris"
+   "texte": "Des cauris",
+   "langues": {
+    "dyu": {
+     "texte": "Dɔnkiliw",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Ɗuurɗe",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n5.reponses.1.label",
    "type": "jeu",
    "chemin": "nodes.n5.reponses.1.label",
-   "texte": "Des grains de mil"
+   "texte": "Des grains de mil",
+   "langues": {
+    "dyu": {
+     "texte": "Mɛnɛkisɛ kisɛ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Ɗuumɗam go'o",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n5.reponses.2.label",
    "type": "jeu",
    "chemin": "nodes.n5.reponses.2.label",
-   "texte": "Des braises"
+   "texte": "Des braises",
+   "langues": {
+    "dyu": {
+     "texte": "Tasuma",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Ɗuɗal",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n5.tags.win",
    "type": "parcours",
    "chemin": "nodes.n5.tags.win",
-   "texte": "bonne réponse"
+   "texte": "bonne réponse",
+   "langues": {
+    "dyu": {
+     "texte": "jaabili ɲuman",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "jaabawol gooŋga",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n5.tags.lose",
    "type": "parcours",
    "chemin": "nodes.n5.tags.lose",
-   "texte": "réponse manquée"
+   "texte": "réponse manquée",
+   "langues": {
+    "dyu": {
+     "texte": "a ma jaabi",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "jaabol maayi",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "n6",
@@ -273,7 +633,23 @@
    "texte": "Ce sont les thila, les esprits. Ils attendent quelque chose de toi.",
    "genre": "âgée/femme",
    "duree_ms": 5310,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "O ye \"tilas\" lo ye. U b'a fɛ i ka koo dɔ kɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3994,
+     "fichier": "thila-bateba-n6-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Ɗe woni tiila'en, ɓerɗe. Ɓe ɗon ɗaɓɓa ko'e mon.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3626,
+     "fichier": "thila-bateba-n6-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n7",
@@ -287,7 +663,23 @@
    "texte": "Sculpte une statue de bois. Pose-la chez toi. Elle veillera.",
    "genre": "voix d'esprit/libre",
    "duree_ms": 4700,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "A ka yiri jaa dɔ dilan. A to i ka soo. A bena to k'a yɛrɛ kɔrɔsi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6116,
+     "fichier": "thila-bateba-n7-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "O waɗi taƴre nder leɗɗe. Ndaa ɗum nder wuro maaɗa. O ɗon hakkilana.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5236,
+     "fichier": "thila-bateba-n7-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n8",
@@ -301,7 +693,23 @@
    "texte": "Au réveil, Kambiré sait ce qu'il a à faire. Il choisit un tronc et se met à tailler, sans parler. Une statue, puis une seconde : les bateba. Regarde sa maison.",
    "genre": "adulte/homme",
    "duree_ms": 13580,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Tuma min na Kambiré be kunu, a b'a lɔn a ka ɲi ka min kɛ. O kɔ, a ye yiri dɔ ta k'a tigɛ. O kɔ, u ye batoba dɔw kɛ. A ka soo filɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 13582,
+     "fichier": "thila-bateba-n8-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Nde Kambiré ummii, o anndi ko o waɗata. O suɓii go'o, o fuɗɗii limtaago. Go'oto e ɗiɗaɓo: bateba'en. Ndaaree wuro maako.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 11720,
+     "fichier": "thila-bateba-n8-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n9",
@@ -315,31 +723,87 @@
    "texte": "Il les pose sur l'autel, à l'entrée, avec une offrande. Comment la famille les reçoit-elle ?",
    "genre": "adulte/homme",
    "duree_ms": 6980,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "A ka o fɛnw bla sarakajɛnifɛn donda ra, ani a ta saraka. Denbaya be sɔn u ma cogo di?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8298,
+     "fichier": "thila-bateba-n9-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Sey o wurtina ɗe dow haykaliiru, haa dammugal suudu. Hol no saare maɓɓe jaɓata ?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6202,
+     "fichier": "thila-bateba-n9-fuf.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n9.choices.0.label",
    "type": "choix",
    "chemin": "nodes.n9.choices.0.label",
-   "texte": "Elle les salue, comme des gens de la maison"
+   "texte": "Elle les salue, comme des gens de la maison",
+   "langues": {
+    "dyu": {
+     "texte": "A b'u fo i n'a fɔ a ka somɔgɔw",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "O welliti ɓe bana yimɓe saare",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n9.choices.0.tag",
    "type": "parcours",
    "chemin": "nodes.n9.choices.0.tag",
-   "texte": "bateba salués"
+   "texte": "bateba salués",
+   "langues": {
+    "dyu": {
+     "texte": "bateba fo",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "bateba weltaare",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n9.choices.1.label",
    "type": "choix",
    "chemin": "nodes.n9.choices.1.label",
-   "texte": "Elle les laisse là sans un mot"
+   "texte": "Elle les laisse là sans un mot",
+   "langues": {
+    "dyu": {
+     "texte": "A b'u to yen n'a ma kuma",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "O dilli ɓe ɗon, walaa ko o wi'a",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n9.choices.1.tag",
    "type": "parcours",
    "chemin": "nodes.n9.choices.1.tag",
-   "texte": "bateba oubliés"
+   "texte": "bateba oubliés",
+   "langues": {
+    "dyu": {
+     "texte": "bateba ɲinɛna",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "bateba wi'i",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "muet",
@@ -353,7 +817,23 @@
    "texte": "Kambiré se reprend : on ne pose pas un gardien sans le saluer. Toute la famille revient le faire.",
    "genre": "adulte/homme",
    "duree_ms": 7970,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Kambiré y'a fɔ tugun ko: \"I tɛ kɔlɔsilikɛbaga bila yen n'i m'a fo\". An ka denbayamɔgɔw bɛɛ kɔsegira k'o kɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8212,
+     "fichier": "thila-bateba-muet-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Kambiré wi'i: \"Naa' on taƴii gardiiɗo goonɗinki mo. Yimɓe fuu ngari, ɓe mbaɗa ɗum.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6740,
+     "fichier": "thila-bateba-muet-fuf.m4a"
+    }
+   }
   },
   {
    "id": "salue",
@@ -367,7 +847,23 @@
    "texte": "La nuit suivante, le serpent revient. Il s'approche de l'autel, et les bateba s'éveillent. Une lueur les entoure. Le serpent recule, et s'en va.",
    "genre": "adulte/homme",
    "duree_ms": 10770,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "O dugusagwɛ, saa segira ka na. A tagara se sarakajɛnifɛn kɔrɔ minkɛ, Batɛba ka mɔgɔ minw ye, olugu bɛɛ wurira. O kɔ, u ye yeelenba dɔ ye. Sogo nin bɔra ka taga.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 14414,
+     "fichier": "thila-bateba-salue-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Nder jemma fuɗnaango, weendu warti. O ɓaditi sarde memal ngal, nden batba'en ummii. Ɗuum woni ɓerɗe maɓɓe. Nyokku ɗon hoola, o ɗon yaha.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 10814,
+     "fichier": "thila-bateba-salue-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n10",
@@ -381,7 +877,23 @@
    "texte": "Au matin, l'enfant joue dans la cour. Depuis, les Lobi disent que les bateba veillent sur la maison.",
    "genre": "adulte/homme",
    "duree_ms": 7740,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Sɔgɔmadafɛ, den be tulon kɛ lu kɔnɔ. Kabi o wagati la, lobiw b'a fɔ ko bateba dɔw be soo kɔrɔsi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8794,
+     "fichier": "thila-bateba-n10-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Nde subaka, ɓiɗɗo oo ina jogii nder suudu. Gila ndeen, yimɓe Lobi mbiyi bateba'en ɗon ɗowtana wuro.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7114,
+     "fichier": "thila-bateba-n10-fuf.m4a"
+    }
+   }
   },
   {
    "id": "film-001",
@@ -397,7 +909,19 @@
    "texte": "Les thila et les bateba. Un mythe lobi.",
    "genre": "adulte/libre",
    "duree_ms": 4300,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Thila ani bateba. O ye kibaro diiman dɔ lo ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Thila e bateba. Ɗuum woni kaalankaagal lobbi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-002",
@@ -413,7 +937,19 @@
    "texte": "Voici la soukala de Kambiré, une maison-forteresse aux murs épais.",
    "genre": "adulte/libre",
    "duree_ms": 4800,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Ayiwa, o ye Kambirɛ dugumɔgɔw ta so ye; bon barakaman dɔ lo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Ɗuum woni suukala Kambire, wuro go'o e cuuɗi mawɗi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-003",
@@ -429,7 +965,19 @@
    "texte": "Rien ne semble pouvoir l'atteindre. Et pourtant.",
    "genre": "adulte/libre",
    "duree_ms": 4500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "A be komi fɛɛn si tɛ se k'a sɔrɔ. O bɛɛ n'a ta.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Walaa ko waawata heɓugo mo. Ammaa non boo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-004",
@@ -445,7 +993,19 @@
    "texte": "Un jour, l'enfant de Kambiré tomba malade. Rien ne le soulageait.",
    "genre": "adulte/libre",
    "duree_ms": 5700,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Loon dɔ, Kambiré ka deen banana. A tun tɛ se k'o muɲu.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Wakkati go'oto, ɓiɗɗo Kambiré nyawdi. Walaa kooɗume ɓeydaani mo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-005",
@@ -461,7 +1021,19 @@
    "texte": "Puis un serpent se glissa dans le grenier. Le malheur était entré dans la maison.",
    "genre": "adulte/libre",
    "duree_ms": 5700,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O kɔ, sa dɔ tagara don bon kɔnɔ. Tɔɔrɔ tun donna an ka soo kɔnɔ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Sey haykaliiru wurti nder dammugal. Luttuɗum wari nder wuro.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-006",
@@ -477,7 +1049,19 @@
    "texte": "Kambiré alla voir la devineresse.",
    "genre": "adulte/libre",
    "duree_ms": 3000,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Kambiré tagara muso dɔ fɛ min be se ka koo nataw lɔn.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Kambiré yahi haa debbo mo o yi'i yeeso.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-007",
@@ -493,7 +1077,19 @@
    "texte": "Mon enfant souffre. Qui nous en veut ?",
    "genre": "adulte/homme",
    "duree_ms": 3000,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "N' deen be tɔɔrɔla. Jɔn lo b'an darabɔ?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Ɓiɗɗo am ɗon torra. Honooɓe e meeɗen ?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-008",
@@ -509,7 +1105,19 @@
    "texte": "Voyons cela.",
    "genre": "âgé/libre",
    "duree_ms": 2100,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "An k'a filɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Eɗen ndaara ɗum.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-009",
@@ -525,7 +1133,19 @@
    "texte": "Elle jeta les cauris sur le sol, et elle les regarda longtemps.",
    "genre": "adulte/libre",
    "duree_ms": 4200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O kɔ, a y'a ka jirisunw fili duguma. A ye wagatijan kɛ k'u filɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "O wurtini ɓikkoy ɗi'i dow leydi, o ɗon ndaara ɗe haa wakkati seɗɗa.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-010",
@@ -541,7 +1161,19 @@
    "texte": "Ce sont les thila, les esprits. Ils attendent quelque chose de toi.",
    "genre": "âgé/libre",
    "duree_ms": 5500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O ye \"tilas\" lo ye. U b'a fɛ i ka koo dɔ kɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Ɗe woni tiila'en, ɓerɗe. Ɓe ɗon ɗaɓɓa ko'e mon.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-011",
@@ -557,7 +1189,19 @@
    "texte": "Cette nuit-là, Kambiré fit un rêve.",
    "genre": "adulte/libre",
    "duree_ms": 3300,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O suu yɛrɛ la, Kambiré ye siko dɔ kɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Nder jemma maajum Kambiré waɗi lekki.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-012",
@@ -573,7 +1217,19 @@
    "texte": "Les thila lui apparurent, et lui montrèrent une petite statue de bois.",
    "genre": "adulte/libre",
    "duree_ms": 4500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O kɔ, o ka yiri bisigiya dɔ yira a ra.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Ɓe ngi'i mo laamiiɗo, ɓe holliimo haykaliiru.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-013",
@@ -589,7 +1245,19 @@
    "texte": "Sculpte-la. Pose-la chez toi. Elle veillera.",
    "genre": "esprit, créature : voix grave/libre",
    "duree_ms": 5200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "I k'a dilan. A to i ka soo. A bena to k'a yɛrɛ kɔrɔsi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Fuli ɗum. Ndaa ɗum nder wuro maaɗa. O ɗon hakkilana.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-014",
@@ -605,7 +1273,19 @@
    "texte": "Au réveil, Kambiré savait ce qu'il avait à faire.",
    "genre": "adulte/libre",
    "duree_ms": 3900,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Tuma min na Kambiré kununna, a tun b'a lɔn a ka ɲi ka min kɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Nde Kambiré ummii, o anndi ko o waɗata.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-015",
@@ -621,7 +1301,19 @@
    "texte": "Il choisit un tronc et se mit à tailler, sans parler.",
    "genre": "adulte/libre",
    "duree_ms": 3800,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "A ye lɔgɔ dɔ ta k'a tigɛtigɛ, a ma foyi fɔ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "O suɓii go'o, o fuɗɗii saɗugo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-016",
@@ -637,7 +1329,19 @@
    "texte": "Une statue, puis une seconde.",
    "genre": "adulte/libre",
    "duree_ms": 3000,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O kɔ, u ye tugu ɲɔgɔn kɔ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Ɗe'ere, nden boo ɗiɗaɓere.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-017",
@@ -653,7 +1357,19 @@
    "texte": "Ce sont les bateba : les statuettes gardiennes.",
    "genre": "adulte/libre",
    "duree_ms": 3700,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O ye batebaw lo ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Ɗo'on woni bateba'en: kuuje mawɗe.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-018",
@@ -669,7 +1385,19 @@
    "texte": "Il les posa sur l'autel, à l'entrée de la maison, avec une offrande.",
    "genre": "adulte/libre",
    "duree_ms": 5200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "A ka o fɛnw bla sarakajɛnifɛn kan, Alabatosoba donda ra, ani siman saraka.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "O wurtini ɗi dow maagal ngal haa dammugal suudu Allah, o hokki ɗum sadaka.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-019",
@@ -685,7 +1413,19 @@
    "texte": "La famille les salua, comme on salue des gens de la maison.",
    "genre": "adulte/libre",
    "duree_ms": 4100,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "U ka somɔgɔw y'u fo, i n'a fɔ u b'a kɛ cogo min na.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Yimɓe wuro maɓɓe mbi'i ɓe, bana yimɓe saare boo mbi'a.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-020",
@@ -701,7 +1441,19 @@
    "texte": "La nuit suivante, le serpent revint.",
    "genre": "adulte/libre",
    "duree_ms": 3400,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O dugusagwɛ, sa segira ka na.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Nde jemma waɗi, weelo wari.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-021",
@@ -717,7 +1469,19 @@
    "texte": "Il s'approcha de l'autel, et les bateba s'éveillèrent. Une lueur les entoura.",
    "genre": "adulte/libre",
    "duree_ms": 6100,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "A gbarara sarakajɛnifɛn na minkɛ, o bɛɛ kununna. O kɔ, u ye yeelenba dɔ ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "O ɓaditi haa maagoore, nden bateba'en ummii. Ɗuum waɗi jayngol dow maɓɓe.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-022",
@@ -733,7 +1497,19 @@
    "texte": "Le serpent recula, et s'en alla.",
    "genre": "adulte/libre",
    "duree_ms": 3200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Sogojugu nin segira ka taga.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Nyokki on dilli, o yahi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-023",
@@ -749,7 +1525,19 @@
    "texte": "Au matin, l'enfant jouait dans la cour. Depuis, les Lobi disent que les bateba veillent sur la maison.",
    "genre": "adulte/libre",
    "duree_ms": 7700,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Sɔgɔmada joona fɛ, den tun be tulon kɛ lu kɔnɔ. Kabi o wagati la, lobiw b'a fɔ ko bateba dɔw be soo kɔrɔsi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Nde subaka, ɓiɗɗo on ɗon njulaago nder suudu. Gila ndeen, yimɓe Lobi mbiyi bateba'en ɗon ɗowtana wuro.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   }
  ]
 }

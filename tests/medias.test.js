@@ -2,6 +2,7 @@ import { readFileSync } from 'node:fs';
 import { join } from 'node:path';
 import { describe, expect, it } from 'vitest';
 import { champsTexte, partTraduite, traduire } from '../src/engine/traduction.js';
+import { cartonA, choisirPiste, formaterTemps, horsSynchro, langueDuNom, trierPistes } from '../src/engine/film.js';
 import { compilerModeles, traduirePhrase } from '../src/i18n.js';
 import { analyserNom, motifPourRecit, optionsMotif } from '../src/motifs.js';
 import { crans, cransDuRecit, dansCran, etapesFiltrees } from '../src/voyage.js';
@@ -108,5 +109,53 @@ describe('la barre de temps', () => {
   it.each(Object.keys(voyages.recits))('%s : chaque étape a son cran dans le jeu', (id) => {
     const l = cransDuRecit(voyages, id);
     expect(l.map((c) => c.etape).sort((a, b) => a - b)).toEqual(voyages.recits[id].map((_, i) => i));
+  });
+});
+
+describe('les films', () => {
+  const pistes = [{ code: 'fr' }, { code: 'mos' }, { code: 'zxx' }];
+
+  it('lit le nom des exports du montage', () => {
+    expect(langueDuNom('03-wuro-pilon-video.mp4')).toEqual({ film: '03-wuro-pilon', piste: 'video' });
+    expect(langueDuNom('03-wuro-pilon-mos.wav')).toEqual({ film: '03-wuro-pilon', piste: 'mos' });
+    expect(langueDuNom('23-yennenga-FR.MP3')).toEqual({ film: '23-yennenga', piste: 'fr' });
+    for (const f of ['wuro-mos.wav', '03-wuro-pilon.mp4', 'Timeline 1.wav']) expect(langueDuNom(f)).toBeNull();
+  });
+
+  it('range les pistes : le français, les langues, puis le film sans voix', () => {
+    expect(trierPistes(['zxx', 'mos', 'fr', 'dyu'])).toEqual(['fr', 'dyu', 'mos', 'zxx']);
+  });
+
+  it('préfère la voix choisie, puis la langue du site, puis le français', () => {
+    expect(choisirPiste(pistes, 'mos', 'fr')).toBe('mos');
+    expect(choisirPiste(pistes, '', 'mos')).toBe('mos');
+    expect(choisirPiste(pistes, 'dyu', 'en')).toBe('fr');
+    expect(choisirPiste([{ code: 'zxx' }], 'mos', 'fr')).toBe('zxx');
+    expect(choisirPiste([], 'mos', 'fr')).toBeNull();
+  });
+
+  it('recale le son seulement quand l\'écart s\'entend, et pas après la fin de la piste', () => {
+    expect(horsSynchro(10, 10.1, 300)).toBe(false);
+    expect(horsSynchro(10, 11, 300)).toBe(true);
+    expect(horsSynchro(310, 300, 300)).toBe(false);
+    expect(horsSynchro(10, 11, NaN)).toBe(true);
+  });
+
+  it('affiche les cartons à leur moment', () => {
+    const c = [{ de: 2, a: 7, titre: 'Titre' }];
+    expect(cartonA(c, 1.9)).toBeNull();
+    expect(cartonA(c, 2)?.titre).toBe('Titre');
+    expect(cartonA(c, 7)).toBeNull();
+    expect(formaterTemps(352)).toBe('5:52');
+  });
+
+  it('chaque film du manifeste correspond à un récit, et tout son texte à l\'écran a un titre', () => {
+    const films = lire('data/films.json');
+    const ids = new Set(lire('data/recits.json').map((r) => r.film));
+    for (const [id, f] of Object.entries(films)) {
+      expect(ids.has(id)).toBe(true);
+      expect(f.video).toBe(`films/${id}/video.mp4`);
+      f.cartons.forEach((c) => { expect(c.titre).toBeTruthy(); expect(c.a).toBeGreaterThan(c.de); expect(c.a).toBeLessThanOrEqual(f.duree + 0.1); });
+    }
   });
 });

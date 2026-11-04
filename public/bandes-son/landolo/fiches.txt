@@ -10,6 +10,10 @@ intonation: posé (proposée)
 texte: Au bord du village se dressait un arbre immense, plus vieux que tous les anciens. Landolo était orphelin. Il vivait chez sa marâtre, qui gâtait son propre fils.
 genre: adulte/homme
 duree: 11840ms (estimée)
+texte_dyu: Yirisunba dɔ tun lɔnin bɛ dugu kɛrɛ fɛ; a tun kɔrɔra ka tɛmɛ cɛkɔrɔba tɔw bɛɛ kan. Landolo tun ye falatɔ ye. A tun siginin be a biranmuso fɛ.
+enregistre_dyu: landolo-n1-dyu.m4a (11742ms)
+texte_fuf: Nder daande gariiri ndin ɗon woodi leggal mawngal, ɓurɗum mawɓe fuu. Landolo wondi ɓiɗɗo gorko. O jooɗii e deerɗiraawo maako, ngam o halki ɓiɗɗo maako.
+enregistre_fuf: landolo-n1-fuf.m4a (11444ms)
 
 piste: n2
 histoire: Landolo et le grand caïlcédrat
@@ -20,6 +24,10 @@ intonation: vif (proposée)
 texte: Va chercher l'eau. Et vite !
 genre: adulte/femme
 duree: 2880ms (estimée)
+texte_dyu: Taga jii ɲini. Aw ka teliya!
+enregistre_dyu: landolo-n2-dyu.m4a (2570ms)
+texte_fuf: Ndaa ndiyam. E ɗon!
+enregistre_fuf: landolo-n2-fuf.m4a (2234ms)
 
 piste: n3
 histoire: Landolo et le grand caïlcédrat
@@ -30,6 +38,10 @@ intonation: interrogatif (proposée)
 texte: Le fils mange à sa faim. Landolo, lui, n'a rien. Un soir, il vient pleurer au pied du grand caïlcédrat. Une branche s'abaisse, chargée de fruits. Que fait-il ?
 genre: adulte/homme
 duree: 13120ms (estimée)
+texte_dyu: Deen be dumuni kɛ k'a fari fa. Landolo kɔni, foyi t'a fɛ. Loon dɔ sufɛ, a y'a daminɛ ka kasi. A y'a fɔ a ye ko: "Yiriborow bɛɛ be falen ka den. A be mun lo kɛra?
+enregistre_dyu: landolo-n3-dyu.m4a (14066ms)
+texte_fuf: Ɓiɗɗo ɗon nyaama. Landolo boo walaa kooɗume. Nder jemma go'o, o wari e koyɗe kalkadir mawɗo. Fuuɗungol ɗon ɓanngina, ɗon nyaama. Hol ko o waɗi?
+enregistre_fuf: landolo-n3-fuf.m4a (11832ms)
 
 piste: poches
 histoire: Landolo et le grand caïlcédrat
@@ -40,6 +52,10 @@ intonation: mystérieux (proposée)
 texte: Sur le chemin, il se retourne. La branche s'est relevée. Il revient sur ses pas.
 genre: adulte/homme
 duree: 6750ms (estimée)
+texte_dyu: K'u to sira kan, a y'a ɲaa yɛlɛma. A y'a bolo kɔrɔta. A be kɔsegi ka na.
+enregistre_dyu: landolo-poches-dyu.m4a (6660ms)
+texte_fuf: Nder laawol, o wayliti. Luttugal ngal ummii. O wurtini laawol maako.
+enregistre_fuf: landolo-poches-fuf.m4a (6084ms)
 
 piste: merci
 histoire: Landolo et le grand caïlcédrat
@@ -50,6 +66,10 @@ intonation: vif (proposée)
 texte: Grand arbre, grand arbre, écoute ma chanson.
 genre: enfant/libre
 duree: 3260ms (estimée)
+texte_dyu: Yiriba, yiriba, ne ta dɔnkiri lamɛn!
+enregistre_dyu: landolo-merci-dyu.m4a (2560ms)
+texte_fuf: Ɗu'um, nduu'um! Njoo'u yimre am.
+enregistre_fuf: landolo-merci-fuf.m4a (3210ms)
 
 piste: n5
 histoire: Landolo et le grand caïlcédrat
@@ -60,6 +80,10 @@ intonation: posé (proposée)
 texte: La marâtre finit par s'étonner. Elle le suit et elle l'espionne. L'arbre ne lui envoie que des branches sèches.
 genre: adulte/homme
 duree: 8120ms (estimée)
+texte_dyu: A laban, a bamuso kabakoyara. A be tugu a kɔ ani k'a kɔlɔsili kɛ. Yiri nin y'a bolow dɔrɔn le ci a ma.
+enregistre_dyu: landolo-n5-dyu.m4a (8884ms)
+texte_fuf: Ɓaawo maajum, mo'o ɗon hayɗina. O ɗon tokkimo, o ɗowtano mo. Leggal ngal ɗon nelda ɗum lekki njayri.
+enregistre_fuf: landolo-n5-fuf.m4a (7732ms)
 
 piste: n6
 histoire: Landolo et le grand caïlcédrat
@@ -70,6 +94,10 @@ intonation: vif (proposée)
 texte: Abattez-moi cet arbre !
 genre: adulte/femme
 duree: 1820ms (estimée)
+texte_dyu: Aw ye yiri nin tigɛ ne kama!
+enregistre_dyu: landolo-n6-dyu.m4a (2336ms)
+texte_fuf: Ngaɗee leggal ngal ngam am!
+enregistre_fuf: landolo-n6-fuf.m4a (2144ms)
 
 piste: n7
 histoire: Landolo et le grand caïlcédrat
@@ -80,6 +108,10 @@ intonation: interrogatif (proposée)
 texte: Elle revient avec deux bûcherons. Les coups de hache rebondissent sur le tronc. L'arbre gronde, le vent se lève, les branches fouettent l'air. Que fait Landolo ?
 genre: adulte/homme
 duree: 11760ms (estimée)
+texte_dyu: A kɔsegira ni yiribaarabaga fila ye. O y'a sɔrɔ a tun b'a fɛ k'o kɛ. Yiri bɛ yuguyugu, fɔɲɔ b'a lawuri; a yiriborow bɛ fiyɛ. Landolo be mun lo kɛra?
+enregistre_dyu: landolo-n7-dyu.m4a (13368ms)
+texte_fuf: O wurtinaama e yimɓe ɗiɗo. Ɗu'um ɗon maɓɓa ɓikkoy maako. Le'i ɗon cembiɗa, hendu ɗon umma, sappooji maako ɗon maaki. Hol ko Landolo waɗata?
+enregistre_fuf: landolo-n7-fuf.m4a (12174ms)
 
 piste: colere
 histoire: Landolo et le grand caïlcédrat
@@ -90,6 +122,10 @@ intonation: interrogatif (proposée)
 texte: Les bûcherons s'enfuient, la marâtre aussi. Mais ils reviendront, plus nombreux, avec le feu. Landolo les arrêtera-t-il en parlant au village ?
 genre: adulte/homme
 duree: 9710ms (estimée)
+texte_dyu: O y'a sɔrɔ yiribaaw tun tɛ se ka foyi kɛ. O bɛɛ n'a ta, mɔgɔ caman bɛna sekɔ ni tasuma ye. Yala Landolo be se k'u bali ka kuma dugumɔgɔw fɛ wa?
+enregistre_dyu: landolo-colere-dyu.m4a (10596ms)
+texte_fuf: Yimɓe maɓɓooɓe leɗɗe ɗon ndilli, e mawɗo leɗɗe boo ɗon nduli. Ammaa yimɓe ɗuɗɓe waroto e yiite. Landolo hokkan ɓe wolwugo nder gariiri?
+enregistre_fuf: landolo-colere-fuf.m4a (10612ms)
 
 piste: part
 histoire: Landolo et le grand caïlcédrat
@@ -100,6 +136,10 @@ intonation: posé (proposée)
 texte: Sans personne pour le défendre, l'arbre tombe. Vient la grande sécheresse, et il n'y a plus de fruits pour personne. Ce chemin n'est pas celui du conte.
 genre: adulte/homme
 duree: 11460ms (estimée)
+texte_dyu: Ni mɔgɔ si ma sɔrɔ k'a tanga, yiri benna. Sanjiba nana ben, fɔ siman tɛna sɔrɔ mɔgɔ si fɛ tuun. O sira tɛ ele ka maana ye.
+enregistre_dyu: landolo-part-dyu.m4a (9588ms)
+texte_fuf: To walaa mo wallinanɗum, lekki ɗon maaya. Sey weelo mawɗo wari, walaa ɓikkoy nyaamdu. Ɗuum laawol naa' ngol kaalanngal.
+enregistre_fuf: landolo-part-fuf.m4a (8500ms)
 
 piste: calme
 histoire: Landolo et le grand caïlcédrat
@@ -110,6 +150,10 @@ intonation: vif (proposée)
 texte: Grand arbre, calme-toi, je t'en prie !
 genre: enfant/libre
 duree: 3260ms (estimée)
+texte_dyu: Yiriba, i hakili sigi!
+enregistre_dyu: landolo-calme-dyu.m4a (2000ms)
+texte_fuf: Duule mawnde, njooɗee!
+enregistre_fuf: landolo-calme-fuf.m4a (1712ms)
 
 piste: n8
 histoire: Landolo et le grand caïlcédrat
@@ -120,6 +164,10 @@ intonation: posé (proposée)
 texte: Et l'arbre s'apaise, pour lui. Vient l'année de la grande sécheresse. Tout meurt, sauf le caïlcédrat, dont les fruits nourrissent le village.
 genre: adulte/homme
 duree: 9710ms (estimée)
+texte_dyu: O y'a to yiri nin tun be sumana. Sanjiba san bɛ nana. Fɛɛn bɛɛ be sa, fɔɔ yiriba min deen b'a to dugumɔgɔw be balo.
+enregistre_dyu: landolo-n8-dyu.m4a (9444ms)
+texte_fuf: Ɗuum waɗi haa leggal ngal laaɓti. O ɗon wara nder hitaande weelo mawɗo. Koo ɗume ɗon maaya, sey leɗɗe mawɗe ɗe nyaaman gariiri ndin.
+enregistre_fuf: landolo-n8-fuf.m4a (10148ms)
 
 piste: n9
 histoire: Landolo et le grand caïlcédrat
@@ -130,6 +178,10 @@ intonation: joyeux (proposée)
 texte: La marâtre vient s'agenouiller devant Landolo, et elle demande pardon.
 genre: adulte/homme
 duree: 4250ms (estimée)
+texte_dyu: A y'a kunbiri gwan Landolo kɔrɔ ka yafa deli.
+enregistre_dyu: landolo-n9-dyu.m4a (3232ms)
+texte_fuf: Nyaako am debbo wari, o sujidani Landolo yeeso maako, o tori mo yaafugo.
+enregistre_fuf: landolo-n9-fuf.m4a (5904ms)
 
 piste: n10
 histoire: Landolo et le grand caïlcédrat
@@ -140,6 +192,10 @@ intonation: joyeux (proposée)
 texte: Merci, Landolo. Merci, grand arbre.
 genre: adulte/homme
 duree: 2800ms (estimée)
+texte_dyu: Ne b'i waleɲuman lɔn, Landolo. Ne b'i fo, yiriba.
+enregistre_dyu: landolo-n10-dyu.m4a (4346ms)
+texte_fuf: Goonga, Landolo. Naafon, leɗɗe mawɗe.
+enregistre_fuf: landolo-n10-fuf.m4a (3450ms)
 
 piste: n11
 histoire: Landolo et le grand caïlcédrat
@@ -150,6 +206,10 @@ intonation: vif (proposée)
 texte: Protégez cet arbre. Il vous le rendra.
 genre: enfant/libre
 duree: 3260ms (estimée)
+texte_dyu: Aw k'o yiri latanga. A bena o di aw ma.
+enregistre_dyu: landolo-n11-dyu.m4a (3738ms)
+texte_fuf: Hakkilani leggal ngal. O hokkan'on ɗum.
+enregistre_fuf: landolo-n11-fuf.m4a (3482ms)
 
 piste: n12
 histoire: Landolo et le grand caïlcédrat
@@ -160,6 +220,10 @@ intonation: joyeux (proposée)
 texte: Bien des années plus tard, le grand caïlcédrat veillait toujours.
 genre: adulte/homme
 duree: 4250ms (estimée)
+texte_dyu: Saan caaman o kɔ, yiri belebeleba tun be to k'a ɲɛɛ tugu.
+enregistre_dyu: landolo-n12-dyu.m4a (5056ms)
+texte_fuf: Caggal duuɓi ɗuuɗɗi, leɗɗe mawɗe boo ɗon haaje.
+enregistre_fuf: landolo-n12-fuf.m4a (3760ms)
 
 piste: film-001
 histoire: Landolo et le grand caïlcédrat
@@ -170,6 +234,8 @@ intonation: malicieux (scénario)
 texte: Landolo et le grand caïlcédrat. Un conte du pays san.
 genre: adulte/libre
 duree: 4900ms (mesurée sur le film)
+texte_dyu: O ye Landolo ni Kalizidɛba lo ye. Lonanw ka maana dɔ.
+texte_fuf: Landolo e Cailcedrate mawɗo. Fedde leydi ndii.
 
 piste: film-002
 histoire: Landolo et le grand caïlcédrat
@@ -180,6 +246,8 @@ intonation: posé (proposée)
 texte: Au bord du village se dressait un arbre immense, plus vieux que tous les anciens.
 genre: adulte/libre
 duree: 5100ms (mesurée sur le film)
+texte_dyu: Yirisunba dɔ tun lɔnin bɛ dugu kɛrɛ fɛ; a tun kɔrɔra ka tɛmɛ cɛkɔrɔba tɔw bɛɛ kan.
+texte_fuf: Nder daande gariiri ndin ɗon woodi leggal mawngal, ɓurɗum mawɓe fuu.
 
 piste: film-003
 histoire: Landolo et le grand caïlcédrat
@@ -190,6 +258,8 @@ intonation: posé (proposée)
 texte: Landolo était orphelin. Il vivait chez sa marâtre, qui gâtait son propre fils.
 genre: adulte/libre
 duree: 5400ms (mesurée sur le film)
+texte_dyu: Landolo tun ye falatɔ ye. A tun siginin be a biranmuso fɛ.
+texte_fuf: Landolo wondi ɓiɗɗo gorko. O jooɗii e deerɗiraawo maako, ngam o halki ɓiɗɗo maako.
 
 piste: film-004
 histoire: Landolo et le grand caïlcédrat
@@ -200,6 +270,8 @@ intonation: sec (scénario)
 texte: Va chercher l'eau. Et vite !
 genre: adulte/femme
 duree: 3600ms (mesurée sur le film)
+texte_dyu: Taga jii ɲini. Aw ka teliya!
+texte_fuf: Ndaa ndiyam. E ɗon!
 
 piste: film-005
 histoire: Landolo et le grand caïlcédrat
@@ -210,6 +282,8 @@ intonation: triste (scénario)
 texte: Le fils mangeait à sa faim. Landolo, lui, n'avait rien.
 genre: adulte/libre
 duree: 5400ms (mesurée sur le film)
+texte_dyu: Deen tun be dumuni kɛra k'a wasa. Landolo kɔni tun tɛ ni foyi ye.
+texte_fuf: Ɓiɗɗo on ɗon nyaama. Landolo boo o walaa kooɗume.
 
 piste: film-006
 histoire: Landolo et le grand caïlcédrat
@@ -220,6 +294,8 @@ intonation: posé (proposée)
 texte: Un soir, le garçon vint pleurer au pied du grand caïlcédrat.
 genre: adulte/libre
 duree: 4500ms (mesurée sur le film)
+texte_dyu: Loon dɔ sufɛ, deen nana kasi yiriba kɔrɔ.
+texte_fuf: Wakkati go'o jemma, ɓiyum wari boowi haa leggal mawngal.
 
 piste: film-007
 histoire: Landolo et le grand caïlcédrat
@@ -230,6 +306,8 @@ intonation: émerveillé (scénario)
 texte: Alors l'arbre s'éveilla. Une branche s'abaissa, chargée de fruits.
 genre: adulte/libre
 duree: 5500ms (mesurée sur le film)
+texte_dyu: O tuma na, yiri nin kununna. A y'a fɔ a ye ko: "N borow bɛɛ be falen, ka kɛ denɲumanw ye.
+texte_fuf: Sey leggal ngal ummi. Go'o go'o ɗon ɓilla, ɗon nyaama.
 
 piste: film-008
 histoire: Landolo et le grand caïlcédrat
@@ -240,6 +318,8 @@ intonation: tendre (scénario)
 texte: Landolo mangea, et il remercia le vieil arbre.
 genre: adulte/libre
 duree: 3800ms (mesurée sur le film)
+texte_dyu: Landolo ye dumuni kɛ ani a ye barika la yiri kɔrɔman nin ye.
+texte_fuf: Landolo nyaami, o yetti leɗɗe mawɗe.
 
 piste: film-009
 histoire: Landolo et le grand caïlcédrat
@@ -250,6 +330,8 @@ intonation: chanté, doux (scénario)
 texte: Grand arbre, grand arbre, écoute ma chanson.
 genre: enfant/libre
 duree: 4300ms (mesurée sur le film)
+texte_dyu: Yiriba, yiriba, ne ta dɔnkiri lamɛn!
+texte_fuf: Ɗu'um, nduu'um! Njoo'u yimre am.
 
 piste: film-010
 histoire: Landolo et le grand caïlcédrat
@@ -260,6 +342,8 @@ intonation: posé (proposée)
 texte: Chaque jour, il chantait, et l'arbre se balançait. Et le garçon grandissait.
 genre: adulte/libre
 duree: 6300ms (mesurée sur le film)
+texte_dyu: Lon o lon, a tun bɛ to ka dɔnkiri la. Yiri tun bɛ yuguyugu. Kanbelen nin tun be kɔgɔra.
+texte_fuf: Koo ndeye nder nyalawma o ɗon maaya, lekki boo ɗon maaki. Ɓiɗɗo on ɓeydi mawnugo.
 
 piste: film-011
 histoire: Landolo et le grand caïlcédrat
@@ -270,6 +354,8 @@ intonation: malicieux (scénario)
 texte: La marâtre finit par s'étonner. Elle le suivit et elle l'espionna.
 genre: adulte/libre
 duree: 5200ms (mesurée sur le film)
+texte_dyu: A laban, a bamuso kabakoyara. A tugura a kɔ ani k'a kɔlɔsili kɛ.
+texte_fuf: Ɓaawo maajum, mo'o ɗon hayɗina. O tokki mo, o jaɓɓi mo.
 
 piste: film-012
 histoire: Landolo et le grand caïlcédrat
@@ -280,6 +366,8 @@ intonation: avide (scénario)
 texte: À moi aussi, donne !
 genre: adulte/femme
 duree: 2700ms (mesurée sur le film)
+texte_dyu: Ne fana ka kan k'a di.
+texte_fuf: Min boo, hokke!
 
 piste: film-013
 histoire: Landolo et le grand caïlcédrat
@@ -290,6 +378,8 @@ intonation: posé (proposée)
 texte: L'arbre ne lui envoya que des branches sèches.
 genre: adulte/libre
 duree: 3400ms (mesurée sur le film)
+texte_dyu: Yiri nin y'a bolow dɔrɔn le ci a ma.
+texte_fuf: Leggal ngal neldi go'o lekki.
 
 piste: film-014
 histoire: Landolo et le grand caïlcédrat
@@ -300,6 +390,8 @@ intonation: furieux (scénario)
 texte: Abattez-moi cet arbre !
 genre: adulte/femme
 duree: 2500ms (mesurée sur le film)
+texte_dyu: Aw ye yiri nin tigɛ ne kama!
+texte_fuf: Ngaɗee leggal ngal ngam am!
 
 piste: film-015
 histoire: Landolo et le grand caïlcédrat
@@ -310,6 +402,8 @@ intonation: posé (proposée)
 texte: Elle revint avec deux bûcherons.
 genre: adulte/libre
 duree: 2500ms (mesurée sur le film)
+texte_dyu: A kɔsegira ni yiribaara fila ye.
+texte_fuf: O wurtini yimɓe ɗiɗo.
 
 piste: film-016
 histoire: Landolo et le grand caïlcédrat
@@ -320,6 +414,8 @@ intonation: tendu (scénario)
 texte: Mais les coups de hache rebondissaient sur le tronc.
 genre: adulte/libre
 duree: 3100ms (mesurée sur le film)
+texte_dyu: Nka, o y'a sɔrɔ biɲɛw tun b'a tigɛtigɛ.
+texte_fuf: Ammaa haakooji ɗi o wi'i ɓe ngaɗata, ɓe ngaddani ɗum.
 
 piste: film-017
 histoire: Landolo et le grand caïlcédrat
@@ -330,6 +426,8 @@ intonation: posé (proposée)
 texte: L'arbre se mit à gronder. Le vent se leva, et les branches fouettèrent l'air.
 genre: adulte/libre
 duree: 5800ms (mesurée sur le film)
+texte_dyu: Yiri y'a daminɛ ka ŋuna. Fɔɲɔ wurira, yiriborow ka fiyɛ.
+texte_fuf: Leggal ngal fuɗɗiti wurtaago. Sey hendu wurti, tawi'en ɗon cembiɗɗi.
 
 piste: film-018
 histoire: Landolo et le grand caïlcédrat
@@ -340,6 +438,8 @@ intonation: suppliant (scénario)
 texte: Grand arbre, calme-toi, je t'en prie !
 genre: enfant/libre
 duree: 3800ms (mesurée sur le film)
+texte_dyu: Yiriba, i hakili sigi!
+texte_fuf: Duule mawnde, njooɗee!
 
 piste: film-019
 histoire: Landolo et le grand caïlcédrat
@@ -350,6 +450,8 @@ intonation: posé (proposée)
 texte: Et l'arbre s'apaisa, pour lui.
 genre: adulte/libre
 duree: 3000ms (mesurée sur le film)
+texte_dyu: O kɔ, yiri nin y'a fari faga.
+texte_fuf: Ɗuum waɗi nde leggal ngal laaɓti.
 
 piste: film-020
 histoire: Landolo et le grand caïlcédrat
@@ -360,6 +462,8 @@ intonation: grave (scénario)
 texte: Vint l'année de la grande sécheresse. Tout mourut, sauf le caïlcédrat, dont les fruits nourrirent le village.
 genre: adulte/libre
 duree: 7400ms (mesurée sur le film)
+texte_dyu: Ayiwa, sanjiba san nana se. O bɛɛ sara, fɔ yiriba min tun bɛ den di dugumɔgɔw ma.
+texte_fuf: Wakkati nde weelo mawɗo wari. Koo ɗume maayi, sey leɗɗe mawɗe ɗe nyaami gariiri.
 
 piste: film-021
 histoire: Landolo et le grand caïlcédrat
@@ -370,6 +474,8 @@ intonation: ému (scénario)
 texte: La marâtre vint s'agenouiller devant Landolo, et elle demanda pardon.
 genre: adulte/libre
 duree: 4500ms (mesurée sur le film)
+texte_dyu: A y'a kunbiri gwan Landolo kɔrɔ ka yafa deli a fɛ.
+texte_fuf: O wari o sujidani Landolo, o tori mo yaafuki.
 
 piste: film-022
 histoire: Landolo et le grand caïlcédrat
@@ -380,6 +486,8 @@ intonation: reconnaissant (scénario)
 texte: Merci, Landolo. Merci, grand arbre.
 genre: adulte/femme
 duree: 4300ms (mesurée sur le film)
+texte_dyu: Ne b'i waleɲuman lɔn, Landolo. Ne b'i fo, yiriba.
+texte_fuf: Goonga, Landolo. Naafon, leɗɗe mawɗe.
 
 piste: film-023
 histoire: Landolo et le grand caïlcédrat
@@ -390,6 +498,8 @@ intonation: posé (scénario)
 texte: Protégez cet arbre. Il vous le rendra.
 genre: adulte/homme
 duree: 3400ms (mesurée sur le film)
+texte_dyu: Aw k'o yiri latanga. A bena o di aw ma.
+texte_fuf: Hakkilani leggal ngal. O hokkan'on ɗum.
 
 piste: film-024
 histoire: Landolo et le grand caïlcédrat
@@ -400,3 +510,5 @@ intonation: doux (scénario)
 texte: Bien des années plus tard, le grand caïlcédrat veillait toujours.
 genre: adulte/libre
 duree: 4700ms (mesurée sur le film)
+texte_dyu: Saan caaman o kɔ, yiri belebeleba tun be to k'a ɲɛɛ tugu.
+texte_fuf: Caggal duuɓi ɗuuɗɗi, leɗɗe mawɗe boo ɗon haaje.

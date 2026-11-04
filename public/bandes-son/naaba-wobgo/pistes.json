@@ -11,61 +11,149 @@
    "id": "titre",
    "type": "titre",
    "chemin": "titre",
-   "texte": "Naaba Wobgo et la résistance de 1896"
+   "texte": "Naaba Wobgo et la résistance de 1896",
+   "langues": {
+    "fuf": {
+     "texte": "Naaba Wobgo e haɓre 1896",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Naaba Wobgo ne yʋʋmd 1896 kɩɩsgã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "presentation",
    "type": "presentation",
    "chemin": "presentation",
-   "texte": "En 1896, Ouagadougou est la capitale d'un royaume mossi ancien, et une colonne française marche sur elle. Tu suis les événements comme jeune page de la cour. Tes choix changent ton regard, jamais les faits, et les sources ne s'accordent pas sur tous les détails."
+   "texte": "En 1896, Ouagadougou est la capitale d'un royaume mossi ancien, et une colonne française marche sur elle. Tu suis les événements comme jeune page de la cour. Tes choix changent ton regard, jamais les faits, et les sources ne s'accordent pas sur tous les détails.",
+   "langues": {
+    "fuf": {
+     "texte": "E hitaande 1896, Ouagadougou woni laamorgo laamu Mossi, e hooreejo leydi Farayse. On ɗon tokka ko'e mooɗon bana kubaruuji nder suudu. Ko a yiɗata ɗon wayli hakkiilo maaɗa, ammaa goonga walaa.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Yʋʋmd 1896 wã, a Ouagadougou ra yaa Mozi soolmã tẽn-kãsengã. Fo tũuda yɛl nins sẽn da maandã wa ro-pugli. Fo sẽn yãk yam n na n maan bũmb ninsã pa toeem f tagsgã ye, la neb nins sẽn get yɛlã to-to wã pa zemsd ned kam fãa rẽ wɛɛngẽ ye.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "personnages.griot.nom",
    "type": "personnage",
    "chemin": "personnages.griot.nom",
-   "texte": "Le griot"
+   "texte": "Le griot",
+   "langues": {
+    "fuf": {
+     "texte": "Le griot"
+    },
+    "mos": {
+     "texte": "Le griot"
+    }
+   }
   },
   {
    "id": "personnages.naaba.nom",
    "type": "personnage",
    "chemin": "personnages.naaba.nom",
-   "texte": "Naaba Wobgo"
+   "texte": "Naaba Wobgo",
+   "langues": {
+    "fuf": {
+     "texte": "Naaba Wobgo"
+    },
+    "mos": {
+     "texte": "Naaba Wobgo"
+    }
+   }
   },
   {
    "id": "personnages.ferguson.nom",
    "type": "personnage",
    "chemin": "personnages.ferguson.nom",
-   "texte": "George Ekem Ferguson"
+   "texte": "George Ekem Ferguson",
+   "langues": {
+    "fuf": {
+     "texte": "George Ekem Ferguson"
+    },
+    "mos": {
+     "texte": "George Ekem Ferguson"
+    }
+   }
   },
   {
    "id": "personnages.voulet.nom",
    "type": "personnage",
    "chemin": "personnages.voulet.nom",
-   "texte": "Paul Voulet"
+   "texte": "Paul Voulet",
+   "langues": {
+    "fuf": {
+     "texte": "Paul Voulet"
+    },
+    "mos": {
+     "texte": "Paul Voulet"
+    }
+   }
   },
   {
    "id": "personnages.page.nom",
    "type": "personnage",
    "chemin": "personnages.page.nom",
-   "texte": "Le page"
+   "texte": "Le page",
+   "langues": {
+    "fuf": {
+     "texte": "Le page"
+    },
+    "mos": {
+     "texte": "Le page"
+    }
+   }
   },
   {
    "id": "personnages.griotte.nom",
    "type": "personnage",
    "chemin": "personnages.griotte.nom",
-   "texte": "La griotte"
+   "texte": "La griotte",
+   "langues": {
+    "fuf": {
+     "texte": "La griotte"
+    },
+    "mos": {
+     "texte": "La griotte"
+    }
+   }
   },
   {
    "id": "fins.canon",
    "type": "fin",
    "chemin": "fins.canon",
-   "texte": "Mémoire : un souverain qui a refusé de se soumettre"
+   "texte": "Mémoire : un souverain qui a refusé de se soumettre",
+   "langues": {
+    "fuf": {
+     "texte": "Hakkiilo: Laamiiɗo Mo Yiɗaa Hooreede",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Tẽeg-y: Rĩmã sẽn zãgs n ka sak a Zeova",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "fins.relire",
    "type": "fin",
    "chemin": "fins.relire",
-   "texte": "Mémoire à reprendre : réécoute les dates"
+   "texte": "Mémoire à reprendre : réécoute les dates",
+   "langues": {
+    "fuf": {
+     "texte": "Winndannde caggalFotoraade: Jaɓɓorgo Ganndal",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Tẽeg-y bũmb ning y sẽn segd n maane: kelg-y daarã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "n1",
@@ -79,7 +167,23 @@
    "texte": "À la fin du XIXe siècle, Ouagadougou est la capitale d'un royaume mossi ancien. Son souverain, Boukary Koutou, a pris à son avènement le nom de Naaba Wobgo.",
    "genre": "adulte/homme",
    "duree_ms": 11690,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Haa fuɗɗam karnijum 19, Ouagadougou laati laamorgo laamu Moosi. Laamiiɗo maako, Boukary Koutou, fuɗɗii innde Naaba Wobgo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 10586,
+     "fichier": "naaba-wobgo-n1-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Yʋʋm kobs 19 wã saabẽ, a Ouagadougou ra yaa Mozi soolmã tẽn-kãsengã. A Buukary Koutou sẽn wa n yaa rĩmã, a pʋdame t'a Naaba Wobgo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 13226,
+     "fichier": "naaba-wobgo-n1-mos.m4a"
+    }
+   }
   },
   {
    "id": "n2",
@@ -93,7 +197,23 @@
    "texte": "En 1894, il signe un traité d'amitié avec George Ekem Ferguson, envoyé des Britanniques. Les Français contestent cet accord : ils convoitent eux aussi la région.",
    "genre": "adulte/homme",
    "duree_ms": 10930,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "E hitaande 1894, o saini alkawal goɗɗum e George Ekem Ferguson, gardiiɗo leydi Britaniya. Farayse'en ɗon haɓɓa e dille nden: ɓe ngiɗi leydi ndii boo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 12740,
+     "fichier": "naaba-wobgo-n2-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Yʋʋmd 1894 wã, a sigla taab ne Britãnsã tʋm-tʋmd a George Ekem Ferguson. Fransi nebã kɩɩsame, bala b ratame tɩ bãmb me paam tẽn-kãnga.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 11770,
+     "fichier": "naaba-wobgo-n2-mos.m4a"
+    }
+   }
   },
   {
    "id": "n3",
@@ -107,7 +227,23 @@
    "texte": "Voici le traité. Il parle d'amitié entre nous.",
    "genre": "adulte/homme",
    "duree_ms": 3640,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Ɗuum woni kuugal ngal. O ɗon wi'a wonde en goonɗinɓe.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3690,
+     "fichier": "naaba-wobgo-n3-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Ad seb-kãnga. A yeelame tɩ d yaa zo-rãmba.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3850,
+     "fichier": "naaba-wobgo-n3-mos.m4a"
+    }
+   }
   },
   {
    "id": "n4",
@@ -121,31 +257,87 @@
    "texte": "Toi, le page, que regardes-tu pendant que l'on signe ?",
    "genre": "adulte/homme",
    "duree_ms": 4400,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "On ɗon ɗaɓɓita ko'e mooɗon ngam on ndaara?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2896,
+     "fichier": "naaba-wobgo-n4-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Fo sã n wa tar seb-kãnga, bõe la fo getẽ?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3984,
+     "fichier": "naaba-wobgo-n4-mos.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n4.choices.0.label",
    "type": "choix",
    "chemin": "nodes.n4.choices.0.label",
-   "texte": "Le visage du souverain, qui ne dit rien de plus"
+   "texte": "Le visage du souverain, qui ne dit rien de plus",
+   "langues": {
+    "fuf": {
+     "texte": "Gite laamiiɗo, o ɗon wi'aay kooɗume",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Yaa rĩm ning neng sẽn ka leb n yeel bũmb a to ye",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n4.choices.0.tag",
    "type": "parcours",
    "chemin": "nodes.n4.choices.0.tag",
-   "texte": "la cour"
+   "texte": "la cour",
+   "langues": {
+    "fuf": {
+     "texte": "suudu ndun",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "bʋʋdã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n4.choices.1.label",
    "type": "choix",
    "chemin": "nodes.n4.choices.1.label",
-   "texte": "La route : on dit que d'autres arrivent"
+   "texte": "La route : on dit que d'autres arrivent",
+   "langues": {
+    "fuf": {
+     "texte": "laawol: ɓe mbi'i woɓɓe ɗon wara",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Zĩ-kãnga: b yeelame tɩ neb a taab watame",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n4.choices.1.tag",
    "type": "parcours",
    "chemin": "nodes.n4.choices.1.tag",
-   "texte": "la route"
+   "texte": "la route",
+   "langues": {
+    "fuf": {
+     "texte": "laawol",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "ne sorã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "visage",
@@ -159,7 +351,23 @@
    "texte": "Il sait qu'un papier n'arrête pas une colonne. Mais c'est aujourd'hui tout ce qu'on lui propose.",
    "genre": "adulte/homme",
    "duree_ms": 6680,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "O anndi kubaruuji mbaawataa haɗugo yimɓe. Ammaa haa jooni, ɗum kooɗume.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5274,
+     "fichier": "naaba-wobgo-visage-fuf.m4a"
+    },
+    "mos": {
+     "texte": "A miime tɩ pa sebre n tõe n kɩt tɩ b gãd neb a taabã ye. La rũndã-rũndã, yaa rẽ bal la d tõe n kõ-a.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9226,
+     "fichier": "naaba-wobgo-visage-mos.m4a"
+    }
+   }
   },
   {
    "id": "route",
@@ -173,7 +381,23 @@
    "texte": "Tu entends parler d'hommes en armes loin au sud et à l'ouest. Personne n'en sait encore beaucoup.",
    "genre": "adulte/homme",
    "duree_ms": 7060,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "On nanii haala yimɓe mari kaafaaji dow fombinaare e hirnaange. Walaa mo anndi ɗuɗɗum haa jooni.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7802,
+     "fichier": "naaba-wobgo-route-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Yãmb wʋmda neb sẽn zabd ne zab-teedã sẽn be zĩn-dʋʋg la wĩntoogã pʋga. La neb wʋsg pa mi rẽ ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7098,
+     "fichier": "naaba-wobgo-route-mos.m4a"
+    }
+   }
   },
   {
    "id": "colonne",
@@ -187,7 +411,23 @@
    "texte": "En 1896, la colonne de Paul Voulet et Julien Chanoine marche sur le pays mossi.",
    "genre": "adulte/homme",
    "duree_ms": 6150,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Nder hitaande 1896, kolonne Paul Voulet e Julien Chanoine ɗon yaha lesdi Mossi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5568,
+     "fichier": "naaba-wobgo-colonne-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Yʋʋmd 1896 wã, Paul Voulet ne a Julien Chanoine sull n kẽnga Mossi tẽngẽ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4576,
+     "fichier": "naaba-wobgo-colonne-mos.m4a"
+    }
+   }
   },
   {
    "id": "n5",
@@ -201,7 +441,23 @@
    "texte": "Ouagadougou sera prise.",
    "genre": "adulte/homme",
    "duree_ms": 1440,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Ouagadougou heɓay.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 1776,
+     "fichier": "naaba-wobgo-n5-fuf.m4a"
+    },
+    "mos": {
+     "texte": "B na n dɩka a Ouagadougou.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2320,
+     "fichier": "naaba-wobgo-n5-mos.m4a"
+    }
+   }
   },
   {
    "id": "n6",
@@ -215,7 +471,23 @@
    "texte": "Naaba Wobgo tente de résister, et sa ville est incendiée. Voulet s'empare de Ouagadougou.",
    "genre": "adulte/homme",
    "duree_ms": 6070,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Naaba Wobgo ɗon ɗaɓɓa haɓre, nden gariiri maako ɗon halki. Voulet jaɓan lesdi Ouagadougou",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7834,
+     "fichier": "naaba-wobgo-n6-fuf.m4a"
+    },
+    "mos": {
+     "texte": "A Naaba Wobgo sẽn modgd n na n tõoge, b yõoga a tẽngã bugum. A Voulet rɩka Ouagadougou.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7466,
+     "fichier": "naaba-wobgo-n6-mos.m4a"
+    }
+   }
   },
   {
    "id": "n7",
@@ -229,31 +501,87 @@
    "texte": "Le page doit-il rester ou fuir avec le souverain ? L'histoire sera la même, seul ton récit change.",
    "genre": "adulte/homme",
    "duree_ms": 7590,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Ɗuum ɗemngal ina haani jooɗude walla yahda e laamiiɗo? Ko'e mon tan ko'e ma.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7082,
+     "fichier": "naaba-wobgo-n7-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Pagã segd n paame bɩ a zoe ne rĩmã? Yaa yãmb koe-moonegã bal n na n toeemã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5930,
+     "fichier": "naaba-wobgo-n7-mos.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n7.choices.0.label",
    "type": "choix",
    "chemin": "nodes.n7.choices.0.label",
-   "texte": "Rester et voir ce que devient la ville"
+   "texte": "Rester et voir ce que devient la ville",
+   "langues": {
+    "fuf": {
+     "texte": "To ɓe njooɗoto e yi'ugo ko waɗi nder gariiri ndin",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "B ra ket n getame tɩ tẽngã na n yɩɩ wãn-wãna",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n7.choices.0.tag",
    "type": "parcours",
    "chemin": "nodes.n7.choices.0.tag",
-   "texte": "témoin de la ville"
+   "texte": "témoin de la ville",
+   "langues": {
+    "fuf": {
+     "texte": "gooduɗo dow wuro",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "tẽnga kaset soaba",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n7.choices.1.label",
    "type": "choix",
    "chemin": "nodes.n7.choices.1.label",
-   "texte": "Suivre le souverain"
+   "texte": "Suivre le souverain",
+   "langues": {
+    "fuf": {
+     "texte": "Tawa Laamiiɗo",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "D kell n tũ a Zeezi",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n7.choices.1.tag",
    "type": "parcours",
    "chemin": "nodes.n7.choices.1.tag",
-   "texte": "avec le souverain"
+   "texte": "avec le souverain",
+   "langues": {
+    "fuf": {
+     "texte": "bee laamiiɗo",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "ne rĩmã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "ville",
@@ -267,7 +595,23 @@
    "texte": "Le souverain est déposé, et Voulet installe à sa place son frère Sighiri. Les sources ne s'accordent pas sur la date exacte de cette déposition.",
    "genre": "adulte/homme",
    "duree_ms": 10250,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Nde laamiiɗo ummii, Voulet waɗi sakiraaɓe maako Sighiri. Firooji ɗi'e ɗon njaɓɓa wakkati gooŋgaaje nde deftere nden waɗi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8170,
+     "fichier": "naaba-wobgo-ville-fuf.m4a"
+    },
+    "mos": {
+     "texte": "B kɩtame t'a Voulet yãk a saam-biig a Sighiri. Sẽn yaa to-to wã pa zemsd ne rẽ ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5866,
+     "fichier": "naaba-wobgo-ville-mos.m4a"
+    }
+   }
   },
   {
    "id": "suivre",
@@ -281,7 +625,23 @@
    "texte": "Je demande de l'aide aux Britanniques.",
    "genre": "adulte/homme",
    "duree_ms": 2580,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Mi ɗon ɗaɓɓa wallude to yimɓe Britaniya.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3344,
+     "fichier": "naaba-wobgo-suivre-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Mam kotame tɩ Britãnsã sõng-m.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2336,
+     "fichier": "naaba-wobgo-suivre-mos.m4a"
+    }
+   }
   },
   {
    "id": "n8",
@@ -295,7 +655,23 @@
    "texte": "L'aide ne vient pas. Le souverain est déposé, et son frère Sighiri installé à sa place. Les sources ne s'accordent pas sur les conditions exactes de sa fuite.",
    "genre": "adulte/homme",
    "duree_ms": 11690,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Wallude ɗon warugo. Laamiiɗo laatii, deerɗiraawo maako Sighiri jooɗii. Fooyre'en njaɓaayi haala laaɓtugol mo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9028,
+     "fichier": "naaba-wobgo-n8-fuf.m4a"
+    },
+    "mos": {
+     "texte": "B pa na n wa sõng-b ye. B kɩtame t'a saam-biig a Sighiri zĩnd a naamã zĩigẽ. B pa wʋmd bũmb ning sẽn kɩt t'a zoe ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 10308,
+     "fichier": "naaba-wobgo-n8-mos.m4a"
+    }
+   }
   },
   {
    "id": "quiz",
@@ -309,55 +685,151 @@
    "texte": "Il se réfugie en Gold Coast, l'actuel Ghana, et il y meurt en 1904.",
    "genre": "adulte/homme",
    "duree_ms": 5920,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "O dilli haa Gold Coast, to Ghana hannde, o maayi ton nder 1904.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5216,
+     "fichier": "naaba-wobgo-quiz-fuf.m4a"
+    },
+    "mos": {
+     "texte": "A zoe n kẽnga Gold Coast, sẽn yaa Ghana rũndã-rũndã wã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4448,
+     "fichier": "naaba-wobgo-quiz-mos.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n9.question",
    "type": "jeu",
    "chemin": "nodes.n9.question",
-   "texte": "En quelle année la colonne de Voulet et Chanoine marche-t-elle sur le pays mossi ?"
+   "texte": "En quelle année la colonne de Voulet et Chanoine marche-t-elle sur le pays mossi ?",
+   "langues": {
+    "fuf": {
+     "texte": "Ko ndeen hitaande kolonnaaɓe Voulet e Chanoine njiɗi dow lesdi Mossi?",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Yʋʋmd bʋg la a Voulet ne a Chanoine kolondã kẽnga Mossi tẽngẽ?",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n9.gagne",
    "type": "jeu",
    "chemin": "nodes.n9.gagne",
-   "texte": "Oui, en 1896."
+   "texte": "Oui, en 1896.",
+   "langues": {
+    "fuf": {
+     "texte": "Ee, nder hitaande 1896.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "N-ye, yʋʋmd 1896 soabã.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n9.perdu",
    "type": "jeu",
    "chemin": "nodes.n9.perdu",
-   "texte": "C'était en 1896. 1904 est l'année de sa mort."
+   "texte": "C'était en 1896. 1904 est l'année de sa mort.",
+   "langues": {
+    "fuf": {
+     "texte": "Ɗum waɗi nder hitaande 1896. 1904 woni hitaande maayde maako.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Yaa yʋʋmd 1896 soabã pʋgẽ. Yʋʋmd 1904 yaa a kũumã yʋʋmdã.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n9.reponses.0.label",
    "type": "jeu",
    "chemin": "nodes.n9.reponses.0.label",
-   "texte": "1896"
+   "texte": "1896",
+   "langues": {
+    "fuf": {
+     "texte": "1896",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Yʋʋmd 1896",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n9.reponses.1.label",
    "type": "jeu",
    "chemin": "nodes.n9.reponses.1.label",
-   "texte": "1904"
+   "texte": "1904",
+   "langues": {
+    "fuf": {
+     "texte": "1904",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Yʋʋmd 1904",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n9.reponses.2.label",
    "type": "jeu",
    "chemin": "nodes.n9.reponses.2.label",
-   "texte": "1960"
+   "texte": "1960",
+   "langues": {
+    "fuf": {
+     "texte": "1960",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Yʋʋmd 1960",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n9.tags.win",
    "type": "parcours",
    "chemin": "nodes.n9.tags.win",
-   "texte": "bonne réponse"
+   "texte": "bonne réponse",
+   "langues": {
+    "fuf": {
+     "texte": "jaabawol gooŋga",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "leokr sẽn yaa sõma",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n9.tags.lose",
    "type": "parcours",
    "chemin": "nodes.n9.tags.lose",
-   "texte": "réponse manquée"
+   "texte": "réponse manquée",
+   "langues": {
+    "fuf": {
+     "texte": "jaabol maayi",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "sẽn pa leokã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "relire",
@@ -371,7 +843,23 @@
    "texte": "Reviens m'écouter : ces dates, on les doit à ceux qui les ont vécues.",
    "genre": "adulte/femme",
    "duree_ms": 5920,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Ndaa, nana ko mi wi'i: sahaaji ɗi'e ngam yimɓe goonɗinɓe ɓeen njooɗii.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5386,
+     "fichier": "naaba-wobgo-relire-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Kẽng-y n kelg m goama. Yaa neb nins sẽn vɩɩmd wakat ningã yĩng la b segd n maan bõn-kãens.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7002,
+     "fichier": "naaba-wobgo-relire-mos.m4a"
+    }
+   }
   },
   {
    "id": "bien",
@@ -385,7 +873,23 @@
    "texte": "À retenir : la conquête du pays mossi s'est faite par la force, face à un souverain qui a refusé de se soumettre.",
    "genre": "adulte/homme",
    "duree_ms": 9340,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Ngam anndingo ɗum: lesdi Mossi laɓɓini bee semmbe, yeeso laamiiɗo mo wanyani ɗowtanaago.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7194,
+     "fichier": "naaba-wobgo-bien-fuf.m4a"
+    },
+    "mos": {
+     "texte": "D tẽeg t'a Moyiiz tẽngã paamame ne pãnga, rĩm a ye sẽn da pa sak n na n deeg-a wã yĩnga.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6368,
+     "fichier": "naaba-wobgo-bien-mos.m4a"
+    }
+   }
   }
  ]
 }

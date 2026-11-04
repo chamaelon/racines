@@ -10,6 +10,10 @@ intonation: posé (proposée)
 texte: 1915. À Datomon, la mosquée se dresse au cœur du pays marka. La guerre des Blancs est loin. Mais ses exigences arrivent jusqu'ici.
 genre: adulte/homme
 duree: 10090ms (estimée)
+texte_fuf: 1915. Haa Datomon, juulirde nden woni nder ɓernde lesdi marka. Warugo yimɓe laamiiɓe ɓe'e ɗon haa yaasi. Ammaa ko o wi'i ɗum waɗata.
+enregistre_fuf: bona-1915-n1-fuf.m4a (10238ms)
+texte_mos: Yʋʋmd 1915. Datomon wã meziizã bee Mark tẽnga pʋga. Neb nins sẽn yaa nin-tũusdsã zab n be zĩig zãra. La a sẽn datã yaa woto.
+enregistre_mos: bona-1915-n1-mos.m4a (10478ms)
 
 piste: n2
 histoire: Le soulèvement de Bona
@@ -20,6 +24,10 @@ intonation: vif (proposée)
 texte: Écoutez ! Un messie viendra. Le pouvoir des Blancs prendra fin.
 genre: âgé/homme
 duree: 5080ms (estimée)
+texte_fuf: Njaŋge ! Masiihijo ɗon wara. Laamuuji laamiiɓe ɓaleeɓe ɗon timmina.
+enregistre_fuf: bona-1915-n2-fuf.m4a (6452ms)
+texte_mos: D kelg-y! Mesi n na n wa. Neb nins sẽn yaa nin-tũusdsã pãng na n saame.
+enregistre_mos: bona-1915-n2-mos.m4a (5700ms)
 
 piste: n3
 histoire: Le soulèvement de Bona
@@ -30,6 +38,10 @@ intonation: interrogatif (proposée)
 texte: Un prédicateur parle chaque jour devant la mosquée. La foule l'écoute et commence à espérer. Et toi, tu restes l'écouter, ou tu vas voir ce qui se passe plus loin ?
 genre: adulte/homme
 duree: 12980ms (estimée)
+texte_fuf: Mawɗo diina ɗon wolwana yeeso juulirde fuu. Yimɓe ɗon nana ko o wi'i, ɓe ngaɗi tammunde. On ɗon nana ko o wi'i, malla on ɗon ngi'a ko waɗata?
+enregistre_fuf: bona-1915-n3-fuf.m4a (11364ms)
+texte_mos: Koe-moond a yembr gomda daar fãa meziizã taoore. Nebã sẽn kelgd-a wã, b tẽedame t'a Zeova na n sõng-b lame. Yãmb ket n kelgd-a lame, wall y na n gesa bũmb ning sẽn watã?
+enregistre_mos: bona-1915-n3-mos.m4a (13700ms)
 
 piste: foule
 histoire: Le soulèvement de Bona
@@ -40,6 +52,10 @@ intonation: enlevé (proposée)
 texte: « Quand viendra-t-il ? Dis-nous quand ! » Tout le monde veut une date. Puis une autre nouvelle arrive : on recrute.
 genre: adulte/homme
 duree: 9710ms (estimée)
+texte_fuf: Ndeye o wari? Winen en wakkati! Yimɓe fuu ɓe ngiɗi yahugo. Ɓaawo ɗuum, goɗɗum ɓeydi-ɓeydi.
+enregistre_fuf: bona-1915-foule-fuf.m4a (7918ms)
+texte_mos: Wakat bʋg la a na n wa? Wilg-y tõnd wakat ninga! Ned kam fãa rat n paama kibay. Rẽ poore, koe-moond a ye n wa: b rɩkda neb nins b sẽn na n tʋmã.
+enregistre_mos: bona-1915-foule-mos.m4a (12120ms)
 
 piste: recrut
 histoire: Le soulèvement de Bona
@@ -50,6 +66,10 @@ intonation: posé (proposée)
 texte: Ils partiront. Ce sont les ordres.
 genre: adulte/homme
 duree: 2880ms (estimée)
+texte_fuf: Ɓe ndilli. Ɗuum woni umrooje.
+enregistre_fuf: bona-1915-recrut-fuf.m4a (2746ms)
+texte_mos: B na n loogame. Yaa noor-dãmbã.
+enregistre_mos: bona-1915-recrut-mos.m4a (2842ms)
 
 piste: n4
 histoire: Le soulèvement de Bona
@@ -60,6 +80,10 @@ intonation: grave (proposée)
 texte: Nos fils sont nos bras pour les champs.
 genre: âgé/homme
 duree: 3340ms (estimée)
+texte_fuf: Ɓiɓɓe meeɗen ngoni juuɗe amin ngam gese.
+enregistre_fuf: bona-1915-n4-fuf.m4a (2832ms)
+texte_mos: Tõnd kom-bõonegã yaa tõnd pãng pʋʋgẽ wã.
+enregistre_mos: bona-1915-n4-mos.m4a (3536ms)
 
 piste: n5
 histoire: Le soulèvement de Bona
@@ -70,6 +94,10 @@ intonation: posé (proposée)
 texte: Les gardes emmènent les jeunes hommes. Les mères pleurent au bord du chemin.
 genre: adulte/homme
 duree: 5540ms (estimée)
+texte_fuf: Gardiiɓe ɗon njahaa suka'en. Mammadu'en ɗon ngi'a haa laawol.
+enregistre_fuf: bona-1915-n5-fuf.m4a (4554ms)
+texte_mos: B gũuda bi-bɩɩsã tɩ b kẽng be. Ma-rãmbã yãbda sorã noore.
+enregistre_mos: bona-1915-n5-mos.m4a (5450ms)
 
 piste: n6
 histoire: Le soulèvement de Bona
@@ -80,6 +108,10 @@ intonation: chuchoté (proposée)
 texte: Une nuit, à Bona, les anciens se réunissent autour de l'autel. Ils tendent la main au-dessus de lui, et ils font serment.
 genre: adulte/homme
 duree: 9410ms (estimée)
+texte_fuf: Wakkati go'oto nder jemma, mawɓe Yahuudu'en mooɓti haa nokkuure ceniinde. Ɓe mbelti juuɗe maɓɓe dow maako, ɓe njokki alkawal.
+enregistre_fuf: bona-1915-n6-fuf.m4a (9386ms)
+texte_mos: Daar a ye yʋngo, kãsem dãmbã tigma taab n gũbg tẽn-kugrã. La b zẽka b nus n wẽen ne bãmba.
+enregistre_mos: bona-1915-n6-mos.m4a (9770ms)
 
 piste: n7
 histoire: Le soulèvement de Bona
@@ -90,6 +122,10 @@ intonation: chuchoté (proposée)
 texte: Dans le noir, les tambours de guerre commencent à parler. Écoute.
 genre: adulte/homme
 duree: 4930ms (estimée)
+texte_fuf: Nder nyiwre, ɓooyi konu fuɗɗi wolwugo. Njaŋge.
+enregistre_fuf: bona-1915-n7-fuf.m4a (3866ms)
+texte_mos: Zĩigã pʋgẽ, tãmb nins sẽn zabd ne zabrã sɩngame n gomda. Dɩlla kelg-y.
+enregistre_mos: bona-1915-n7-mos.m4a (6730ms)
 
 piste: n9
 histoire: Le soulèvement de Bona
@@ -100,6 +136,10 @@ intonation: tendu (proposée)
 texte: Le 17 novembre 1915, l'insurrection éclate à Bona. Les flèches répondent aux fusils, derrière le muret de banco, et la colonne recule. La nouvelle court de village en village, et des cavaliers portent le message.
 genre: adulte/homme
 duree: 14800ms (estimée)
+texte_fuf: Ko ñalnde 17 Noofambar 1915, feccere fuɗɗii e Bona. Fooje ɗon kaɓɓi pucci, ɓaawo mahol bankooji, nden kolonna'en ɗon hoosi. Ko'e maɓɓe ɓe ndilli haa wuro go'o, ɓe mbi'i: "Ndaa!
+enregistre_fuf: bona-1915-n9-fuf.m4a (14046ms)
+texte_mos: Yʋʋmd 1915, noob kiuug rasem 17 wã, kɩɩsgã yikame. B sẽn da wa n zabd ne bugumã, b ra yaa tãb-biisi. Zĩ-kãsems n moond koe-noogã.
+enregistre_mos: bona-1915-n9-mos.m4a (10692ms)
 
 piste: n11
 histoire: Le soulèvement de Bona
@@ -110,6 +150,10 @@ intonation: grave (proposée)
 texte: Le soulèvement s'étend aux villages marka et bwa. Mais en 1916, la révolte est réprimée. À Bona, il ne reste que des ruines. Le pays a payé très cher ce refus.
 genre: adulte/homme
 duree: 13280ms (estimée)
+texte_fuf: Yimɓe ummotooɓe ɓe'e ɓadake haa gure marka e bwa. Ammaa nder hitaande 1916, yimɓe ɓe'e ummii. Haa Bona, laana tan woni. Luttuɓe leydi ndii mbaɗi ceede masin.
+enregistre_fuf: bona-1915-n11-fuf.m4a (12846ms)
+texte_mos: Tʋʋm-kãsems nins b sẽn maan n wilg tɩ b yaa nin-tɩrsã yĩnga, b kɩtame t'a Zeova raabã pidsi. La yʋʋmd 1916 wã, b tõdg-a lame. Bãng-y tɩ sã n wa be Bona, bũmb a ye bal n ketẽ. Tẽngã sã n da pa sak n deeg b sẽn kõ-a wã, a ra baooda ligd wʋsgo.
+enregistre_mos: bona-1915-n11-mos.m4a (18734ms)
 
 piste: n12
 histoire: Le soulèvement de Bona
@@ -120,6 +164,10 @@ intonation: grave (proposée)
 texte: Nos pères ont dit non.
 genre: adulte/homme
 duree: 2200ms (estimée)
+texte_fuf: Baabiraaɓe meeɗen mbi'i ɓe mbaawataa.
+enregistre_fuf: bona-1915-n12-fuf.m4a (3408ms)
+texte_mos: Tõnd ba-rãmbã yeelame tɩ pa rẽ ye.
+enregistre_mos: bona-1915-n12-mos.m4a (2368ms)
 
 piste: relire
 histoire: Le soulèvement de Bona
@@ -130,6 +178,10 @@ intonation: grave (proposée)
 texte: Reviens à Bona. Une date se garde comme un serment.
 genre: adulte/homme
 duree: 4400ms (estimée)
+texte_fuf: Wota to Bona. Nyalnde ɗon haalde bana alkawal.
+enregistre_fuf: bona-1915-relire-fuf.m4a (3514ms)
+texte_mos: Bas-y n wa tɩ Bona nengẽ. D sã n dat kibayã, yaa wa d wẽename.
+enregistre_mos: bona-1915-relire-mos.m4a (5930ms)
 
 piste: bien
 histoire: Le soulèvement de Bona
@@ -140,6 +192,10 @@ intonation: grave (proposée)
 texte: Ne l'oublions pas.
 genre: adulte/homme
 duree: 1440ms (estimée)
+texte_fuf: Ngam en meeɗaay yi'ugo ɗum.
+enregistre_fuf: bona-1915-bien-fuf.m4a (2336ms)
+texte_mos: D pa segd n yĩm-a ye.
+enregistre_mos: bona-1915-bien-mos.m4a (1296ms)
 
 piste: film-001
 histoire: Le soulèvement de Bona
@@ -150,6 +206,8 @@ intonation: sobre (scénario)
 texte: Le soulèvement de Bona. Un récit du pays marka, simplifié pour l'image.
 genre: adulte/libre
 duree: 6200ms (mesurée sur le film)
+texte_fuf: Hakkillo Bona. Haala lesdi marka, ɗum laaɓɓi ngam hollaago.
+texte_mos: A Bona kɩɩsgã. Yaa marka tẽnga kibar sẽn yɩll n sõng ned t'a bãnge.
 
 piste: film-002
 histoire: Le soulèvement de Bona
@@ -160,6 +218,8 @@ intonation: posé (proposée)
 texte: 1915. À Datomon, la mosquée se dresse au cœur du pays marka.
 genre: adulte/libre
 duree: 5200ms (mesurée sur le film)
+texte_fuf: 1915. Haa Datomon, juulirde nden woni nder ɓernde lesdi marka.
+texte_mos: Yʋʋmd 1915. Datomon wã meziizã bee Mark tẽnga pʋga.
 
 piste: film-003
 histoire: Le soulèvement de Bona
@@ -170,6 +230,8 @@ intonation: posé (proposée)
 texte: La guerre des Blancs est loin. Mais ses exigences arrivent jusqu'ici.
 genre: adulte/libre
 duree: 5100ms (mesurée sur le film)
+texte_fuf: Warugo yimɓe laamiiɓe ɓe'e ɗon haa yaasi. Ammaa ko o wi'i ɗum waɗata.
+texte_mos: Neb nins sẽn yaa nin-tũusdsã zab n be zĩig zãra. La a sẽn datã yaa woto.
 
 piste: film-004
 histoire: Le soulèvement de Bona
@@ -180,6 +242,8 @@ intonation: inspiré (scénario)
 texte: Écoutez ! Un messie viendra. Le pouvoir des Blancs prendra fin.
 genre: âgé/libre
 duree: 6300ms (mesurée sur le film)
+texte_fuf: Njaŋge ! Masiihijo ɗon wara. Laamuuji laamiiɓe ɓaleeɓe ɗon timmina.
+texte_mos: D kelg-y! Mesi n na n wa. Neb nins sẽn yaa nin-tũusdsã pãng na n saame.
 
 piste: film-005
 histoire: Le soulèvement de Bona
@@ -190,6 +254,8 @@ intonation: posé (proposée)
 texte: Un prédicateur parle chaque jour devant la mosquée. La foule l'écoute et commence à espérer.
 genre: adulte/libre
 duree: 6400ms (mesurée sur le film)
+texte_fuf: Mawɗo diina ɗon wolwana yeeso juulirde fuu. Yimɓe ɗon nana ko o wi'i, ɓe ngaɗi tammunde.
+texte_mos: Koe-moond a yembr gomda daar fãa meziizã taoore. Nebã sẽn kelgd-a wã, b tẽedame t'a Zeova na n sõng-b lame.
 
 piste: film-006
 histoire: Le soulèvement de Bona
@@ -200,6 +266,8 @@ intonation: murmure plein d'espoir (scénario)
 texte: Quand viendra-t-il ? Dis-nous quand !
 genre: adulte/femme
 duree: 3800ms (mesurée sur le film)
+texte_fuf: Ndeye o wari? Winen en wakkati!
+texte_mos: Wakat bʋg la a na n wa? Wilg-y tõnd wakat ninga!
 
 piste: film-007
 histoire: Le soulèvement de Bona
@@ -210,6 +278,8 @@ intonation: posé (proposée)
 texte: Puis arrive le recrutement. L'administration veut des soldats pour sa guerre.
 genre: adulte/libre
 duree: 5800ms (mesurée sur le film)
+texte_fuf: Caggal ɗum, ɓe mbaɗata ceede. Dowlaaji ɗii ina ɗaɓɓita jawdi ngam konu maɓɓe.
+texte_mos: Rẽ poore, b na n yãka neb tɩ b wa tigim taaba. Goosneema wã ratame tɩ b paam sodaas n kẽng zabrã pʋgẽ.
 
 piste: film-008
 histoire: Le soulèvement de Bona
@@ -220,6 +290,8 @@ intonation: digne (scénario)
 texte: Nos fils sont nos bras pour les champs.
 genre: âgé/libre
 duree: 2500ms (mesurée sur le film)
+texte_fuf: Ɓiɓɓe meeɗen ngoni juuɗe amin ngam gese.
+texte_mos: Tõnd kom-bõonegã yaa tõnd pãng pʋʋgẽ wã.
 
 piste: film-009
 histoire: Le soulèvement de Bona
@@ -230,6 +302,8 @@ intonation: sec (scénario)
 texte: Ils partiront. Ce sont les ordres.
 genre: adulte/homme
 duree: 3200ms (mesurée sur le film)
+texte_fuf: Ɓe ndilli. Ɗuum woni umrooje.
+texte_mos: B na n loogame. Yaa noor-dãmbã.
 
 piste: film-010
 histoire: Le soulèvement de Bona
@@ -240,6 +314,8 @@ intonation: grave (scénario)
 texte: Les gardes emmènent les jeunes hommes. Les mères pleurent au bord du chemin.
 genre: adulte/libre
 duree: 5200ms (mesurée sur le film)
+texte_fuf: Gardiiɓe ɗon njahaa suka'en. Mammadu'en ɗon ngi'a haa laawol.
+texte_mos: B gũuda bi-bɩɩsã tɩ b kẽng be. Ma-rãmbã yãbda sorã noore.
 
 piste: film-011
 histoire: Le soulèvement de Bona
@@ -250,6 +326,8 @@ intonation: posé (proposée)
 texte: Une nuit, à Bona, les anciens se réunissent autour de l'autel.
 genre: adulte/libre
 duree: 4700ms (mesurée sur le film)
+texte_fuf: Wakkati go'oto nder jemma, mawɓe Yahuudu'en mooɓti haa nokkuure ceniinde.
+texte_mos: Daar a ye yʋngo, kãsem dãmbã tigma taab n gũbg tẽn-kugrã.
 
 piste: film-012
 histoire: Le soulèvement de Bona
@@ -260,6 +338,8 @@ intonation: ferme (scénario)
 texte: Ils tendent la main au-dessus de lui, et ils font serment.
 genre: adulte/libre
 duree: 3800ms (mesurée sur le film)
+texte_fuf: Ɓe mbelti juuɗe maɓɓe dow maako, ɓe njokki alkawal.
+texte_mos: La b zẽka b nus n wẽen ne bãmba.
 
 piste: film-013
 histoire: Le soulèvement de Bona
@@ -270,6 +350,8 @@ intonation: posé (proposée)
 texte: Dans le noir, les tambours de guerre commencent à parler.
 genre: adulte/libre
 duree: 4000ms (mesurée sur le film)
+texte_fuf: Nder nyiwre, ɓooyi konu fuɗɗi wolwugo.
+texte_mos: Zĩigã pʋgẽ, tãmb nins sẽn zabd ne zabrã sɩngame n gomda.
 
 piste: film-014
 histoire: Le soulèvement de Bona
@@ -280,6 +362,8 @@ intonation: ferme (scénario)
 texte: Le 17 novembre 1915, l'insurrection éclate à Bona.
 genre: adulte/libre
 duree: 4900ms (mesurée sur le film)
+texte_fuf: Ko ñalnde 17 Noofambar 1915, feccere fuɗɗii e Bona.
+texte_mos: Yʋʋmd 1915, noob kiuug rasem 17 wã, kɩɩsgã yikame.
 
 piste: film-015
 histoire: Le soulèvement de Bona
@@ -290,6 +374,8 @@ intonation: posé (proposée)
 texte: La colonne arrive. Les flèches répondent aux fusils derrière le muret de banco.
 genre: adulte/libre
 duree: 5800ms (mesurée sur le film)
+texte_fuf: Kolonnaaji ɗon wara. Feeje ɗon kolli pucci ɓaawo mahol bankooji.
+texte_mos: Nebã watame. B sẽn da tar sɩbgrã, b ra yaa tãb-biis n zabd ne-ba.
 
 piste: film-016
 histoire: Le soulèvement de Bona
@@ -300,6 +386,8 @@ intonation: posé (proposée)
 texte: Les défenseurs franchissent le muret, et la colonne recule.
 genre: adulte/libre
 duree: 4400ms (mesurée sur le film)
+texte_fuf: Yimɓe ɗon haɓana yimɓe ɓe'e ndilli dow mahol, kolonnaare boo ɗon cembiɗa.
+texte_mos: Neb nins sẽn zabd ne nin-kãsemsã sã n kẽed wallẽ wã, b kolgdame.
 
 piste: film-017
 histoire: Le soulèvement de Bona
@@ -310,6 +398,8 @@ intonation: posé (proposée)
 texte: La nouvelle court de village en village. Des cavaliers portent le message.
 genre: adulte/libre
 duree: 5700ms (mesurée sur le film)
+texte_fuf: Goomu goomu gooduɗo wuro. Yimɓe ɗon njooɗoto bee ko'e maɓɓe.
+texte_mos: Yaa tẽn-paal sẽn yaa paalga. Bãngr-gomdã bee ne so-pakdb.
 
 piste: film-018
 histoire: Le soulèvement de Bona
@@ -320,6 +410,8 @@ intonation: posé (proposée)
 texte: Le soulèvement s'étend aux villages marka et bwa.
 genre: adulte/libre
 duree: 3400ms (mesurée sur le film)
+texte_fuf: Yimɓe ummotooɓe ɓe'e ɓadake haa gure marka e bwa.
+texte_mos: Tʋʋm-kãsems nins b sẽn maan n wilg tɩ b yaa nin-tɩrsã yĩnga, b kɩtame t'a Zeova raabã pidsi.
 
 piste: film-019
 histoire: Le soulèvement de Bona
@@ -330,6 +422,8 @@ intonation: grave (scénario)
 texte: Mais en 1916, la révolte est réprimée. À Bona, il ne reste que des ruines.
 genre: adulte/libre
 duree: 6900ms (mesurée sur le film)
+texte_fuf: Ammaa nder hitaande 1916, yimɓe ɓe'e ummii. Haa Bona, laana tan woni.
+texte_mos: La yʋʋmd 1916 wã, b tõdg-a lame. Bãng-y tɩ sã n wa be Bona, bũmb a ye bal n ketẽ.
 
 piste: film-020
 histoire: Le soulèvement de Bona
@@ -340,6 +434,8 @@ intonation: posé (proposée)
 texte: Le pays a payé très cher ce refus.
 genre: adulte/libre
 duree: 3100ms (mesurée sur le film)
+texte_fuf: Luttuɓe leydi ndii mbaɗi ceede masin.
+texte_mos: Tẽngã sã n da pa sak n deeg b sẽn kõ-a wã, a ra baooda ligd wʋsgo.
 
 piste: film-021
 histoire: Le soulèvement de Bona
@@ -350,6 +446,8 @@ intonation: posé (scénario)
 texte: Nos pères ont dit non.
 genre: âgé/libre
 duree: 2200ms (mesurée sur le film)
+texte_fuf: Baabiraaɓe meeɗen mbi'i ɓe mbaawataa.
+texte_mos: Tõnd ba-rãmbã yeelame tɩ pa rẽ ye.
 
 piste: film-022
 histoire: Le soulèvement de Bona
@@ -360,3 +458,5 @@ intonation: posé (scénario)
 texte: Ne l'oublions pas.
 genre: âgé/libre
 duree: 2100ms (mesurée sur le film)
+texte_fuf: Ngam en meeɗaay yi'ugo ɗum.
+texte_mos: D pa segd n yĩm-a ye.

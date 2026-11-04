@@ -161,3 +161,12 @@ playwright-report/
 
 # Python
 __pycache__/
+
+# Films 3D : les médias vont dans gh-pages (scripts/publier-films.ps1), pas dans le dépôt ; les masters restent en local
+films3d/sorties/
+public/films/
+montage/
+dist-depot-films/
+
+# Archive locale des vidéos, trop lourde pour le dépôt
+animations/videos.zip

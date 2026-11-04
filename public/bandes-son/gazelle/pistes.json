@@ -17,6 +17,14 @@
     "en": {
      "texte": "The Gazelle's Two Stripes",
      "relecture": "traduction de travail, à relire"
+    },
+    "dyu": {
+     "texte": "Gasiliw ka jogo fila",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Gʋlsã zʋgd a yiibu",
+     "relecture": "traduction automatique, non relue"
     }
    }
   },
@@ -29,6 +37,14 @@
     "en": {
      "texte": "The gazelle, fastest in the bush, mocks the chameleon. He challenges her. You are the chameleon: how do you win when you move one foot at a time?",
      "relecture": "traduction de travail, à relire"
+    },
+    "dyu": {
+     "texte": "Gasiliw bɛɛ la, u ka teli ka tɛmɛ kongo kɔnɔ mɔgɔw bɛɛ kan. A b'a fɛ k'o kɛ. I be i ko kamɛliɔn: i be se ka see sɔrɔ cogo di n'i b'i seen kelen to a tɔ kelen kan?",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Zĩigã, sẽn yaa zĩ-gãongã pʋgẽ n yɩɩd a taabã fãa, pa noom ne kameleõ wã ye. A kɩɩsda a Zeova. Yãmb bee kameleõ wã pʋgẽ: y sã n wa yikd y nao n paasdẽ, bõe la y tõe n maan n tõog-yã?",
+     "relecture": "traduction automatique, non relue"
     }
    }
   },
@@ -41,6 +57,12 @@
     "en": {
      "texte": "The griot",
      "relecture": "traduction de travail, à relire"
+    },
+    "dyu": {
+     "texte": "Le griot"
+    },
+    "mos": {
+     "texte": "Le griot"
     }
    }
   },
@@ -53,6 +75,12 @@
     "en": {
      "texte": "The gazelle",
      "relecture": "traduction de travail, à relire"
+    },
+    "dyu": {
+     "texte": "La gazelle"
+    },
+    "mos": {
+     "texte": "La gazelle"
     }
    }
   },
@@ -65,6 +93,12 @@
     "en": {
      "texte": "The chameleon",
      "relecture": "traduction de travail, à relire"
+    },
+    "dyu": {
+     "texte": "Le caméléon"
+    },
+    "mos": {
+     "texte": "Le caméléon"
     }
    }
   },
@@ -77,6 +111,12 @@
     "en": {
      "texte": "The elephant",
      "relecture": "traduction de travail, à relire"
+    },
+    "dyu": {
+     "texte": "L'éléphant"
+    },
+    "mos": {
+     "texte": "L'éléphant"
     }
    }
   },
@@ -89,6 +129,14 @@
     "en": {
      "texte": "The griot's version: the gazelle's two stripes",
      "relecture": "traduction de travail, à relire"
+    },
+    "dyu": {
+     "texte": "Gɛrɛkikan kumaden: gazɛl ka jogo fila bɛɛ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Gʋls-n-taagã sẽn tar zʋg-sõma a yiibu",
+     "relecture": "traduction automatique, non relue"
     }
    }
   },
@@ -101,6 +149,14 @@
     "en": {
      "texte": "Another path: the gazelle keeps her white muzzle",
      "relecture": "traduction de travail, à relire"
+    },
+    "dyu": {
+     "texte": "O cogo kelen na, a be to k'a kunsigi gwɛ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Bũmb a to: Gɛtã zãad-a lame",
+     "relecture": "traduction automatique, non relue"
     }
    }
   },
@@ -122,6 +178,20 @@
      "texte": "Once, the gazelle had no mark on her muzzle. Every day she stopped at the pond to admire her lovely face.",
      "relecture": "traduction de travail, à relire",
      "statut": "a_enregistrer"
+    },
+    "dyu": {
+     "texte": "Wagati tɛmɛninw na, tagamasiyɛn si tun t'a ɲada la. Loon o loon, a tun be to k'a filɛ a ɲada cɛɲumanba ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8714,
+     "fichier": "gazelle-n1-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Pĩnd wẽndẽ wã, sã n wa beẽ-kãnga, a ra pa tar makr baa a yen a nifẽ ye. Zu-loees fãa, a ra basd-a lame t'a ges a nin-sõngo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9898,
+     "fichier": "gazelle-n1-mos.m4a"
     }
    }
   },
@@ -143,6 +213,20 @@
      "texte": "Well, old slowcoach, will you get there before the rainy season?",
      "relecture": "traduction de travail, à relire",
      "statut": "a_enregistrer"
+    },
+    "dyu": {
+     "texte": "O tuma na, mɔgɔkɔrɔba malasa, i bena se yan sanni sanji ka ben wa?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5440,
+     "fichier": "gazelle-n2-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Rẽ yĩnga, zo-rũng sẽn yaa sũ-mar soaba, fo na n waa be tɩ saaga yaool n ta bɩ?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6752,
+     "fichier": "gazelle-n2-mos.m4a"
     }
    }
   },
@@ -164,6 +248,20 @@
      "texte": "She circles you, leaping over your head. The hare and the guinea fowl start to laugh. What do you answer?",
      "relecture": "traduction de travail, à relire",
      "statut": "a_enregistrer"
+    },
+    "dyu": {
+     "texte": "A be kolonkolon i fan fɛ, k'i kunbiri gwan. Lɔnnikɛbaga n'a ɲamaɲama b'a daminɛ ka yɛlɛ. I b'a jaabi cogo di?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9092,
+     "fichier": "gazelle-n3-dyu.m4a"
+    },
+    "mos": {
+     "texte": "A leb n wẽnda fo zugã, n zʋʋgd foo zugu. Zĩigã ne piisgã sɩngame n yãgsda. Yãmb leokda bõe?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9044,
+     "fichier": "gazelle-n3-mos.m4a"
     }
    }
   },
@@ -176,6 +274,14 @@
     "en": {
      "texte": "Nothing. You change colour and think",
      "relecture": "traduction de travail, à relire"
+    },
+    "dyu": {
+     "texte": "O tɛ foyi ye. I b'i fari yɛlɛma, i be miiri",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "La bũmb ka be ye. Yãmb toeemda y yagengã, la y tagsdame",
+     "relecture": "traduction automatique, non relue"
     }
    }
   },
@@ -188,6 +294,14 @@
     "en": {
      "texte": "calm",
      "relecture": "traduction de travail, à relire"
+    },
+    "dyu": {
+     "texte": "k'i hakili sigi",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "gãdg-y y sũur",
+     "relecture": "traduction automatique, non relue"
     }
    }
   },
@@ -200,6 +314,14 @@
     "en": {
      "texte": "You shout an insult at her",
      "relecture": "traduction de travail, à relire"
+    },
+    "dyu": {
+     "texte": "I be kumajugu fɔ a ma",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Fo sã n paoogd-a lame",
+     "relecture": "traduction automatique, non relue"
     }
    }
   },
@@ -212,6 +334,14 @@
     "en": {
      "texte": "insult",
      "relecture": "traduction de travail, à relire"
+    },
+    "dyu": {
+     "texte": "ka mɔgɔ nɛni",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "paoogre",
+     "relecture": "traduction automatique, non relue"
     }
    }
   },
@@ -233,6 +363,20 @@
      "texte": "Oh, it can talk! Say that again, I had no time to hear you, I was already far away.",
      "relecture": "traduction de travail, à relire",
      "statut": "a_enregistrer"
+    },
+    "dyu": {
+     "texte": "A be se ka kuma! O ra, a fɔ ne ye tuun ko ne ma wagati sɔrɔ ka i lamɛn, sabu ne tun tɛ yɔrɔjan fɔlɔ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8234,
+     "fichier": "gazelle-insulte-dyu.m4a"
+    },
+    "mos": {
+     "texte": "A tõe n goma! Rẽ yĩnga, leb n yeel-y lame tɩ m ka tar sẽk n kelg yãmb ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6426,
+     "fichier": "gazelle-insulte-mos.m4a"
     }
    }
   },
@@ -254,6 +398,20 @@
      "texte": "You swallow your anger. This calls for more than words.",
      "relecture": "traduction de travail, à relire",
      "statut": "a_enregistrer"
+    },
+    "dyu": {
+     "texte": "I be dimi kojugu. A ka fisa ni kuma ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3722,
+     "fichier": "gazelle-n4-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Fo sũur sãamda wʋsgo. Yaa bũmb sẽn yɩɩd gom-biis bal la d segd n maane.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5562,
+     "fichier": "gazelle-n4-mos.m4a"
     }
    }
   },
@@ -275,6 +433,20 @@
      "texte": "A race, gazelle. To over there, to the red termite mound.",
      "relecture": "traduction de travail, à relire",
      "statut": "a_enregistrer"
+    },
+    "dyu": {
+     "texte": "O ye ɲɔgɔndan dɔ le ye. O yɔrɔ la, a tun be i n'a fɔ terimitiri wulen.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5754,
+     "fichier": "gazelle-calme-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Yaa zoees bala, gazelle. Sẽn kolg-a n ta be wã, t'a lebg a Termitɛɛr sẽn yaa miuugu.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7450,
+     "fichier": "gazelle-calme-mos.m4a"
     }
    }
   },
@@ -296,6 +468,20 @@
      "texte": "The elephant agrees to be the judge. He marks the finish line with a sweep of his trunk. The whole bush wants to see this.",
      "relecture": "traduction de travail, à relire",
      "statut": "a_enregistrer"
+    },
+    "dyu": {
+     "texte": "Elefan sɔnna ka kɛ kititigɛla ye. O kɔ, a ye burufiyɛkan dɔ kɛ k'a kuun sinsin. O yɔrɔ mɔgɔw bɛɛ b'a fɛ k'o ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8868,
+     "fichier": "gazelle-n5-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Tĩngã sakame n na n yɩ bʋ-kaood. A rɩka karẽn-biis a ye n na n maan bũmb sẽn tõe n sõng-a t'a paam saagr wʋsgo. Tẽngã fãa rat n yãame.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 14180,
+     "fichier": "gazelle-n5-mos.m4a"
     }
    }
   },
@@ -317,6 +503,20 @@
      "texte": "Watch me, all of you! I'll start last, to give you time to sit down.",
      "relecture": "traduction de travail, à relire",
      "statut": "a_enregistrer"
+    },
+    "dyu": {
+     "texte": "Aw bɛɛ k'aw ɲaa sin ne ma. Ne yɛrɛ le bena kɛ laban ye, janko aw ka se ka sigi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6074,
+     "fichier": "gazelle-n6-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Ges-y maam neere! Mam na n yɩɩ yaoolem soaba, tɩ y paam sẽk n zĩnd.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5754,
+     "fichier": "gazelle-n6-mos.m4a"
     }
    }
   },
@@ -338,6 +538,20 @@
      "texte": "While she shows off, how will you run?",
      "relecture": "traduction de travail, à relire",
      "statut": "a_enregistrer"
+    },
+    "dyu": {
+     "texte": "N'a b'a fɛ k'a yɛrɛ boɲa, a be se ka boli cogo di?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3424,
+     "fichier": "gazelle-n7-dyu.m4a"
+    },
+    "mos": {
+     "texte": "La a sẽn wa n maand woto wã, wãn to la d tõe n zoe?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3024,
+     "fichier": "gazelle-n7-mos.m4a"
     }
    }
   },
@@ -350,6 +564,14 @@
     "en": {
      "texte": "Climb silently onto her back and take on her colour",
      "relecture": "traduction de travail, à relire"
+    },
+    "dyu": {
+     "texte": "Ka yɛlɛ a kɔ kan ni mankan ye, k'a jaɲa",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "A sã n dʋʋgd a poorẽ, la a sã n dɩk a nengã,",
+     "relecture": "traduction automatique, non relue"
     }
    }
   },
@@ -362,6 +584,14 @@
     "en": {
      "texte": "on her back",
      "relecture": "traduction de travail, à relire"
+    },
+    "dyu": {
+     "texte": "a kɔ kan",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "ne b poorẽ",
+     "relecture": "traduction automatique, non relue"
     }
    }
   },
@@ -374,6 +604,14 @@
     "en": {
      "texte": "Set off early, with all your strength",
      "relecture": "traduction de travail, à relire"
+    },
+    "dyu": {
+     "texte": "I seko bɛɛ kɛ ka kɔn o ɲɛ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Kẽng-y y pãng fãa n kẽng taoor",
+     "relecture": "traduction automatique, non relue"
     }
    }
   },
@@ -386,6 +624,14 @@
     "en": {
      "texte": "false start",
      "relecture": "traduction de travail, à relire"
+    },
+    "dyu": {
+     "texte": "ka bɔ joona",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "d sã n zoe n yikẽ",
+     "relecture": "traduction automatique, non relue"
     }
    }
   },
@@ -407,6 +653,20 @@
      "texte": "Back to the line, chameleon. Even judges can see that.",
      "relecture": "traduction de travail, à relire",
      "statut": "a_enregistrer"
+    },
+    "dyu": {
+     "texte": "I ka segi k'a fɔ ne ye, kamɛliɔn. Hali kititigɛlaw yɛrɛ b'o ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5354,
+     "fichier": "gazelle-avance-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Bas-y tɩ d lebg n wa, kameleonã. Baa bʋ-kaoodbã me geta rẽ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5002,
+     "fichier": "gazelle-avance-mos.m4a"
     }
    }
   },
@@ -428,6 +688,20 @@
      "texte": "You walk back, as if nothing had happened. The elephant raises his trunk, the gazelle takes flight, and you take three steps. She does not even need to look back.",
      "relecture": "traduction de travail, à relire",
      "statut": "a_enregistrer"
+    },
+    "dyu": {
+     "texte": "N'i kɔsegira, i be komi i tɛ foyi kɛra. Elefan b'a ta buru fiyɛ, kongowara bɛ borira; ele fana bɛ tagama saba. A t'a fɛ k'a ɲɛɛ yɛlɛma.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 10142,
+     "fichier": "gazelle-n8-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Fo sã n wa beẽ, fo pa mi bũmb ye. Zĩ-kãnga zẽkda a bugum, la we-rũngã kelemdame. La fo maanda so-toog a tãabo. A pa segd n wẽnemd a meng ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 12942,
+     "fichier": "gazelle-n8-mos.m4a"
     }
    }
   },
@@ -449,6 +723,20 @@
      "texte": "The elephant raises his trunk and the gazelle bounds off, light as the wind. On her back, you do not move.",
      "relecture": "traduction de travail, à relire",
      "statut": "a_enregistrer"
+    },
+    "dyu": {
+     "texte": "Elefan b'a ta buru fiyɛ, kongowara bɛ bori ka bɔ san fɛ i ko fɔɲɔ. N'i tora n'a ye a kɔfɛ, i tɛ se ka foyi kɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9706,
+     "fichier": "gazelle-dos-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Zĩ-kãnga zẽka a tãmbã, la bõn-naandã zʋʋgame, n yɩlem wa sobgã. Fo ka yikd a poorẽ ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9242,
+     "fichier": "gazelle-dos-mos.m4a"
     }
    }
   },
@@ -470,6 +758,20 @@
      "texte": "She turns round: nobody behind her. At the pond, she drinks calmly. You must stay unnoticed. A riddle to pass the time!",
      "relecture": "traduction de travail, à relire",
      "statut": "a_enregistrer"
+    },
+    "dyu": {
+     "texte": "A y'a ɲaa yɛlɛma, mɔgɔ si ma to a kɔ. A be to ka minni kɛ n'a ye. I ka kan k'a to mɔgɔw b'i ɲinɛ. N' tun b'a fɛ ka wagati ta cogo min na, n' y'o lɔn.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 11134,
+     "fichier": "gazelle-n9-dyu.m4a"
+    },
+    "mos": {
+     "texte": "A wẽnemdame: ned ka be a poorẽ ye. A sẽn wa n be wã, a yũuda ne sũ-noogo. Fo segd n kɩtame tɩ b yĩm f yelle. Yãk-y n tool-y neda!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 11656,
+     "fichier": "gazelle-n9-mos.m4a"
     }
    }
   },
@@ -482,6 +784,14 @@
     "en": {
      "texte": "The chameleon wins without running. What is his real strength?",
      "relecture": "traduction de travail, à relire"
+    },
+    "dyu": {
+     "texte": "Hali n'a ma boli, a be se ka see sɔrɔ. A ka fanga sɔbɛ ye mun lo ye?",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Kameleõ wã sã n pa zoe, a na n tõogame. Bõe n wilgd t'a sɩd tara pãnga?",
+     "relecture": "traduction automatique, non relue"
     }
    }
   },
@@ -494,6 +804,14 @@
     "en": {
      "texte": "Patience: pride runs fast, but patience often arrives first.",
      "relecture": "traduction de travail, à relire"
+    },
+    "dyu": {
+     "texte": "Ni mɔgɔ b'a yɛrɛ boɲa joona, o tigi ka teli ka kɛ a fɔlɔ ye.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Ned sã n tar sũ-mare, a yaa wuk-m-meng soaba.",
+     "relecture": "traduction automatique, non relue"
     }
    }
   },
@@ -506,6 +824,14 @@
     "en": {
      "texte": "It is his patience: pride runs fast, but patience often arrives first.",
      "relecture": "traduction de travail, à relire"
+    },
+    "dyu": {
+     "texte": "A ta muɲuli le ye nin ye: yɛrɛbonya bɛ bori joona, nka a ka teli ka kɔn k'a sɔrɔ.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "A yaa sũ-mar soaba, la wuk-m-mengã zoeeme tao-tao.",
+     "relecture": "traduction automatique, non relue"
     }
    }
   },
@@ -518,6 +844,14 @@
     "en": {
      "texte": "His patience",
      "relecture": "traduction de travail, à relire"
+    },
+    "dyu": {
+     "texte": "A muɲuna",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "A sũ-marã",
+     "relecture": "traduction automatique, non relue"
     }
    }
   },
@@ -530,6 +864,14 @@
     "en": {
      "texte": "His long legs",
      "relecture": "traduction de travail, à relire"
+    },
+    "dyu": {
+     "texte": "A senjanw",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "A nao-kãsenga",
+     "relecture": "traduction automatique, non relue"
     }
    }
   },
@@ -542,6 +884,14 @@
     "en": {
      "texte": "His big voice",
      "relecture": "traduction de travail, à relire"
+    },
+    "dyu": {
+     "texte": "A kumakanba tun ka bon",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "A koɛɛgã sẽn yaa kãsenga",
+     "relecture": "traduction automatique, non relue"
     }
    }
   },
@@ -554,6 +904,14 @@
     "en": {
      "texte": "right answer",
      "relecture": "traduction de travail, à relire"
+    },
+    "dyu": {
+     "texte": "jaabili ɲuman",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "leokr sẽn yaa sõma",
+     "relecture": "traduction automatique, non relue"
     }
    }
   },
@@ -566,6 +924,14 @@
     "en": {
      "texte": "wrong answer",
      "relecture": "traduction de travail, à relire"
+    },
+    "dyu": {
+     "texte": "a ma jaabi",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "sẽn pa leokã",
+     "relecture": "traduction automatique, non relue"
     }
    }
   },
@@ -587,6 +953,20 @@
      "texte": "Just before the line, the gazelle stops to mock the empty track. Then you jump from her back and cross the line. The whole bush bursts out laughing.",
      "relecture": "traduction de travail, à relire",
      "statut": "a_enregistrer"
+    },
+    "dyu": {
+     "texte": "O kɔ, a y'a daminɛ k'o sira tagama. O kɔ, i be boli ka bɔ a kɔ. Yirisun bɛɛ tun be yɛlɛla.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9076,
+     "fichier": "gazelle-n11-dyu.m4a"
+    },
+    "mos": {
+     "texte": "A sẽn wa n be sorẽ wã, a gãagã sɩnga n na n yãg-a lame. Rẽ poore, y na n yɩɩg-a lame, la y sãame. La log-tẽngã fãa yãgdame.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 11780,
+     "fichier": "gazelle-n11-mos.m4a"
     }
    }
   },
@@ -608,6 +988,20 @@
      "texte": "For the first time, she weeps. Her tears of shame leave two black stripes on her muzzle, and they never fade.",
      "relecture": "traduction de travail, à relire",
      "statut": "a_enregistrer"
+    },
+    "dyu": {
+     "texte": "A siɲɛ fɔlɔ lo ka kasi. A ɲaji minw bɛ bɔ a maroya ra, o ye finfin fla to a ɲada kan; o tɛ bɔ tuun.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9300,
+     "fichier": "gazelle-n12-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Yaa rẽ n kɩt t'a yãbdẽ. A yãbrã sẽn kɩt t'a nintãmã pa le loogd ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5210,
+     "fichier": "gazelle-n12-mos.m4a"
     }
    }
   },
@@ -625,7 +1019,19 @@
    "texte": "Les deux traits de la gazelle. Un conte bwaba.",
    "genre": "adulte/libre",
    "duree_ms": 4300,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Gasiliw ka jogo fila bɛɛ. A ye koo dɔ lakali.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Gʋls-kãnga yel-bũn a yiibã fãa. A yaa bwaba kibar.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-002",
@@ -641,7 +1047,19 @@
    "texte": "Autrefois, la gazelle n'avait aucune marque sur le museau. C'était la plus rapide de la brousse, et elle le savait.",
    "genre": "adulte/libre",
    "duree_ms": 7900,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Wagati tɛmɛninw na, tagamasiyɛn si tun t'a ɲada la. A tun be se ka tɛmɛ bɛɛ kan ani a tun b'o lɔn.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Pĩnd wẽndẽ wã, sã n wa beẽ-kãnga, a ra pa tar makr baa a yen a nifẽ ye. A ra yaa ned sẽn tar pãng n yɩɩd zĩ-kãens fãa, la a ra miime.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-003",
@@ -657,7 +1075,19 @@
    "texte": "Chaque jour, elle s'arrêtait à la mare pour admirer son beau visage.",
    "genre": "adulte/libre",
    "duree_ms": 4700,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Loon o loon, a tun be to k'a filɛ a ɲada cɛɲumanba ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Zu-loees fãa, a ra basd-a lame t'a ges a nin-sõngo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-004",
@@ -673,7 +1103,19 @@
    "texte": "Un matin, elle croisa le caméléon, qui avançait une patte après l'autre.",
    "genre": "adulte/libre",
    "duree_ms": 5300,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Loon dɔ sɔgɔma, a y'a ye ko kamɛliɔn tun be tagara.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Daar a ye koabgẽ, a yãame t'a kamelõonã kẽnga taoor ne a nao n paasdẽ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-005",
@@ -689,7 +1131,19 @@
    "texte": "Alors, vieux lent, tu arriveras avant la saison des pluies ?",
    "genre": "adulte/femme",
    "duree_ms": 4500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O tuma na, mɔgɔkɔrɔba malasa, i bena se yan sanni sanji ka ben wa?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Rẽ yĩnga, zo-rũng sẽn yaa sũ-mar soaba, fo na n waa be tɩ saaga yaool n ta bɩ?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-006",
@@ -705,7 +1159,19 @@
    "texte": "Elle tourna autour de lui en sautant par-dessus sa tête. Le lièvre et la pintade se mirent à rire.",
    "genre": "adulte/libre",
    "duree_ms": 6700,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "A y'a kolonkolon k'a kunbiri gwan. Lɔnnikɛbaga ni sungurunin y'a daminɛ ka yɛlɛ ɲɔgɔn fɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A wẽnga a zug n zʋʋg a zugu. Zĩigã ne piiga sɩngame n yãgd-a.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-007",
@@ -721,7 +1187,19 @@
    "texte": "Le caméléon s'arrêta, changea de couleur, et ne dit rien.",
    "genre": "adulte/libre",
    "duree_ms": 4700,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O kɔ, a y'a fari yɛlɛma ani a ma foyi fɔ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "La kameleõ wã sĩndame, n toeem a yĩn-vẽenega, la a ka leok ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-008",
@@ -737,7 +1215,19 @@
    "texte": "Une course, gazelle. Jusque là-bas, à la termitière rouge.",
    "genre": "adulte/homme",
    "duree_ms": 5900,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O ye ɲɔgɔndan dɔ le ye. O yɔrɔ la, a tun be i n'a fɔ terimitiri wulen.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Yaa zoees bala, gazelle. Sẽn kolg-a n ta be wã, t'a lebg a Termitɛɛr sẽn yaa miuugu.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-009",
@@ -753,7 +1243,19 @@
    "texte": "L'éléphant, qui passait par là, accepta d'être le juge.",
    "genre": "adulte/libre",
    "duree_ms": 4600,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Elefan min tun be tɛmɛna, ale sɔnna ka kɛ kititigɛbaga ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Wʋs-kãnga sẽn da loogd be wã sakame n na n yɩ bʋ-kaood.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-010",
@@ -769,7 +1271,19 @@
    "texte": "Il traça la ligne d'arrivée d'un geste de la trompe. Toute la brousse voulut voir ça.",
    "genre": "adulte/libre",
    "duree_ms": 6000,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O kɔ, a y'a fɔ u ye ko: \"Aw k'aw tulo malɔ ka ɲa. Yiriw bɛɛ tun b'a fɛ k'o ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A sẽn wa n na n maan woto wã, a maana yɩɩl-yẽng n wilg sor ning b sẽn na n ta. Kẽerã fãa ra rat n yãame.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-011",
@@ -785,7 +1299,19 @@
    "texte": "Le jour venu, la gazelle fanfaronna devant les autres.",
    "genre": "adulte/libre",
    "duree_ms": 4300,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Dugu gwɛra tuma min na, wara nin tun b'a yɛrɛ bonya mɔgɔw bɛɛ ɲana.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Zĩig sã n wa vẽege, bu-zẽkrã ra pẽgda neb a taabã taoore.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-012",
@@ -801,7 +1327,19 @@
    "texte": "Pendant ce temps, le caméléon s'approchait sans bruit. Il grimpa sur son dos et prit la couleur de son pelage.",
    "genre": "adulte/libre",
    "duree_ms": 7800,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Ka fara o kan, kamɛliɔn tun b'a fɛ ka gwɛrɛ. A yɛlɛnna a kɔ kan k'a fari furakɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Wakat kãng fãa, kameleõ wã kolga ne sũ-noogo. A kẽnga a poorẽ n dɩk a sũ-paalgã sãnem.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-013",
@@ -817,7 +1355,19 @@
    "texte": "L'éléphant leva la trompe, et la gazelle bondit, légère comme le vent.",
    "genre": "adulte/libre",
    "duree_ms": 4500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Elefan le ka buru fiyɛ, kongowara fana wurira; a tɛ foyi ɲa i ko fɔɲɔ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Ninsaalã zẽka a yɩɩnga, t'a sãnemd wa sobgã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-014",
@@ -833,7 +1383,19 @@
    "texte": "Elle se retourna : personne derrière elle. Elle ralentit, sûre de sa victoire.",
    "genre": "adulte/libre",
    "duree_ms": 6300,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "A y'a ɲaa yɛlɛma, mɔgɔ si ma to a kɔ. A tun lanin b'a la ko a bena see sɔrɔ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A wẽneg n wẽnda a poorẽ: ned ka be ye. A sẽn na n tõog-a wã kɩtame t'a pa tar raood ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-015",
@@ -849,7 +1411,19 @@
    "texte": "À la mare, elle but tranquillement. Sur son dos, le caméléon ne bougeait pas.",
    "genre": "adulte/libre",
    "duree_ms": 6100,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "A tun be to ka dɔrɔ min n'a ye. O kɔ, kamɛliɔn tun tɛ se k'a lamaga.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A sẽn wa n be wã, a yũuda sũ-bʋgsem. A sẽn da be a poorẽ wã, kameleonã ra pa yikd ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-016",
@@ -865,7 +1439,19 @@
    "texte": "Puis elle repartit, en riant toute seule.",
    "genre": "adulte/libre",
    "duree_ms": 3500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O kɔ, a y'a yɛrɛ yɛlɛla.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Rẽ poore, a yiime n sega a meng.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-017",
@@ -881,7 +1467,19 @@
    "texte": "Juste avant la ligne, elle s'arrêta pour se moquer de la piste vide.",
    "genre": "adulte/libre",
    "duree_ms": 4700,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O kɔ, a lɔra ka yɛlɛko kɛ sira lakolon kan.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A sẽn wa n be sorẽ wã, a sɩnga n na n maan yaal ne rotã sẽn pa tar pãng ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-018",
@@ -897,7 +1495,19 @@
    "texte": "Alors le caméléon sauta de son dos et franchit la ligne. Il avait gagné !",
    "genre": "adulte/libre",
    "duree_ms": 5700,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O kɔ, kamɛliɔn bolila ka bɔ a kɔfɛ ka tɛmɛ. A ye see sɔrɔ!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Rẽ n so t'a kameleõ wã yi a poorẽ, n tɩ pɩʋʋg sorã. A ra tõoga!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-019",
@@ -913,7 +1523,19 @@
    "texte": "Toute la brousse éclata de rire.",
    "genre": "adulte/libre",
    "duree_ms": 2800,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Yirisun bɛɛ tun be yɛlɛla.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "La log-tẽngã fãa ra yãgda.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-020",
@@ -929,7 +1551,19 @@
    "texte": "La gazelle ne dit plus rien. Pour la première fois, elle pleura.",
    "genre": "adulte/libre",
    "duree_ms": 5300,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "A ma foyi fɔ tugun. A siɲɛ fɔlɔ la, a kasira.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Gɛtã ka leb n gomd ye. Yaa rẽ n kɩt t'a yãbdẽ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-021",
@@ -945,7 +1579,19 @@
    "texte": "Ses larmes de honte coulèrent le long de son museau, et y laissèrent deux traits noirs.",
    "genre": "adulte/libre",
    "duree_ms": 4900,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "A ka maroya kosɔn, a ɲaji jigira k'a ɲada datugu.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A yãnde nintãm yii a nifẽ, n bas zĩn-dãmb a yiib sẽn ya wĩndgo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-022",
@@ -961,7 +1607,19 @@
    "texte": "Elle eut beau frotter, ils ne partirent plus.",
    "genre": "adulte/libre",
    "duree_ms": 3200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O kɔ, a y'a fɔ o ye ko: \"Aw kana bɔ yan tuun.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A sẽn wa n tãag-a wã, b pa le yik ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-023",
@@ -977,7 +1635,19 @@
    "texte": "Depuis ce jour, toutes les gazelles portent ces deux traits. Et le caméléon, lui, avance toujours sans se presser.",
    "genre": "adulte/libre",
    "duree_ms": 8500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Kabi o wagati, gazelɔnw bɛɛ b'o jogo fila lo yira. Kameliyɔnw kɔni, u tɛ teliya ka taga.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Sẽn sɩng ne rũndã-rũndã, gazelã fãa tara zʋg-kãensã a yiibã. La kameleõ wã ket n kẽndame, la a pa yãgdẽ ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   }
  ]
 }

@@ -51,6 +51,18 @@
 - **Performance :** 4 000 à 41 000 triangles par décor. La qualité baisse toute seule si l'image ralentit : moins de pixels, puis plus d'ombres.
 - **Tests de bout en bout :** les 34 histoires sont jouées en mode lecture, trop lentes en 3D sur le rendu logiciel des tests. Trois histoires sont jouées en 3D sur grand écran. Le rendu n'a pas été mesuré sur un vrai téléphone.
 
+## Films
+
+- **Nouvelle chaîne (2026-11-02) :** personnages 3D animés dans Three.js, export en vidéo, montage des pistes dans un logiciel dédié, lecture de la vidéo sur le site. Le site n'embarque plus d'animation : seulement des vidéos et le jeu. Le mode d'emploi est dans `films3d/GUIDE-MONTAGE.md`.
+- **Une image, une piste par langue :** les navigateurs ne laissent pas choisir de façon fiable une piste dans un MP4, et un MP4 par langue dépasserait la limite de GitHub Pages. Le lecteur joue donc une vidéo muette et un fichier audio, tenus en phase (écart maximal de 0,25 s).
+- **Textes à l'écran :** ils ne sont pas dans l'image. Le lecteur les affiche et les traduit, ce qui tient la règle d'origine des textes isolés par langue.
+- **Avancement :** seul le film pilote (n° 3, Wuro et le pilon) est refait en 3D. Les autres restent en stickman, signalés « version provisoire », pour qu'aucune fiche ne perde son film.
+- **Son :** aucune piste n'est encore montée. Les pistes actuelles sont des mélanges automatiques de l'ancien son, avec une voix de synthèse signalée comme provisoire sur le lecteur. Le cahier exclut le doublage par IA : écart assumé par l'équipe pour le rendu, signalé sur le site et dans le rapport, à remplacer par de vraies voix.
+- **Minutages :** le pilote garde ceux de son script de voix off, pour réutiliser scripts, sous-titres et feuilles de traduction.
+- **Wuro :** le modèle `createur` porte une auréole et une robe claire, ce qui peut évoquer l'imagerie chrétienne dans un mythe bwa. À revoir avec un connaisseur, comme le reste de l'adaptation.
+- **Gestes :** les gestes des films ne sont que dans `films3d/modeles`, pour ne pas alourdir les modèles du jeu (env. 200 Ko de plus par personnage).
+- **Ancien site des films :** `site/`, `histoires/`, `lib/` restent sur gh-pages, sans lien depuis le site. À retirer quand tous les films seront refaits, avec l'étape correspondante de `deploy.yml`.
+
 ## Patrimoine
 
 - **Fidélité :** ce sont des interprétations d'après des notices de musée et des descriptions, sans relevé ni photo de référence intégrée. Chaque fiche porte un champ `fidelite`. La demande « tous les motifs et détails » n'est pas atteinte : elle demande des photos de pièces réelles et une relecture par des connaisseurs.
@@ -82,11 +94,10 @@
 - **Liste des phrases :** l'interface est extraite du code par `scripts/medias.js`. Une phrase composée à l'affichage peut y échapper, et reste alors en français.
 - **Sous-titres :** ceux du lecteur audio ne passent par ce fichier que s'ils reprennent exactement une phrase de la fiche.
 - **Anglais :** traduction de travail, partielle, pour montrer le résultat : l'interface principale, Yennenga et La gazelle.
-- **Langues nationales :** aucun texte. Je n'ai pas écrit de traduction qu'un locuteur n'aurait pas relue.
+- **Langues nationales (décision de l'équipe du 2026-11-03, faute de temps) :** chaque histoire est traduite et dite automatiquement dans deux langues tirées au sort parmi le mooré, le dioula et le fulfulde : film, sous-titres, texte de la fiche et jeu (`scripts/voix_mms.py`, tirage dans `animations/doublage/traductions-auto/tirage.json`). Aucun locuteur n'a relu. La retraduction du pilote montrait de nombreux contresens ; les reformulations et le choix par retraduction les réduisent sans les supprimer. Le fulfulde est celui du Nigeria côté traduction. Le modèle mooré n'a pas de « h ». Une seule voix par langue. Une traduction humaine écrite dans `traduction.csv` prime : il faut alors relancer le script.
 - **Voix :** `<histoire>-<partie>-<langue>.m4a`, à enregistrer avec Audacity une fois l'idée validée par l'équipe. Aucune n'existe encore.
 - **Intonation, âge, sexe, durée :** proposés automatiquement pour le jeu, à ajuster par le directeur de doublage. Les films gardent le ton et le minutage de leur script.
 
 ## Pour plus tard
 
 - **Objets sacrés :** à vérifier plus tard, faute de temps (molo, bateba, liés à l'initiation et aux autels).
-- **Films :** remplacer les films stickman par des animations Three.js exportées en vidéo.

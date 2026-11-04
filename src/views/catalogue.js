@@ -10,7 +10,7 @@ export async function monter(el, ctx) {
   const localitesParId = Object.fromEntries(localites.map((l) => [l.id, l]));
   const nomRegion = Object.fromEntries(regions.map((r) => [r.id, r.nom]));
   const peuples = [...new Set(recits.map((r) => r.peuple))].sort((a, b) => a.localeCompare(b));
-  const codes = [...new Set(recits.flatMap((r) => [...r.langues, ...Object.keys(r.audio)]))].sort((a, b) => langues[a].localeCompare(langues[b]));
+  const codes = [...new Set(recits.flatMap((r) => [...r.langues, ...Object.keys(r.audio), ...Object.keys(r.texteLocal || {})]))].sort((a, b) => langues[a].localeCompare(langues[b]));
   const regionsAvec = regions.filter((g) => localites.some((l) => l.region === g.id)).sort((a, b) => a.nom.localeCompare(b.nom));
   const options = (l) => l.map(([v, t]) => `<option value="${esc(v)}">${esc(t)}</option>`).join('');
 

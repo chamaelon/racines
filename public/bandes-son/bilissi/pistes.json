@@ -11,55 +11,135 @@
    "id": "titre",
    "type": "titre",
    "chemin": "titre",
-   "texte": "La part de Bilissi"
+   "texte": "La part de Bilissi",
+   "langues": {
+    "dyu": {
+     "texte": "Bilisi ye min kɛ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Hakkiilo Bilissi",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "presentation",
    "type": "presentation",
    "chemin": "presentation",
-   "texte": "Au Macina, Bilissi prend la meilleure part de chaque bête. Tu es Hamadi, jeune berger, et tes enfants ont faim. Comment faire tomber un tyran sans armes ?"
+   "texte": "Au Macina, Bilissi prend la meilleure part de chaque bête. Tu es Hamadi, jeune berger, et tes enfants ont faim. Comment faire tomber un tyran sans armes ?",
+   "langues": {
+    "dyu": {
+     "texte": "Masinɛ kɔnɔ, Bilisi b'a bolofɛnw bɛɛ ta. Ele ye Hamadi le ye, sagagbɛnbaga kanbelen; kɔngɔ bɛ i denw na. I be se ka mɔgɔ fariman dɔ faga cogo di ni marifa t'a fɛ?",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Nder macina, Bilissi hoo'i feccere ɓurɗe fuu. Onon Hamadi, on sukaajo lamɓe, ɓikkoy mooɗon ɗon nyaamdu. Noy mbaawata wurtugo laamiiɗo mo walaa juuɗe?",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "personnages.griot.nom",
    "type": "personnage",
    "chemin": "personnages.griot.nom",
-   "texte": "Le griot"
+   "texte": "Le griot",
+   "langues": {
+    "dyu": {
+     "texte": "Le griot"
+    },
+    "fuf": {
+     "texte": "Le griot"
+    }
+   }
   },
   {
    "id": "personnages.hamadi.nom",
    "type": "personnage",
    "chemin": "personnages.hamadi.nom",
-   "texte": "Hamadi"
+   "texte": "Hamadi",
+   "langues": {
+    "dyu": {
+     "texte": "Hamadi"
+    },
+    "fuf": {
+     "texte": "Hamadi"
+    }
+   }
   },
   {
    "id": "personnages.femme.nom",
    "type": "personnage",
    "chemin": "personnages.femme.nom",
-   "texte": "La femme"
+   "texte": "La femme",
+   "langues": {
+    "dyu": {
+     "texte": "La femme"
+    },
+    "fuf": {
+     "texte": "La femme"
+    }
+   }
   },
   {
    "id": "personnages.bilissi.nom",
    "type": "personnage",
    "chemin": "personnages.bilissi.nom",
-   "texte": "Bilissi"
+   "texte": "Bilissi",
+   "langues": {
+    "dyu": {
+     "texte": "Bilissi"
+    },
+    "fuf": {
+     "texte": "Bilissi"
+    }
+   }
   },
   {
    "id": "personnages.garde.nom",
    "type": "personnage",
    "chemin": "personnages.garde.nom",
-   "texte": "Le garde"
+   "texte": "Le garde",
+   "langues": {
+    "dyu": {
+     "texte": "Le garde"
+    },
+    "fuf": {
+     "texte": "Le garde"
+    }
+   }
   },
   {
    "id": "fins.canon",
    "type": "fin",
    "chemin": "fins.canon",
-   "texte": "Version du griot : la part de Bilissi"
+   "texte": "Version du griot : la part de Bilissi",
+   "langues": {
+    "dyu": {
+     "texte": "Grigot ka fɔta: Bilisi ye min fɔ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Winndannde caggalGriot: darnde Bilissi",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "fins.colere",
    "type": "fin",
    "chemin": "fins.colere",
-   "texte": "Autre chemin : Bilissi reste, et il se méfie"
+   "texte": "Autre chemin : Bilissi reste, et il se méfie",
+   "langues": {
+    "dyu": {
+     "texte": "A ka sira wɛrɛ: Bilisi tora, nka a ma la a yɛrɛ la",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Ɗerewol go'o: Bilissi ɗon jooɗi, o ɗon mbaɗataa",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "n1",
@@ -73,7 +153,23 @@
    "texte": "Au Macina, autrefois, les troupeaux couvraient la plaine. Ce pays aurait pu être heureux, s'il n'avait pas eu Bilissi.",
    "genre": "adulte/homme",
    "duree_ms": 8270,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Wagati tɛmɛninw na, Makina dugu kɔnɔ, sagaw ni baw tun be to ka mara kɛnɛgbɛ la. Ni Bilisi tun tɛ yen, o jamana tun be se ka kɛ hɛɛrɛ la.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 11706,
+     "fichier": "bilissi-n1-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Wakkati mawɗi nder lesdi Makina, yimɓe ɓe'e keewi bee leɗɗe. Luttuɗo leydi ndin heɓan belɗum to Bilissi walaa.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9162,
+     "fichier": "bilissi-n1-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n2",
@@ -87,7 +183,23 @@
    "texte": "La part la plus charnue revient à Bilissi. C'est sa loi.",
    "genre": "adulte/homme",
    "duree_ms": 4780,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "A kɛra ten, mɔgɔ minw tun ka kan k'a ta baaraw bɛɛ kɛ, olugu tun ye Bilisi le ye. O ye a ka sariya ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8954,
+     "fichier": "bilissi-n2-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Ammaa ɓurɗo yiite fuu Bilisi. Kanjum woni sariyaaji maako.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4810,
+     "fichier": "bilissi-n2-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n3",
@@ -101,31 +213,87 @@
    "texte": "Les gardes ne laissent presque rien aux familles. Hamadi regarde les enfants de son campement maigrir. Que fait-il ?",
    "genre": "adulte/homme",
    "duree_ms": 8120,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Kɔlɔsilikɛbagaw tɛ foyi to u ka denbayaw ye. Hamadi tun b'a ɲasin a ta mɔgɔw ma, k'a ye ko o ka denmisɛnw fari fagara. A be mun lo kɛra?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 12084,
+     "fichier": "bilissi-n3-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Gardiiɓe ɗon acca ko'e maɓɓe. Hamadi ɗon yi'a ɓikkoy nder suudu maako ɓe mbaɗi nyaamo. Hol ko o waɗi?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8996,
+     "fichier": "bilissi-n3-fuf.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n3.choices.0.label",
    "type": "choix",
    "chemin": "nodes.n3.choices.0.label",
-   "texte": "Il réfléchit à une ruse"
+   "texte": "Il réfléchit à une ruse",
+   "langues": {
+    "dyu": {
+     "texte": "A ye fɛɛrɛ dɔ ɲini",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "O ɗon ɗaɓɓa laawol",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n3.choices.0.tag",
    "type": "parcours",
    "chemin": "nodes.n3.choices.0.tag",
-   "texte": "une idée"
+   "texte": "une idée",
+   "langues": {
+    "dyu": {
+     "texte": "miiriya dɔ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "miijo",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n3.choices.1.label",
    "type": "choix",
    "chemin": "nodes.n3.choices.1.label",
-   "texte": "Il va se plaindre aux gardes"
+   "texte": "Il va se plaindre aux gardes",
+   "langues": {
+    "dyu": {
+     "texte": "A bena kuma kɔlɔsibagaw fɛ.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "O ɓannginan hooreeɓe gardiiɓe",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n3.choices.1.tag",
    "type": "parcours",
    "chemin": "nodes.n3.choices.1.tag",
-   "texte": "plainte"
+   "texte": "plainte",
+   "langues": {
+    "dyu": {
+     "texte": "ka kuma",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "jaabaade",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "plainte",
@@ -139,7 +307,23 @@
    "texte": "Te plaindre ? Encore un mot, et ta bête aussi sera pour lui.",
    "genre": "adulte/homme",
    "duree_ms": 5690,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Yala i b'i yɛrɛ jalaki wa? Ni a ka kuma kelen fɔ tuun, i ta bɛgan fana bɛna kɛ a ta ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6954,
+     "fichier": "bilissi-plainte-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Ma'ajugo? Ɗo'ol wolde go'oto, ngam maajum dabbaaji maaɗa boo keɓan maako.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6170,
+     "fichier": "bilissi-plainte-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n4",
@@ -153,7 +337,23 @@
    "texte": "La force ne l'aidera pas. Il faut autre chose.",
    "genre": "adulte/homme",
    "duree_ms": 4020,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Fanga tɛna se k'a dɛmɛ. An mako be fɛɛn wɛrɛ la.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3994,
+     "fichier": "bilissi-n4-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Nguurndam waawataa wallude mo. Ɗu'um ɗon yiɗi feere.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3962,
+     "fichier": "bilissi-n4-fuf.m4a"
+    }
+   }
   },
   {
    "id": "ruse",
@@ -167,7 +367,23 @@
    "texte": "Il aime la meilleure part ? Il va l'avoir.",
    "genre": "jeune/homme",
    "duree_ms": 4020,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "A b'a fɛ ka koo bɛɛ kɛ a ɲɛɛ na wa? A bena a sɔrɔ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4586,
+     "fichier": "bilissi-ruse-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "O yiɗi ɓurɗum? O heɓan mo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2810,
+     "fichier": "bilissi-ruse-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n5",
@@ -181,7 +397,23 @@
    "texte": "Dans la nuit, ils préparent un morceau magnifique. Regarde ce qu'il y a dans la cour.",
    "genre": "adulte/homme",
    "duree_ms": 6830,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Sɔgɔma, u be dumuniba labɛn. A filɛ, fɛɛn min be luu kɔnɔ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5354,
+     "fichier": "bilissi-n5-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Nder jemma, ɓe mbaɗata kuugal mawnde. Ndaa ko woni nder suudu.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4506,
+     "fichier": "bilissi-n5-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n6",
@@ -195,31 +427,87 @@
    "texte": "Avec quoi Hamadi remplit-il le morceau ?",
    "genre": "adulte/homme",
    "duree_ms": 2960,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Hamadi be mun lo kɛ k'o yɔrɔ fa?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2672,
+     "fichier": "bilissi-n6-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Ko honɗun Hamadi ƴuurata ?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2288,
+     "fichier": "bilissi-n6-fuf.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n6.choices.0.label",
    "type": "choix",
    "chemin": "nodes.n6.choices.0.label",
-   "texte": "Du piment, et par-dessus du beurre doré"
+   "texte": "Du piment, et par-dessus du beurre doré",
+   "langues": {
+    "dyu": {
+     "texte": "Min ye simankisɛ ye, ani sanu manamanatɔ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Ceygel, e dow ƴiiƴam jaŋde",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n6.choices.0.tag",
    "type": "parcours",
    "chemin": "nodes.n6.choices.0.tag",
-   "texte": "piment"
+   "texte": "piment",
+   "langues": {
+    "dyu": {
+     "texte": "pikiri",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "ɓesngu",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n6.choices.1.label",
    "type": "choix",
    "chemin": "nodes.n6.choices.1.label",
-   "texte": "Des cailloux, bien cachés"
+   "texte": "Des cailloux, bien cachés",
+   "langues": {
+    "dyu": {
+     "texte": "Kabakuru minw dogonin lo koɲuman",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Ɗee kaaƴe ɓoyɗe",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n6.choices.1.tag",
    "type": "parcours",
    "chemin": "nodes.n6.choices.1.tag",
-   "texte": "cailloux"
+   "texte": "cailloux",
+   "langues": {
+    "dyu": {
+     "texte": "kabakuruw",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "koƴe",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "cailloux",
@@ -233,7 +521,23 @@
    "texte": "Des cailloux ? Il les sentira à la première bouchée, et il saura qui les a mis. Prends plutôt du piment, et couvre-le de beurre.",
    "genre": "adulte/femme",
    "duree_ms": 10700,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Yala kabakuruw lo? Ni a kɔnna ka o domu tuma min na, a bɛna o ye. A bɛna a lɔn ko jɔn le k'a bla. Nka, i ka pikiri dɔ ta k'a kɛ mugu ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 11870,
+     "fichier": "bilissi-cailloux-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Kamɓe ? Nde o fuɗɗi nyaamugo ɗi, o anndi ko waɗi ɗe. Ammaa hoo'u peppere, ɓooyi ɗum bee ƴiiƴam.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8420,
+     "fichier": "bilissi-cailloux-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n7",
@@ -247,31 +551,87 @@
    "texte": "Veux-tu l'écouter ?",
    "genre": "adulte/homme",
    "duree_ms": 1440,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Yala i b'a fɛ k'a lamɛn wa?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2192,
+     "fichier": "bilissi-n7-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "A yiɗi nanugo haala maako?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2128,
+     "fichier": "bilissi-n7-fuf.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n7.choices.0.label",
    "type": "choix",
    "chemin": "nodes.n7.choices.0.label",
-   "texte": "Oui, va pour le piment"
+   "texte": "Oui, va pour le piment",
+   "langues": {
+    "dyu": {
+     "texte": "Ɔnhɔn, taga pikiri ɲini.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Yeah, go for the pepper",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n7.choices.0.tag",
    "type": "parcours",
    "chemin": "nodes.n7.choices.0.tag",
-   "texte": "piment"
+   "texte": "piment",
+   "langues": {
+    "dyu": {
+     "texte": "pikiri",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "ɓesngu",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n7.choices.1.label",
    "type": "choix",
    "chemin": "nodes.n7.choices.1.label",
-   "texte": "Non, je garde mes cailloux"
+   "texte": "Non, je garde mes cailloux",
+   "langues": {
+    "dyu": {
+     "texte": "Ayi, ne be n ka kabakuruw mara.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Naa, mi ɗowtani kaaƴe am",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n7.choices.1.tag",
    "type": "parcours",
    "chemin": "nodes.n7.choices.1.tag",
-   "texte": "cailloux gardés"
+   "texte": "cailloux gardés",
+   "langues": {
+    "dyu": {
+     "texte": "kabakuru minw maranin be",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "kaaƴe ɓeydiiɗe",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "casse",
@@ -285,7 +645,23 @@
    "texte": "Bilissi mord, crache une dent, et fait battre le campement. On ne rit pas. Le tyran reste, et désormais il fait goûter tout ce qu'on lui sert.",
    "genre": "adulte/homme",
    "duree_ms": 11610,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Bilisi y'a kin, k'a ɲin dɔ bɔ a kaan na. An tɛ yɛlɛko kɛ. O tuma ra, mɔgɔjugu nin tora a yɛrɛ kɔrɔ, k'a to an ye fɛn o fɛn di a ma k'o domu.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 13140,
+     "fichier": "bilissi-casse-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Bilissi nyaami, o maɓɓi cukalel, nden o waɗani yimɓe ɓe'e. En njettaa. O ɗon jooɗoto, ammaa daga jooni o ɗon hokkamo ko'e maako fuu.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 11828,
+     "fichier": "bilissi-casse-fuf.m4a"
+    }
+   }
   },
   {
    "id": "piment",
@@ -299,7 +675,23 @@
    "texte": "Et s'il comprend ?",
    "genre": "adulte/femme",
    "duree_ms": 1820,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "N'a y'o faamu, mun lo bena kɛ do?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2400,
+     "fichier": "bilissi-piment-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "To o faami?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 1104,
+     "fichier": "bilissi-piment-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n8",
@@ -313,7 +705,23 @@
    "texte": "Il ne regarde que la viande.",
    "genre": "jeune/homme",
    "duree_ms": 2580,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "A be sogo dɔrɔn lo filɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 1856,
+     "fichier": "bilissi-n8-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "O ɗon ɗaɓɓa tan nyaamdu.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 1808,
+     "fichier": "bilissi-n8-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n9",
@@ -327,37 +735,103 @@
    "texte": "Le jour du grand sacrifice, les tambours donnent la cadence du cortège. Hamadi doit avancer au rythme, les yeux baissés.",
    "genre": "adulte/homme",
    "duree_ms": 8500,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Ayiwa, sarakaba lon na, burufiyɛkanw le bɛ kɛ sababu ye ka jama ta ɲɔgɔnlajɛn sabati. Hamadi ka kan k'a ɲɛ biri duguma.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 10202,
+     "fichier": "bilissi-n9-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Nder nyalnde sembe kalluɗum, ɓooyaari ɗon kolli ko'e maɓɓe. Hamadi waawi ɓeydaade yeeso, e gite mum'en dow.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8122,
+     "fichier": "bilissi-n9-fuf.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n10.consigne",
    "type": "jeu",
    "chemin": "nodes.n10.consigne",
-   "texte": "Reproduis le rythme du cortège pour arriver sans attirer l'attention."
+   "texte": "Reproduis le rythme du cortège pour arriver sans attirer l'attention.",
+   "langues": {
+    "dyu": {
+     "texte": "N'i b'a fɛ mɔgɔw k'i lasun ka taga, i be se k'o kɛ cogo min na.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Ɗo'o ɗon ɓooya, ngam to' o waraa.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n10.gagne",
    "type": "jeu",
    "chemin": "nodes.n10.gagne",
-   "texte": "Personne ne te regarde : tu arrives devant Bilissi."
+   "texte": "Personne ne te regarde : tu arrives devant Bilissi.",
+   "langues": {
+    "dyu": {
+     "texte": "Mɔgɔ si t'i flɛ: i tagara Bilisi fɛ.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Walaa go'oto ɗon ndaara ma: a wari yeeso Bilissi.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n10.perdu",
    "type": "jeu",
    "chemin": "nodes.n10.perdu",
-   "texte": "Tu trébuches un peu, mais Bilissi ne voit que la viande."
+   "texte": "Tu trébuches un peu, mais Bilissi ne voit que la viande.",
+   "langues": {
+    "dyu": {
+     "texte": "I bɛ talon dɔɔnin, nka Bilisi tɛ foyi ye ni sogo tɛ.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Ammaa Bilisi ɗon yi'a nyaama tan.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n10.tags.win",
    "type": "parcours",
    "chemin": "nodes.n10.tags.win",
-   "texte": "rythme tenu"
+   "texte": "rythme tenu",
+   "langues": {
+    "dyu": {
+     "texte": "a ka kɛcogo",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "ɓeydaaki",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n10.tags.lose",
    "type": "parcours",
    "chemin": "nodes.n10.tags.lose",
-   "texte": "rythme perdu"
+   "texte": "rythme perdu",
+   "langues": {
+    "dyu": {
+     "texte": "ka to k'o kɛ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "ɓeydaaki",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "n11",
@@ -371,7 +845,23 @@
    "texte": "Donne ! C'est ma part !",
    "genre": "adulte/homme",
    "duree_ms": 2880,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "N'a sɔrɔ i be se k'o kɛ. O ye ne ta le ye!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3818,
+     "fichier": "bilissi-n11-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Hokka! Ɗuum woni kuugal am!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2522,
+     "fichier": "bilissi-n11-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n12",
@@ -385,7 +875,23 @@
    "texte": "Bilissi l'engloutit d'un seul coup, sans même mâcher. Le piment ! Il devient rouge, il saute, il hurle. Et pour la première fois, tout le monde ose rire de lui.",
    "genre": "adulte/homme",
    "duree_ms": 13200,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Bilisi k'a domu o yɔrɔnin bɛɛ, a ma foyi kɛ. O ye pikiri ye! A fari wulenna, a be sanfɛla don ani ka kule. A siɲɛ fɔlɔ la, mɔgɔ bɛɛ y'a daminɛ ka yɛlɛ a ma.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 15230,
+     "fichier": "bilissi-n12-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Bilissi nyaami mo nder wakkati go'o, ammaa o maayi. Peppi ! O ɓooyli, o jippini, o boowi. Bana nde fuɗɗoode, yimɓe fuu mbaɗi mo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 10782,
+     "fichier": "bilissi-n12-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n13",
@@ -399,7 +905,23 @@
    "texte": "Un tyran dont on se moque ne fait plus peur. Bilissi, ridiculisé, quitte le pays, et on partage enfin la viande entre toutes les familles.",
    "genre": "adulte/homme",
    "duree_ms": 10550,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Mɔgɔjugu min koo man di mɔgɔ ye, o tigi tɛ siran tugun. O bɛɛ n'a ta, o ka kan k'o sogo di denbaya bɛɛ ma.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9578,
+     "fichier": "bilissi-n13-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Luttuɗo mo ɓe njogii ɗon hulɓinaay. Ɓe njanngini mo, ɓe mbi'i: \"Ndaa, aɗa anndi ma\".",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6500,
+     "fichier": "bilissi-n13-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n14",
@@ -413,7 +935,23 @@
    "texte": "Depuis, on dit : la part de Bilissi. C'est la part que prend un puissant, sans la mériter.",
    "genre": "adulte/homme",
    "duree_ms": 7890,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Kabi o tuma, u b'a fɔ ko: \"Bilisi ta ye\". Fanga be mɔgɔ min na, o tigi b'o le ta.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7092,
+     "fichier": "bilissi-n14-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Gila ndeen, ɓe mbi'i: darnde Bilissi. Kanjum woni ko mawɗo waɗata, ammaa o heɓataa.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7700,
+     "fichier": "bilissi-n14-fuf.m4a"
+    }
+   }
   },
   {
    "id": "film-001",
@@ -429,7 +967,19 @@
    "texte": "La part de Bilissi. Une légende peule.",
    "genre": "adulte/libre",
    "duree_ms": 4200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Bilisi ye min kɛ. O tun ye maana dɔ ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Fedde Bilissi. Gooto gootol.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-002",
@@ -445,7 +995,19 @@
    "texte": "Au Macina, autrefois, les troupeaux couvraient la plaine.",
    "genre": "adulte/libre",
    "duree_ms": 4300,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Wagati tɛmɛninw na, Makina dugu kɔnɔ, sagaw ni baw tun be to ka mara kɛnɛgbɛ la.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Wakkati mawɗi nder lesdi Makina, yimɓe ɓe'e keewi bee leɗɗe.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-003",
@@ -461,7 +1023,19 @@
    "texte": "Ce pays aurait pu être heureux, s'il n'avait pas eu Bilissi.",
    "genre": "adulte/libre",
    "duree_ms": 4100,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Ni Bilisi tun tɛ yen, o jamana tun be se ka kɛ hɛɛrɛ la.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Luttuɗo leydi ndin heɓan belɗum to Bilissi walaa.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-004",
@@ -477,7 +1051,19 @@
    "texte": "Bilissi était un tyran. Gros, content de lui, il se faisait servir toute la journée.",
    "genre": "adulte/libre",
    "duree_ms": 6900,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Bilisi tun ye mɔgɔ fariman dɔ ye. A tun ka fisa n'a ye ani a tun be baara kɛ n'u ye tile kɔnɔ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Bilissi laati mawɗo. Ɗuum ɓeydaama, eɗen nganndi ɗum.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-005",
@@ -493,7 +1079,19 @@
    "texte": "Il mangeait, il mangeait, et ensuite, il mangeait encore.",
    "genre": "adulte/libre",
    "duree_ms": 4700,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "A tun be dumuni kɛra, ka dumuni kɛ. O kɔ, a tun b'a fɛ ka dumuni wɛrɛ kɛ fana.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "O nyaami, o nyaami.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-006",
@@ -509,7 +1107,19 @@
    "texte": "Et il avait fait sa loi.",
    "genre": "adulte/libre",
    "duree_ms": 2300,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "A y'a ka sariya labato.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "O waɗi tawreeta maako.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-007",
@@ -525,7 +1135,19 @@
    "texte": "Quand on sacrifiait une bête, la part la plus charnue lui revenait.",
    "genre": "adulte/libre",
    "duree_ms": 4400,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Ni mɔgɔ tun b'a fɛ ka begɛn dɔ faga, a tun ka kan k'a ninyɔrɔ sɔrɔ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "To goɗɗo sakkitii dabbaaji, o heɓata ko ɓurɗo fuu.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-008",
@@ -541,7 +1163,19 @@
    "texte": "Ses gardes passaient partout, et ils ne laissaient presque rien aux familles, qui avaient faim.",
    "genre": "adulte/libre",
    "duree_ms": 5400,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "A ta baaradenw tun bɛ yaala fan bɛɛ ra, o ma foyi to kɔngɔtɔw ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Gardiiɓe maako ndilli haa nokkuure fuu, ɓe accaay kooɗume ngam nyaamdu.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-009",
@@ -557,7 +1191,19 @@
    "texte": "Hamadi, un jeune berger, regardait les enfants de son campement maigrir.",
    "genre": "adulte/libre",
    "duree_ms": 5300,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Hamadi tun ye sagagbɛnbaga kanbelen dɔ le ye. A tun b'a ta fanibon kɔnɔ, a tun bɛ den fitininw fari fagako flɛra.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Hamadi, mawɗo lamɓe, o ɗon yi'i ɓikkoy nder suudu maako ɓe ngaɗata.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-010",
@@ -573,7 +1219,19 @@
    "texte": "Et soudain, il eut une idée.",
    "genre": "adulte/libre",
    "duree_ms": 2800,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O kɔ, a ye miiriya dɔ sɔrɔ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Ɗon e ɗon o heɓii miijo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-011",
@@ -589,7 +1247,19 @@
    "texte": "Il aime la meilleure part ? Il va l'avoir.",
    "genre": "adulte/homme",
    "duree_ms": 3300,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "A b'a fɛ ka koo bɛɛ kɛ a ɲɛɛ na wa? A bena a sɔrɔ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "O yiɗi ɓurɗum? O heɓan mo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-012",
@@ -605,7 +1275,19 @@
    "texte": "Dans la nuit, ils préparèrent un morceau magnifique, et ils le remplirent de piment.",
    "genre": "adulte/libre",
    "duree_ms": 5400,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Nka su fɛ, o ka domuniba dɔ tobi k'a fa simankisɛ ra.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Nde jemma waɗi, ɓe cuɓii ceede mawnde, ɓe keewi ɗum.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-013",
@@ -621,7 +1303,19 @@
    "texte": "Puis ils le couvrirent de beurre doré. Il paraissait encore plus beau.",
    "genre": "adulte/libre",
    "duree_ms": 5100,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O kɔ, o ka turu kasadiman dɔ kɛ a ra. A tun ka ɲi yɛrɛ le.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Sey ɓe mbi'i: \"Ndaa! O ɗon yi'i ɓeydaago boo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-014",
@@ -637,7 +1331,19 @@
    "texte": "Et s'il comprend ?",
    "genre": "adulte/femme",
    "duree_ms": 1900,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "N'a y'o faamu, mun lo bena kɛ do?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "To o faami?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-015",
@@ -653,7 +1359,19 @@
    "texte": "Il ne regarde que la viande.",
    "genre": "adulte/homme",
    "duree_ms": 2200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "A be sogo dɔrɔn lo filɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "O ɗon ɗaɓɓa tan nyaamdu.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-016",
@@ -669,7 +1387,19 @@
    "texte": "Le jour du grand sacrifice, Hamadi présenta la part de Bilissi, les yeux baissés.",
    "genre": "adulte/libre",
    "duree_ms": 5900,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Ayiwa, lon min na o tun bɛ sarakaba bɔ Matigi Ala ye, Hamadi k'a ɲa biri dugu ma ka Bilisi ta siman di.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Nder nyalnde sarru mawndu, Hamadi wurtini Bilissi jawdi maako.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-017",
@@ -685,7 +1415,19 @@
    "texte": "Bilissi l'engloutit d'un seul coup, sans même mâcher.",
    "genre": "adulte/libre",
    "duree_ms": 4000,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Bilisi k'a domu o yɔrɔnin bɛɛ, a ma foyi kɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Bilissi nyaami mo nder wakkati go'o, ammaa o maayi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-018",
@@ -701,7 +1443,19 @@
    "texte": "Le piment ! Il devint rouge, il sauta, il hurla.",
    "genre": "adulte/libre",
    "duree_ms": 4800,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O ye pikiri ye! A kɛra i n'a fɔ a wulenna.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Peppi ! O jeyaa, o jippii, o boowi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-019",
@@ -717,7 +1471,19 @@
    "texte": "Et pour la première fois, tout le monde osa rire de lui.",
    "genre": "adulte/libre",
    "duree_ms": 3800,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "A siɲɛ fɔlɔ la, mɔgɔ bɛɛ y'a daminɛ ka yɛlɛ a ma.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "E nde fuɗɗoode, yimɓe fuu ɓe njetta mo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-020",
@@ -733,7 +1499,19 @@
    "texte": "Un tyran dont on se moque ne fait plus peur.",
    "genre": "adulte/libre",
    "duree_ms": 3400,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Mɔgɔjugu min koo man di mɔgɔ ye, o tigi tɛ siran tugun.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Luttuɗo mo ɓe njogii ɗon hulɓinaay.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-021",
@@ -749,7 +1527,19 @@
    "texte": "Bilissi, ridiculisé, quitta le pays.",
    "genre": "adulte/libre",
    "duree_ms": 4100,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "U y'a lɔgɔbɔ ani a bɔra jamana na.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Bilissi, ɓe njogii mo, o dilli leydi ndi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-022",
@@ -765,7 +1555,19 @@
    "texte": "Ce jour-là, on partagea enfin la viande comme il faut, entre toutes les familles.",
    "genre": "adulte/libre",
    "duree_ms": 5400,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Ayiwa, o lon yɛrɛ ra, an ka sogo taran ka kaɲa ni sariya ye, k'a di denbaya bɛɛ ma.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Nder nyalnde nde'e ɓe keɓi nyaamdu dow yimɓe fuu.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-023",
@@ -781,7 +1583,19 @@
    "texte": "Depuis, on dit : la part de Bilissi. C'est la part que prend un puissant, sans la mériter.",
    "genre": "adulte/libre",
    "duree_ms": 7300,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Kabi o tuma, u b'a fɔ ko: \"Bilisi ta ye\". Fanga be mɔgɔ min na, o tigi b'o le ta.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Gila ndeen, ɓe mbi'i: darnde Bilissi. Kanjum woni ko mawɗo waɗata, ammaa o heɓataa.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   }
  ]
 }

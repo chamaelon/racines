@@ -32,7 +32,8 @@ export async function monter(el) {
     </ul>
 
     <h2>Les films d'animation</h2>
-    <p>Trente de ces récits existent aussi en film stickman, avec voix de synthèse, ambiance et musique. Ces films et le studio de doublage restent accessibles : <a href="site/index.html">carte-globe et films</a>, <a href="site/studio.html">studio de doublage</a>.</p>
+    <p>Trente de ces récits existent aussi en film. Les films sont animés en 3D avec les personnages du jeu, exportés en vidéo, puis montés avec leurs pistes sonores. Une seule image pour toutes les langues : c'est la piste audio qui change. Les films pas encore refaits en 3D restent, pour l'instant, dans leur ancienne version stickman, avec une voix de synthèse provisoire.</p>
+    <p>Chaque histoire existe aussi dans deux langues nationales tirées au sort parmi le mooré, le dioula et le fulfulde : film, sous-titres, texte et jeu. Ces versions sont produites par des modèles automatiques (NLLB-200 pour la traduction, MMS-TTS pour la voix, tous deux de Meta, sous licence non commerciale). Aucun locuteur ne les a relues : elles contiennent des erreurs et ne remplacent pas un vrai doublage. Le français reste la version de référence.</p>
 
     <h2>Crédits</h2>
     <ul>

@@ -10,6 +10,10 @@ intonation: posé (proposée)
 texte: Zenuo était chasseur. Il connaissait la brousse mieux que personne. Mais au village, les familles ne s'entendent plus sur les limites des champs.
 genre: adulte/homme
 duree: 9790ms (estimée)
+texte_dyu: Zenuo tun ye jagokɛla ye. A tun b'o yiritu lɔn ka tɛmɛ mɔgɔ si kan. Nka, dugumɔgɔw tun tɛ se ka bɛn u ka foro daan na tugun.
+enregistre_dyu: zenuo-n1-dyu.m4a (10148ms)
+texte_mos: A Zenuo ra yaa zabd. A ra mii weoogã sõma n yɩɩd ned baa a yen. La zak rãmb sẽn be tẽn-kãng pʋgẽ wã, b pa le wʋmd taab t'a zemse.
+enregistre_mos: zenuo-n1-mos.m4a (12340ms)
 
 piste: n2
 histoire: Zenuo, le premier Dagara
@@ -20,6 +24,10 @@ intonation: vif (proposée)
 texte: Ce champ n'est pas à toi !
 genre: âgé/homme
 duree: 2960ms (estimée)
+texte_dyu: O foro tɛ i ta ye!
+enregistre_dyu: zenuo-n2-dyu.m4a (1728ms)
+texte_mos: Ka yãmb pʋʋgã ye!
+enregistre_mos: zenuo-n2-mos.m4a (1648ms)
 
 piste: n3
 histoire: Zenuo, le premier Dagara
@@ -30,6 +38,10 @@ intonation: interrogatif (proposée)
 texte: Encore une dispute de terres. Que décident Zenuo et Nyolé ?
 genre: adulte/homme
 duree: 4780ms (estimée)
+texte_dyu: Fɛɛn dɔw koo la, u ye ɲɔgɔn sɔsɔ tugun. Zenuo ni Nyolé ye mun lo fɔ?
+enregistre_dyu: zenuo-n3-dyu.m4a (5130ms)
+texte_mos: Bũmb a to sẽn be tẽn-gãongã poorẽ. Bõe la a Zenuo ne a Nyolé yãk yam n na n maane?
+enregistre_mos: zenuo-n3-mos.m4a (6362ms)
 
 piste: rester
 histoire: Zenuo, le premier Dagara
@@ -40,6 +52,10 @@ intonation: posé (proposée)
 texte: Ils discutent toute une saison. Au bout du compte, chacun garde sa colère, et personne n'a plus envie de semer.
 genre: adulte/homme
 duree: 8500ms (estimée)
+texte_dyu: U be baro kɛra saan kelen kɔnɔ. A laban, mɔgɔ bɛɛ b'a ta jusugban kɔrɔsi; mɔgɔ si t'a fɛ ka siman dan.
+enregistre_dyu: zenuo-rester-dyu.m4a (8036ms)
+texte_mos: B sõsda wakat fãa. Ned kam fãa sũ-puugrã zãadame, la ned baa a yen ka na n bʋd bõn-buud ye.
+enregistre_mos: zenuo-rester-mos.m4a (7946ms)
 
 piste: partir
 histoire: Zenuo, le premier Dagara
@@ -50,6 +66,10 @@ intonation: chuchoté (proposée)
 texte: Ils prennent leurs affaires, et leur chien avec eux. Le soir, ils s'arrêtent près d'un feu et regardent les étoiles.
 genre: adulte/homme
 duree: 8500ms (estimée)
+texte_dyu: U be taga n'u ka minanw ye. Wuladafɛ, u tun lɔnin be tasuma gɛrɛfɛ ka lolow filɛ.
+enregistre_dyu: zenuo-partir-dyu.m4a (7530ms)
+texte_mos: B rɩka b teedã, la b rɩkda b karen-biiga. La yʋngo, b ra bee bugum sɛɛgẽ n get ãdsã.
+enregistre_mos: zenuo-partir-mos.m4a (8538ms)
 
 piste: n4
 histoire: Zenuo, le premier Dagara
@@ -60,6 +80,10 @@ intonation: interrogatif (proposée)
 texte: Un jour, un fleuve large leur barre la route : la Volta noire. Comment passer ?
 genre: adulte/homme
 duree: 6980ms (estimée)
+texte_dyu: Loon dɔ, baji belebeleba dɔ tun b'u bali ka taga. I be se ka tɛmɛ cogo di?
+enregistre_dyu: zenuo-n4-dyu.m4a (6362ms)
+texte_mos: Daar a ye, koom-koglg sẽn yaa kãenkãe n gɩdg b sorã: Volta sẽn ya wĩntoogã. Wãn to la d tõe n kẽ?
+enregistre_mos: zenuo-n4-mos.m4a (8180ms)
 
 piste: nage
 histoire: Zenuo, le premier Dagara
@@ -70,6 +94,10 @@ intonation: posé (proposée)
 texte: Le courant est trop fort. Ils reviennent sur la rive, trempés, et Zenuo prend sa hache : il creuse une pirogue.
 genre: adulte/homme
 duree: 9030ms (estimée)
+texte_dyu: Jii fanga ka bon kojugu. O sekɔra ka na fɔ bada ra, k'a sɔrɔ o bɛɛ tun sunɔgɔra. Zeno ka a ta wɔrɔsɔ ta; a ka kurun dɔ sogi.
+enregistre_dyu: zenuo-nage-dyu.m4a (10846ms)
+texte_mos: Tʋʋmã pãng yaa wʋsgo. B lebg n waa koom-koglgẽ, la a Zenuo rɩka a naandg t'a kogl koom-koakã.
+enregistre_mos: zenuo-nage-mos.m4a (8666ms)
 
 piste: pirogue
 histoire: Zenuo, le premier Dagara
@@ -80,6 +108,10 @@ intonation: posé (proposée)
 texte: Sur l'autre rive, tout est nouveau. Mais où s'arrêter ? Zenuo attend un signe. Observe bien.
 genre: adulte/homme
 duree: 7430ms (estimée)
+texte_dyu: O yɔrɔ la, koo bɛɛ ye kura ye. Nka, an be se ka lɔ yɔrɔ juman? Zenuo be tagamasiyɛn dɔ kɔnɔna. I janto a la koɲuman.
+enregistre_dyu: zenuo-pirogue-dyu.m4a (9678ms)
+texte_mos: Tẽngã sẽn be tẽn-zẽngã, bũmb fãa yaa paalga. La zĩ-bʋs la d tõe n bas-a? Zenuo gũuda makre. Ges-y neere.
+enregistre_mos: zenuo-pirogue-mos.m4a (10078ms)
 
 piste: n6
 histoire: Zenuo, le premier Dagara
@@ -90,6 +122,10 @@ intonation: interrogatif (proposée)
 texte: Que fait Zenuo devant cet arbre ?
 genre: adulte/homme
 duree: 2960ms (estimée)
+texte_dyu: Zenuo be mun le kɛra yiri nin kɔrɔ?
+enregistre_dyu: zenuo-n6-dyu.m4a (2512ms)
+texte_mos: Bõe la a Zenuo maand tɩɩgã taoore?
+enregistre_mos: zenuo-n6-mos.m4a (2432ms)
 
 piste: loin
 histoire: Zenuo, le premier Dagara
@@ -100,6 +136,10 @@ intonation: posé (proposée)
 texte: Ils marchent encore. Des arbres, ils en verront d'autres, mais plus de pintades. C'est une fin imaginée : la légende, elle, s'arrête à l'arbre.
 genre: adulte/homme
 duree: 10770ms (estimée)
+texte_dyu: U bele be tagama. Yiri dɔw, u bena yiri wɛrɛw ye. Nka o tɛna kɛ yiriw ye tugu. O ye finko dɔ ye min tun b'a yɛrɛ kɔnɔna.
+enregistre_dyu: zenuo-loin-dyu.m4a (10430ms)
+texte_mos: B ket n kẽndame. B na n yãa tɩɩs a taaba, la b pa na n yãg-b ye. Yaa bõn-kãng n kɩt tɩ nebã tagsdẽ t'a yaa bũmb sẽn pa tõe n maan ye.
+enregistre_mos: zenuo-loin-mos.m4a (11172ms)
 
 piste: arc
 histoire: Zenuo, le premier Dagara
@@ -110,6 +150,10 @@ intonation: posé (proposée)
 texte: C'est ici, Nyolé. C'est ici.
 genre: adulte/homme
 duree: 2650ms (estimée)
+texte_dyu: A be yan, Nyolé. A be yan.
+enregistre_dyu: zenuo-arc-dyu.m4a (2890ms)
+texte_mos: Yaa be, a Nyolé. Yaa be bala.
+enregistre_mos: zenuo-arc-mos.m4a (2234ms)
 
 piste: n7
 histoire: Zenuo, le premier Dagara
@@ -120,6 +164,10 @@ intonation: posé (proposée)
 texte: Ensemble, ils bâtissent une case ronde et préparent le premier champ. D'autres familles arrivent. Un enfant naît. Le village a commencé.
 genre: adulte/homme
 duree: 9330ms (estimée)
+texte_dyu: O ka o ta forow bɛɛ lɔ ɲɔgɔn fɛ, k'a kɛ yɔrɔɲumanw ye. Denmisɛn wɛrɛw be nana. Denɲɛnin dɔ be wolo. Dugu daminɛna.
+enregistre_dyu: zenuo-n7-dyu.m4a (10782ms)
+texte_mos: B ra tara taab n me zĩiga, la b segenda zĩig ning sẽn yaa pipi wã. Neb a taab n watame. Biiga rogdame. Tẽngã sɩngame.
+enregistre_mos: zenuo-n7-mos.m4a (11406ms)
 
 piste: n8
 histoire: Zenuo, le premier Dagara
@@ -130,6 +178,10 @@ intonation: posé (proposée)
 texte: Ainsi, dit la légende, naquit le peuple des descendants de Zenuo.
 genre: adulte/homme
 duree: 4780ms (estimée)
+texte_dyu: Lɔnnikɛla dɔ y'a fɔ ko Zenuw bɔnsɔnw lo sɔrɔla o la.
+enregistre_dyu: zenuo-n8-dyu.m4a (3584ms)
+texte_mos: Bãngr-gomdã yetame tɩ yaa woto la b dog a Zeno nebã.
+enregistre_mos: zenuo-n8-mos.m4a (4464ms)
 
 piste: film-001
 histoire: Zenuo, le premier Dagara
@@ -140,6 +192,8 @@ intonation: solennel (scénario)
 texte: Zenuo, le premier Dagara. Une légende fondatrice.
 genre: adulte/libre
 duree: 5400ms (mesurée sur le film)
+texte_dyu: Zenuo, min ye Dagara fɔlɔ ye. Ale lo ye Ala ka danbaga ye.
+texte_mos: A Zenuo, a Dagara pipi soabã. Ned sẽn da yaa ned ning sẽn lugl-a tẽngã.
 
 piste: film-002
 histoire: Zenuo, le premier Dagara
@@ -150,6 +204,8 @@ intonation: posé (proposée)
 texte: Zenuo était chasseur. Il connaissait la brousse mieux que personne.
 genre: adulte/libre
 duree: 5500ms (mesurée sur le film)
+texte_dyu: Zenuo tun ye jagokɛla ye. A tun b'o yiritu lɔn ka tɛmɛ mɔgɔ si kan.
+texte_mos: A Zenuo ra yaa zabd. A ra mii weoogã sõma n yɩɩd ned baa a yen.
 
 piste: film-003
 histoire: Zenuo, le premier Dagara
@@ -160,6 +216,8 @@ intonation: lassé (scénario)
 texte: Encore une dispute de terres.
 genre: adulte/homme
 duree: 2300ms (mesurée sur le film)
+texte_dyu: Fɛɛn dɔw koo la, u ye ɲɔgɔn sɔsɔ tugun.
+texte_mos: Bũmb a to sẽn be tẽn-gãongã poorẽ.
 
 piste: film-004
 histoire: Zenuo, le premier Dagara
@@ -170,6 +228,8 @@ intonation: posé (proposée)
 texte: Au village, les familles ne s'entendaient plus sur les limites des champs.
 genre: adulte/libre
 duree: 4500ms (mesurée sur le film)
+texte_dyu: Dugumɔgɔw tun tɛ se ka bɛn u ka foro daan na tugun.
+texte_mos: Roagdbã sẽn da be tẽn-kãng pʋgẽ wã, b ra pa leb n wʋmd taab pʋʋg pʋse wɛɛngẽ ye.
 
 piste: film-005
 histoire: Zenuo, le premier Dagara
@@ -180,6 +240,8 @@ intonation: sévère (scénario)
 texte: Ce champ n'est pas à toi !
 genre: âgé/libre
 duree: 2400ms (mesurée sur le film)
+texte_dyu: O foro tɛ i ta ye!
+texte_mos: Ka yãmb pʋʋgã ye!
 
 piste: film-006
 histoire: Zenuo, le premier Dagara
@@ -190,6 +252,8 @@ intonation: décidé (scénario)
 texte: Allons-nous-en.
 genre: adulte/femme
 duree: 2000ms (mesurée sur le film)
+texte_dyu: An ka taga.
+texte_mos: Bɩ d kẽng.
 
 piste: film-007
 histoire: Zenuo, le premier Dagara
@@ -200,6 +264,8 @@ intonation: calme (scénario)
 texte: Allons chercher notre terre.
 genre: adulte/homme
 duree: 2100ms (mesurée sur le film)
+texte_dyu: An ka taga an ka dugukolo ɲini.
+texte_mos: Bɩ d kẽng n tɩ bao tõnd tẽngã.
 
 piste: film-008
 histoire: Zenuo, le premier Dagara
@@ -210,6 +276,8 @@ intonation: posé (proposée)
 texte: Zenuo et sa femme Nyolé prirent leurs affaires, et leur chien avec eux.
 genre: adulte/libre
 duree: 4500ms (mesurée sur le film)
+texte_dyu: Zenuo n'a muso Nyolé y'u ka minanw ta ani u ka wulu.
+texte_mos: A Zenuo ne a pagã, a Nyolé, rɩka b teedã la b zaklã.
 
 piste: film-009
 histoire: Zenuo, le premier Dagara
@@ -220,6 +288,8 @@ intonation: posé (proposée)
 texte: Ils marchèrent des jours durant, à travers la brousse.
 genre: adulte/libre
 duree: 3900ms (mesurée sur le film)
+texte_dyu: U ye tile damani kɛ tagama la yiritu kɔnɔ.
+texte_mos: B kẽnga zĩ-kãng pʋgẽ rasem wʋsgo.
 
 piste: film-010
 histoire: Zenuo, le premier Dagara
@@ -230,6 +300,8 @@ intonation: doux (scénario)
 texte: Le soir, ils s'arrêtaient près d'un feu, et ils regardaient les étoiles.
 genre: adulte/libre
 duree: 5200ms (mesurée sur le film)
+texte_dyu: Wuladafɛ, u tun lɔnin be tasuma daa la ka lolow filɛ.
+texte_mos: La yʋngo, b ra bee bugum sɛɛgẽ n get ãdsã.
 
 piste: film-011
 histoire: Zenuo, le premier Dagara
@@ -240,6 +312,8 @@ intonation: posé (proposée)
 texte: Un jour, un fleuve large leur barra la route : la Volta noire.
 genre: adulte/libre
 duree: 4600ms (mesurée sur le film)
+texte_dyu: Loon dɔ, baji belebeleba dɔ y'u bali ka taga.
+texte_mos: Daar a ye, koom-koglg sẽn yaa kãseng n da be b sorẽ wã.
 
 piste: film-012
 histoire: Zenuo, le premier Dagara
@@ -250,6 +324,8 @@ intonation: posé (proposée)
 texte: Zenuo creusa une pirogue, et ils se lancèrent sur l'eau.
 genre: adulte/libre
 duree: 4000ms (mesurée sur le film)
+texte_dyu: Zenuo ka kurun dɔ sogi; o tagara ji kan.
+texte_mos: A Zenuo maana koom-koglgã, la b kẽe koomẽ wã.
 
 piste: film-013
 histoire: Zenuo, le premier Dagara
@@ -260,6 +336,8 @@ intonation: ému (scénario)
 texte: Sur l'autre rive, tout était nouveau. Ils ne se retournèrent pas.
 genre: adulte/libre
 duree: 5300ms (mesurée sur le film)
+texte_dyu: K'an to baa kɔ fɛ, koo bɛɛ tun ye kura ye. U m'u ɲaa yɛlɛma.
+texte_mos: Tẽngã sẽn da be tẽn-zẽngã, bũmb fãa ra yaa toor fasɩ. B pa wẽnemd b poorẽ ye.
 
 piste: film-014
 histoire: Zenuo, le premier Dagara
@@ -270,6 +348,8 @@ intonation: posé (proposée)
 texte: Mais où s'arrêter ? Zenuo attendait un signe.
 genre: adulte/libre
 duree: 4400ms (mesurée sur le film)
+texte_dyu: Nka, an be se ka lɔ yɔrɔ juman? Zenuo tun b'a fɛ ka tagamasiyɛn dɔ kɛ.
+texte_mos: La zĩ-bʋs la d tõe n bas-a? A Zenuo ra gũuda makrã.
 
 piste: film-015
 histoire: Zenuo, le premier Dagara
@@ -280,6 +360,8 @@ intonation: émerveillé (scénario)
 texte: Alors un vol de pintades se mit à tourner au-dessus d'un grand arbre.
 genre: adulte/libre
 duree: 4300ms (mesurée sur le film)
+texte_dyu: O kɔ, o y'a daminɛ ka yiriba dɔ lamini.
+texte_mos: Rẽ poore, tɩɩg-kãsenga zug n sɩng n gilgdẽ.
 
 piste: film-016
 histoire: Zenuo, le premier Dagara
@@ -290,6 +372,8 @@ intonation: ému (scénario)
 texte: C'est ici, Nyolé. C'est ici.
 genre: adulte/homme
 duree: 3400ms (mesurée sur le film)
+texte_dyu: A be yan, Nyolé. A be yan.
+texte_mos: Yaa be, a Nyolé. Yaa be bala.
 
 piste: film-017
 histoire: Zenuo, le premier Dagara
@@ -300,6 +384,8 @@ intonation: posé (proposée)
 texte: Zenuo planta son arc au pied de l'arbre. Ici serait le premier foyer.
 genre: adulte/libre
 duree: 5700ms (mesurée sur le film)
+texte_dyu: Zenuo y'a ta kalanw dan yiri jukɔrɔ. O be kɛ an ka sigiyɔrɔ fɔlɔ ye.
+texte_mos: A Zenuo zẽka a boogã tɩɩgã tẽngre. Rẽ n so t'a Zeova na n kɩtame tɩ d vɩɩmd wakat sẽn kõn sa.
 
 piste: film-018
 histoire: Zenuo, le premier Dagara
@@ -310,6 +396,8 @@ intonation: posé (proposée)
 texte: Ensemble, ils bâtirent une case ronde et préparèrent le premier champ.
 genre: adulte/libre
 duree: 4500ms (mesurée sur le film)
+texte_dyu: O ka bon dɔ lɔ ɲɔgɔn fɛ, k'a kɛ kogo ye, ka foro fɔlɔ labɛn.
+texte_mos: La bãmb ne b saam-biisã maana raag n segl pʋʋg ning sẽn dengã.
 
 piste: film-019
 histoire: Zenuo, le premier Dagara
@@ -320,6 +408,8 @@ intonation: joyeux (scénario)
 texte: D'autres familles arrivèrent, et elles s'installèrent à leur tour.
 genre: adulte/libre
 duree: 4300ms (mesurée sur le film)
+texte_dyu: O kɔ, denbaya wɛrɛw nana sigi yen.
+texte_mos: Neb a taab n wa, tɩ b me zĩnd be.
 
 piste: film-020
 histoire: Zenuo, le premier Dagara
@@ -330,6 +420,8 @@ intonation: tendre (scénario)
 texte: Un enfant naquit. Le village avait commencé.
 genre: adulte/libre
 duree: 4400ms (mesurée sur le film)
+texte_dyu: Deen dɔ wolola. Dugumɔgɔw tun y'a daminɛ.
+texte_mos: Bi-ribla rogame. Tẽngã sɩngame.
 
 piste: film-021
 histoire: Zenuo, le premier Dagara
@@ -340,3 +432,5 @@ intonation: doux (scénario)
 texte: Ainsi, dit la légende, naquit le peuple des descendants de Zenuo.
 genre: adulte/libre
 duree: 5200ms (mesurée sur le film)
+texte_dyu: Lɔnnikɛla dɔ y'a fɔ ko Zenuw bɔnsɔnw lo sɔrɔla o la.
+texte_mos: Bãngr-gomdã yetame tɩ yaa woto la b dog a Zeno nebã.

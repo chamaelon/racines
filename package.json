@@ -15,6 +15,8 @@
     "bouche-trous": "node scripts/bouche-trous.js",
     "validate": "node scripts/validate.js",
     "bandes-son": "node scripts/bandes-son.js",
+    "films": "node scripts/films.js",
+    "film:rendu": "node scripts/rendre-film.js",
     "test": "vitest run",
     "test:e2e": "playwright test"
   },

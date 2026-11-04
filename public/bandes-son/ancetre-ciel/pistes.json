@@ -11,61 +11,149 @@
    "id": "titre",
    "type": "titre",
    "chemin": "titre",
-   "texte": "L'ancêtre tombé du ciel"
+   "texte": "L'ancêtre tombé du ciel",
+   "langues": {
+    "fuf": {
+     "texte": "Baaba mawɗo diga asama",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Kãsem-dãmbã sẽn lʋɩ saasẽ wã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "presentation",
    "type": "presentation",
    "chemin": "presentation",
-   "texte": "Par un trou dans les nuages, un ancêtre et son épouse regardent une terre vide. Une corde de lumière se déroule. Descends avec eux, et aide le premier village à ne pas oublier d'où il vient."
+   "texte": "Par un trou dans les nuages, un ancêtre et son épouse regardent une terre vide. Une corde de lumière se déroule. Descends avec eux, et aide le premier village à ne pas oublier d'où il vient.",
+   "langues": {
+    "fuf": {
+     "texte": "O ɗon yi'a nder duule, o e debbo maako ɗon ngi'i lesdi meere. Ɗuum woni ko ɓeydaani. Ndaaree e maɓɓe, wallu yimɓe gariiri arandeere ngam ɓe yejjita to ɓe ƴiwoy.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "B sã n wa ges tẽnga sẽn ka beẽ, b ne b pagã geta sawadg sẽn be yĩngri. Vẽenega, vẽenemã sẽn be a pʋgẽ wã yikame. Kẽng-y ne bãmba, la y sõng pipi tẽngã neba tɩ b ra yĩm b sẽn yit zĩig ningã ye.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "personnages.griot.nom",
    "type": "personnage",
    "chemin": "personnages.griot.nom",
-   "texte": "Le griot"
+   "texte": "Le griot",
+   "langues": {
+    "fuf": {
+     "texte": "Le griot"
+    },
+    "mos": {
+     "texte": "Le griot"
+    }
+   }
   },
   {
    "id": "personnages.ancetre.nom",
    "type": "personnage",
    "chemin": "personnages.ancetre.nom",
-   "texte": "L'ancêtre"
+   "texte": "L'ancêtre",
+   "langues": {
+    "fuf": {
+     "texte": "L'ancêtre"
+    },
+    "mos": {
+     "texte": "L'ancêtre"
+    }
+   }
   },
   {
    "id": "personnages.epouse.nom",
    "type": "personnage",
    "chemin": "personnages.epouse.nom",
-   "texte": "Son épouse"
+   "texte": "Son épouse",
+   "langues": {
+    "fuf": {
+     "texte": "Son épouse"
+    },
+    "mos": {
+     "texte": "Son épouse"
+    }
+   }
   },
   {
    "id": "personnages.vieux.nom",
    "type": "personnage",
    "chemin": "personnages.vieux.nom",
-   "texte": "Le vieux"
+   "texte": "Le vieux",
+   "langues": {
+    "fuf": {
+     "texte": "Le vieux"
+    },
+    "mos": {
+     "texte": "Le vieux"
+    }
+   }
   },
   {
    "id": "personnages.enfant.nom",
    "type": "personnage",
    "chemin": "personnages.enfant.nom",
-   "texte": "L'enfant"
+   "texte": "L'enfant",
+   "langues": {
+    "fuf": {
+     "texte": "L'enfant"
+    },
+    "mos": {
+     "texte": "L'enfant"
+    }
+   }
   },
   {
    "id": "personnages.peintre.nom",
    "type": "personnage",
    "chemin": "personnages.peintre.nom",
-   "texte": "Une femme de Tiébélé"
+   "texte": "Une femme de Tiébélé",
+   "langues": {
+    "fuf": {
+     "texte": "Une femme de Tiébélé"
+    },
+    "mos": {
+     "texte": "Une femme de Tiébélé"
+    }
+   }
   },
   {
    "id": "fins.canon",
    "type": "fin",
    "chemin": "fins.canon",
-   "texte": "Version du griot : les murs se souviennent"
+   "texte": "Version du griot : les murs se souviennent",
+   "langues": {
+    "fuf": {
+     "texte": "Winndannde yeesoGriot: Walls remember",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Grigot version: walls remember",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "fins.blanc",
    "type": "fin",
    "chemin": "fins.blanc",
-   "texte": "Autre chemin : des murs sans mémoire"
+   "texte": "Autre chemin : des murs sans mémoire",
+   "langues": {
+    "fuf": {
+     "texte": "laawol go 'o: walluuji ɗi mbaawataa hakkilantaaku",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Bũmb a to: wall sẽn pa tar tẽegre",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "n1",
@@ -79,7 +167,23 @@
    "texte": "Là-haut, au-dessus des nuages, il y avait un pays d'en haut. Rien n'y manquait. Par un trou dans les nuages, l'ancêtre de Kollo regardait la terre.",
    "genre": "adulte/homme",
    "duree_ms": 11230,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Luttuɗum, dow duule ɗon woodi lesdi daga dow. Walaa kooɗume. Duubaajo Kollo ɗon yi'a duniyaaru nder duule.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8356,
+     "fichier": "ancetre-ciel-n1-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Sẽn be yĩngri, sawadg zugẽ, tẽng sẽn yit yĩngri. A ra pa paoog bũmb ye. A Kollo yaab-rãmbã ra getda tẽngã sẽn be sawadg pʋgẽ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 12980,
+     "fichier": "ancetre-ciel-n1-mos.m4a"
+    }
+   }
   },
   {
    "id": "n2",
@@ -93,31 +197,87 @@
    "texte": "Le monde est vide, sans une case et sans une voix. Une corde de lumière se déroule jusqu'au sol. Descendent-ils ?",
    "genre": "adulte/homme",
    "duree_ms": 9030,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Duniyaa ndu walaa goɗɗum, walaa go'o boo walaa wolde. Ɗuum waɗi to duniyaaru. Ɓe ɗon njaha ?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7892,
+     "fichier": "ancetre-ciel-n2-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Dũniyã yaa zaalem, n ka tar zĩiga la koɛɛg ye. Ninsaalã sẽn da tar vẽenem n be tẽngẽ wã yaa yel-solemde. B na n sigame bɩ?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 13348,
+     "fichier": "ancetre-ciel-n2-mos.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n2.choices.0.label",
    "type": "choix",
    "chemin": "nodes.n2.choices.0.label",
-   "texte": "Oui, ils prennent la corde"
+   "texte": "Oui, ils prennent la corde",
+   "langues": {
+    "fuf": {
+     "texte": "Goonga, ɓe ɗon njaɓɓa limce",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "N-ye, b rɩkda pʋga",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n2.choices.0.tag",
    "type": "parcours",
    "chemin": "nodes.n2.choices.0.tag",
-   "texte": "corde prise"
+   "texte": "corde prise",
+   "langues": {
+    "fuf": {
+     "texte": "ɓeynguure",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "tãn-kãnga",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n2.choices.1.label",
    "type": "choix",
    "chemin": "nodes.n2.choices.1.label",
-   "texte": "Ils regardent encore un moment"
+   "texte": "Ils regardent encore un moment",
+   "langues": {
+    "fuf": {
+     "texte": "Ɓe ɗon ndaara wakkati feere",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "B leb n getame wakat a yembre",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n2.choices.1.tag",
    "type": "parcours",
    "chemin": "nodes.n2.choices.1.tag",
-   "texte": "hésitation"
+   "texte": "hésitation",
+   "langues": {
+    "fuf": {
+     "texte": "hakkiilo",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "sã n wa yɛɛsdẽ",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "regarde",
@@ -131,7 +291,23 @@
    "texte": "Rien n'y bouge. Si personne n'y va, rien n'y bougera jamais.",
    "genre": "adulte/femme",
    "duree_ms": 4930,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Walaa kulol dow maajum. To walaa gooduɗo ton, walaa kooɗume ɗon hoola.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5322,
+     "fichier": "ancetre-ciel-regarde-fuf.m4a"
+    },
+    "mos": {
+     "texte": "La bũmb baa a yembr ka yik ye. Ned sã n pa kẽng be, bũmb kõn zĩnd be ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5322,
+     "fichier": "ancetre-ciel-regarde-mos.m4a"
+    }
+   }
   },
   {
    "id": "descend",
@@ -145,31 +321,87 @@
    "texte": "Longtemps, ils glissent, entre ciel et terre. Une terre vide les attend, là où sera Tiébélé. Le sol est sec. Que faire d'abord ?",
    "genre": "adulte/homme",
    "duree_ms": 10770,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Ɗuum waɗi duuɓi ɗuuɗɗi, ɓe njotti hakkunde asama e duniyaaru. Yimɓe ɓe'e nder lesdi ladde, haa nokkuure nde Tibeel woni. Luttuɗum ɗon maaki. Hol ko waɗata arande?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 14014,
+     "fichier": "ancetre-ciel-descend-fuf.m4a"
+    },
+    "mos": {
+     "texte": "B sẽn be yĩngri ne tẽngã sʋka, b kẽnga zĩig ninga. Tẽnga sẽn ka tar neb n gũud-ba, tɩ Tibɛll na n zĩnda be. Tẽngã yaa kʋɩlenga. Bõe la d segd n maan pipi?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 14382,
+     "fichier": "ancetre-ciel-descend-mos.m4a"
+    }
+   }
   },
   {
    "id": "nodes.descend.choices.0.label",
    "type": "choix",
    "chemin": "nodes.descend.choices.0.label",
-   "texte": "Appeler la pluie du pays d'en haut"
+   "texte": "Appeler la pluie du pays d'en haut",
+   "langues": {
+    "fuf": {
+     "texte": "Wondugo ndiyam diga dow",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Kẽng-y n bool saag sẽn yit yĩngri.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.descend.choices.0.tag",
    "type": "parcours",
    "chemin": "nodes.descend.choices.0.tag",
-   "texte": "pluie appelée"
+   "texte": "pluie appelée",
+   "langues": {
+    "fuf": {
+     "texte": "nguurndam",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "saag sẽn boond tɩ",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.descend.choices.1.label",
    "type": "choix",
    "chemin": "nodes.descend.choices.1.label",
-   "texte": "Bâtir une case tout de suite"
+   "texte": "Bâtir une case tout de suite",
+   "langues": {
+    "fuf": {
+     "texte": "Maɓɓugo nokkuure ɗon",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Yãk-y n maan zĩiga tao-tao",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.descend.choices.1.tag",
    "type": "parcours",
    "chemin": "nodes.descend.choices.1.tag",
-   "texte": "case d'abord"
+   "texte": "case d'abord",
+   "langues": {
+    "fuf": {
+     "texte": "box fuɗɗam",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "roog pipi",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "case",
@@ -183,7 +415,23 @@
    "texte": "La terre s'effrite entre leurs mains. Sans eau, on ne bâtit rien, et rien n'y poussera.",
    "genre": "adulte/homme",
    "duree_ms": 6980,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Luttuɗum nder juuɗe maɓɓe. To ndiyam walaa, ɗum mahataako.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4698,
+     "fichier": "ancetre-ciel-case-fuf.m4a"
+    },
+    "mos": {
+     "texte": "B nugẽ wã, tẽngã paoogdame. Ned sã n ka tar koomã, a pa na n me bũmb ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5514,
+     "fichier": "ancetre-ciel-case-mos.m4a"
+    }
+   }
   },
   {
    "id": "pluie",
@@ -197,7 +445,23 @@
    "texte": "Pluie du pays d'en haut, viens à moi !",
    "genre": "voix solennelle/libre",
    "duree_ms": 3870,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Toowe daga lesdi dow, wari haa am!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2416,
+     "fichier": "ancetre-ciel-pluie-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Sa-kãseng sẽn yit yĩngri, wa-y mam nengẽ!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3744,
+     "fichier": "ancetre-ciel-pluie-mos.m4a"
+    }
+   }
   },
   {
    "id": "n3",
@@ -211,7 +475,23 @@
    "texte": "Les nuages s'ouvrent, et la terre boit enfin. Ils bâtissent une première case ronde, et ils ouvrent un champ. Regarde.",
    "genre": "adulte/homme",
    "duree_ms": 8800,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Ɗuum waɗi laana maɓɓiti, duniyaaru boo njari. Ɓe ngaɗi nokkuure wootere nden, ɓe maɓɓiti gese. Ndaa.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7428,
+     "fichier": "ancetre-ciel-n3-fuf.m4a"
+    },
+    "mos": {
+     "texte": "La sawadgã pukame, tɩ tẽngã yaool n yũ. B maana raag a yiib-n-soaba, la b tʋlg pʋʋgo. Ges-y-yã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8788,
+     "fichier": "ancetre-ciel-n3-mos.m4a"
+    }
+   }
   },
   {
    "id": "n4",
@@ -225,31 +505,87 @@
    "texte": "Les années passent, et des enfants naissent. Les femmes prennent de la terre et des pierres de couleur. Que peignent-elles sur les murs ?",
    "genre": "adulte/homme",
    "duree_ms": 10170,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Too, duuɓi keewi, ɓikkoy maayi. Debbo'en ɗon njaɓɓa leydi e kaaƴe nyaamiɗe. Ko honɗun ɓe nganndi dow walluuji ?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8740,
+     "fichier": "ancetre-ciel-n4-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Yʋʋmã loogdame, la kom-bɩɩsã rogdame. Pagbã rɩka tẽn-gãong la kug buud toor-toorã. Bõe la b gʋlsd wallã zugu?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9140,
+     "fichier": "ancetre-ciel-n4-mos.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n4.choices.0.label",
    "type": "choix",
    "chemin": "nodes.n4.choices.0.label",
-   "texte": "Des motifs venus du ciel"
+   "texte": "Des motifs venus du ciel",
+   "langues": {
+    "fuf": {
+     "texte": "Daliila diga dow",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Yaa yĩngri n kɩt tɩ b maand woto",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n4.choices.0.tag",
    "type": "parcours",
    "chemin": "nodes.n4.choices.0.tag",
-   "texte": "motifs du ciel"
+   "texte": "motifs du ciel",
+   "langues": {
+    "fuf": {
+     "texte": "daliila dow asama",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "bũmb nins sẽn be saasẽ wã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n4.choices.1.label",
    "type": "choix",
    "chemin": "nodes.n4.choices.1.label",
-   "texte": "Rien : le mur nu suffit"
+   "texte": "Rien : le mur nu suffit",
+   "langues": {
+    "fuf": {
+     "texte": "Walaa: wall bare enough",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Bũmb ka be ye: wallã sẽn yɩ zaalem n na n sõng-yã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n4.choices.1.tag",
    "type": "parcours",
    "chemin": "nodes.n4.choices.1.tag",
-   "texte": "mur nu"
+   "texte": "mur nu",
+   "langues": {
+    "fuf": {
+     "texte": "wall be bare",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "roog sẽn ya zaalem",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nu",
@@ -263,7 +599,23 @@
    "texte": "Les enfants grandissent sans plus rien savoir du pays d'en haut. Cette fin n'existe que dans le jeu, car à Tiébélé les femmes ont peint.",
    "genre": "adulte/homme",
    "duree_ms": 10250,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Sukaaɓe boo ɓe mawnitoo ɓe anndaay koo ɗume dow lesdi. Ɗuum woni daliila huutoreede tan, ngam nder Tibebele rewɓe mbaɗi limce.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9450,
+     "fichier": "ancetre-ciel-nu-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Kom-bɩɩsã bɩtame n pa le mi dũniyã sẽn be yĩngri ye. Sẽn na yɩl n tõog n maan woto wã, yaa wẽnem la b segd n maana.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 10842,
+     "fichier": "ancetre-ciel-nu-mos.m4a"
+    }
+   }
   },
   {
    "id": "motifs",
@@ -277,7 +629,23 @@
    "texte": "Notre père est venu d'en haut, souvenez-vous.",
    "genre": "âgé/homme",
    "duree_ms": 3110,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Baabiraawo meeɗen wari diga dow.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2704,
+     "fichier": "ancetre-ciel-motifs-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Tẽeg-y tɩ d ba yii yĩngri.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2448,
+     "fichier": "ancetre-ciel-motifs-mos.m4a"
+    }
+   }
   },
   {
    "id": "n5",
@@ -291,7 +659,23 @@
    "texte": "Bien plus tard, naîtra la chefferie de Tiébélé.",
    "genre": "adulte/homme",
    "duree_ms": 3490,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Caggal ɗum, laamiiɗo Tibelel ɓadake.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3824,
+     "fichier": "ancetre-ciel-n5-fuf.m4a"
+    },
+    "mos": {
+     "texte": "La kaoosg zugẽ, a Tibɛll naab n na n dogame.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4144,
+     "fichier": "ancetre-ciel-n5-mos.m4a"
+    }
+   }
   },
   {
    "id": "n6",
@@ -305,55 +689,151 @@
    "texte": "Dis, qui a peint ces murs ?",
    "genre": "enfant/libre",
    "duree_ms": 3110,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Non, moye waɗi walluuji ɗi'e?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2032,
+     "fichier": "ancetre-ciel-n6-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Bõe yĩng tɩ d segd n yeel woto?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 1840,
+     "fichier": "ancetre-ciel-n6-mos.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n7.question",
    "type": "jeu",
    "chemin": "nodes.n7.question",
-   "texte": "Que répond la femme de Tiébélé à l'enfant, d'après ce que tu viens de vivre ?"
+   "texte": "Que répond la femme de Tiébélé à l'enfant, d'après ce que tu viens de vivre ?",
+   "langues": {
+    "fuf": {
+     "texte": "Ko honɗun woni ko debbo Tibeel wi'i ɓiɗɗo on?",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Yãmb sẽn yã bũmb ning yãmb sẽn paamã yĩnga, a Tebel pagã leokda biigã bõe?",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n7.gagne",
    "type": "jeu",
    "chemin": "nodes.n7.gagne",
-   "texte": "Oui : les femmes, pour que personne n'oublie d'où l'on vient."
+   "texte": "Oui : les femmes, pour que personne n'oublie d'où l'on vient.",
+   "langues": {
+    "fuf": {
+     "texte": "Ee: rewɓe, ngam walaa mo wi'ata to ɓe ngari.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Yaa woto, tɩ ned pa yĩm a sẽn yitẽ ye.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n7.perdu",
    "type": "jeu",
    "chemin": "nodes.n7.perdu",
-   "texte": "Non : ce sont les femmes, pour que personne n'oublie d'où l'on vient."
+   "texte": "Non : ce sont les femmes, pour que personne n'oublie d'où l'on vient.",
+   "langues": {
+    "fuf": {
+     "texte": "Walaa, ɗum rewɓe, ngam walaa mo yejjita to ɓe ƴiwoyi.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "N-ye, yaa pagb n kɩt tɩ ned pa yĩm a sẽn yitẽ ye.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n7.reponses.0.label",
    "type": "jeu",
    "chemin": "nodes.n7.reponses.0.label",
-   "texte": "Les femmes : on peint pour ne pas oublier d'où l'on vient"
+   "texte": "Les femmes : on peint pour ne pas oublier d'où l'on vient",
+   "langues": {
+    "fuf": {
+     "texte": "Debbo'en: en nganndi ngam en yejjita to njiɗɗen",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Pagbã: ned sã n dat n gʋlsd a sẽn yit to-to wã, a pa segd n yĩm ye",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n7.reponses.1.label",
    "type": "jeu",
    "chemin": "nodes.n7.reponses.1.label",
-   "texte": "Le chef : on peint pour faire peur aux ennemis"
+   "texte": "Le chef : on peint pour faire peur aux ennemis",
+   "langues": {
+    "fuf": {
+     "texte": "Hooreejo: ɓe ngaɗata limce ngam hulɓina yimɓe",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Ned ning sẽn get-a wã: b sã n gʋlsd fɩlsã, b na n yɛɛsda fo bɛɛbã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n7.reponses.2.label",
    "type": "jeu",
    "chemin": "nodes.n7.reponses.2.label",
-   "texte": "Personne : les murs se colorent seuls"
+   "texte": "Personne : les murs se colorent seuls",
+   "langues": {
+    "fuf": {
+     "texte": "Walaa gooduɗo: walluuji ɗon ɓanngina hoore maɓɓe",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Ned ka be ye: b wallã tekda a meng ne bãnd",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n7.tags.win",
    "type": "parcours",
    "chemin": "nodes.n7.tags.win",
-   "texte": "bonne réponse"
+   "texte": "bonne réponse",
+   "langues": {
+    "fuf": {
+     "texte": "jaabawol gooŋga",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "leokr sẽn yaa sõma",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n7.tags.lose",
    "type": "parcours",
    "chemin": "nodes.n7.tags.lose",
-   "texte": "réponse manquée"
+   "texte": "réponse manquée",
+   "langues": {
+    "fuf": {
+     "texte": "jaabol maayi",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "sẽn pa leokã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "n8",
@@ -367,7 +847,23 @@
    "texte": "À Tiébélé, aujourd'hui, les femmes peignent toujours leurs maisons.",
    "genre": "adulte/homme",
    "duree_ms": 4020,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Hannde, rewɓe nder Tibeel ɗon ɓesda cuuɗi maɓɓe.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3152,
+     "fichier": "ancetre-ciel-n8-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Rũndã-rũndã, Tibéla pʋgẽ, pagbã ket n manegda b yirã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5056,
+     "fichier": "ancetre-ciel-n8-mos.m4a"
+    }
+   }
   },
   {
    "id": "film-001",
@@ -383,7 +879,19 @@
    "texte": "L'ancêtre tombé du ciel. Un mythe kassena.",
    "genre": "adulte/libre",
    "duree_ms": 4700,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Baabiraawo maako jippi diga asama. Gooto kaalanol kassena.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A yaab sẽn lʋɩt saasẽ wã. Yaa kassena lagem-n-taare.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-002",
@@ -399,7 +907,19 @@
    "texte": "Là-haut, au-dessus des nuages, il y avait un pays d'en haut. Rien n'y manquait.",
    "genre": "adulte/libre",
    "duree_ms": 6000,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Luttuɗum, dow duule ɗon woodi lesdi daga dow. Walaa kooɗume.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Sẽn be yĩngri, sawadg zugẽ, tẽng sẽn yit yĩngri. A ra pa paoog bũmb ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-003",
@@ -415,7 +935,19 @@
    "texte": "Par un trou dans les nuages, l'ancêtre de Kollo regardait la terre, tout en bas.",
    "genre": "adulte/libre",
    "duree_ms": 5400,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "O ɗon yi'a duniyaaru dow, o ƴiwoyi nder duule.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A Kollo yaab-rãmbã ra geta tẽngã sẽn be tẽng zug.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-004",
@@ -431,7 +963,19 @@
    "texte": "Avec son épouse, il observait ce monde vide, sans une case et sans une voix.",
    "genre": "adulte/libre",
    "duree_ms": 5300,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "O ɗon yi'a bee debbo maako duniyaaru ndu walaa goɗɗum, walaa daande, wala wolde.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A ne a pagã ra geta dũni kãngã sẽn pa tar zĩiga, wall koɛɛg ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-005",
@@ -447,7 +991,19 @@
    "texte": "Une corde de lumière se déroula jusqu'au sol, et ils commencèrent à descendre.",
    "genre": "adulte/libre",
    "duree_ms": 5100,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Ɗu'um waɗi kuuje ɗe cembiɗini dow leydi, nden ɓe puɗɗi wurtaago.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "La b yãagame t'a Zezi saagd-b lame, la b wa n kẽnga tẽngẽ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-006",
@@ -463,7 +1019,19 @@
    "texte": "Longtemps, ils glissèrent, entre ciel et terre.",
    "genre": "adulte/libre",
    "duree_ms": 3900,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Ɗuum waɗi duuɓi ɗuuɗɗi, ɓe njotti hakkunde asama e duniyaaru.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "La b ra gũuda yĩngr ne tẽngã sʋka.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-007",
@@ -479,7 +1047,19 @@
    "texte": "Une terre vide les attendait, là où sera Tiébélé.",
    "genre": "adulte/libre",
    "duree_ms": 3900,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Yimɓe ɓe'e nder lesdi ladde, haa nokkuure nde Tibeel jooɗoto.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Tẽnga ra gũuda bãmb tɩ b ka tõe n yã ye, la Tibɛll na n zĩnda be.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-008",
@@ -495,7 +1075,19 @@
    "texte": "Le sol était sec. Rien n'y pousserait sans eau.",
    "genre": "adulte/libre",
    "duree_ms": 4600,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Luttudu ɗon maaki. Walaa ko wuurtata to ndiyam walaa.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Tẽngã ra yaa kʋɩlenga. La koom sã n ka be, b pa tõe n yik ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-009",
@@ -511,7 +1103,19 @@
    "texte": "Pluie du pays d'en haut, viens à moi !",
    "genre": "esprit, créature : voix grave/libre",
    "duree_ms": 3000,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Toowe daga lesdi dow, wari haa am!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Sa-kãseng sẽn yit yĩngri, wa-y mam nengẽ!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-010",
@@ -527,7 +1131,19 @@
    "texte": "Et les nuages s'ouvrirent, et la terre but enfin.",
    "genre": "adulte/libre",
    "duree_ms": 3500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Sey duule ɗen udditi, duniyaaru boo nyaami.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "La sawadgã pukame, la tẽngã rɩka koom.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-011",
@@ -543,7 +1159,19 @@
    "texte": "Ils bâtirent une première case ronde, et ils ouvrirent un champ.",
    "genre": "adulte/libre",
    "duree_ms": 4100,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Sey ɓe nyiɓi nokkuure mawɗe, ɓe maɓɓiti gese.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "B maana raag a yiib-n-soaba, la b tʋlg pʋʋgo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-012",
@@ -559,7 +1187,19 @@
    "texte": "Ce fut le premier village. Les années passèrent, et des enfants naquirent.",
    "genre": "adulte/libre",
    "duree_ms": 5900,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Kanjum woni gariiri arandeeji. Wakkati maajum, ɓikkoy maayi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Yaa tẽn-kãng la d pipi n yã. Yʋʋm n loogame, la kom-bɩɩsã rogame.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-013",
@@ -575,7 +1215,19 @@
    "texte": "Les femmes prirent de la terre et des pierres de couleur, et elles peignirent les murs.",
    "genre": "adulte/libre",
    "duree_ms": 4800,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Debbo'en ɓen hoo'i leydi e kaaƴe leɗɗe cukalel, ɓe ɓanngini mahol.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Pagbã rɩka tẽn-gãongã la kug sẽn yaa balengã, n maneg b gɛyã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-014",
@@ -591,7 +1243,19 @@
    "texte": "Elles y dessinèrent des motifs venus du ciel, pour que personne n'oublie d'où l'on venait.",
    "genre": "adulte/libre",
    "duree_ms": 5200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Kamɓe ɓe ngaɗi laabi daga dow ngam walaa mo wi'a to ɓe ƴiwoy.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "B ra rɩkda makr sẽn yit saasẽ tɩ ned pa tõe n yĩm a sẽn yitẽ ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-015",
@@ -607,7 +1271,19 @@
    "texte": "Notre père est venu d'en haut, souvenez-vous.",
    "genre": "âgé/libre",
    "duree_ms": 3600,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Baabiraawo meeɗen wari diga dow.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Tẽeg-y tɩ d ba yii yĩngri.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-016",
@@ -623,7 +1299,19 @@
    "texte": "Bien plus tard, naîtra la chefferie de Tiébélé.",
    "genre": "adulte/libre",
    "duree_ms": 3800,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Caggal ɗum, laamiiɗo Tibelel ɓadake.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "La kaoosg zugẽ, a Tibɛll naab n na n dogame.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-017",
@@ -639,7 +1327,19 @@
    "texte": "Dis, qui a peint ces murs ?",
    "genre": "enfant/libre",
    "duree_ms": 2900,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Non, moye waɗi walluuji ɗi'e?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Bõe yĩng tɩ d segd n yeel woto?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-018",
@@ -655,7 +1355,19 @@
    "texte": "À Tiébélé, aujourd'hui, les femmes peignent toujours leurs maisons.",
    "genre": "adulte/libre",
    "duree_ms": 4800,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Hannde, rewɓe nder Tibeel ɗon ɓesda cuuɗi maɓɓe.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Rũndã-rũndã, Tibéla pʋgẽ, pagbã ket n manegda b yirã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   }
  ]
 }

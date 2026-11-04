@@ -10,6 +10,10 @@ intonation: posé (proposée)
 texte: Début du dix-neuvième siècle, dans la région de Dori, au Sahel. Ici vivent deux mondes : les éleveurs peuls avec leurs troupeaux, et les cultivateurs gulmancé avec leurs champs.
 genre: adulte/homme
 duree: 12220ms (estimée)
+texte_dyu: Saan 1900 wagati daminɛ na, Dori mara la Sahɛli jamana na. Jamana fla le bɛ yan: sagadɛndɛbagaw ni o ta bɛganw, ani sɛnɛkɛlaw ni o ka forow.
+enregistre_dyu: liptako-n1-dyu.m4a (11940ms)
+texte_mos: Yʋʋm kobs a 19 soabã sɩngrẽ, Dori soolmẽ wã. Yaa neb a yiib n be tẽng zug: pe-kɩɩmb ne b rũmbu, la pʋʋsa rãmb ne b pʋtẽ.
+enregistre_mos: liptako-n1-mos.m4a (10564ms)
 
 piste: n2
 histoire: L'émirat du Liptako
@@ -20,6 +24,10 @@ intonation: posé (proposée)
 texte: La terre doit nourrir les uns et les autres. Mais un jour, un troupeau entre dans un champ.
 genre: adulte/homme
 duree: 7590ms (estimée)
+texte_dyu: Dugukolo ka ɲi k'u bɛɛ balo. Nka loon dɔ, u ye sagakulu dɔ kunbɛn foro dɔ la.
+enregistre_dyu: liptako-n2-dyu.m4a (6410ms)
+texte_mos: Tẽngã segd n dɩka a taaba. La daar a ye, piisã kẽe weoogẽ.
+enregistre_mos: liptako-n2-mos.m4a (5674ms)
 
 piste: n3
 histoire: L'émirat du Liptako
@@ -30,6 +38,10 @@ intonation: vif (proposée)
 texte: Ton troupeau a mangé mon mil !
 genre: adulte/homme
 duree: 2960ms (estimée)
+texte_dyu: I ka sagakuruw ye ne ka suman ɲimi!
+enregistre_dyu: liptako-n3-dyu.m4a (3088ms)
+texte_mos: Yãmb piisã rɩka maam!
+enregistre_mos: liptako-n3-mos.m4a (2096ms)
 
 piste: n4
 histoire: L'émirat du Liptako
@@ -40,6 +52,10 @@ intonation: vif (proposée)
 texte: Tes champs couvrent nos pistes !
 genre: jeune/homme
 duree: 2580ms (estimée)
+texte_dyu: I ka forow b'an ka siraw datugu!
+enregistre_dyu: liptako-n4-dyu.m4a (2496ms)
+texte_mos: Yãmb pʋɩɩrã zãada tõnd sorã!
+enregistre_mos: liptako-n4-mos.m4a (2144ms)
 
 piste: n5
 histoire: L'émirat du Liptako
@@ -50,6 +66,10 @@ intonation: posé (proposée)
 texte: Qui écouter d'abord ? L'un et l'autre ont leurs raisons. Les faits, eux, ne changeront pas.
 genre: adulte/homme
 duree: 7280ms (estimée)
+texte_dyu: Jɔn lo ka kan ka lamɛnni kɛ fɔlɔ? U fila bɛɛ ka ɲi k'u yɛrɛ majigi. Nka, o koow tɛna yɛlɛma.
+enregistre_dyu: liptako-n5-dyu.m4a (8276ms)
+texte_mos: Ãnda n na n deng n kelg-yã? B yiibã fãa tara b toor-toore. Sã n yaa ne rẽ, yɛlã pa na n toeem ye.
+enregistre_mos: liptako-n5-mos.m4a (7476ms)
 
 piste: cult
 histoire: L'émirat du Liptako
@@ -60,6 +80,10 @@ intonation: interrogatif (proposée)
 texte: Le mil, c'est le grenier de l'année. Sans lui, sa famille aura faim. Et le berger ?
 genre: adulte/homme
 duree: 7660ms (estimée)
+texte_dyu: Siman ye san siman ta so le ye. N'o tɛ, kɔngɔ bena a somɔgɔw bɛɛ faga. O sagagbɛnbaga ye mun lo ye?
+enregistre_dyu: liptako-cult-dyu.m4a (7876ms)
+texte_mos: Bõn-buudã makda bõn-buudu sẽn be yʋʋmdã roogẽ. A sã n ka be, kom na n yõk a zakã rãmba. La pe-kɩɩmã me yaa bõe?
+enregistre_mos: liptako-cult-mos.m4a (10468ms)
 
 piste: n6
 histoire: L'émirat du Liptako
@@ -70,6 +94,10 @@ intonation: interrogatif (proposée)
 texte: Mes bêtes passaient ici avant ton champ. Où veux-tu qu'elles aillent ?
 genre: jeune/homme
 duree: 5160ms (estimée)
+texte_dyu: Ne ka begɛnw tun be tɛmɛ yan i ka foro ɲa. I b'a fɛ u ka taga min?
+enregistre_dyu: liptako-n6-dyu.m4a (5194ms)
+texte_mos: Mam rũngã ra tũuda yãmb pʋʋgã. Yãmb datame tɩ b kẽng yɛ?
+enregistre_mos: liptako-n6-mos.m4a (4730ms)
 
 piste: berg
 histoire: L'émirat du Liptako
@@ -80,6 +108,10 @@ intonation: interrogatif (proposée)
 texte: Une piste coupée, c'est un troupeau qui meurt de soif. Et le cultivateur ?
 genre: adulte/homme
 duree: 6070ms (estimée)
+texte_dyu: Ni a kɛra ko o yɔrɔ tigɛra, o ye sagakuru dɔ le ye min minnɔgɔ bɛ faga. O sɛnɛkɛla tun ye mun lo ye?
+enregistre_dyu: liptako-berg-dyu.m4a (7450ms)
+texte_mos: Ned sã n maan bũmb sẽn pa zems ne-a, yaa wa b kʋʋd rũmse. Sã n yaa ne pʋʋg soabã, bõe?
+enregistre_mos: liptako-berg-mos.m4a (8650ms)
 
 piste: n7
 histoire: L'émirat du Liptako
@@ -90,6 +122,10 @@ intonation: vif (proposée)
 texte: J'ai travaillé cette terre toute la saison. Sors de là !
 genre: adulte/homme
 duree: 4780ms (estimée)
+texte_dyu: Ne ye dugukolo nin sɛnɛ saan bɛɛ. Aw ye bɔ yan!
+enregistre_dyu: liptako-n7-dyu.m4a (3946ms)
+texte_mos: Mam tʋma tẽn-kãnga wakat fãa. Kẽng-y n yi be!
+enregistre_mos: liptako-n7-mos.m4a (3850ms)
 
 piste: suite
 histoire: L'émirat du Liptako
@@ -100,6 +136,10 @@ intonation: posé (proposée)
 texte: Cette bête est à moi, maintenant.
 genre: adulte/homme
 duree: 2730ms (estimée)
+texte_dyu: O sogo ye ne ta ye sisan.
+enregistre_dyu: liptako-suite-dyu.m4a (2048ms)
+texte_mos: Bãng-y tɩ rũnga yaa mam rẽnda masã.
+enregistre_mos: liptako-suite-mos.m4a (3008ms)
 
 piste: n8
 histoire: L'émirat du Liptako
@@ -110,6 +150,10 @@ intonation: posé (proposée)
 texte: Le chef gulmancé saisit une bête, et la querelle s'envenime. Un chef peul rassemble ses cavaliers.
 genre: adulte/homme
 duree: 6830ms (estimée)
+texte_dyu: O kuntigi min tun dimininba lo, ale ka bɛgan dɔ mina k'a faga. Jamanatigi dɔ b'a ta sotigiw lajɛn.
+enregistre_dyu: liptako-n8-dyu.m4a (7594ms)
+texte_mos: Sẽn yaa-a taoor soabã rɩka rũnda, la no-koeemdã paasdame. Ned ning sẽn ya kãsmã na n tigma a soaadbã.
+enregistre_mos: liptako-n8-mos.m4a (9178ms)
 
 piste: n9
 histoire: L'émirat du Liptako
@@ -120,6 +164,10 @@ intonation: posé (proposée)
 texte: Que Dieu guide vos pas et vos cœurs.
 genre: âgé/homme
 duree: 3340ms (estimée)
+texte_dyu: Ala y'a to i senw ni i jusukun bɛɛ ye tagama.
+enregistre_dyu: liptako-n9-dyu.m4a (2880ms)
+texte_mos: Bɩ Wẽnnaam wilg yãmb sor la y sũyã.
+enregistre_mos: liptako-n9-mos.m4a (2720ms)
 
 piste: n10
 histoire: L'émirat du Liptako
@@ -130,6 +178,10 @@ intonation: posé (proposée)
 texte: Et c'est la guerre. Les cavaliers peuls affrontent les Gulmancé.
 genre: adulte/homme
 duree: 4400ms (estimée)
+texte_dyu: O ye kɛlɛ lo ye. O kɔ, u y'a fɔ ko: "Aw ye boliw ta ka taga kɛlɛ kɛ".
+enregistre_dyu: liptako-n10-dyu.m4a (7092ms)
+texte_mos: La yaa zabrã. Neb nins sẽn be Burkĩna wã zabda ne Gulmanse rãmbã.
+enregistre_mos: liptako-n10-mos.m4a (5514ms)
 
 piste: n12
 histoire: L'émirat du Liptako
@@ -140,6 +192,10 @@ intonation: posé (proposée)
 texte: C'est fini. J'arrête.
 genre: adulte/homme
 duree: 1740ms (estimée)
+texte_dyu: O bɛɛ banna! Ne be ban.
+enregistre_dyu: liptako-n12-dyu.m4a (2890ms)
+texte_mos: Bãng-y tɩ b baasame. M na n basame.
+enregistre_mos: liptako-n12-mos.m4a (2858ms)
 
 piste: n13
 histoire: L'émirat du Liptako
@@ -150,6 +206,10 @@ intonation: posé (proposée)
 texte: Le chef gulmancé se rend. Un État naît.
 genre: adulte/homme
 duree: 3640ms (estimée)
+texte_dyu: Kuntigiba be sɔn. Jamana dɔ be kɛra.
+enregistre_dyu: liptako-n13-dyu.m4a (3754ms)
+texte_mos: Tãn-soab ning b sẽn yã wã kõome. Tẽnga rogdame.
+enregistre_mos: liptako-n13-mos.m4a (3882ms)
 
 piste: n14
 histoire: L'émirat du Liptako
@@ -160,6 +220,10 @@ intonation: joyeux (proposée)
 texte: Ici, désormais, siège l'émirat du Liptako.
 genre: âgé/homme
 duree: 2880ms (estimée)
+texte_dyu: O yɔrɔ lo ye Liptako mara ka sigiyɔrɔ ye.
+enregistre_dyu: liptako-n14-dyu.m4a (2976ms)
+texte_mos: Rẽ n so t'a Liptako soolmã na n zĩnda be.
+enregistre_mos: liptako-n14-mos.m4a (4288ms)
 
 piste: relire
 histoire: L'émirat du Liptako
@@ -170,6 +234,10 @@ intonation: joyeux (proposée)
 texte: Reviens quand tu veux au marché de Dori : son histoire se raconte encore.
 genre: adulte/homme
 duree: 5770ms (estimée)
+texte_dyu: N'i b'a fɛ ka na Dori ka lɔgɔfiyɛ la tuma o tuma, i be se k'a ye.
+enregistre_dyu: liptako-relire-dyu.m4a (5568ms)
+texte_mos: Yãmb sã n dat, bɩ y lebg n wa Dori zakẽ wã: a kibarã ket n beeme.
+enregistre_mos: liptako-relire-mos.m4a (6314ms)
 
 piste: bien
 histoire: L'émirat du Liptako
@@ -180,6 +248,10 @@ intonation: joyeux (proposée)
 texte: Aujourd'hui, Dori reste l'une des grandes villes du Sahel burkinabè. Son histoire se raconte encore.
 genre: adulte/homme
 duree: 6450ms (estimée)
+texte_dyu: Bi, Dori ye duguba dɔ ye Sahɛli jamana na. A ka maana be to k'a lakali.
+enregistre_dyu: liptako-bien-dyu.m4a (5930ms)
+texte_mos: Rũndã-rũndã, Dori ket n yaa tẽn-kãsems sẽn be Burkina Faso soolmẽ wã. A kibarã ket n yaa to-to.
+enregistre_mos: liptako-bien-mos.m4a (8842ms)
 
 piste: film-001
 histoire: L'émirat du Liptako
@@ -190,6 +262,8 @@ intonation: sobre (scénario)
 texte: L'émirat du Liptako. Un récit historique, simplifié pour l'image.
 genre: adulte/libre
 duree: 6000ms (mesurée sur le film)
+texte_dyu: O ye Liptako ka mara ye. O ye tarikiko dɔ lo ye.
+texte_mos: A Liptako soolmẽ wã. Bãngr-gomdã yaa bũmb sẽn zĩnd pĩnd wẽndẽ wã, la d tõe n yeelame tɩ yaa vẽenega.
 
 piste: film-002
 histoire: L'émirat du Liptako
@@ -200,6 +274,8 @@ intonation: posé (proposée)
 texte: Début du dix-neuvième siècle, dans la région de Dori, au Sahel.
 genre: adulte/libre
 duree: 4800ms (mesurée sur le film)
+texte_dyu: Saan 1900 wagati daminɛ na, Dori mara la Sahɛli jamana na.
+texte_mos: Yʋʋm kobs a 19 soabã sɩngrẽ, Dori soolmẽ wã.
 
 piste: film-003
 histoire: L'émirat du Liptako
@@ -210,6 +286,8 @@ intonation: posé (proposée)
 texte: Ici vivent deux mondes : les éleveurs peuls avec leurs troupeaux, et les cultivateurs gulmancé avec leurs champs.
 genre: adulte/libre
 duree: 6400ms (mesurée sur le film)
+texte_dyu: Jamana fla le bɛ yan: sagadɛndɛbagaw ni o ta bɛganw, ani sɛnɛkɛlaw ni o ka forow.
+texte_mos: Yaa neb a yiib n be tẽng zug: pe-kɩɩmb ne b rũmbu, la pʋʋsa rãmb ne b pʋtẽ.
 
 piste: film-004
 histoire: L'émirat du Liptako
@@ -220,6 +298,8 @@ intonation: posé (proposée)
 texte: La terre doit nourrir les uns et les autres.
 genre: adulte/libre
 duree: 3200ms (mesurée sur le film)
+texte_dyu: Dugukolo ka ɲi k'u bɛɛ balo.
+texte_mos: Tẽngã segd n dɩka a taaba.
 
 piste: film-005
 histoire: L'émirat du Liptako
@@ -230,6 +310,8 @@ intonation: posé (proposée)
 texte: Mais un jour, un troupeau entre dans un champ.
 genre: adulte/libre
 duree: 3400ms (mesurée sur le film)
+texte_dyu: Nka loon dɔ, u ye sagakulu dɔ kunbɛn foro dɔ la.
+texte_mos: La daar a ye, piisã kẽe weoogẽ.
 
 piste: film-006
 histoire: L'émirat du Liptako
@@ -240,6 +322,8 @@ intonation: colère (scénario)
 texte: Ton troupeau a mangé mon mil !
 genre: adulte/homme
 duree: 2300ms (mesurée sur le film)
+texte_dyu: I ka sagakuruw ye ne ka suman ɲimi!
+texte_mos: Yãmb piisã rɩka maam!
 
 piste: film-007
 histoire: L'émirat du Liptako
@@ -250,6 +334,8 @@ intonation: colère (scénario)
 texte: Tes champs couvrent nos pistes !
 genre: adulte/homme
 duree: 2500ms (mesurée sur le film)
+texte_dyu: I ka forow b'an ka siraw datugu!
+texte_mos: Yãmb pʋɩɩrã zãada tõnd sorã!
 
 piste: film-008
 histoire: L'émirat du Liptako
@@ -260,6 +346,8 @@ intonation: colère (scénario)
 texte: Sors de là !
 genre: adulte/homme
 duree: 2100ms (mesurée sur le film)
+texte_dyu: Aw ye bɔ yan!
+texte_mos: Kẽng-y n yi be!
 
 piste: film-009
 histoire: L'émirat du Liptako
@@ -270,6 +358,8 @@ intonation: autoritaire (scénario)
 texte: Cette bête est à moi, maintenant.
 genre: âgé/libre
 duree: 3000ms (mesurée sur le film)
+texte_dyu: O sogo ye ne ta ye sisan.
+texte_mos: Bãng-y tɩ rũnga yaa mam rẽnda masã.
 
 piste: film-010
 histoire: L'émirat du Liptako
@@ -280,6 +370,8 @@ intonation: posé (proposée)
 texte: Le chef gulmancé saisit une bête, et la querelle s'envenime.
 genre: adulte/libre
 duree: 4300ms (mesurée sur le film)
+texte_dyu: O kuntigi min tun dimininba lo, ale ka bɛgan dɔ mina k'a faga.
+texte_mos: Sẽn yaa-a taoor soabã rɩka rũnda, la no-koeemdã paasdame.
 
 piste: film-011
 histoire: L'émirat du Liptako
@@ -290,6 +382,8 @@ intonation: posé (proposée)
 texte: Un chef peul rassemble ses cavaliers.
 genre: adulte/libre
 duree: 2500ms (mesurée sur le film)
+texte_dyu: Jamanatigi dɔ b'a ta sotigiw lajɛn.
+texte_mos: Ned ning sẽn ya kãsmã na n tigma a soaadbã.
 
 piste: film-012
 histoire: L'émirat du Liptako
@@ -300,6 +394,8 @@ intonation: révolté (scénario)
 texte: On ne peut plus accepter ça.
 genre: adulte/homme
 duree: 2700ms (mesurée sur le film)
+texte_dyu: An tɛ se ka sɔn o ma tugun.
+texte_mos: D pa le tõe n sak rẽ ye.
 
 piste: film-013
 histoire: L'émirat du Liptako
@@ -310,6 +406,8 @@ intonation: posé (proposée)
 texte: On prie avant de partir.
 genre: adulte/libre
 duree: 2500ms (mesurée sur le film)
+texte_dyu: An ka delili kɛ sanni an ka taga.
+texte_mos: D pʋʋsda Wẽnnaam n yaool n looge.
 
 piste: film-014
 histoire: L'émirat du Liptako
@@ -320,6 +418,8 @@ intonation: solennel (scénario)
 texte: Que Dieu guide vos pas et vos cœurs.
 genre: âgé/libre
 duree: 3100ms (mesurée sur le film)
+texte_dyu: Ala y'a to i senw ni i jusukun bɛɛ ye tagama.
+texte_mos: Bɩ Wẽnnaam wilg yãmb sor la y sũyã.
 
 piste: film-015
 histoire: L'émirat du Liptako
@@ -330,6 +430,8 @@ intonation: tendu (scénario)
 texte: Et c'est la guerre. Les cavaliers peuls affrontent les Gulmancé.
 genre: adulte/libre
 duree: 5100ms (mesurée sur le film)
+texte_dyu: O ye kɛlɛ lo ye. O kɔ, u y'a fɔ ko: "Aw ye boliw ta ka taga kɛlɛ kɛ".
+texte_mos: La yaa zabrã. Neb nins sẽn be Burkĩna wã zabda ne Gulmanse rãmbã.
 
 piste: film-016
 histoire: L'émirat du Liptako
@@ -340,6 +442,8 @@ intonation: las (scénario)
 texte: C'est fini. J'arrête.
 genre: âgé/libre
 duree: 3400ms (mesurée sur le film)
+texte_dyu: O bɛɛ banna! Ne be ban.
+texte_mos: Bãng-y tɩ b baasame. M na n basame.
 
 piste: film-017
 histoire: L'émirat du Liptako
@@ -350,6 +454,8 @@ intonation: posé (proposée)
 texte: Le chef gulmancé se rend.
 genre: adulte/libre
 duree: 2600ms (mesurée sur le film)
+texte_dyu: Kuntigiba be sɔn.
+texte_mos: Tãn-soab ning b sẽn yã wã kõome.
 
 piste: film-018
 histoire: L'émirat du Liptako
@@ -360,6 +466,8 @@ intonation: posé (proposée)
 texte: Un État naît : l'émirat du Liptako.
 genre: adulte/libre
 duree: 2900ms (mesurée sur le film)
+texte_dyu: Jamana dɔ sigira: Liptako mara.
+texte_mos: Tẽnga rogame: Liptako soolmã.
 
 piste: film-019
 histoire: L'émirat du Liptako
@@ -370,6 +478,8 @@ intonation: solennel (scénario)
 texte: Ici, désormais, siège l'émirat du Liptako.
 genre: adulte/homme
 duree: 4200ms (mesurée sur le film)
+texte_dyu: O yɔrɔ lo ye Liptako mara ka sigiyɔrɔ ye.
+texte_mos: Rẽ n so t'a Liptako soolmã na n zĩnda be.
 
 piste: film-020
 histoire: L'émirat du Liptako
@@ -380,6 +490,8 @@ intonation: posé (proposée)
 texte: Un nouveau pouvoir s'installe sur la région.
 genre: adulte/libre
 duree: 3200ms (mesurée sur le film)
+texte_dyu: Fanga kura dɔ sigira o mara kan.
+texte_mos: Tãn-paal a ye n be tẽngã zugu.
 
 piste: film-021
 histoire: L'émirat du Liptako
@@ -390,6 +502,8 @@ intonation: joyeux (scénario)
 texte: Dori devient la capitale. Autour de sa mosquée, le marché s'anime, et le bétail arrive de loin.
 genre: adulte/libre
 duree: 7400ms (mesurée sur le film)
+texte_dyu: Dori kɛra duguba ye. A ka dugu lamini na, lɔgɔfiyɛ kɛra yɔrɔjan. O kɔ, sagaw ni baw bɔra yɔrɔjan ka na.
+texte_mos: Dori lebga tẽn-kãsengã. Zĩ-gũudã sẽn be a masjiidã sɛɛgẽ wã, ra-kãsems n wat ne rũmsã sẽn yit yɩɩga.
 
 piste: film-022
 histoire: L'émirat du Liptako
@@ -400,3 +514,5 @@ intonation: doux (scénario)
 texte: Aujourd'hui, Dori reste l'une des grandes villes du Sahel burkinabè. Son histoire se raconte encore.
 genre: adulte/libre
 duree: 7600ms (mesurée sur le film)
+texte_dyu: Bi, Dori ye duguba dɔ ye Sahɛli jamana na. A ka maana be to k'a lakali.
+texte_mos: Rũndã-rũndã, Dori ket n yaa tẽn-kãsems sẽn be Burkina Faso soolmẽ wã. A kibarã ket n yaa to-to.

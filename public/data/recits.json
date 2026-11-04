@@ -13,7 +13,10 @@
     ],
     "resume": "La princesse guerrière fuit sur son étalon blanc, rencontre le chasseur Rialé et devient la mère d'Ouédraogo.",
     "texte": "textes/yennenga.fr.md",
-    "texteLocal": {},
+    "texteLocal": {
+      "fuf": "textes/yennenga.fuf.md",
+      "mos": "textes/yennenga.mos.md"
+    },
     "audio": {
       "mos": {
         "src": "audio/yennenga/mos.mp3",
@@ -77,7 +80,10 @@
     ],
     "resume": "L'hyène veut bien manger sans travailler. Le lièvre lui propose un champ commun et un partage : le dessus pour l'une, le dessous pour l'autre.",
     "texte": "textes/lievre-hyene.fr.md",
-    "texteLocal": {},
+    "texteLocal": {
+      "fuf": "textes/lievre-hyene.fuf.md",
+      "mos": "textes/lievre-hyene.mos.md"
+    },
     "audio": {
       "mos": {
         "src": "audio/lievre-hyene/mos.mp3",
@@ -140,7 +146,10 @@
     ],
     "resume": "Quand la colonne française de Voulet et Chanoine marche sur Ouagadougou, le souverain mossi tente de résister. Sa ville brûle, et il finit sa vie en exil.",
     "texte": "textes/naaba-wobgo.fr.md",
-    "texteLocal": {},
+    "texteLocal": {
+      "fuf": "textes/naaba-wobgo.fuf.md",
+      "mos": "textes/naaba-wobgo.mos.md"
+    },
     "audio": {
       "fr": {
         "src": "audio/naaba-wobgo/fr.mp3",
@@ -215,7 +224,10 @@
     ],
     "resume": "En 1897, Samory Touré assiège Noumoudara, principal centre des Tiéfo. La forteresse tombe après une semaine de siège.",
     "texte": "textes/tiefo-amoro.fr.md",
-    "texteLocal": {},
+    "texteLocal": {
+      "dyu": "textes/tiefo-amoro.dyu.md",
+      "fuf": "textes/tiefo-amoro.fuf.md"
+    },
     "audio": {
       "dyu": {
         "src": "audio/tiefo-amoro/dyu.mp3",
@@ -282,7 +294,10 @@
     ],
     "resume": "À la source du Houet, les silures protègent la ville et exaucent les vœux. Un pêcheur imprudent l'apprend à ses dépens.",
     "texte": "textes/silures-dafra.fr.md",
-    "texteLocal": {},
+    "texteLocal": {
+      "dyu": "textes/silures-dafra.dyu.md",
+      "mos": "textes/silures-dafra.mos.md"
+    },
     "audio": {
       "dyu": {
         "src": "audio/silures-dafra/dyu.mp3",
@@ -340,7 +355,10 @@
     ],
     "resume": "Dans la tradition mossi, les kinkirsi sont des génies qui circulent en brousse et qu'on associe à la naissance des jumeaux.",
     "texte": "textes/kinkirsi.fr.md",
-    "texteLocal": {},
+    "texteLocal": {
+      "dyu": "textes/kinkirsi.dyu.md",
+      "fuf": "textes/kinkirsi.fuf.md"
+    },
     "audio": {},
     "jouable": "stories/kinkirsi.json",
     "morale": "Le monde visible n'est pas seul : on y marche avec égards.",
@@ -393,7 +411,10 @@
     ],
     "resume": "Un tyran exige la meilleure part de chaque bête sacrifiée, jusqu'à ce qu'un jeune berger lui joue un tour pimenté.",
     "texte": "textes/bilissi.fr.md",
-    "texteLocal": {},
+    "texteLocal": {
+      "dyu": "textes/bilissi.dyu.md",
+      "fuf": "textes/bilissi.fuf.md"
+    },
     "audio": {
       "fuf": {
         "src": "audio/bilissi/fuf.mp3",
@@ -449,7 +470,10 @@
     ],
     "resume": "Les esprits thila demandent à Kambiré de sculpter des statuettes gardiennes, les bateba, pour protéger sa maison.",
     "texte": "textes/thila-bateba.fr.md",
-    "texteLocal": {},
+    "texteLocal": {
+      "dyu": "textes/thila-bateba.dyu.md",
+      "fuf": "textes/thila-bateba.fuf.md"
+    },
     "audio": {},
     "jouable": "stories/thila-bateba.json",
     "morale": "Une maison se garde par ce qu'on y honore autant que par ses murs.",
@@ -502,7 +526,10 @@
     ],
     "resume": "Après la création, le dieu Wuro confie au premier forgeron le masque de feuilles : son fils Dwo, qui rétablit l'ordre du monde.",
     "texte": "textes/wuro-masque.fr.md",
-    "texteLocal": {},
+    "texteLocal": {
+      "dyu": "textes/wuro-masque.dyu.md",
+      "fuf": "textes/wuro-masque.fuf.md"
+    },
     "audio": {},
     "jouable": "stories/wuro-masque.json",
     "morale": "Ce qui nous est confié pour réparer le monde se porte avec respect.",
@@ -557,7 +584,10 @@
     ],
     "resume": "Blessé par une femme qui pile le mil, Wuro s'éloigne dans le ciel et envoie ses trois fils, Dwo, Soxo et Kwere, aider les hommes.",
     "texte": "textes/wuro-pilon.fr.md",
-    "texteLocal": {},
+    "texteLocal": {
+      "dyu": "textes/wuro-pilon.dyu.md",
+      "fuf": "textes/wuro-pilon.fuf.md"
+    },
     "audio": {},
     "jouable": "stories/wuro-pilon.json",
     "morale": "Une blessure peut éloigner ceux qui s'aiment sans rompre ce qui les relie.",
@@ -617,7 +647,10 @@
     ],
     "resume": "La gazelle orgueilleuse perd la course contre le caméléon rusé : ses larmes de honte laissent deux traits noirs sur son museau.",
     "texte": "textes/gazelle.fr.md",
-    "texteLocal": {},
+    "texteLocal": {
+      "dyu": "textes/gazelle.dyu.md",
+      "mos": "textes/gazelle.mos.md"
+    },
     "audio": {},
     "jouable": "stories/gazelle.json",
     "morale": "L'orgueil court vite, mais la patience arrive souvent la première.",
@@ -661,7 +694,10 @@
     ],
     "resume": "Une femme enceinte envoyée au travail forcé : l'injustice qui fait entrer les Bwaba dans la guerre du Bani-Volta.",
     "texte": "textes/tenin-1915.fr.md",
-    "texteLocal": {},
+    "texteLocal": {
+      "dyu": "textes/tenin-1915.dyu.md",
+      "mos": "textes/tenin-1915.mos.md"
+    },
     "audio": {},
     "jouable": "stories/tenin-1915.json",
     "morale": "À retenir : une injustice faite à une seule personne peut soulever tout un peuple.",
@@ -715,7 +751,10 @@
     ],
     "resume": "Un prédicateur annonce la fin du pouvoir des Blancs ; le 17 novembre 1915, l'insurrection éclate à Bona.",
     "texte": "textes/bona-1915.fr.md",
-    "texteLocal": {},
+    "texteLocal": {
+      "fuf": "textes/bona-1915.fuf.md",
+      "mos": "textes/bona-1915.mos.md"
+    },
     "audio": {},
     "jouable": "stories/bona-1915.json",
     "morale": "À retenir : une parole d'espoir peut devenir un soulèvement.",
@@ -768,7 +807,10 @@
     ],
     "resume": "Fuyant les razzias, les Senoufo s'installent entre les pics : les esprits des rochers les protègent à jamais.",
     "texte": "textes/pics-sindou.fr.md",
-    "texteLocal": {},
+    "texteLocal": {
+      "fuf": "textes/pics-sindou.fuf.md",
+      "mos": "textes/pics-sindou.mos.md"
+    },
     "audio": {},
     "jouable": "stories/pics-sindou.json",
     "morale": "Un peuple garde ce qui l'a protégé en le respectant.",
@@ -812,7 +854,10 @@
     ],
     "resume": "Téné suit une musique dans la nuit et tombe sous le charme des génies ; les chasseurs dozo vont la chercher.",
     "texte": "textes/tene-balafon.fr.md",
-    "texteLocal": {},
+    "texteLocal": {
+      "dyu": "textes/tene-balafon.dyu.md",
+      "fuf": "textes/tene-balafon.fuf.md"
+    },
     "audio": {},
     "jouable": "stories/tene-balafon.json",
     "morale": "Toute belle musique ne mérite pas qu'on la suive dans la nuit.",
@@ -864,7 +909,10 @@
     ],
     "resume": "La traversée légendaire de la Volta noire, origine du grand passage initiatique lobi.",
     "texte": "textes/dyoro.fr.md",
-    "texteLocal": {},
+    "texteLocal": {
+      "dyu": "textes/dyoro.dyu.md",
+      "mos": "textes/dyoro.mos.md"
+    },
     "audio": {},
     "jouable": "stories/dyoro.json",
     "morale": "On ne devient pas adulte sans traverser quelque chose.",
@@ -908,7 +956,10 @@
     ],
     "resume": "Une forteresse de pierre, l'or extrait des rivières, puis l'abandon : le premier site burkinabè inscrit à l'UNESCO.",
     "texte": "textes/loropeni.fr.md",
-    "texteLocal": {},
+    "texteLocal": {
+      "dyu": "textes/loropeni.dyu.md",
+      "fuf": "textes/loropeni.fuf.md"
+    },
     "audio": {},
     "jouable": "stories/loropeni.json",
     "morale": "À retenir : les pierres gardent la mémoire de ceux qui les ont dressées.",
@@ -958,7 +1009,10 @@
     ],
     "resume": "Deuil, tombeaux des rois, conseil des anciens et intronisation : la succession d'un roi gan.",
     "texte": "textes/obire.fr.md",
-    "texteLocal": {},
+    "texteLocal": {
+      "dyu": "textes/obire.dyu.md",
+      "fuf": "textes/obire.fuf.md"
+    },
     "audio": {},
     "jouable": "stories/obire.json",
     "morale": "À retenir : un royaume survit à ses rois par les règles de leur succession.",
@@ -1001,7 +1055,10 @@
     ],
     "resume": "Le chasseur Zenuo et sa femme traversent la Volta et fondent le premier foyer là où les pintades tournent.",
     "texte": "textes/zenuo.fr.md",
-    "texteLocal": {},
+    "texteLocal": {
+      "dyu": "textes/zenuo.dyu.md",
+      "mos": "textes/zenuo.mos.md"
+    },
     "audio": {},
     "jouable": "stories/zenuo.json",
     "morale": "Un foyer se fonde là où l'on sait lire les signes.",
@@ -1048,7 +1105,10 @@
     ],
     "resume": "Un chasseur surprend les génies de brousse jouant du xylophone et rapporte l'instrument aux hommes.",
     "texte": "textes/gyil.fr.md",
-    "texteLocal": {},
+    "texteLocal": {
+      "fuf": "textes/gyil.fuf.md",
+      "mos": "textes/gyil.mos.md"
+    },
     "audio": {},
     "jouable": "stories/gyil.json",
     "morale": "Ce qu'on rapporte de la brousse se partage, et se paie parfois.",
@@ -1092,7 +1152,10 @@
     ],
     "resume": "Une femme puissante de la fin du XIXe siècle accueille les explorateurs et tient tête au roi Tiéba de Sikasso.",
     "texte": "textes/guimbi.fr.md",
-    "texteLocal": {},
+    "texteLocal": {
+      "dyu": "textes/guimbi.dyu.md",
+      "fuf": "textes/guimbi.fuf.md"
+    },
     "audio": {},
     "jouable": "stories/guimbi.json",
     "morale": "À retenir : l'autorité d'une femme a pu peser dans la politique de son temps.",
@@ -1139,7 +1202,10 @@
     ],
     "resume": "Au XVIIIe siècle, des guerriers venus de Kong fondent un royaume autour de Bobo-Dioulasso.",
     "texte": "textes/famagan.fr.md",
-    "texteLocal": {},
+    "texteLocal": {
+      "fuf": "textes/famagan.fuf.md",
+      "mos": "textes/famagan.mos.md"
+    },
     "audio": {},
     "jouable": "stories/famagan.json",
     "morale": "À retenir : les royaumes naissent de rencontres, et de conquêtes.",
@@ -1182,7 +1248,10 @@
     ],
     "resume": "Un orphelin maltraité trouve un protecteur dans un arbre géant, qui nourrira tout le village pendant la sécheresse.",
     "texte": "textes/landolo.fr.md",
-    "texteLocal": {},
+    "texteLocal": {
+      "dyu": "textes/landolo.dyu.md",
+      "fuf": "textes/landolo.fuf.md"
+    },
     "audio": {},
     "jouable": "stories/landolo.json",
     "morale": "Celui qu'on méprise peut devenir celui qui sauve.",
@@ -1229,7 +1298,10 @@
     ],
     "resume": "D'une ancienne guerre naît une alliance : depuis, Samo et Mossi se moquent les uns des autres, mais ne se battent plus.",
     "texte": "textes/rakire.fr.md",
-    "texteLocal": {},
+    "texteLocal": {
+      "dyu": "textes/rakire.dyu.md",
+      "mos": "textes/rakire.mos.md"
+    },
     "audio": {},
     "jouable": "stories/rakire.json",
     "morale": "Mieux vaut se moquer les uns des autres que se battre.",
@@ -1274,7 +1346,10 @@
     ],
     "resume": "Un vol, un innocent accusé, et la puissance du vur qui fait éclater la vérité. Aucune pratique du culte n'est montrée.",
     "texte": "textes/vur.fr.md",
-    "texteLocal": {},
+    "texteLocal": {
+      "fuf": "textes/vur.fuf.md",
+      "mos": "textes/vur.mos.md"
+    },
     "audio": {},
     "jouable": "stories/vur.json",
     "morale": "La vérité finit par éclater, même quand l'innocent est seul.",
@@ -1319,7 +1394,10 @@
     ],
     "resume": "L'ancêtre de Kollo descend du ciel avec sa femme et fonde le village de Tiébélé aux murs peints.",
     "texte": "textes/ancetre-ciel.fr.md",
-    "texteLocal": {},
+    "texteLocal": {
+      "fuf": "textes/ancetre-ciel.fuf.md",
+      "mos": "textes/ancetre-ciel.mos.md"
+    },
     "audio": {},
     "jouable": "stories/ancetre-ciel.json",
     "morale": "Un village se souvient d'où il vient, jusque sur ses murs.",
@@ -1369,7 +1447,10 @@
     ],
     "resume": "Perdu et mourant de soif, un chasseur est guidé par un crocodile vers une mare cachée : depuis, le crocodile est sacré.",
     "texte": "textes/crocodile.fr.md",
-    "texteLocal": {},
+    "texteLocal": {
+      "fuf": "textes/crocodile.fuf.md",
+      "mos": "textes/crocodile.mos.md"
+    },
     "audio": {},
     "jouable": "stories/crocodile.json",
     "morale": "On n'oublie pas celui qui nous a sauvés.",
@@ -1412,7 +1493,10 @@
     ],
     "resume": "À la fin du XIXe siècle, des villages gourounsi s'organisent contre les cavaliers venus capturer des esclaves.",
     "texte": "textes/babatou.fr.md",
-    "texteLocal": {},
+    "texteLocal": {
+      "dyu": "textes/babatou.dyu.md",
+      "fuf": "textes/babatou.fuf.md"
+    },
     "audio": {},
     "jouable": "stories/babatou.json",
     "morale": "À retenir : des villages isolés ont su s'unir pour résister.",
@@ -1454,7 +1538,10 @@
     ],
     "resume": "Nul ne porte la couronne sans être passé par les Lingani de Tangaré : un prétendant pressé l'apprend à ses dépens.",
     "texte": "textes/lingani.fr.md",
-    "texteLocal": {},
+    "texteLocal": {
+      "dyu": "textes/lingani.dyu.md",
+      "mos": "textes/lingani.mos.md"
+    },
     "audio": {},
     "jouable": "stories/lingani.json",
     "morale": "Le pouvoir qu'on prend sans suivre la coutume ne tient pas.",
@@ -1498,7 +1585,10 @@
     ],
     "resume": "Selon une tradition, le devin Jaba Lompo descend du ciel et fonde Bingo, qui deviendra Fada N'Gourma.",
     "texte": "textes/jaba-lompo.fr.md",
-    "texteLocal": {},
+    "texteLocal": {
+      "fuf": "textes/jaba-lompo.fuf.md",
+      "mos": "textes/jaba-lompo.mos.md"
+    },
     "audio": {},
     "jouable": "stories/jaba-lompo.json",
     "morale": "Chaque peuple garde son propre récit des commencements.",
@@ -1541,7 +1631,10 @@
     ],
     "resume": "Les conquérants ont le pouvoir, mais la terre ne donne rien sans les premiers occupants, gardiens des autels.",
     "texte": "textes/maitres-terre.fr.md",
-    "texteLocal": {},
+    "texteLocal": {
+      "dyu": "textes/maitres-terre.dyu.md",
+      "fuf": "textes/maitres-terre.fuf.md"
+    },
     "audio": {},
     "jouable": "stories/maitres-terre.json",
     "morale": "Le pouvoir se conquiert, la terre se respecte.",
@@ -1586,7 +1679,10 @@
     ],
     "resume": "Un héros, son compagnon fidèle et un serpent protecteur refusent de payer le tribut au roi.",
     "texte": "textes/silamaka.fr.md",
-    "texteLocal": {},
+    "texteLocal": {
+      "fuf": "textes/silamaka.fuf.md",
+      "mos": "textes/silamaka.mos.md"
+    },
     "audio": {},
     "jouable": "stories/silamaka.json",
     "morale": "La fidélité d'un compagnon vaut plus qu'un tribut.",
@@ -1630,7 +1726,10 @@
     ],
     "resume": "Au début du XIXe siècle, les Peuls de Dori fondent un État après une guerre contre les Gulmancé.",
     "texte": "textes/liptako.fr.md",
-    "texteLocal": {},
+    "texteLocal": {
+      "dyu": "textes/liptako.dyu.md",
+      "mos": "textes/liptako.mos.md"
+    },
     "audio": {},
     "jouable": "stories/liptako.json",
     "morale": "À retenir : Dori fut la capitale d'un État peul du XIXe siècle.",
@@ -1677,7 +1776,10 @@
     ],
     "resume": "Le crapaud vantard est ridiculisé au grand concours de chant : depuis, il ne chante plus que la nuit.",
     "texte": "textes/crapaud.fr.md",
-    "texteLocal": {},
+    "texteLocal": {
+      "dyu": "textes/crapaud.dyu.md",
+      "mos": "textes/crapaud.mos.md"
+    },
     "audio": {},
     "jouable": "stories/crapaud.json",
     "morale": "Qui se vante le jour peut finir par ne chanter que la nuit.",

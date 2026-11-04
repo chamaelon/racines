@@ -10,6 +10,10 @@ intonation: posé (proposée)
 texte: Voici la soukala de Kambiré, une maison-forteresse aux murs épais. Mais un jour, son enfant tombe malade. Puis un serpent se glisse dans le grenier.
 genre: adulte/homme
 duree: 10700ms (estimée)
+texte_dyu: Ayiwa, o ye Kambirɛ dugumɔgɔw ta so ye; bon barakaman dɔ lo. Nka loon dɔ, a deen banana. O kɔ, saa dɔ tagara don boon kɔnɔ.
+enregistre_dyu: thila-bateba-n1-dyu.m4a (12318ms)
+texte_fuf: Ɗuum woni suukala Kambire, wuro go'o e cuuɗi mawɗi. Ammaa nyalnde go'oto, ɓiɗɗo maako nyawdi. Nden laamiiɗo wi'i mo: "Ndaa!
+enregistre_fuf: thila-bateba-n1-fuf.m4a (9662ms)
 
 piste: n2
 histoire: Les thila et les bateba
@@ -20,6 +24,10 @@ intonation: interrogatif (proposée)
 texte: Le malheur est entré dans la maison. Que fait Kambiré ?
 genre: adulte/homme
 duree: 4780ms (estimée)
+texte_dyu: Tɔɔrɔ donna soo kɔnɔ. Kambiré be mun lo kɛra?
+enregistre_dyu: thila-bateba-n2-dyu.m4a (3610ms)
+texte_fuf: Kaŋko hawti nder suudu. Hol ko Kambiré waɗi?
+enregistre_fuf: thila-bateba-n2-fuf.m4a (3754ms)
 
 piste: murs
 histoire: Les thila et les bateba
@@ -30,6 +38,10 @@ intonation: posé (proposée)
 texte: Il monte les murs d'une rangée de terre. L'enfant ne guérit pas, et le serpent ne part pas.
 genre: adulte/homme
 duree: 7590ms (estimée)
+texte_dyu: A ka dugu laminikogow lɔra ni dugukolo ye. Den ma kɛnɛya, sa fana ma bɔ a ra.
+enregistre_dyu: thila-bateba-murs-dyu.m4a (5866ms)
+texte_fuf: O ɓeydi wallugo nder leɗɗe. Ɓiɗɗo on yamɗitiima, ammaa haykaliiru boo yaawataa.
+enregistre_fuf: thila-bateba-murs-fuf.m4a (6282ms)
 
 piste: n3
 histoire: Les thila et les bateba
@@ -40,6 +52,10 @@ intonation: interrogatif (proposée)
 texte: Les murs ne suffisent pas. Va-t-il chercher plus loin ?
 genre: adulte/homme
 duree: 4400ms (estimée)
+texte_dyu: O kogow tɛ se k'an dɛmɛ. Yala a bena yɔrɔ wɛrɛ ɲini wa?
+enregistre_dyu: thila-bateba-n3-dyu.m4a (4426ms)
+texte_fuf: Wurooji ɗi'e naa haani. O ɗon ɗaɓɓita ɓaawo maajum naa?
+enregistre_fuf: thila-bateba-n3-fuf.m4a (4554ms)
 
 piste: finmurs
 histoire: Les thila et les bateba
@@ -50,6 +66,10 @@ intonation: posé (proposée)
 texte: Une maison se garde par ce qu'on y honore autant que par ses murs. Kambiré, lui, ne l'a pas appris cette saison-là.
 genre: adulte/homme
 duree: 9260ms (estimée)
+texte_dyu: Ni mɔgɔ k'a ta so bonya, o tigi b'a janto a ra i n'a fɔ a bɛ a ta kogow bonya cogo min na. Nka, Kambire m'o kalan o wagati la.
+enregistre_dyu: thila-bateba-finmurs-dyu.m4a (9898ms)
+texte_fuf: Nde yimɓe mawnina wuro, ɓe ngaɗata ɗum bo ɓe mawninanta maago maako. Kambire, o anndaa ɗum saa'i maajum.
+enregistre_fuf: thila-bateba-finmurs-fuf.m4a (8810ms)
 
 piste: devin
 histoire: Les thila et les bateba
@@ -60,6 +80,10 @@ intonation: interrogatif (proposée)
 texte: Mon enfant souffre. Qui nous en veut ?
 genre: adulte/homme
 duree: 3640ms (estimée)
+texte_dyu: N' deen be tɔɔrɔla. Jɔn lo b'an darabɔ?
+enregistre_dyu: thila-bateba-devin-dyu.m4a (3610ms)
+texte_fuf: Ɓiɗɗo am ɗon torra. Honooɓe e meeɗen ?
+enregistre_fuf: thila-bateba-devin-fuf.m4a (3578ms)
 
 piste: n4
 histoire: Les thila et les bateba
@@ -70,6 +94,10 @@ intonation: doux (proposée)
 texte: Voyons cela.
 genre: âgée/femme
 duree: 1060ms (estimée)
+texte_dyu: An k'a filɛ.
+enregistre_dyu: thila-bateba-n4-dyu.m4a (1104ms)
+texte_fuf: Eɗen ndaara ɗum.
+enregistre_fuf: thila-bateba-n4-fuf.m4a (1616ms)
 
 piste: n6
 histoire: Les thila et les bateba
@@ -80,6 +108,10 @@ intonation: doux (proposée)
 texte: Ce sont les thila, les esprits. Ils attendent quelque chose de toi.
 genre: âgée/femme
 duree: 5310ms (estimée)
+texte_dyu: O ye "tilas" lo ye. U b'a fɛ i ka koo dɔ kɛ.
+enregistre_dyu: thila-bateba-n6-dyu.m4a (3994ms)
+texte_fuf: Ɗe woni tiila'en, ɓerɗe. Ɓe ɗon ɗaɓɓa ko'e mon.
+enregistre_fuf: thila-bateba-n6-fuf.m4a (3626ms)
 
 piste: n7
 histoire: Les thila et les bateba
@@ -90,6 +122,10 @@ intonation: mystérieux (proposée)
 texte: Sculpte une statue de bois. Pose-la chez toi. Elle veillera.
 genre: voix d'esprit/libre
 duree: 4700ms (estimée)
+texte_dyu: A ka yiri jaa dɔ dilan. A to i ka soo. A bena to k'a yɛrɛ kɔrɔsi.
+enregistre_dyu: thila-bateba-n7-dyu.m4a (6116ms)
+texte_fuf: O waɗi taƴre nder leɗɗe. Ndaa ɗum nder wuro maaɗa. O ɗon hakkilana.
+enregistre_fuf: thila-bateba-n7-fuf.m4a (5236ms)
 
 piste: n8
 histoire: Les thila et les bateba
@@ -100,6 +136,10 @@ intonation: chuchoté (proposée)
 texte: Au réveil, Kambiré sait ce qu'il a à faire. Il choisit un tronc et se met à tailler, sans parler. Une statue, puis une seconde : les bateba. Regarde sa maison.
 genre: adulte/homme
 duree: 13580ms (estimée)
+texte_dyu: Tuma min na Kambiré be kunu, a b'a lɔn a ka ɲi ka min kɛ. O kɔ, a ye yiri dɔ ta k'a tigɛ. O kɔ, u ye batoba dɔw kɛ. A ka soo filɛ.
+enregistre_dyu: thila-bateba-n8-dyu.m4a (13582ms)
+texte_fuf: Nde Kambiré ummii, o anndi ko o waɗata. O suɓii go'o, o fuɗɗii limtaago. Go'oto e ɗiɗaɓo: bateba'en. Ndaaree wuro maako.
+enregistre_fuf: thila-bateba-n8-fuf.m4a (11720ms)
 
 piste: n9
 histoire: Les thila et les bateba
@@ -110,6 +150,10 @@ intonation: interrogatif (proposée)
 texte: Il les pose sur l'autel, à l'entrée, avec une offrande. Comment la famille les reçoit-elle ?
 genre: adulte/homme
 duree: 6980ms (estimée)
+texte_dyu: A ka o fɛnw bla sarakajɛnifɛn donda ra, ani a ta saraka. Denbaya be sɔn u ma cogo di?
+enregistre_dyu: thila-bateba-n9-dyu.m4a (8298ms)
+texte_fuf: Sey o wurtina ɗe dow haykaliiru, haa dammugal suudu. Hol no saare maɓɓe jaɓata ?
+enregistre_fuf: thila-bateba-n9-fuf.m4a (6202ms)
 
 piste: muet
 histoire: Les thila et les bateba
@@ -120,6 +164,10 @@ intonation: chuchoté (proposée)
 texte: Kambiré se reprend : on ne pose pas un gardien sans le saluer. Toute la famille revient le faire.
 genre: adulte/homme
 duree: 7970ms (estimée)
+texte_dyu: Kambiré y'a fɔ tugun ko: "I tɛ kɔlɔsilikɛbaga bila yen n'i m'a fo". An ka denbayamɔgɔw bɛɛ kɔsegira k'o kɛ.
+enregistre_dyu: thila-bateba-muet-dyu.m4a (8212ms)
+texte_fuf: Kambiré wi'i: "Naa' on taƴii gardiiɗo goonɗinki mo. Yimɓe fuu ngari, ɓe mbaɗa ɗum.
+enregistre_fuf: thila-bateba-muet-fuf.m4a (6740ms)
 
 piste: salue
 histoire: Les thila et les bateba
@@ -130,6 +178,10 @@ intonation: grave (proposée)
 texte: La nuit suivante, le serpent revient. Il s'approche de l'autel, et les bateba s'éveillent. Une lueur les entoure. Le serpent recule, et s'en va.
 genre: adulte/homme
 duree: 10770ms (estimée)
+texte_dyu: O dugusagwɛ, saa segira ka na. A tagara se sarakajɛnifɛn kɔrɔ minkɛ, Batɛba ka mɔgɔ minw ye, olugu bɛɛ wurira. O kɔ, u ye yeelenba dɔ ye. Sogo nin bɔra ka taga.
+enregistre_dyu: thila-bateba-salue-dyu.m4a (14414ms)
+texte_fuf: Nder jemma fuɗnaango, weendu warti. O ɓaditi sarde memal ngal, nden batba'en ummii. Ɗuum woni ɓerɗe maɓɓe. Nyokku ɗon hoola, o ɗon yaha.
+enregistre_fuf: thila-bateba-salue-fuf.m4a (10814ms)
 
 piste: n10
 histoire: Les thila et les bateba
@@ -140,6 +192,10 @@ intonation: posé (proposée)
 texte: Au matin, l'enfant joue dans la cour. Depuis, les Lobi disent que les bateba veillent sur la maison.
 genre: adulte/homme
 duree: 7740ms (estimée)
+texte_dyu: Sɔgɔmadafɛ, den be tulon kɛ lu kɔnɔ. Kabi o wagati la, lobiw b'a fɔ ko bateba dɔw be soo kɔrɔsi.
+enregistre_dyu: thila-bateba-n10-dyu.m4a (8794ms)
+texte_fuf: Nde subaka, ɓiɗɗo oo ina jogii nder suudu. Gila ndeen, yimɓe Lobi mbiyi bateba'en ɗon ɗowtana wuro.
+enregistre_fuf: thila-bateba-n10-fuf.m4a (7114ms)
 
 piste: film-001
 histoire: Les thila et les bateba
@@ -150,6 +206,8 @@ intonation: solennel (scénario)
 texte: Les thila et les bateba. Un mythe lobi.
 genre: adulte/libre
 duree: 4300ms (mesurée sur le film)
+texte_dyu: Thila ani bateba. O ye kibaro diiman dɔ lo ye.
+texte_fuf: Thila e bateba. Ɗuum woni kaalankaagal lobbi.
 
 piste: film-002
 histoire: Les thila et les bateba
@@ -160,6 +218,8 @@ intonation: posé (proposée)
 texte: Voici la soukala de Kambiré, une maison-forteresse aux murs épais.
 genre: adulte/libre
 duree: 4800ms (mesurée sur le film)
+texte_dyu: Ayiwa, o ye Kambirɛ dugumɔgɔw ta so ye; bon barakaman dɔ lo.
+texte_fuf: Ɗuum woni suukala Kambire, wuro go'o e cuuɗi mawɗi.
 
 piste: film-003
 histoire: Les thila et les bateba
@@ -170,6 +230,8 @@ intonation: posé (proposée)
 texte: Rien ne semble pouvoir l'atteindre. Et pourtant.
 genre: adulte/libre
 duree: 4500ms (mesurée sur le film)
+texte_dyu: A be komi fɛɛn si tɛ se k'a sɔrɔ. O bɛɛ n'a ta.
+texte_fuf: Walaa ko waawata heɓugo mo. Ammaa non boo.
 
 piste: film-004
 histoire: Les thila et les bateba
@@ -180,6 +242,8 @@ intonation: inquiet (scénario)
 texte: Un jour, l'enfant de Kambiré tomba malade. Rien ne le soulageait.
 genre: adulte/libre
 duree: 5700ms (mesurée sur le film)
+texte_dyu: Loon dɔ, Kambiré ka deen banana. A tun tɛ se k'o muɲu.
+texte_fuf: Wakkati go'oto, ɓiɗɗo Kambiré nyawdi. Walaa kooɗume ɓeydaani mo.
 
 piste: film-005
 histoire: Les thila et les bateba
@@ -190,6 +254,8 @@ intonation: posé (proposée)
 texte: Puis un serpent se glissa dans le grenier. Le malheur était entré dans la maison.
 genre: adulte/libre
 duree: 5700ms (mesurée sur le film)
+texte_dyu: O kɔ, sa dɔ tagara don bon kɔnɔ. Tɔɔrɔ tun donna an ka soo kɔnɔ.
+texte_fuf: Sey haykaliiru wurti nder dammugal. Luttuɗum wari nder wuro.
 
 piste: film-006
 histoire: Les thila et les bateba
@@ -200,6 +266,8 @@ intonation: posé (proposée)
 texte: Kambiré alla voir la devineresse.
 genre: adulte/libre
 duree: 3000ms (mesurée sur le film)
+texte_dyu: Kambiré tagara muso dɔ fɛ min be se ka koo nataw lɔn.
+texte_fuf: Kambiré yahi haa debbo mo o yi'i yeeso.
 
 piste: film-007
 histoire: Les thila et les bateba
@@ -210,6 +278,8 @@ intonation: inquiet (scénario)
 texte: Mon enfant souffre. Qui nous en veut ?
 genre: adulte/homme
 duree: 3000ms (mesurée sur le film)
+texte_dyu: N' deen be tɔɔrɔla. Jɔn lo b'an darabɔ?
+texte_fuf: Ɓiɗɗo am ɗon torra. Honooɓe e meeɗen ?
 
 piste: film-008
 histoire: Les thila et les bateba
@@ -220,6 +290,8 @@ intonation: lent (scénario)
 texte: Voyons cela.
 genre: âgé/libre
 duree: 2100ms (mesurée sur le film)
+texte_dyu: An k'a filɛ.
+texte_fuf: Eɗen ndaara ɗum.
 
 piste: film-009
 histoire: Les thila et les bateba
@@ -230,6 +302,8 @@ intonation: posé (proposée)
 texte: Elle jeta les cauris sur le sol, et elle les regarda longtemps.
 genre: adulte/libre
 duree: 4200ms (mesurée sur le film)
+texte_dyu: O kɔ, a y'a ka jirisunw fili duguma. A ye wagatijan kɛ k'u filɛ.
+texte_fuf: O wurtini ɓikkoy ɗi'i dow leydi, o ɗon ndaara ɗe haa wakkati seɗɗa.
 
 piste: film-010
 histoire: Les thila et les bateba
@@ -240,6 +314,8 @@ intonation: grave (scénario)
 texte: Ce sont les thila, les esprits. Ils attendent quelque chose de toi.
 genre: âgé/libre
 duree: 5500ms (mesurée sur le film)
+texte_dyu: O ye "tilas" lo ye. U b'a fɛ i ka koo dɔ kɛ.
+texte_fuf: Ɗe woni tiila'en, ɓerɗe. Ɓe ɗon ɗaɓɓa ko'e mon.
 
 piste: film-011
 histoire: Les thila et les bateba
@@ -250,6 +326,8 @@ intonation: posé (proposée)
 texte: Cette nuit-là, Kambiré fit un rêve.
 genre: adulte/libre
 duree: 3300ms (mesurée sur le film)
+texte_dyu: O suu yɛrɛ la, Kambiré ye siko dɔ kɛ.
+texte_fuf: Nder jemma maajum Kambiré waɗi lekki.
 
 piste: film-012
 histoire: Les thila et les bateba
@@ -260,6 +338,8 @@ intonation: mystérieux (scénario)
 texte: Les thila lui apparurent, et lui montrèrent une petite statue de bois.
 genre: adulte/libre
 duree: 4500ms (mesurée sur le film)
+texte_dyu: O kɔ, o ka yiri bisigiya dɔ yira a ra.
+texte_fuf: Ɓe ngi'i mo laamiiɗo, ɓe holliimo haykaliiru.
 
 piste: film-013
 histoire: Les thila et les bateba
@@ -270,6 +350,8 @@ intonation: voix profonde (scénario)
 texte: Sculpte-la. Pose-la chez toi. Elle veillera.
 genre: esprit, créature : voix grave/libre
 duree: 5200ms (mesurée sur le film)
+texte_dyu: I k'a dilan. A to i ka soo. A bena to k'a yɛrɛ kɔrɔsi.
+texte_fuf: Fuli ɗum. Ndaa ɗum nder wuro maaɗa. O ɗon hakkilana.
 
 piste: film-014
 histoire: Les thila et les bateba
@@ -280,6 +362,8 @@ intonation: posé (proposée)
 texte: Au réveil, Kambiré savait ce qu'il avait à faire.
 genre: adulte/libre
 duree: 3900ms (mesurée sur le film)
+texte_dyu: Tuma min na Kambiré kununna, a tun b'a lɔn a ka ɲi ka min kɛ.
+texte_fuf: Nde Kambiré ummii, o anndi ko o waɗata.
 
 piste: film-015
 histoire: Les thila et les bateba
@@ -290,6 +374,8 @@ intonation: posé (proposée)
 texte: Il choisit un tronc et se mit à tailler, sans parler.
 genre: adulte/libre
 duree: 3800ms (mesurée sur le film)
+texte_dyu: A ye lɔgɔ dɔ ta k'a tigɛtigɛ, a ma foyi fɔ.
+texte_fuf: O suɓii go'o, o fuɗɗii saɗugo.
 
 piste: film-016
 histoire: Les thila et les bateba
@@ -300,6 +386,8 @@ intonation: posé (proposée)
 texte: Une statue, puis une seconde.
 genre: adulte/libre
 duree: 3000ms (mesurée sur le film)
+texte_dyu: O kɔ, u ye tugu ɲɔgɔn kɔ.
+texte_fuf: Ɗe'ere, nden boo ɗiɗaɓere.
 
 piste: film-017
 histoire: Les thila et les bateba
@@ -310,6 +398,8 @@ intonation: posé (proposée)
 texte: Ce sont les bateba : les statuettes gardiennes.
 genre: adulte/libre
 duree: 3700ms (mesurée sur le film)
+texte_dyu: O ye batebaw lo ye.
+texte_fuf: Ɗo'on woni bateba'en: kuuje mawɗe.
 
 piste: film-018
 histoire: Les thila et les bateba
@@ -320,6 +410,8 @@ intonation: recueilli (scénario)
 texte: Il les posa sur l'autel, à l'entrée de la maison, avec une offrande.
 genre: adulte/libre
 duree: 5200ms (mesurée sur le film)
+texte_dyu: A ka o fɛnw bla sarakajɛnifɛn kan, Alabatosoba donda ra, ani siman saraka.
+texte_fuf: O wurtini ɗi dow maagal ngal haa dammugal suudu Allah, o hokki ɗum sadaka.
 
 piste: film-019
 histoire: Les thila et les bateba
@@ -330,6 +422,8 @@ intonation: posé (proposée)
 texte: La famille les salua, comme on salue des gens de la maison.
 genre: adulte/libre
 duree: 4100ms (mesurée sur le film)
+texte_dyu: U ka somɔgɔw y'u fo, i n'a fɔ u b'a kɛ cogo min na.
+texte_fuf: Yimɓe wuro maɓɓe mbi'i ɓe, bana yimɓe saare boo mbi'a.
 
 piste: film-020
 histoire: Les thila et les bateba
@@ -340,6 +434,8 @@ intonation: chuchoté (scénario)
 texte: La nuit suivante, le serpent revint.
 genre: adulte/libre
 duree: 3400ms (mesurée sur le film)
+texte_dyu: O dugusagwɛ, sa segira ka na.
+texte_fuf: Nde jemma waɗi, weelo wari.
 
 piste: film-021
 histoire: Les thila et les bateba
@@ -350,6 +446,8 @@ intonation: mystérieux (scénario)
 texte: Il s'approcha de l'autel, et les bateba s'éveillèrent. Une lueur les entoura.
 genre: adulte/libre
 duree: 6100ms (mesurée sur le film)
+texte_dyu: A gbarara sarakajɛnifɛn na minkɛ, o bɛɛ kununna. O kɔ, u ye yeelenba dɔ ye.
+texte_fuf: O ɓaditi haa maagoore, nden bateba'en ummii. Ɗuum waɗi jayngol dow maɓɓe.
 
 piste: film-022
 histoire: Les thila et les bateba
@@ -360,6 +458,8 @@ intonation: posé (proposée)
 texte: Le serpent recula, et s'en alla.
 genre: adulte/libre
 duree: 3200ms (mesurée sur le film)
+texte_dyu: Sogojugu nin segira ka taga.
+texte_fuf: Nyokki on dilli, o yahi.
 
 piste: film-023
 histoire: Les thila et les bateba
@@ -370,3 +470,5 @@ intonation: doux (scénario)
 texte: Au matin, l'enfant jouait dans la cour. Depuis, les Lobi disent que les bateba veillent sur la maison.
 genre: adulte/libre
 duree: 7700ms (mesurée sur le film)
+texte_dyu: Sɔgɔmada joona fɛ, den tun be tulon kɛ lu kɔnɔ. Kabi o wagati la, lobiw b'a fɔ ko bateba dɔw be soo kɔrɔsi.
+texte_fuf: Nde subaka, ɓiɗɗo on ɗon njulaago nder suudu. Gila ndeen, yimɓe Lobi mbiyi bateba'en ɗon ɗowtana wuro.

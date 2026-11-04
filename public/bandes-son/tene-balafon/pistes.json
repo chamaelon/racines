@@ -12,61 +12,149 @@
    "id": "titre",
    "type": "titre",
    "chemin": "titre",
-   "texte": "Téné et le balafon des génies"
+   "texte": "Téné et le balafon des génies",
+   "langues": {
+    "dyu": {
+     "texte": "Tene ni jinɛw ka mankan",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Tinndi e ɓeynguure genioji",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "presentation",
    "type": "presentation",
    "chemin": "presentation",
-   "texte": "Une nuit, une musique plus belle que toutes monte de la brousse. Téné se lève et disparaît. Tu pars avec les chasseurs dozo pour la ramener."
+   "texte": "Une nuit, une musique plus belle que toutes monte de la brousse. Téné se lève et disparaît. Tu pars avec les chasseurs dozo pour la ramener.",
+   "langues": {
+    "dyu": {
+     "texte": "Loon dɔ sufɛ, dɔnkilila dɔ bɔra yiritu kɔnɔ min ka ɲi ka tɛmɛ o bɛɛ kan. Téné be wili ka taga. I bena taga n'u ye ka na n'a ye.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Nder jemma go'o, yimre mawnde ɓurɗe fuu ɗon wurta nder leɗɗe. Téné ɗon ummii, o majjitoo. On ɗon njaha bee dozo'en ngam warugo maako.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "personnages.griot.nom",
    "type": "personnage",
    "chemin": "personnages.griot.nom",
-   "texte": "Le griot"
+   "texte": "Le griot",
+   "langues": {
+    "dyu": {
+     "texte": "Le griot"
+    },
+    "fuf": {
+     "texte": "Le griot"
+    }
+   }
   },
   {
    "id": "personnages.tene.nom",
    "type": "personnage",
    "chemin": "personnages.tene.nom",
-   "texte": "Téné"
+   "texte": "Téné",
+   "langues": {
+    "dyu": {
+     "texte": "Téné"
+    },
+    "fuf": {
+     "texte": "Téné"
+    }
+   }
   },
   {
    "id": "personnages.zie.nom",
    "type": "personnage",
    "chemin": "personnages.zie.nom",
-   "texte": "Le vieux Ziè"
+   "texte": "Le vieux Ziè",
+   "langues": {
+    "dyu": {
+     "texte": "Le vieux Ziè"
+    },
+    "fuf": {
+     "texte": "Le vieux Ziè"
+    }
+   }
   },
   {
    "id": "personnages.mere.nom",
    "type": "personnage",
    "chemin": "personnages.mere.nom",
-   "texte": "La mère"
+   "texte": "La mère",
+   "langues": {
+    "dyu": {
+     "texte": "La mère"
+    },
+    "fuf": {
+     "texte": "La mère"
+    }
+   }
   },
   {
    "id": "personnages.maitre.nom",
    "type": "personnage",
    "chemin": "personnages.maitre.nom",
-   "texte": "Le maître dozo"
+   "texte": "Le maître dozo",
+   "langues": {
+    "dyu": {
+     "texte": "Le maître dozo"
+    },
+    "fuf": {
+     "texte": "Le maître dozo"
+    }
+   }
   },
   {
    "id": "personnages.genie.nom",
    "type": "personnage",
    "chemin": "personnages.genie.nom",
-   "texte": "Le chef des génies"
+   "texte": "Le chef des génies",
+   "langues": {
+    "dyu": {
+     "texte": "Le chef des génies"
+    },
+    "fuf": {
+     "texte": "Le chef des génies"
+    }
+   }
   },
   {
    "id": "fins.canon",
    "type": "fin",
    "chemin": "fins.canon",
-   "texte": "Version du griot : le balafon des génies"
+   "texte": "Version du griot : le balafon des génies",
+   "langues": {
+    "dyu": {
+     "texte": "Gɛrɛkikan kumaden: Lɔnnikɛlaw ka mankan",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Winndannde caggalGriot: Baalafon genius",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "fins.nuit",
    "type": "fin",
    "chemin": "fins.nuit",
-   "texte": "Autre chemin : Téné danse encore"
+   "texte": "Autre chemin : Téné danse encore",
+   "langues": {
+    "dyu": {
+     "texte": "Fɛɛrɛ wɛrɛ: Téné be to ka dan",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Wayde wootere: Téné ɗon dansa haa jooni",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "n1",
@@ -80,7 +168,23 @@
    "texte": "Le soir, au village, le vieux Ziè jouait du balafon. Et Téné dansait. Regarde l'instrument.",
    "genre": "adulte/homme",
    "duree_ms": 6900,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Sɔgɔma wulafɛ, Ziè tun be balafɔni kɛra dugu kɔnɔ. O kɔ, Téné tun be dansi kɛra. A filɛ o fɔlifɛn ye min ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 10724,
+     "fichier": "tene-balafon-n1-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Nder jemma nder gariiri, Ziè mawɗo ɗon mooɓta balafon. Téné boo ɗon yaha. Ndaa kuugal ngal.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7716,
+     "fichier": "tene-balafon-n1-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n2",
@@ -94,7 +198,23 @@
    "texte": "Une nuit, une autre musique monte de la brousse, plus belle que celle de Ziè. Téné se lève sans bruit. Elle part vers le son.",
    "genre": "adulte/homme",
    "duree_ms": 10700,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Lon dɔ su fɛ, dɔnkiri wɛrɛ bɔra yiritunin kɔnɔ; a ka ɲi ni Zi ta ye. Téné be wuli ni mankan tɛ. A be taga mankan fɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9582,
+     "fichier": "tene-balafon-n2-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Nder jemma go'oto, yiite ɓurɗo yiite Si'a ɗon wurta nder leɗɗe. Téné ɗon ummitoo ngam walaa ko waawata. O ɗon yahda to waawde.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8996,
+     "fichier": "tene-balafon-n2-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n3",
@@ -108,7 +228,23 @@
    "texte": "Téné ! Ma fille n'est plus là !",
    "genre": "adulte/femme",
    "duree_ms": 3640,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "N' y'a fɔ i ye ko: Ne denmuso tɛ yan tugun!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3450,
+     "fichier": "tene-balafon-n3-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Tinndi ! Ɓiɗɗo am boo walaa!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2426,
+     "fichier": "tene-balafon-n3-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n4",
@@ -122,7 +258,23 @@
    "texte": "Cette nuit, j'ai entendu jouer en brousse.",
    "genre": "adulte/homme",
    "duree_ms": 3110,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Loon dɔ sufɛ, n' y'a mɛn ko mɔgɔw be tulogwɛlɛnw kɛra yiritu kɔnɔ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5392,
+     "fichier": "tene-balafon-n4-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "E nder jemma oo, mi nani yimɓe ɗon kolli nder lekki.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3632,
+     "fichier": "tene-balafon-n4-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n5",
@@ -136,31 +288,87 @@
    "texte": "Les génies ! Que fait la famille ?",
    "genre": "adulte/homme",
    "duree_ms": 3640,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Hakilitigiw! Denbaya be mun lo kɛra?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3562,
+     "fichier": "tene-balafon-n5-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Geniiji! Hol ko yimɓe mum'en ngaɗata?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3722,
+     "fichier": "tene-balafon-n5-fuf.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n5.choices.0.label",
    "type": "choix",
    "chemin": "nodes.n5.choices.0.label",
-   "texte": "Elle va trouver les chasseurs dozo"
+   "texte": "Elle va trouver les chasseurs dozo",
+   "langues": {
+    "dyu": {
+     "texte": "A bena dozow sɔrɔ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "O ɗon ɗaɓɓa dozo'en",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n5.choices.0.tag",
    "type": "parcours",
    "chemin": "nodes.n5.choices.0.tag",
-   "texte": "dozo appelés"
+   "texte": "dozo appelés",
+   "langues": {
+    "dyu": {
+     "texte": "dozo ye wele",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "dozo noddi",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n5.choices.1.label",
    "type": "choix",
    "chemin": "nodes.n5.choices.1.label",
-   "texte": "Le père part seul, tout de suite"
+   "texte": "Le père part seul, tout de suite",
+   "langues": {
+    "dyu": {
+     "texte": "A facɛ be taga a kelen, sisan yɛrɛ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Baabiraawo ɗon yahda bee hoore maako",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n5.choices.1.tag",
    "type": "parcours",
    "chemin": "nodes.n5.choices.1.tag",
-   "texte": "père parti seul"
+   "texte": "père parti seul",
+   "langues": {
+    "dyu": {
+     "texte": "n facɛ tagara a kelen",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "baaba yahdi tan",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "seul",
@@ -174,31 +382,87 @@
    "texte": "Il marche jusqu'au matin, il appelle, et seule la musique lui répond. Il revient épuisé. Il reste une nuit pour bien faire.",
    "genre": "adulte/homme",
    "duree_ms": 9560,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "A bɛ tagama fɔ ka taga dugu gbɛ; a bɛ kule, nka dɔnkiri dɔrɔn le b'a jaabi. A sɛgɛnin lo. An ka ɲi k'o kɛ suu kelen dɔrɔn.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 10414,
+     "fichier": "tene-balafon-seul-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "O ɗon yaha haa jemma, o ɗon ewna. Yimɓe ɗon nana ɗum tan. O wurtinaama ɓeydaani. Wonaa jemma go'o ngam waɗugo ko wooɗi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9742,
+     "fichier": "tene-balafon-seul-fuf.m4a"
+    }
+   }
   },
   {
    "id": "nodes.seul.choices.0.label",
    "type": "choix",
    "chemin": "nodes.seul.choices.0.label",
-   "texte": "Aller trouver les dozo"
+   "texte": "Aller trouver les dozo",
+   "langues": {
+    "dyu": {
+     "texte": "Aw ka taga dozow yɔrɔ ɲini",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Yaade dozo'en",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.seul.choices.0.tag",
    "type": "parcours",
    "chemin": "nodes.seul.choices.0.tag",
-   "texte": "dozo appelés"
+   "texte": "dozo appelés",
+   "langues": {
+    "dyu": {
+     "texte": "dozo ye wele",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "dozo noddi",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.seul.choices.1.label",
    "type": "choix",
    "chemin": "nodes.seul.choices.1.label",
-   "texte": "Attendre que Téné revienne d'elle-même"
+   "texte": "Attendre que Téné revienne d'elle-même",
+   "langues": {
+    "dyu": {
+     "texte": "Ka to k'a makɔnɔ ko Téné ka segi a yɛrɛ ma",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Tawaade Téné warde e hoore mum",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.seul.choices.1.tag",
    "type": "parcours",
    "chemin": "nodes.seul.choices.1.tag",
-   "texte": "attente"
+   "texte": "attente",
+   "langues": {
+    "dyu": {
+     "texte": "ka kɔnɔni kɛ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "hakkiilo",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "attente",
@@ -212,7 +476,23 @@
    "texte": "Elle ne revient pas. Les soirs de lune, dit-on, quelqu'un danse encore dans la clairière, sans nom et sans village. Tu pourrais recommencer pour changer cela.",
    "genre": "adulte/homme",
    "duree_ms": 11230,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "A tɛ kɔsegi. Mɔgɔw b'a fɔ ko kalo sufɛ, mɔgɔ dɔ bɛ to ka dɔnkiri la kɛnɛgbɛ kɔnɔ, tɔgɔ t'a ra, dugumɔgɔw tɛ o yɔrɔ ra. I be se k'a daminɛ kokura walisa k'o yɛlɛma.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 14420,
+     "fichier": "tene-balafon-attente-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "O warataa. Ɓe mbi'i nder jemmaare lewru, goɗɗo ɗon yiya haa foroy, walaa innde, walaa gariiri. A waawaa fuɗɗitaade ngam waylude ɗum.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 10692,
+     "fichier": "tene-balafon-attente-fuf.m4a"
+    }
+   }
   },
   {
    "id": "dozo",
@@ -226,37 +506,103 @@
    "texte": "Le maître consulte ses amulettes et lève son chasse-mouche. Les dozo partent avec leur chien. Au loin, la musique revient.",
    "genre": "adulte/homme",
    "duree_ms": 8650,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Matigi bɛ a ta nɛgɛbɛnnanw flɛ, k'a ta sowotorow kɔrɔta. Dozow be taga n'u ka wulu ye. K'a to yɔrɔjan, dɔnkilila be na.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9636,
+     "fichier": "tene-balafon-dozo-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Mawɗo on ɗon ɗaɓɓita kuuje maako, o ɗon ummina kuuje muuɗum. Dozo'en ɗon njaha bee doggi maɓɓe. Nder yaasi, yimɓe ɗon maaro.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9892,
+     "fichier": "tene-balafon-dozo-fuf.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n6.consigne",
    "type": "jeu",
    "chemin": "nodes.n6.consigne",
-   "texte": "Retiens l'air des génies pour guider le chien jusqu'à la clairière."
+   "texte": "Retiens l'air des génies pour guider le chien jusqu'à la clairière.",
+   "langues": {
+    "dyu": {
+     "texte": "N'i b'a fɛ k'i ka wuluw sama ka taga n'u ye kɛnɛma.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Hokka ɓeynguure ɓerɗe ngam yahugo dogol haa le'i.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n6.gagne",
    "type": "jeu",
    "chemin": "nodes.n6.gagne",
-   "texte": "Le chien lève la tête et file droit : vous tenez la bonne direction."
+   "texte": "Le chien lève la tête et file droit : vous tenez la bonne direction.",
+   "langues": {
+    "dyu": {
+     "texte": "Wuluw b'u kun kɔrɔta ka taga ɲafɛ. Aw be siraɲuman kan.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Mbira ƴetti hoore maako, o ɗon yaha haa yaasi: on ɗon hoola laawol.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n6.perdu",
    "type": "jeu",
    "chemin": "nodes.n6.perdu",
-   "texte": "Vous tournez un moment, puis le chien retrouve la piste."
+   "texte": "Vous tournez un moment, puis le chien retrouve la piste.",
+   "langues": {
+    "dyu": {
+     "texte": "N'i ye filɛli kɛ wagati dɔ la, o kɔ, i be se k'a yira a la.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "On njogii gootol, nden boo dogol heɓan laawol.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n6.tags.win",
    "type": "parcours",
    "chemin": "nodes.n6.tags.win",
-   "texte": "rythme tenu"
+   "texte": "rythme tenu",
+   "langues": {
+    "dyu": {
+     "texte": "a ka kɛcogo",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "ɓeydaaki",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n6.tags.lose",
    "type": "parcours",
    "chemin": "nodes.n6.tags.lose",
-   "texte": "rythme perdu"
+   "texte": "rythme perdu",
+   "langues": {
+    "dyu": {
+     "texte": "ka to k'o kɛ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "ɓeydaaki",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "n7",
@@ -270,7 +616,23 @@
    "texte": "Dans une clairière, les génies jouent à la lune. Téné danse, et elle ne peut plus s'arrêter. Elle a tout oublié : son nom, sa mère, son village.",
    "genre": "adulte/homme",
    "duree_ms": 12290,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "O yɔrɔ la, lɔnnikɛlaw be kalo ɲagaminin kɛra. Téné be to ka dɔn kɛ ani a tɛ se k'a yɛrɛ tanga. A ɲinɛna a tɔgɔ, a bamuso ani a ka dugudennin kɔ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 11524,
+     "fichier": "tene-balafon-n7-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "E nder go'o, jinnaaɓe njanngoo lewru. Téné ɗon dansa, nden o waawataa jonta. O yejjiti koo ɗume: innde maako, inna maako, gariiri maako.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 10990,
+     "fichier": "tene-balafon-n7-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n8",
@@ -284,31 +646,87 @@
    "texte": "Le maître lève son chasse-mouche. Un éclair, et tout s'arrête. Que dit-il ?",
    "genre": "adulte/homme",
    "duree_ms": 5990,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Matigi y'a ka kɛlɛkɛminan kɔrɔta. Ni fɔɲɔ ye manamana, o bɛɛ be ban. A be mun lo fɔra?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7476,
+     "fichier": "tene-balafon-n8-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Mawɗo'en ɗon ummi nyaamo maako. Ɗuum woni ɓooyaare, koo ɗume timmi. Hol ko o wi'i?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7348,
+     "fichier": "tene-balafon-n8-fuf.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n8.choices.0.label",
    "type": "choix",
    "chemin": "nodes.n8.choices.0.label",
-   "texte": "« Rendez cette enfant à sa mère. »"
+   "texte": "« Rendez cette enfant à sa mère. »",
+   "langues": {
+    "dyu": {
+     "texte": "Aw ye den nin di a bamuso ma. ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "A hokke ɓiɗɗo o'o to inna maako. ",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n8.choices.0.tag",
    "type": "parcours",
    "chemin": "nodes.n8.choices.0.tag",
-   "texte": "demande ferme"
+   "texte": "demande ferme",
+   "langues": {
+    "dyu": {
+     "texte": "i jija k'a ɲini",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "ƴamugo bee gooŋga",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n8.choices.1.label",
    "type": "choix",
    "chemin": "nodes.n8.choices.1.label",
-   "texte": "« Je vous combats tous ! »"
+   "texte": "« Je vous combats tous ! »",
+   "langues": {
+    "dyu": {
+     "texte": "Ne bena aw bɛɛ kɛlɛ! ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Mi ɗon haɓana on fuu! ",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n8.choices.1.tag",
    "type": "parcours",
    "chemin": "nodes.n8.choices.1.tag",
-   "texte": "menace"
+   "texte": "menace",
+   "langues": {
+    "dyu": {
+     "texte": "siranya",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "haayre",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "combat",
@@ -322,7 +740,23 @@
    "texte": "Personne ne combat la brousse chez elle, chasseur. Parle mieux, ou repars seul.",
    "genre": "voix de génie/libre",
    "duree_ms": 5840,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Mɔgɔ si t'a fɛ k'o yiritu kɛlɛ. N'i tɛ se ka kuma, i kelen lo bena taga.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5594,
+     "fichier": "tene-balafon-combat-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Walaa mo torra bee le'i nder saare maako, mawɗo. Ɗowan ko ɓuri wooɗugo, koo boo toɗɗaa hoore maaɗa.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7306,
+     "fichier": "tene-balafon-combat-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n9",
@@ -336,7 +770,23 @@
    "texte": "Rendez cette enfant à sa mère.",
    "genre": "adulte/homme",
    "duree_ms": 2580,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Aw ye den nin di a bamuso ma.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2288,
+     "fichier": "tene-balafon-n9-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "A hokke ɓiɗɗo o'o to inna maako.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2400,
+     "fichier": "tene-balafon-n9-fuf.m4a"
+    }
+   }
   },
   {
    "id": "rendre",
@@ -350,7 +800,23 @@
    "texte": "Garde ce balafon, enfant. Il est à toi.",
    "genre": "voix de génie/libre",
    "duree_ms": 3790,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "N'a sɔrɔ i ka kan k'o kɛ. A ye i ta ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3850,
+     "fichier": "tene-balafon-rendre-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Goɗɗum, ɓiyum. O jeyaa to maaɗa.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3178,
+     "fichier": "tene-balafon-rendre-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n10",
@@ -364,7 +830,23 @@
    "texte": "Téné s'éveille comme d'un long rêve. À la fête des récoltes, elle joue le balafon des génies, et tout le village danse.",
    "genre": "adulte/homme",
    "duree_ms": 9260,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Téné kununna i n'a fɔ sikojan. Simantigɛ ɲanagwɛ tuma na, a be dɔnkirila ni jinamɔgɔw ye. O kɔ, dugumɔgɔw bɛɛ b'a fɛ ka dɔn kɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 10452,
+     "fichier": "tene-balafon-n10-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Téné ummi bana nder ɗaanaare. Nder juulde nyaamdu, o ɗon fijirta ko'e maako. Yimɓe gariiri fuu ɗon njogge.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8660,
+     "fichier": "tene-balafon-n10-fuf.m4a"
+    }
+   }
   },
   {
    "id": "film-001",
@@ -380,7 +862,19 @@
    "texte": "Téné et le balafon des génies. Un conte senoufo.",
    "genre": "adulte/libre",
    "duree_ms": 4600,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Téné ni jinɛw ka mankan. O tun ye maana dɔ ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Tinndi e ɓeynguure jinnaaɓe. Ɗuum woni haala senoufu.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-002",
@@ -396,7 +890,19 @@
    "texte": "Le soir, au village, le vieux Ziè jouait du balafon.",
    "genre": "adulte/libre",
    "duree_ms": 4300,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Sɔgɔma wulafɛ, Ziè tun be balafɔni kɛra dugu kɔnɔ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Nder jemma nder gariiri, Ziè mawɗo ɗon mooɓta balafon.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-003",
@@ -412,7 +918,19 @@
    "texte": "Et Téné dansait. Elle aimait cet instrument plus que tout au monde.",
    "genre": "adulte/libre",
    "duree_ms": 5200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O kɔ, Téné tun be dansi kɛra. A tun b'o fɔlifɛnw kanu ka tɛmɛ fɛɛn bɛɛ kan.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Téné boo ɗon yaha. O yiɗi kuugal ngal ɓurɗum kooɗume nder duuniyaaru.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-004",
@@ -428,7 +946,19 @@
    "texte": "Une nuit, une autre musique monta de la brousse. Plus belle que celle de Ziè. Plus lointaine aussi.",
    "genre": "adulte/libre",
    "duree_ms": 7900,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Loon dɔ sufɛ, dɔnkilila wɛrɛ bɔra yiritu la. A cɛ ka ɲi ka tɛmɛ Ziye ta kan. O fana ka kan ka kɛ yɔrɔjan.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Nder jemma go'o, muusikol feere ummi diga nder leɗɗe. Ɗuum ɓurii ɗi Zié waɗi. Bana non boo, ɓe ɓeydi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-005",
@@ -444,7 +974,19 @@
    "texte": "Téné se leva sans bruit. Elle quitta sa natte, et elle partit vers le son.",
    "genre": "adulte/libre",
    "duree_ms": 5700,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Téné kununna ani mankan ma bɔ a kaan na. A bɔra a ka dilan kan, ka taga mankan fɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Téné ummi haa ɗon. O wurti nder kawtal maako, o yahdi to haala.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-006",
@@ -460,7 +1002,19 @@
    "texte": "Dans une clairière, les génies de la brousse jouaient à la lune.",
    "genre": "adulte/libre",
    "duree_ms": 4100,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Yɔrɔ dɔ la, yirituw tun b'a fɛ ka kalo ta.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "E nder go'o, mawɓe ley leɗɗe ɓe ngaɗi bee lewru.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-007",
@@ -476,7 +1030,19 @@
    "texte": "Téné se mit à danser, et elle ne put plus s'arrêter. Les génies tournaient autour d'elle.",
    "genre": "adulte/libre",
    "duree_ms": 6400,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Téné y'a daminɛ ka dɔn kɛ, a ma se k'a to. Hakilitigiw tun b'a lamini.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Téné fuɗɗi nyaamugo, o waawataa daranaago. Mawɓe ɓeen mbi'i ɗum'en.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-008",
@@ -492,7 +1058,19 @@
    "texte": "Elle avait tout oublié : son nom, sa mère, son village.",
    "genre": "adulte/libre",
    "duree_ms": 4600,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "A tun ɲinɛna a tɔgɔ, a bamuso ani a ka dugudennin kɔ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "O yejjiti koo ɗume: innde maako, inna maako, gariiri maako.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-009",
@@ -508,7 +1086,19 @@
    "texte": "Au matin, la natte était vide.",
    "genre": "adulte/libre",
    "duree_ms": 3100,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O dugusagwɛ sɔgɔmada joona fɛ, sinɔgɔ tun tɛ yen.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Nde subaka, ɗerewol ngol walaa.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-010",
@@ -524,7 +1114,19 @@
    "texte": "Téné ! Ma fille n'est plus là !",
    "genre": "adulte/femme",
    "duree_ms": 3700,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "N' y'a fɔ i ye ko: Ne denmuso tɛ yan tugun!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Tinndi ! Ɓiɗɗo am boo walaa!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-011",
@@ -540,7 +1142,19 @@
    "texte": "Personne ne l'a vue ?",
    "genre": "adulte/homme",
    "duree_ms": 2100,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Mɔgɔ si m'a ye wa?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Walaa goɗɗo yi'i mo?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-012",
@@ -556,7 +1170,19 @@
    "texte": "Cette nuit, j'ai entendu jouer en brousse.",
    "genre": "âgé/libre",
    "duree_ms": 3000,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Loon dɔ sufɛ, n' y'a mɛn ko mɔgɔw be tulogwɛlɛnw kɛra yiritu kɔnɔ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "E nder jemma oo, mi nani yimɓe ɗon kolli nder lekki.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-013",
@@ -572,7 +1198,19 @@
    "texte": "Les génies !",
    "genre": "adulte/femme",
    "duree_ms": 2100,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Hakilitigiw!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Geniiji!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-014",
@@ -588,7 +1226,19 @@
    "texte": "On alla trouver les chasseurs dozo, les gardiens de la brousse.",
    "genre": "adulte/libre",
    "duree_ms": 4300,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "An tagara dozo jagokɛlaw yɔrɔ, yiritu kɔrɔsibagaw.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "En njahi haa ɓe ɗon ɗaɓɓa dozo'en, ɓe ɗon cembiɗina leɗɗe.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-015",
@@ -604,7 +1254,19 @@
    "texte": "Ramenez-moi ma fille, je vous en prie.",
    "genre": "adulte/homme",
    "duree_ms": 2800,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "N'i b'a fɛ i ka n' denmuso di ne ma, ne b'i daali.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Wurtinee yam ɓiɗɗo am debbo, torake.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-016",
@@ -620,7 +1282,19 @@
    "texte": "Nous partirons ce soir.",
    "genre": "adulte/homme",
    "duree_ms": 2600,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "An bena taga bi sufɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "En njahi nder jemma.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-017",
@@ -636,7 +1310,19 @@
    "texte": "Le maître consulta ses amulettes et leva son chasse-mouche. Puis les dozo partirent avec leur chien.",
    "genre": "adulte/libre",
    "duree_ms": 6800,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "A k'a ta nɛgɛbɛnnanw flɛ. O kɔ, a ka a ta sowotoro kɔrɔta. O kɔ, u tagara n'u ka wulu ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Joomiraawo boo ƴamɗini ko'e maako, o ummini mo. Nden dozo'en ndilli bee doggi maɓɓe.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-018",
@@ -652,7 +1338,19 @@
    "texte": "Ils marchèrent toute la nuit. Le chien flairait les herbes.",
    "genre": "adulte/libre",
    "duree_ms": 4700,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "U tagamana suu bɛɛ. Wuluw kasa tun b'a la.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Ɓe ɗon yaha jemma fuu. Mbira'en ɗon nana leɗɗe.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-019",
@@ -668,7 +1366,19 @@
    "texte": "Au loin, la musique revenait. Les hommes s'arrêtèrent, puis ils avancèrent en silence.",
    "genre": "adulte/libre",
    "duree_ms": 7000,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Ka fara o kan, dɔnkilila tun be bɔ yɔrɔjan. Cɛɛw lɔra, o kɔ, u jera.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Nder yaasi, yimɓe ɗon maaro. Yimɓe ɓen ummii, ɓe ndilli.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-020",
@@ -684,7 +1394,19 @@
    "texte": "Le maître dozo leva son chasse-mouche. Un éclair, et tout s'arrêta.",
    "genre": "adulte/libre",
    "duree_ms": 6000,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Dozo kuntigi y'a ka kɛlɛkɛminanw kɔrɔta. Sanmanamana dɔ nana bɔ, o bɛɛ banna.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Jaagorɗo dozo ƴetti nyaamdu mum. Ɗuum woni ɓooyaare, nden koo ɗume ummi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-021",
@@ -700,7 +1422,19 @@
    "texte": "Rendez cette enfant à sa mère.",
    "genre": "adulte/homme",
    "duree_ms": 2900,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Aw ye den nin di a bamuso ma.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "A hokke ɓiɗɗo o'o to inna maako.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-022",
@@ -716,7 +1450,19 @@
    "texte": "Le chef des génies hésita, puis il céda.",
    "genre": "adulte/libre",
    "duree_ms": 3600,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Hakili senu kuntigi tun be sigasigara ani a sɔnna.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Mawɗo ginnaaji'en duumii, sey o hooti.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-023",
@@ -732,7 +1478,19 @@
    "texte": "Garde ce balafon. Il est à toi.",
    "genre": "esprit, créature : voix grave/libre",
    "duree_ms": 3800,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "I k'i yɛrɛ tanga o fɔlifɛn ma. A ye i ta ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Jaɓɓorgo Fedde Ɓamtaare. O jeyaa to maaɗa.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-024",
@@ -748,7 +1506,19 @@
    "texte": "Il le laissa à Téné, qui s'éveilla comme d'un long rêve.",
    "genre": "adulte/libre",
    "duree_ms": 4100,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "A k'a to Tenɛ ye sunɔgɔ, min kununa i ko sikojan.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "O acci mo to Tene, o ummi bana nder lekki.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-025",
@@ -764,7 +1534,19 @@
    "texte": "À la fête des récoltes, Téné joua le balafon des génies. Et tout le village dansa.",
    "genre": "adulte/libre",
    "duree_ms": 6300,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O kɔ, Téné y'a fɔ a ye ko: \"N' tun b'i fɛ ka suman tigɛ. O kɔ, dugumɔgɔw bɛɛ ye dɔɔn kɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Nder juulde re'eteeɓe, Téné feewti balfon genius. Yimɓe nder gariiri ndin fuu mbi'i:",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   }
  ]
 }

@@ -11,55 +11,135 @@
    "id": "titre",
    "type": "titre",
    "chemin": "titre",
-   "texte": "Les Lingani de Tangaré"
+   "texte": "Les Lingani de Tangaré",
+   "langues": {
+    "dyu": {
+     "texte": "Tangaré ka Lingani mɔgɔw",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Tangare Lingani rãmbã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "presentation",
    "type": "presentation",
    "chemin": "presentation",
-   "texte": "À Garango, la chefferie a sa règle. Un homme n'attend pas et pose la couronne sur sa tête. Tu accompagnes les anciens. La préparation du chef à Tangaré reste secrète : le jeu n'en montre rien."
+   "texte": "À Garango, la chefferie a sa règle. Un homme n'attend pas et pose la couronne sur sa tête. Tu accompagnes les anciens. La préparation du chef à Tangaré reste secrète : le jeu n'en montre rien.",
+   "langues": {
+    "dyu": {
+     "texte": "Garango dugu la, mɔgɔw ka ɲi k'u yɛrɛ majigi. Mɔgɔ tɛ kɔnɔni kɛ ka masafugulan biri a kun na. I be taga ni diinan mɔgɔkɔrɔw ye. A tun labɛnnin lo cogo min na Tangaré dugu la, o tɛ bɔ kɛnɛ kan.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Gãrango tẽnga taoor dãmb tara noy b sẽn segd n tũ. Rao sã n pa gũuda, a ningda a zu-soaba naam. Yãmb na n tũu kãsem-dãmbã. Sẽn na yɩl n bãng a sẽn segl-a Tangiere wã, yaa yel-solemde.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "personnages.griot.nom",
    "type": "personnage",
    "chemin": "personnages.griot.nom",
-   "texte": "Le griot"
+   "texte": "Le griot",
+   "langues": {
+    "dyu": {
+     "texte": "Le griot"
+    },
+    "mos": {
+     "texte": "Le griot"
+    }
+   }
   },
   {
    "id": "personnages.pretendant.nom",
    "type": "personnage",
    "chemin": "personnages.pretendant.nom",
-   "texte": "Le prétendant"
+   "texte": "Le prétendant",
+   "langues": {
+    "dyu": {
+     "texte": "Le prétendant"
+    },
+    "mos": {
+     "texte": "Le prétendant"
+    }
+   }
   },
   {
    "id": "personnages.ancien.nom",
    "type": "personnage",
    "chemin": "personnages.ancien.nom",
-   "texte": "L'ancien"
+   "texte": "L'ancien",
+   "langues": {
+    "dyu": {
+     "texte": "L'ancien"
+    },
+    "mos": {
+     "texte": "L'ancien"
+    }
+   }
   },
   {
    "id": "personnages.guide.nom",
    "type": "personnage",
    "chemin": "personnages.guide.nom",
-   "texte": "Le guide"
+   "texte": "Le guide",
+   "langues": {
+    "dyu": {
+     "texte": "Le guide"
+    },
+    "mos": {
+     "texte": "Le guide"
+    }
+   }
   },
   {
    "id": "personnages.elu.nom",
    "type": "personnage",
    "chemin": "personnages.elu.nom",
-   "texte": "L'élu"
+   "texte": "L'élu",
+   "langues": {
+    "dyu": {
+     "texte": "L'élu"
+    },
+    "mos": {
+     "texte": "L'élu"
+    }
+   }
   },
   {
    "id": "fins.canon",
    "type": "fin",
    "chemin": "fins.canon",
-   "texte": "Version du griot : nul ne règne sans passer par Tangaré"
+   "texte": "Version du griot : nul ne règne sans passer par Tangaré",
+   "langues": {
+    "dyu": {
+     "texte": "Griot ka fɔta: mɔgɔ si tɛ kuntigiya kɛ ni a ma tɛmɛ Tangaré fɛ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Gryot sẽn yeele: ned ka na n dɩ naam tɩ pa tũ Tangare ye",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "fins.raccourci",
    "type": "fin",
    "chemin": "fins.raccourci",
-   "texte": "Autre chemin : la couronne retombe encore"
+   "texte": "Autre chemin : la couronne retombe encore",
+   "langues": {
+    "dyu": {
+     "texte": "O kɔ, a ka masafugulan benna",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Bũmb a to: naam-kʋʋgã leb n lʋɩta",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "n1",
@@ -73,7 +153,23 @@
    "texte": "À Garango, en pays bissa, la chefferie a sa règle. Elle est ancienne, et elle ne se discute pas. Le chef est mort, et le pays est en deuil. Mais déjà, on regarde la couronne.",
    "genre": "adulte/homme",
    "duree_ms": 15250,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Garango dugu la, mɔgɔw ka ɲi k'u yɛrɛ majigi. A kɔrɔla ani a tɛ kuma ɲɔgɔn fɛ. \" Kuntigi sara, jamana bɛɛ bɛ ŋunana. Nka, an b'a fɛ k'o kɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 12494,
+     "fichier": "lingani-n1-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Gãrango, sẽn yaa tẽn-kãseng a ye pʋgẽ wã, neb nins sẽn yaa kãsm dãmb segd n tũuda b noyã. A yaa kãsem soaba, la a pa zabd ne taab ye. Zu-soaba kiime, la tẽnga fãa yãbdame. La d zoe n get-a lame.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 17102,
+     "fichier": "lingani-n1-mos.m4a"
+    }
+   }
   },
   {
    "id": "n2",
@@ -87,7 +183,23 @@
    "texte": "Je n'ai besoin de personne.",
    "genre": "adulte/homme",
    "duree_ms": 2200,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Ne mako tɛ mɔgɔ si la.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 1696,
+     "fichier": "lingani-n2-dyu.m4a"
+    },
+    "mos": {
+     "texte": "M pa rat ned ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 1392,
+     "fichier": "lingani-n2-mos.m4a"
+    }
+   }
   },
   {
    "id": "n3",
@@ -101,7 +213,23 @@
    "texte": "Il pose la couronne lui-même sur sa tête. La couronne glisse et tombe. Il la ramasse. Elle retombe encore. Un orage éclate, et le mil se couche dans les champs.",
    "genre": "adulte/homme",
    "duree_ms": 13050,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "A yɛrɛ ka masafugula biri a kun na. Masafugulan jigira ka ben. A be taga n'a ye. A be segira ka ben. Sanfɔɲɔba dɔ wurira, ka siman lajigi foro kɔnɔ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 12856,
+     "fichier": "lingani-n3-dyu.m4a"
+    },
+    "mos": {
+     "texte": "A meng n gãd a zu-soabã zugu. Tãn-kãnga lʋɩɩsame n lʋɩ. A wʋka-a lame. A leb n lʋɩɩsame. Sa-kãseng yiime, la bõn-buudã lʋɩɩs pʋʋgẽ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 12536,
+     "fichier": "lingani-n3-mos.m4a"
+    }
+   }
   },
   {
    "id": "n4",
@@ -115,31 +243,87 @@
    "texte": "Les gens se détournent de lui. Toi, parmi les anciens, que proposes-tu ?",
    "genre": "adulte/homme",
    "duree_ms": 5840,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Mɔgɔw b'u yɛrɛ mabɔ a la. E min ye cɛkɔrɔba ye, i b'a fɛ ka mun le fɔ?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6506,
+     "fichier": "lingani-n4-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Nebã zãaga b mens ne-a. Yãmb sẽn be nin-kẽemb sʋka, bõe la y na n maan?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6218,
+     "fichier": "lingani-n4-mos.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n4.choices.0.label",
    "type": "choix",
    "chemin": "nodes.n4.choices.0.label",
-   "texte": "Aller chercher celui que le conseil a désigné"
+   "texte": "Aller chercher celui que le conseil a désigné",
+   "langues": {
+    "dyu": {
+     "texte": "Ka taga mɔgɔ min sugandi kititigɛso kɔnɔ, a ɲini o tigi fɛ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "B kẽngame n tɩ bao ned ning b sẽn yãkã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n4.choices.0.tag",
    "type": "parcours",
    "chemin": "nodes.n4.choices.0.tag",
-   "texte": "élu cherché"
+   "texte": "élu cherché",
+   "langues": {
+    "dyu": {
+     "texte": "mɔgɔ sugandi min ɲinina",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "neb nins b sẽn da baoodã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n4.choices.1.label",
    "type": "choix",
    "chemin": "nodes.n4.choices.1.label",
-   "texte": "Lui laisser une dernière chance"
+   "texte": "Lui laisser une dernière chance",
+   "langues": {
+    "dyu": {
+     "texte": "A to a ye see wɛrɛ sɔrɔ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Bas-y-yã-a lame t'a paam sokre.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n4.choices.1.tag",
    "type": "parcours",
    "chemin": "nodes.n4.choices.1.tag",
-   "texte": "dernière chance"
+   "texte": "dernière chance",
+   "langues": {
+    "dyu": {
+     "texte": "sababu laban",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "zu-loɛɛga",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "chance",
@@ -153,31 +337,87 @@
    "texte": "Il remet la couronne. Elle tombe. L'orage redouble. Tous attendent que tu parles.",
    "genre": "adulte/homme",
    "duree_ms": 6140,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "A b'a ka masafugulan di a ma. A be ben. Sanfɔɲɔ be juguyara ka taga. U bɛɛ b'a kɔnɔna ko i ka kuma.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8926,
+     "fichier": "lingani-chance-dyu.m4a"
+    },
+    "mos": {
+     "texte": "A lebs-a-la naamã. A lʋɩɩsame. Sa-kãsengã paasdame. B fãa gũudame tɩ y gom.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8062,
+     "fichier": "lingani-chance-mos.m4a"
+    }
+   }
   },
   {
    "id": "nodes.chance.choices.0.label",
    "type": "choix",
    "chemin": "nodes.chance.choices.0.label",
-   "texte": "Aller chercher l'élu du conseil"
+   "texte": "Aller chercher l'élu du conseil",
+   "langues": {
+    "dyu": {
+     "texte": "N' tun b'a fɛ ka taga mɔgɔ min woloma k'a kɛ kititigɛla ye, n' tun y'o tigi wele.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "B kẽngame n tɩ bool b taoor soab ning b sẽn yãkã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.chance.choices.0.tag",
    "type": "parcours",
    "chemin": "nodes.chance.choices.0.tag",
-   "texte": "élu cherché"
+   "texte": "élu cherché",
+   "langues": {
+    "dyu": {
+     "texte": "mɔgɔ sugandi min ɲinina",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "neb nins b sẽn da baoodã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.chance.choices.1.label",
    "type": "choix",
    "chemin": "nodes.chance.choices.1.label",
-   "texte": "Lui dire de la tenir avec les deux mains"
+   "texte": "Lui dire de la tenir avec les deux mains",
+   "langues": {
+    "dyu": {
+     "texte": "A fɔ a ye k'a bolo fila bɛɛ la a kan",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "B yeel-a lame t'a tall-a ne a nus a yiibu",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.chance.choices.1.tag",
    "type": "parcours",
    "chemin": "nodes.chance.choices.1.tag",
-   "texte": "couronne retenue"
+   "texte": "couronne retenue",
+   "langues": {
+    "dyu": {
+     "texte": "masafugulan minɛ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "roog b sẽn zã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "raccourci",
@@ -191,7 +431,23 @@
    "texte": "Il la tient à deux mains, et il ne peut plus rien faire d'autre. La pluie gâte tout, et le pays perd son chef sans en avoir de nouveau. Cette fin n'est pas dans la légende.",
    "genre": "adulte/homme",
    "duree_ms": 14880,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "O kɔ, a tɛ se ka foyi kɛ tuun. Sanjiba bɛ fɛn bɛɛ cɛn, jamana kuntigi tɛ sɔrɔ tuun. O tɛ koo kɔrɔ dɔ ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9732,
+     "fichier": "lingani-raccourci-dyu.m4a"
+    },
+    "mos": {
+     "texte": "A zãada a nug-biis a yiibu n pa tõe n maan bũmb a to ye. La saagã sãamda bũmb fãa, la tẽnga ka le tar a soab ye. La b pa tõe n yeel tɩ yaa bõn-kãng bal ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 13364,
+     "fichier": "lingani-raccourci-mos.m4a"
+    }
+   }
   },
   {
    "id": "elu",
@@ -205,55 +461,151 @@
    "texte": "Les anciens conduisent l'élu sur la route de Tangaré, le village des Lingani, les gardiens du pouvoir.",
    "genre": "adulte/homme",
    "duree_ms": 7060,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Cɛkɔrɔbaw tun b'a fɛ k'o mɔgɔ ɲɛnatɔmɔlenw ta ka taga n'u ye Tangaré sira kan, Lingani dugu la.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7808,
+     "fichier": "lingani-elu-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Kãsem-dãmbã zãada b sẽn yãkdã n kẽng Tangaré, Lingani tẽngã zugu.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7040,
+     "fichier": "lingani-elu-mos.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n5.question",
    "type": "jeu",
    "chemin": "nodes.n5.question",
-   "texte": "Comment appelle-t-on les gardiens du pouvoir de Tangaré ?"
+   "texte": "Comment appelle-t-on les gardiens du pouvoir de Tangaré ?",
+   "langues": {
+    "dyu": {
+     "texte": "Tanganere ka fanga kɔrɔsibagaw tɔgɔ ye di?",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Wãn-wãn la b boond Tangare tẽnga pãn-soaadbã?",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n5.gagne",
    "type": "jeu",
    "chemin": "nodes.n5.gagne",
-   "texte": "Oui, les Lingani."
+   "texte": "Oui, les Lingani.",
+   "langues": {
+    "dyu": {
+     "texte": "Ɔnhɔn, Linganikaw lo.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "N-ye, Lingani rãmbã.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n5.perdu",
    "type": "jeu",
    "chemin": "nodes.n5.perdu",
-   "texte": "Ce sont les Lingani."
+   "texte": "Ce sont les Lingani.",
+   "langues": {
+    "dyu": {
+     "texte": "O ye Lingani mɔgɔw lo ye.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Yaa Lingani rãmbã.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n5.reponses.0.label",
    "type": "jeu",
    "chemin": "nodes.n5.reponses.0.label",
-   "texte": "Les Lingani"
+   "texte": "Les Lingani",
+   "langues": {
+    "dyu": {
+     "texte": "Linganiw",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Lingani wã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n5.reponses.1.label",
    "type": "jeu",
    "chemin": "nodes.n5.reponses.1.label",
-   "texte": "Les Dozo"
+   "texte": "Les Dozo",
+   "langues": {
+    "dyu": {
+     "texte": "Dozow",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Dozo rãmbã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n5.reponses.2.label",
    "type": "jeu",
    "chemin": "nodes.n5.reponses.2.label",
-   "texte": "Les Touna"
+   "texte": "Les Touna",
+   "langues": {
+    "dyu": {
+     "texte": "Tunaw",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Tuna wã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n5.tags.win",
    "type": "parcours",
    "chemin": "nodes.n5.tags.win",
-   "texte": "bonne réponse"
+   "texte": "bonne réponse",
+   "langues": {
+    "dyu": {
+     "texte": "jaabili ɲuman",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "leokr sẽn yaa sõma",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n5.tags.lose",
    "type": "parcours",
    "chemin": "nodes.n5.tags.lose",
-   "texte": "réponse manquée"
+   "texte": "réponse manquée",
+   "langues": {
+    "dyu": {
+     "texte": "a ma jaabi",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "sẽn pa leokã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "n6",
@@ -267,7 +619,23 @@
    "texte": "Voici celui qui vient.",
    "genre": "adulte/homme",
    "duree_ms": 1820,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "A filɛ, min be nana.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 1568,
+     "fichier": "lingani-n6-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Ad-y ned ning sẽn watã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 1536,
+     "fichier": "lingani-n6-mos.m4a"
+    }
+   }
   },
   {
    "id": "n7",
@@ -281,31 +649,87 @@
    "texte": "L'élu entre dans la case. Nul ne sait ce qui s'y passe. Que feras-tu pendant ce temps ?",
    "genre": "adulte/homme",
    "duree_ms": 7740,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Ala ye mɔgɔ min woloma, ale be don kɛnɛma. Mɔgɔ si t'a lɔn fɛɛn min be kɛra yen. I bena mun lo kɛ o wagati la?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9876,
+     "fichier": "lingani-n7-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Sẽn yãk-a wã kẽnda zĩiga. Ned pa mi bũmb ning sẽn maand be ye. Bõe la y na n maan wakat kãnga?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7860,
+     "fichier": "lingani-n7-mos.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n7.choices.0.label",
    "type": "choix",
    "chemin": "nodes.n7.choices.0.label",
-   "texte": "Attendre dehors, avec les autres"
+   "texte": "Attendre dehors, avec les autres",
+   "langues": {
+    "dyu": {
+     "texte": "N' be kɔnɔni kɛ kɛnɛma ni mɔgɔ wɛrɛw ye",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "D gũuda ne neb a taabã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n7.choices.0.tag",
    "type": "parcours",
    "chemin": "nodes.n7.choices.0.tag",
-   "texte": "attente"
+   "texte": "attente",
+   "langues": {
+    "dyu": {
+     "texte": "ka kɔnɔni kɛ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "gũuda",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n7.choices.1.label",
    "type": "choix",
    "chemin": "nodes.n7.choices.1.label",
-   "texte": "Coller l'oreille à la paroi"
+   "texte": "Coller l'oreille à la paroi",
+   "langues": {
+    "dyu": {
+     "texte": "K'i tulo don kogo la",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Yãk-y y tʋbr ne wallã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n7.choices.1.tag",
    "type": "parcours",
    "chemin": "nodes.n7.choices.1.tag",
-   "texte": "curiosité"
+   "texte": "curiosité",
+   "langues": {
+    "dyu": {
+     "texte": "n b'a fɛ k'a lɔn",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "neb nins sẽn nong n bãng bũmb ninsã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "oreille",
@@ -319,7 +743,23 @@
    "texte": "Écarte-toi. La préparation reste secrète, et nous n'en dirons pas plus.",
    "genre": "adulte/homme",
    "duree_ms": 4930,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "I mabɔ n' na. O labɛn tun dogonin lo ani an tɛna o fɔ tugun.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5546,
+     "fichier": "lingani-oreille-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Yi-y n zãag y meng ne maam. Sẽn paase, d pa na n togs nebã bũmb ning b sẽn maandã ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7866,
+     "fichier": "lingani-oreille-mos.m4a"
+    }
+   }
   },
   {
    "id": "dehors",
@@ -333,7 +773,23 @@
    "texte": "Le jour du couronnement arrive. La couronne se pose sur sa tête, et elle tient. Doucement, la pluie revient sur le pays.",
    "genre": "adulte/homme",
    "duree_ms": 9560,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Masacɛ ka masafugulan loon be surunyana. Masacɛ ka masafugula biri a kun na, k'a sigi. Kɔfɛ, sanji kɔsegira jamana kan.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9492,
+     "fichier": "lingani-dehors-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Yaa wakat ning b sẽn na n dɩ naam wã. A Zezi naam roog n lʋɩɩ bãmb zugu, la b tõoga. La bilf-bilfu, saagã leb n waa tẽngã zugu.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 11092,
+     "fichier": "lingani-dehors-mos.m4a"
+    }
+   }
   },
   {
    "id": "n8",
@@ -347,7 +803,23 @@
    "texte": "Aujourd'hui encore, dit-on, nul ne règne à Garango sans passer par Tangaré. Le pouvoir qu'on prend sans suivre la coutume ne tient pas.",
    "genre": "adulte/homme",
    "duree_ms": 9640,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Mɔgɔw b'a fɔ ko hali bi, mɔgɔ si tɛ se ka sigi Garango dugu kunna ni a ma tɛmɛ Tangare dugu kan. Ni mɔgɔ b'a ta fanga sɔrɔ k'a sɔrɔ a t'o kɛ ka kɛɲɛ ni landa ye, o tigi tɛ se ka to.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 13642,
+     "fichier": "lingani-n8-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Baa rũndã-rũndã, b yetame tɩ ned baa a yen ka rɩt naam Garango soolmẽ n yaool n kẽng Tangare. Ned sã n dɩt a naamã n pa tũud minimã, a ka tõe n tall pãnga ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 13050,
+     "fichier": "lingani-n8-mos.m4a"
+    }
+   }
   },
   {
    "id": "film-001",
@@ -363,7 +835,19 @@
    "texte": "Les Lingani de Tangaré. Une légende de pouvoir, en pays bissa.",
    "genre": "adulte/libre",
    "duree_ms": 5700,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Tangare ka Lingani mɔgɔw lo. Fanga min tun b'u fɛ, u y'o lakali jamana wɛrɛ kɔnɔ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A Lingani wã sẽn be Tangare. Bãngr-gomd sẽn gomd pãn-tõog yelle.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-002",
@@ -379,7 +863,19 @@
    "texte": "À Garango, en pays bissa, la chefferie a sa règle. Elle est ancienne, et elle ne se discute pas.",
    "genre": "adulte/libre",
    "duree_ms": 7600,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Garango dugu la, mɔgɔw ka ɲi k'u yɛrɛ majigi. A kɔrɔla ani a tɛ kuma ɲɔgɔn fɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Gãrango, sẽn yaa tẽn-kãseng a ye pʋgẽ wã, neb nins sẽn yaa kãsm dãmb segd n tũuda b noyã. A yaa kãsem soaba, la a pa zabd ne taab ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-003",
@@ -395,7 +891,19 @@
    "texte": "Le chef est mort, et le pays est en deuil. Mais déjà, on regarde la couronne.",
    "genre": "adulte/libre",
    "duree_ms": 6400,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "\" Kuntigi sara, jamana bɛɛ bɛ ŋunana. Nka, an b'a fɛ k'o kɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Zu-soaba kiime, la tẽnga fãa yãbdame. La d zoe n get-a lame.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-004",
@@ -411,7 +919,19 @@
    "texte": "Un homme ne veut pas attendre.",
    "genre": "adulte/libre",
    "duree_ms": 2600,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Cɛɛ dɔ t'a fɛ ka kɔnɔni kɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Ned pa rat n gũ ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-005",
@@ -427,7 +947,19 @@
    "texte": "Je n'ai besoin de personne.",
    "genre": "adulte/homme",
    "duree_ms": 2700,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Ne mako tɛ mɔgɔ si la.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "M pa rat ned ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-006",
@@ -443,7 +975,19 @@
    "texte": "Et il pose la couronne lui-même sur sa tête. Les anciens baissent les yeux, sans rien dire.",
    "genre": "adulte/libre",
    "duree_ms": 6600,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O kɔ, a ka masafugula biri a kun na. Diinan mɔgɔkɔrɔw y'u ɲɛɛ biri duguma k'a sɔrɔ u ma foyi fɔ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "La a Zezi meng na n yeelg-a-la naam roogo. Kãsem-dãmbã wõgemda b ninã, n pa leok ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-007",
@@ -459,7 +1003,19 @@
    "texte": "La couronne glisse et tombe. Il la ramasse. Elle retombe encore.",
    "genre": "adulte/libre",
    "duree_ms": 6500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Masafugulan jigira ka ben. A be taga n'a ye. A be segira ka ben.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Tãn-kãnga lʋɩɩsame n lʋɩ. A wʋka-a lame. A leb n lʋɩɩsame.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-008",
@@ -475,7 +1031,19 @@
    "texte": "Un orage éclate, et le mil se couche dans les champs. Les gens se détournent de lui.",
    "genre": "adulte/libre",
    "duree_ms": 6000,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Sanfɔɲɔba dɔ wurira, ka siman lajigi foro kɔnɔ. Mɔgɔw b'u yɛrɛ mabɔ a la.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Sa-kãseng yiime, la bõn-buudã lʋɩɩs pʋʋgẽ. Nebã zãaga b mens ne-a.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-009",
@@ -491,7 +1059,19 @@
    "texte": "Sans les Lingani, disent-ils, la couronne ne tient pas.",
    "genre": "adulte/libre",
    "duree_ms": 4200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "U b'a fɔ ko ni Linganiw tɛ yen, o masafugulan tɛna se ka sigi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "B yetame tɩ sã n pa tar Lingãni rãmbã, b na n paama zu-soaba.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-010",
@@ -507,7 +1087,19 @@
    "texte": "Alors, les anciens vont chercher le futur chef, celui que le conseil a désigné.",
    "genre": "adulte/libre",
    "duree_ms": 5700,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O kɔ, diinan mɔgɔkɔrɔw ka ɲi k'o kuntigi sugandi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Rẽ poore, kãsem-dãmbã na n baoo taoor soab ning b sẽn yãkã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-011",
@@ -523,7 +1115,19 @@
    "texte": "Ils le conduisent sur la route de Tangaré.",
    "genre": "adulte/libre",
    "duree_ms": 3100,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "U y'a ta ka taga n'a ye Tangaré sira kan.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "B tall-a lame n kẽng Tangare.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-012",
@@ -539,7 +1143,19 @@
    "texte": "Tangaré est le village des Lingani, les gardiens du pouvoir.",
    "genre": "adulte/libre",
    "duree_ms": 4400,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Tangaré ye Lingani dugumɔgɔw ka dugu lo ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Tangaré yaa Lingani nebã tẽn-tẽngã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-013",
@@ -555,7 +1171,19 @@
    "texte": "Voici celui qui vient.",
    "genre": "âgé/libre",
    "duree_ms": 2500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "A filɛ, min be nana.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Ad-y ned ning sẽn watã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-014",
@@ -571,7 +1199,19 @@
    "texte": "L'élu entre dans la case. Nul ne sait ce qui s'y passe.",
    "genre": "adulte/libre",
    "duree_ms": 5200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Ala ye mɔgɔ min woloma, ale be don kɛnɛma. Mɔgɔ si t'a lɔn fɛɛn min be kɛra yen.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Sẽn yãk-a wã kẽnda zĩiga. Ned pa mi bũmb ning sẽn maand be ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-015",
@@ -587,7 +1227,19 @@
    "texte": "La préparation reste secrète, et nous n'en dirons pas plus.",
    "genre": "adulte/libre",
    "duree_ms": 4200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O labɛn tun dogonin lo ani an tɛna o fɔ tugun.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Sẽn paase, d pa na n togs nebã bũmb ning b sẽn maandã ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-016",
@@ -603,7 +1255,19 @@
    "texte": "Le jour du couronnement arrive. La couronne se pose sur sa tête, et elle tient.",
    "genre": "adulte/libre",
    "duree_ms": 6100,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Masacɛ ka masafugulan loon be surunyana. Masacɛ ka masafugula biri a kun na, k'a sigi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Yaa wakat ning b sẽn na n dɩ naam wã. A Zezi naam roog n lʋɩɩ bãmb zugu, la b tõoga.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-017",
@@ -619,7 +1283,19 @@
    "texte": "Doucement, la pluie revient sur le pays.",
    "genre": "adulte/libre",
    "duree_ms": 3500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Kɔfɛ, sanji kɔsegira jamana kan.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "La bilf-bilfu, saagã leb n waa tẽngã zugu.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-018",
@@ -635,7 +1311,19 @@
    "texte": "Aujourd'hui encore, dit-on, nul ne règne à Garango sans passer par Tangaré.",
    "genre": "adulte/libre",
    "duree_ms": 5600,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Mɔgɔw b'a fɔ ko hali bi, mɔgɔ si tɛ se ka sigi Garango dugu kunna ni a ma tɛmɛ Tangare dugu kan.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Baa rũndã-rũndã, b yetame tɩ ned baa a yen ka rɩt naam Garango soolmẽ n yaool n kẽng Tangare.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   }
  ]
 }

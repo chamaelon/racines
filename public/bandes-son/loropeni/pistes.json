@@ -11,61 +11,149 @@
    "id": "titre",
    "type": "titre",
    "chemin": "titre",
-   "texte": "Les ruines de Loropéni"
+   "texte": "Les ruines de Loropéni",
+   "langues": {
+    "dyu": {
+     "texte": "Loropeni dugu tomow",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Kuje Loropeni",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "presentation",
    "type": "presentation",
    "chemin": "presentation",
-   "texte": "De longs murs de pierre sortent de la brousse. Qui les a bâtis, et pourquoi ? Remonte le temps, choisis ce que tu veux voir, puis réponds à l'enquête. Tes choix changent ce que tu découvres, jamais les faits."
+   "texte": "De longs murs de pierre sortent de la brousse. Qui les a bâtis, et pourquoi ? Remonte le temps, choisis ce que tu veux voir, puis réponds à l'enquête. Tes choix changent ce que tu découvres, jamais les faits.",
+   "langues": {
+    "dyu": {
+     "texte": "Ka fara o kan, kabakuru kogojanw bɛ bɔ yiritu kɔnɔ. Jɔn lo y'u lɔ ani mun na? N'i b'a fɛ ka min ye, a ɲini k'o filɛ. O kɔ, i ka ɲiningaliw jaabi. I be koo minw latigɛ, o lo b'i dɛmɛ k'o faamu.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Duuɗe mawnge ɗe kaaƴe ɓeydaama nder leɗɗe. Moy mahdi ɗi, e ngam ɗume? Taƴa wakkati, suɓi ko ngi'oto, ɓaawo maajum jaabbi haala. Hakkiilooji ma waylii ko a anndi, naa goonga.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "personnages.griot.nom",
    "type": "personnage",
    "chemin": "personnages.griot.nom",
-   "texte": "Le griot"
+   "texte": "Le griot",
+   "langues": {
+    "dyu": {
+     "texte": "Le griot"
+    },
+    "fuf": {
+     "texte": "Le griot"
+    }
+   }
   },
   {
    "id": "personnages.guide.nom",
    "type": "personnage",
    "chemin": "personnages.guide.nom",
-   "texte": "La guide"
+   "texte": "La guide",
+   "langues": {
+    "dyu": {
+     "texte": "La guide"
+    },
+    "fuf": {
+     "texte": "La guide"
+    }
+   }
   },
   {
    "id": "personnages.chef.nom",
    "type": "personnage",
    "chemin": "personnages.chef.nom",
-   "texte": "Le chef"
+   "texte": "Le chef",
+   "langues": {
+    "dyu": {
+     "texte": "Le chef"
+    },
+    "fuf": {
+     "texte": "Le chef"
+    }
+   }
   },
   {
    "id": "personnages.orfevre.nom",
    "type": "personnage",
    "chemin": "personnages.orfevre.nom",
-   "texte": "L'orfèvre"
+   "texte": "L'orfèvre",
+   "langues": {
+    "dyu": {
+     "texte": "L'orfèvre"
+    },
+    "fuf": {
+     "texte": "L'orfèvre"
+    }
+   }
   },
   {
    "id": "personnages.marchand.nom",
    "type": "personnage",
    "chemin": "personnages.marchand.nom",
-   "texte": "Le marchand"
+   "texte": "Le marchand",
+   "langues": {
+    "dyu": {
+     "texte": "Le marchand"
+    },
+    "fuf": {
+     "texte": "Le marchand"
+    }
+   }
   },
   {
    "id": "personnages.laveuse.nom",
    "type": "personnage",
    "chemin": "personnages.laveuse.nom",
-   "texte": "La laveuse d'or"
+   "texte": "La laveuse d'or",
+   "langues": {
+    "dyu": {
+     "texte": "La laveuse d'or"
+    },
+    "fuf": {
+     "texte": "La laveuse d'or"
+    }
+   }
   },
   {
    "id": "fins.canon",
    "type": "fin",
    "chemin": "fins.canon",
-   "texte": "Enquête réussie : le mystère reste entier, les pierres aussi"
+   "texte": "Enquête réussie : le mystère reste entier, les pierres aussi",
+   "langues": {
+    "dyu": {
+     "texte": "Kɔrɔbɔli min kɛra, u y'o faamu. O kɔ, u ye kabakuruw ta",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Jaɓɓorgo Ganndal Ɓamtaare: Ɓerɗe ɗee fof ina keewi wonde",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "fins.hate",
    "type": "fin",
    "chemin": "fins.hate",
-   "texte": "Enquête à reprendre : les pierres ont encore à dire"
+   "texte": "Enquête à reprendre : les pierres ont encore à dire",
+   "langues": {
+    "dyu": {
+     "texte": "Ɲiningali min ka kan k'a daminɛ: kabakuruw b'a fɛ ka min fɔ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Jaɓɓorgo Kewuuji pinal: kaaƴe ina woodi ko mbiya",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "n1",
@@ -79,7 +167,23 @@
    "texte": "Aujourd'hui, dans le sud-ouest du Burkina, de longs murs de pierre sortent de la brousse. Remontons le temps : les pierres se relèvent, une à une.",
    "genre": "adulte/femme",
    "duree_ms": 11080,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Bi, Burukina worodugu ni tileben fan fɛ, kogojanw be bɔ yiritu kɔnɔ. An k'a filɛ wagati min na: kabakuruw be lɔ kelen kelen.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 10340,
+     "fichier": "loropeni-n1-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Hannde, nder worgo hirnaange Burkina, cuuɗi mawɗi ɗi kaaƴe ɗon ƴiwo diga ladde. Ndaa no wakkati waɗi: kaaƴe ɗon ummitina, go'o gaɗa.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 10244,
+     "fichier": "loropeni-n1-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n2",
@@ -93,7 +197,23 @@
    "texte": "Plus haut, ce mur doit tenir des siècles !",
    "genre": "adulte/homme",
    "duree_ms": 3870,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "N'a sɔrɔ o kogo ka kan ka to saan kɛmɛkulu caaman kɔnɔ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3792,
+     "fichier": "loropeni-n2-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Haa dow, wallol ngol footi jaŋgugo duuɓi ujuneeje!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3808,
+     "fichier": "loropeni-n2-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n3",
@@ -107,31 +227,87 @@
    "texte": "Les Lohron ou les Koulango, ancêtres des chefs Touna, occupent le lieu. Leurs murs de latérite montent, rangée après rangée. Que veux-tu voir d'abord ?",
    "genre": "adulte/homme",
    "duree_ms": 10850,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Lohurɔnkaw, minw ye Touna kuntigiw bɛmacɛw ye, olu lo tun siginin bɛ o yɔrɔ la. O ta kogow bɛ yɛlɛnna ɲɔgɔn kan ɲɔgɔn kɔ. I b'a fɛ ka mun lo ye fɔlɔ?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 10916,
+     "fichier": "loropeni-n3-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Yimɓe Lohron, koo Koolango, maama'en ardiiɓe Touna njooɗi nokkuure nden. Ɗu'um e ɓaawo maɓɓe, cuuɗi mum'en ɗon njaɓɓa. Ko honɗun yiɗi yi'ugo arande?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 11332,
+     "fichier": "loropeni-n3-fuf.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n3.choices.0.label",
    "type": "choix",
    "chemin": "nodes.n3.choices.0.label",
-   "texte": "D'où vient l'or"
+   "texte": "D'où vient l'or",
+   "langues": {
+    "dyu": {
+     "texte": "Sanu bɔra min?",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Toonde jawdi ƴiwoy",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n3.choices.0.tag",
    "type": "parcours",
    "chemin": "nodes.n3.choices.0.tag",
-   "texte": "la piste de l'or"
+   "texte": "la piste de l'or",
+   "langues": {
+    "dyu": {
+     "texte": "sanu sira kan",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "laawol jaŋde",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n3.choices.1.label",
    "type": "choix",
    "chemin": "nodes.n3.choices.1.label",
-   "texte": "Comment on l'échange"
+   "texte": "Comment on l'échange",
+   "langues": {
+    "dyu": {
+     "texte": "An be se k'o kɛ cogo di?",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "No Fedde Ɓamtaare",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n3.choices.1.tag",
    "type": "parcours",
    "chemin": "nodes.n3.choices.1.tag",
-   "texte": "le marché"
+   "texte": "le marché",
+   "langues": {
+    "dyu": {
+     "texte": "lɔgɔfiyɛ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "jaaynde",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "or",
@@ -145,7 +321,23 @@
    "texte": "On lave le gravier à la calebasse. Au fond, quelques paillettes brillent. C'est long et dur, mais ces grains font la richesse de tout un pays.",
    "genre": "adulte/femme",
    "duree_ms": 11080,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "An b'a fɛ k'o kabakuruw ko. N'a sɔrɔ a be manamana. A ka jan, a ka gbɛlɛn; nka o simanw le bɛ jamana bɛɛ nafa.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9582,
+     "fichier": "loropeni-or-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Eɗen mbaɗata limce e calbaas. Haa ɓaawo maajum, laaɓuɗe goɗɗe ɗon cembiɗa. Ɗu'um ɓeydi ɗuuɗugo, ammaa ɗi ɗon mari risku lesdi fuu.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 11332,
+     "fichier": "loropeni-or-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n4",
@@ -159,31 +351,87 @@
    "texte": "Veux-tu voir aussi le marché ?",
    "genre": "adulte/homme",
    "duree_ms": 2580,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "I b'a fɛ ka lɔgɔfiyɛ fana ye wa?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2144,
+     "fichier": "loropeni-n4-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "A yiɗi yi'ugo jaaynde boo?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2000,
+     "fichier": "loropeni-n4-fuf.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n4.choices.0.label",
    "type": "choix",
    "chemin": "nodes.n4.choices.0.label",
-   "texte": "Oui, allons voir les marchands"
+   "texte": "Oui, allons voir les marchands",
+   "langues": {
+    "dyu": {
+     "texte": "Ɔnhɔn, an ka taga jagokɛlaw filɛ.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Haa, en ndaara jaaynooɓe",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n4.choices.0.tag",
    "type": "parcours",
    "chemin": "nodes.n4.choices.0.tag",
-   "texte": "le marché"
+   "texte": "le marché",
+   "langues": {
+    "dyu": {
+     "texte": "lɔgɔfiyɛ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "jaaynde",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n4.choices.1.label",
    "type": "choix",
    "chemin": "nodes.n4.choices.1.label",
-   "texte": "Non, passons à la suite"
+   "texte": "Non, passons à la suite",
+   "langues": {
+    "dyu": {
+     "texte": "N'o tɛ, an ka to k'o kɛ.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Na'o, en njaha yeeso.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n4.choices.1.tag",
    "type": "parcours",
    "chemin": "nodes.n4.choices.1.tag",
-   "texte": "marché négligé"
+   "texte": "marché négligé",
+   "langues": {
+    "dyu": {
+     "texte": "lɔgɔfiyɛ banna",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "jaayɗe ɓeydi",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "echange",
@@ -197,7 +445,23 @@
    "texte": "Dans la forteresse, les orfèvres fondent l'or. Les marchands arrivent de loin, et ils échangent le sel et les étoffes contre l'or.",
    "genre": "adulte/homme",
    "duree_ms": 9260,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Dunuɲamɔgɔw bɛ sanin yeele dugu barakaman kɔnɔ. Jagokɛbagaw bɛ nana ka bɔ yɔrɔjan; o bɛ kɔgɔ ni faniw falen sanin na.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9236,
+     "fichier": "loropeni-echange-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Nder berniwol mawɗo mo ummaatooje ɗuuɗake, yimɓe kuuje cembiɗɗe ɗon maɓɓita kaŋgeeri. Jaayndiyankooɓe ƴiwoyii daga woɗɗi, ɓe ngaddana ko'e maɓɓe bee ndema.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 11178,
+     "fichier": "loropeni-echange-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n5",
@@ -211,7 +475,23 @@
    "texte": "Touche-le : il est pur.",
    "genre": "adulte/homme",
    "duree_ms": 2350,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Aw ye maga a la, a saniyanin lo. \"",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2512,
+     "fichier": "loropeni-n5-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "To' on meemi mo, o laaɓɗo\".",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2032,
+     "fichier": "loropeni-n5-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n6",
@@ -225,7 +505,23 @@
    "texte": "Beau, mais trop cher pour moi.",
    "genre": "âgé/homme",
    "duree_ms": 2730,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "A ka ɲi, nka a sɔngɔ tun ka gwɛlɛ ne ma.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5296,
+     "fichier": "loropeni-n6-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Ɗo'o booɗɗum, ammaa ɗum ceede masin ngam am.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3584,
+     "fichier": "loropeni-n6-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n7",
@@ -239,7 +535,23 @@
    "texte": "Alors, plus de sel !",
    "genre": "adulte/homme",
    "duree_ms": 2350,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "O tuma na, kɔgɔ kana kɛ yen tugu!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2400,
+     "fichier": "loropeni-n7-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Ngam maajum, naa' masin!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2432,
+     "fichier": "loropeni-n7-fuf.m4a"
+    }
+   }
   },
   {
    "id": "abandon",
@@ -253,55 +565,151 @@
    "texte": "Puis la forteresse est abandonnée. Personne ne sait vraiment pourquoi. La brousse reprend les murs, et les arbres poussent entre les pierres.",
    "genre": "adulte/femme",
    "duree_ms": 9410,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "O kɔ, u y'a to o yɔrɔ barikaman tora. Mɔgɔ si t'a lɔn fɛɛn min kama. Yirisunw bɛ kogow lɔ, yiriw bɛ falen kabakuruw cɛ ra.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9444,
+     "fichier": "loropeni-abandon-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Nden gariiri mawndu ndu'u ɗon cembiɗina. Walaa mo anndi ngam ɗume. Le'i ɗon cembiɗina, lekki boo ɗon ɓanngina nder kaaƴe.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 10468,
+     "fichier": "loropeni-abandon-fuf.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n8.question",
    "type": "jeu",
    "chemin": "nodes.n8.question",
-   "texte": "Quelle année Loropéni est-il inscrit au patrimoine mondial de l'UNESCO ?"
+   "texte": "Quelle année Loropéni est-il inscrit au patrimoine mondial de l'UNESCO ?",
+   "langues": {
+    "dyu": {
+     "texte": "Loropenin kɛra UNESCO ka yɔrɔ ye saan jumɛn na?",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Ko ndeen hitaande Loropeni wurtinaama to UNESCO?",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n8.gagne",
    "type": "jeu",
    "chemin": "nodes.n8.gagne",
-   "texte": "Oui, en 2009 : c'est le premier site du Burkina Faso inscrit au patrimoine mondial."
+   "texte": "Oui, en 2009 : c'est le premier site du Burkina Faso inscrit au patrimoine mondial.",
+   "langues": {
+    "dyu": {
+     "texte": "Ɔnhɔn, saan 2009 la: o ye Burkina Faso jamana ka yɔrɔ fɔlɔ ye min kofɔra duniɲa kuru bɛɛ cɛɛn na.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Ee, e hitaande 2009: ɗum woni nokku arande Burkina Faso nder lislaamu keeri duniyaaru.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n8.perdu",
    "type": "jeu",
    "chemin": "nodes.n8.perdu",
-   "texte": "C'était en 2009 : le premier site du Burkina Faso inscrit au patrimoine mondial."
+   "texte": "C'était en 2009 : le premier site du Burkina Faso inscrit au patrimoine mondial.",
+   "langues": {
+    "dyu": {
+     "texte": "O kɛra saan 2009 la. Burkina Faso ye yɔrɔ fɔlɔ ye min kofɔra duniɲa ka cɛɛn na.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Ɗum waɗi nder hitaande 2009: nokku arandeejo Burkina Faso nder duniyaaru.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n8.reponses.0.label",
    "type": "jeu",
    "chemin": "nodes.n8.reponses.0.label",
-   "texte": "2009"
+   "texte": "2009",
+   "langues": {
+    "dyu": {
+     "texte": "Saan 2009",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "2009",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n8.reponses.1.label",
    "type": "jeu",
    "chemin": "nodes.n8.reponses.1.label",
-   "texte": "1960"
+   "texte": "1960",
+   "langues": {
+    "dyu": {
+     "texte": "Saan 1960",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "1960",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n8.reponses.2.label",
    "type": "jeu",
    "chemin": "nodes.n8.reponses.2.label",
-   "texte": "1991"
+   "texte": "1991",
+   "langues": {
+    "dyu": {
+     "texte": "San 1991",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "1991",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n8.tags.win",
    "type": "parcours",
    "chemin": "nodes.n8.tags.win",
-   "texte": "bonne réponse"
+   "texte": "bonne réponse",
+   "langues": {
+    "dyu": {
+     "texte": "jaabili ɲuman",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "jaabawol gooŋga",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n8.tags.lose",
    "type": "parcours",
    "chemin": "nodes.n8.tags.lose",
-   "texte": "réponse manquée"
+   "texte": "réponse manquée",
+   "langues": {
+    "dyu": {
+     "texte": "a ma jaabi",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "jaabol maayi",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "relire",
@@ -315,7 +723,23 @@
    "texte": "Rien n'est perdu : les pierres ne bougeront pas d'ici. Tu peux recommencer l'enquête.",
    "genre": "adulte/femme",
    "duree_ms": 6070,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "A ma foyi to yi; kabakuru si tɛna bɔ yan. I be se k'i ka ɲinini daminɛ kokura.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6516,
+     "fichier": "loropeni-relire-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Walaa ko majjata: hayre ɗe'e ɓayataa. Aɗa waawi fuɗɗude ɗaɓɓitaade.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6148,
+     "fichier": "loropeni-relire-fuf.m4a"
+    }
+   }
   },
   {
    "id": "bien",
@@ -329,7 +753,23 @@
    "texte": "Le mystère reste entier. Mais les pierres sont toujours là, et elles gardent la mémoire de ceux qui les ont dressées.",
    "genre": "adulte/femme",
    "duree_ms": 8730,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "O ye gundo lo ye. Nka o kabakuruw tora yi wagati bɛɛ; minw ka o lɔ, olugu hakiri bɛ to o ra.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8788,
+     "fichier": "loropeni-bien-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Ɗuum ɓeydaani. Ammaa kaaƴe ɗe'e ɗon haa foroy, ɓe kuuwaaɓe ɗe.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5370,
+     "fichier": "loropeni-bien-fuf.m4a"
+    }
+   }
   },
   {
    "id": "film-001",
@@ -345,7 +785,19 @@
    "texte": "Les ruines de Loropéni. Un récit historique, simplifié pour l'image.",
    "genre": "adulte/libre",
    "duree_ms": 5900,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Loropeni dugu cɛnninw. O ye tarikiko dɔ lo ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Loropeni ɓadake. Ɗuum ko haala taariika, ɗum laaɓɓi ngam hollaago.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-002",
@@ -361,7 +813,19 @@
    "texte": "Aujourd'hui, dans le sud-ouest du Burkina, de longs murs de pierre sortent de la brousse.",
    "genre": "adulte/libre",
    "duree_ms": 5700,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Bi, Burukina worodugu ni tileben fan fɛ, kogojanw be bɔ yiritu kɔnɔ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Hannde, nder worgo hirnaange Burkina, cuuɗi mawɗi ɗi kaaƴe ɗon ƴiwo diga ladde.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-003",
@@ -377,7 +841,19 @@
    "texte": "Qui les a bâtis ? Et pourquoi ? Remontons le temps.",
    "genre": "adulte/libre",
    "duree_ms": 5500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Jɔn lo y'u lɔ? Mun na do? An k'a filɛ wagati be min na.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Mo waɗi ɗi? Ngam ɗume? Eɗen ndaara wakkati.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-004",
@@ -393,7 +869,19 @@
    "texte": "Les pierres se relèvent, une à une. La forteresse se dresse à nouveau, il y a plusieurs siècles.",
    "genre": "adulte/libre",
    "duree_ms": 7000,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Ka fara o kan, kabakuruw be wili kelen kelen. O yɔrɔ barakaman lɔra kokura, san kɛmɛ caman tɛmɛnin kɔ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Kamɓe ɗon ummii, gooto e go'oto. Duule mawɗe ɗe ɗowanteeje ɗon ummake, diga na'i ɗuɗɗi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-005",
@@ -409,7 +897,19 @@
    "texte": "Les Lohron ou les Koulango, ancêtres des chefs Touna, occupent le lieu. Leurs murs de latérite montent, rangée après rangée.",
    "genre": "adulte/libre",
    "duree_ms": 8000,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Lohurɔnkaw, minw ye Touna kuntigiw bɛmacɛw ye, olu lo tun siginin bɛ o yɔrɔ la. O ta kogow bɛ yɛlɛnna ɲɔgɔn kan ɲɔgɔn kɔ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Yimɓe Lohron, koo Koolango, maama'en ardiiɓe Touna njooɗi nokkuure nden. Ɗu'um e ɓaawo maɓɓe, cuuɗi mum'en ɗon njaɓɓa.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-006",
@@ -425,7 +925,19 @@
    "texte": "Plus haut, ce mur doit tenir des siècles !",
    "genre": "adulte/homme",
    "duree_ms": 3000,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "N'a sɔrɔ o kogo ka kan ka to saan kɛmɛkulu caaman kɔnɔ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Haa dow, wallol ngol footi jaŋgugo duuɓi ujuneeje!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-007",
@@ -441,7 +953,19 @@
    "texte": "Il protège ce que le pays a de plus précieux.",
    "genre": "adulte/libre",
    "duree_ms": 3400,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "A be jamana kɔnɔ fɛɛn nafamanbaw latanga.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "O ɗon hisna ko leydi ndii jogori ɓurɗum daraja.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-008",
@@ -457,7 +981,19 @@
    "texte": "L'or. On le tire de la terre et des rivières de la région.",
    "genre": "adulte/libre",
    "duree_ms": 4700,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O ye sanu lo ye. U b'a sama ka bɔ o jamana yɔrɔ bɛɛ la ani bajiw kɔnɔ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Jaŋde. Ɓe mbaɗata ɗum nder leydi ndii e nder maayoji.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-009",
@@ -473,7 +1009,19 @@
    "texte": "Les femmes lavent le gravier à la calebasse. Au fond, quelques paillettes brillent.",
    "genre": "adulte/libre",
    "duree_ms": 6100,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Musow b'u ka kabakurulenninw ko. N'a sɔrɔ a be manamana.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Debbo'en ɗon laaɓta geɗal bee kaalabas. Haa ɓaawo maajum, laaɓuɗe goɗɗe ɗon cembiɗa.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-010",
@@ -489,7 +1037,19 @@
    "texte": "C'est long et dur, mais ces grains font la richesse de tout un pays.",
    "genre": "adulte/libre",
    "duree_ms": 4500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "A ka jan, a ka gbɛlɛn; nka o simanw le bɛ jamana bɛɛ nafa.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Ɗu'um ɓeydi ɗuuɗugo, ammaa ɗi ɗon mari risku lesdi fuu.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-011",
@@ -505,7 +1065,19 @@
    "texte": "Dans la forteresse, les orfèvres fondent l'or et le travaillent.",
    "genre": "adulte/libre",
    "duree_ms": 4400,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Dugu barakaman kɔnɔ, warigbɛtigiw bɛ sanin yeele k'a baara kɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Nder berniwol mawɗo mo ummaatooje maɓɓitooɗi, yimɓe gooduɓe feyru ɓe ngaɗata kuuje ceede.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-012",
@@ -521,7 +1093,19 @@
    "texte": "Les marchands arrivent de loin. Ils échangent le sel et les étoffes contre l'or.",
    "genre": "adulte/libre",
    "duree_ms": 5600,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Jagokɛlaw be nana ka bɔ yɔrɔjan. O bɛ kɔgɔ ni faniw falen sanin na.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Mawɓe jaayndiyankooɓe ɗon ngari diga naange. Kamɓe e yimɓe maɓɓe ɓe ngaddani ko'e maɓɓe, ɓe ngaɗana ɗum.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-013",
@@ -537,7 +1121,19 @@
    "texte": "Touche-le : il est pur.",
    "genre": "âgé/libre",
    "duree_ms": 2400,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Aw ye maga a la, a saniyanin lo. \"",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "To' on meemi mo, o laaɓɗo\".",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-014",
@@ -553,7 +1149,19 @@
    "texte": "Beau, mais trop cher pour moi.",
    "genre": "adulte/homme",
    "duree_ms": 2400,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "A ka ɲi, nka a sɔngɔ tun ka gwɛlɛ ne ma.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Ɗo'o booɗɗum, ammaa ɗum ceede masin ngam am.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-015",
@@ -569,7 +1177,19 @@
    "texte": "Alors, plus de sel !",
    "genre": "âgé/libre",
    "duree_ms": 2800,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O tuma na, kɔgɔ kana kɛ yen tugu!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Ngam maajum, naa' masin!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-016",
@@ -585,7 +1205,19 @@
    "texte": "Le chef reçoit l'or dans sa cour. Les tambours résonnent, et l'on danse.",
    "genre": "adulte/libre",
    "duree_ms": 6000,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Kuntigi ye sanu sɔrɔ a ka lu kɔnɔ. O tuma na, an be to ka dansi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Mawɗo'en keɓata kaŋgeeri nder suudu maako. Ɗuum woni ko ɓooyi, ɗum waɗi en njooɗi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-017",
@@ -601,7 +1233,19 @@
    "texte": "Puis la forteresse est abandonnée. Personne ne sait vraiment pourquoi.",
    "genre": "adulte/libre",
    "duree_ms": 5200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O kɔ, u y'a to o yɔrɔ barikaman tora. Mɔgɔ si t'a lɔn fɛɛn min kama.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Nden gariiri mawndu ndu'u ɗon cembiɗina. Walaa mo anndi ngam ɗume.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-018",
@@ -617,7 +1261,19 @@
    "texte": "Peu à peu, la brousse reprend les murs, et les arbres poussent entre les pierres.",
    "genre": "adulte/libre",
    "duree_ms": 5200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Dɔɔni ni dɔɔnin, yirituw ka kogow lɔ kokura tuun; yiriw bɛ falen kabakuruw cɛ ra.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Wakkati ɓaawo ɗon, le'i ɗon cembiɗa, lekki boo ɗon maaro nder kaaƴe.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-019",
@@ -633,7 +1289,19 @@
    "texte": "En 2009, Loropéni devient le premier site du Burkina Faso inscrit au patrimoine mondial de l'UNESCO.",
    "genre": "adulte/libre",
    "duree_ms": 6900,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Saan 2009 la, Loropeni kɛra Burkina Faso jamana ka yɔrɔ fɔlɔ ye min tɔgɔ lara UNESCO World Heritage site dɔ kan.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "E hitaande 2009, Loropeni laati nokku arande Burkina Faso nder UNESCO.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-020",
@@ -649,7 +1317,19 @@
    "texte": "Le mystère reste entier. Mais les pierres sont toujours là.",
    "genre": "adulte/libre",
    "duree_ms": 5000,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O ye gundo lo ye. Nka, kabakuruw bele be yen.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Ɗuum ɓeydaani. Ammaa kaaƴe ɗon haaje.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   }
  ]
 }

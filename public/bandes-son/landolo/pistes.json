@@ -11,61 +11,149 @@
    "id": "titre",
    "type": "titre",
    "chemin": "titre",
-   "texte": "Landolo et le grand caïlcédrat"
+   "texte": "Landolo et le grand caïlcédrat",
+   "langues": {
+    "dyu": {
+     "texte": "Landolo ni yiriba",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Landolo e Cailcédrat Mawɗo",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "presentation",
    "type": "presentation",
    "chemin": "presentation",
-   "texte": "Orphelin chez une marâtre dure, Landolo vient pleurer au pied du grand caïlcédrat. L'arbre s'éveille. Tout dépendra de ce que tu lui chanteras, et de ce que tu feras de sa colère."
+   "texte": "Orphelin chez une marâtre dure, Landolo vient pleurer au pied du grand caïlcédrat. L'arbre s'éveille. Tout dépendra de ce que tu lui chanteras, et de ce que tu feras de sa colère.",
+   "langues": {
+    "dyu": {
+     "texte": "Landolo tun ye falatɔ dɔ ye ani a kasira. Yiri be kunun. I bɛna dɔnkiri la ka Ala tando cogo min na, ani i ta jusugban kosɔn.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Landolo warii o jooɗoto nder suudu dewal mawɗo, o boowi. Leɗɗe ɗon ummito. Ɗum fuu e dow ko mbi'oton ngam maako, e dow no ngeɗitanɗon haalooɓe maako.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "personnages.griot.nom",
    "type": "personnage",
    "chemin": "personnages.griot.nom",
-   "texte": "Le griot"
+   "texte": "Le griot",
+   "langues": {
+    "dyu": {
+     "texte": "Le griot"
+    },
+    "fuf": {
+     "texte": "Le griot"
+    }
+   }
   },
   {
    "id": "personnages.landolo.nom",
    "type": "personnage",
    "chemin": "personnages.landolo.nom",
-   "texte": "Landolo"
+   "texte": "Landolo",
+   "langues": {
+    "dyu": {
+     "texte": "Landolo"
+    },
+    "fuf": {
+     "texte": "Landolo"
+    }
+   }
   },
   {
    "id": "personnages.maratre.nom",
    "type": "personnage",
    "chemin": "personnages.maratre.nom",
-   "texte": "La marâtre"
+   "texte": "La marâtre",
+   "langues": {
+    "dyu": {
+     "texte": "La marâtre"
+    },
+    "fuf": {
+     "texte": "La marâtre"
+    }
+   }
   },
   {
    "id": "personnages.bucheron.nom",
    "type": "personnage",
    "chemin": "personnages.bucheron.nom",
-   "texte": "Le bûcheron"
+   "texte": "Le bûcheron",
+   "langues": {
+    "dyu": {
+     "texte": "Le bûcheron"
+    },
+    "fuf": {
+     "texte": "Le bûcheron"
+    }
+   }
   },
   {
    "id": "personnages.villageois.nom",
    "type": "personnage",
    "chemin": "personnages.villageois.nom",
-   "texte": "Le villageois"
+   "texte": "Le villageois",
+   "langues": {
+    "dyu": {
+     "texte": "Le villageois"
+    },
+    "fuf": {
+     "texte": "Le villageois"
+    }
+   }
   },
   {
    "id": "personnages.arbre.nom",
    "type": "personnage",
    "chemin": "personnages.arbre.nom",
-   "texte": "Le grand caïlcédrat"
+   "texte": "Le grand caïlcédrat",
+   "langues": {
+    "dyu": {
+     "texte": "Le grand caïlcédrat"
+    },
+    "fuf": {
+     "texte": "Le grand caïlcédrat"
+    }
+   }
   },
   {
    "id": "fins.canon",
    "type": "fin",
    "chemin": "fins.canon",
-   "texte": "Version du griot : le grand caïlcédrat veille"
+   "texte": "Version du griot : le grand caïlcédrat veille",
+   "langues": {
+    "dyu": {
+     "texte": "Gɛrɛkikan kumaden: Kalalikɛbaga belebeleba labɛnnin lo",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Winndannde caggalNeeƴre mawnde ɗon ɗaɓɓita",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "fins.coupe",
    "type": "fin",
    "chemin": "fins.coupe",
-   "texte": "Autre chemin : l'arbre tombe, et le village a faim"
+   "texte": "Autre chemin : l'arbre tombe, et le village a faim",
+   "langues": {
+    "dyu": {
+     "texte": "Foro wɛrɛ: yiri benna, kɔngɔ donna dugumɔgɔw la",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Ɗerewol go'o: leggal maayi, gariiri ɗon nyaama",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "n1",
@@ -79,7 +167,23 @@
    "texte": "Au bord du village se dressait un arbre immense, plus vieux que tous les anciens. Landolo était orphelin. Il vivait chez sa marâtre, qui gâtait son propre fils.",
    "genre": "adulte/homme",
    "duree_ms": 11840,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Yirisunba dɔ tun lɔnin bɛ dugu kɛrɛ fɛ; a tun kɔrɔra ka tɛmɛ cɛkɔrɔba tɔw bɛɛ kan. Landolo tun ye falatɔ ye. A tun siginin be a biranmuso fɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 11742,
+     "fichier": "landolo-n1-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Nder daande gariiri ndin ɗon woodi leggal mawngal, ɓurɗum mawɓe fuu. Landolo wondi ɓiɗɗo gorko. O jooɗii e deerɗiraawo maako, ngam o halki ɓiɗɗo maako.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 11444,
+     "fichier": "landolo-n1-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n2",
@@ -93,7 +197,23 @@
    "texte": "Va chercher l'eau. Et vite !",
    "genre": "adulte/femme",
    "duree_ms": 2880,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Taga jii ɲini. Aw ka teliya!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2570,
+     "fichier": "landolo-n2-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Ndaa ndiyam. E ɗon!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2234,
+     "fichier": "landolo-n2-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n3",
@@ -107,31 +227,87 @@
    "texte": "Le fils mange à sa faim. Landolo, lui, n'a rien. Un soir, il vient pleurer au pied du grand caïlcédrat. Une branche s'abaisse, chargée de fruits. Que fait-il ?",
    "genre": "adulte/homme",
    "duree_ms": 13120,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Deen be dumuni kɛ k'a fari fa. Landolo kɔni, foyi t'a fɛ. Loon dɔ sufɛ, a y'a daminɛ ka kasi. A y'a fɔ a ye ko: \"Yiriborow bɛɛ be falen ka den. A be mun lo kɛra?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 14066,
+     "fichier": "landolo-n3-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Ɓiɗɗo ɗon nyaama. Landolo boo walaa kooɗume. Nder jemma go'o, o wari e koyɗe kalkadir mawɗo. Fuuɗungol ɗon ɓanngina, ɗon nyaama. Hol ko o waɗi?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 11832,
+     "fichier": "landolo-n3-fuf.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n3.choices.0.label",
    "type": "choix",
    "chemin": "nodes.n3.choices.0.label",
-   "texte": "Il mange, et il remercie l'arbre"
+   "texte": "Il mange, et il remercie l'arbre",
+   "langues": {
+    "dyu": {
+     "texte": "A ye yiri nin deen dumu ani ka barika la Ala ye",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "O nyaami, o yetti Allah dow leggal ngel",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n3.choices.0.tag",
    "type": "parcours",
    "chemin": "nodes.n3.choices.0.tag",
-   "texte": "remerciement"
+   "texte": "remerciement",
+   "langues": {
+    "dyu": {
+     "texte": "n b'i fo",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "miɗo yetta",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n3.choices.1.label",
    "type": "choix",
    "chemin": "nodes.n3.choices.1.label",
-   "texte": "Il remplit ses poches et il s'en va"
+   "texte": "Il remplit ses poches et il s'en va",
+   "langues": {
+    "dyu": {
+     "texte": "A y'a ka bɔrɔw fa, a tagara",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "O heewi ceedeeji maako o dilli",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n3.choices.1.tag",
    "type": "parcours",
    "chemin": "nodes.n3.choices.1.tag",
-   "texte": "poches pleines"
+   "texte": "poches pleines",
+   "langues": {
+    "dyu": {
+     "texte": "bɔrɔw fanin",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "jaŋde heewi",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "poches",
@@ -145,7 +321,23 @@
    "texte": "Sur le chemin, il se retourne. La branche s'est relevée. Il revient sur ses pas.",
    "genre": "adulte/homme",
    "duree_ms": 6750,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "K'u to sira kan, a y'a ɲaa yɛlɛma. A y'a bolo kɔrɔta. A be kɔsegi ka na.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6660,
+     "fichier": "landolo-poches-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Nder laawol, o wayliti. Luttugal ngal ummii. O wurtini laawol maako.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6084,
+     "fichier": "landolo-poches-fuf.m4a"
+    }
+   }
   },
   {
    "id": "merci",
@@ -159,37 +351,103 @@
    "texte": "Grand arbre, grand arbre, écoute ma chanson.",
    "genre": "enfant/libre",
    "duree_ms": 3260,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Yiriba, yiriba, ne ta dɔnkiri lamɛn!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2560,
+     "fichier": "landolo-merci-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Ɗu'um, nduu'um! Njoo'u yimre am.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3210,
+     "fichier": "landolo-merci-fuf.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n4.consigne",
    "type": "jeu",
    "chemin": "nodes.n4.consigne",
-   "texte": "Chante avec Landolo : reproduis le balancement de l'arbre."
+   "texte": "Chante avec Landolo : reproduis le balancement de l'arbre.",
+   "langues": {
+    "dyu": {
+     "texte": "I ka dɔnkili la ni Landolo ye.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Yimbelee bee Landolo: holla no lekki ɗon hoosi.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n4.gagne",
    "type": "jeu",
    "chemin": "nodes.n4.gagne",
-   "texte": "L'arbre se balance, et le garçon grandit."
+   "texte": "L'arbre se balance, et le garçon grandit.",
+   "langues": {
+    "dyu": {
+     "texte": "Yiri nin yuguyugu, deen kɔrɔyara.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Ɗu'um ɓadake, ɓiɗɗo boo mawnini.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n4.perdu",
    "type": "jeu",
    "chemin": "nodes.n4.perdu",
-   "texte": "La chanson est hésitante, mais l'arbre se balance quand même."
+   "texte": "La chanson est hésitante, mais l'arbre se balance quand même.",
+   "langues": {
+    "dyu": {
+     "texte": "O dɔnkiliw be se ka mɔgɔ hakili ɲagami, nka o bɛɛ n'a ta, yiri nin be yɛrɛyɛrɛra.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Yimɓe ɗon ngayna, ammaa lekki ɗon hoola.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n4.tags.win",
    "type": "parcours",
    "chemin": "nodes.n4.tags.win",
-   "texte": "rythme tenu"
+   "texte": "rythme tenu",
+   "langues": {
+    "dyu": {
+     "texte": "a ka kɛcogo",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "ɓeydaaki",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n4.tags.lose",
    "type": "parcours",
    "chemin": "nodes.n4.tags.lose",
-   "texte": "rythme perdu"
+   "texte": "rythme perdu",
+   "langues": {
+    "dyu": {
+     "texte": "ka to k'o kɛ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "ɓeydaaki",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "n5",
@@ -203,7 +461,23 @@
    "texte": "La marâtre finit par s'étonner. Elle le suit et elle l'espionne. L'arbre ne lui envoie que des branches sèches.",
    "genre": "adulte/homme",
    "duree_ms": 8120,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "A laban, a bamuso kabakoyara. A be tugu a kɔ ani k'a kɔlɔsili kɛ. Yiri nin y'a bolow dɔrɔn le ci a ma.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8884,
+     "fichier": "landolo-n5-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Ɓaawo maajum, mo'o ɗon hayɗina. O ɗon tokkimo, o ɗowtano mo. Leggal ngal ɗon nelda ɗum lekki njayri.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7732,
+     "fichier": "landolo-n5-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n6",
@@ -217,7 +491,23 @@
    "texte": "Abattez-moi cet arbre !",
    "genre": "adulte/femme",
    "duree_ms": 1820,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Aw ye yiri nin tigɛ ne kama!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2336,
+     "fichier": "landolo-n6-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Ngaɗee leggal ngal ngam am!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2144,
+     "fichier": "landolo-n6-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n7",
@@ -231,31 +521,87 @@
    "texte": "Elle revient avec deux bûcherons. Les coups de hache rebondissent sur le tronc. L'arbre gronde, le vent se lève, les branches fouettent l'air. Que fait Landolo ?",
    "genre": "adulte/homme",
    "duree_ms": 11760,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "A kɔsegira ni yiribaarabaga fila ye. O y'a sɔrɔ a tun b'a fɛ k'o kɛ. Yiri bɛ yuguyugu, fɔɲɔ b'a lawuri; a yiriborow bɛ fiyɛ. Landolo be mun lo kɛra?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 13368,
+     "fichier": "landolo-n7-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "O wurtinaama e yimɓe ɗiɗo. Ɗu'um ɗon maɓɓa ɓikkoy maako. Le'i ɗon cembiɗa, hendu ɗon umma, sappooji maako ɗon maaki. Hol ko Landolo waɗata?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 12174,
+     "fichier": "landolo-n7-fuf.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n7.choices.0.label",
    "type": "choix",
    "chemin": "nodes.n7.choices.0.label",
-   "texte": "Il demande à l'arbre de se calmer"
+   "texte": "Il demande à l'arbre de se calmer",
+   "langues": {
+    "dyu": {
+     "texte": "A y'a fɔ yiri ye ko a ka je",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "O wi'i leggal ngal yahugo",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n7.choices.0.tag",
    "type": "parcours",
    "chemin": "nodes.n7.choices.0.tag",
-   "texte": "arbre apaisé"
+   "texte": "arbre apaisé",
+   "langues": {
+    "dyu": {
+     "texte": "yiri min be sumaya",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "leɗɗe ɓeydiiɗe",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n7.choices.1.label",
    "type": "choix",
    "chemin": "nodes.n7.choices.1.label",
-   "texte": "Il laisse la colère de l'arbre les chasser"
+   "texte": "Il laisse la colère de l'arbre les chasser",
+   "langues": {
+    "dyu": {
+     "texte": "A y'a to yiri dimi k'u gbɛn",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "O hokki leggal ngal haŋkadi ɓe",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n7.choices.1.tag",
    "type": "parcours",
    "chemin": "nodes.n7.choices.1.tag",
-   "texte": "colère laissée"
+   "texte": "colère laissée",
+   "langues": {
+    "dyu": {
+     "texte": "dimi min b'a la",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "ɓeydaaki",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "colere",
@@ -269,31 +615,87 @@
    "texte": "Les bûcherons s'enfuient, la marâtre aussi. Mais ils reviendront, plus nombreux, avec le feu. Landolo les arrêtera-t-il en parlant au village ?",
    "genre": "adulte/homme",
    "duree_ms": 9710,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "O y'a sɔrɔ yiribaaw tun tɛ se ka foyi kɛ. O bɛɛ n'a ta, mɔgɔ caman bɛna sekɔ ni tasuma ye. Yala Landolo be se k'u bali ka kuma dugumɔgɔw fɛ wa?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 10596,
+     "fichier": "landolo-colere-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Yimɓe maɓɓooɓe leɗɗe ɗon ndilli, e mawɗo leɗɗe boo ɗon nduli. Ammaa yimɓe ɗuɗɓe waroto e yiite. Landolo hokkan ɓe wolwugo nder gariiri?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 10612,
+     "fichier": "landolo-colere-fuf.m4a"
+    }
+   }
   },
   {
    "id": "nodes.colere.choices.0.label",
    "type": "choix",
    "chemin": "nodes.colere.choices.0.label",
-   "texte": "Oui, il va parler au village"
+   "texte": "Oui, il va parler au village",
+   "langues": {
+    "dyu": {
+     "texte": "Ɔnhɔn, a bena kuma dugumɔgɔw fɛ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Haa, o ɗon wolwana yimɓe gariiri.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.colere.choices.0.tag",
    "type": "parcours",
    "chemin": "nodes.colere.choices.0.tag",
-   "texte": "parole au village"
+   "texte": "parole au village",
+   "langues": {
+    "dyu": {
+     "texte": "kuma dugu kɔnɔ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "wolde to wuro",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.colere.choices.1.label",
    "type": "choix",
    "chemin": "nodes.colere.choices.1.label",
-   "texte": "Non, il part loin d'ici"
+   "texte": "Non, il part loin d'ici",
+   "langues": {
+    "dyu": {
+     "texte": "Ayi, a be taga yɔrɔjan.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Na'o, o ɗon yaha yaasi ɗo",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.colere.choices.1.tag",
    "type": "parcours",
    "chemin": "nodes.colere.choices.1.tag",
-   "texte": "départ"
+   "texte": "départ",
+   "langues": {
+    "dyu": {
+     "texte": "ka bɔ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "fuɗɗugo",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "part",
@@ -307,7 +709,23 @@
    "texte": "Sans personne pour le défendre, l'arbre tombe. Vient la grande sécheresse, et il n'y a plus de fruits pour personne. Ce chemin n'est pas celui du conte.",
    "genre": "adulte/homme",
    "duree_ms": 11460,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Ni mɔgɔ si ma sɔrɔ k'a tanga, yiri benna. Sanjiba nana ben, fɔ siman tɛna sɔrɔ mɔgɔ si fɛ tuun. O sira tɛ ele ka maana ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9588,
+     "fichier": "landolo-part-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "To walaa mo wallinanɗum, lekki ɗon maaya. Sey weelo mawɗo wari, walaa ɓikkoy nyaamdu. Ɗuum laawol naa' ngol kaalanngal.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8500,
+     "fichier": "landolo-part-fuf.m4a"
+    }
+   }
   },
   {
    "id": "calme",
@@ -321,7 +739,23 @@
    "texte": "Grand arbre, calme-toi, je t'en prie !",
    "genre": "enfant/libre",
    "duree_ms": 3260,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Yiriba, i hakili sigi!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2000,
+     "fichier": "landolo-calme-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Duule mawnde, njooɗee!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 1712,
+     "fichier": "landolo-calme-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n8",
@@ -335,7 +769,23 @@
    "texte": "Et l'arbre s'apaise, pour lui. Vient l'année de la grande sécheresse. Tout meurt, sauf le caïlcédrat, dont les fruits nourrissent le village.",
    "genre": "adulte/homme",
    "duree_ms": 9710,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "O y'a to yiri nin tun be sumana. Sanjiba san bɛ nana. Fɛɛn bɛɛ be sa, fɔɔ yiriba min deen b'a to dugumɔgɔw be balo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9444,
+     "fichier": "landolo-n8-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Ɗuum waɗi haa leggal ngal laaɓti. O ɗon wara nder hitaande weelo mawɗo. Koo ɗume ɗon maaya, sey leɗɗe mawɗe ɗe nyaaman gariiri ndin.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 10148,
+     "fichier": "landolo-n8-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n9",
@@ -349,7 +799,23 @@
    "texte": "La marâtre vient s'agenouiller devant Landolo, et elle demande pardon.",
    "genre": "adulte/homme",
    "duree_ms": 4250,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "A y'a kunbiri gwan Landolo kɔrɔ ka yafa deli.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3232,
+     "fichier": "landolo-n9-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Nyaako am debbo wari, o sujidani Landolo yeeso maako, o tori mo yaafugo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5904,
+     "fichier": "landolo-n9-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n10",
@@ -363,7 +829,23 @@
    "texte": "Merci, Landolo. Merci, grand arbre.",
    "genre": "adulte/homme",
    "duree_ms": 2800,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Ne b'i waleɲuman lɔn, Landolo. Ne b'i fo, yiriba.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4346,
+     "fichier": "landolo-n10-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Goonga, Landolo. Naafon, leɗɗe mawɗe.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3450,
+     "fichier": "landolo-n10-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n11",
@@ -377,7 +859,23 @@
    "texte": "Protégez cet arbre. Il vous le rendra.",
    "genre": "enfant/libre",
    "duree_ms": 3260,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Aw k'o yiri latanga. A bena o di aw ma.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3738,
+     "fichier": "landolo-n11-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Hakkilani leggal ngal. O hokkan'on ɗum.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3482,
+     "fichier": "landolo-n11-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n12",
@@ -391,7 +889,23 @@
    "texte": "Bien des années plus tard, le grand caïlcédrat veillait toujours.",
    "genre": "adulte/homme",
    "duree_ms": 4250,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Saan caaman o kɔ, yiri belebeleba tun be to k'a ɲɛɛ tugu.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5056,
+     "fichier": "landolo-n12-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Caggal duuɓi ɗuuɗɗi, leɗɗe mawɗe boo ɗon haaje.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3760,
+     "fichier": "landolo-n12-fuf.m4a"
+    }
+   }
   },
   {
    "id": "film-001",
@@ -407,7 +921,19 @@
    "texte": "Landolo et le grand caïlcédrat. Un conte du pays san.",
    "genre": "adulte/libre",
    "duree_ms": 4900,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O ye Landolo ni Kalizidɛba lo ye. Lonanw ka maana dɔ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Landolo e Cailcedrate mawɗo. Fedde leydi ndii.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-002",
@@ -423,7 +949,19 @@
    "texte": "Au bord du village se dressait un arbre immense, plus vieux que tous les anciens.",
    "genre": "adulte/libre",
    "duree_ms": 5100,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Yirisunba dɔ tun lɔnin bɛ dugu kɛrɛ fɛ; a tun kɔrɔra ka tɛmɛ cɛkɔrɔba tɔw bɛɛ kan.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Nder daande gariiri ndin ɗon woodi leggal mawngal, ɓurɗum mawɓe fuu.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-003",
@@ -439,7 +977,19 @@
    "texte": "Landolo était orphelin. Il vivait chez sa marâtre, qui gâtait son propre fils.",
    "genre": "adulte/libre",
    "duree_ms": 5400,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Landolo tun ye falatɔ ye. A tun siginin be a biranmuso fɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Landolo wondi ɓiɗɗo gorko. O jooɗii e deerɗiraawo maako, ngam o halki ɓiɗɗo maako.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-004",
@@ -455,7 +1005,19 @@
    "texte": "Va chercher l'eau. Et vite !",
    "genre": "adulte/femme",
    "duree_ms": 3600,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Taga jii ɲini. Aw ka teliya!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Ndaa ndiyam. E ɗon!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-005",
@@ -471,7 +1033,19 @@
    "texte": "Le fils mangeait à sa faim. Landolo, lui, n'avait rien.",
    "genre": "adulte/libre",
    "duree_ms": 5400,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Deen tun be dumuni kɛra k'a wasa. Landolo kɔni tun tɛ ni foyi ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Ɓiɗɗo on ɗon nyaama. Landolo boo o walaa kooɗume.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-006",
@@ -487,7 +1061,19 @@
    "texte": "Un soir, le garçon vint pleurer au pied du grand caïlcédrat.",
    "genre": "adulte/libre",
    "duree_ms": 4500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Loon dɔ sufɛ, deen nana kasi yiriba kɔrɔ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Wakkati go'o jemma, ɓiyum wari boowi haa leggal mawngal.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-007",
@@ -503,7 +1089,19 @@
    "texte": "Alors l'arbre s'éveilla. Une branche s'abaissa, chargée de fruits.",
    "genre": "adulte/libre",
    "duree_ms": 5500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O tuma na, yiri nin kununna. A y'a fɔ a ye ko: \"N borow bɛɛ be falen, ka kɛ denɲumanw ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Sey leggal ngal ummi. Go'o go'o ɗon ɓilla, ɗon nyaama.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-008",
@@ -519,7 +1117,19 @@
    "texte": "Landolo mangea, et il remercia le vieil arbre.",
    "genre": "adulte/libre",
    "duree_ms": 3800,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Landolo ye dumuni kɛ ani a ye barika la yiri kɔrɔman nin ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Landolo nyaami, o yetti leɗɗe mawɗe.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-009",
@@ -535,7 +1145,19 @@
    "texte": "Grand arbre, grand arbre, écoute ma chanson.",
    "genre": "enfant/libre",
    "duree_ms": 4300,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Yiriba, yiriba, ne ta dɔnkiri lamɛn!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Ɗu'um, nduu'um! Njoo'u yimre am.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-010",
@@ -551,7 +1173,19 @@
    "texte": "Chaque jour, il chantait, et l'arbre se balançait. Et le garçon grandissait.",
    "genre": "adulte/libre",
    "duree_ms": 6300,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Lon o lon, a tun bɛ to ka dɔnkiri la. Yiri tun bɛ yuguyugu. Kanbelen nin tun be kɔgɔra.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Koo ndeye nder nyalawma o ɗon maaya, lekki boo ɗon maaki. Ɓiɗɗo on ɓeydi mawnugo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-011",
@@ -567,7 +1201,19 @@
    "texte": "La marâtre finit par s'étonner. Elle le suivit et elle l'espionna.",
    "genre": "adulte/libre",
    "duree_ms": 5200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "A laban, a bamuso kabakoyara. A tugura a kɔ ani k'a kɔlɔsili kɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Ɓaawo maajum, mo'o ɗon hayɗina. O tokki mo, o jaɓɓi mo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-012",
@@ -583,7 +1229,19 @@
    "texte": "À moi aussi, donne !",
    "genre": "adulte/femme",
    "duree_ms": 2700,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Ne fana ka kan k'a di.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Min boo, hokke!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-013",
@@ -599,7 +1257,19 @@
    "texte": "L'arbre ne lui envoya que des branches sèches.",
    "genre": "adulte/libre",
    "duree_ms": 3400,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Yiri nin y'a bolow dɔrɔn le ci a ma.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Leggal ngal neldi go'o lekki.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-014",
@@ -615,7 +1285,19 @@
    "texte": "Abattez-moi cet arbre !",
    "genre": "adulte/femme",
    "duree_ms": 2500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Aw ye yiri nin tigɛ ne kama!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Ngaɗee leggal ngal ngam am!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-015",
@@ -631,7 +1313,19 @@
    "texte": "Elle revint avec deux bûcherons.",
    "genre": "adulte/libre",
    "duree_ms": 2500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "A kɔsegira ni yiribaara fila ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "O wurtini yimɓe ɗiɗo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-016",
@@ -647,7 +1341,19 @@
    "texte": "Mais les coups de hache rebondissaient sur le tronc.",
    "genre": "adulte/libre",
    "duree_ms": 3100,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Nka, o y'a sɔrɔ biɲɛw tun b'a tigɛtigɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Ammaa haakooji ɗi o wi'i ɓe ngaɗata, ɓe ngaddani ɗum.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-017",
@@ -663,7 +1369,19 @@
    "texte": "L'arbre se mit à gronder. Le vent se leva, et les branches fouettèrent l'air.",
    "genre": "adulte/libre",
    "duree_ms": 5800,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Yiri y'a daminɛ ka ŋuna. Fɔɲɔ wurira, yiriborow ka fiyɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Leggal ngal fuɗɗiti wurtaago. Sey hendu wurti, tawi'en ɗon cembiɗɗi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-018",
@@ -679,7 +1397,19 @@
    "texte": "Grand arbre, calme-toi, je t'en prie !",
    "genre": "enfant/libre",
    "duree_ms": 3800,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Yiriba, i hakili sigi!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Duule mawnde, njooɗee!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-019",
@@ -695,7 +1425,19 @@
    "texte": "Et l'arbre s'apaisa, pour lui.",
    "genre": "adulte/libre",
    "duree_ms": 3000,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O kɔ, yiri nin y'a fari faga.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Ɗuum waɗi nde leggal ngal laaɓti.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-020",
@@ -711,7 +1453,19 @@
    "texte": "Vint l'année de la grande sécheresse. Tout mourut, sauf le caïlcédrat, dont les fruits nourrirent le village.",
    "genre": "adulte/libre",
    "duree_ms": 7400,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Ayiwa, sanjiba san nana se. O bɛɛ sara, fɔ yiriba min tun bɛ den di dugumɔgɔw ma.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Wakkati nde weelo mawɗo wari. Koo ɗume maayi, sey leɗɗe mawɗe ɗe nyaami gariiri.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-021",
@@ -727,7 +1481,19 @@
    "texte": "La marâtre vint s'agenouiller devant Landolo, et elle demanda pardon.",
    "genre": "adulte/libre",
    "duree_ms": 4500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "A y'a kunbiri gwan Landolo kɔrɔ ka yafa deli a fɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "O wari o sujidani Landolo, o tori mo yaafuki.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-022",
@@ -743,7 +1509,19 @@
    "texte": "Merci, Landolo. Merci, grand arbre.",
    "genre": "adulte/femme",
    "duree_ms": 4300,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Ne b'i waleɲuman lɔn, Landolo. Ne b'i fo, yiriba.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Goonga, Landolo. Naafon, leɗɗe mawɗe.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-023",
@@ -759,7 +1537,19 @@
    "texte": "Protégez cet arbre. Il vous le rendra.",
    "genre": "adulte/homme",
    "duree_ms": 3400,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Aw k'o yiri latanga. A bena o di aw ma.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Hakkilani leggal ngal. O hokkan'on ɗum.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-024",
@@ -775,7 +1565,19 @@
    "texte": "Bien des années plus tard, le grand caïlcédrat veillait toujours.",
    "genre": "adulte/libre",
    "duree_ms": 4700,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Saan caaman o kɔ, yiri belebeleba tun be to k'a ɲɛɛ tugu.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Caggal duuɓi ɗuuɗɗi, leɗɗe mawɗe boo ɗon haaje.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   }
  ]
 }

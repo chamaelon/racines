@@ -6,10 +6,8 @@ import * as data from '../data.js';
 import { store } from '../store.js';
 import { bandeauProvisoire, definirPage, esc, mdHtml, TYPES } from '../ui.js';
 
-const LIEN_FILM = (film) => `site/lecteur.html?h=${film}`;
-
 async function rendre(el, id) {
-  const [recits, localites, regions, patrimoine, langues] = await Promise.all([data.recits(), data.localites(), data.regions(), data.patrimoine(), data.langues()]);
+  const [recits, localites, regions, patrimoine, langues, films] = await Promise.all([data.recits(), data.localites(), data.regions(), data.patrimoine(), data.langues(), data.films()]);
   const r = recits.find((x) => x.id === id);
   if (!r) {
     definirPage({ titre: 'Récit introuvable' });
@@ -46,7 +44,7 @@ async function rendre(el, id) {
         </dl>
         <div class="rangee">
           ${r.jouable ? `<a class="bouton fort" href="#/jouer/${r.id}">▶ Vivre l'histoire</a>` : ''}
-          ${r.film ? `<a class="bouton" href="${LIEN_FILM(r.film)}">Voir le film d'animation</a>` : ''}
+          ${films[r.film] ? `<a class="bouton" href="#/film/${r.film}">▶ Voir le film</a>` : ''}
         </div>
       </div>
       <div class="mini-carte" role="img" aria-label="Situation de ${esc(lieux[0].nom)} sur la carte du Burkina Faso"></div>
@@ -64,7 +62,7 @@ async function rendre(el, id) {
           <div class="texte-recit">${mdHtml(texteFr)}</div>
           <div data-fin-lecture></div>
         </section>
-        ${Object.entries(r.texteLocal || {}).length ? `<section><h2>En langue nationale</h2>${(await Promise.all(Object.entries(r.texteLocal).map(async ([c, t]) => `<h3>${esc(langues[c])}</h3><div class="texte-recit" lang="${c}">${mdHtml(await data.texte(t))}</div>`))).join('')}</section>` : ''}
+        ${Object.entries(r.texteLocal || {}).length ? `<section><h2>En langue nationale</h2><p class="meta">Traduction automatique, non relue par un locuteur : des erreurs sont probables.</p>${(await Promise.all(Object.entries(r.texteLocal).map(async ([c, t]) => `<h3>${esc(langues[c])}</h3><div class="texte-recit" lang="${c}">${mdHtml(await data.texte(t))}</div>`))).join('')}</section>` : ''}
       </div>
       <aside class="fiche-cote">
         <section class="encart"><h2>Morale</h2><p>${esc(r.morale)}</p></section>

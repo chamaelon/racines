@@ -10,6 +10,10 @@ intonation: posé (proposée)
 texte: Fin du dix-neuvième siècle. Sya, que l'on appelle aujourd'hui Bobo-Dioulasso. Une femme y compte plus que beaucoup d'hommes.
 genre: adulte/homme
 duree: 7890ms (estimée)
+texte_dyu: Saan kɛmɛkulu 19nan laban na. Sya, an b'a wele bi ko Bobo-Dioulasso. Muso kelen lo kɔrɔtanin lo o koo la ka tɛmɛ cɛɛ caaman kan.
+enregistre_dyu: guimbi-n1-dyu.m4a (10596ms)
+texte_fuf: Ɓaawo karnijum 19th Sya, biyeteeɗo Bobo-Dioulasso hannde. Debbo ɓuri worɓe ɗuuɗɓe.
+enregistre_fuf: guimbi-n1-fuf.m4a (6378ms)
 
 piste: n2
 histoire: Guimbi Ouattara, la reine de Bobo
@@ -20,6 +24,10 @@ intonation: posé (proposée)
 texte: Vous partagerez ce champ, et chacun gardera sa part.
 genre: adulte/femme
 duree: 3870ms (estimée)
+texte_dyu: Aw ka kan k'a taran ɲɔgɔn na, mɔgɔ kelen kelen bɛɛ ye a ta yɔrɔ sɔrɔ.
+enregistre_dyu: guimbi-n2-dyu.m4a (4272ms)
+texte_fuf: "Onon yimɓe ɓe'e keɓan ko'e maɓɓe nder lesdi.
+enregistre_fuf: guimbi-n2-fuf.m4a (3600ms)
 
 piste: n3
 histoire: Guimbi Ouattara, la reine de Bobo
@@ -30,6 +38,10 @@ intonation: posé (proposée)
 texte: On vient la voir pour régler les disputes, et on l'écoute. Un jour, un explorateur européen arrive à Sya, épuisé.
 genre: adulte/homme
 duree: 8650ms (estimée)
+texte_dyu: An b'an janto a la walisa ka bɛnbaliyakow ɲɛnabɔ ani k'a lamɛn. Loon dɔ, Erɔpikaw tun be taga Ɛsi jamana na.
+enregistre_dyu: guimbi-n3-dyu.m4a (9754ms)
+texte_fuf: Eɗen njahi to maako ngam ɓe cuɓɓa haala maɓɓe, nden kam en keewi mo. Nder nyalnde go'o, tawtoreejo Orop wari to Sya.
+enregistre_fuf: guimbi-n3-fuf.m4a (8426ms)
 
 piste: n4
 histoire: Guimbi Ouattara, la reine de Bobo
@@ -40,6 +52,10 @@ intonation: interrogatif (proposée)
 texte: Tu dois lui porter ce qu'elle a ordonné. C'est l'accueil dû à un visiteur. Que lui portes-tu ?
 genre: adulte/homme
 duree: 7740ms (estimée)
+texte_dyu: A ye min fɔ, i ka na n'o ye. N'i ye mɔgɔ dɔ weele ka na bɔ i ka soo, o lo b'a to i be se k'o tigi ladon. I be mun le di a ma?
+enregistre_dyu: guimbi-n4-dyu.m4a (11764ms)
+texte_fuf: On njaara mo ko o wi'i. Ɗuum woni jaɓɓorgo boowo. Ko honɗun waɗi e makko?
+enregistre_fuf: guimbi-n4-fuf.m4a (6164ms)
 
 piste: rien
 histoire: Guimbi Ouattara, la reine de Bobo
@@ -50,6 +66,10 @@ intonation: posé (proposée)
 texte: Ici, l'étranger est sous ma protection. Porte-lui de l'eau et de la cola.
 genre: adulte/femme
 duree: 5690ms (estimée)
+texte_dyu: O yɔrɔ la, n' be lonanw tanga. I ka na ni ji ni kola ye a fɛ.
+enregistre_dyu: guimbi-rien-dyu.m4a (4970ms)
+texte_fuf: Haa ɗo, aadiyankeejo ɗon haaje bee am. Hokka mo ndiyam e cola.
+enregistre_fuf: guimbi-rien-fuf.m4a (5626ms)
 
 piste: bon
 histoire: Guimbi Ouattara, la reine de Bobo
@@ -60,6 +80,10 @@ intonation: joyeux (proposée)
 texte: Madame, je vous remercie de votre accueil. J'écrirai ce que j'ai vu.
 genre: adulte/homme
 duree: 5310ms (estimée)
+texte_dyu: N b'a fɛ k'aw fo kosɔbɛ. Ne ye min ye, n bena o sɛbɛ.
+enregistre_dyu: guimbi-bon-dyu.m4a (4442ms)
+texte_fuf: Maami, miɗo yetta on ngam jaɓɓorgo mon. Mi winnda ko mi yi'i.
+enregistre_fuf: guimbi-bon-fuf.m4a (4650ms)
 
 piste: n5
 histoire: Guimbi Ouattara, la reine de Bobo
@@ -70,6 +94,10 @@ intonation: joyeux (proposée)
 texte: Mais un danger s'approche : Tiéba, le roi de Sikasso, veut étendre son pouvoir. Il envoie un émissaire au galop.
 genre: adulte/homme
 duree: 8650ms (estimée)
+texte_dyu: Nka, faratiba dɔ tun b'a kan: Sikasso masacɛ Teba tun be a fɛ k'a ka fanga bonya. A b'a ka lasigiden dɔ ci ka taga.
+enregistre_dyu: guimbi-n5-dyu.m4a (10788ms)
+texte_fuf: Ammaa halleende ɗon ɓadake: Laamiiɗo Sikasso Tieba yiɗi ɓeydude laamu maako. O wurtini goɗɗo nder gariiri.
+enregistre_fuf: guimbi-n5-fuf.m4a (8164ms)
 
 piste: n6
 histoire: Guimbi Ouattara, la reine de Bobo
@@ -80,6 +108,10 @@ intonation: posé (proposée)
 texte: Tiéba exige ta soumission.
 genre: adulte/homme
 duree: 1820ms (estimée)
+texte_dyu: Tiba b'a fɛ i k'i yɛrɛ majigi.
+enregistre_dyu: guimbi-n6-dyu.m4a (2064ms)
+texte_fuf: Tieba e yiɗi a ɗowtana mo.
+enregistre_fuf: guimbi-n6-fuf.m4a (2432ms)
 
 piste: n7
 histoire: Guimbi Ouattara, la reine de Bobo
@@ -90,6 +122,10 @@ intonation: posé (proposée)
 texte: Dis à ton maître que Bobo ne plie pas.
 genre: adulte/femme
 duree: 3720ms (estimée)
+texte_dyu: I k'a fɔ i kuntigi ye ko Bobo tɛ sɔn ka biri.
+enregistre_dyu: guimbi-n7-dyu.m4a (4032ms)
+texte_fuf: Yeccu joomiraawo ma, Bobo ɗon moƴƴaay.
+enregistre_fuf: guimbi-n7-fuf.m4a (2688ms)
 
 piste: n8
 histoire: Guimbi Ouattara, la reine de Bobo
@@ -100,6 +136,10 @@ intonation: posé (proposée)
 texte: Silence dans la cour. Chacun sait ce que veut dire ce refus. Où vas-tu te placer ? Le récit, lui, restera le même.
 genre: adulte/homme
 duree: 10240ms (estimée)
+texte_dyu: Mɔgɔ si kana kuma kɛnɛma. Mɔgɔ bɛɛ b'a lɔn ko n'u banna, o kɔrɔ ye min ye. I bena taga yɔrɔ jumɛn? Nka, Bibulu ka maana tɛna yɛlɛma.
+enregistre_dyu: guimbi-n8-dyu.m4a (12110ms)
+texte_fuf: Ɗuum e nder suudu. Gooto fuu anndi ko jaɓugo ɗum firti. Toye a laato hoore ma? Ko ɗum waɗi boo, haala ma'a ɗon haa foroy.
+enregistre_fuf: guimbi-n8-fuf.m4a (9902ms)
 
 piste: murs
 histoire: Guimbi Ouattara, la reine de Bobo
@@ -110,6 +150,10 @@ intonation: posé (proposée)
 texte: Les cavaliers arrivent devant la ville. Depuis les murs, tu vois les flèches pleuvoir et les assauts se briser. Enfin, les cavaliers reculent.
 genre: adulte/homme
 duree: 9940ms (estimée)
+texte_dyu: Sotigiw tagara se dugu kɔrɔ. I bɛ biɲɛw lajigi ka bɔ kogo ra, k'a ye ko kɛrɛkɛmuruw benna. A laban, sotigiw be tagara kɔfɛ.
+enregistre_dyu: guimbi-murs-dyu.m4a (10980ms)
+texte_fuf: Sooreeɓe koyɗeeji ngari yeeso gariiri. A ɗon yi'a daga nder mahol haa dow maɓɓaaji, a yi'i fiyruɗi ɗi mburtii. Ko ɗum waɗi, sooji'en ɓe ɗon hoola.
+enregistre_fuf: guimbi-murs-fuf.m4a (11940ms)
 
 piste: cour
 histoire: Guimbi Ouattara, la reine de Bobo
@@ -120,6 +164,10 @@ intonation: posé (proposée)
 texte: Dans la cour, on entend les cris venus des murs. Les défenseurs tiennent bon, et les assauts se brisent. Enfin, les cavaliers reculent.
 genre: adulte/homme
 duree: 10090ms (estimée)
+texte_dyu: Mɔgɔw tun bɛ kulekanw mɛn kɛnɛma kogow kan. Mɔgɔ minw bɛ lɔ kɛrɛ kama, olugu nɔrɔnin lo; mɔgɔ minw b'a fɛ ka ben mɔgɔw kan, o tɛ se ka foyi kɛ. A laban, sotigiw be tagara kɔfɛ.
+enregistre_dyu: guimbi-cour-dyu.m4a (14622ms)
+texte_fuf: E nder suudu, ɓe nani ɓeynguure ƴiwoyɗe nder cuuɗi. Yimɓe ɗowanteeɓe ɓe'e ɗon cembiɗina, yimɓe boo ɗon nyaamata. Ko ɗum waɗi, sooji'en ɓe ɗon hoola.
+enregistre_fuf: guimbi-cour-fuf.m4a (12212ms)
 
 piste: bilan
 histoire: Guimbi Ouattara, la reine de Bobo
@@ -130,6 +178,10 @@ intonation: vif (proposée)
 texte: Guimbi ! Celle qui a tenu tête à un roi.
 genre: adulte/femme
 duree: 4400ms (estimée)
+texte_dyu: Guimbi! Ale min y'a yɛrɛ di masacɛ dɔ ma.
+enregistre_dyu: guimbi-bilan-dyu.m4a (3674ms)
+texte_fuf: Guimbi ! O ɗon haɓɓa bee laamiiɗo.
+enregistre_fuf: guimbi-bilan-fuf.m4a (3466ms)
 
 piste: relire
 histoire: Guimbi Ouattara, la reine de Bobo
@@ -140,6 +192,10 @@ intonation: posé (proposée)
 texte: Reviens m'écouter : un nom se garde en le répétant.
 genre: adulte/femme
 duree: 4250ms (estimée)
+texte_dyu: Aw ye sekɔ ka na ne lamɛn, sabu aw bɛ o tɔgɔ kelen le fɔ.
+enregistre_dyu: guimbi-relire-dyu.m4a (4416ms)
+texte_fuf: To'o, nanammi. Goonga dow ko'e mon boɗɗum.
+enregistre_fuf: guimbi-relire-fuf.m4a (3626ms)
 
 piste: bien
 histoire: Guimbi Ouattara, la reine de Bobo
@@ -150,6 +206,10 @@ intonation: posé (proposée)
 texte: À Bobo-Dioulasso, on se souvient encore de son nom.
 genre: adulte/homme
 duree: 3870ms (estimée)
+texte_dyu: Bobo-Dioulasso dugu la, mɔgɔw bele b'a tɔgɔ lɔn.
+enregistre_dyu: guimbi-bien-dyu.m4a (4000ms)
+texte_fuf: To Bobo-Dioulasso, yimɓe ɗon nji'a innde maako haa jooni.
+enregistre_fuf: guimbi-bien-fuf.m4a (3600ms)
 
 piste: film-001
 histoire: Guimbi Ouattara, la reine de Bobo
@@ -160,6 +220,8 @@ intonation: sobre (scénario)
 texte: Guimbi Ouattara. Un récit historique, simplifié pour l'image.
 genre: adulte/libre
 duree: 5600ms (mesurée sur le film)
+texte_dyu: Guimbi Ouattara. O ye tarikiko dɔ lo ye.
+texte_fuf: Guimbi Ouattara. Ɗuum ko haala taariika, ɗum laaɓɓi ngam hollaago.
 
 piste: film-002
 histoire: Guimbi Ouattara, la reine de Bobo
@@ -170,6 +232,8 @@ intonation: posé (proposée)
 texte: Fin du dix-neuvième siècle. Sya, que l'on appelle aujourd'hui Bobo-Dioulasso.
 genre: adulte/libre
 duree: 6200ms (mesurée sur le film)
+texte_dyu: Saan kɛmɛkulu 19nan laban na. Sya, an b'a wele bi ko Bobo-Dioulasso.
+texte_fuf: Ɓaawo karnijum 19th Sya, biyeteeɗo Bobo-Dioulasso hannde.
 
 piste: film-003
 histoire: Guimbi Ouattara, la reine de Bobo
@@ -180,6 +244,8 @@ intonation: posé (proposée)
 texte: Une femme y compte plus que beaucoup d'hommes : Guimbi Ouattara.
 genre: adulte/libre
 duree: 4100ms (mesurée sur le film)
+texte_dyu: Muso kelen lo be yen ka tɛmɛ cɛɛ caaman kan: Guimbi Ouattara.
+texte_fuf: Debbo gooto ɓuri worɓe ɗuuɗɓe: Guimbi Ouattara.
 
 piste: film-004
 histoire: Guimbi Ouattara, la reine de Bobo
@@ -190,6 +256,8 @@ intonation: calme, ferme (scénario)
 texte: Vous partagerez ce champ, et chacun gardera sa part.
 genre: adulte/femme
 duree: 4200ms (mesurée sur le film)
+texte_dyu: Aw ka kan k'a taran ɲɔgɔn na, mɔgɔ kelen kelen bɛɛ ye a ta yɔrɔ sɔrɔ.
+texte_fuf: "Onon yimɓe ɓe'e keɓan ko'e maɓɓe nder lesdi.
 
 piste: film-005
 histoire: Guimbi Ouattara, la reine de Bobo
@@ -200,6 +268,8 @@ intonation: posé (proposée)
 texte: On vient la voir pour régler les disputes, et on l'écoute.
 genre: adulte/libre
 duree: 4100ms (mesurée sur le film)
+texte_dyu: An b'an janto a la walisa ka bɛnbaliyakow ɲɛnabɔ ani k'a lamɛn.
+texte_fuf: Eɗen njahi to maako ngam ɓe cuɓɓa haala maɓɓe, nden kam en keewi mo.
 
 piste: film-006
 histoire: Guimbi Ouattara, la reine de Bobo
@@ -210,6 +280,8 @@ intonation: posé (proposée)
 texte: Un jour, un explorateur européen arrive à Sya, épuisé.
 genre: adulte/libre
 duree: 4700ms (mesurée sur le film)
+texte_dyu: Loon dɔ, Erɔpikaw tun be taga Ɛsi jamana na.
+texte_fuf: Nder nyalnde go'o, tawtoreejo Orop wari to Sya.
 
 piste: film-007
 histoire: Guimbi Ouattara, la reine de Bobo
@@ -220,6 +292,8 @@ intonation: posé (proposée)
 texte: Elle lui fait porter de l'eau et de la cola : c'est l'accueil dû à un visiteur.
 genre: adulte/libre
 duree: 4700ms (mesurée sur le film)
+texte_dyu: A y'a fɔ a ye ko a ka na n'a ye jii ni kola ye.
+texte_fuf: O hokki mo ndiyam e cola, ngam o jaɓii boowo.
 
 piste: film-008
 histoire: Guimbi Ouattara, la reine de Bobo
@@ -230,6 +304,8 @@ intonation: poli (scénario)
 texte: Madame, je vous remercie de votre accueil.
 genre: adulte/homme
 duree: 3000ms (mesurée sur le film)
+texte_dyu: N b'a fɛ k'aw fo kosɔbɛ.
+texte_fuf: Maami, miɗo yetta on ngam jaɓɓorgo mon.
 
 piste: film-009
 histoire: Guimbi Ouattara, la reine de Bobo
@@ -240,6 +316,8 @@ intonation: souriant (scénario)
 texte: Ici, l'étranger est sous ma protection.
 genre: adulte/femme
 duree: 3500ms (mesurée sur le film)
+texte_dyu: O yɔrɔ la, n' be lonanw tanga.
+texte_fuf: Haa ɗo, aadiyankeejo ɗon haaje bee am.
 
 piste: film-010
 histoire: Guimbi Ouattara, la reine de Bobo
@@ -250,6 +328,8 @@ intonation: admiratif (scénario)
 texte: J'écrirai ce que j'ai vu.
 genre: adulte/homme
 duree: 2100ms (mesurée sur le film)
+texte_dyu: Ne ye min ye, n bena o sɛbɛ.
+texte_fuf: Mi winnda ko mi yi'i.
 
 piste: film-011
 histoire: Guimbi Ouattara, la reine de Bobo
@@ -260,6 +340,8 @@ intonation: posé (proposée)
 texte: Mais un danger s'approche. Tiéba, le roi de Sikasso, veut étendre son pouvoir.
 genre: adulte/libre
 duree: 6900ms (mesurée sur le film)
+texte_dyu: Nka, faratiba dɔ b'an kan. Sikasɔ masacɛ Teba tun b'a fɛ ka dɔ fara a ta fanga kan.
+texte_fuf: Ammaa halleende ɗon ɓadito. Laamiiɗo Sikasso bi'eteeɗo Tieba yiɗi ɓeydaago laamu maako.
 
 piste: film-012
 histoire: Guimbi Ouattara, la reine de Bobo
@@ -270,6 +352,8 @@ intonation: autoritaire (scénario)
 texte: Bobo se soumettra. Porte-lui mon message.
 genre: adulte/homme
 duree: 4800ms (mesurée sur le film)
+texte_dyu: Bobo bena sɔn. A fɔ a ye n' ka kuma na.
+texte_fuf: Bobo hokkata hoore mum. Wurtina mo habaruuji am.
 
 piste: film-013
 histoire: Guimbi Ouattara, la reine de Bobo
@@ -280,6 +364,8 @@ intonation: posé (proposée)
 texte: Un émissaire part au galop.
 genre: adulte/libre
 duree: 2500ms (mesurée sur le film)
+texte_dyu: Mɔgɔ dɔ b'a fɛ k'o kɛ.
+texte_fuf: Mawɗo wootere ɗon yahda to galop.
 
 piste: film-014
 histoire: Guimbi Ouattara, la reine de Bobo
@@ -290,6 +376,8 @@ intonation: arrogant (scénario)
 texte: Tiéba exige ta soumission.
 genre: adulte/homme
 duree: 2400ms (mesurée sur le film)
+texte_dyu: Tiba b'a fɛ i k'i yɛrɛ majigi.
+texte_fuf: Tieba e yiɗi a ɗowtana mo.
 
 piste: film-015
 histoire: Guimbi Ouattara, la reine de Bobo
@@ -300,6 +388,8 @@ intonation: posé (proposée)
 texte: Guimbi se lève.
 genre: adulte/libre
 duree: 2200ms (mesurée sur le film)
+texte_dyu: Guimbi be wili.
+texte_fuf: Guimbi ummii.
 
 piste: film-016
 histoire: Guimbi Ouattara, la reine de Bobo
@@ -310,6 +400,8 @@ intonation: ferme, sans crier (scénario)
 texte: Dis à ton maître que Bobo ne plie pas.
 genre: adulte/femme
 duree: 2900ms (mesurée sur le film)
+texte_dyu: I k'a fɔ i kuntigi ye ko Bobo tɛ sɔn ka biri.
+texte_fuf: Yeccu joomiraawo ma, Bobo ɗon moƴƴaay.
 
 piste: film-017
 histoire: Guimbi Ouattara, la reine de Bobo
@@ -320,6 +412,8 @@ intonation: posé (proposée)
 texte: Silence dans la cour. Chacun sait ce que veut dire ce refus.
 genre: adulte/libre
 duree: 5100ms (mesurée sur le film)
+texte_dyu: Mɔgɔ si kana kuma kɛnɛma. Mɔgɔ bɛɛ b'a lɔn ko n'u banna, o kɔrɔ ye min ye.
+texte_fuf: Ɗuum e nder suudu. Gooto fuu anndi ko jaɓugo ɗum firti.
 
 piste: film-018
 histoire: Guimbi Ouattara, la reine de Bobo
@@ -330,6 +424,8 @@ intonation: tendu (scénario)
 texte: Les cavaliers arrivent devant la ville. Sur les murs, les défenseurs tiennent bon.
 genre: adulte/libre
 duree: 5900ms (mesurée sur le film)
+texte_dyu: Sotigiw tagara se dugu kɔrɔ. K'u to kogow kan, u ka lafasabagaw b'u yɛrɛ tanga.
+texte_fuf: Sooreeɓe koyɗeeji ngari yeeso gariiri. Wurooɓe ɗon cembiɗina dow mahol.
 
 piste: film-019
 histoire: Guimbi Ouattara, la reine de Bobo
@@ -340,6 +436,8 @@ intonation: posé (proposée)
 texte: Les flèches pleuvent. Les assauts se brisent.
 genre: adulte/libre
 duree: 4200ms (mesurée sur le film)
+texte_dyu: Sanbɛrɛw be ben. O kama, mɔgɔ tɛ se k'a yɛrɛ minɛ.
+texte_fuf: Fooje ɗon wara. Hakkiilo'en ɗon timmina.
 
 piste: film-020
 histoire: Guimbi Ouattara, la reine de Bobo
@@ -350,6 +448,8 @@ intonation: ferme (scénario)
 texte: Enfin, les cavaliers reculent.
 genre: adulte/libre
 duree: 3200ms (mesurée sur le film)
+texte_dyu: A laban, sotigiw be tagara kɔfɛ.
+texte_fuf: Ko ɗum waɗi, sooji'en ɓe ɗon hoola.
 
 piste: film-021
 histoire: Guimbi Ouattara, la reine de Bobo
@@ -360,6 +460,8 @@ intonation: joyeux (scénario)
 texte: Bobo est sauve, et la ville acclame Guimbi.
 genre: adulte/libre
 duree: 3500ms (mesurée sur le film)
+texte_dyu: Bobo kisira ani dugumɔgɔw ye Guimbi tando.
+texte_fuf: Bobo wurtinaama, nden gariiri boo teddini Guimbi.
 
 piste: film-022
 histoire: Guimbi Ouattara, la reine de Bobo
@@ -370,6 +472,8 @@ intonation: voix chantante (scénario)
 texte: Guimbi ! Celle qui a tenu tête à un roi.
 genre: griot, griotte/libre
 duree: 4900ms (mesurée sur le film)
+texte_dyu: Guimbi! Ale min y'a yɛrɛ di masacɛ dɔ ma.
+texte_fuf: Guimbi ! O ɗon haɓɓa bee laamiiɗo.
 
 piste: film-023
 histoire: Guimbi Ouattara, la reine de Bobo
@@ -380,3 +484,5 @@ intonation: doux (scénario)
 texte: À Bobo-Dioulasso, on se souvient encore de son nom.
 genre: adulte/libre
 duree: 4000ms (mesurée sur le film)
+texte_dyu: Bobo-Dioulasso dugu la, mɔgɔw bele b'a tɔgɔ lɔn.
+texte_fuf: To Bobo-Dioulasso, yimɓe ɗon nji'a innde maako haa jooni.

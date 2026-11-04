@@ -302,7 +302,8 @@ export async function monter(el, ctx) {
       <label class="j-reglage"><span>Langue des voix</span><select data-l-voix>
         <option value="" ${langueVoix ? '' : 'selected'}>Sans voix</option>
         ${codes.map((c) => `<option value="${c}" ${c === langueVoix ? 'selected' : ''} ${bilan[c].voix ? '' : 'disabled'}>${nom(c)}${bilan[c].voix ? (bilan[c].voix < 100 ? ` (${bilan[c].voix} %)` : '') : ' (à enregistrer)'}</option>`).join('')}
-      </select></label>`;
+      </select></label>
+      <p class="meta">Mooré, dioula et fulfulde : traduction et voix automatiques, non relues par un locuteur. Des erreurs sont probables.</p>`;
   }
   function changerLangue(e) {
     const t = e.target;
