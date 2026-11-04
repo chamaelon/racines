@@ -44,4 +44,5 @@ git -C $depot diff --cached --quiet
 if ($LASTEXITCODE -eq 0) { Write-Host 'Rien de nouveau à publier.'; return }
 git -C $depot commit -q -m 'Publication des films'
 git -C $depot push origin HEAD:gh-pages
+if ($LASTEXITCODE -ne 0) { throw "L'envoi a échoué : le commit attend dans $depot. Relancer : git -C dist-depot-films push origin HEAD:gh-pages" }
 Write-Host "Films publiés. Pensez à pousser public/data/films.json dans la branche de travail."
