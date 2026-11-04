@@ -738,6 +738,286 @@
      "fichier": "tiefo-amoro-croire-fuf.m4a"
     }
    }
+  },
+  {
+   "id": "film-001",
+   "type": "film",
+   "partie": "Film d'animation, de 00:02.0 à 00:04.8",
+   "horodatage": {
+    "debut_ms": 2000,
+    "fin_ms": 4800
+   },
+   "personnage": "Narrateur",
+   "intonation": "solennel",
+   "intonation_statut": "scénario",
+   "texte": "Tiéfo Amoro et Noumoudara.",
+   "genre": "adulte/libre",
+   "duree_ms": 2800,
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Tiéfo Amoro ni Noumoudara.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Tiéfo Amoro e Noumoudara.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "film-002",
+   "type": "film",
+   "partie": "Film d'animation, de 00:07.0 à 00:12.9",
+   "horodatage": {
+    "debut_ms": 7000,
+    "fin_ms": 12900
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Noumoudara était le principal centre des Tiéfo, dans l'ouest de l'actuel Burkina Faso.",
+   "genre": "adulte/libre",
+   "duree_ms": 5900,
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Noumoudara tun ye Tiéfo dugumɔgɔw ka duguba dɔ ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Noumoudara woni wuro mawɗo yimɓe Tiéfo nder hirnaange Burkina Faso.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "film-003",
+   "type": "film",
+   "partie": "Film d'animation, de 00:14.0 à 00:19.2",
+   "horodatage": {
+    "debut_ms": 14000,
+    "fin_ms": 19200
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "À sa tête, à la fin du XIXe siècle, se trouvait Tiéfo Amoro.",
+   "genre": "adulte/libre",
+   "duree_ms": 5200,
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Saan 1800 wagati la, Tiéfo Amoro lo tun y'o jɛnkulu ɲɛminɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Ko ndeen laamiiɗo, Tiéfo Amoro woni ardiiɗo mum haa sahaa 1800.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "film-004",
+   "type": "film",
+   "partie": "Film d'animation, de 00:20.0 à 00:27.7",
+   "horodatage": {
+    "debut_ms": 20000,
+    "fin_ms": 27700
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Une conférence donnée à Bobo-Dioulasso en 2026 le présente comme le onzième chef des Tiéfo, né vers 1840.",
+   "genre": "adulte/libre",
+   "duree_ms": 7700,
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Saan 2026 la, kalan dɔ kɛra Bobo-Dioulasso dugu kɔnɔ min b'a yira ko a ye Tiéfow ka kuntigi 11nan ye. A wolola saan 1840 wagati la.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Goomu daraniiɗo to Bobo-Dioulasso e hitaande 2026 holli mo wonde ardiiɗo Tiéfo sappo e go'o, jibinaaɗo ko e 1840.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "film-005",
+   "type": "film",
+   "partie": "Film d'animation, de 00:31.0 à 00:36.8",
+   "horodatage": {
+    "debut_ms": 31000,
+    "fin_ms": 36800
+   },
+   "personnage": "Narrateur",
+   "intonation": "grave",
+   "intonation_statut": "scénario",
+   "texte": "En 1897, Samory Touré progresse vers la région de Bobo-Dioulasso.",
+   "genre": "adulte/libre",
+   "duree_ms": 5800,
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Saan 1897 la, Samory Touré tagara Bobo-Dioulasso mara la.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "E hitaande 1897, Samory Touré yahdi to diiwaan Bobo-Dioulasso.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "film-006",
+   "type": "film",
+   "partie": "Film d'animation, de 00:38.0 à 00:45.9",
+   "horodatage": {
+    "debut_ms": 38000,
+    "fin_ms": 45900
+   },
+   "personnage": "Narrateur",
+   "intonation": "grave",
+   "intonation_statut": "scénario",
+   "texte": "Selon cette même conférence, Tiéfo Amoro lui oppose plusieurs combats, notamment à Bama et à Péni, puis à Noumoudara.",
+   "genre": "adulte/libre",
+   "duree_ms": 7900,
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O lajɛnba yɛrɛ kɔnɔ, Tiéfo Amoro y'a fɔ ko a ye kɛlɛ caaman kɛ n'a ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "E wiyde kawtal ngal, Tiéfo Amoro hawti e haɓre keewɗe, haa teeŋti noon to Bama e Penni, caggal ɗuum to Noumoudara.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "film-007",
+   "type": "film",
+   "partie": "Film d'animation, de 00:49.0 à 00:52.0",
+   "horodatage": {
+    "debut_ms": 49000,
+    "fin_ms": 52000
+   },
+   "personnage": "Narrateur",
+   "intonation": "grave",
+   "intonation_statut": "scénario",
+   "texte": "Samory assiège la forteresse.",
+   "genre": "adulte/libre",
+   "duree_ms": 3000,
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Samori ye dugu lamini.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Samory ɗon hawta bee suudu.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "film-008",
+   "type": "film",
+   "partie": "Film d'animation, de 00:53.0 à 00:58.6",
+   "horodatage": {
+    "debut_ms": 53000,
+    "fin_ms": 58600
+   },
+   "personnage": "Narrateur",
+   "intonation": "grave",
+   "intonation_statut": "scénario",
+   "texte": "Elle tombe après environ une semaine, et il ordonne de la détruire pour montrer sa force.",
+   "genre": "adulte/libre",
+   "duree_ms": 5600,
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "A jigira fɔ ka taga se lɔgɔkun kelen ma. O kɔ, a ko o ye muso halaki janko k'a ta fanga yira a ra.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Nde nyalnde go'o timmi, o wurtini ngam o holla sembe maako.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "film-009",
+   "type": "film",
+   "partie": "Film d'animation, de 01:02.0 à 01:11.1",
+   "horodatage": {
+    "debut_ms": 62000,
+    "fin_ms": 71100
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Selon l'historien cité lors de la conférence, une trahison aurait affaibli l'armée de Tiéfo Amoro, et celui-ci aurait choisi la mort plutôt que la reddition.",
+   "genre": "adulte/libre",
+   "duree_ms": 9100,
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Lɔnnikɛla min kofɔra o kalan na, ale y'a fɔ ko n'u ye mɔgɔ dɔ janfa, o tun bena a to Tiéfo Amoro ka sɔrɔdasiw tora fanga la.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Mawɗo taariika'en wi'i nder wolde nde'e wi'aay wonde luulndo waɗannoo konu Tiéfo Amoro ɓeydaaki, o yiɗiri maayde haa teeŋti e hokkugo hoore mum.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "film-010",
+   "type": "film",
+   "partie": "Film d'animation, de 01:16.0 à 01:22.8",
+   "horodatage": {
+    "debut_ms": 76000,
+    "fin_ms": 82800
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "scénario",
+   "texte": "Nous n'avons trouvé qu'une seule source pour ce récit de sa fin : il est donné ici comme tel, et il reste à valider.",
+   "genre": "adulte/libre",
+   "duree_ms": 6800,
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "An k'a ye ko a laban kɛra cogo min na, an ka o sɔrɔyɔrɔ kelen dɔrɔn le ra. A sɛbɛra nin cogo le ra yan, ani a bɛ to ka kɛ can ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Min tawi ko go'oto tan woni haala ɓaawo maako, nden kam ɗum wurtinaama bana non.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   }
  ]
 }

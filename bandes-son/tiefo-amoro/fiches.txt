@@ -182,3 +182,123 @@ texte_dyu: O kama, an ka ɲi k'an yɛrɛ kɔrɔsi. An b'a lɔn ko hali sanni u k
 enregistre_dyu: tiefo-amoro-croire-dyu.m4a (9802ms)
 texte_fuf: Hakkiilo: Fooyre gootol tan ɗon wi'a non. Ko en anndi woni, ko ɓesngu leydi fuɗɗii ɗowtanaade leydi ndii, leyɗe hirnaange mbaɗi ngam haɓɓaade gure maɓɓe diga laamuji mawɗi.
 enregistre_fuf: tiefo-amoro-croire-fuf.m4a (13860ms)
+
+piste: film-001
+histoire: Tiéfo Amoro et la chute de Noumoudara (1897)
+partie: Film d'animation, de 00:02.0 à 00:04.8
+personnage: Narrateur
+fichier: tiefo-amoro-film-001-<langue>.m4a
+intonation: solennel (scénario)
+texte: Tiéfo Amoro et Noumoudara.
+genre: adulte/libre
+duree: 2800ms (mesurée sur le film)
+texte_dyu: Tiéfo Amoro ni Noumoudara.
+texte_fuf: Tiéfo Amoro e Noumoudara.
+
+piste: film-002
+histoire: Tiéfo Amoro et la chute de Noumoudara (1897)
+partie: Film d'animation, de 00:07.0 à 00:12.9
+personnage: Narrateur
+fichier: tiefo-amoro-film-002-<langue>.m4a
+intonation: posé (proposée)
+texte: Noumoudara était le principal centre des Tiéfo, dans l'ouest de l'actuel Burkina Faso.
+genre: adulte/libre
+duree: 5900ms (mesurée sur le film)
+texte_dyu: Noumoudara tun ye Tiéfo dugumɔgɔw ka duguba dɔ ye.
+texte_fuf: Noumoudara woni wuro mawɗo yimɓe Tiéfo nder hirnaange Burkina Faso.
+
+piste: film-003
+histoire: Tiéfo Amoro et la chute de Noumoudara (1897)
+partie: Film d'animation, de 00:14.0 à 00:19.2
+personnage: Narrateur
+fichier: tiefo-amoro-film-003-<langue>.m4a
+intonation: posé (proposée)
+texte: À sa tête, à la fin du XIXe siècle, se trouvait Tiéfo Amoro.
+genre: adulte/libre
+duree: 5200ms (mesurée sur le film)
+texte_dyu: Saan 1800 wagati la, Tiéfo Amoro lo tun y'o jɛnkulu ɲɛminɛ.
+texte_fuf: Ko ndeen laamiiɗo, Tiéfo Amoro woni ardiiɗo mum haa sahaa 1800.
+
+piste: film-004
+histoire: Tiéfo Amoro et la chute de Noumoudara (1897)
+partie: Film d'animation, de 00:20.0 à 00:27.7
+personnage: Narrateur
+fichier: tiefo-amoro-film-004-<langue>.m4a
+intonation: posé (proposée)
+texte: Une conférence donnée à Bobo-Dioulasso en 2026 le présente comme le onzième chef des Tiéfo, né vers 1840.
+genre: adulte/libre
+duree: 7700ms (mesurée sur le film)
+texte_dyu: Saan 2026 la, kalan dɔ kɛra Bobo-Dioulasso dugu kɔnɔ min b'a yira ko a ye Tiéfow ka kuntigi 11nan ye. A wolola saan 1840 wagati la.
+texte_fuf: Goomu daraniiɗo to Bobo-Dioulasso e hitaande 2026 holli mo wonde ardiiɗo Tiéfo sappo e go'o, jibinaaɗo ko e 1840.
+
+piste: film-005
+histoire: Tiéfo Amoro et la chute de Noumoudara (1897)
+partie: Film d'animation, de 00:31.0 à 00:36.8
+personnage: Narrateur
+fichier: tiefo-amoro-film-005-<langue>.m4a
+intonation: grave (scénario)
+texte: En 1897, Samory Touré progresse vers la région de Bobo-Dioulasso.
+genre: adulte/libre
+duree: 5800ms (mesurée sur le film)
+texte_dyu: Saan 1897 la, Samory Touré tagara Bobo-Dioulasso mara la.
+texte_fuf: E hitaande 1897, Samory Touré yahdi to diiwaan Bobo-Dioulasso.
+
+piste: film-006
+histoire: Tiéfo Amoro et la chute de Noumoudara (1897)
+partie: Film d'animation, de 00:38.0 à 00:45.9
+personnage: Narrateur
+fichier: tiefo-amoro-film-006-<langue>.m4a
+intonation: grave (scénario)
+texte: Selon cette même conférence, Tiéfo Amoro lui oppose plusieurs combats, notamment à Bama et à Péni, puis à Noumoudara.
+genre: adulte/libre
+duree: 7900ms (mesurée sur le film)
+texte_dyu: O lajɛnba yɛrɛ kɔnɔ, Tiéfo Amoro y'a fɔ ko a ye kɛlɛ caaman kɛ n'a ye.
+texte_fuf: E wiyde kawtal ngal, Tiéfo Amoro hawti e haɓre keewɗe, haa teeŋti noon to Bama e Penni, caggal ɗuum to Noumoudara.
+
+piste: film-007
+histoire: Tiéfo Amoro et la chute de Noumoudara (1897)
+partie: Film d'animation, de 00:49.0 à 00:52.0
+personnage: Narrateur
+fichier: tiefo-amoro-film-007-<langue>.m4a
+intonation: grave (scénario)
+texte: Samory assiège la forteresse.
+genre: adulte/libre
+duree: 3000ms (mesurée sur le film)
+texte_dyu: Samori ye dugu lamini.
+texte_fuf: Samory ɗon hawta bee suudu.
+
+piste: film-008
+histoire: Tiéfo Amoro et la chute de Noumoudara (1897)
+partie: Film d'animation, de 00:53.0 à 00:58.6
+personnage: Narrateur
+fichier: tiefo-amoro-film-008-<langue>.m4a
+intonation: grave (scénario)
+texte: Elle tombe après environ une semaine, et il ordonne de la détruire pour montrer sa force.
+genre: adulte/libre
+duree: 5600ms (mesurée sur le film)
+texte_dyu: A jigira fɔ ka taga se lɔgɔkun kelen ma. O kɔ, a ko o ye muso halaki janko k'a ta fanga yira a ra.
+texte_fuf: Nde nyalnde go'o timmi, o wurtini ngam o holla sembe maako.
+
+piste: film-009
+histoire: Tiéfo Amoro et la chute de Noumoudara (1897)
+partie: Film d'animation, de 01:02.0 à 01:11.1
+personnage: Narrateur
+fichier: tiefo-amoro-film-009-<langue>.m4a
+intonation: posé (proposée)
+texte: Selon l'historien cité lors de la conférence, une trahison aurait affaibli l'armée de Tiéfo Amoro, et celui-ci aurait choisi la mort plutôt que la reddition.
+genre: adulte/libre
+duree: 9100ms (mesurée sur le film)
+texte_dyu: Lɔnnikɛla min kofɔra o kalan na, ale y'a fɔ ko n'u ye mɔgɔ dɔ janfa, o tun bena a to Tiéfo Amoro ka sɔrɔdasiw tora fanga la.
+texte_fuf: Mawɗo taariika'en wi'i nder wolde nde'e wi'aay wonde luulndo waɗannoo konu Tiéfo Amoro ɓeydaaki, o yiɗiri maayde haa teeŋti e hokkugo hoore mum.
+
+piste: film-010
+histoire: Tiéfo Amoro et la chute de Noumoudara (1897)
+partie: Film d'animation, de 01:16.0 à 01:22.8
+personnage: Narrateur
+fichier: tiefo-amoro-film-010-<langue>.m4a
+intonation: posé (scénario)
+texte: Nous n'avons trouvé qu'une seule source pour ce récit de sa fin : il est donné ici comme tel, et il reste à valider.
+genre: adulte/libre
+duree: 6800ms (mesurée sur le film)
+texte_dyu: An k'a ye ko a laban kɛra cogo min na, an ka o sɔrɔyɔrɔ kelen dɔrɔn le ra. A sɛbɛra nin cogo le ra yan, ani a bɛ to ka kɛ can ye.
+texte_fuf: Min tawi ko go'oto tan woni haala ɓaawo maako, nden kam ɗum wurtinaama bana non.

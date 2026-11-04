@@ -210,3 +210,111 @@ texte_dyu: Nka, an be koow kɛ ni bonya ye.
 enregistre_dyu: kinkirsi-n9-dyu.m4a (2688ms)
 texte_fuf: Dunyaaji ɗi ngi'eteeɓe naa' tan.
 enregistre_fuf: kinkirsi-n9-fuf.m4a (2768ms)
+
+piste: film-001
+histoire: Les kinkirsi, génies de la brousse
+partie: Film d'animation, de 00:02.0 à 00:05.5
+personnage: Narrateur
+fichier: kinkirsi-film-001-<langue>.m4a
+intonation: solennel (scénario)
+texte: Les kinkirsi, génies de la brousse.
+genre: adulte/libre
+duree: 3500ms (mesurée sur le film)
+texte_dyu: Kinkirisiw, minw ye kungo kɔnɔ lɔnnikɛlaw ye.
+texte_fuf: Kinkirsi'en, ruuhuuji nder ladde.
+
+piste: film-002
+histoire: Les kinkirsi, génies de la brousse
+partie: Film d'animation, de 00:07.0 à 00:13.3
+personnage: Narrateur
+fichier: kinkirsi-film-002-<langue>.m4a
+intonation: mystérieux (scénario)
+texte: Quand on quitte le village à la tombée du jour, disent les anciens, on n'est jamais tout à fait seul en brousse.
+genre: adulte/libre
+duree: 6300ms (mesurée sur le film)
+texte_dyu: Nka, mɔgɔkɔrɔbaw b'a fɔ ko n'i bɔra dugu kɔnɔ sɔgɔma joona, i t'a sɔrɔ i kelen lo kungo kɔnɔ.
+texte_fuf: Mawɓe ɗon mbi'a: "To a wurti nder gariiri saabe nyalawma, a waawataa yahugo bee hoore ma nder ladde".
+
+piste: film-003
+histoire: Les kinkirsi, génies de la brousse
+partie: Film d'animation, de 00:16.0 à 00:20.8
+personnage: Narrateur
+fichier: kinkirsi-film-003-<langue>.m4a
+intonation: mystérieux (scénario)
+texte: Les kinkirsi y circulent, parfois montés sur des animaux sauvages.
+genre: adulte/libre
+duree: 4800ms (mesurée sur le film)
+texte_dyu: Tuma dɔw la, kinkirsiw be yɛlɛn kongosogow kan.
+texte_fuf: Kinkirsi'en njooɗoto nder nokkuure nde, feere-feere ɓe mbaɗi dow dabbaaji ladde.
+
+piste: film-004
+histoire: Les kinkirsi, génies de la brousse
+partie: Film d'animation, de 00:22.0 à 00:25.1
+personnage: Narrateur
+fichier: kinkirsi-film-004-<langue>.m4a
+intonation: posé (proposée)
+texte: Au singulier, on dit kinkirga.
+genre: adulte/libre
+duree: 3100ms (mesurée sur le film)
+texte_dyu: U b'a weele ko kinkirga.
+texte_fuf: Ɓe mbi'i ɗum kinkirga.
+
+piste: film-005
+histoire: Les kinkirsi, génies de la brousse
+partie: Film d'animation, de 00:26.0 à 00:34.2
+personnage: Narrateur
+fichier: kinkirsi-film-005-<langue>.m4a
+intonation: posé (proposée)
+texte: Selon la tradition mossi décrite par l'ethnologue Doris Bonnet, ces génies sont organisés en groupes, chacun portant le nom de son doyen.
+genre: adulte/libre
+duree: 8200ms (mesurée sur le film)
+texte_dyu: Lɔnnikɛla Doris Bonnet y'a fɔ ko hakili senu mɔgɔw labɛnna jɛnkulu dɔw kɔnɔ. U kelen kelen bɛɛ tɔgɔ bɔra u ka mɔgɔ kɔrɔw lo la.
+texte_fuf: E wiyde aada mossi nde anndudi biyeteeɗo Doris Bonnet hollitii, yimɓe ɓe'e ngoni nder kuuje, koo go'o e innde hooreejo maɓɓe.
+
+piste: film-006
+histoire: Les kinkirsi, génies de la brousse
+partie: Film d'animation, de 00:37.0 à 00:43.5
+personnage: Narrateur
+fichier: kinkirsi-film-006-<langue>.m4a
+intonation: doux (scénario)
+texte: Ils aiment ce qui est doux : le miel, le sésame, les gâteaux de haricots, l'arachide.
+genre: adulte/libre
+duree: 6500ms (mesurée sur le film)
+texte_dyu: Fɛn minw ka di o ye, o ye li ye, ani jeseji, ani ŋɔmi, ani yiridenw.
+texte_fuf: Ɓe ngiɗi nyaamdu: njuumre, seeseem, cakkitiiɗe njayri e geɗal.
+
+piste: film-007
+histoire: Les kinkirsi, génies de la brousse
+partie: Film d'animation, de 00:46.0 à 00:53.7
+personnage: Narrateur
+fichier: kinkirsi-film-007-<langue>.m4a
+intonation: doux (scénario)
+texte: On les associe aussi à la venue des enfants, et tout particulièrement aux jumeaux, regardés leur vie durant comme proches des génies.
+genre: adulte/libre
+duree: 7700ms (mesurée sur le film)
+texte_dyu: U b'a fɔ fana ko denmisɛnw lo be na, sanko deen fila.
+texte_fuf: Yimɓe ɓeen boo mbi'i ɗi ɗon wara e ɓikkoy, haa teeŋti e ɓerɗe ɓerɗi, ngam nder nguurndam maɓɓe fuu ɓe laatoo ɓerdiiɓe ruuhu.
+
+piste: film-008
+histoire: Les kinkirsi, génies de la brousse
+partie: Film d'animation, de 00:57.0 à 01:00.4
+personnage: Narrateur
+fichier: kinkirsi-film-008-<langue>.m4a
+intonation: doux (scénario)
+texte: Certains d'entre eux passent pour savoir leur parler.
+genre: adulte/libre
+duree: 3400ms (mesurée sur le film)
+texte_dyu: U dɔw b'a fɛ ka kuma n'u ye.
+texte_fuf: Woɗɓe nder maɓɓe ɗon njaha ngam ɓe mbi'a.
+
+piste: film-009
+histoire: Les kinkirsi, génies de la brousse
+partie: Film d'animation, de 01:03.0 à 01:12.1
+personnage: Narrateur
+fichier: kinkirsi-film-009-<langue>.m4a
+intonation: posé (scénario)
+texte: Ce texte résume des descriptions publiées. Il ne raconte pas encore une légende précise de Kaya : c'est à collecter auprès d'un conteur de la région.
+genre: adulte/libre
+duree: 9100ms (mesurée sur le film)
+texte_dyu: O vɛrise kɔnɔ, u ye min fɔ o koo la, a y'o lajɛ. A ma Kaya ka maana dɔ fɔ fɔlɔ.
+texte_fuf: Ɗuum ɗemngal hollitii baylitol ngol. Haa jooni, o meeɗaa anndude ko Kaya waɗi: o waawi jaɓugo ɗum to gooduɗo haala leydi ndii.

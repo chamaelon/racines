@@ -832,6 +832,258 @@
      "fichier": "kinkirsi-n9-fuf.m4a"
     }
    }
+  },
+  {
+   "id": "film-001",
+   "type": "film",
+   "partie": "Film d'animation, de 00:02.0 à 00:05.5",
+   "horodatage": {
+    "debut_ms": 2000,
+    "fin_ms": 5500
+   },
+   "personnage": "Narrateur",
+   "intonation": "solennel",
+   "intonation_statut": "scénario",
+   "texte": "Les kinkirsi, génies de la brousse.",
+   "genre": "adulte/libre",
+   "duree_ms": 3500,
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Kinkirisiw, minw ye kungo kɔnɔ lɔnnikɛlaw ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Kinkirsi'en, ruuhuuji nder ladde.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "film-002",
+   "type": "film",
+   "partie": "Film d'animation, de 00:07.0 à 00:13.3",
+   "horodatage": {
+    "debut_ms": 7000,
+    "fin_ms": 13300
+   },
+   "personnage": "Narrateur",
+   "intonation": "mystérieux",
+   "intonation_statut": "scénario",
+   "texte": "Quand on quitte le village à la tombée du jour, disent les anciens, on n'est jamais tout à fait seul en brousse.",
+   "genre": "adulte/libre",
+   "duree_ms": 6300,
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Nka, mɔgɔkɔrɔbaw b'a fɔ ko n'i bɔra dugu kɔnɔ sɔgɔma joona, i t'a sɔrɔ i kelen lo kungo kɔnɔ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Mawɓe ɗon mbi'a: \"To a wurti nder gariiri saabe nyalawma, a waawataa yahugo bee hoore ma nder ladde\".",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "film-003",
+   "type": "film",
+   "partie": "Film d'animation, de 00:16.0 à 00:20.8",
+   "horodatage": {
+    "debut_ms": 16000,
+    "fin_ms": 20800
+   },
+   "personnage": "Narrateur",
+   "intonation": "mystérieux",
+   "intonation_statut": "scénario",
+   "texte": "Les kinkirsi y circulent, parfois montés sur des animaux sauvages.",
+   "genre": "adulte/libre",
+   "duree_ms": 4800,
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Tuma dɔw la, kinkirsiw be yɛlɛn kongosogow kan.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Kinkirsi'en njooɗoto nder nokkuure nde, feere-feere ɓe mbaɗi dow dabbaaji ladde.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "film-004",
+   "type": "film",
+   "partie": "Film d'animation, de 00:22.0 à 00:25.1",
+   "horodatage": {
+    "debut_ms": 22000,
+    "fin_ms": 25100
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Au singulier, on dit kinkirga.",
+   "genre": "adulte/libre",
+   "duree_ms": 3100,
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "U b'a weele ko kinkirga.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Ɓe mbi'i ɗum kinkirga.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "film-005",
+   "type": "film",
+   "partie": "Film d'animation, de 00:26.0 à 00:34.2",
+   "horodatage": {
+    "debut_ms": 26000,
+    "fin_ms": 34200
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Selon la tradition mossi décrite par l'ethnologue Doris Bonnet, ces génies sont organisés en groupes, chacun portant le nom de son doyen.",
+   "genre": "adulte/libre",
+   "duree_ms": 8200,
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Lɔnnikɛla Doris Bonnet y'a fɔ ko hakili senu mɔgɔw labɛnna jɛnkulu dɔw kɔnɔ. U kelen kelen bɛɛ tɔgɔ bɔra u ka mɔgɔ kɔrɔw lo la.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "E wiyde aada mossi nde anndudi biyeteeɗo Doris Bonnet hollitii, yimɓe ɓe'e ngoni nder kuuje, koo go'o e innde hooreejo maɓɓe.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "film-006",
+   "type": "film",
+   "partie": "Film d'animation, de 00:37.0 à 00:43.5",
+   "horodatage": {
+    "debut_ms": 37000,
+    "fin_ms": 43500
+   },
+   "personnage": "Narrateur",
+   "intonation": "doux",
+   "intonation_statut": "scénario",
+   "texte": "Ils aiment ce qui est doux : le miel, le sésame, les gâteaux de haricots, l'arachide.",
+   "genre": "adulte/libre",
+   "duree_ms": 6500,
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Fɛn minw ka di o ye, o ye li ye, ani jeseji, ani ŋɔmi, ani yiridenw.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Ɓe ngiɗi nyaamdu: njuumre, seeseem, cakkitiiɗe njayri e geɗal.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "film-007",
+   "type": "film",
+   "partie": "Film d'animation, de 00:46.0 à 00:53.7",
+   "horodatage": {
+    "debut_ms": 46000,
+    "fin_ms": 53700
+   },
+   "personnage": "Narrateur",
+   "intonation": "doux",
+   "intonation_statut": "scénario",
+   "texte": "On les associe aussi à la venue des enfants, et tout particulièrement aux jumeaux, regardés leur vie durant comme proches des génies.",
+   "genre": "adulte/libre",
+   "duree_ms": 7700,
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "U b'a fɔ fana ko denmisɛnw lo be na, sanko deen fila.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Yimɓe ɓeen boo mbi'i ɗi ɗon wara e ɓikkoy, haa teeŋti e ɓerɗe ɓerɗi, ngam nder nguurndam maɓɓe fuu ɓe laatoo ɓerdiiɓe ruuhu.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "film-008",
+   "type": "film",
+   "partie": "Film d'animation, de 00:57.0 à 01:00.4",
+   "horodatage": {
+    "debut_ms": 57000,
+    "fin_ms": 60400
+   },
+   "personnage": "Narrateur",
+   "intonation": "doux",
+   "intonation_statut": "scénario",
+   "texte": "Certains d'entre eux passent pour savoir leur parler.",
+   "genre": "adulte/libre",
+   "duree_ms": 3400,
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "U dɔw b'a fɛ ka kuma n'u ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Woɗɓe nder maɓɓe ɗon njaha ngam ɓe mbi'a.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "film-009",
+   "type": "film",
+   "partie": "Film d'animation, de 01:03.0 à 01:12.1",
+   "horodatage": {
+    "debut_ms": 63000,
+    "fin_ms": 72100
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "scénario",
+   "texte": "Ce texte résume des descriptions publiées. Il ne raconte pas encore une légende précise de Kaya : c'est à collecter auprès d'un conteur de la région.",
+   "genre": "adulte/libre",
+   "duree_ms": 9100,
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O vɛrise kɔnɔ, u ye min fɔ o koo la, a y'o lajɛ. A ma Kaya ka maana dɔ fɔ fɔlɔ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Ɗuum ɗemngal hollitii baylitol ngol. Haa jooni, o meeɗaa anndude ko Kaya waɗi: o waawi jaɓugo ɗum to gooduɗo haala leydi ndii.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   }
  ]
 }

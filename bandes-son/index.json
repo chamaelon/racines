@@ -25,7 +25,7 @@
  {
   "id": "lievre-hyene",
   "titre": "Le lièvre et l'hyène",
-  "pistes": 26,
+  "pistes": 40,
   "langues": {
    "fr": {
     "texte": 100,
@@ -44,7 +44,7 @@
  {
   "id": "naaba-wobgo",
   "titre": "Naaba Wobgo et la résistance de 1896",
-  "pistes": 16,
+  "pistes": 28,
   "langues": {
    "fr": {
     "texte": 100,
@@ -63,7 +63,7 @@
  {
   "id": "tiefo-amoro",
   "titre": "Tiéfo Amoro et la chute de Noumoudara (1897)",
-  "pistes": 13,
+  "pistes": 23,
   "langues": {
    "fr": {
     "texte": 100,
@@ -105,7 +105,7 @@
  {
   "id": "kinkirsi",
   "titre": "Les kinkirsi, génies de la brousse",
-  "pistes": 15,
+  "pistes": 24,
   "langues": {
    "fr": {
     "texte": 100,

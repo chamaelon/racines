@@ -1,0 +1,1 @@
+function e(e,t,n){let r=e.map(e=>e.code);return[t,n,`fr`,...r].find(e=>e&&r.includes(e))||null}function t(e){let t=Math.max(0,Math.floor(e||0));return`${Math.floor(t/60)}:${String(t%60).padStart(2,`0`)}`}var n=(e,t)=>e.find(e=>t>=e.de&&t<e.a)||null,r=(e,t,n)=>(!n||e<n)&&Math.abs(e-t)>.25;export{r as i,e as n,t as r,n as t};

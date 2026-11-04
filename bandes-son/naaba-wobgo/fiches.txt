@@ -224,3 +224,147 @@ texte_fuf: Ngam anndingo ɗum: lesdi Mossi laɓɓini bee semmbe, yeeso laamiiɗo
 enregistre_fuf: naaba-wobgo-bien-fuf.m4a (7194ms)
 texte_mos: D tẽeg t'a Moyiiz tẽngã paamame ne pãnga, rĩm a ye sẽn da pa sak n na n deeg-a wã yĩnga.
 enregistre_mos: naaba-wobgo-bien-mos.m4a (6368ms)
+
+piste: film-001
+histoire: Naaba Wobgo et la résistance de 1896
+partie: Film d'animation, de 00:02.0 à 00:06.5
+personnage: Narrateur
+fichier: naaba-wobgo-film-001-<langue>.m4a
+intonation: solennel (scénario)
+texte: Naaba Wobgo et la résistance de 1896.
+genre: adulte/libre
+duree: 4500ms (mesurée sur le film)
+texte_fuf: Naaba Wobgo e haɓre 1896.
+texte_mos: Naaba Wobgo ne yʋʋmd 1896 kɩɩsgã.
+
+piste: film-002
+histoire: Naaba Wobgo et la résistance de 1896
+partie: Film d'animation, de 00:07.0 à 00:12.6
+personnage: Narrateur
+fichier: naaba-wobgo-film-002-<langue>.m4a
+intonation: posé (proposée)
+texte: À la fin du XIXe siècle, Ouagadougou est la capitale d'un royaume mossi ancien.
+genre: adulte/libre
+duree: 5600ms (mesurée sur le film)
+texte_fuf: Haa fuɗɗam karnijum 19, Ouagadougou laati laamorgo laamu Moosi.
+texte_mos: Yʋʋm kobs 19 wã saabẽ, a Ouagadougou ra yaa Mozi soolmã tẽn-kãsengã.
+
+piste: film-003
+histoire: Naaba Wobgo et la résistance de 1896
+partie: Film d'animation, de 00:14.0 à 00:19.4
+personnage: Narrateur
+fichier: naaba-wobgo-film-003-<langue>.m4a
+intonation: posé (proposée)
+texte: Son souverain, Boukary Koutou, a pris à son avènement le nom de Naaba Wobgo.
+genre: adulte/libre
+duree: 5400ms (mesurée sur le film)
+texte_fuf: Laamiiɗo maako, Boukary Koutou, fuɗɗii innde Naaba Wobgo.
+texte_mos: A Buukary Koutou sẽn wa n yaa rĩmã, a pʋdame t'a Naaba Wobgo.
+
+piste: film-004
+histoire: Naaba Wobgo et la résistance de 1896
+partie: Film d'animation, de 00:22.0 à 00:29.4
+personnage: Narrateur
+fichier: naaba-wobgo-film-004-<langue>.m4a
+intonation: posé (proposée)
+texte: En 1894, il signe un traité d'amitié avec George Ekem Ferguson, envoyé des Britanniques.
+genre: adulte/libre
+duree: 7400ms (mesurée sur le film)
+texte_fuf: E hitaande 1894, o saini alkawal goɗɗum e George Ekem Ferguson, gardiiɗo leydi Britaniya.
+texte_mos: Yʋʋmd 1894 wã, a sigla taab ne Britãnsã tʋm-tʋmd a George Ekem Ferguson.
+
+piste: film-005
+histoire: Naaba Wobgo et la résistance de 1896
+partie: Film d'animation, de 00:30.0 à 00:34.8
+personnage: Narrateur
+fichier: naaba-wobgo-film-005-<langue>.m4a
+intonation: posé (proposée)
+texte: Les Français contestent cet accord, car ils convoitent eux aussi la région.
+genre: adulte/libre
+duree: 4800ms (mesurée sur le film)
+texte_fuf: Farayse'en ɗon haɓɓa haala nde, ngam ɓe boo ɓe ngiɗi nokkuure nden.
+texte_mos: A Frans nebã kɩɩsame, bala bãmb me rat n dɩka tẽn-kãnga.
+
+piste: film-006
+histoire: Naaba Wobgo et la résistance de 1896
+partie: Film d'animation, de 00:38.0 à 00:44.2
+personnage: Narrateur
+fichier: naaba-wobgo-film-006-<langue>.m4a
+intonation: grave (scénario)
+texte: En 1896, la colonne de Paul Voulet et Julien Chanoine marche sur le pays mossi.
+genre: adulte/libre
+duree: 6200ms (mesurée sur le film)
+texte_fuf: Nder hitaande 1896, kolonne Paul Voulet e Julien Chanoine ɗon yaha lesdi Mossi.
+texte_mos: Yʋʋmd 1896 wã, Paul Voulet ne a Julien Chanoine sull n kẽnga Mossi tẽngẽ.
+
+piste: film-007
+histoire: Naaba Wobgo et la résistance de 1896
+partie: Film d'animation, de 00:46.0 à 00:50.4
+personnage: Narrateur
+fichier: naaba-wobgo-film-007-<langue>.m4a
+intonation: grave (scénario)
+texte: Naaba Wobgo tente de résister, et sa ville est incendiée.
+genre: adulte/libre
+duree: 4400ms (mesurée sur le film)
+texte_fuf: Naaba Wobgo ɗon ɗaɓɓa haɓre, nden gariiri maako ɗon halki.
+texte_mos: A Naaba Wobgo sẽn modgd n na n tõoge, b yõoga a tẽngã bugum.
+
+piste: film-008
+histoire: Naaba Wobgo et la résistance de 1896
+partie: Film d'animation, de 00:52.0 à 00:54.7
+personnage: Narrateur
+fichier: naaba-wobgo-film-008-<langue>.m4a
+intonation: grave (scénario)
+texte: Voulet s'empare de Ouagadougou.
+genre: adulte/libre
+duree: 2700ms (mesurée sur le film)
+texte_fuf: Voulet jaɓan lesdi Ouagadougou
+texte_mos: A Voulet rɩka Ouagadougou.
+
+piste: film-009
+histoire: Naaba Wobgo et la résistance de 1896
+partie: Film d'animation, de 00:57.0 à 01:03.1
+personnage: Narrateur
+fichier: naaba-wobgo-film-009-<langue>.m4a
+intonation: posé (proposée)
+texte: Le souverain est déposé en 1897, et Voulet installe à sa place son frère Sighiri.
+genre: adulte/libre
+duree: 6100ms (mesurée sur le film)
+texte_fuf: Laamiiɗo maɓɓiti nder hitaande 1897, Voulet taƴi mo bandiraawo maako Sighiri.
+texte_mos: Yʋʋmd 1897 wã, a Voulet kɩtame t'a saam-biig a Sighiri lʋɩ a naamã.
+
+piste: film-010
+histoire: Naaba Wobgo et la résistance de 1896
+partie: Film d'animation, de 01:05.0 à 01:09.3
+personnage: Narrateur
+fichier: naaba-wobgo-film-010-<langue>.m4a
+intonation: posé (proposée)
+texte: Naaba Wobgo demande de l'aide aux Britanniques, sans succès.
+genre: adulte/libre
+duree: 4300ms (mesurée sur le film)
+texte_fuf: Naaba Wobgo noddi yimɓe Britiyankooɓe ngam wallugo mo, ammaa ɓe mbaawataa.
+texte_mos: A Naaba Wobgo kosa Britani wã tɩ b sõng-a, n pa tõog ye.
+
+piste: film-011
+histoire: Naaba Wobgo et la résistance de 1896
+partie: Film d'animation, de 01:11.0 à 01:16.7
+personnage: Narrateur
+fichier: naaba-wobgo-film-011-<langue>.m4a
+intonation: triste (scénario)
+texte: Il se réfugie en Gold Coast, l'actuel Ghana, et il y meurt en 1904.
+genre: adulte/libre
+duree: 5700ms (mesurée sur le film)
+texte_fuf: O dilli haa Gold Coast, to Ghana hannde, o maayi ton nder 1904.
+texte_mos: A zoe n kẽnga Gold Coast, sẽn yaa Ghana rũndã-rũndã wã.
+
+piste: film-012
+histoire: Naaba Wobgo et la résistance de 1896
+partie: Film d'animation, de 01:19.0 à 01:29.1
+personnage: Narrateur
+fichier: naaba-wobgo-film-012-<langue>.m4a
+intonation: posé (scénario)
+texte: Les sources ne s'accordent pas sur tous les détails, en particulier sur la date exacte de sa déposition et les conditions de sa fuite. Ce texte reste à valider.
+genre: adulte/libre
+duree: 10100ms (mesurée sur le film)
+texte_fuf: Fuuɓe ɗon njaɓɓa feere-feere dow kooɗume, ɓurna fuu dow sahaa gooŋgaaɗum nde o waɗi defte maako e dow ko'e haala mo wurtini. Ɗuum winndannde ina haani wonde.
+texte_mos: Sẽn yɩɩd fãa, b pa sak n deeg bũmb nins fãa a sẽn yeelã ye. Yaa sɩd t'a goamã ket n yaa sɩda.

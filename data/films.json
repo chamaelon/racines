@@ -1349,5 +1349,333 @@
    }
   ],
   "cartons": []
+ },
+ "31-lievre-hyene": {
+  "video": "films/31-lievre-hyene/video.mp4",
+  "duree": 106,
+  "rendu": "3d",
+  "pistes": [
+   {
+    "code": "fr",
+    "src": "films/31-lievre-hyene/fr.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "fuf",
+    "src": "films/31-lievre-hyene/fuf.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "mos",
+    "src": "films/31-lievre-hyene/mos.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "zxx",
+    "src": "films/31-lievre-hyene/zxx.m4a",
+    "provisoire": true
+   }
+  ],
+  "sousTitres": [
+   {
+    "code": "fr",
+    "src": "films/31-lievre-hyene/fr.vtt"
+   },
+   {
+    "code": "fuf",
+    "src": "films/31-lievre-hyene/fuf.vtt"
+   },
+   {
+    "code": "mos",
+    "src": "films/31-lievre-hyene/mos.vtt"
+   }
+  ],
+  "cartons": [
+   {
+    "de": 2,
+    "a": 6,
+    "titre": "Le lièvre et l'hyène",
+    "detail": "Un conte",
+    "place": "centre"
+   },
+   {
+    "de": 17,
+    "a": 21,
+    "titre": "L'hyène",
+    "detail": "toujours affamée"
+   },
+   {
+    "de": 29,
+    "a": 32.5,
+    "titre": "Le lièvre",
+    "detail": "qui garde son calme"
+   },
+   {
+    "de": 52.5,
+    "a": 56,
+    "titre": "Première année",
+    "detail": "des arachides"
+   },
+   {
+    "de": 68.5,
+    "a": 72,
+    "titre": "Année suivante",
+    "detail": "du mil"
+   },
+   {
+    "de": 98,
+    "a": 105,
+    "titre": "Le lièvre et l'hyène",
+    "detail": "Version libre, à valider auprès des conteurs. Racines, patrimoine du Burkina Faso",
+    "place": "centre"
+   }
+  ]
+ },
+ "32-naaba-wobgo": {
+  "video": "films/32-naaba-wobgo/video.mp4",
+  "duree": 96,
+  "rendu": "3d",
+  "pistes": [
+   {
+    "code": "fr",
+    "src": "films/32-naaba-wobgo/fr.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "fuf",
+    "src": "films/32-naaba-wobgo/fuf.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "mos",
+    "src": "films/32-naaba-wobgo/mos.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "zxx",
+    "src": "films/32-naaba-wobgo/zxx.m4a",
+    "provisoire": true
+   }
+  ],
+  "sousTitres": [
+   {
+    "code": "fr",
+    "src": "films/32-naaba-wobgo/fr.vtt"
+   },
+   {
+    "code": "fuf",
+    "src": "films/32-naaba-wobgo/fuf.vtt"
+   },
+   {
+    "code": "mos",
+    "src": "films/32-naaba-wobgo/mos.vtt"
+   }
+  ],
+  "cartons": [
+   {
+    "de": 2,
+    "a": 6.5,
+    "titre": "Naaba Wobgo",
+    "detail": "et la résistance de 1896",
+    "place": "centre"
+   },
+   {
+    "de": 8,
+    "a": 12.5,
+    "titre": "Ouagadougou",
+    "detail": "à la fin du XIXe siècle"
+   },
+   {
+    "de": 15,
+    "a": 20,
+    "titre": "Naaba Wobgo",
+    "detail": "Boukary Koutou"
+   },
+   {
+    "de": 23,
+    "a": 28,
+    "titre": "1894",
+    "detail": "George Ekem Ferguson"
+   },
+   {
+    "de": 38.5,
+    "a": 44,
+    "titre": "1896",
+    "detail": "Paul Voulet et Julien Chanoine"
+   },
+   {
+    "de": 57.5,
+    "a": 62,
+    "titre": "1897",
+    "detail": "Sighiri"
+   },
+   {
+    "de": 71.5,
+    "a": 77,
+    "titre": "Gold Coast",
+    "detail": "l'actuel Ghana, 1904"
+   },
+   {
+    "de": 90,
+    "a": 95.5,
+    "titre": "Naaba Wobgo",
+    "detail": "Texte à valider. Racines, patrimoine du Burkina Faso",
+    "place": "centre"
+   }
+  ]
+ },
+ "33-tiefo-amoro": {
+  "video": "films/33-tiefo-amoro/video.mp4",
+  "duree": 90,
+  "rendu": "3d",
+  "pistes": [
+   {
+    "code": "fr",
+    "src": "films/33-tiefo-amoro/fr.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "dyu",
+    "src": "films/33-tiefo-amoro/dyu.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "fuf",
+    "src": "films/33-tiefo-amoro/fuf.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "zxx",
+    "src": "films/33-tiefo-amoro/zxx.m4a",
+    "provisoire": true
+   }
+  ],
+  "sousTitres": [
+   {
+    "code": "dyu",
+    "src": "films/33-tiefo-amoro/dyu.vtt"
+   },
+   {
+    "code": "fr",
+    "src": "films/33-tiefo-amoro/fr.vtt"
+   },
+   {
+    "code": "fuf",
+    "src": "films/33-tiefo-amoro/fuf.vtt"
+   }
+  ],
+  "cartons": [
+   {
+    "de": 2,
+    "a": 6,
+    "titre": "Tiéfo Amoro",
+    "detail": "et Noumoudara",
+    "place": "centre"
+   },
+   {
+    "de": 8,
+    "a": 12.5,
+    "titre": "Noumoudara",
+    "detail": "le principal centre des Tiéfo"
+   },
+   {
+    "de": 15,
+    "a": 19,
+    "titre": "Tiéfo Amoro",
+    "detail": "onzième chef des Tiéfo, selon une conférence"
+   },
+   {
+    "de": 31.5,
+    "a": 36,
+    "titre": "1897",
+    "detail": "Samory Touré"
+   },
+   {
+    "de": 39,
+    "a": 46,
+    "titre": "Bama, Péni, Noumoudara"
+   },
+   {
+    "de": 83,
+    "a": 89.5,
+    "titre": "Tiéfo Amoro",
+    "detail": "Une seule source, à valider. Racines, patrimoine du Burkina Faso",
+    "place": "centre"
+   }
+  ]
+ },
+ "34-kinkirsi": {
+  "video": "films/34-kinkirsi/video.mp4",
+  "duree": 79,
+  "rendu": "3d",
+  "pistes": [
+   {
+    "code": "fr",
+    "src": "films/34-kinkirsi/fr.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "dyu",
+    "src": "films/34-kinkirsi/dyu.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "fuf",
+    "src": "films/34-kinkirsi/fuf.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "zxx",
+    "src": "films/34-kinkirsi/zxx.m4a",
+    "provisoire": true
+   }
+  ],
+  "sousTitres": [
+   {
+    "code": "dyu",
+    "src": "films/34-kinkirsi/dyu.vtt"
+   },
+   {
+    "code": "fr",
+    "src": "films/34-kinkirsi/fr.vtt"
+   },
+   {
+    "code": "fuf",
+    "src": "films/34-kinkirsi/fuf.vtt"
+   }
+  ],
+  "cartons": [
+   {
+    "de": 2,
+    "a": 6,
+    "titre": "Les kinkirsi",
+    "detail": "génies de la brousse",
+    "place": "centre"
+   },
+   {
+    "de": 22.3,
+    "a": 26,
+    "titre": "Kinkirga",
+    "detail": "au singulier"
+   },
+   {
+    "de": 37.5,
+    "a": 44,
+    "titre": "Ce qui est doux",
+    "detail": "miel, sésame, gâteaux de haricots, arachide"
+   },
+   {
+    "de": 47,
+    "a": 52,
+    "titre": "Les jumeaux"
+   },
+   {
+    "de": 73,
+    "a": 78.5,
+    "titre": "Les kinkirsi",
+    "detail": "À collecter auprès des conteurs. Racines, patrimoine du Burkina Faso",
+    "place": "centre"
+   }
+  ]
  }
 }
