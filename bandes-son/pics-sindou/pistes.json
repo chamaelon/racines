@@ -12,61 +12,149 @@
    "id": "titre",
    "type": "titre",
    "chemin": "titre",
-   "texte": "Les esprits des pics de Sindou"
+   "texte": "Les esprits des pics de Sindou",
+   "langues": {
+    "fuf": {
+     "texte": "Ɓi'e ɓooyɗe dow Sindou",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Sindou tãmbã sɩɩsã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "presentation",
    "type": "presentation",
    "chemin": "presentation",
-   "texte": "Des cavaliers ont brûlé le village, et Nakan, la doyenne, mène les siens de nuit vers des pierres que personne n'a jamais vues. Marche avec eux, et choisis comment demander refuge."
+   "texte": "Des cavaliers ont brûlé le village, et Nakan, la doyenne, mène les siens de nuit vers des pierres que personne n'a jamais vues. Marche avec eux, et choisis comment demander refuge.",
+   "langues": {
+    "fuf": {
+     "texte": "Yimɓe ɗon njooɗi gariiri ndin nder yiite, nden kam Nakan mawɗo maral ɗon hoɗa yimɓe maako haa dow kaaƴe ɗe walaa mo yi'i. Ndaa ko ɓe mbi'i.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "B sẽn wa n dɩtẽ wã, pag a Nakan zãma ne b tãb-biisã tɩ b kẽng kugẽ. Kẽng-y ne bãmba, n yãk y sẽn na n maan to-to n paam koglg.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "personnages.griot.nom",
    "type": "personnage",
    "chemin": "personnages.griot.nom",
-   "texte": "Le griot"
+   "texte": "Le griot",
+   "langues": {
+    "fuf": {
+     "texte": "Le griot"
+    },
+    "mos": {
+     "texte": "Le griot"
+    }
+   }
   },
   {
    "id": "personnages.nakan.nom",
    "type": "personnage",
    "chemin": "personnages.nakan.nom",
-   "texte": "Nakan, la doyenne"
+   "texte": "Nakan, la doyenne",
+   "langues": {
+    "fuf": {
+     "texte": "Nakan, la doyenne"
+    },
+    "mos": {
+     "texte": "Nakan, la doyenne"
+    }
+   }
   },
   {
    "id": "personnages.homme.nom",
    "type": "personnage",
    "chemin": "personnages.homme.nom",
-   "texte": "Le plus fort"
+   "texte": "Le plus fort",
+   "langues": {
+    "fuf": {
+     "texte": "Le plus fort"
+    },
+    "mos": {
+     "texte": "Le plus fort"
+    }
+   }
   },
   {
    "id": "personnages.enfant.nom",
    "type": "personnage",
    "chemin": "personnages.enfant.nom",
-   "texte": "L'enfant"
+   "texte": "L'enfant",
+   "langues": {
+    "fuf": {
+     "texte": "L'enfant"
+    },
+    "mos": {
+     "texte": "L'enfant"
+    }
+   }
   },
   {
    "id": "personnages.cavalier.nom",
    "type": "personnage",
    "chemin": "personnages.cavalier.nom",
-   "texte": "Un cavalier"
+   "texte": "Un cavalier",
+   "langues": {
+    "fuf": {
+     "texte": "Un cavalier"
+    },
+    "mos": {
+     "texte": "Un cavalier"
+    }
+   }
   },
   {
    "id": "personnages.esprit.nom",
    "type": "personnage",
    "chemin": "personnages.esprit.nom",
-   "texte": "Un esprit des rochers"
+   "texte": "Un esprit des rochers",
+   "langues": {
+    "fuf": {
+     "texte": "Un esprit des rochers"
+    },
+    "mos": {
+     "texte": "Un esprit des rochers"
+    }
+   }
   },
   {
    "id": "fins.canon",
    "type": "fin",
    "chemin": "fins.canon",
-   "texte": "Version du griot : les pierres ont gardé ce peuple"
+   "texte": "Version du griot : les pierres ont gardé ce peuple",
+   "langues": {
+    "fuf": {
+     "texte": "Winndannde caggalGriot: kaaƴe ɗowanteeɓe ɓee",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Grigot sẽn yeele: kugã kogla nin-kãensã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "fins.errance",
    "type": "fin",
    "chemin": "fins.errance",
-   "texte": "Autre chemin : le village repart vers le sud"
+   "texte": "Autre chemin : le village repart vers le sud",
+   "langues": {
+    "fuf": {
+     "texte": "laawol gootol: gariiri ndilli haa worgo",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Bũmb a to: tẽn-gãongã leb n kẽnda zĩiga",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "n1",
@@ -80,7 +168,23 @@
    "texte": "Dans le sud-ouest du Burkina, de hautes aiguilles de pierre se dressent au-dessus de la plaine. Autrefois, un village senoufo vivait plus au sud, en paix.",
    "genre": "adulte/homme",
    "duree_ms": 10930,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Nder worgo hirnaŋge Burkina, laatooje mawngoje ɗon dari dow ladde. Sahaaji goɗɗi, gariiri senuufu ɗon jooɗoto nder worgo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9258,
+     "fichier": "pics-sindou-n1-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Burkĩna soolmã sẽn be zĩ-zãnga wã, roogã pʋgsã yaa kãn-kãe. Pĩnd wẽndẽ, Sinoufo tẽn-tẽng n da be zĩ-gõonegẽ wã, a ra vɩ ne bãane.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 11418,
+     "fichier": "pics-sindou-n1-mos.m4a"
+    }
+   }
   },
   {
    "id": "n2",
@@ -94,7 +198,23 @@
    "texte": "Prenez les hommes ! Brûlez les toits !",
    "genre": "adulte/homme",
    "duree_ms": 3640,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Jaɓɓorgo Yimɓe ! Yiite cuuɗi !",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3146,
+     "fichier": "pics-sindou-n2-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Kẽng-y nin-buiidã! Bãng-y tɩ b yõogda roogã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4074,
+     "fichier": "pics-sindou-n2-mos.m4a"
+    }
+   }
   },
   {
    "id": "n3",
@@ -108,37 +228,103 @@
    "texte": "Les toits brûlent, et le village s'enfuit vers la brousse. Vite !",
    "genre": "adulte/homme",
    "duree_ms": 5310,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Duule ɗon yiite, gariiri boo ɗon ndilli haa leɗɗe. Ceede !",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4650,
+     "fichier": "pics-sindou-n3-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Roogã roog dɩka bugum, t'a tẽngã zoe n kẽng weoogẽ. Kẽng-y tao-tao.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5850,
+     "fichier": "pics-sindou-n3-mos.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n4.consigne",
    "type": "jeu",
    "chemin": "nodes.n4.consigne",
-   "texte": "Les cavaliers vous poursuivent ! Tape vite sur ESPACE ou sur l'écran pour fuir avec le village."
+   "texte": "Les cavaliers vous poursuivent ! Tape vite sur ESPACE ou sur l'écran pour fuir avec le village.",
+   "langues": {
+    "fuf": {
+     "texte": "Juŋŋgo'en ɗon tokki on! Tappi SPACE bee saffugo boo dow laabi ngam hiituki gariiri ndin.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Neb nins sẽn zʋʋgd b nao wã digda yãmba! Kẽng-y tɩ y rat n zoe ne tẽngã.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n4.gagne",
    "type": "jeu",
    "chemin": "nodes.n4.gagne",
-   "texte": "Les cavaliers perdent votre trace."
+   "texte": "Les cavaliers perdent votre trace.",
+   "langues": {
+    "fuf": {
+     "texte": "Yimɓe ɗon njaara on.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "So-pakdbã pa le yãend yãmb ye.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n4.perdu",
    "type": "jeu",
    "chemin": "nodes.n4.perdu",
-   "texte": "Rattrapés de peu… le village se disperse et se retrouve à la nuit."
+   "texte": "Rattrapés de peu… le village se disperse et se retrouve à la nuit.",
+   "langues": {
+    "fuf": {
+     "texte": "Ɗuum ɓeydaani... Yimɓe gariiri ndin ndilli, ɓe njogii jemma.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "La b pa yãnd-b ye. Tẽnga wã sãame n lebg yʋngo.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n4.tags.win",
    "type": "parcours",
    "chemin": "nodes.n4.tags.win",
-   "texte": "course gagnée"
+   "texte": "course gagnée",
+   "langues": {
+    "fuf": {
+     "texte": "ɓeydaaki",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "zoees sẽn paamã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n4.tags.lose",
    "type": "parcours",
    "chemin": "nodes.n4.tags.lose",
-   "texte": "course perdue"
+   "texte": "course perdue",
+   "langues": {
+    "fuf": {
+     "texte": "ɓeydaaki",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "zoees ning b sẽn sãamã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "n5",
@@ -152,31 +338,87 @@
    "texte": "Ils marchent de longues nuits, guidés par Nakan. Un enfant tombe de fatigue. Que fait-on ?",
    "genre": "adulte/homme",
    "duree_ms": 7130,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Nakan ɗon hoola ɓe nder jemma. Ɓiɗɗo ɗon ɓilla. Hol ko waɗata?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5796,
+     "fichier": "pics-sindou-n5-fuf.m4a"
+    },
+    "mos": {
+     "texte": "B kẽna yʋngo, a Nakan sẽn wilgd b sore. Bi-ribl sã n wa beẽ, a zoeega. Bõe la d na n maane?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8548,
+     "fichier": "pics-sindou-n5-mos.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n5.choices.0.label",
    "type": "choix",
    "chemin": "nodes.n5.choices.0.label",
-   "texte": "Le plus fort le prend sur ses épaules"
+   "texte": "Le plus fort le prend sur ses épaules",
+   "langues": {
+    "fuf": {
+     "texte": "Ko ɓurɗo semmbe hoo'i mo e juuɗe muuɗum",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Ned ning sẽn tar pãng n yɩɩd a taabã rɩt-a lame",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n5.choices.0.tag",
    "type": "parcours",
    "chemin": "nodes.n5.choices.0.tag",
-   "texte": "enfant porté"
+   "texte": "enfant porté",
+   "langues": {
+    "fuf": {
+     "texte": "ɓiɗɗo ɓeynguɗo",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "biiga b sẽn dogã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n5.choices.1.label",
    "type": "choix",
    "chemin": "nodes.n5.choices.1.label",
-   "texte": "On lui demande de se relever seul"
+   "texte": "On lui demande de se relever seul",
+   "langues": {
+    "fuf": {
+     "texte": "Ɓe mbi'i mo o ummitina hoore maako",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "B kos-a lame t'a yik a meng n tãag zĩigã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n5.choices.1.tag",
    "type": "parcours",
    "chemin": "nodes.n5.choices.1.tag",
-   "texte": "enfant pressé"
+   "texte": "enfant pressé",
+   "langues": {
+    "fuf": {
+     "texte": "ɓiɗɗo ɓeydaaki",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "biig sẽn tar tao-tao",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "seul",
@@ -190,7 +432,23 @@
    "texte": "Personne ne reste derrière. Prends-le sur tes épaules, toi, le plus fort.",
    "genre": "âgée/femme",
    "duree_ms": 5460,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Walaa gooduɗo haa ɓaawo maɓɓe. Onon ɓurɓe baawɗe fuu, hoo'u mo dow mooɗon.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5274,
+     "fichier": "pics-sindou-seul-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Ned pa be poorẽ ye. Kẽng-y-yã a Zezi, yãmb sẽn tar pãng n yɩɩda.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6442,
+     "fichier": "pics-sindou-seul-mos.m4a"
+    }
+   }
   },
   {
    "id": "epaules",
@@ -204,7 +462,23 @@
    "texte": "Là-bas ! Les pierres nous attendent.",
    "genre": "âgée/femme",
    "duree_ms": 2880,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Ɗoon! Kamɓe ɗon ndartina'en.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2714,
+     "fichier": "pics-sindou-epaules-fuf.m4a"
+    },
+    "mos": {
+     "texte": "A bee be! La kugã gũuda tõndo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3050,
+     "fichier": "pics-sindou-epaules-mos.m4a"
+    }
+   }
   },
   {
    "id": "n6",
@@ -218,7 +492,23 @@
    "texte": "Ils arrivent au pied des pics. Personne n'a jamais rien vu de pareil. Regarde ce qu'ils ont sauvé.",
    "genre": "adulte/homme",
    "duree_ms": 7740,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Ɓe ngartata haa hooseere. Walaa goɗɗo yi'i kooɗume bana non. Ndaa ko ɓe hisni.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6260,
+     "fichier": "pics-sindou-n6-fuf.m4a"
+    },
+    "mos": {
+     "texte": "B kolga tãm-tĩisẽ wã. Ned baa a yen zɩ n yã woto ye. Ges-y bũmb nins b sẽn tall n fãagã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7988,
+     "fichier": "pics-sindou-n6-mos.m4a"
+    }
+   }
   },
   {
    "id": "n7",
@@ -232,31 +522,87 @@
    "texte": "Avant de construire, que fait Nakan au pied du plus grand rocher ?",
    "genre": "adulte/homme",
    "duree_ms": 5390,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Ngam ɗume Nakan ɗon waɗa haa hooseere kaaƴe ɓurɗe fuu?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3904,
+     "fichier": "pics-sindou-n7-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Bõe la a Nakan maan koglg-kãsengã taoore?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3232,
+     "fichier": "pics-sindou-n7-mos.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n7.choices.0.label",
    "type": "choix",
    "chemin": "nodes.n7.choices.0.label",
-   "texte": "Elle dépose une offrande, et elle demande"
+   "texte": "Elle dépose une offrande, et elle demande",
+   "langues": {
+    "fuf": {
+     "texte": "O dilli dokkal, o ƴami",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "A ningda kũun n kos t'a Zeova kõ-a.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n7.choices.0.tag",
    "type": "parcours",
    "chemin": "nodes.n7.choices.0.tag",
-   "texte": "offrande"
+   "texte": "offrande",
+   "langues": {
+    "fuf": {
+     "texte": "hokkugo",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "kũunã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n7.choices.1.label",
    "type": "choix",
    "chemin": "nodes.n7.choices.1.label",
-   "texte": "Elle commence à bâtir tout de suite"
+   "texte": "Elle commence à bâtir tout de suite",
+   "langues": {
+    "fuf": {
+     "texte": "O fuɗɗii mahuki ɗon e ɗon",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "A sɩngame n me zĩig pʋgẽ",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n7.choices.1.tag",
    "type": "parcours",
    "chemin": "nodes.n7.choices.1.tag",
-   "texte": "construction sans demander"
+   "texte": "construction sans demander",
+   "langues": {
+    "fuf": {
+     "texte": "haɓɓugo hay so tawii",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "sak n da kos ye",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "bati",
@@ -270,31 +616,87 @@
    "texte": "Les premières pierres posées roulent au matin. Trois fois, elles roulent. Nakan comprend-elle ?",
    "genre": "adulte/homme",
    "duree_ms": 6370,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Kaŋko kaaƴe arande ɗe ɓe ngaddani nder subaka. Ɗuum waɗi carel tati. Nakan faami?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6964,
+     "fichier": "pics-sindou-bati-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Sã n yaa vẽkembeoogo, kug nins b sẽn lugl pipi wã na n lebgame. La naoor a tãabo, b kẽnda. A Nakan wʋmda rẽ võore?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 10388,
+     "fichier": "pics-sindou-bati-mos.m4a"
+    }
+   }
   },
   {
    "id": "nodes.bati.choices.0.label",
    "type": "choix",
    "chemin": "nodes.bati.choices.0.label",
-   "texte": "Oui, elle revient déposer une offrande"
+   "texte": "Oui, elle revient déposer une offrande",
+   "langues": {
+    "fuf": {
+     "texte": "Goonga, o warti ngam hokkugo dokkal",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "N-ye, a waame n na n kõ kũun",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.bati.choices.0.tag",
    "type": "parcours",
    "chemin": "nodes.bati.choices.0.tag",
-   "texte": "offrande"
+   "texte": "offrande",
+   "langues": {
+    "fuf": {
+     "texte": "hokkugo",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "kũunã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.bati.choices.1.label",
    "type": "choix",
    "chemin": "nodes.bati.choices.1.label",
-   "texte": "Non, elle emmène les siens plus loin"
+   "texte": "Non, elle emmène les siens plus loin",
+   "langues": {
+    "fuf": {
+     "texte": "Naa, o ɗon yahra yimɓe maako yeeso.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "N-ye, a rɩka a zakã rãmb n kẽng taoor",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.bati.choices.1.tag",
    "type": "parcours",
    "chemin": "nodes.bati.choices.1.tag",
-   "texte": "départ"
+   "texte": "départ",
+   "langues": {
+    "fuf": {
+     "texte": "fuɗɗugo",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "b yikame",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "errance",
@@ -308,7 +710,23 @@
    "texte": "Le village repart, sans abri, vers d'autres plaines. C'est une fin imaginée pour le jeu : ce n'est pas celle que l'on raconte à Sindou.",
    "genre": "adulte/homme",
    "duree_ms": 10550,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Yimɓe gariiri ndin ɗon njaha, ɓe ngalaa nokkuure nde ɓe njooɗoto. Ɗu'um woni felooji ɗi juulde nden waɗi: ɗum wonaa ko ɓe mbi'ata to Sindou.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9812,
+     "fichier": "pics-sindou-errance-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Tẽngã sẽn pa tar b roogo, a leb n kẽnga pʋ-tẽns a taaba. Yaa game wã baasgo, la pa woto b sẽn togsd a Sindou ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 11354,
+     "fichier": "pics-sindou-errance-mos.m4a"
+    }
+   }
   },
   {
    "id": "offrande",
@@ -322,7 +740,23 @@
    "texte": "Esprits des rochers, cachez-nous.",
    "genre": "âgée/femme",
    "duree_ms": 1970,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Ɓi'e ɓooyɓe nder kaaƴe, ndaaru min.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2288,
+     "fichier": "pics-sindou-offrande-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Kɩɩmbã sɩɩs, solg-y tõnd.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 1808,
+     "fichier": "pics-sindou-offrande-mos.m4a"
+    }
+   }
   },
   {
    "id": "n8",
@@ -336,7 +770,23 @@
    "texte": "Nous voyons un peuple sans abri. Reste entre nos pierres.",
    "genre": "voix d'esprit/libre",
    "duree_ms": 4400,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "En ɗon yi'a yimɓe ɓe walaa wuro. O jooɗoto nder kaaƴe meeɗen.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4378,
+     "fichier": "pics-sindou-n8-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Tõnd yãta nin-buiidã sẽn pa tar b roogo. Kẽng-y d kugã sʋka.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4714,
+     "fichier": "pics-sindou-n8-mos.m4a"
+    }
+   }
   },
   {
    "id": "n9",
@@ -350,7 +800,23 @@
    "texte": "On bâtit le village entre les rochers, et la vie reprend. Mais un jour, les cavaliers retrouvent leur trace. Nakan se dresse et appelle les esprits.",
    "genre": "adulte/homme",
    "duree_ms": 11080,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Ɓe nyiɓi gariiri ndin nder kaaƴe, nden nduumi. Ammaa nder nyalnde go'o, ɓe ɗon njaha. Nakan ɗon ummii, o nodda ginnaaji.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9780,
+     "fichier": "pics-sindou-n9-fuf.m4a"
+    },
+    "mos": {
+     "texte": "B meega tẽn-kãng pĩis sʋka, la vɩɩmã lebg n waame. La daar a yembre, b yãame tɩ b zoe n kẽnda. A Nakan yikame n bool zĩn-dãmbã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 11780,
+     "fichier": "pics-sindou-n9-mos.m4a"
+    }
+   }
   },
   {
    "id": "n10",
@@ -364,7 +830,23 @@
    "texte": "La montagne tremble. Des pierres roulent, et les chevaux prennent peur. Les cavaliers s'enfuient, et ils ne reviendront jamais.",
    "genre": "adulte/homme",
    "duree_ms": 8420,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Duule ɗon hoosi. Kaŋko'en ɗon cembiɗina, koyɗe boo ɗon hulna. Soofotooɓe kalluɗum ndilli, ɓe mbaawataa warugo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9620,
+     "fichier": "pics-sindou-n10-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Tãn-kãnga kelemdame. Bãng-y tɩ kugã gilgdame, n kɩt tɩ wed-rãmbã yɛɛs wʋsgo. Sẽn zao-a wã zoeeme, la b kõn leb n wa ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 11252,
+     "fichier": "pics-sindou-n10-mos.m4a"
+    }
+   }
   },
   {
    "id": "n11",
@@ -378,7 +860,23 @@
    "texte": "Aujourd'hui encore, à Sindou, on honore les esprits des rochers, pour garder leur protection.",
    "genre": "adulte/homme",
    "duree_ms": 6070,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Haa hande, nder Sindou, yimɓe ɗon mawnina ruuhuuji kaaƴe ngam hakkilantaago maɓɓe.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6112,
+     "fichier": "pics-sindou-n11-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Rũndã-rũndã me, Sindou nebã waoogda kugã sɩɩs tɩ b kogl-b lame.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6336,
+     "fichier": "pics-sindou-n11-mos.m4a"
+    }
+   }
   },
   {
    "id": "film-001",
@@ -394,7 +892,19 @@
    "texte": "Les esprits des pics de Sindou. Une légende senoufo.",
    "genre": "adulte/libre",
    "duree_ms": 5000,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Ɓiidooji ɓerɗe Sindou. Goomu senoufo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Yaa Sindou tãmbã sɩɩsã. Yaa senoufo lagem-n-taar a ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-002",
@@ -410,7 +920,19 @@
    "texte": "Dans le sud-ouest du Burkina, de hautes aiguilles de pierre se dressent au-dessus de la plaine. On dit qu'elles ne sont pas vides.",
    "genre": "adulte/libre",
    "duree_ms": 7700,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Nder worgo hirnaŋge Burkina, laatooje mawngoje ɗon dari dow ladde. Ɓe mbi'i ɗi walaa goɗɗum.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Burkĩna soolmã sẽn be zĩ-zãnga wã, roogã pʋgsã yaa kãn-kãe. B yetame tɩ b pa be zaalem ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-003",
@@ -426,7 +948,19 @@
    "texte": "Autrefois, un village senoufo vivait plus au sud, en paix.",
    "genre": "adulte/libre",
    "duree_ms": 4600,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Sahaaji goɗɗi, gariiri senuufu ɗon jooɗoto nder worgo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Pĩnd wẽndẽ, Sinoufo tẽn-tẽng n da be zĩ-gõonegẽ wã, a ra vɩ ne bãane.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-004",
@@ -442,7 +976,19 @@
    "texte": "Un matin, des cavaliers surgirent, venus capturer des hommes.",
    "genre": "adulte/libre",
    "duree_ms": 4800,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Nde subaka, mawɓe koyɗeeji ngari njaɓɓa yimɓe.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Zĩig n vẽege, nao-rɩtbã yiime n na n yõg bi-bɩɩse.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-005",
@@ -458,7 +1004,19 @@
    "texte": "Les toits brûlèrent, et le village s'enfuit vers la brousse.",
    "genre": "adulte/libre",
    "duree_ms": 4200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Duuje ɗon yiite, gariiri boo ɗon ndilli haa leɗɗe.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Roogã yõogame, t'a tẽngã zoe n kẽng weoogẽ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-006",
@@ -474,7 +1032,19 @@
    "texte": "Ils marchèrent de longues nuits, guidés par Nakan, la doyenne.",
    "genre": "adulte/libre",
    "duree_ms": 4600,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Kamɓe ɓe njotti nyalawma mawɗe, nde Nakan woni ardiiɗo maɓɓe.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "B kẽna yʋng wʋsg n tũud a Nakan sẽn yaa tãb-bi-poakã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-007",
@@ -490,7 +1060,19 @@
    "texte": "Un enfant tomba de fatigue. Le plus fort des hommes le prit sur ses épaules.",
    "genre": "adulte/libre",
    "duree_ms": 5900,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Ɓiɗɗo go'o ɗon ɓilla. Gooduɗo sembe nder yimɓe fuu hoo'i mo e juuɗe muuɗum.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Bi-ribl a ye ra wa n yɛɛsame. Ned ning sẽn tar pãng n yɩɩd a taabã rɩka-a.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-008",
@@ -506,7 +1088,19 @@
    "texte": "Là-bas ! Les pierres nous attendent.",
    "genre": "âgé/libre",
    "duree_ms": 3800,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Ɗoon! Kamɓe ɗon ndartina'en.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A bee be! La kugã gũuda tõndo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-009",
@@ -522,7 +1116,19 @@
    "texte": "Ils arrivèrent au pied des pics. Personne n'avait jamais rien vu de pareil.",
    "genre": "adulte/libre",
    "duree_ms": 5500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Ɓe ngari haa hooseere. Walaa goɗɗo yi'i ko nandi bee maajum.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "B kolga tãensã roogo. Ned a ye zɩ n yã woto ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-010",
@@ -538,7 +1144,19 @@
    "texte": "Au pied du plus grand, Nakan déposa une offrande.",
    "genre": "adulte/libre",
    "duree_ms": 3900,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Nakan waɗi dokkal dow koyɗe mawɗo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A Nakan kõ-a-la kũun a sẽn yaa kãseng n yɩɩdã naoorẽ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-011",
@@ -554,7 +1172,19 @@
    "texte": "Esprits des rochers, cachez-nous.",
    "genre": "âgé/libre",
    "duree_ms": 3100,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Ɓi'e ɓooyɓe nder kaaƴe, ndaaru min.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Kɩɩmbã sɩɩs, solg-y tõnd.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-012",
@@ -570,7 +1200,19 @@
    "texte": "Alors la pierre s'éveilla, et les esprits en sortirent. Ils regardèrent ce peuple sans abri, et ils l'adoptèrent.",
    "genre": "adulte/libre",
    "duree_ms": 7900,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Sey hayre nde'e ummii, ginnaaji ɗin njehi. Ɓe ngi'i yimɓe ɓe ngalaa wuro, ɓe njaɓti ɓe.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Dẽ, kugã yikame n bas zĩn - dãmbã tɩ b yi. B geta nin-kãensã sẽn pa tar soogã, la b reeg-b lame.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-013",
@@ -586,7 +1228,19 @@
    "texte": "On bâtit le village entre les rochers, et la vie reprit.",
    "genre": "adulte/libre",
    "duree_ms": 4000,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Ɓe nyiɓi gariiri ndin nder kaaƴe, nden nduumi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "B maana tẽn-kãnga pĩis sʋka, la b vʋʋgame.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-014",
@@ -602,7 +1256,19 @@
    "texte": "Mais un jour, les cavaliers retrouvèrent leur trace.",
    "genre": "adulte/libre",
    "duree_ms": 4000,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Ammaa nder nyalnde go'oto, ɓe ɗon njooɗi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "La daar a ye, b yãame tɩ b zoe n kẽnda.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-015",
@@ -618,7 +1284,19 @@
    "texte": "Nakan se dressa et appela les esprits.",
    "genre": "adulte/libre",
    "duree_ms": 3100,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Nakan ummii, o noddi ginnaaji.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A Nakan yikame n bool zĩn-dãmbã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-016",
@@ -634,7 +1312,19 @@
    "texte": "La montagne trembla. Des pierres roulèrent, et les chevaux prirent peur.",
    "genre": "adulte/libre",
    "duree_ms": 5700,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Duule ɗon hoosi. Kamɓe mbi'i: \"Kooƴe mburtinaama, koyɗe boo njogii.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Tãnã kolgame. La kugã ra gilgdame, tɩ wed-bɛdbã yɛɛs wʋsgo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-017",
@@ -650,7 +1340,19 @@
    "texte": "Les cavaliers s'enfuirent. Ils ne revinrent jamais.",
    "genre": "adulte/libre",
    "duree_ms": 4400,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Yimɓe jooɗiiɓe dow kaa'e ndilli. Ɓe meeɗaa warugo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Sẽn da zao-a wã zoeeme. B pa leb n wa ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-018",
@@ -666,7 +1368,19 @@
    "texte": "Le village éclata de joie, et les esprits retournèrent dans la pierre.",
    "genre": "adulte/libre",
    "duree_ms": 4700,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Yimɓe gariiri ɗon ngaɗi ɓerɗe belɗum, ginni'en boo mbi'i ɓe ndilli nder kaaƴe.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "La tẽn - kãng rãmb yɩɩ noog wʋsgo, la zĩn - dãmbã leb n kẽe kugã pʋgẽ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-019",
@@ -682,7 +1396,19 @@
    "texte": "Jamais plus ce peuple ne fut dominé.",
    "genre": "adulte/libre",
    "duree_ms": 3200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Yimɓe ɓe'e meeɗaay laamii dow maɓɓe.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A Zeova pa leb n na n dɩ naam ne nin-kãensã ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-020",
@@ -698,7 +1424,19 @@
    "texte": "Aujourd'hui encore, à Sindou, on honore les esprits des rochers, pour garder leur protection.",
    "genre": "adulte/libre",
    "duree_ms": 6300,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Haa hande, nder Sindou, yimɓe ɗon mawnina ruuhuuji kaaƴe ngam hakkilantaago maɓɓe.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Rũndã-rũndã me, Sindou nebã waoogda kugã sɩɩs tɩ b kogl-b lame.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   }
  ]
 }

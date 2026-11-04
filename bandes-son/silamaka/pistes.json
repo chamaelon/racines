@@ -11,55 +11,135 @@
    "id": "titre",
    "type": "titre",
    "chemin": "titre",
-   "texte": "Silamaka et Poullori"
+   "texte": "Silamaka et Poullori",
+   "langues": {
+    "fuf": {
+     "texte": "Silamaka e Poullori",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Silamaka ne Poullori",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "presentation",
    "type": "presentation",
    "chemin": "presentation",
-   "texte": "Le roi de Ségou réclame un tribut à tous les campements. Tu es Poullori, à qui rien ne fait peur, et tu ne quittes jamais Silamaka. Allez-vous payer ?"
+   "texte": "Le roi de Ségou réclame un tribut à tous les campements. Tu es Poullori, à qui rien ne fait peur, et tu ne quittes jamais Silamaka. Allez-vous payer ?",
+   "langues": {
+    "fuf": {
+     "texte": "Laamiiɗo Ségou wi'i yimɓe fuu ɓe njaɓa ceede. Onon boo on Polori, walaa ko hullata on. On accaay Siilamaaku. On ndartoto ?",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Ségou rĩmã kosame tɩ b yiis yaood buud fãa sẽn be tãensã roogẽ wã. Fo yaa Poullori, la fo ka yɛɛsd bũmb ye. Fo pa basd Silamaka ye. Yãmb na n yaoome?",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "personnages.griot.nom",
    "type": "personnage",
    "chemin": "personnages.griot.nom",
-   "texte": "Le griot"
+   "texte": "Le griot",
+   "langues": {
+    "fuf": {
+     "texte": "Le griot"
+    },
+    "mos": {
+     "texte": "Le griot"
+    }
+   }
   },
   {
    "id": "personnages.silamaka.nom",
    "type": "personnage",
    "chemin": "personnages.silamaka.nom",
-   "texte": "Silamaka"
+   "texte": "Silamaka",
+   "langues": {
+    "fuf": {
+     "texte": "Silamaka"
+    },
+    "mos": {
+     "texte": "Silamaka"
+    }
+   }
   },
   {
    "id": "personnages.poullori.nom",
    "type": "personnage",
    "chemin": "personnages.poullori.nom",
-   "texte": "Poullori"
+   "texte": "Poullori",
+   "langues": {
+    "fuf": {
+     "texte": "Poullori"
+    },
+    "mos": {
+     "texte": "Poullori"
+    }
+   }
   },
   {
    "id": "personnages.envoye.nom",
    "type": "personnage",
    "chemin": "personnages.envoye.nom",
-   "texte": "L'envoyé de Ségou"
+   "texte": "L'envoyé de Ségou",
+   "langues": {
+    "fuf": {
+     "texte": "L'envoyé de Ségou"
+    },
+    "mos": {
+     "texte": "L'envoyé de Ségou"
+    }
+   }
   },
   {
    "id": "personnages.serpent.nom",
    "type": "personnage",
    "chemin": "personnages.serpent.nom",
-   "texte": "Le serpent"
+   "texte": "Le serpent",
+   "langues": {
+    "fuf": {
+     "texte": "Le serpent"
+    },
+    "mos": {
+     "texte": "Le serpent"
+    }
+   }
   },
   {
    "id": "fins.canon",
    "type": "fin",
    "chemin": "fins.canon",
-   "texte": "Version du griot : vos noms ne mourront pas"
+   "texte": "Version du griot : vos noms ne mourront pas",
+   "langues": {
+    "fuf": {
+     "texte": "Winndannde caggalGriot: innde mooɗon maayataa",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Griot sẽn yeele: yãmb yʋya pa na n ki ye",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "fins.tribut",
    "type": "fin",
    "chemin": "fins.tribut",
-   "texte": "Autre chemin : le tribut payé"
+   "texte": "Autre chemin : le tribut payé",
+   "langues": {
+    "fuf": {
+     "texte": "Ɗerewol gootol: jaaynde",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Bũmb a to: yaood nins b sẽn kõt nebã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "n1",
@@ -73,7 +153,23 @@
    "texte": "Silamaka, un héros peul. Et Poullori, son compagnon, à qui rien ne fait peur. Silamaka n'était encore qu'un enfant quand un serpent se dressa devant lui, dans la brousse.",
    "genre": "adulte/homme",
    "duree_ms": 12520,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Silamaama, laamiiɗo mawɗo. E Poullori, gooduɗo maako, mo walaa kulol. Siilaamaama o ɓeydi sukaajo nde hocci dow maako nder lekki.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 10388,
+     "fichier": "silamaka-n1-fuf.m4a"
+    },
+    "mos": {
+     "texte": "A Silamaka ra yaa nin-soaba. La a Poullori, a tũud-n-taagã sẽn pa yɛɛsd bũmb ye. A Silamãka ra yaa bi-bɩɩga, tɩ kiid n zĩnd a taoore weoogẽ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 12436,
+     "fichier": "silamaka-n1-mos.m4a"
+    }
+   }
   },
   {
    "id": "n2",
@@ -87,7 +183,23 @@
    "texte": "Il tend la main, et le serpent, au lieu de mordre, s'incline. Il devient son protecteur.",
    "genre": "adulte/homme",
    "duree_ms": 7130,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "O ɓeydi juuɗe maako, ammaa haa o nyaami haykaliiru ndu'u. O laatoto jaɓoowo maako.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6506,
+     "fichier": "silamaka-n2-fuf.m4a"
+    },
+    "mos": {
+     "texte": "A ra tara a nug n kõ-a, la gɩdgã ka sɩɩs-a ye. A lebgda a koglg soaba.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6906,
+     "fichier": "silamaka-n2-mos.m4a"
+    }
+   }
   },
   {
    "id": "n3",
@@ -101,7 +213,23 @@
    "texte": "Puis vient le roi de Ségou, qui exige un tribut de tous les campements. Ses envoyés arrivent, sûrs d'eux.",
    "genre": "adulte/homme",
    "duree_ms": 8120,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Nden laamiiɗo Ségou wari, o wi'i yimɓe fuu ɓe njaɓa ceede. Wurooɓe maako ngari, ɓe njogii.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7386,
+     "fichier": "silamaka-n3-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Rẽ poore, Ségou rĩmã waame n yeel tɩ b segd n yaooda kamb fãa. A tʋm-tʋmdbã waame, n kɩs sɩd ne b mensã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8394,
+     "fichier": "silamaka-n3-mos.m4a"
+    }
+   }
   },
   {
    "id": "n4",
@@ -115,7 +243,23 @@
    "texte": "Le tribut. Ou l'armée de Ségou viendra le prendre.",
    "genre": "adulte/homme",
    "duree_ms": 4020,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Jaɓɓorgo Ganndal. Walaa boo jama'aare Ségou wari ngam hoɗugo mo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4858,
+     "fichier": "silamaka-n4-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Sẽn na yɩl n paam yaoodã. Sã n ka rẽ, a Segou tãb-biisã na n waa n deeg-a lame.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5978,
+     "fichier": "silamaka-n4-mos.m4a"
+    }
+   }
   },
   {
    "id": "n5",
@@ -129,31 +273,87 @@
    "texte": "Tout le campement se tait. On regarde Silamaka, et il te regarde. Que lui dis-tu ?",
    "genre": "adulte/homme",
    "duree_ms": 7130,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Yimɓe fuu ɗon suuɗa. En ɗon ndaara Silamayaama, o ɗon ndaari ma. Ko honɗun mbi'i mo?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6900,
+     "fichier": "silamaka-n5-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Neb nins fãa sẽn da be tãensã roogẽ wã sĩndame. D sã n get a Silamaka, a getda yãmba. Bõe la y yeel-a?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8212,
+     "fichier": "silamaka-n5-mos.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n5.choices.0.label",
    "type": "choix",
    "chemin": "nodes.n5.choices.0.label",
-   "texte": "« Je suis avec toi, quoi que tu répondes. »"
+   "texte": "« Je suis avec toi, quoi que tu répondes. »",
+   "langues": {
+    "fuf": {
+     "texte": "Mi ɗon wondi bee maaɗa, koo ɗume ko mbi'oton. ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Fo sã n leok bũmb ning fãa, mam bee ne foom. ",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n5.choices.0.tag",
    "type": "parcours",
    "chemin": "nodes.n5.choices.0.tag",
-   "texte": "fidélité"
+   "texte": "fidélité",
+   "langues": {
+    "fuf": {
+     "texte": "goonɗinki",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "kɩs-sɩd",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n5.choices.1.label",
    "type": "choix",
    "chemin": "nodes.n5.choices.1.label",
-   "texte": "« Paye : nous ne sommes que deux. »"
+   "texte": "« Paye : nous ne sommes que deux. »",
+   "langues": {
+    "fuf": {
+     "texte": "Paye: enen tan ɗiɗo. ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Paye: Tõnd yaa neb a yiib bal. ",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n5.choices.1.tag",
    "type": "parcours",
    "chemin": "nodes.n5.choices.1.tag",
-   "texte": "prudence"
+   "texte": "prudence",
+   "langues": {
+    "fuf": {
+     "texte": "hakkiilo",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "maan gũusgu",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "paye",
@@ -167,7 +367,23 @@
    "texte": "Tu dis cela, Poullori ? Toi ?",
    "genre": "adulte/homme",
    "duree_ms": 3410,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "On ɗon wi'a non, Poullori? On ?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2906,
+     "fichier": "silamaka-paye-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Yaa woto bɩ, Poullori? Yaa yãmb laa?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2730,
+     "fichier": "silamaka-paye-mos.m4a"
+    }
+   }
   },
   {
    "id": "n6",
@@ -181,31 +397,87 @@
    "texte": "Il te regarde encore. Tu maintiens ton conseil ?",
    "genre": "adulte/homme",
    "duree_ms": 4020,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "O ɗon ndaara ma. On njogii gomɗinal mon?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3610,
+     "fichier": "silamaka-n6-fuf.m4a"
+    },
+    "mos": {
+     "texte": "A ket n getda foom. Yãmb ket n tũuda y saglgã bɩ?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4266,
+     "fichier": "silamaka-n6-mos.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n6.choices.0.label",
    "type": "choix",
    "chemin": "nodes.n6.choices.0.label",
-   "texte": "Non : « Je suis avec toi. »"
+   "texte": "Non : « Je suis avec toi. »",
+   "langues": {
+    "fuf": {
+     "texte": "Naa: Mi ɗon e ma. ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "A Zeezi yeela woto: \"Mam bee ne yãmb. ",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n6.choices.0.tag",
    "type": "parcours",
    "chemin": "nodes.n6.choices.0.tag",
-   "texte": "fidélité"
+   "texte": "fidélité",
+   "langues": {
+    "fuf": {
+     "texte": "goonɗinki",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "kɩs-sɩd",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n6.choices.1.label",
    "type": "choix",
    "chemin": "nodes.n6.choices.1.label",
-   "texte": "Oui : le campement vaut plus que notre fierté"
+   "texte": "Oui : le campement vaut plus que notre fierté",
+   "langues": {
+    "fuf": {
+     "texte": "Goonga: duɗal ɓurii ko mawnina en",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "N-ye: Zĩ-kãnga yõod yɩɩda d wuk-m-mengã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n6.choices.1.tag",
    "type": "parcours",
    "chemin": "nodes.n6.choices.1.tag",
-   "texte": "tribut payé"
+   "texte": "tribut payé",
+   "langues": {
+    "fuf": {
+     "texte": "jaayɗe",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "yaood b sẽn kõ",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "finpaye",
@@ -219,7 +491,23 @@
    "texte": "Le campement paie. Il paiera l'an prochain aussi. Dans ce chemin imaginé, il n'y a pas d'épopée, et personne ne chante plus vos noms.",
    "genre": "adulte/homme",
    "duree_ms": 10320,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Kampaango ɗon ceede. O hokkata ceede hitaande toɗɗaaɗe boo. E nder laawol ngol, walaa ko waɗata yimɓe. Walaa koo moye ɓaŋganɗo innde mon.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 11038,
+     "fichier": "silamaka-finpaye-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Zĩ-kãnga yaooda ligd wʋsgo. A na n yaooda yʋʋmd ning sẽn watã me. Yãmb sẽn na n maan bũmb ningã pʋgẽ, b pa le gomd yãmb yell ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 10452,
+     "fichier": "silamaka-finpaye-mos.m4a"
+    }
+   }
   },
   {
    "id": "avec",
@@ -233,7 +521,23 @@
    "texte": "Dites à votre roi que nous ne paierons pas.",
    "genre": "adulte/homme",
    "duree_ms": 3720,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Yeccu laamiiɗo mon en njaɓataa ceede.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3072,
+     "fichier": "silamaka-avec-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Togs-y y rĩmã tɩ d pa na n yao ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3072,
+     "fichier": "silamaka-avec-mos.m4a"
+    }
+   }
   },
   {
    "id": "n7",
@@ -247,37 +551,103 @@
    "texte": "Les envoyés font demi-tour. Chacun sait ce qui va suivre. L'armée de Ségou arrive. En selle !",
    "genre": "adulte/homme",
    "duree_ms": 7660,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Wurooɓe ɓe'e ummii. Koo moye anndi ko nastata. Yimɓe Ségou ɗon wara. E nder suudu !",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7326,
+     "fichier": "silamaka-n7-fuf.m4a"
+    },
+    "mos": {
+     "texte": "B tʋm-tʋmdbã leb n wẽnga b poorẽ. Ned kam fãa miime tɩ b na n maana bõe. A Segou tãb-biisã watame. Yãk-y n tool-y neda!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 10878,
+     "fichier": "silamaka-n7-mos.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n8.consigne",
    "type": "jeu",
    "chemin": "nodes.n8.consigne",
-   "texte": "L'armée de Ségou arrive ! Tape vite sur ESPACE ou sur l'écran pour charger aux côtés de Silamaka."
+   "texte": "L'armée de Ségou arrive ! Tape vite sur ESPACE ou sur l'écran pour charger aux côtés de Silamaka.",
+   "langues": {
+    "fuf": {
+     "texte": "Yimɓe Ségou ɗon wara! Tappi SPACE bee saffugo bee Silamaka.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Ségou tãb-biisã watame! Yãk-y ESPACE la y tik-a tao-tao n na n dɩk a Silamaka.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n8.gagne",
    "type": "jeu",
    "chemin": "nodes.n8.gagne",
-   "texte": "Vous chargez, côte à côte !"
+   "texte": "Vous chargez, côte à côte !",
+   "langues": {
+    "fuf": {
+     "texte": "On ngaɗata ko'e mon!",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Yãk-y ne taaba!",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n8.perdu",
    "type": "jeu",
    "chemin": "nodes.n8.perdu",
-   "texte": "L'armée vous presse, mais vous restez côte à côte !"
+   "texte": "L'armée vous presse, mais vous restez côte à côte !",
+   "langues": {
+    "fuf": {
+     "texte": "Yimɓe konu ɗon cembiɗina on, ammaa on ɗon njooɗoto bee maɓɓe.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Sã n yaa ne tãb-biisã, y ket n bee ne taaba.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n8.tags.win",
    "type": "parcours",
    "chemin": "nodes.n8.tags.win",
-   "texte": "course gagnée"
+   "texte": "course gagnée",
+   "langues": {
+    "fuf": {
+     "texte": "ɓeydaaki",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "zoees sẽn paamã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n8.tags.lose",
    "type": "parcours",
    "chemin": "nodes.n8.tags.lose",
-   "texte": "course perdue"
+   "texte": "course perdue",
+   "langues": {
+    "fuf": {
+     "texte": "ɓeydaaki",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "zoees ning b sẽn sãamã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "n9",
@@ -291,7 +661,23 @@
    "texte": "Quand un coup menace Silamaka, le serpent surgit entre vous. Personne n'ose l'approcher, et l'armée recule.",
    "genre": "adulte/homme",
    "duree_ms": 6980,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Nde Siilaama'a wari, haykaliiru wurtini hakkunde mooɗon. Walaa gooduɗo ɓerɗe maako, ngam maajum jama'aare maɓɓe ndilli.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8394,
+     "fichier": "silamaka-n9-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Y sã n wa paam sɩbgr n na n kʋ a Silamãm, bõn-vɩɩg n wat y sʋka. Ned baa a yen ka saag n kolg-a ye, t'a sodaasã lebg n basame.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9242,
+     "fichier": "silamaka-n9-mos.m4a"
+    }
+   }
   },
   {
    "id": "n10",
@@ -305,7 +691,23 @@
    "texte": "Le soir, les deux amis s'éloignent ensemble, dans la lumière. Certaines versions racontent une fin plus sombre. Toutes disent que Poullori ne le quitta jamais.",
    "genre": "adulte/homme",
    "duree_ms": 10700,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "To jemma, goonɗinɓe ɗiɗo ɗon njaha nder jayngol. Baylitɗe goɗɗe mbi'i ɗum ɓeydaama. Yimɓe fuu mbi'i Poullori dillaay mo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9604,
+     "fichier": "silamaka-n10-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Yĩngr wakate, b zo-rãmb a yiibã kẽnga vẽenemẽ. Bãngr-goam a taab pʋgẽ, baasg yaa toog wʋsgo. B fãa yetame t'a Poullori pa bas-a ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 12404,
+     "fichier": "silamaka-n10-mos.m4a"
+    }
+   }
   },
   {
    "id": "n11",
@@ -319,7 +721,23 @@
    "texte": "Silamaka, fils du courage ! Poullori, fidèle ami ! Vos noms ne mourront pas, tant qu'un griot aura une voix !",
    "genre": "adulte/homme",
    "duree_ms": 9330,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Silamaama, ɓiɗɗo hakkiilo! Poullori, duɗal goonɗinɗo! Inɗe mon ɗon maaya, haa e woodi gooŋgaajo!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8708,
+     "fichier": "silamaka-n11-fuf.m4a"
+    },
+    "mos": {
+     "texte": "A Silamaka yaa raood biiga! A Poullori, a zoa sẽn tũud sɩd! Yãmb yʋya ka na n ki ye, sã n yaa tɩ sõsg soab tara koɛɛg!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 12020,
+     "fichier": "silamaka-n11-mos.m4a"
+    }
+   }
   },
   {
    "id": "film-001",
@@ -335,7 +753,19 @@
    "texte": "Silamaka et Poullori. Une épopée peule, partagée avec le Mali.",
    "genre": "adulte/libre",
    "duree_ms": 6000,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Silamaka e Poullori. Gooto go'o e Mali.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A Silamaka ne a Poullori. B sẽn pʋɩ-b ne Mali wã, yaa yɩɩl a ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-002",
@@ -351,7 +781,19 @@
    "texte": "Silamaka, un héros peul. Et Poullori, son compagnon, à qui rien ne fait peur.",
    "genre": "adulte/libre",
    "duree_ms": 7000,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Silamaama, laamiiɗo mawɗo. E Poullori, gooduɗo maako, mo walaa kulol.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A Silamaka ra yaa nin-soaba. La a Poullori, a tũud-n-taagã sẽn pa yɛɛsd bũmb ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-003",
@@ -367,7 +809,19 @@
    "texte": "On ne les vit jamais l'un sans l'autre.",
    "genre": "adulte/libre",
    "duree_ms": 2800,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "On meeɗaa yi'ugo ɓe goɗɗum.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Ned pa tõe n yã bãmb ned kam fãa sẽn ka tar a to ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-004",
@@ -383,7 +837,19 @@
    "texte": "Silamaka n'était encore qu'un enfant quand un serpent se dressa devant lui, dans la brousse.",
    "genre": "adulte/libre",
    "duree_ms": 5800,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Siilaamaama o ɓeydi sukaajo nde hocci dow maako nder lekki.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A Silamãka ra yaa bi-bɩɩga, tɩ kiid n zĩnd a taoore weoogẽ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-005",
@@ -399,7 +865,19 @@
    "texte": "Il tendit la main, et le serpent, au lieu de mordre, s'inclina.",
    "genre": "adulte/libre",
    "duree_ms": 4700,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Sey o wurtini jungo maako, ammaa asama duumii.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "La a Zezi zẽka b nus n kõ-a, la bõn-yũudã ka namse ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-006",
@@ -415,7 +893,19 @@
    "texte": "Il devint son protecteur.",
    "genre": "adulte/libre",
    "duree_ms": 2700,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "O laatoowo maako.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A lebga a koglg soaba.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-007",
@@ -431,7 +921,19 @@
    "texte": "Puis vint le roi de Ségou, qui exigeait un tribut de tous les campements.",
    "genre": "adulte/libre",
    "duree_ms": 4600,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Sey laamiiɗo Segoo wari, o wurtini yimɓe fuu ceede.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Dẽ poore, Segou rĩmã waame n na n kõ sodaasã fãa yaoodã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-008",
@@ -447,7 +949,19 @@
    "texte": "Ses envoyés arrivèrent, sûrs d'eux, et ils réclamèrent leur dû.",
    "genre": "adulte/libre",
    "duree_ms": 4500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Sey lilaaɓe maako ngari, ɓe njaɓii ko o wi'i.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A tʋm-tʋmdbã waame n kɩs sɩd ne bãmbã, la b kos b sẽn segdã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-009",
@@ -463,7 +977,19 @@
    "texte": "Tout le campement se tut, et l'on regarda Silamaka.",
    "genre": "adulte/libre",
    "duree_ms": 3900,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Sey yimɓe fuu ndilli, ɓe ndaari Siilaama.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "La nebã fãa sĩndame n ges a Silamãma.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-010",
@@ -479,7 +1005,19 @@
    "texte": "Silamaka s'avança à cheval.",
    "genre": "adulte/libre",
    "duree_ms": 3000,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Silamaama ɓadake dow le'i.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A Silamaka kẽnga tao-tao.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-011",
@@ -495,7 +1033,19 @@
    "texte": "Dites à votre roi que nous ne paierons pas.",
    "genre": "adulte/homme",
    "duree_ms": 2500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Yeccu laamiiɗo mon en njaɓataa ceede.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Togs-y y rĩmã tɩ d pa na n yao ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-012",
@@ -511,7 +1061,19 @@
    "texte": "Les envoyés firent demi-tour. Chacun savait ce qui allait suivre.",
    "genre": "adulte/libre",
    "duree_ms": 5500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Sey lilaaɓe ɓen ummii. Koo moye anndi ko wara.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "La tʋm-tʋmdbã lebg n lɛɛgame. B fãa ra mii bũmb ning sẽn da na n maane.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-013",
@@ -527,7 +1089,19 @@
    "texte": "L'armée de Ségou arriva. Silamaka et Poullori la chargèrent, côte à côte.",
    "genre": "adulte/libre",
    "duree_ms": 5800,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Yimɓe Ségou ngari. Silamaama e Poullori ɓe ngaddani mo, ɓe ndilli bee maako.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A Segou tãb-biisã waa be. A Silamaka ne a Poullori n tall-a lame.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-014",
@@ -543,7 +1117,19 @@
    "texte": "Quand un coup menaça Silamaka, le serpent surgit entre eux.",
    "genre": "adulte/libre",
    "duree_ms": 4400,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Nde Siilaama'en waɗi ko o wi'i, haykaliiru wari hakkunde maɓɓe.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "B sẽn wa n na n kʋ a Silamãma, bõn-yũudl yii b sʋka.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-015",
@@ -559,7 +1145,19 @@
    "texte": "Personne n'osa l'approcher, et l'armée recula.",
    "genre": "adulte/libre",
    "duree_ms": 3700,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Walaa gooduɗo ɓerɗe maɓɓe, ɓe ndilli.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "La ned baa a yen ka saag n kolg-a ye, tɩ sodaasã bas b poorẽ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-016",
@@ -575,7 +1173,19 @@
    "texte": "Silamaka était vainqueur, et Poullori toujours à ses côtés.",
    "genre": "adulte/libre",
    "duree_ms": 4500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Silamaama ɗon heɓa jaalorgal, Poullori boo ɗon haaje bee maako.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A Silamaka tõoga, la a Poullori ket n bee ne-a.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-017",
@@ -591,7 +1201,19 @@
    "texte": "Le soir, les deux amis s'éloignèrent ensemble, dans la lumière.",
    "genre": "adulte/libre",
    "duree_ms": 5000,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Nder jemma, goonɗinɓe ɗiɗo ɓe njehi nder jayngol.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Zĩ-sobendã wĩndgẽ, b zo-rãmb yii taab vẽenemẽ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-018",
@@ -607,7 +1229,19 @@
    "texte": "Certaines versions racontent une fin plus sombre. Toutes disent que Poullori ne le quitta jamais.",
    "genre": "adulte/libre",
    "duree_ms": 6300,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Baylitɗe goɗɗe mbi'i ɗum ɓeydaama. Yimɓe fuu mbi'i Poullori dillaay mo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Bãngr-goam a taab pʋgẽ, baasg yaa toog wʋsgo. B fãa yetame t'a Poullori pa bas-a ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-019",
@@ -623,7 +1257,19 @@
    "texte": "Silamaka, fils du courage ! Poullori, fidèle ami ! Vos noms ne mourront pas, tant qu'un griot aura une voix !",
    "genre": "griot, griotte/libre",
    "duree_ms": 10300,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Silamaama, ɓiɗɗo hakkiilo! Poullori, duɗal goonɗinɗo! Inɗe mon ɗon maaya, haa e woodi gooŋgaajo!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A Silamaka yaa raood biiga! A Poullori, a zoa sẽn tũud sɩd! Yãmb yʋya ka na n ki ye, sã n yaa tɩ sõsg soab tara koɛɛg!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   }
  ]
 }

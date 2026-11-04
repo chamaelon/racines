@@ -10,6 +10,10 @@ intonation: posé (proposée)
 texte: Dans une gorge, à la source du Houet, l'eau tombe en cascade depuis toujours. Sous sa surface vivent de grands poissons moustachus : les silures.
 genre: adulte/homme
 duree: 10550ms (estimée)
+texte_dyu: K'a ta o wagati ra, ji tun bɛ jigi ka bɔ kɔda dɔ kɔnɔ Houet kɔda ra. O kɔ, u y'a fɔ a ye ko: "N'i b'a fɛ k'o kɛ, n' be se k'i yɛrɛ tanga o ma".
+enregistre_dyu: silures-dafra-n1-dyu.m4a (11892ms)
+texte_mos: Kẽer sẽn be Houet kʋɩlgã pʋgẽ wã, koomã ra yaa wa ko-kãseng wakat fãa. Kẽer yaa zĩm-dãmb sẽn tar gãn-kãsemse.
+enregistre_mos: silures-dafra-n1-mos.m4a (8058ms)
 
 piste: n2
 histoire: Les silures sacrés de Dafra
@@ -20,6 +24,10 @@ intonation: posé (proposée)
 texte: Autour de cette source a grandi Sya, l'ancienne Bobo-Dioulasso. Regarde ce qu'on apporte ici.
 genre: adulte/homme
 duree: 6070ms (estimée)
+texte_dyu: O kɔ, u y'a fɔ a ye ko ale lo tun be yen. A filɛ an be na ni min ye yan.
+enregistre_dyu: silures-dafra-n2-dyu.m4a (7322ms)
+texte_mos: Rẽ n so t'a Sya, b sẽn da boond tɩ Bobo-Dioulasso wã bɩtẽ. Ges-y bũmb nins d sẽn wat ne wã.
+enregistre_mos: silures-dafra-n2-mos.m4a (7066ms)
 
 piste: n3
 histoire: Les silures sacrés de Dafra
@@ -30,6 +38,10 @@ intonation: posé (proposée)
 texte: Silures de Dafra, je vous en prie, donnez-moi un enfant.
 genre: adulte/femme
 duree: 4400ms (estimée)
+texte_dyu: Aw ye den dɔ di ne ma.
+enregistre_dyu: silures-dafra-n3-dyu.m4a (1776ms)
+texte_mos: Dafra Silures, m kot-y tɩ y kõ maam biiga.
+enregistre_mos: silures-dafra-n3-mos.m4a (3008ms)
 
 piste: n4
 histoire: Les silures sacrés de Dafra
@@ -40,6 +52,10 @@ intonation: doux (proposée)
 texte: Fais ton vœu, et attends.
 genre: âgée/femme
 duree: 2350ms (estimée)
+texte_dyu: I ka dajuru ta k'a makɔnɔ.
+enregistre_dyu: silures-dafra-n4-dyu.m4a (2080ms)
+texte_mos: Tẽeg-y y pʋlengã, la y gũ.
+enregistre_mos: silures-dafra-n4-mos.m4a (2000ms)
 
 piste: n5
 histoire: Les silures sacrés de Dafra
@@ -50,6 +66,10 @@ intonation: interrogatif (proposée)
 texte: Awa a le cœur lourd. Avant de partir, que laisse-t-elle au bord de l'eau ?
 genre: adulte/homme
 duree: 6450ms (estimée)
+texte_dyu: Awa dusu kasinin lo. Sanni a ka taga, a be mun lo to baji daa la?
+enregistre_dyu: silures-dafra-n5-dyu.m4a (6282ms)
+texte_mos: A Awa sũur yaa toog wʋsgo. Sẽn deng a sẽn yi wã, bõe la a bas koomẽ wã?
+enregistre_mos: silures-dafra-n5-mos.m4a (6698ms)
 
 piste: oubli
 histoire: Les silures sacrés de Dafra
@@ -60,6 +80,10 @@ intonation: doux (proposée)
 texte: On n'oublie pas de nourrir ceux qu'on implore. Reviens avec une poignée de nourriture.
 genre: âgée/femme
 duree: 5920ms (estimée)
+texte_dyu: N'i ye dumuni di mɔgɔ min ma, i hakili b'a la k'o tigi ka ɲi ka dumuni kɛ. N'i kɔsegira n'i ka dumuni ye.
+enregistre_dyu: silures-dafra-oubli-dyu.m4a (7914ms)
+texte_mos: D pa yĩm n na n dɩk neb nins d sẽn kosã ye. Bas-y n wa ne rɩɩb wʋsgo.
+enregistre_mos: silures-dafra-oubli-mos.m4a (5210ms)
 
 piste: offrande
 histoire: Les silures sacrés de Dafra
@@ -70,6 +94,10 @@ intonation: posé (proposée)
 texte: Un silure saute hors de l'eau. Le vœu est entendu. Et bientôt, Awa berce son enfant.
 genre: adulte/homme
 duree: 7130ms (estimée)
+texte_dyu: Jigɛ dɔ bɔra jii la. Ala ye layidu min ta, an y'o dafa. Wagati dɔɔni o kɔ, Awa y'a deen suu don.
+enregistre_dyu: silures-dafra-offrande-dyu.m4a (8068ms)
+texte_mos: Kẽer n yi koomẽ. B kelg-a lame. La ka la bilfu, Awa rɩka a bi-riblã.
+enregistre_mos: silures-dafra-offrande-mos.m4a (7012ms)
 
 piste: n6
 histoire: Les silures sacrés de Dafra
@@ -80,6 +108,10 @@ intonation: posé (proposée)
 texte: Mais un jour arrive un pêcheur étranger, un harpon sur l'épaule.
 genre: adulte/homme
 duree: 4630ms (estimée)
+texte_dyu: Nka loon dɔ, jɛgɛminɛbaga wɛrɛ nana. A tun b'a kun na ni gɔni ye.
+enregistre_dyu: silures-dafra-n6-dyu.m4a (5898ms)
+texte_mos: La daar a ye, zĩm-biis sẽn da yaa tẽn-zẽmsã waame.
+enregistre_mos: silures-dafra-n6-mos.m4a (5216ms)
 
 piste: n7
 histoire: Les silures sacrés de Dafra
@@ -90,6 +122,10 @@ intonation: doux (proposée)
 texte: Ici, personne ne pêche. Ces poissons sont sacrés.
 genre: âgée/femme
 duree: 3790ms (estimée)
+texte_dyu: Mɔgɔ si tɛ jɛgɛminɛ kɛ yan. O jɛgɛw ka senu.
+enregistre_dyu: silures-dafra-n7-dyu.m4a (4234ms)
+texte_mos: Ka ned sẽn baood zĩm-gãong ye. Rɩt-kãens yaa bõn-sõamyã.
+enregistre_mos: silures-dafra-n7-mos.m4a (4426ms)
 
 piste: n8
 histoire: Les silures sacrés de Dafra
@@ -100,6 +136,10 @@ intonation: vif (proposée)
 texte: Des poissons sacrés ! Ils finiront dans ma marmite.
 genre: adulte/homme
 duree: 4020ms (estimée)
+texte_dyu: Jigɛɲumanw! U bena to ne ka daga kɔnɔ.
+enregistre_dyu: silures-dafra-n8-dyu.m4a (3418ms)
+texte_mos: Yaa zĩm-sõamyã. B na n kẽnga m pʋ-peemã pʋgẽ.
+enregistre_mos: silures-dafra-n8-mos.m4a (3866ms)
 
 piste: n9
 histoire: Les silures sacrés de Dafra
@@ -110,6 +150,10 @@ intonation: posé (proposée)
 texte: Il lance son harpon, prend un silure et repart, content de lui. Derrière lui, le ciel s'assombrit, et la cascade se tarit goutte après goutte.
 genre: adulte/homme
 duree: 10700ms (estimée)
+texte_dyu: O kɔ, a k'a ta gɔni fiyɛ ka taga. A kɔ fɛ, sankolo kɛra dibi ye, ji jalenw tora ka ja.
+enregistre_dyu: silures-dafra-n9-dyu.m4a (8090ms)
+texte_mos: A lobda a tãmbã, n dɩk zĩm n looge, t'a sũur noom ne-a. A Zezi poorẽ, saagã lebga lik la koom-koglgã kʋɩɩga.
+enregistre_mos: silures-dafra-n9-mos.m4a (9434ms)
 
 piste: n10
 histoire: Les silures sacrés de Dafra
@@ -120,6 +164,10 @@ intonation: interrogatif (proposée)
 texte: À Sya, les canaris restent vides. Toi qui as tout vu, que fais-tu ?
 genre: adulte/homme
 duree: 6220ms (estimée)
+texte_dyu: Nka, o tɛ foyi ye. Ele min ye koo bɛɛ ye, i be mun le kɛra?
+enregistre_dyu: silures-dafra-n10-dyu.m4a (4538ms)
+texte_mos: A Sya pʋgẽ, b pa tar koom-koglgã ye. Fo sẽn yã bũmb nins fãa wã, fo maanda bõe?
+enregistre_mos: silures-dafra-n10-mos.m4a (7946ms)
 
 piste: attendre
 histoire: Les silures sacrés de Dafra
@@ -130,6 +178,10 @@ intonation: posé (proposée)
 texte: Les jours passent. Les anciens parlent, l'eau ne revient pas. Le pêcheur, loin de là, tombe malade.
 genre: adulte/homme
 duree: 7810ms (estimée)
+texte_dyu: Tilew be tɛmɛ. Cɛkɔrɔbaw bɛ kuma, nka ji tɛ sekɔ. O kɔ, jɛgɛminɛbaga dɔ banana.
+enregistre_dyu: silures-dafra-attendre-dyu.m4a (8836ms)
+texte_mos: La daarã loogdame. Kãsem-dãmbã gomda, la koomã ka lebgd ye. La zĩm-bi-kãsengã sẽn be zĩig zãra wã, a lebgame tɩ bãad.
+enregistre_mos: silures-dafra-attendre-mos.m4a (10180ms)
 
 piste: n11
 histoire: Les silures sacrés de Dafra
@@ -140,6 +192,10 @@ intonation: posé (proposée)
 texte: Il reste une chance : qu'il revienne de lui-même, ou qu'on aille le trouver.
 genre: adulte/homme
 duree: 5920ms (estimée)
+texte_dyu: O kɔ, an k'a ɲini a fɛ.
+enregistre_dyu: silures-dafra-n11-dyu.m4a (2304ms)
+texte_mos: Bũmb n ket n be: bɩ a lebg n wa, wall d kẽng n tɩ bao-a.
+enregistre_mos: silures-dafra-n11-mos.m4a (3674ms)
 
 piste: seche
 histoire: Les silures sacrés de Dafra
@@ -150,6 +206,10 @@ intonation: posé (proposée)
 texte: On dit qu'en ce temps-là, la soif a vidé bien des cours de Sya, et que chacun a appris trop tard à quoi tenait la source.
 genre: adulte/homme
 duree: 10480ms (estimée)
+texte_dyu: U b'a fɔ ko o wagati la, minnɔgɔ ye Sya ka lakɔli caaman ban. O kɔ, mɔgɔ bɛɛ sera k'a faamu fɛɛn min kama Ala tun y'o bɔyɔrɔ di u ma.
+enregistre_dyu: silures-dafra-seche-dyu.m4a (10698ms)
+texte_mos: B yeelame tɩ wakat kãnga, rã-yũudã kɩtame t'a Sya karen-biis wʋsg lebg zaalem.
+enregistre_mos: silures-dafra-seche-mos.m4a (6368ms)
 
 piste: chercher
 histoire: Les silures sacrés de Dafra
@@ -160,6 +220,10 @@ intonation: posé (proposée)
 texte: Tu le trouves dans son campement, tremblant de fièvre, le silure encore entre ses mains. Il revient avec toi à la gorge.
 genre: adulte/homme
 duree: 9260ms (estimée)
+texte_dyu: I k'a ye a ta fanibon kɔnɔ, farigban b'a ra ka yɛrɛyɛrɛ; sanbɛrɛ bɛ a boro halibi. A be segi ka na ni i ye.
+enregistre_dyu: silures-dafra-chercher-dyu.m4a (9556ms)
+texte_mos: Fo sã n yãend-a t'a be a logtorẽ wã, a gãnda yĩn-kãnga, la zĩmã ket n bee a nugẽ. A lebg n waa ne yãmba.
+enregistre_mos: silures-dafra-chercher-mos.m4a (8458ms)
 
 piste: n12
 histoire: Les silures sacrés de Dafra
@@ -170,6 +234,10 @@ intonation: posé (proposée)
 texte: Pardonne-moi, gardienne. Je ne savais pas.
 genre: adulte/homme
 duree: 3030ms (estimée)
+texte_dyu: N'i ka yafa ne ma, garadi. N' tun m'a lɔn.
+enregistre_dyu: silures-dafra-n12-dyu.m4a (3674ms)
+texte_mos: Bas-y maam, gũudã. M da pa mi ye.
+enregistre_mos: silures-dafra-n12-mos.m4a (3210ms)
 
 piste: n13
 histoire: Les silures sacrés de Dafra
@@ -180,6 +248,10 @@ intonation: posé (proposée)
 texte: Il rend le poisson à l'eau. Mah nourrit les silures. Et l'eau revient.
 genre: adulte/homme
 duree: 5840ms (estimée)
+texte_dyu: A be jigɛ bila jii la. A b'o jɛgɛw balo. O kɔ, jii segira ka na.
+enregistre_dyu: silures-dafra-n13-dyu.m4a (6340ms)
+texte_mos: A kɩtdame tɩ zĩmã leb koomẽ. A Ma wãbda zĩm-dãmbã. La koomã leb n waame.
+enregistre_mos: silures-dafra-n13-mos.m4a (6980ms)
 
 piste: n15
 histoire: Les silures sacrés de Dafra
@@ -190,6 +262,10 @@ intonation: posé (proposée)
 texte: On ne prend pas à la légère ce qu'une ville entière protège.
 genre: adulte/homme
 duree: 4860ms (estimée)
+texte_dyu: Mɔgɔ tɛ se k'a jati ko dugumɔgɔw bɛɛ b'u yɛrɛ latanga.
+enregistre_dyu: silures-dafra-n15-dyu.m4a (3760ms)
+texte_mos: D sã n get tẽngã koglg yelle, d pa tõe n tall-a ne sik-m-meng ye.
+enregistre_mos: silures-dafra-n15-mos.m4a (4528ms)
 
 piste: film-001
 histoire: Les silures sacrés de Dafra
@@ -200,6 +276,8 @@ intonation: solennel (scénario)
 texte: Les silures sacrés de Dafra. Une légende de Bobo-Dioulasso.
 genre: adulte/libre
 duree: 5400ms (mesurée sur le film)
+texte_dyu: Dafra ka jɛgɛ senumanw. Bobo-Dioulasso ka maana dɔ lo.
+texte_mos: Yaa Dafra tẽn-sõamyã. Yaa Bobo-Dioulasso kibarã.
 
 piste: film-002
 histoire: Les silures sacrés de Dafra
@@ -210,6 +288,8 @@ intonation: posé (proposée)
 texte: Dans une gorge, à la source du Houet, l'eau tombe en cascade depuis toujours.
 genre: adulte/libre
 duree: 5300ms (mesurée sur le film)
+texte_dyu: K'a ta o wagati ra, ji tun bɛ jigi ka bɔ kɔda dɔ kɔnɔ Houet kɔda ra.
+texte_mos: Kẽer sẽn be Houet kʋɩlgã pʋgẽ wã, koomã ra yaa wa ko-kãseng wakat fãa.
 
 piste: film-003
 histoire: Les silures sacrés de Dafra
@@ -220,6 +300,8 @@ intonation: mystérieux (scénario)
 texte: Sous sa surface vivent de grands poissons moustachus : les silures.
 genre: adulte/libre
 duree: 4400ms (mesurée sur le film)
+texte_dyu: O kɔ, u y'a fɔ a ye ko: "N'i b'a fɛ k'o kɛ, n' be se k'i yɛrɛ tanga o ma".
+texte_mos: Kẽer yaa zĩm-dãmb sẽn tar gãn-kãsemse.
 
 piste: film-004
 histoire: Les silures sacrés de Dafra
@@ -230,6 +312,8 @@ intonation: posé (proposée)
 texte: Un jour, au temps des fondateurs, un chasseur assoiffé trouva ce lieu. Il but, et il laissa une offrande en remerciement.
 genre: adulte/libre
 duree: 8300ms (mesurée sur le film)
+texte_dyu: Loon dɔ, dugumɔgɔw ka wagati la, jagokɛla dɔ tun b'a fɛ k'o yɔrɔ sɔrɔ. A ye duvɛn min, ka barika la Ala ye.
+texte_mos: Daar a ye, b sẽn da wa n naan tẽngã, koglg ned sẽn da tar koomã yãee zĩ-kãng. A rɩka bõn-yũudr la a bas kũun n na n pʋʋs Wẽnnaam barka.
 
 piste: film-005
 histoire: Les silures sacrés de Dafra
@@ -240,6 +324,8 @@ intonation: posé (proposée)
 texte: Près de la source, une ville grandit : Sya, l'ancienne Bobo-Dioulasso.
 genre: adulte/libre
 duree: 5300ms (mesurée sur le film)
+texte_dyu: O kɔ, a ye dugu dɔ lɔ jii bɔyɔrɔ gɛrɛfɛ min tɔgɔ ko Sya, o kɔrɔ ko Bobo Dioulasso.
+texte_mos: Tẽnga sẽn be ko-kãsengã sɛɛgẽ wã yaa Sya, b sẽn da boond tɩ Bobo-Dioulasso.
 
 piste: film-006
 histoire: Les silures sacrés de Dafra
@@ -250,6 +336,8 @@ intonation: posé (proposée)
 texte: Ses habitants venaient chercher l'eau à Dafra, et ils n'oubliaient jamais de nourrir les silures.
 genre: adulte/libre
 duree: 5500ms (mesurée sur le film)
+texte_dyu: A dugumɔgɔw tun bɛ to ka na ji min Dafra dugu kɔnɔ, o tun b'a fɛ k'a min. O tun tɛ ɲina jɛgɛw ta baro kɔ fiyewu.
+texte_mos: Tẽngã neba ra wa n baooda koom Dafra, la b da pa yĩm ne zĩmã rɩɩb ye.
 
 piste: film-007
 histoire: Les silures sacrés de Dafra
@@ -260,6 +348,8 @@ intonation: tendre (scénario)
 texte: Awa, une jeune femme de Sya, n'avait pas d'enfant. Son cœur était lourd.
 genre: adulte/libre
 duree: 6100ms (mesurée sur le film)
+texte_dyu: Awa, min tun ye Sya muso dɔ ye, ale ma deen sɔrɔ. A dusu tun man di.
+texte_mos: A Awa, a Sya pagã ra pa tar bi-ribl ye. A sũur yɩɩ toog wʋsgo.
 
 piste: film-008
 histoire: Les silures sacrés de Dafra
@@ -270,6 +360,8 @@ intonation: posé (proposée)
 texte: Un matin, elle prit le chemin de la gorge.
 genre: adulte/libre
 duree: 3600ms (mesurée sur le film)
+texte_dyu: Loon dɔ sɔgɔma, a ye sira ta ka taga n'a ye.
+texte_mos: Daar a ye koabgẽ, a kẽnga koglgã pʋga.
 
 piste: film-009
 histoire: Les silures sacrés de Dafra
@@ -280,6 +372,8 @@ intonation: posé (proposée)
 texte: Mah, la gardienne de Dafra, l'y attendait.
 genre: adulte/libre
 duree: 4300ms (mesurée sur le film)
+texte_dyu: Nka, Dafra dugu kɔrɔsibaga tun b'a kɔnɔna.
+texte_mos: A Dafra gũudã ra gũuda yẽnda be.
 
 piste: film-010
 histoire: Les silures sacrés de Dafra
@@ -290,6 +384,8 @@ intonation: timide, plein d'espoir (scénario)
 texte: Silures de Dafra, je vous en prie, donnez-moi un enfant.
 genre: adulte/femme
 duree: 4500ms (mesurée sur le film)
+texte_dyu: Aw ye den dɔ di ne ma.
+texte_mos: Dafra Silures, m kot-y tɩ y kõ maam biiga.
 
 piste: film-011
 histoire: Les silures sacrés de Dafra
@@ -300,6 +396,8 @@ intonation: bienveillant (scénario)
 texte: Fais ton vœu, et attends.
 genre: âgé/libre
 duree: 2600ms (mesurée sur le film)
+texte_dyu: I ka dajuru ta k'a makɔnɔ.
+texte_mos: Tẽeg-y y pʋlengã, la y gũ.
 
 piste: film-012
 histoire: Les silures sacrés de Dafra
@@ -310,6 +408,8 @@ intonation: émerveillé (scénario)
 texte: Un silure sauta hors de l'eau. Le vœu était entendu.
 genre: adulte/libre
 duree: 4700ms (mesurée sur le film)
+texte_dyu: Jigɛ dɔ bɔra jii la. Ala tun y'a daa di koo min na, a sɔnna o ma.
+texte_mos: Kẽer n yi koomã pʋgẽ. B wʋma pʋlemdã.
 
 piste: film-013
 histoire: Les silures sacrés de Dafra
@@ -320,6 +420,8 @@ intonation: joyeux (scénario)
 texte: Et bientôt, Awa berça son enfant. Elle revint à Dafra pour dire merci.
 genre: adulte/libre
 duree: 6000ms (mesurée sur le film)
+texte_dyu: Wagati dɔɔni o kɔ, Awa y'a deen lamɔ. A segira ka na Dafra dugu la walisa k'a waleɲumanlɔn.
+texte_mos: La ka la bilfu, Awa rɩka a biigã. A leb n waame n na n pʋʋs a Zeova barka.
 
 piste: film-014
 histoire: Les silures sacrés de Dafra
@@ -330,6 +432,8 @@ intonation: posé (proposée)
 texte: Mais un jour arriva un pêcheur étranger, avec un harpon sur l'épaule.
 genre: adulte/libre
 duree: 4800ms (mesurée sur le film)
+texte_dyu: Nka loon dɔ, jɛgɛminɛbaga wɛrɛ nana. A tun b'a ka fɔlikɛminan biri a kamankun kan.
+texte_mos: La daar a ye, zĩm-biisi sẽn yit tẽn-zẽnga waame.
 
 piste: film-015
 histoire: Les silures sacrés de Dafra
@@ -340,6 +444,8 @@ intonation: ferme (scénario)
 texte: Ici, personne ne pêche. Ces poissons sont sacrés.
 genre: âgé/libre
 duree: 5100ms (mesurée sur le film)
+texte_dyu: Mɔgɔ si tɛ jɛgɛminɛ kɛ yan. O jɛgɛw ka senu.
+texte_mos: Ka ned sẽn baood zĩm-gãong ye. Rɩt-kãens yaa bõn-sõamyã.
 
 piste: film-016
 histoire: Les silures sacrés de Dafra
@@ -350,6 +456,8 @@ intonation: inquiet (scénario)
 texte: Il éclata de rire. Il lança son harpon et prit un silure.
 genre: adulte/libre
 duree: 5200ms (mesurée sur le film)
+texte_dyu: A yɛlɛla kosɔbɛ. A y'a ka fɔlikɛminan fili ani a ye jigɛ dɔ ta.
+texte_mos: A yãgsame. A lob-a lame n dɩ zĩm a ye.
 
 piste: film-017
 histoire: Les silures sacrés de Dafra
@@ -360,6 +468,8 @@ intonation: posé (proposée)
 texte: Il repartit, content de lui. Derrière lui, le ciel s'assombrit.
 genre: adulte/libre
 duree: 6000ms (mesurée sur le film)
+texte_dyu: O kɔ, a segira ka taga. A kɔ fɛ, sankolo kɛra dibi ye.
+texte_mos: A kẽnga be, a sũur yɩɩ noog ne-a. A Zezi poore, saasẽ lebga lik.
 
 piste: film-018
 histoire: Les silures sacrés de Dafra
@@ -370,6 +480,8 @@ intonation: grave (scénario)
 texte: Alors la cascade se tarit, goutte après goutte.
 genre: adulte/libre
 duree: 3800ms (mesurée sur le film)
+texte_dyu: O kɔ, jii bɔtɔ tora ka sumaya.
+texte_mos: Rẽ n so tɩ koom-koglgã sa.
 
 piste: film-019
 histoire: Les silures sacrés de Dafra
@@ -380,6 +492,8 @@ intonation: posé (proposée)
 texte: À Sya, les canaris restèrent vides. Les habitants revenaient des puits les mains vides.
 genre: adulte/libre
 duree: 6300ms (mesurée sur le film)
+texte_dyu: Nka, u tun b'a fɛ k'o kɛ. O dugumɔgɔw tun be bɔ kɔlɔnw kɔnɔ k'u bololakolon kɔsegi.
+texte_mos: A Sya pʋgẽ, b pa kõ-b bũmb ye. Neb nins sẽn da be tẽn-kãnga pʋgẽ wã yii koom koglgẽ n lebg n wa ne b nusã.
 
 piste: film-020
 histoire: Les silures sacrés de Dafra
@@ -390,6 +504,8 @@ intonation: posé (proposée)
 texte: Et loin de là, dans son campement, le pêcheur tomba malade.
 genre: adulte/libre
 duree: 4500ms (mesurée sur le film)
+texte_dyu: O kɔ, jɛgɛminɛbaga dɔ banana.
+texte_mos: La zĩm-biisã sẽn da be zĩig sẽn zãre wã, bãaga yõk-b lame.
 
 piste: film-021
 histoire: Les silures sacrés de Dafra
@@ -400,6 +516,8 @@ intonation: posé (proposée)
 texte: Tremblant, il revint à la gorge avec le silure entre les mains.
 genre: adulte/libre
 duree: 4300ms (mesurée sur le film)
+texte_dyu: A yɛrɛyɛrɛtɔ kɔsegira ka na n'o jɛgɛ ye.
+texte_mos: A Zezi sẽn wa n zãad ne b nugã, a lebgame.
 
 piste: film-022
 histoire: Les silures sacrés de Dafra
@@ -410,6 +528,8 @@ intonation: brisé (scénario)
 texte: Pardonne-moi, gardienne. Je ne savais pas.
 genre: adulte/homme
 duree: 3800ms (mesurée sur le film)
+texte_dyu: N'i ka yafa ne ma, garadi. N' tun m'a lɔn.
+texte_mos: Bas-y maam, gũudã. M da pa mi ye.
 
 piste: film-023
 histoire: Les silures sacrés de Dafra
@@ -420,6 +540,8 @@ intonation: posé (proposée)
 texte: Il rendit le poisson à l'eau. Mah nourrit les silures.
 genre: adulte/libre
 duree: 4900ms (mesurée sur le film)
+texte_dyu: O kɔ, a ye jigɛ nin don jii la. A b'o jɛgɛw balo.
+texte_mos: A kɩtame tɩ zĩmã leb koomẽ. A Ma wãbda zĩm-dãmbã.
 
 piste: film-024
 histoire: Les silures sacrés de Dafra
@@ -430,6 +552,8 @@ intonation: joyeux (scénario)
 texte: Et l'eau revint. Les habitants accoururent pour fêter son retour.
 genre: adulte/libre
 duree: 5200ms (mesurée sur le film)
+texte_dyu: O kɔ, jii segira ka na. O dugumɔgɔw nana joona joona walisa k'a ka kɔsegi ɲanagbɛ kɛ.
+texte_mos: La koomã lebg n waame. Tẽngã neb waame tao-tao n na n maan sũ-noogo.
 
 piste: film-025
 histoire: Les silures sacrés de Dafra
@@ -440,3 +564,5 @@ intonation: apaisé (scénario)
 texte: Aujourd'hui encore, à Dafra, les visiteurs nourrissent les silures, et ils leur confient leurs vœux.
 genre: adulte/libre
 duree: 6100ms (mesurée sur le film)
+texte_dyu: Hali bi, mɔgɔ minw be taga Dafra dugu la, olu b'a to jɛgɛw ye dumuni kɛ.
+texte_mos: Rũndã-rũndã me, neb nins sẽn wa n be Dafra wã rɩtda rũmsã, la b kõt-b-la b pʋlemsã.

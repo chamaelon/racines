@@ -10,6 +10,10 @@ intonation: posé (proposée)
 texte: À Garango, en pays bissa, la chefferie a sa règle. Elle est ancienne, et elle ne se discute pas. Le chef est mort, et le pays est en deuil. Mais déjà, on regarde la couronne.
 genre: adulte/homme
 duree: 15250ms (estimée)
+texte_dyu: Garango dugu la, mɔgɔw ka ɲi k'u yɛrɛ majigi. A kɔrɔla ani a tɛ kuma ɲɔgɔn fɛ. " Kuntigi sara, jamana bɛɛ bɛ ŋunana. Nka, an b'a fɛ k'o kɛ.
+enregistre_dyu: lingani-n1-dyu.m4a (12494ms)
+texte_mos: Gãrango, sẽn yaa tẽn-kãseng a ye pʋgẽ wã, neb nins sẽn yaa kãsm dãmb segd n tũuda b noyã. A yaa kãsem soaba, la a pa zabd ne taab ye. Zu-soaba kiime, la tẽnga fãa yãbdame. La d zoe n get-a lame.
+enregistre_mos: lingani-n1-mos.m4a (17102ms)
 
 piste: n2
 histoire: Les Lingani de Tangaré
@@ -20,6 +24,10 @@ intonation: posé (proposée)
 texte: Je n'ai besoin de personne.
 genre: adulte/homme
 duree: 2200ms (estimée)
+texte_dyu: Ne mako tɛ mɔgɔ si la.
+enregistre_dyu: lingani-n2-dyu.m4a (1696ms)
+texte_mos: M pa rat ned ye.
+enregistre_mos: lingani-n2-mos.m4a (1392ms)
 
 piste: n3
 histoire: Les Lingani de Tangaré
@@ -30,6 +38,10 @@ intonation: posé (proposée)
 texte: Il pose la couronne lui-même sur sa tête. La couronne glisse et tombe. Il la ramasse. Elle retombe encore. Un orage éclate, et le mil se couche dans les champs.
 genre: adulte/homme
 duree: 13050ms (estimée)
+texte_dyu: A yɛrɛ ka masafugula biri a kun na. Masafugulan jigira ka ben. A be taga n'a ye. A be segira ka ben. Sanfɔɲɔba dɔ wurira, ka siman lajigi foro kɔnɔ.
+enregistre_dyu: lingani-n3-dyu.m4a (12856ms)
+texte_mos: A meng n gãd a zu-soabã zugu. Tãn-kãnga lʋɩɩsame n lʋɩ. A wʋka-a lame. A leb n lʋɩɩsame. Sa-kãseng yiime, la bõn-buudã lʋɩɩs pʋʋgẽ.
+enregistre_mos: lingani-n3-mos.m4a (12536ms)
 
 piste: n4
 histoire: Les Lingani de Tangaré
@@ -40,6 +52,10 @@ intonation: interrogatif (proposée)
 texte: Les gens se détournent de lui. Toi, parmi les anciens, que proposes-tu ?
 genre: adulte/homme
 duree: 5840ms (estimée)
+texte_dyu: Mɔgɔw b'u yɛrɛ mabɔ a la. E min ye cɛkɔrɔba ye, i b'a fɛ ka mun le fɔ?
+enregistre_dyu: lingani-n4-dyu.m4a (6506ms)
+texte_mos: Nebã zãaga b mens ne-a. Yãmb sẽn be nin-kẽemb sʋka, bõe la y na n maan?
+enregistre_mos: lingani-n4-mos.m4a (6218ms)
 
 piste: chance
 histoire: Les Lingani de Tangaré
@@ -50,6 +66,10 @@ intonation: posé (proposée)
 texte: Il remet la couronne. Elle tombe. L'orage redouble. Tous attendent que tu parles.
 genre: adulte/homme
 duree: 6140ms (estimée)
+texte_dyu: A b'a ka masafugulan di a ma. A be ben. Sanfɔɲɔ be juguyara ka taga. U bɛɛ b'a kɔnɔna ko i ka kuma.
+enregistre_dyu: lingani-chance-dyu.m4a (8926ms)
+texte_mos: A lebs-a-la naamã. A lʋɩɩsame. Sa-kãsengã paasdame. B fãa gũudame tɩ y gom.
+enregistre_mos: lingani-chance-mos.m4a (8062ms)
 
 piste: raccourci
 histoire: Les Lingani de Tangaré
@@ -60,6 +80,10 @@ intonation: posé (proposée)
 texte: Il la tient à deux mains, et il ne peut plus rien faire d'autre. La pluie gâte tout, et le pays perd son chef sans en avoir de nouveau. Cette fin n'est pas dans la légende.
 genre: adulte/homme
 duree: 14880ms (estimée)
+texte_dyu: O kɔ, a tɛ se ka foyi kɛ tuun. Sanjiba bɛ fɛn bɛɛ cɛn, jamana kuntigi tɛ sɔrɔ tuun. O tɛ koo kɔrɔ dɔ ye.
+enregistre_dyu: lingani-raccourci-dyu.m4a (9732ms)
+texte_mos: A zãada a nug-biis a yiibu n pa tõe n maan bũmb a to ye. La saagã sãamda bũmb fãa, la tẽnga ka le tar a soab ye. La b pa tõe n yeel tɩ yaa bõn-kãng bal ye.
+enregistre_mos: lingani-raccourci-mos.m4a (13364ms)
 
 piste: elu
 histoire: Les Lingani de Tangaré
@@ -70,6 +94,10 @@ intonation: posé (proposée)
 texte: Les anciens conduisent l'élu sur la route de Tangaré, le village des Lingani, les gardiens du pouvoir.
 genre: adulte/homme
 duree: 7060ms (estimée)
+texte_dyu: Cɛkɔrɔbaw tun b'a fɛ k'o mɔgɔ ɲɛnatɔmɔlenw ta ka taga n'u ye Tangaré sira kan, Lingani dugu la.
+enregistre_dyu: lingani-elu-dyu.m4a (7808ms)
+texte_mos: Kãsem-dãmbã zãada b sẽn yãkdã n kẽng Tangaré, Lingani tẽngã zugu.
+enregistre_mos: lingani-elu-mos.m4a (7040ms)
 
 piste: n6
 histoire: Les Lingani de Tangaré
@@ -80,6 +108,10 @@ intonation: posé (proposée)
 texte: Voici celui qui vient.
 genre: adulte/homme
 duree: 1820ms (estimée)
+texte_dyu: A filɛ, min be nana.
+enregistre_dyu: lingani-n6-dyu.m4a (1568ms)
+texte_mos: Ad-y ned ning sẽn watã.
+enregistre_mos: lingani-n6-mos.m4a (1536ms)
 
 piste: n7
 histoire: Les Lingani de Tangaré
@@ -90,6 +122,10 @@ intonation: interrogatif (proposée)
 texte: L'élu entre dans la case. Nul ne sait ce qui s'y passe. Que feras-tu pendant ce temps ?
 genre: adulte/homme
 duree: 7740ms (estimée)
+texte_dyu: Ala ye mɔgɔ min woloma, ale be don kɛnɛma. Mɔgɔ si t'a lɔn fɛɛn min be kɛra yen. I bena mun lo kɛ o wagati la?
+enregistre_dyu: lingani-n7-dyu.m4a (9876ms)
+texte_mos: Sẽn yãk-a wã kẽnda zĩiga. Ned pa mi bũmb ning sẽn maand be ye. Bõe la y na n maan wakat kãnga?
+enregistre_mos: lingani-n7-mos.m4a (7860ms)
 
 piste: oreille
 histoire: Les Lingani de Tangaré
@@ -100,6 +136,10 @@ intonation: posé (proposée)
 texte: Écarte-toi. La préparation reste secrète, et nous n'en dirons pas plus.
 genre: adulte/homme
 duree: 4930ms (estimée)
+texte_dyu: I mabɔ n' na. O labɛn tun dogonin lo ani an tɛna o fɔ tugun.
+enregistre_dyu: lingani-oreille-dyu.m4a (5546ms)
+texte_mos: Yi-y n zãag y meng ne maam. Sẽn paase, d pa na n togs nebã bũmb ning b sẽn maandã ye.
+enregistre_mos: lingani-oreille-mos.m4a (7866ms)
 
 piste: dehors
 histoire: Les Lingani de Tangaré
@@ -110,6 +150,10 @@ intonation: posé (proposée)
 texte: Le jour du couronnement arrive. La couronne se pose sur sa tête, et elle tient. Doucement, la pluie revient sur le pays.
 genre: adulte/homme
 duree: 9560ms (estimée)
+texte_dyu: Masacɛ ka masafugulan loon be surunyana. Masacɛ ka masafugula biri a kun na, k'a sigi. Kɔfɛ, sanji kɔsegira jamana kan.
+enregistre_dyu: lingani-dehors-dyu.m4a (9492ms)
+texte_mos: Yaa wakat ning b sẽn na n dɩ naam wã. A Zezi naam roog n lʋɩɩ bãmb zugu, la b tõoga. La bilf-bilfu, saagã leb n waa tẽngã zugu.
+enregistre_mos: lingani-dehors-mos.m4a (11092ms)
 
 piste: n8
 histoire: Les Lingani de Tangaré
@@ -120,6 +164,10 @@ intonation: posé (proposée)
 texte: Aujourd'hui encore, dit-on, nul ne règne à Garango sans passer par Tangaré. Le pouvoir qu'on prend sans suivre la coutume ne tient pas.
 genre: adulte/homme
 duree: 9640ms (estimée)
+texte_dyu: Mɔgɔw b'a fɔ ko hali bi, mɔgɔ si tɛ se ka sigi Garango dugu kunna ni a ma tɛmɛ Tangare dugu kan. Ni mɔgɔ b'a ta fanga sɔrɔ k'a sɔrɔ a t'o kɛ ka kɛɲɛ ni landa ye, o tigi tɛ se ka to.
+enregistre_dyu: lingani-n8-dyu.m4a (13642ms)
+texte_mos: Baa rũndã-rũndã, b yetame tɩ ned baa a yen ka rɩt naam Garango soolmẽ n yaool n kẽng Tangare. Ned sã n dɩt a naamã n pa tũud minimã, a ka tõe n tall pãnga ye.
+enregistre_mos: lingani-n8-mos.m4a (13050ms)
 
 piste: film-001
 histoire: Les Lingani de Tangaré
@@ -130,6 +178,8 @@ intonation: sobre (scénario)
 texte: Les Lingani de Tangaré. Une légende de pouvoir, en pays bissa.
 genre: adulte/libre
 duree: 5700ms (mesurée sur le film)
+texte_dyu: Tangare ka Lingani mɔgɔw lo. Fanga min tun b'u fɛ, u y'o lakali jamana wɛrɛ kɔnɔ.
+texte_mos: A Lingani wã sẽn be Tangare. Bãngr-gomd sẽn gomd pãn-tõog yelle.
 
 piste: film-002
 histoire: Les Lingani de Tangaré
@@ -140,6 +190,8 @@ intonation: posé (proposée)
 texte: À Garango, en pays bissa, la chefferie a sa règle. Elle est ancienne, et elle ne se discute pas.
 genre: adulte/libre
 duree: 7600ms (mesurée sur le film)
+texte_dyu: Garango dugu la, mɔgɔw ka ɲi k'u yɛrɛ majigi. A kɔrɔla ani a tɛ kuma ɲɔgɔn fɛ.
+texte_mos: Gãrango, sẽn yaa tẽn-kãseng a ye pʋgẽ wã, neb nins sẽn yaa kãsm dãmb segd n tũuda b noyã. A yaa kãsem soaba, la a pa zabd ne taab ye.
 
 piste: film-003
 histoire: Les Lingani de Tangaré
@@ -150,6 +202,8 @@ intonation: grave (scénario)
 texte: Le chef est mort, et le pays est en deuil. Mais déjà, on regarde la couronne.
 genre: adulte/libre
 duree: 6400ms (mesurée sur le film)
+texte_dyu: " Kuntigi sara, jamana bɛɛ bɛ ŋunana. Nka, an b'a fɛ k'o kɛ.
+texte_mos: Zu-soaba kiime, la tẽnga fãa yãbdame. La d zoe n get-a lame.
 
 piste: film-004
 histoire: Les Lingani de Tangaré
@@ -160,6 +214,8 @@ intonation: posé (proposée)
 texte: Un homme ne veut pas attendre.
 genre: adulte/libre
 duree: 2600ms (mesurée sur le film)
+texte_dyu: Cɛɛ dɔ t'a fɛ ka kɔnɔni kɛ.
+texte_mos: Ned pa rat n gũ ye.
 
 piste: film-005
 histoire: Les Lingani de Tangaré
@@ -170,6 +226,8 @@ intonation: arrogant (scénario)
 texte: Je n'ai besoin de personne.
 genre: adulte/homme
 duree: 2700ms (mesurée sur le film)
+texte_dyu: Ne mako tɛ mɔgɔ si la.
+texte_mos: M pa rat ned ye.
 
 piste: film-006
 histoire: Les Lingani de Tangaré
@@ -180,6 +238,8 @@ intonation: posé (proposée)
 texte: Et il pose la couronne lui-même sur sa tête. Les anciens baissent les yeux, sans rien dire.
 genre: adulte/libre
 duree: 6600ms (mesurée sur le film)
+texte_dyu: O kɔ, a ka masafugula biri a kun na. Diinan mɔgɔkɔrɔw y'u ɲɛɛ biri duguma k'a sɔrɔ u ma foyi fɔ.
+texte_mos: La a Zezi meng na n yeelg-a-la naam roogo. Kãsem-dãmbã wõgemda b ninã, n pa leok ye.
 
 piste: film-007
 histoire: Les Lingani de Tangaré
@@ -190,6 +250,8 @@ intonation: grave (scénario)
 texte: La couronne glisse et tombe. Il la ramasse. Elle retombe encore.
 genre: adulte/libre
 duree: 6500ms (mesurée sur le film)
+texte_dyu: Masafugulan jigira ka ben. A be taga n'a ye. A be segira ka ben.
+texte_mos: Tãn-kãnga lʋɩɩsame n lʋɩ. A wʋka-a lame. A leb n lʋɩɩsame.
 
 piste: film-008
 histoire: Les Lingani de Tangaré
@@ -200,6 +262,8 @@ intonation: posé (proposée)
 texte: Un orage éclate, et le mil se couche dans les champs. Les gens se détournent de lui.
 genre: adulte/libre
 duree: 6000ms (mesurée sur le film)
+texte_dyu: Sanfɔɲɔba dɔ wurira, ka siman lajigi foro kɔnɔ. Mɔgɔw b'u yɛrɛ mabɔ a la.
+texte_mos: Sa-kãseng yiime, la bõn-buudã lʋɩɩs pʋʋgẽ. Nebã zãaga b mens ne-a.
 
 piste: film-009
 histoire: Les Lingani de Tangaré
@@ -210,6 +274,8 @@ intonation: posé (proposée)
 texte: Sans les Lingani, disent-ils, la couronne ne tient pas.
 genre: adulte/libre
 duree: 4200ms (mesurée sur le film)
+texte_dyu: U b'a fɔ ko ni Linganiw tɛ yen, o masafugulan tɛna se ka sigi.
+texte_mos: B yetame tɩ sã n pa tar Lingãni rãmbã, b na n paama zu-soaba.
 
 piste: film-010
 histoire: Les Lingani de Tangaré
@@ -220,6 +286,8 @@ intonation: posé (proposée)
 texte: Alors, les anciens vont chercher le futur chef, celui que le conseil a désigné.
 genre: adulte/libre
 duree: 5700ms (mesurée sur le film)
+texte_dyu: O kɔ, diinan mɔgɔkɔrɔw ka ɲi k'o kuntigi sugandi.
+texte_mos: Rẽ poore, kãsem-dãmbã na n baoo taoor soab ning b sẽn yãkã.
 
 piste: film-011
 histoire: Les Lingani de Tangaré
@@ -230,6 +298,8 @@ intonation: posé (proposée)
 texte: Ils le conduisent sur la route de Tangaré.
 genre: adulte/libre
 duree: 3100ms (mesurée sur le film)
+texte_dyu: U y'a ta ka taga n'a ye Tangaré sira kan.
+texte_mos: B tall-a lame n kẽng Tangare.
 
 piste: film-012
 histoire: Les Lingani de Tangaré
@@ -240,6 +310,8 @@ intonation: posé (proposée)
 texte: Tangaré est le village des Lingani, les gardiens du pouvoir.
 genre: adulte/libre
 duree: 4400ms (mesurée sur le film)
+texte_dyu: Tangaré ye Lingani dugumɔgɔw ka dugu lo ye.
+texte_mos: Tangaré yaa Lingani nebã tẽn-tẽngã.
 
 piste: film-013
 histoire: Les Lingani de Tangaré
@@ -250,6 +322,8 @@ intonation: respectueux (scénario)
 texte: Voici celui qui vient.
 genre: âgé/libre
 duree: 2500ms (mesurée sur le film)
+texte_dyu: A filɛ, min be nana.
+texte_mos: Ad-y ned ning sẽn watã.
 
 piste: film-014
 histoire: Les Lingani de Tangaré
@@ -260,6 +334,8 @@ intonation: chuchoté (scénario)
 texte: L'élu entre dans la case. Nul ne sait ce qui s'y passe.
 genre: adulte/libre
 duree: 5200ms (mesurée sur le film)
+texte_dyu: Ala ye mɔgɔ min woloma, ale be don kɛnɛma. Mɔgɔ si t'a lɔn fɛɛn min be kɛra yen.
+texte_mos: Sẽn yãk-a wã kẽnda zĩiga. Ned pa mi bũmb ning sẽn maand be ye.
 
 piste: film-015
 histoire: Les Lingani de Tangaré
@@ -270,6 +346,8 @@ intonation: mystérieux (scénario)
 texte: La préparation reste secrète, et nous n'en dirons pas plus.
 genre: adulte/libre
 duree: 4200ms (mesurée sur le film)
+texte_dyu: O labɛn tun dogonin lo ani an tɛna o fɔ tugun.
+texte_mos: Sẽn paase, d pa na n togs nebã bũmb ning b sẽn maandã ye.
 
 piste: film-016
 histoire: Les Lingani de Tangaré
@@ -280,6 +358,8 @@ intonation: joyeux (scénario)
 texte: Le jour du couronnement arrive. La couronne se pose sur sa tête, et elle tient.
 genre: adulte/libre
 duree: 6100ms (mesurée sur le film)
+texte_dyu: Masacɛ ka masafugulan loon be surunyana. Masacɛ ka masafugula biri a kun na, k'a sigi.
+texte_mos: Yaa wakat ning b sẽn na n dɩ naam wã. A Zezi naam roog n lʋɩɩ bãmb zugu, la b tõoga.
 
 piste: film-017
 histoire: Les Lingani de Tangaré
@@ -290,6 +370,8 @@ intonation: posé (proposée)
 texte: Doucement, la pluie revient sur le pays.
 genre: adulte/libre
 duree: 3500ms (mesurée sur le film)
+texte_dyu: Kɔfɛ, sanji kɔsegira jamana kan.
+texte_mos: La bilf-bilfu, saagã leb n waa tẽngã zugu.
 
 piste: film-018
 histoire: Les Lingani de Tangaré
@@ -300,3 +382,5 @@ intonation: doux (scénario)
 texte: Aujourd'hui encore, dit-on, nul ne règne à Garango sans passer par Tangaré.
 genre: adulte/libre
 duree: 5600ms (mesurée sur le film)
+texte_dyu: Mɔgɔw b'a fɔ ko hali bi, mɔgɔ si tɛ se ka sigi Garango dugu kunna ni a ma tɛmɛ Tangare dugu kan.
+texte_mos: Baa rũndã-rũndã, b yetame tɩ ned baa a yen ka rɩt naam Garango soolmẽ n yaool n kẽng Tangare.

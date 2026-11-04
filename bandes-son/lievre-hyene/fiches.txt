@@ -10,6 +10,10 @@ intonation: posé (proposée)
 texte: Écoutez bien, vous tous. Ce conte vient du temps où les bêtes parlaient encore, et où les greniers sonnaient creux.
 genre: adulte/homme
 duree: 8500ms (estimée)
+texte_fuf: Non boo, onon fuu. Ɗuum taariika ɗon ƴiwo diga saa'i dabbaaji ɗon wolwugo, nden cuuɗi mawɗi ɗon kolli.
+enregistre_fuf: lievre-hyene-intro-fuf.m4a (8410ms)
+texte_mos: Yãmb fãa kelg-y neere. Yaa wakat ning rũmsã sẽn da ket n gomda, la b ra ket n kelgdẽ.
+enregistre_mos: lievre-hyene-intro-mos.m4a (7002ms)
 
 piste: hyene1
 histoire: Le lièvre et l'hyène
@@ -20,6 +24,10 @@ intonation: moqueur (proposée)
 texte: Te voilà, petit lièvre ! Trouve-moi à manger, ou c'est toi que je mange.
 genre: voix de conte/libre
 duree: 6220ms (estimée)
+texte_fuf: Ɗuum woni ma, ɓeynguure! Hokka yam nyaamdu, malla mi nyaama ma.
+enregistre_fuf: lievre-hyene-hyene1-fuf.m4a (5050ms)
+texte_mos: Yaa foo la m yãend-yã! Sã n ka rẽ, mam na n dɩka yãmba.
+enregistre_mos: lievre-hyene-hyene1-mos.m4a (5930ms)
 
 piste: choix1
 histoire: Le lièvre et l'hyène
@@ -30,6 +38,10 @@ intonation: interrogatif (proposée)
 texte: Le lièvre est bien petit, et l'hyène a de grandes dents. Que répond-il ?
 genre: adulte/homme
 duree: 6070ms (estimée)
+texte_fuf: Go'o ɗon ɓeydi ɗuuɗugo, nden go'o boo ɗon mari cukalel mawɗi. Hol ko o wi'i?
+enregistre_fuf: lievre-hyene-choix1-fuf.m4a (5626ms)
+texte_mos: Dũnda wã yaa bilf wʋsgo, t'a rã-yũudã yaool n tara yẽn kãsenga. A leokame tɩ bõe?
+enregistre_mos: lievre-hyene-choix1-mos.m4a (8090ms)
 
 piste: offrande
 histoire: Le lièvre et l'hyène
@@ -40,6 +52,10 @@ intonation: posé (proposée)
 texte: Le lièvre vide son terrier. L'hyène engloutit tout et revient dès le lendemain, plus affamée encore. Il faut trouver autre chose.
 genre: adulte/homme
 duree: 9030ms (estimée)
+texte_fuf: Le'i ɗon maɓɓina suudu maako. Henna ɗon nyaami koo ɗume, nden o wurtina nder nyalnde go'o. Gotta heɓugo feere.
+enregistre_fuf: lievre-hyene-offrande-fuf.m4a (8660ms)
+texte_mos: Dɩlla b na n dɩka-a lame. Zĩigã rɩka bũmb nins fãa a sẽn da kõ-bã, n yaool n lebg n wa vẽkembeoogo. D segd n baoo bũmb a to.
+enregistre_mos: lievre-hyene-offrande-mos.m4a (11428ms)
 
 piste: accord
 histoire: Le lièvre et l'hyène
@@ -50,6 +66,10 @@ intonation: amusé (proposée)
 texte: Ensemble, faisons un champ. Je travaille, tu surveilles. À toi ce qui pousse au-dessus de la terre, à moi ce qui pousse au-dessous.
 genre: voix de conte/libre
 duree: 10090ms (estimée)
+texte_fuf: Yimɓe fuu mbaɗtan goɗɗum. Mi ɗon kuuwa, a ɗon hakkiilo. Ko woni dow leydi, ɗum maaɗa, ko woni nder duniyaaru boo to am.
+enregistre_fuf: lievre-hyene-accord-fuf.m4a (9284ms)
+texte_mos: Bɩ d naag taab n maan pʋʋgo. Mam tʋmdame, la yãmb getame. Yaa yãmb n so bũmb nins sẽn be tẽng zugã, la yaa mam n so bõn-naands nins sẽn ka be tẽngrã.
+enregistre_mos: lievre-hyene-accord-mos.m4a (11124ms)
 
 piste: hyene2
 histoire: Le lièvre et l'hyène
@@ -60,6 +80,10 @@ intonation: moqueur (proposée)
 texte: Le dessus, c'est là que sont les beaux épis ! J'accepte, et je vais dormir à l'ombre.
 genre: voix de conte/libre
 duree: 7360ms (estimée)
+texte_fuf: Ɗo dow, ɗum woni to beeje ɓurɗe mawnude! Mi jaɓan, nden mi ɗon ɗaana nder duule.
+enregistre_fuf: lievre-hyene-hyene2-fuf.m4a (6554ms)
+texte_mos: Sẽn yɩɩd fãa, yaa bõn-naands nins sẽn yaa sõma wã n be yĩngrã. Mam sakame, la m na n kẽe zĩ-gũumẽ.
+enregistre_mos: lievre-hyene-hyene2-mos.m4a (8570ms)
 
 piste: choix2
 histoire: Le lièvre et l'hyène
@@ -70,6 +94,10 @@ intonation: interrogatif (proposée)
 texte: La pluie arrive, c'est le moment de semer. Que sème le lièvre ?
 genre: adulte/homme
 duree: 5690ms (estimée)
+texte_fuf: Nde ndiyam ɗon wara, ɗum sahaa hawrugo. Ko honɗun lebbini ?
+enregistre_fuf: lievre-hyene-choix2-fuf.m4a (4698ms)
+texte_mos: La saagã watame, la bõn-buudã wakate. Bõe la seb-yũudã bʋta?
+enregistre_mos: lievre-hyene-choix2-mos.m4a (6538ms)
 
 piste: arachide
 histoire: Le lièvre et l'hyène
@@ -80,6 +108,10 @@ intonation: posé (proposée)
 texte: À la récolte, l'hyène reçoit des brassées de feuilles. Le lièvre, lui, emplit ses paniers de graines.
 genre: adulte/homme
 duree: 7510ms (estimée)
+texte_fuf: Nde hiine'en nganndi, ɓe mbaɗata leɗɗe. Ammaa kalluɗo boo o keewi ko'e maako bee leɗɗe.
+enregistre_fuf: lievre-hyene-arachide-fuf.m4a (7194ms)
+texte_mos: B sã n wa tigimdẽ, b ningda-a-la sebre. Kẽerã me pidsa b sebre ne bõn-buudu.
+enregistre_mos: lievre-hyene-arachide-mos.m4a (7338ms)
 
 piste: mil1
 histoire: Le lièvre et l'hyène
@@ -90,6 +122,10 @@ intonation: posé (proposée)
 texte: À la récolte, l'hyène emporte tous les épis. Le lièvre n'a que des racines à mâcher : il se promet d'être plus malin l'an prochain.
 genre: adulte/homme
 duree: 10400ms (estimée)
+texte_fuf: To ɓe nganndi, hiine ɗon njaɓɓa njaru fuu. Leppol ngal ina jogii ko fuɗɗitiri, o wi'i ɗum ɓeydaani nder hitaande naato.
+enregistre_fuf: lievre-hyene-mil1-fuf.m4a (9066ms)
+texte_mos: La sã n wa tigs-a, a rɩtda bõn-buudã fãa. Sẽn na n yɩlẽ t'a bãng a sẽn tõe n maan to-to wã, yaa tɩlɛ.
+enregistre_mos: lievre-hyene-mil1-mos.m4a (7402ms)
 
 piste: marche1
 histoire: Le lièvre et l'hyène
@@ -100,6 +136,10 @@ intonation: joyeux (proposée)
 texte: Au marché, on vend, on goûte, on se moque de tout le monde. Regarde ce qu'il y a sur les étals.
 genre: adulte/homme
 duree: 9030ms (estimée)
+texte_fuf: E nder fannu, eɗen nganndi yimɓe fuu. Ndaa ko woni nder kuuje.
+enregistre_fuf: lievre-hyene-marche1-fuf.m4a (4170ms)
+texte_mos: Zĩ-gũudã pʋgẽ, d koosda nebã, d yũuda b rɩɩbã, la d paoogd neba fãa. Ges-y bũmb nins b sẽn tarã.
+enregistre_mos: lievre-hyene-marche1-mos.m4a (7450ms)
 
 piste: marchande1
 histoire: Le lièvre et l'hyène
@@ -110,6 +150,10 @@ intonation: joyeux (proposée)
 texte: Lièvre, on dit que l'hyène te cherche partout et qu'elle n'est pas de bonne humeur.
 genre: adulte/femme
 duree: 6150ms (estimée)
+texte_fuf: Hooree, ɓe mbi'i hyenya ɗon ɗaɓɓita ma dow fuu, nden o walaa hakkiilo.
+enregistre_fuf: lievre-hyene-marchande1-fuf.m4a (6528ms)
+texte_mos: Zĩiga, b yeelame tɩ bu-zẽmbã baooda yãmb zĩig fãa la b pa tar sũ-noog ye.
+enregistre_mos: lievre-hyene-marchande1-mos.m4a (6976ms)
 
 piste: hyene3
 histoire: Le lièvre et l'hyène
@@ -120,6 +164,10 @@ intonation: moqueur (proposée)
 texte: Cette année, je prends le dessous ! Et ne t'avise pas de me tromper une seconde fois.
 genre: voix de conte/libre
 duree: 7210ms (estimée)
+texte_fuf: Nder hitaande nde'e, mi jaɓan dow! To' on ngi'aay yam waɗuki kalluɗum ɗiɗaɓo.
+enregistre_fuf: lievre-hyene-hyene3-fuf.m4a (5946ms)
+texte_mos: Yʋʋmd kãngã, mam na n dɩka bõonegã. La bɩ y ra sak n belg maam naoor a yiib-n-soabã ye.
+enregistre_mos: lievre-hyene-hyene3-mos.m4a (6698ms)
 
 piste: choix3
 histoire: Le lièvre et l'hyène
@@ -130,6 +178,10 @@ intonation: interrogatif (proposée)
 texte: Une nouvelle saison commence. Que sème le lièvre maintenant que l'hyène a choisi le dessous ?
 genre: adulte/homme
 duree: 6680ms (estimée)
+texte_fuf: Sahaa keso fuɗɗii. Ko honɗun woni ko ɓeydaama, jooni nde hiine yi'i dow?
+enregistre_fuf: lievre-hyene-choix3-fuf.m4a (5514ms)
+texte_mos: Tʋʋm-paal paalga sɩngame. Bõe la b maand masã, t'a reemã yãk a sẽn be tẽngrã?
+enregistre_mos: lievre-hyene-choix3-mos.m4a (6042ms)
 
 piste: mil2
 histoire: Le lièvre et l'hyène
@@ -140,6 +192,10 @@ intonation: joyeux (proposée)
 texte: L'hyène tire sur les tiges et ne trouve que des racines. Le lièvre, lui, bat ses épis en chantant.
 genre: adulte/homme
 duree: 8120ms (estimée)
+texte_fuf: Go'o ɗon ɗaɓɓa ko'e maago, ammaa o heɓata ko fuɗɗam. Ammaa ɓeydaari'en ɗon maɓɓana ko'e maɓɓe.
+enregistre_fuf: lievre-hyene-mil2-fuf.m4a (7626ms)
+texte_mos: Zĩ-kãnga sã n wẽed a tɩɩsã, a yãendame tɩ yẽgã bal n be. Kẽerã yɩɩlda a bõn-buudu.
+enregistre_mos: lievre-hyene-mil2-mos.m4a (8474ms)
 
 piste: arachide2
 histoire: Le lièvre et l'hyène
@@ -150,6 +206,10 @@ intonation: joyeux (proposée)
 texte: L'hyène déterre les arachides et mange enfin à sa faim. Pour la première fois, elle regarde le lièvre sans grogner.
 genre: adulte/homme
 duree: 8350ms (estimée)
+texte_fuf: Hyenne'en ɗon cembiɗina ɓesngu, ɓe ɗon nyaama haa ɓe njari. Ko ndeen o yi'i hayre nden, ɗum woni carel arande.
+enregistre_fuf: lievre-hyene-arachide2-fuf.m4a (8330ms)
+texte_mos: Zĩigã sã n dɩtẽ, a rɩt-a lame. Rẽ n so t'a sɩng n ges bõn-buudã ne a sũur fãa.
+enregistre_mos: lievre-hyene-arachide2-mos.m4a (7594ms)
 
 piste: nuit1
 histoire: Le lièvre et l'hyène
@@ -160,6 +220,10 @@ intonation: grave (proposée)
 texte: Un soir, sur le chemin du retour, deux yeux brillent dans le noir.
 genre: adulte/homme
 duree: 5540ms (estimée)
+texte_fuf: Wakkati go'o, nder laawol wayligo to wuro, gite ɗiɗi ɗon ɓenni nder nyiwre.
+enregistre_fuf: lievre-hyene-nuit1-fuf.m4a (5728ms)
+texte_mos: Daar a ye wĩntoogã, b sẽn wa n dabd tẽngã zugã, b nin-yendã ra yãgdame.
+enregistre_mos: lievre-hyene-nuit1-mos.m4a (7872ms)
 
 piste: hyene4
 histoire: Le lièvre et l'hyène
@@ -170,6 +234,10 @@ intonation: moqueur (proposée)
 texte: Tu es bien malin, paraît-il. Réponds à ma devinette, ou je te croque.
 genre: voix de conte/libre
 duree: 5840ms (estimée)
+texte_fuf: O wi'i a mari hakkillo masin. Jaabɓa ko mbiimi, malla mi hokkan ma.
+enregistre_fuf: lievre-hyene-hyene4-fuf.m4a (5626ms)
+texte_mos: B yetame tɩ yãmb yaa yam soaba. Bas-y n leok mam sogsgã, wall m na n kʋ yãmba.
+enregistre_mos: lievre-hyene-hyene4-mos.m4a (7834ms)
 
 piste: malice
 histoire: Le lièvre et l'hyène
@@ -180,6 +248,10 @@ intonation: posé (proposée)
 texte: L'hyène, vexée, s'en va en ricanant. Le lièvre rentre au village avec ses paniers, et on raconte ses tours à chaque veillée.
 genre: adulte/homme
 duree: 9410ms (estimée)
+texte_fuf: Ɗuum ɓeydaama, o dilli. Luttuɗo warti nder gariiri bee ceede maako, ɓe ɗon wi'a kuuje maako nder nyalawma.
+enregistre_fuf: lievre-hyene-malice-fuf.m4a (8842ms)
+texte_mos: A sẽn wa n yaa sũ-sãang soaba, a yiime. Zĩigã lebgda tẽn-tẽnga ne a gãosgo, la b togsd-a-la bũmb nins a sẽn maan wakat fãa.
+enregistre_mos: lievre-hyene-malice-mos.m4a (10970ms)
 
 piste: malice2
 histoire: Le lièvre et l'hyène
@@ -190,6 +262,10 @@ intonation: posé (proposée)
 texte: La force prend, la malice partage à sa façon : qui ne travaille pas ne choisit pas sa récolte.
 genre: adulte/homme
 duree: 7820ms (estimée)
+texte_fuf: Kooɗume ɓeydaama, kuuɗe kalluɗe e ko'e muuɗum. Mo huwtataako kuugal maako, o suɓataa ceedam maako.
+enregistre_fuf: lievre-hyene-malice2-fuf.m4a (7546ms)
+texte_mos: Ned sã n ka tʋmda, a pa yãend t'a bõn-buudã yaa sõma ye.
+enregistre_mos: lievre-hyene-malice2-mos.m4a (5008ms)
 
 piste: partage
 histoire: Le lièvre et l'hyène
@@ -200,6 +276,10 @@ intonation: amusé (proposée)
 texte: Hyène, ta force fait peur, mais elle ne fait pas pousser le mil. Prends une daba : celui qui travaille mange.
 genre: voix de conte/libre
 duree: 9030ms (estimée)
+texte_fuf: Hyenes, baawɗe maaɗa ɗon hulna ma, ammaa ɗe ngalaa ɓeydaaki. Njaɓee ko'e mon: gaɗoowo kuugal ɗon nyaama.
+enregistre_fuf: lievre-hyene-partage-fuf.m4a (7956ms)
+texte_mos: A Hyenes, fo pãng yaa rabeem soaba. Ned sã n tʋmdẽ, a rɩtame.
+enregistre_mos: lievre-hyene-partage-mos.m4a (4970ms)
 
 piste: partage2
 histoire: Le lièvre et l'hyène
@@ -210,6 +290,10 @@ intonation: posé (proposée)
 texte: On dit qu'ils cultivèrent côte à côte une saison entière. Une saison seulement, car une hyène reste une hyène, mais personne n'eut faim cette année-là.
 genre: adulte/homme
 duree: 10400ms (estimée)
+texte_fuf: Ɓe ɗon mbi'a ɓe ngaɗata bee maɓɓe nder sahaa fuu. Ɗum waɗata nder carel go'o, ngam goonɗinki woni goonɗinal goonɗi. Ammaa walaa mo weeloyi nder hitaande maajum.
+enregistre_fuf: lievre-hyene-partage2-fuf.m4a (12164ms)
+texte_mos: B yeelame tɩ b ra bʋtda ne taab wakat fãa. Yaa wakat a ye bala, tɩ sã n wa yaa buudu, b ket n yaa buuda. La yʋʋm kãng pʋgẽ, kom ka yõk ned baa a yembr ye.
+enregistre_mos: lievre-hyene-partage2-mos.m4a (13940ms)
 
 piste: fuite
 histoire: Le lièvre et l'hyène
@@ -220,6 +304,10 @@ intonation: grave (proposée)
 texte: Le lièvre n'attend pas la suite. Il bondit entre les pattes de l'hyène et disparaît dans le noir.
 genre: adulte/homme
 duree: 7440ms (estimée)
+texte_fuf: Wuro ɗon ɗaɓɓa ko'e maako. O ɓooydi hakkunde koyɗe go'o, o majjiti nder nyiwre.
+enregistre_fuf: lievre-hyene-fuite-fuf.m4a (6362ms)
+texte_mos: Sẽn na n yɩ to-to wã pa gũud ye. A kolgame n lʋɩ la a menem ne likã pʋgẽ.
+enregistre_mos: lievre-hyene-fuite-mos.m4a (5306ms)
 
 piste: fuite2
 histoire: Le lièvre et l'hyène
@@ -230,6 +318,10 @@ intonation: grave (proposée)
 texte: Il court encore, dit-on. Et depuis ce temps, le lièvre dort d'un œil.
 genre: adulte/homme
 duree: 5840ms (estimée)
+texte_fuf: Ɓe ɗon mbi'a o ɗon yaha. Diga saa'i maajum, rewo ɗon ɗaani bee gite maako goɗɗe.
+enregistre_fuf: lievre-hyene-fuite2-fuf.m4a (5930ms)
+texte_mos: B yetame t'a ket n zoetame. Sẽn sɩng ne wakat kãnga, gɩgemdã ra gãe n gõeeme.
+enregistre_mos: lievre-hyene-fuite2-mos.m4a (6266ms)
 
 piste: tamtam1
 histoire: Le lièvre et l'hyène
@@ -240,6 +332,10 @@ intonation: joyeux (proposée)
 texte: Les tam-tams du marché s'emballent. Si le lièvre suit le rythme, la foule dansera autour de lui, et l'hyène ne le trouvera pas tout de suite.
 genre: adulte/homme
 duree: 10780ms (estimée)
+texte_fuf: Fuuɗeeje nder kasu ɗon ɓeyda. To ɓeydaari ɗon waɗa ko o yiɗi, yimɓe ɓe'e fuu ɓe ngaɗoto bee maako, ammaa ɓeydiiri ɗon yi'a mo.
+enregistre_fuf: lievre-hyene-tamtam1-fuf.m4a (8730ms)
+texte_mos: B sẽn da maandã, b ra pa tõe n maan bũmb a to ye. La sã n yaa wa b sẽn wilgã, neb kʋʋngã na n yɩɩlame n gũbg-a lame, la a pa yãend-a ye.
+enregistre_mos: lievre-hyene-tamtam1-mos.m4a (12986ms)
 
 piste: tamtamOK
 histoire: Le lièvre et l'hyène
@@ -250,6 +346,10 @@ intonation: joyeux (proposée)
 texte: Le lièvre gagne un peu de temps. Mais l'hyène a du flair, et elle finit par le retrouver derrière un étal.
 genre: adulte/homme
 duree: 8730ms (estimée)
+texte_fuf: Hooreejo heɓata wakkati. Ammaa hyenna on ɗon maaro, nden kam o heɓan mo e ɓaawo le'i.
+enregistre_fuf: lievre-hyene-tamtamOK-fuf.m4a (7050ms)
+texte_mos: D sã n dat n bãngẽ, d tõe n paama sẽk wʋsgo. La a ra tara sũ-noogo, t'a baas n yãend-a lame.
+enregistre_mos: lievre-hyene-tamtamOK-mos.m4a (8298ms)
 
 piste: tamtamKO
 histoire: Le lièvre et l'hyène
@@ -260,3 +360,7 @@ intonation: joyeux (proposée)
 texte: Le lièvre reste seul au milieu de la place, bien en vue. L'hyène arrive droit sur lui.
 genre: adulte/homme
 duree: 7210ms (estimée)
+texte_fuf: Go'oto ɗon jooɗa bee hoore maako nder caka gariiri, haa o yi'i. Hyenne'en ɗon wara dow maako.
+enregistre_fuf: lievre-hyene-tamtamKO-fuf.m4a (7370ms)
+texte_mos: A bee zĩig ning b sẽn yã wã sʋka. Yãk-y n tool-y neda.
+enregistre_mos: lievre-hyene-tamtamKO-mos.m4a (5434ms)

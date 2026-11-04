@@ -10,6 +10,10 @@ intonation: posé (proposée)
 texte: Fin du dix-neuvième siècle. Dans un village gourounsi, la vie suit le rythme des saisons. Mais dans la brousse passent les cavaliers zarma de Babatou. Ils capturent des hommes pour les vendre.
 genre: adulte/homme
 duree: 13510ms (estimée)
+texte_dyu: Saan kɛmɛkulu 19nan laban na. Gurunsi dugumɔgɔw be ɲɛnamaya kɛ cogo nɔgɔman na. Nka, Babatou ka sotigiw be tɛmɛ yiritu kɔnɔ. U be cɛɛ dɔw minɛ k'u feere.
+enregistre_dyu: babatou-n1-dyu.m4a (12686ms)
+texte_fuf: Ɓaawo karnijum 19th Nder gariiri gooruusi, nguurndam ɗon tokkata wakkati. Ammaa nder le'i ɓe ɗon yahda bee kawritooɓe zarma Babatou. Ɓe njooɗoto worɓe ngam ɓe kuuwana ɓe.
+enregistre_fuf: babatou-n1-fuf.m4a (12868ms)
 
 piste: n2
 histoire: Face aux cavaliers de Babatou
@@ -20,6 +24,10 @@ intonation: posé (proposée)
 texte: Alors, chaque village apprend à veiller. Sur un toit, un guetteur ne quitte pas l'horizon.
 genre: adulte/homme
 duree: 6600ms (estimée)
+texte_dyu: O cogo la, dugumɔgɔw bɛɛ b'a ɲini k'u yɛrɛ kɔrɔsi. Ni mɔgɔ dɔ be boon sanfɛ, a tɛ bɔ kɛnɛ kan.
+enregistre_dyu: babatou-n2-dyu.m4a (8778ms)
+texte_fuf: Ngam maajum yimɓe saare fuu ɗon njanngina ngam ɓe njooɗoo. To goɗɗo ɗon dari dow suudu, mo ɗon laɓɓina yimɓe fuu.
+enregistre_fuf: babatou-n2-fuf.m4a (7914ms)
 
 piste: n3
 histoire: Face aux cavaliers de Babatou
@@ -30,6 +38,10 @@ intonation: vif (proposée)
 texte: La poussière ! Les cavaliers arrivent !
 genre: jeune/homme
 duree: 3260ms (estimée)
+texte_dyu: Fɛɛn buguri! Sotigiw be nana!
+enregistre_dyu: babatou-n3-dyu.m4a (3098ms)
+texte_fuf: Dammugal! Juŋŋgo'en ɗon wara!
+enregistre_fuf: babatou-n3-fuf.m4a (2826ms)
 
 piste: n4
 histoire: Face aux cavaliers de Babatou
@@ -40,6 +52,10 @@ intonation: posé (proposée)
 texte: Le tambour d'alerte doit résonner jusqu'aux champs. À toi.
 genre: adulte/homme
 duree: 4020ms (estimée)
+texte_dyu: N'a sɔrɔ u ka kan k'o fɔ yɔrɔ bɛɛ. O ye i ta ye.
+enregistre_dyu: babatou-n4-dyu.m4a (4410ms)
+texte_fuf: Ɗuum waawi ɓooyaade haa to fannu. Ngam maaɗa.
+enregistre_fuf: babatou-n4-fuf.m4a (4042ms)
 
 piste: n6
 histoire: Face aux cavaliers de Babatou
@@ -50,6 +66,10 @@ intonation: vif (proposée)
 texte: Personne ne fuit. Chacun à sa place !
 genre: âgé/homme
 duree: 3640ms (estimée)
+texte_dyu: Mɔgɔ si tɛ boli. Aw bɛɛ ka taga aw sigiyɔrɔw la!
+enregistre_dyu: babatou-n6-dyu.m4a (4282ms)
+texte_fuf: Walaa mo dartata. Koo moye to nokkuure muuɗum!
+enregistre_fuf: babatou-n6-fuf.m4a (3626ms)
 
 piste: n7
 histoire: Face aux cavaliers de Babatou
@@ -60,6 +80,10 @@ intonation: interrogatif (proposée)
 texte: Les femmes et les enfants se cachent dans les cases aux murs épais. Où te places-tu ?
 genre: adulte/homme
 duree: 7060ms (estimée)
+texte_dyu: Musow ni denmisɛnw b'u yɛrɛ dogo kogojanw kɔnɔ. I be taga yɔrɔ jumɛn?
+enregistre_dyu: babatou-n7-dyu.m4a (5274ms)
+texte_fuf: Debbo'en e sukaaɓe ɗon ɓoyma nder cuuɗi ɗi cembiɗɗi. Toonde a woni?
+enregistre_fuf: babatou-n7-fuf.m4a (6122ms)
 
 piste: fosses
 histoire: Face aux cavaliers de Babatou
@@ -70,6 +94,10 @@ intonation: posé (proposée)
 texte: Tu creuses, puis tu couvres la fosse de branches. Tu ne verras l'attaque que par le bruit.
 genre: adulte/homme
 duree: 7210ms (estimée)
+texte_dyu: I bɛ dinga sogi, ka yiriborow kɛ k'a datugu. O mankan dɔrɔn lo b'a to i be se k'o ye.
+enregistre_dyu: babatou-fosses-dyu.m4a (8026ms)
+texte_fuf: On ɗon maɓɓita, nden kam on ɗon maɓɓa bee leɗɗe. A yi'ay ɗum tan nder haajol.
+enregistre_fuf: babatou-fosses-fuf.m4a (6602ms)
 
 piste: toits
 histoire: Face aux cavaliers de Babatou
@@ -80,6 +108,10 @@ intonation: posé (proposée)
 texte: Tu prépares tes flèches. D'ici, on voit toute la brousse.
 genre: adulte/homme
 duree: 4550ms (estimée)
+texte_dyu: I ka biɲɛw labɛn. An be se ka yiritu bɛɛ ye yan.
+enregistre_dyu: babatou-toits-dyu.m4a (4154ms)
+texte_fuf: On ɗon ɗaɓɓita kaafahi mooɗon. Daga ɗo, a ɗon yi'a leɗɗe fuu.
+enregistre_fuf: babatou-toits-fuf.m4a (4762ms)
 
 piste: attaque
 histoire: Face aux cavaliers de Babatou
@@ -90,6 +122,10 @@ intonation: posé (proposée)
 texte: Les cavaliers chargent, certains de leur victoire. Mais les chevaux tombent dans les pièges, et depuis les toits, les flèches pleuvent. Les cavaliers font demi-tour.
 genre: adulte/homme
 duree: 10850ms (estimée)
+texte_dyu: Sotigi minw tun be yɛlɛnna so kan, olu y'u ka see sɔrɔ. Nka sow bɛ benna janw le ra, biɲɛw bɛ bɔ sanbonbaw kan ka na. Sotigiw be yɛlɛma.
+enregistre_dyu: babatou-attaque-dyu.m4a (12852ms)
+texte_fuf: Yimɓe ɗon njooɗii dow ko'e maɓɓe ɓe mbaɗi jaalorgal. Ammaa ko'e maɓɓe ɗon cembiɗina ɓe. Ko'e muuɗum'en ɗon wara dow saare. Yimɓe ɗon njooɗoto.
+enregistre_fuf: babatou-attaque-fuf.m4a (11566ms)
 
 piste: n8
 histoire: Face aux cavaliers de Babatou
@@ -100,6 +136,10 @@ intonation: interrogatif (proposée)
 texte: Le village a tenu. Ce soir-là, on chante la victoire. Mais les colonnes de captifs marchent toujours ailleurs. Quelle leçon en tire le chef ?
 genre: adulte/homme
 duree: 10850ms (estimée)
+texte_dyu: Dugumɔgɔw y'u jija. O loon sufɛ, an be to ka dɔnkili la ko an ye see sɔrɔ. Nka, kasodenw be tagara yɔrɔ wɛrɛ. Kuntigi be kalan juman lo sɔrɔ o la?
+enregistre_dyu: babatou-n8-dyu.m4a (12670ms)
+texte_fuf: Yimɓe nder gariiri ɗon njooɗi. Nder nyalnde nde'e, yimɓe ɗon mbi'a ɓe jaalortoo. Ammaa yimɓe ɓe njooɗiiɓe nder suudu mawndu ɗon ndilli haa nokkuure feere. Ko honɗun woni ko ardiiɗo jannginirta?
+enregistre_fuf: babatou-n8-fuf.m4a (15614ms)
 
 piste: seul
 histoire: Face aux cavaliers de Babatou
@@ -110,6 +150,10 @@ intonation: chuchoté (proposée)
 texte: Ce ne fut pas leur choix : les voisins ont compris la leçon, et ils se sont alliés. Seuls, ils sont des proies. Reprends cette veillée pour la vivre comme eux.
 genre: adulte/homme
 duree: 13130ms (estimée)
+texte_dyu: O ma kɛ u yɛrɛ ka desizɔn ye. U sigiɲɔgɔnw y'o faamu ani u jɛnna. N'u b'u kelen na, u tɛ se ka foyi sɔrɔ. N'i y'o kɛ, i be se k'a ɲini ka ɲɛnamaya kɛ cogo min na.
+enregistre_dyu: babatou-seul-dyu.m4a (12670ms)
+texte_fuf: Ɗum naa' ɗum suɓaali maɓɓe: ɓerɗe maayanko'en paama ko ɓe mbi'i, nden kam ɓe njokki. To ɓe goonɗinɓe tan, ɓe njogii. Ndaa no ɓe njooɗoto.
+enregistre_fuf: babatou-seul-fuf.m4a (9614ms)
 
 piste: unis
 histoire: Face aux cavaliers de Babatou
@@ -120,6 +164,10 @@ intonation: posé (proposée)
 texte: Les villages voisins comprennent la leçon. Ils échangent des messagers, et ils s'allient.
 genre: adulte/homme
 duree: 5690ms (estimée)
+texte_dyu: Dugumɔgɔw b'o faamu ka ɲɛ. O bɛ ciraden dɔw ci ɲɔgɔn ma, ka jɛn kɛ.
+enregistre_dyu: babatou-unis-dyu.m4a (5642ms)
+texte_fuf: Yimɓe gariiri ɓadake'en ɗon paama daliila maajum. Ɓe ɗon ceede, ɓe ɗon haɓana.
+enregistre_fuf: babatou-unis-fuf.m4a (5834ms)
 
 piste: n9
 histoire: Face aux cavaliers de Babatou
@@ -130,6 +178,10 @@ intonation: posé (proposée)
 texte: Aujourd'hui, on se souvient encore de cette résistance, et de ceux qu'on n'a pas pu sauver.
 genre: adulte/homme
 duree: 6680ms (estimée)
+texte_dyu: Hali bi, mɔgɔ caaman hakili b'o kɛlɛkow la ani minw ma se ka kisi.
+enregistre_dyu: babatou-n9-dyu.m4a (5392ms)
+texte_fuf: Hannde, yimɓe ɗon nji'a haɓre nden e yimɓe ɓe mbaawataa hisnaade.
+enregistre_fuf: babatou-n9-fuf.m4a (4352ms)
 
 piste: film-001
 histoire: Face aux cavaliers de Babatou
@@ -140,6 +192,8 @@ intonation: sobre (scénario)
 texte: Face aux cavaliers de Babatou. Un récit historique, simplifié pour l'image.
 genre: adulte/libre
 duree: 6200ms (mesurée sur le film)
+texte_dyu: N' tun b'a fɛ ka taga Babatou ka sotigiw kunbɛn. O ye tarikiko dɔ lo ye.
+texte_fuf: Duuɓi mawɓe Babatou. Ɗuum ko haala taariika, ɗum laaɓɓi ngam hollaago.
 
 piste: film-002
 histoire: Face aux cavaliers de Babatou
@@ -150,6 +204,8 @@ intonation: posé (proposée)
 texte: Fin du dix-neuvième siècle. Dans un village gourounsi, la vie suit le rythme des saisons.
 genre: adulte/libre
 duree: 6500ms (mesurée sur le film)
+texte_dyu: Saan kɛmɛkulu 19nan laban na. Gurunsi dugumɔgɔw be ɲɛnamaya kɛ cogo nɔgɔman na.
+texte_fuf: Ɓaawo karnijum 19th Nder gariiri gooruusi, nguurndam ɗon tokkata wakkati.
 
 piste: film-003
 histoire: Face aux cavaliers de Babatou
@@ -160,6 +216,8 @@ intonation: posé (proposée)
 texte: Mais dans la brousse, passent les cavaliers zarma de Babatou.
 genre: adulte/libre
 duree: 4200ms (mesurée sur le film)
+texte_dyu: Nka, Babatou ka sagadɛgɛw be tɛmɛ yiritu kɔnɔ.
+texte_fuf: Ammaa nder le'i, ɓe ɗon yahda bee konne'en zarma Babatou.
 
 piste: film-004
 histoire: Face aux cavaliers de Babatou
@@ -170,6 +228,8 @@ intonation: grave (scénario)
 texte: Ils capturent des hommes pour les vendre. Des colonnes de captifs marchent, encordés.
 genre: adulte/libre
 duree: 6200ms (mesurée sur le film)
+texte_dyu: U be cɛɛ dɔw minɛ k'u feere. Minw tun kɛra kasodenw ye, olugu ta berew bɛ tagama ka taga.
+texte_fuf: Ɓe njooɗoto worɓe ngam ɓe kuuwana ɓe. Yimɓe cappanon ɗon njaha, ɓe ngaɗata ko'e maɓɓe.
 
 piste: film-005
 histoire: Face aux cavaliers de Babatou
@@ -180,6 +240,8 @@ intonation: posé (proposée)
 texte: Alors, chaque village apprend à veiller. Sur un toit, un guetteur ne quitte pas l'horizon.
 genre: adulte/libre
 duree: 6500ms (mesurée sur le film)
+texte_dyu: O cogo la, dugumɔgɔw bɛɛ b'a ɲini k'u yɛrɛ kɔrɔsi. Ni mɔgɔ dɔ be boon sanfɛ, a tɛ bɔ kɛnɛ kan.
+texte_fuf: Ngam maajum yimɓe saare fuu ɗon njanngina ngam ɓe njooɗoo. To goɗɗo ɗon dari dow suudu, mo ɗon laɓɓina yimɓe fuu.
 
 piste: film-006
 histoire: Face aux cavaliers de Babatou
@@ -190,6 +252,8 @@ intonation: essoufflé (scénario)
 texte: La poussière ! Les cavaliers arrivent !
 genre: enfant/libre
 duree: 4400ms (mesurée sur le film)
+texte_dyu: Fɛɛn buguri! Sotigiw be nana!
+texte_fuf: Dammugal! Juŋŋgo'en ɗon wara!
 
 piste: film-007
 histoire: Face aux cavaliers de Babatou
@@ -200,6 +264,8 @@ intonation: posé (proposée)
 texte: Le tambour d'alerte résonne jusqu'aux champs.
 genre: adulte/libre
 duree: 3200ms (mesurée sur le film)
+texte_dyu: Lɔnnikɛbagaw ka fɔta sera kongowuruw ma.
+texte_fuf: Ɗuum ɓooyaama haa to fannu.
 
 piste: film-008
 histoire: Face aux cavaliers de Babatou
@@ -210,6 +276,8 @@ intonation: ferme (scénario)
 texte: Personne ne fuit. Chacun à sa place !
 genre: âgé/libre
 duree: 4100ms (mesurée sur le film)
+texte_dyu: Mɔgɔ si tɛ boli. Aw bɛɛ ka taga aw sigiyɔrɔw la!
+texte_fuf: Walaa mo dartata. Koo moye to nokkuure muuɗum!
 
 piste: film-009
 histoire: Face aux cavaliers de Babatou
@@ -220,6 +288,8 @@ intonation: posé (proposée)
 texte: Les femmes et les enfants se cachent dans les cases aux murs épais.
 genre: adulte/libre
 duree: 3800ms (mesurée sur le film)
+texte_dyu: Musow ni denmisɛnw b'u yɛrɛ dogo kogojanw kɔnɔ.
+texte_fuf: Debbo'en e sukaaɓe ɗon ɓoyma nder cuuɗi ɗi cembiɗɗi.
 
 piste: film-010
 histoire: Face aux cavaliers de Babatou
@@ -230,6 +300,8 @@ intonation: posé (proposée)
 texte: Les hommes creusent des fosses, puis ils les couvrent de branches.
 genre: adulte/libre
 duree: 4200ms (mesurée sur le film)
+texte_dyu: Mɔgɔw bɛ dingaw sogi, ka o datugu ni yiriborow ye.
+texte_fuf: Yimɓe ɗon kaɓɓaa ko'e, ɓe ɓooyataa ɗe bee lekki.
 
 piste: film-011
 histoire: Face aux cavaliers de Babatou
@@ -240,6 +312,8 @@ intonation: posé (proposée)
 texte: Les arcs et les flèches sont prêts.
 genre: adulte/libre
 duree: 2700ms (mesurée sur le film)
+texte_dyu: O la, kalanw ni biɲɛw labɛnnin lo.
+texte_fuf: Fuuje e figeere ɗon haɓɓaa.
 
 piste: film-012
 histoire: Face aux cavaliers de Babatou
@@ -250,6 +324,8 @@ intonation: tendu (scénario)
 texte: L'attaque arrive. Les cavaliers chargent, certains de leur victoire.
 genre: adulte/libre
 duree: 5800ms (mesurée sur le film)
+texte_dyu: Kɛlɛba be nana. Sotigi minw tun be yɛlɛnna so kan, olu y'u ka see sɔrɔ.
+texte_fuf: Hakkiilo ɗon wara. Yimɓe ɗon njooɗii dow ko'e maɓɓe ɓe mbaɗi jaalorgal.
 
 piste: film-013
 histoire: Face aux cavaliers de Babatou
@@ -260,6 +336,8 @@ intonation: posé (proposée)
 texte: Mais les chevaux tombent dans les pièges.
 genre: adulte/libre
 duree: 2800ms (mesurée sur le film)
+texte_dyu: Ayiwa, o bɛɛ n'a ta, sow bɛ benna janw le ra.
+texte_fuf: Ammaa ko'e koyɗe ɗe cembiɗaaki.
 
 piste: film-014
 histoire: Face aux cavaliers de Babatou
@@ -270,6 +348,8 @@ intonation: posé (proposée)
 texte: Depuis les toits, les flèches pleuvent.
 genre: adulte/libre
 duree: 3300ms (mesurée sur le film)
+texte_dyu: Sanbɛrɛw be benna ka bɔ boonw kɔnɔ.
+texte_fuf: Daga nder cuuɗi ɗeen, fuɗɗiima ƴeewugo.
 
 piste: film-015
 histoire: Face aux cavaliers de Babatou
@@ -280,6 +360,8 @@ intonation: ferme (scénario)
 texte: Les cavaliers font demi-tour. Le village a tenu.
 genre: adulte/libre
 duree: 4700ms (mesurée sur le film)
+texte_dyu: Sotigiw be yɛlɛma. Dugumɔgɔw y'u jija.
+texte_fuf: Yimɓe ɗon njooɗoto. Yimɓe nder gariiri ɗon njooɗi.
 
 piste: film-016
 histoire: Face aux cavaliers de Babatou
@@ -290,6 +372,8 @@ intonation: joyeux (scénario)
 texte: Ce soir-là, on chante la victoire.
 genre: adulte/libre
 duree: 3300ms (mesurée sur le film)
+texte_dyu: O loon sufɛ, an be to ka dɔnkili la ko an ye see sɔrɔ.
+texte_fuf: Nder nyalnde nde'e, yimɓe ɗon mbi'a ɓe jaalortoo.
 
 piste: film-017
 histoire: Face aux cavaliers de Babatou
@@ -300,6 +384,8 @@ intonation: posé (proposée)
 texte: Les villages voisins comprennent la leçon. Seuls, ils sont des proies. Unis, ils se défendent.
 genre: adulte/libre
 duree: 7900ms (mesurée sur le film)
+texte_dyu: Dugumɔgɔw b'o faamu ka ɲɛ. N'u b'u kelen na, u tɛ se ka foyi sɔrɔ. U ye ɲɔgɔn lajɛn k'u yɛrɛ tanga.
+texte_fuf: Yimɓe gariiri ɓadake'en ɗon paama daliila maajum. To ɓe goonɗinɓe tan, ɓe njogii. Ɓe njokki hoore maɓɓe.
 
 piste: film-018
 histoire: Face aux cavaliers de Babatou
@@ -310,6 +396,8 @@ intonation: posé (proposée)
 texte: Ils échangent des messagers, et ils s'allient.
 genre: adulte/libre
 duree: 3400ms (mesurée sur le film)
+texte_dyu: O bɛ ciraden dɔw ci ɲɔgɔn ma, ka jɛn kɛ.
+texte_fuf: Ɓe ɗon ceede, ɓe ɗon haɓana.
 
 piste: film-019
 histoire: Face aux cavaliers de Babatou
@@ -320,3 +408,5 @@ intonation: doux (scénario)
 texte: Aujourd'hui, on se souvient encore de cette résistance, et de ceux qu'on n'a pas pu sauver.
 genre: adulte/libre
 duree: 6000ms (mesurée sur le film)
+texte_dyu: Hali bi, mɔgɔ caaman hakili b'o kɛlɛkow la ani minw ma se ka kisi.
+texte_fuf: Hannde, yimɓe ɗon nji'a haɓre nden e yimɓe ɓe mbaawataa hisnaade.

@@ -10,6 +10,10 @@ intonation: posé (proposée)
 texte: À Obiré, dans le sud-ouest du Burkina, la royauté gan se transmet depuis des générations. Le vieux roi reçoit dans sa cour.
 genre: adulte/homme
 duree: 9260ms (estimée)
+texte_dyu: Obiré dugu la, Burkina Faso worodugu ni tileben fan fɛ. O kɔ, masacɛkɔrɔba ye mɔgɔw ladon a ka luu kɔnɔ.
+enregistre_dyu: obire-n1-dyu.m4a (8634ms)
+texte_fuf: Haa Obiré, nder worgo hirnaange Burkina, laamu gan ɗon haalde diga duuɓi. Laamiiɗo mawɗo jaɓii nder suudu muuɗum.
+enregistre_fuf: obire-n1-fuf.m4a (9082ms)
 
 piste: n2
 histoire: Le royaume gan d'Obiré
@@ -20,6 +24,10 @@ intonation: interrogatif (proposée)
 texte: Devant le roi, on s'agenouille. Comment se présente le visiteur ?
 genre: adulte/homme
 duree: 4930ms (estimée)
+texte_dyu: An b'an kunbiri gwan masacɛ kɔrɔ. Mɔgɔ min nana an ka soo, ale be cogo di?
+enregistre_dyu: obire-n2-dyu.m4a (5562ms)
+texte_fuf: E yeeso laamiiɗo, en ɗon njooɗi. Hol no boowo on ɗon wi'i?
+enregistre_fuf: obire-n2-fuf.m4a (4378ms)
 
 piste: debout
 histoire: Le royaume gan d'Obiré
@@ -30,6 +38,10 @@ intonation: posé (proposée)
 texte: Un murmure traverse la cour. Le visiteur comprend, et il s'agenouille comme les autres.
 genre: adulte/homme
 duree: 6070ms (estimée)
+texte_dyu: Kumakan dɔ bɔra luu kɔnɔ. Mɔgɔ min nana, ale b'a faamu ani a be kunbiri gwan i n'a fɔ mɔgɔ tɔɔw.
+enregistre_dyu: obire-debout-dyu.m4a (6906ms)
+texte_fuf: Ɗuum woni ko ɓe mbi'ata nder suudu. Mawɗo boo anndi, nden kam o kolli bana yimɓe goɗɗi.
+enregistre_fuf: obire-debout-fuf.m4a (6426ms)
 
 piste: genoux
 histoire: Le royaume gan d'Obiré
@@ -40,6 +52,10 @@ intonation: posé (proposée)
 texte: Puissant roi, nous t'apportons nos salutations.
 genre: âgé/homme
 duree: 2730ms (estimée)
+texte_dyu: Masacɛ, an b'i fo.
+enregistre_dyu: obire-genoux-dyu.m4a (1744ms)
+texte_fuf: Laamiiɗo mawɗo, min ɗon njaɓana'on barka.
+enregistre_fuf: obire-genoux-fuf.m4a (4256ms)
 
 piste: n3
 histoire: Le royaume gan d'Obiré
@@ -50,6 +66,10 @@ intonation: posé (proposée)
 texte: Soyez les bienvenus chez moi.
 genre: adulte/homme
 duree: 2200ms (estimée)
+texte_dyu: Aw ye na ne ka soo.
+enregistre_dyu: obire-n3-dyu.m4a (1712ms)
+texte_fuf: On njaaraama haa wuro am.
+enregistre_fuf: obire-n3-fuf.m4a (2064ms)
 
 piste: n4
 histoire: Le royaume gan d'Obiré
@@ -60,6 +80,10 @@ intonation: posé (proposée)
 texte: Mais le roi tousse. Il est fatigué, et tout le monde le voit. Un soir, la nouvelle tombe : le roi est mort.
 genre: adulte/homme
 duree: 10090ms (estimée)
+texte_dyu: Nka, masacɛ tun be kasira. A sɛgɛnnin lo ani mɔgɔ bɛɛ b'a ye. Loon dɔ sufɛ, kibaroya bɔra ko masacɛ sara.
+enregistre_dyu: obire-n4-dyu.m4a (10052ms)
+texte_fuf: Ammaa laamiiɗo ɗon nyaama. O marɗo, yimɓe fuu ɗon ndaara mo. Wakkati go'oto nder jemma, ɓe mbi'i: Laamiiɗo maayi.
+enregistre_fuf: obire-n4-fuf.m4a (9358ms)
 
 piste: n5
 histoire: Le royaume gan d'Obiré
@@ -70,6 +94,10 @@ intonation: posé (proposée)
 texte: Les tambours l'annoncent. Regarde celui qui porte la nouvelle.
 genre: adulte/homme
 duree: 4020ms (estimée)
+texte_dyu: Dɔnkiliw b'a fɔ an ye ko a bena kɛ ten. A filɛ, mɔgɔ min be kibaro diiman fɔra.
+enregistre_dyu: obire-n5-dyu.m4a (6810ms)
+texte_fuf: Ɗu'um ɗon anndina ɗum. Ndaa mo ɗon hokkata haala.
+enregistre_fuf: obire-n5-fuf.m4a (4154ms)
 
 piste: n7
 histoire: Le royaume gan d'Obiré
@@ -80,6 +108,10 @@ intonation: mystérieux (proposée)
 texte: Le cortège prend le chemin du bois, vers les tombeaux des rois.
 genre: adulte/homme
 duree: 5010ms (estimée)
+texte_dyu: O tagara ni o ye yiritu sira fɛ, ka taga masacɛw ta kaburuw yɔrɔ ra.
+enregistre_dyu: obire-n7-dyu.m4a (5392ms)
+texte_fuf: Yimɓe ɗon njaha laawol ngol yaasi leɗɗe, to yenaande laamiiɓe.
+enregistre_fuf: obire-n7-fuf.m4a (3760ms)
 
 piste: n8
 histoire: Le royaume gan d'Obiré
@@ -90,6 +122,10 @@ intonation: grave (proposée)
 texte: Ancêtres, un des vôtres vous rejoint.
 genre: âgé/homme
 duree: 2730ms (estimée)
+texte_dyu: Aw bɛmaw, aw dɔ nana ni aw ye.
+enregistre_dyu: obire-n8-dyu.m4a (2800ms)
+texte_fuf: Onon maama'en, go'oto nder mooɗon ɗon wondi bee mooɗon.
+enregistre_fuf: obire-n8-fuf.m4a (3536ms)
 
 piste: n9
 histoire: Le royaume gan d'Obiré
@@ -100,6 +136,10 @@ intonation: mystérieux (proposée)
 texte: Ici, les rois disparus veillent toujours sur leur peuple. Le conseil des anciens se réunit, les cauris sont jetés, et un prince est choisi. On le conduit à l'écart.
 genre: adulte/homme
 duree: 12370ms (estimée)
+texte_dyu: O yɔrɔ la, masacɛ minw tun halakira, olu bele b'u ka mɔgɔw kɔrɔsi. Cɛkɔrɔbaw ka ɲɔgɔnye kɛ; kiti tigɛra, kuntigi dɔ le ɲanawoloma. An be taga n'a ye yɔrɔjan.
+enregistre_dyu: obire-n9-dyu.m4a (13070ms)
+texte_fuf: Haa ɗo laamiiɓe ɓaawo'en ɗon ɗaɓɓita ummaatooje maɓɓe. Yimɓe mawɓe ɗon mooɓta jam, yimɓe ɓe'e ɗon maɓɓita, ngam a suɓa hooreejo. Eɗen njaara mo haa woɓɓe.
+enregistre_fuf: obire-n9-fuf.m4a (13172ms)
 
 piste: n10
 histoire: Le royaume gan d'Obiré
@@ -110,6 +150,10 @@ intonation: interrogatif (proposée)
 texte: Il est préparé en secret, loin des regards. Dois-je aller voir ?
 genre: enfant/libre
 duree: 5310ms (estimée)
+texte_dyu: A labɛnna dogo ra, mɔgɔ si tɛ se k'a ye. Yala ne ka kan k'a filɛ wa?
+enregistre_dyu: obire-n10-dyu.m4a (5562ms)
+texte_fuf: Ɗum waɗata nder ɓernde, haa yimɓe ndaaraayɗum. Wanaa mi ndaara ?
+enregistre_fuf: obire-n10-fuf.m4a (5594ms)
 
 piste: n11
 histoire: Le royaume gan d'Obiré
@@ -120,6 +164,10 @@ intonation: interrogatif (proposée)
 texte: Toi qui le demandes, que fais-tu ?
 genre: adulte/homme
 duree: 3110ms (estimée)
+texte_dyu: E min b'a fɛ k'o kɛ, i be mun lo kɛra?
+enregistre_dyu: obire-n11-dyu.m4a (2608ms)
+texte_fuf: Ko honɗun waɗata?
+enregistre_fuf: obire-n11-fuf.m4a (1536ms)
 
 piste: regard
 histoire: Le royaume gan d'Obiré
@@ -130,6 +178,10 @@ intonation: grave (proposée)
 texte: Ce qui se fait là-bas n'est pas pour tes yeux, ni pour ce récit. Rentre chez toi. Tu ne verras pas le jour de l'intronisation depuis la cour.
 genre: âgé/homme
 duree: 11690ms (estimée)
+texte_dyu: Koo minw be kɛra o yɔrɔ la, o tɛ ele yɛrɛ ɲɛɛ kɔrɔ. I ka taga soo. O lon na, i tɛna a ye k'a kɛ masacɛ ye ka bɔ masaso kɔnɔ.
+enregistre_dyu: obire-regard-dyu.m4a (10948ms)
+texte_fuf: Ko waɗata ton naa' ngam gite maaɗa, koo ngam haala maajum. Wota wuro maaɗa. On ngi'ay nyalnde laamiiɗo daga nder suudu.
+enregistre_fuf: obire-regard-fuf.m4a (9412ms)
 
 piste: attend
 histoire: Le royaume gan d'Obiré
@@ -140,6 +192,10 @@ intonation: posé (proposée)
 texte: Le jour de l'intronisation arrive. Le parasol royal s'ouvre au-dessus du nouveau roi. Les tambours et les danses disent au pays que la chaîne n'est pas rompue.
 genre: adulte/homme
 duree: 11160ms (estimée)
+texte_dyu: A ka masaya loon be surunyana. Masacɛ ka dùgu be yɛlɛ masacɛ kura kun na. Bamananw ni dɔnkiliw b'a yira jamana mɔgɔw la ko sirada tɛ tiɲɛna.
+enregistre_dyu: obire-attend-dyu.m4a (11476ms)
+texte_fuf: Nyalnde laamiiɗo ɗon wara. Laamu laamiiɗo ɗon maɓɓito dow laamu kesum. Yimɓe nder leydi ndin ɗon mbi'a bee dokke e nyaamdu ɗi ɓe ngalaa.
+enregistre_fuf: obire-attend-fuf.m4a (10276ms)
 
 piste: n12
 histoire: Le royaume gan d'Obiré
@@ -150,6 +206,10 @@ intonation: posé (proposée)
 texte: Aujourd'hui encore, la royauté gan continue à Obiré. Un royaume survit à ses rois par les règles de leur succession.
 genre: adulte/homme
 duree: 8350ms (estimée)
+texte_dyu: Hali bi, ganw ka masaya be to Obiré. Ni masacɛ dɔ sigira masaya ra, a ka kan k'a ta masaya sabati.
+enregistre_dyu: obire-n12-dyu.m4a (7642ms)
+texte_fuf: Haa hande, laamu gan ɗon tokki Obiré. Laamu ɗon ɓeyda laamiiɓe maako ngam umrooje maɓɓe.
+enregistre_fuf: obire-n12-fuf.m4a (6714ms)
 
 piste: film-001
 histoire: Le royaume gan d'Obiré
@@ -160,6 +220,8 @@ intonation: sobre (scénario)
 texte: Le royaume gan d'Obiré. Un récit historique, simplifié pour l'image.
 genre: adulte/libre
 duree: 6000ms (mesurée sur le film)
+texte_dyu: Obirée ka masaya tun ye min ye. O ye tarikiko dɔ lo ye.
+texte_fuf: Laamu gande Obiré. Ɗuum ko haala taariika, ɗum laaɓɓi ngam hollaago.
 
 piste: film-002
 histoire: Le royaume gan d'Obiré
@@ -170,6 +232,8 @@ intonation: posé (proposée)
 texte: À Obiré, dans le sud-ouest du Burkina, la royauté gan se transmet depuis des générations.
 genre: adulte/libre
 duree: 6400ms (mesurée sur le film)
+texte_dyu: Obiré dugu la, Burkina Faso worodugu ni tileben fan fɛ.
+texte_fuf: Haa Obiré, nder worgo hirnaange Burkina, laamu gan ɗon haalde diga duuɓi.
 
 piste: film-003
 histoire: Le royaume gan d'Obiré
@@ -180,6 +244,8 @@ intonation: posé (proposée)
 texte: Le vieux roi reçoit dans sa cour. On s'agenouille devant lui.
 genre: adulte/libre
 duree: 5000ms (mesurée sur le film)
+texte_dyu: O kɔ, masacɛkɔrɔba ye mɔgɔw ladon a ka luu kɔnɔ. An b'an kunbiri gwan a kɔrɔ.
+texte_fuf: Laamiiɗo mawɗo jaɓii nder suudu muuɗum. En njooɗi yeeso maako.
 
 piste: film-004
 histoire: Le royaume gan d'Obiré
@@ -190,6 +256,8 @@ intonation: respectueux (scénario)
 texte: Puissant roi, nous t'apportons nos salutations.
 genre: adulte/homme
 duree: 3200ms (mesurée sur le film)
+texte_dyu: Masacɛ, an b'i fo.
+texte_fuf: Laamiiɗo mawɗo, min ɗon njaɓana'on barka.
 
 piste: film-005
 histoire: Le royaume gan d'Obiré
@@ -200,6 +268,8 @@ intonation: voix fatiguée (scénario)
 texte: Soyez les bienvenus chez moi.
 genre: âgé/libre
 duree: 2600ms (mesurée sur le film)
+texte_dyu: Aw ye na ne ka soo.
+texte_fuf: On njaaraama haa wuro am.
 
 piste: film-006
 histoire: Le royaume gan d'Obiré
@@ -210,6 +280,8 @@ intonation: grave (scénario)
 texte: Mais le roi tousse. Il est fatigué, et tout le monde le voit.
 genre: adulte/libre
 duree: 5200ms (mesurée sur le film)
+texte_dyu: Nka, masacɛ tun be kasira. A sɛgɛnnin lo ani mɔgɔ bɛɛ b'a ye.
+texte_fuf: Ammaa laamiiɗo ɗon nyaama. O marɗo, yimɓe fuu ɗon ndaara mo.
 
 piste: film-007
 histoire: Le royaume gan d'Obiré
@@ -220,6 +292,8 @@ intonation: grave (scénario)
 texte: Un soir, la nouvelle tombe : le roi est mort.
 genre: adulte/libre
 duree: 3900ms (mesurée sur le film)
+texte_dyu: Loon dɔ sufɛ, kibaroya bɔra ko masacɛ sara.
+texte_fuf: Wakkati go'oto nder jemma, ɓe mbi'i: Laamiiɗo maayi.
 
 piste: film-008
 histoire: Le royaume gan d'Obiré
@@ -230,6 +304,8 @@ intonation: posé (proposée)
 texte: Les tambours l'annoncent, et le pays entre en deuil.
 genre: adulte/libre
 duree: 3800ms (mesurée sur le film)
+texte_dyu: Burufiyɛkanw bɛ o kibaroya lase mɔgɔw ma, jamana bɛɛ bɛ kasira.
+texte_fuf: Yimɓe ɗon mbi'a ɗum nder ɓooyi, yimɓe boo ɗon kawndi.
 
 piste: film-009
 histoire: Le royaume gan d'Obiré
@@ -240,6 +316,8 @@ intonation: recueilli (scénario)
 texte: Le cortège prend le chemin du bois, vers les tombeaux des rois.
 genre: adulte/libre
 duree: 4500ms (mesurée sur le film)
+texte_dyu: O tagara ni o ye yiritu sira fɛ, ka taga masacɛw ta kaburuw yɔrɔ ra.
+texte_fuf: Yimɓe ɗon njaha laawol ngol yaasi leɗɗe, to yenaande laamiiɓe.
 
 piste: film-010
 histoire: Le royaume gan d'Obiré
@@ -250,6 +328,8 @@ intonation: recueilli (scénario)
 texte: Ancêtres, un des vôtres vous rejoint.
 genre: âgé/libre
 duree: 3200ms (mesurée sur le film)
+texte_dyu: Aw bɛmaw, aw dɔ nana ni aw ye.
+texte_fuf: Onon maama'en, go'oto nder mooɗon ɗon wondi bee mooɗon.
 
 piste: film-011
 histoire: Le royaume gan d'Obiré
@@ -260,6 +340,8 @@ intonation: posé (proposée)
 texte: Ici, les rois disparus veillent toujours sur leur peuple.
 genre: adulte/libre
 duree: 4100ms (mesurée sur le film)
+texte_dyu: O yɔrɔ la, masacɛ minw tun halakira, olu bele b'u ka mɔgɔw kɔrɔsi.
+texte_fuf: Haa ɗo laamiiɓe ɓaawo'en ɗon ɗaɓɓita ummaatooje maɓɓe.
 
 piste: film-012
 histoire: Le royaume gan d'Obiré
@@ -270,6 +352,8 @@ intonation: posé (proposée)
 texte: Le trône ne reste pas vide. Le conseil des anciens se réunit.
 genre: adulte/libre
 duree: 5300ms (mesurée sur le film)
+texte_dyu: Masacɛ ka masasigilan tɛ to k'a yɔrɔlakolon ye. Diinan mɔgɔkɔrɔw ka jɛnkulu be ɲɔgɔn lajɛn.
+texte_fuf: Laamiiɗo ɗon jooɗoto. Kawtal mawɓe ɗon kawta.
 
 piste: film-013
 histoire: Le royaume gan d'Obiré
@@ -280,6 +364,8 @@ intonation: posé (proposée)
 texte: Les cauris sont jetés. Les princes attendent. Qui sera le nouveau roi ?
 genre: adulte/libre
 duree: 6300ms (mesurée sur le film)
+texte_dyu: O kɔ, u y'u ka misiw fili. Masacɛw b'u kɔnɔna. Jɔn lo bena kɛ masacɛ kura ye?
+texte_fuf: Ɗuum woni ko'e maɓɓe. Yimɓe ardiiɓe ɗon ndarii. Moye laamiiɗo keso?
 
 piste: film-014
 histoire: Le royaume gan d'Obiré
@@ -290,6 +376,8 @@ intonation: posé (proposée)
 texte: Un prince est choisi.
 genre: adulte/libre
 duree: 2200ms (mesurée sur le film)
+texte_dyu: Masacɛ dɔ woloma.
+texte_fuf: Gooto laamiiɗo suɓii.
 
 piste: film-015
 histoire: Le royaume gan d'Obiré
@@ -300,6 +388,8 @@ intonation: chuchoté (scénario)
 texte: On le conduit à l'écart. Le futur roi est préparé en secret, loin des regards.
 genre: adulte/libre
 duree: 6800ms (mesurée sur le film)
+texte_dyu: An be taga n'a ye yɔrɔjan. Masacɛ nata labɛnna dogo la, mɔgɔ si tɛ se k'a ye.
+texte_fuf: Eɗen njaara mo haa woɓɓe. Laamiiɗo mo'o warata ɗon nyiɓɓa nder ɓernde, haa yimɓe ndaarataa.
 
 piste: film-016
 histoire: Le royaume gan d'Obiré
@@ -310,6 +400,8 @@ intonation: mystérieux (scénario)
 texte: Dans la nuit du bois, on dit que les ancêtres viennent à sa rencontre.
 genre: adulte/libre
 duree: 4500ms (mesurée sur le film)
+texte_dyu: O kɔ, u y'a fɔ ko o sufɛ, an bɛmacɛw nana a kunbɛn.
+texte_fuf: Nder jemma nder lekki, yimɓe ɗon mbi'a maama'en njahi to maako.
 
 piste: film-017
 histoire: Le royaume gan d'Obiré
@@ -320,6 +412,8 @@ intonation: joyeux (scénario)
 texte: Le jour de l'intronisation arrive. Le parasol royal s'ouvre au-dessus du nouveau roi.
 genre: adulte/libre
 duree: 6300ms (mesurée sur le film)
+texte_dyu: A ka masaya loon be surunyana. Masacɛ ka dùgu be yɛlɛ masacɛ kura kun na.
+texte_fuf: Nyalnde laamiiɗo ɗon wara. Laamu laamiiɗo ɗon maɓɓito dow laamu kesum.
 
 piste: film-018
 histoire: Le royaume gan d'Obiré
@@ -330,6 +424,8 @@ intonation: joyeux (scénario)
 texte: Les tambours et les danses disent au pays que la chaîne n'est pas rompue.
 genre: adulte/libre
 duree: 4000ms (mesurée sur le film)
+texte_dyu: Bamananw ni dɔnkiliw b'a yira jamana mɔgɔw la ko sirada tɛ tiɲɛna.
+texte_fuf: Yimɓe nder leydi ndin ɗon mbi'a bee dokke e nyaamdu ɗi ɓe ngalaa.
 
 piste: film-019
 histoire: Le royaume gan d'Obiré
@@ -340,3 +436,5 @@ intonation: doux (scénario)
 texte: Aujourd'hui encore, la royauté gan continue à Obiré.
 genre: adulte/libre
 duree: 4400ms (mesurée sur le film)
+texte_dyu: Hali bi, ganw ka masaya be to Obiré.
+texte_fuf: Haa hande, laamu gan ɗon tokki Obiré.

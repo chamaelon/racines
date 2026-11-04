@@ -16,6 +16,14 @@
     "en": {
      "texte": "The Legend of Yennenga",
      "relecture": "traduction de travail, à relire"
+    },
+    "fuf": {
+     "texte": "Legenda Yennenga",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Yennenga kibarã",
+     "relecture": "traduction automatique, non relue"
     }
    }
   },
@@ -28,6 +36,14 @@
     "en": {
      "texte": "A griot tells you the story of the warrior princess of Gambaga. Your choices change the tale. Click the glowing objects to discover the culture of the land.",
      "relecture": "traduction de travail, à relire"
+    },
+    "fuf": {
+     "texte": "Gooto ɗon wi'a on haala gooduɗo konu nder Gambaga. Hakkiilooji mon wayli haala. Njaɓu dow kuuje ɗe cembiɗanta ngam anndugo kiindi leydi.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Kibs-gʋlsd n togsd Gambaga rĩm-poakã kibarã. Fo sẽn yãk yam n na n maan bũmb ningã toeemda yɛlã. Yãk-y bũmb nins sẽn yãgdẽ wã tɩ y bãng b buud ning b sẽn boond tɩ terroirã.",
+     "relecture": "traduction automatique, non relue"
     }
    }
   },
@@ -40,6 +56,12 @@
     "en": {
      "texte": "The griot",
      "relecture": "traduction de travail, à relire"
+    },
+    "fuf": {
+     "texte": "Le griot"
+    },
+    "mos": {
+     "texte": "Le griot"
     }
    }
   },
@@ -52,6 +74,12 @@
     "en": {
      "texte": "Naaba Nedega",
      "relecture": "traduction de travail, à relire"
+    },
+    "fuf": {
+     "texte": "Naaba Nédega"
+    },
+    "mos": {
+     "texte": "Naaba Nédega"
     }
    }
   },
@@ -64,6 +92,12 @@
     "en": {
      "texte": "Yennenga",
      "relecture": "traduction de travail, à relire"
+    },
+    "fuf": {
+     "texte": "Yennenga"
+    },
+    "mos": {
+     "texte": "Yennenga"
     }
    }
   },
@@ -76,6 +110,12 @@
     "en": {
      "texte": "Riale",
      "relecture": "traduction de travail, à relire"
+    },
+    "fuf": {
+     "texte": "Rialé"
+    },
+    "mos": {
+     "texte": "Rialé"
     }
    }
   },
@@ -88,6 +128,12 @@
     "en": {
      "texte": "Ouedraogo",
      "relecture": "traduction de travail, à relire"
+    },
+    "fuf": {
+     "texte": "Ouédraogo"
+    },
+    "mos": {
+     "texte": "Ouédraogo"
     }
    }
   },
@@ -100,6 +146,14 @@
     "en": {
      "texte": "The true ending: Ouedraogo, ancestor of the Mossi",
      "relecture": "traduction de travail, à relire"
+    },
+    "fuf": {
+     "texte": "Hakkiilo goonga: Ouédraogo, ardiiɗo Mossi",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "A Ouédraogo, sẽn yaa Mozi rãmbã yaabã",
+     "relecture": "traduction automatique, non relue"
     }
    }
   },
@@ -112,6 +166,14 @@
     "en": {
      "texte": "The ending told late at night: Yennenga stays in Gambaga",
      "relecture": "traduction de travail, à relire"
+    },
+    "fuf": {
+     "texte": "Hakkiilo ko wi'i ɗum laatoto jemma: Yennenga jooɗi Gambaga",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Yennenga ket n bee Gambaga",
+     "relecture": "traduction automatique, non relue"
     }
    }
   },
@@ -133,6 +195,20 @@
      "texte": "Come closer, child, and listen well. What I am about to tell you, my father told me, and his father told him before that.",
      "relecture": "traduction de travail, à relire",
      "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Ɓiɗɗo am, ɓadake, nana. Ko mbi'aymi to maaɗa, baaba am wi'i yam. Baabiraawo maako boo o wi'ii mo ɗum yeeso maako.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9572,
+     "fichier": "yennenga-intro-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Kom-biiga, bɩ f kolg n kelge. Bũmb ning mam sẽn na n togs yãmbã, m ba wã wilga maam la a ba wã wilg-a lame.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 12794,
+     "fichier": "yennenga-intro-mos.m4a"
     }
    }
   },
@@ -154,6 +230,20 @@
      "texte": "Long ago, in Gambaga, in the Dagomba kingdom, reigned Naaba Nedega. His daughter Yennenga rode better than any of his warriors.",
      "relecture": "traduction de travail, à relire",
      "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Nder Gambaga nder laamorde dagomba, Naaba Negega laamani diga na'i. Ɓiɗɗo maako Yennenga ɗon yahda dow le'i ɓurɓe mo konu fuu.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8698,
+     "fichier": "yennenga-intro2-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Yʋʋm wʋsg sẽn looge, Gambaga, Dagomba soolmẽ wã, Naaba Nédega naam da beeme. A bi-pugl a ye, a Yennenga ra zaooda soaal n yɩɩd a sodaasã fãa.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 12618,
+     "fichier": "yennenga-intro2-mos.m4a"
     }
    }
   },
@@ -175,6 +265,20 @@
      "texte": "Look around you. Click the glowing objects to discover them.",
      "relecture": "traduction de travail, à relire",
      "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Ndaaree ko'e mon. Ɗoɗee dow kuuje ɗe cembiɗɗi ngam heɓugo ɗi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5034,
+     "fichier": "yennenga-explore1-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Ges-y y sẽn gũbg yãmbã. Sõng-y bũmb nins sẽn yãgdã n bãng-b.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4634,
+     "fichier": "yennenga-explore1-mos.m4a"
     }
    }
   },
@@ -196,6 +300,20 @@
      "texte": "Yennenga! Another victory. Without you, our enemies would already be at our gates.",
      "relecture": "traduction de travail, à relire",
      "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Yennenga ! Goɗɗum feere. To on walaa, konne'en meeɗen ɓe ɗon wondi haa dammuɗe amin.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7988,
+     "fichier": "yennenga-nedega1-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Yennenga! Rẽ n so tɩ d tõog-a lame. Yãmb sã n da ka be, tõnd bɛɛbã ra na n bee d zakẽ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7860,
+     "fichier": "yennenga-nedega1-mos.m4a"
     }
    }
   },
@@ -217,6 +335,20 @@
      "texte": "Father, I have fought for you since I was a child. Today I would like a husband and a home.",
      "relecture": "traduction de travail, à relire",
      "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Baabiraawo, mi ɗon haɓana ngam maaɗa diga ɓikkoy am. Hannde mi yiɗi gorko e saare.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6410,
+     "fichier": "yennenga-yen1-fuf.m4a"
+    },
+    "mos": {
+     "texte": "M ba, m zoe n zabda f yĩnga hal m yãadem wakate. Rũndã-rũndã, mam dat n paama sɩd la m zakã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8618,
+     "fichier": "yennenga-yen1-mos.m4a"
     }
    }
   },
@@ -238,6 +370,20 @@
      "texte": "A husband? Never. My best warrior stays by my side.",
      "relecture": "traduction de travail, à relire",
      "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Goɗɗo gorko? Walaa. Sooreejo am ɓurɗo wooɗugo ɗon wondi bee am.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5764,
+     "fichier": "yennenga-nedega2-fuf.m4a"
+    },
+    "mos": {
+     "texte": "A sɩdã? D pa tõe n maan woto ye. Mam sõdga sẽn yaa sõma n yɩɩd fãa wã ket n bee ne maam.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6484,
+     "fichier": "yennenga-nedega2-mos.m4a"
     }
    }
   },
@@ -259,6 +405,20 @@
      "texte": "What should Yennenga do?",
      "relecture": "traduction de travail, à relire",
      "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Ko honɗun Yennenga waɗata?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 1984,
+     "fichier": "yennenga-choix1-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Bõe la a Yennenga segd n maane?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2144,
+     "fichier": "yennenga-choix1-mos.m4a"
     }
    }
   },
@@ -271,6 +431,14 @@
     "en": {
      "texte": "Sow a field of okra and let it wither",
      "relecture": "traduction de travail, à relire"
+    },
+    "fuf": {
+     "texte": "Fuuɗugo daande okra nden tuugugo",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "D sã n bʋd okra pʋʋgẽ la d bas-a t'a wãbge",
+     "relecture": "traduction automatique, non relue"
     }
    }
   },
@@ -283,6 +451,14 @@
     "en": {
      "texte": "okra field",
      "relecture": "traduction de travail, à relire"
+    },
+    "fuf": {
+     "texte": "fannu okira",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "okra pʋga",
+     "relecture": "traduction automatique, non relue"
     }
    }
   },
@@ -295,6 +471,14 @@
     "en": {
      "texte": "Say nothing and go back to battle",
      "relecture": "traduction de travail, à relire"
+    },
+    "fuf": {
+     "texte": "Njaŋge e haɓre",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "B sĩndame n lebg n kẽng zabrã pʋgẽ",
+     "relecture": "traduction automatique, non relue"
     }
    }
   },
@@ -307,6 +491,14 @@
     "en": {
      "texte": "silence",
      "relecture": "traduction de travail, à relire"
+    },
+    "fuf": {
+     "texte": "ɓeynguure",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "sĩndg",
+     "relecture": "traduction automatique, non relue"
     }
    }
   },
@@ -328,6 +520,20 @@
      "texte": "Yennenga sows a field of okra. When the pods ripen she does not pick them: they dry on the stalk.",
      "relecture": "traduction de travail, à relire",
      "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Yennenga sowi gese okira. Ammaa to ɗi nyaami, ɗi ngaɗataa. Ɗu'um ɓadake.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6276,
+     "fichier": "yennenga-gombo-fuf.m4a"
+    },
+    "mos": {
+     "texte": "A Yennenga bʋta okra pʋʋgẽ. La a sã n bɩ, a ka tigim ye. A kʋɩɩsda a nao wã zugu.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6836,
+     "fichier": "yennenga-gombo-mos.m4a"
     }
    }
   },
@@ -349,6 +555,20 @@
      "texte": "Why do you let this field rot, my daughter?",
      "relecture": "traduction de travail, à relire",
      "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Ngam ɗume a acci ngesa ma'a, ɓiɗɗo am?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2528,
+     "fichier": "yennenga-gombo2-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Bõe yĩng tɩ f bas tɩ pʋʋgã sãam, m bi-pugl?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3584,
+     "fichier": "yennenga-gombo2-mos.m4a"
     }
    }
   },
@@ -370,6 +590,20 @@
      "texte": "Like this okra, father, I am withering without having borne fruit.",
      "relecture": "traduction de travail, à relire",
      "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Bana gombooje ɗe'e, baaba am, mi ɗon nyaama hoore am, ammaa walaa ko maayi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5856,
+     "fichier": "yennenga-gombo3-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Wa gom-kãensã, m ba, mam sãamda m meng n pa womd biis ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4256,
+     "fichier": "yennenga-gombo3-mos.m4a"
     }
    }
   },
@@ -391,6 +625,20 @@
      "texte": "Yennenga says nothing. The seasons pass, and the battles too, but her heart stays heavy.",
      "relecture": "traduction de travail, à relire",
      "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Yennenga ɗon suuɗa. Wakkati ɓeydi e konu, ammaa ɓerɗe maako ɗon cembiɗina.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7706,
+     "fichier": "yennenga-silence-fuf.m4a"
+    },
+    "mos": {
+     "texte": "A Yennenga sĩndame. Wakatã loogdame, zabrã me loogdame. La a sũurã ket n yaa toog ne-a.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8148,
+     "fichier": "yennenga-silence-mos.m4a"
     }
    }
   },
@@ -412,6 +660,20 @@
      "texte": "I understand your message, my daughter. But my answer does not change.",
      "relecture": "traduction de travail, à relire",
      "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Mi faami ko mbi'oton, ɓiɗɗo am. Ammaa jaabooji am ɗon waylita.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5946,
+     "fichier": "yennenga-refusA-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Mam wʋmda yãmb koɛɛgã võore, m bi-pugli. La mam leokrã pa toeem ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6106,
+     "fichier": "yennenga-refusA-mos.m4a"
     }
    }
   },
@@ -433,6 +695,20 @@
      "texte": "You seem sad, my daughter. But the war needs you.",
      "relecture": "traduction de travail, à relire",
      "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "A ɗon yi'a ɓernde, ɓiɗɗo am. Ammaa konu ɗon yiɗi ma.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4394,
+     "fichier": "yennenga-refusB-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Yãmb wẽnda sũ-sãanga, m bi-pugli. La zabrã baoodame tɩ y sõng-a.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6106,
+     "fichier": "yennenga-refusB-mos.m4a"
     }
    }
   },
@@ -454,6 +730,20 @@
      "texte": "That night, Yennenga does not sleep. Her stallion paws the ground in its pen.",
      "relecture": "traduction de travail, à relire",
      "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Nder jemma maajum, Yennenga ɗon ɗaana. Fooɗeeje maako ɗon ɓilla nder suudu.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6138,
+     "fichier": "yennenga-nuit1-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Zĩ-kãng yʋngo, a Yennenga ra pa gõe ye. A sã n wa beẽ wã, a na n yɩɩg-a lame.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7642,
+     "fichier": "yennenga-nuit1-mos.m4a"
     }
    }
   },
@@ -475,6 +765,20 @@
      "texte": "Leave or stay?",
      "relecture": "traduction de travail, à relire",
      "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Mi dilli walla mi jooɗoto?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2064,
+     "fichier": "yennenga-choix2-fuf.m4a"
+    },
+    "mos": {
+     "texte": "D na n kẽnga bɩ d ketame?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 1696,
+     "fichier": "yennenga-choix2-mos.m4a"
     }
    }
   },
@@ -487,6 +791,14 @@
     "en": {
      "texte": "Flee on her stallion, disguised as a man",
      "relecture": "traduction de travail, à relire"
+    },
+    "fuf": {
+     "texte": "O wurtina dow le'i maako, o ɓorni hoore maako bana neɗɗo",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "A zoe n zaoog a wedga, n yeelg-a t'a yaa rao",
+     "relecture": "traduction automatique, non relue"
     }
    }
   },
@@ -499,6 +811,14 @@
     "en": {
      "texte": "escape",
      "relecture": "traduction de travail, à relire"
+    },
+    "fuf": {
+     "texte": "fuɗugo",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "sã n zoe",
+     "relecture": "traduction automatique, non relue"
     }
    }
   },
@@ -511,6 +831,14 @@
     "en": {
      "texte": "Stay, out of loyalty to her father",
      "relecture": "traduction de travail, à relire"
+    },
+    "fuf": {
+     "texte": "O jooɗii ngam o goonɗinaama baaba maako",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "A sẽn kell n tall kɩs-sɩd ne a ba wã",
+     "relecture": "traduction automatique, non relue"
     }
    }
   },
@@ -523,6 +851,14 @@
     "en": {
      "texte": "stays",
      "relecture": "traduction de travail, à relire"
+    },
+    "fuf": {
+     "texte": "jooɗoto",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "be ye",
+     "relecture": "traduction automatique, non relue"
     }
    }
   },
@@ -544,6 +880,20 @@
      "texte": "Yennenga stays. She becomes the greatest warrior Gambaga has ever known…",
      "relecture": "traduction de travail, à relire",
      "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Yennenga jooɗoto. O laatoto konu ɓurɗo Gambaga annde...",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4458,
+     "fichier": "yennenga-rester-fuf.m4a"
+    },
+    "mos": {
+     "texte": "A Yennenga kell n paa be. A lebga sodaas sẽn yaa kãsenga Gambaga sẽn yãã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5082,
+     "fichier": "yennenga-rester-mos.m4a"
     }
    }
   },
@@ -565,6 +915,20 @@
      "texte": "…or so some say, late at night. But that is not how the legend ends. Do you want to hear the true ending?",
      "relecture": "traduction de travail, à relire",
      "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "...ko woɗɓe mbi'i, laatoto jemma. Ammaa non haala maako timmini. A yiɗi nanugo ko goonga?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7092,
+     "fichier": "yennenga-rester2-fuf.m4a"
+    },
+    "mos": {
+     "texte": "... neb kẽer yetame tɩ yaa yʋngo. La pa woto la kibarã pʋga. Yãmb dat n wʋma sɩd-sɩdã saabã bɩ?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8916,
+     "fichier": "yennenga-rester2-mos.m4a"
     }
    }
   },
@@ -577,6 +941,14 @@
     "en": {
      "texte": "Yes, go back to that night",
      "relecture": "traduction de travail, à relire"
+    },
+    "fuf": {
+     "texte": "Yeah, go back to that night",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "N-ye, d leb n naaga yʋngo",
+     "relecture": "traduction automatique, non relue"
     }
    }
   },
@@ -598,6 +970,20 @@
      "texte": "She leaps on her horse and rides north. But the king's horsemen are after her!",
      "relecture": "traduction de travail, à relire",
      "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "O dilli dow konngi maako o yahdi haa woyla. Ammaa ardiiɓe laamiiɗo ɗon tokki mo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6538,
+     "fichier": "yennenga-fuite-fuf.m4a"
+    },
+    "mos": {
+     "texte": "A kẽnga t'a zoe n kẽng rɩtgo. La rĩm-dãmb ne b nao wã n dabda a poorẽ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7114,
+     "fichier": "yennenga-fuite-mos.m4a"
     }
    }
   },
@@ -610,6 +996,14 @@
     "en": {
      "texte": "The king's horsemen are chasing you! Tap SPACE or the screen quickly to gallop.",
      "relecture": "traduction de travail, à relire"
+    },
+    "fuf": {
+     "texte": "Yimɓe ardiiɓe laamiiɗo ɗon tokki ma! Tappi SPACE bee saffugo, to dow laabi ngam waɗugo kuugal.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Yaa rĩm-dãmb tãb-biisi n digd yãmba! Yãk-y n tool-y neda SPACE, wall y tik-y bĩngrã zug tɩ y tõe n kẽnge.",
+     "relecture": "traduction automatique, non relue"
     }
    }
   },
@@ -622,6 +1016,14 @@
     "en": {
      "texte": "Shaken off!",
      "relecture": "traduction de travail, à relire"
+    },
+    "fuf": {
+     "texte": "Ɗuum woni ko'e maɓɓe!",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Yãk-y n gese!",
+     "relecture": "traduction automatique, non relue"
     }
    }
   },
@@ -634,6 +1036,14 @@
     "en": {
      "texte": "Caught…",
      "relecture": "traduction de travail, à relire"
+    },
+    "fuf": {
+     "texte": "Miɗo heɓa...",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "B yãaga-a lame.",
+     "relecture": "traduction automatique, non relue"
     }
    }
   },
@@ -646,6 +1056,14 @@
     "en": {
      "texte": "race won",
      "relecture": "traduction de travail, à relire"
+    },
+    "fuf": {
+     "texte": "ɓeydaaki",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "zoees sẽn paamã",
+     "relecture": "traduction automatique, non relue"
     }
    }
   },
@@ -658,6 +1076,14 @@
     "en": {
      "texte": "race lost",
      "relecture": "traduction de travail, à relire"
+    },
+    "fuf": {
+     "texte": "ɓeydaaki",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "zoees ning b sẽn sãamã",
+     "relecture": "traduction automatique, non relue"
     }
    }
   },
@@ -679,6 +1105,20 @@
      "texte": "Her stallion flies over the grass. The horsemen vanish behind her.",
      "relecture": "traduction de travail, à relire",
      "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Lodo maako ɗon dilli dow leɗɗe. Yimɓe ɗon njooɗoto bee maako.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4650,
+     "fichier": "yennenga-courseOK-fuf.m4a"
+    },
+    "mos": {
+     "texte": "A soaalã paasa tɩɩsã zutu ye. So-pakdbã loogda ne yẽnda.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4938,
+     "fichier": "yennenga-courseOK-mos.m4a"
     }
    }
   },
@@ -700,6 +1140,20 @@
      "texte": "The horsemen nearly catch her… when a storm breaks and wipes out her tracks. The sky has chosen its side.",
      "relecture": "traduction de travail, à relire",
      "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Yimɓe mooliiɓe ɗon wara dow maako. Nde ɓooyaaki, o wurtinaay laawol maako. Ceniiɗo suɓii laabi muuɗum.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8052,
+     "fichier": "yennenga-courseKO-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Neb nins sẽn zʋʋgd-a wã kolg-a lame. Sa-kãseng sã n wa, la a sãam a zĩiga. Yaa yĩngr n yãk a sẽn datã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8084,
+     "fichier": "yennenga-courseKO-mos.m4a"
     }
    }
   },
@@ -721,6 +1175,20 @@
      "texte": "Exhausted, the stallion stops in front of a hut, deep in an unknown forest.",
      "relecture": "traduction de travail, à relire",
      "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "O ɓeydaaki, o jooɗi yeeso jaŋde nder leɗɗe ɗe andaa.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3376,
+     "fichier": "yennenga-foret1-fuf.m4a"
+    },
+    "mos": {
+     "texte": "A sẽn wa n pa le tõe n maan bũmb a to wã, a gãnda zĩig a ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4960,
+     "fichier": "yennenga-foret1-mos.m4a"
     }
    }
   },
@@ -742,6 +1210,20 @@
      "texte": "Who goes there? A rider, alone, in my forest?",
      "relecture": "traduction de travail, à relire",
      "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Moy ɗon yaha? Gooduɗo koyɗol go'oto nder leɗɗe am?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4058,
+     "fichier": "yennenga-riale1-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Ãnd dãmb n be? Ned sẽn na n soog m weoogẽ wã?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3594,
+     "fichier": "yennenga-riale1-mos.m4a"
     }
    }
   },
@@ -763,6 +1245,20 @@
      "texte": "I am no rider. I am Yennenga, daughter of Naaba Nedega.",
      "relecture": "traduction de travail, à relire",
      "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Mi laataaki jaagorɗo. Mi woni Yennenga, ɓiɗɗo Naaba Nédega.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4666,
+     "fichier": "yennenga-yen2-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Mam pa so-rʋʋda ye. Mam yʋʋr yaa Yennenga, Naaba Nedega bi-pugli.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5098,
+     "fichier": "yennenga-yen2-mos.m4a"
     }
    }
   },
@@ -784,6 +1280,20 @@
      "texte": "My name is Riale. I hunt elephants. Rest now: no one will find you here.",
      "relecture": "traduction de travail, à relire",
      "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Innde am woni Rialé. Mi ɗon ɗaɓɓa nduu. Laamii, walaa mo heɓay ma ɗo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5620,
+     "fichier": "yennenga-riale2-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Mam yʋʋr la Rialé. Mam yãbdda wũndã. Bas-y tɩ ned baa a yen ka yã yãmb be ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7076,
+     "fichier": "yennenga-riale2-mos.m4a"
     }
    }
   },
@@ -805,6 +1315,20 @@
      "texte": "Discover the hunter's hut before you go on.",
      "relecture": "traduction de travail, à relire",
      "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Ndaa nokkuure jaayndeejo yeeso.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2512,
+     "fichier": "yennenga-explore2-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Kẽng-y n bãnge, n yaool n kẽng taoor.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3216,
+     "fichier": "yennenga-explore2-mos.m4a"
     }
    }
   },
@@ -826,6 +1350,20 @@
      "texte": "To defy a king, then cross the bush by night… I have never seen such courage.",
      "relecture": "traduction de travail, à relire",
      "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "E dow laamiiɗo, e dow leɗɗe jemma. Mi meeɗaayi yi'ugo hakkiilo ɗu'um.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4570,
+     "fichier": "yennenga-riale3-fuf.m4a"
+    },
+    "mos": {
+     "texte": "B sẽn na n zab ne rĩm-dãmb la b sã n zãadẽ, b na n kẽnga weoogẽ wã. Mam zɩ n yã ned sẽn tar raood a woto ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9194,
+     "fichier": "yennenga-riale3-mos.m4a"
     }
    }
   },
@@ -847,6 +1385,20 @@
      "texte": "Yennenga and Riale fall in love and marry. A son is born to them.",
      "relecture": "traduction de travail, à relire",
      "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Yennenga e Rialé ɓe ngiɗi, ɓe kawti. Ɓiɗɗo boo jibini nder kawtal maɓɓe.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6202,
+     "fichier": "yennenga-mariage-fuf.m4a"
+    },
+    "mos": {
+     "texte": "A Yennenga ne a Rialé nongame n kẽ kãadem. B kãadmã poore, b paama bi-ribl a ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7114,
+     "fichier": "yennenga-mariage-mos.m4a"
     }
    }
   },
@@ -868,6 +1420,20 @@
      "texte": "We shall call him Ouedraogo, \"the stallion\", in memory of the horse that brought me to you.",
      "relecture": "traduction de travail, à relire",
      "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "En noddiray mo Ouédraogo, koyɗol gorko, ngam non en siftoroy koyɗel ngol hoodi yam haa maaɗa.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8192,
+     "fichier": "yennenga-fin1-fuf.m4a"
+    },
+    "mos": {
+     "texte": "D na n boola-a lame t'a Ouédraogo, rat n yeel tɩ rao wã wedã. D tẽegda wedã sẽn tall maam n wa yãmb nengẽ wã yelle.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9210,
+     "fichier": "yennenga-fin1-mos.m4a"
     }
    }
   },
@@ -889,6 +1455,20 @@
      "texte": "Look at the village growing around them.",
      "relecture": "traduction de travail, à relire",
      "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Ndaa gariiri ɓurɗo mawnude dow maɓɓe.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2624,
+     "fichier": "yennenga-explore3-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Ges-y tẽn-gãongã sẽn wat ne bãmba.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2992,
+     "fichier": "yennenga-explore3-mos.m4a"
     }
    }
   },
@@ -910,6 +1490,20 @@
      "texte": "Ouedraogo will become the ancestor of the Mossi. And to this day, in Ouagadougou, the grand prize of FESPACO is called the Golden Stallion of Yennenga.",
      "relecture": "traduction de travail, à relire",
      "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Ouédraogo laatoto baaba Mossi'en. Haa jooni, nder Ouagadougou, jaaynde FESPACO biyeteeɗo Yennenga Gold Stallion.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8410,
+     "fichier": "yennenga-fin2-fuf.m4a"
+    },
+    "mos": {
+     "texte": "A Ouédraogo na n lebga Mossi rãmbã yaab. La hal rũndã-rũndã, b ket n boond a FESPACO kũun ning sẽn be Ouagadougou wã tɩ Yennenga sãnem soaalã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 12666,
+     "fichier": "yennenga-fin2-mos.m4a"
     }
    }
   },
@@ -931,6 +1525,20 @@
      "texte": "My tale ends here. Whoever has heard it must tell it in turn.",
      "relecture": "traduction de travail, à relire",
      "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Haala am timmi ɗo. Koo moye nanɗo ɗum, sey o wi'a yimɓe.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5242,
+     "fichier": "yennenga-fin3-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Rẽ n so tɩ mam kibarã sa. Bɩ ned ning sẽn wʋm-a wã me togs a soaba.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5578,
+     "fichier": "yennenga-fin3-mos.m4a"
     }
    }
   },
@@ -948,7 +1556,19 @@
    "texte": "Yennenga, la princesse cavalière. Une légende mossi.",
    "genre": "adulte/libre",
    "duree_ms": 5600,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Yennenga, laamiiɗo mawɗo. Fedde moƴƴere.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Yaa a Yennenga, rĩm-poak ning sẽn kẽed ne soaalã. Yaa moos-rãmbã lagem-n-taar.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-002",
@@ -964,7 +1584,19 @@
    "texte": "À Gambaga, en pays dagomba, régnait le roi Nedega.",
    "genre": "adulte/libre",
    "duree_ms": 4400,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Nder lesdi Gambaga, nder lesdi dagomba, laamiiɗo Nedega ummini.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A Nedega naam da yaa Gambaga, Dagomba soolmẽ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-003",
@@ -980,7 +1612,19 @@
    "texte": "Il était fier de sa fille. Plus fier d'elle que de tous ses guerriers.",
    "genre": "adulte/libre",
    "duree_ms": 5100,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "O ɗon teddina ɓiɗɗo maako. Ɓeydi mawnugo dow maako, ɓurɗum fuu konu'en.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A ra maanda sũ-noog ne a bi-puglã. A sũur yɩɩ noog ne-a n yɩɩd a sodaasã fãa.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-004",
@@ -996,7 +1640,19 @@
    "texte": "Yennenga menait les cavaliers. Personne ne montait comme elle, et personne ne chargeait comme elle.",
    "genre": "adulte/libre",
    "duree_ms": 6000,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Yennenga woni ardiiɗo hawrotooɓe. Walaa goɗɗo mo nandi bee maako, walaa mo nandi e maako.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Yaa a Yennenga n lʋɩt so-pakdbã taoor. Ned baa a yen ka zẽkd wa yẽ ye, la ned ba a yen pa zɩt wa yẽnda ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-005",
@@ -1012,7 +1668,19 @@
    "texte": "Les ennemis la voyaient et prenaient la fuite.",
    "genre": "adulte/libre",
    "duree_ms": 3100,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Yimɓe konne'en ɓe ngi'i mo, ɓe ndilli.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "B bɛɛbã yãe-a lame n zoe.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-006",
@@ -1028,7 +1696,19 @@
    "texte": "Chaque fois, elle revenait en triomphe devant son père.",
    "genre": "adulte/libre",
    "duree_ms": 4100,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Ngam maajum o wurtini baaba maako nder jaalorgal.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Wakat ning fãa, a ra lebda a ba wã taoore n tõoge.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-007",
@@ -1044,7 +1724,19 @@
    "texte": "Père, je veux me marier, et avoir des enfants.",
    "genre": "adulte/femme",
    "duree_ms": 4000,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Baabiraawo, mi yiɗi dewta, e woodi ɓiɓɓe.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Ba, mam dat n kẽe kãadem la m dog kamb.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-008",
@@ -1060,7 +1752,19 @@
    "texte": "Tu es trop précieuse au combat. C'est non.",
    "genre": "âgé/libre",
    "duree_ms": 4000,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "On ɗon mari sembe masin ngam haɓugo. Walaa.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Fo tara yõod wʋsg zab-teedã pʋgẽ. Yaa sɩd tɩ pa woto ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-009",
@@ -1076,7 +1780,19 @@
    "texte": "Elle insista, encore et encore. Il ne céda jamais.",
    "genre": "adulte/libre",
    "duree_ms": 5100,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "O torraaki, haa e ɗon. O yejjitataa.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A yeela woto naoor wʋsgo. A ra pa tol n bas-a ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-010",
@@ -1092,7 +1808,19 @@
    "texte": "Alors elle sema un champ d'okra, tout près du palais.",
    "genre": "adulte/libre",
    "duree_ms": 3800,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Sey o jippini haa nokkuure ɓadake laamiiɗo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Rẽ n so t'a pagã bʋd a Okra pʋʋgẽ, roogã sɛɛgẽ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-011",
@@ -1108,7 +1836,19 @@
    "texte": "Le champ mûrit, puis se fana. Elle ne le récolta pas. Le message était clair : on ne laisse pas pourrir ce qui est mûr.",
    "genre": "adulte/libre",
    "duree_ms": 8900,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Luttuɗum ɓanngini, ɓaawo maajum maaki. O jaɓataa ɗum. Ko o wi'i ɗon laaɓti: \"Ɗum ɓeydaaki\".",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Kẽerã bɩame, la b kʋɩɩme. A pa wʋk-a ye. Gomdã ra yaa vẽenega: ned pa segd n bas tɩ bũmb nins sẽn bɩ wã sãam ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-012",
@@ -1124,7 +1864,19 @@
    "texte": "Mais le roi ne voulut pas comprendre.",
    "genre": "adulte/libre",
    "duree_ms": 2900,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Ammaa laamiiɗo yi'aayi faamu.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "La rĩmã ra pa rat n wʋm a võore.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-013",
@@ -1140,7 +1892,19 @@
    "texte": "Une nuit, Yennenga sella son étalon blanc, et elle quitta Gambaga.",
    "genre": "adulte/libre",
    "duree_ms": 5100,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Nder jemma go'o, Yennenga dartini sooje maako jeɗɗi, nden o wurti Gambaga.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Daar a ye yʋngo, a Yennenga kẽnga a wed-bil sẽn yaa pemse, n yi Gambaga.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-014",
@@ -1156,7 +1920,19 @@
    "texte": "Elle galopa sous la lune, sans se retourner.",
    "genre": "adulte/libre",
    "duree_ms": 3200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "O dilli dow lewru, o yahrataa.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A ra gũuda kiuugã pʋgẽ n pa wẽnemd a meng ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-015",
@@ -1172,7 +1948,19 @@
    "texte": "L'étalon l'emporta très loin, jusqu'à une forêt qu'elle ne connaissait pas.",
    "genre": "adulte/libre",
    "duree_ms": 4800,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Ɗuum waɗi o yaari haa nokkuure nde o anndaa.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A sẽn yã bũmb ningã kɩtame t'a kẽng zĩig sẽn zãre, zĩig a sẽn da pa mi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-016",
@@ -1188,7 +1976,19 @@
    "texte": "Épuisée, elle descendit. Un homme approcha, l'arc tendu.",
    "genre": "adulte/libre",
    "duree_ms": 5900,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "O ɓeydii, o dilli. Sey goɗɗo ɓaditoo to maako.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A sẽn wa n beẽ wã, a ra yɛɛsame. Ned n kolgame, t'a tãag-a lame.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-017",
@@ -1204,7 +2004,19 @@
    "texte": "Qui es-tu ? Que fais-tu ici ?",
    "genre": "adulte/homme",
    "duree_ms": 2400,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Moy woni? Ko honɗun waɗi ɗo?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Yãmb yaa ãnna? Fo maanda bõe be?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-018",
@@ -1220,7 +2032,19 @@
    "texte": "Je m'appelle Yennenga. J'ai tout quitté.",
    "genre": "adulte/femme",
    "duree_ms": 2900,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Innde am Yennenga. Mi acci koo ɗume.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Mam yʋʋr la a Yennenga. Mam basa bũmb fãa.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-019",
@@ -1236,7 +2060,19 @@
    "texte": "Reste, ici tu es en paix.",
    "genre": "adulte/homme",
    "duree_ms": 2500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "To'o jooɗoto, to'o ɗon nder jam.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Dɩɩ-y n zĩnd be, la y na n paama laafɩ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-020",
@@ -1252,7 +2088,19 @@
    "texte": "C'était Rialé, un chasseur solitaire. Ils s'aimèrent, et un fils naquit.",
    "genre": "adulte/libre",
    "duree_ms": 6300,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Kanko woni Rialé, mawɗo duɗal gootol. Ɓe ngiɗi, ɓe ngoodi ɓiɗɗo gorko.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A ra yaa Rialé, zĩ-yũud a ye. B ra nong taaba, tɩ b dog bi-ribl.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-021",
@@ -1268,7 +2116,19 @@
    "texte": "Il s'appellera Ouédraogo : l'étalon.",
    "genre": "adulte/homme",
    "duree_ms": 3200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "O noddiray wi'eteeɗo Ouédraogo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A yʋʋr na n yɩɩ Ouédraogo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-022",
@@ -1284,7 +2144,19 @@
    "texte": "Ainsi, l'enfant porta le nom du cheval qui avait conduit sa mère jusque-là.",
    "genre": "adulte/libre",
    "duree_ms": 5100,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Ngam maajum ɓiyiiko o noddiri ko'e maako.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A Zezi yeel-b lame yaa: \"Bɩ y bãng tɩ m na n dɩka bi-riblã, la b kõ-y sũ-noogo\".",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-023",
@@ -1300,7 +2172,19 @@
    "texte": "Les années passèrent. Yennenga revint enfin à Gambaga avec son fils.",
    "genre": "adulte/libre",
    "duree_ms": 5800,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Too, duuɓi ɗuuɗɗi naati. Yennenga wartii Gambaga bee ɓiɗɗo maako.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Yʋʋmã loogame. A Yennenga wa n lebg n waa Gambaga ne a bi-riblã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-024",
@@ -1316,7 +2200,19 @@
    "texte": "Le vieux roi la reconnut. Il lui pardonna, et il accueillit son petit-fils.",
    "genre": "adulte/libre",
    "duree_ms": 6000,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Laamiiɗo mawɗo on anndi mo. O yaafani mo, o jaɓii ɓiyum maako.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "La rĩm-gãsenga bãngame t'a pagã yaa a soaba. A Zeova kõ-a-la sugri, n deeg a bi-puglã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-025",
@@ -1332,7 +2228,19 @@
    "texte": "Il donna à Ouédraogo des chevaux et des guerriers.",
    "genre": "adulte/libre",
    "duree_ms": 3500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "O hokki Ouédraogo koyɗe e konu.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A kõo a Ouédraogo so-rãmb la sodaasã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-026",
@@ -1348,7 +2256,19 @@
    "texte": "Ainsi commença l'histoire d'Ouédraogo, l'ancêtre des Mossi.",
    "genre": "adulte/libre",
    "duree_ms": 4700,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Ɗon woni fuɗɗam taariika Ouedraogo, ardiiɗo ummaatoore Mossi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Rẽ n so t'a Ouedraogo, a Mozi rãmbã yaab-rãmbã kibar sɩngre.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   }
  ]
 }

@@ -10,6 +10,10 @@ intonation: solennel (proposée)
 texte: Là-haut, au-dessus des nuages, il y avait un pays d'en haut. Rien n'y manquait. Par un trou dans les nuages, l'ancêtre de Kollo regardait la terre.
 genre: adulte/homme
 duree: 11230ms (estimée)
+texte_fuf: Luttuɗum, dow duule ɗon woodi lesdi daga dow. Walaa kooɗume. Duubaajo Kollo ɗon yi'a duniyaaru nder duule.
+enregistre_fuf: ancetre-ciel-n1-fuf.m4a (8356ms)
+texte_mos: Sẽn be yĩngri, sawadg zugẽ, tẽng sẽn yit yĩngri. A ra pa paoog bũmb ye. A Kollo yaab-rãmbã ra getda tẽngã sẽn be sawadg pʋgẽ.
+enregistre_mos: ancetre-ciel-n1-mos.m4a (12980ms)
 
 piste: n2
 histoire: L'ancêtre tombé du ciel
@@ -20,6 +24,10 @@ intonation: interrogatif (proposée)
 texte: Le monde est vide, sans une case et sans une voix. Une corde de lumière se déroule jusqu'au sol. Descendent-ils ?
 genre: adulte/homme
 duree: 9030ms (estimée)
+texte_fuf: Duniyaa ndu walaa goɗɗum, walaa go'o boo walaa wolde. Ɗuum waɗi to duniyaaru. Ɓe ɗon njaha ?
+enregistre_fuf: ancetre-ciel-n2-fuf.m4a (7892ms)
+texte_mos: Dũniyã yaa zaalem, n ka tar zĩiga la koɛɛg ye. Ninsaalã sẽn da tar vẽenem n be tẽngẽ wã yaa yel-solemde. B na n sigame bɩ?
+enregistre_mos: ancetre-ciel-n2-mos.m4a (13348ms)
 
 piste: regarde
 histoire: L'ancêtre tombé du ciel
@@ -30,6 +38,10 @@ intonation: solennel (proposée)
 texte: Rien n'y bouge. Si personne n'y va, rien n'y bougera jamais.
 genre: adulte/femme
 duree: 4930ms (estimée)
+texte_fuf: Walaa kulol dow maajum. To walaa gooduɗo ton, walaa kooɗume ɗon hoola.
+enregistre_fuf: ancetre-ciel-regarde-fuf.m4a (5322ms)
+texte_mos: La bũmb baa a yembr ka yik ye. Ned sã n pa kẽng be, bũmb kõn zĩnd be ye.
+enregistre_mos: ancetre-ciel-regarde-mos.m4a (5322ms)
 
 piste: descend
 histoire: L'ancêtre tombé du ciel
@@ -40,6 +52,10 @@ intonation: interrogatif (proposée)
 texte: Longtemps, ils glissent, entre ciel et terre. Une terre vide les attend, là où sera Tiébélé. Le sol est sec. Que faire d'abord ?
 genre: adulte/homme
 duree: 10770ms (estimée)
+texte_fuf: Ɗuum waɗi duuɓi ɗuuɗɗi, ɓe njotti hakkunde asama e duniyaaru. Yimɓe ɓe'e nder lesdi ladde, haa nokkuure nde Tibeel woni. Luttuɗum ɗon maaki. Hol ko waɗata arande?
+enregistre_fuf: ancetre-ciel-descend-fuf.m4a (14014ms)
+texte_mos: B sẽn be yĩngri ne tẽngã sʋka, b kẽnga zĩig ninga. Tẽnga sẽn ka tar neb n gũud-ba, tɩ Tibɛll na n zĩnda be. Tẽngã yaa kʋɩlenga. Bõe la d segd n maan pipi?
+enregistre_mos: ancetre-ciel-descend-mos.m4a (14382ms)
 
 piste: case
 histoire: L'ancêtre tombé du ciel
@@ -50,6 +66,10 @@ intonation: posé (proposée)
 texte: La terre s'effrite entre leurs mains. Sans eau, on ne bâtit rien, et rien n'y poussera.
 genre: adulte/homme
 duree: 6980ms (estimée)
+texte_fuf: Luttuɗum nder juuɗe maɓɓe. To ndiyam walaa, ɗum mahataako.
+enregistre_fuf: ancetre-ciel-case-fuf.m4a (4698ms)
+texte_mos: B nugẽ wã, tẽngã paoogdame. Ned sã n ka tar koomã, a pa na n me bũmb ye.
+enregistre_mos: ancetre-ciel-case-mos.m4a (5514ms)
 
 piste: pluie
 histoire: L'ancêtre tombé du ciel
@@ -60,6 +80,10 @@ intonation: vif (proposée)
 texte: Pluie du pays d'en haut, viens à moi !
 genre: voix solennelle/libre
 duree: 3870ms (estimée)
+texte_fuf: Toowe daga lesdi dow, wari haa am!
+enregistre_fuf: ancetre-ciel-pluie-fuf.m4a (2416ms)
+texte_mos: Sa-kãseng sẽn yit yĩngri, wa-y mam nengẽ!
+enregistre_mos: ancetre-ciel-pluie-mos.m4a (3744ms)
 
 piste: n3
 histoire: L'ancêtre tombé du ciel
@@ -70,6 +94,10 @@ intonation: posé (proposée)
 texte: Les nuages s'ouvrent, et la terre boit enfin. Ils bâtissent une première case ronde, et ils ouvrent un champ. Regarde.
 genre: adulte/homme
 duree: 8800ms (estimée)
+texte_fuf: Ɗuum waɗi laana maɓɓiti, duniyaaru boo njari. Ɓe ngaɗi nokkuure wootere nden, ɓe maɓɓiti gese. Ndaa.
+enregistre_fuf: ancetre-ciel-n3-fuf.m4a (7428ms)
+texte_mos: La sawadgã pukame, tɩ tẽngã yaool n yũ. B maana raag a yiib-n-soaba, la b tʋlg pʋʋgo. Ges-y-yã.
+enregistre_mos: ancetre-ciel-n3-mos.m4a (8788ms)
 
 piste: n4
 histoire: L'ancêtre tombé du ciel
@@ -80,6 +108,10 @@ intonation: interrogatif (proposée)
 texte: Les années passent, et des enfants naissent. Les femmes prennent de la terre et des pierres de couleur. Que peignent-elles sur les murs ?
 genre: adulte/homme
 duree: 10170ms (estimée)
+texte_fuf: Too, duuɓi keewi, ɓikkoy maayi. Debbo'en ɗon njaɓɓa leydi e kaaƴe nyaamiɗe. Ko honɗun ɓe nganndi dow walluuji ?
+enregistre_fuf: ancetre-ciel-n4-fuf.m4a (8740ms)
+texte_mos: Yʋʋmã loogdame, la kom-bɩɩsã rogdame. Pagbã rɩka tẽn-gãong la kug buud toor-toorã. Bõe la b gʋlsd wallã zugu?
+enregistre_mos: ancetre-ciel-n4-mos.m4a (9140ms)
 
 piste: nu
 histoire: L'ancêtre tombé du ciel
@@ -90,6 +122,10 @@ intonation: posé (proposée)
 texte: Les enfants grandissent sans plus rien savoir du pays d'en haut. Cette fin n'existe que dans le jeu, car à Tiébélé les femmes ont peint.
 genre: adulte/homme
 duree: 10250ms (estimée)
+texte_fuf: Sukaaɓe boo ɓe mawnitoo ɓe anndaay koo ɗume dow lesdi. Ɗuum woni daliila huutoreede tan, ngam nder Tibebele rewɓe mbaɗi limce.
+enregistre_fuf: ancetre-ciel-nu-fuf.m4a (9450ms)
+texte_mos: Kom-bɩɩsã bɩtame n pa le mi dũniyã sẽn be yĩngri ye. Sẽn na yɩl n tõog n maan woto wã, yaa wẽnem la b segd n maana.
+enregistre_mos: ancetre-ciel-nu-mos.m4a (10842ms)
 
 piste: motifs
 histoire: L'ancêtre tombé du ciel
@@ -100,6 +136,10 @@ intonation: grave (proposée)
 texte: Notre père est venu d'en haut, souvenez-vous.
 genre: âgé/homme
 duree: 3110ms (estimée)
+texte_fuf: Baabiraawo meeɗen wari diga dow.
+enregistre_fuf: ancetre-ciel-motifs-fuf.m4a (2704ms)
+texte_mos: Tẽeg-y tɩ d ba yii yĩngri.
+enregistre_mos: ancetre-ciel-motifs-mos.m4a (2448ms)
 
 piste: n5
 histoire: L'ancêtre tombé du ciel
@@ -110,6 +150,10 @@ intonation: posé (proposée)
 texte: Bien plus tard, naîtra la chefferie de Tiébélé.
 genre: adulte/homme
 duree: 3490ms (estimée)
+texte_fuf: Caggal ɗum, laamiiɗo Tibelel ɓadake.
+enregistre_fuf: ancetre-ciel-n5-fuf.m4a (3824ms)
+texte_mos: La kaoosg zugẽ, a Tibɛll naab n na n dogame.
+enregistre_mos: ancetre-ciel-n5-mos.m4a (4144ms)
 
 piste: n6
 histoire: L'ancêtre tombé du ciel
@@ -120,6 +164,10 @@ intonation: interrogatif (proposée)
 texte: Dis, qui a peint ces murs ?
 genre: enfant/libre
 duree: 3110ms (estimée)
+texte_fuf: Non, moye waɗi walluuji ɗi'e?
+enregistre_fuf: ancetre-ciel-n6-fuf.m4a (2032ms)
+texte_mos: Bõe yĩng tɩ d segd n yeel woto?
+enregistre_mos: ancetre-ciel-n6-mos.m4a (1840ms)
 
 piste: n8
 histoire: L'ancêtre tombé du ciel
@@ -130,6 +178,10 @@ intonation: joyeux (proposée)
 texte: À Tiébélé, aujourd'hui, les femmes peignent toujours leurs maisons.
 genre: adulte/homme
 duree: 4020ms (estimée)
+texte_fuf: Hannde, rewɓe nder Tibeel ɗon ɓesda cuuɗi maɓɓe.
+enregistre_fuf: ancetre-ciel-n8-fuf.m4a (3152ms)
+texte_mos: Rũndã-rũndã, Tibéla pʋgẽ, pagbã ket n manegda b yirã.
+enregistre_mos: ancetre-ciel-n8-mos.m4a (5056ms)
 
 piste: film-001
 histoire: L'ancêtre tombé du ciel
@@ -140,6 +192,8 @@ intonation: solennel (scénario)
 texte: L'ancêtre tombé du ciel. Un mythe kassena.
 genre: adulte/libre
 duree: 4700ms (mesurée sur le film)
+texte_fuf: Baabiraawo maako jippi diga asama. Gooto kaalanol kassena.
+texte_mos: A yaab sẽn lʋɩt saasẽ wã. Yaa kassena lagem-n-taare.
 
 piste: film-002
 histoire: L'ancêtre tombé du ciel
@@ -150,6 +204,8 @@ intonation: posé (proposée)
 texte: Là-haut, au-dessus des nuages, il y avait un pays d'en haut. Rien n'y manquait.
 genre: adulte/libre
 duree: 6000ms (mesurée sur le film)
+texte_fuf: Luttuɗum, dow duule ɗon woodi lesdi daga dow. Walaa kooɗume.
+texte_mos: Sẽn be yĩngri, sawadg zugẽ, tẽng sẽn yit yĩngri. A ra pa paoog bũmb ye.
 
 piste: film-003
 histoire: L'ancêtre tombé du ciel
@@ -160,6 +216,8 @@ intonation: posé (proposée)
 texte: Par un trou dans les nuages, l'ancêtre de Kollo regardait la terre, tout en bas.
 genre: adulte/libre
 duree: 5400ms (mesurée sur le film)
+texte_fuf: O ɗon yi'a duniyaaru dow, o ƴiwoyi nder duule.
+texte_mos: A Kollo yaab-rãmbã ra geta tẽngã sẽn be tẽng zug.
 
 piste: film-004
 histoire: L'ancêtre tombé du ciel
@@ -170,6 +228,8 @@ intonation: posé (proposée)
 texte: Avec son épouse, il observait ce monde vide, sans une case et sans une voix.
 genre: adulte/libre
 duree: 5300ms (mesurée sur le film)
+texte_fuf: O ɗon yi'a bee debbo maako duniyaaru ndu walaa goɗɗum, walaa daande, wala wolde.
+texte_mos: A ne a pagã ra geta dũni kãngã sẽn pa tar zĩiga, wall koɛɛg ye.
 
 piste: film-005
 histoire: L'ancêtre tombé du ciel
@@ -180,6 +240,8 @@ intonation: mystérieux (scénario)
 texte: Une corde de lumière se déroula jusqu'au sol, et ils commencèrent à descendre.
 genre: adulte/libre
 duree: 5100ms (mesurée sur le film)
+texte_fuf: Ɗu'um waɗi kuuje ɗe cembiɗini dow leydi, nden ɓe puɗɗi wurtaago.
+texte_mos: La b yãagame t'a Zezi saagd-b lame, la b wa n kẽnga tẽngẽ.
 
 piste: film-006
 histoire: L'ancêtre tombé du ciel
@@ -190,6 +252,8 @@ intonation: posé (proposée)
 texte: Longtemps, ils glissèrent, entre ciel et terre.
 genre: adulte/libre
 duree: 3900ms (mesurée sur le film)
+texte_fuf: Ɗuum waɗi duuɓi ɗuuɗɗi, ɓe njotti hakkunde asama e duniyaaru.
+texte_mos: La b ra gũuda yĩngr ne tẽngã sʋka.
 
 piste: film-007
 histoire: L'ancêtre tombé du ciel
@@ -200,6 +264,8 @@ intonation: posé (proposée)
 texte: Une terre vide les attendait, là où sera Tiébélé.
 genre: adulte/libre
 duree: 3900ms (mesurée sur le film)
+texte_fuf: Yimɓe ɓe'e nder lesdi ladde, haa nokkuure nde Tibeel jooɗoto.
+texte_mos: Tẽnga ra gũuda bãmb tɩ b ka tõe n yã ye, la Tibɛll na n zĩnda be.
 
 piste: film-008
 histoire: L'ancêtre tombé du ciel
@@ -210,6 +276,8 @@ intonation: posé (proposée)
 texte: Le sol était sec. Rien n'y pousserait sans eau.
 genre: adulte/libre
 duree: 4600ms (mesurée sur le film)
+texte_fuf: Luttudu ɗon maaki. Walaa ko wuurtata to ndiyam walaa.
+texte_mos: Tẽngã ra yaa kʋɩlenga. La koom sã n ka be, b pa tõe n yik ye.
 
 piste: film-009
 histoire: L'ancêtre tombé du ciel
@@ -220,6 +288,8 @@ intonation: voix profonde, levé vers le ciel (scénario)
 texte: Pluie du pays d'en haut, viens à moi !
 genre: esprit, créature : voix grave/libre
 duree: 3000ms (mesurée sur le film)
+texte_fuf: Toowe daga lesdi dow, wari haa am!
+texte_mos: Sa-kãseng sẽn yit yĩngri, wa-y mam nengẽ!
 
 piste: film-010
 histoire: L'ancêtre tombé du ciel
@@ -230,6 +300,8 @@ intonation: joyeux (scénario)
 texte: Et les nuages s'ouvrirent, et la terre but enfin.
 genre: adulte/libre
 duree: 3500ms (mesurée sur le film)
+texte_fuf: Sey duule ɗen udditi, duniyaaru boo nyaami.
+texte_mos: La sawadgã pukame, la tẽngã rɩka koom.
 
 piste: film-011
 histoire: L'ancêtre tombé du ciel
@@ -240,6 +312,8 @@ intonation: posé (proposée)
 texte: Ils bâtirent une première case ronde, et ils ouvrirent un champ.
 genre: adulte/libre
 duree: 4100ms (mesurée sur le film)
+texte_fuf: Sey ɓe nyiɓi nokkuure mawɗe, ɓe maɓɓiti gese.
+texte_mos: B maana raag a yiib-n-soaba, la b tʋlg pʋʋgo.
 
 piste: film-012
 histoire: L'ancêtre tombé du ciel
@@ -250,6 +324,8 @@ intonation: tendre (scénario)
 texte: Ce fut le premier village. Les années passèrent, et des enfants naquirent.
 genre: adulte/libre
 duree: 5900ms (mesurée sur le film)
+texte_fuf: Kanjum woni gariiri arandeeji. Wakkati maajum, ɓikkoy maayi.
+texte_mos: Yaa tẽn-kãng la d pipi n yã. Yʋʋm n loogame, la kom-bɩɩsã rogame.
 
 piste: film-013
 histoire: L'ancêtre tombé du ciel
@@ -260,6 +336,8 @@ intonation: posé (proposée)
 texte: Les femmes prirent de la terre et des pierres de couleur, et elles peignirent les murs.
 genre: adulte/libre
 duree: 4800ms (mesurée sur le film)
+texte_fuf: Debbo'en ɓen hoo'i leydi e kaaƴe leɗɗe cukalel, ɓe ɓanngini mahol.
+texte_mos: Pagbã rɩka tẽn-gãongã la kug sẽn yaa balengã, n maneg b gɛyã.
 
 piste: film-014
 histoire: L'ancêtre tombé du ciel
@@ -270,6 +348,8 @@ intonation: émerveillé (scénario)
 texte: Elles y dessinèrent des motifs venus du ciel, pour que personne n'oublie d'où l'on venait.
 genre: adulte/libre
 duree: 5200ms (mesurée sur le film)
+texte_fuf: Kamɓe ɓe ngaɗi laabi daga dow ngam walaa mo wi'a to ɓe ƴiwoy.
+texte_mos: B ra rɩkda makr sẽn yit saasẽ tɩ ned pa tõe n yĩm a sẽn yitẽ ye.
 
 piste: film-015
 histoire: L'ancêtre tombé du ciel
@@ -280,6 +360,8 @@ intonation: posé (scénario)
 texte: Notre père est venu d'en haut, souvenez-vous.
 genre: âgé/libre
 duree: 3600ms (mesurée sur le film)
+texte_fuf: Baabiraawo meeɗen wari diga dow.
+texte_mos: Tẽeg-y tɩ d ba yii yĩngri.
 
 piste: film-016
 histoire: L'ancêtre tombé du ciel
@@ -290,6 +372,8 @@ intonation: posé (proposée)
 texte: Bien plus tard, naîtra la chefferie de Tiébélé.
 genre: adulte/libre
 duree: 3800ms (mesurée sur le film)
+texte_fuf: Caggal ɗum, laamiiɗo Tibelel ɓadake.
+texte_mos: La kaoosg zugẽ, a Tibɛll naab n na n dogame.
 
 piste: film-017
 histoire: L'ancêtre tombé du ciel
@@ -300,6 +384,8 @@ intonation: curieux (scénario)
 texte: Dis, qui a peint ces murs ?
 genre: enfant/libre
 duree: 2900ms (mesurée sur le film)
+texte_fuf: Non, moye waɗi walluuji ɗi'e?
+texte_mos: Bõe yĩng tɩ d segd n yeel woto?
 
 piste: film-018
 histoire: L'ancêtre tombé du ciel
@@ -310,3 +396,5 @@ intonation: doux (scénario)
 texte: À Tiébélé, aujourd'hui, les femmes peignent toujours leurs maisons.
 genre: adulte/libre
 duree: 4800ms (mesurée sur le film)
+texte_fuf: Hannde, rewɓe nder Tibeel ɗon ɓesda cuuɗi maɓɓe.
+texte_mos: Rũndã-rũndã, Tibéla pʋgẽ, pagbã ket n manegda b yirã.

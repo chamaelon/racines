@@ -10,6 +10,10 @@ intonation: solennel (proposée)
 texte: Au commencement, il n'y avait que la nuit. Puis Wuro abaissa les mains, et la terre monta. Il lança une boule de feu vers l'horizon : ce fut le soleil.
 genre: adulte/homme
 duree: 12750ms (estimée)
+texte_dyu: A daminɛ na, suu dɔrɔn lo tun be yen. O kɔ, Wuro k'a boro fla majigi. Dugukolo yɛlɛnna. O kɔ, a ka tasuma cɛtigɛ k'a kɛ tere ye.
+enregistre_dyu: wuro-masque-n1-dyu.m4a (12558ms)
+texte_fuf: Fuɗɗoode, jemma tan woni. Sey Wuro maɓɓiti juuɗe maako, duniyaaru ummi. Sey o wurtini yiite dow le'i, ɗum laati naange.
+enregistre_fuf: wuro-masque-n1-fuf.m4a (9300ms)
 
 piste: n2
 histoire: Wuro et le masque de feuilles
@@ -20,6 +24,10 @@ intonation: solennel (proposée)
 texte: La terre est belle, mais personne ne la foule.
 genre: voix solennelle/libre
 duree: 3870ms (estimée)
+texte_dyu: Dugukolo ka ɲi, nka mɔgɔ si tɛ se k'a sɛnɛ.
+enregistre_dyu: wuro-masque-n2-dyu.m4a (3376ms)
+texte_fuf: Luttuɗum booɗɗum, ammaa walaa gooduɗo mo'o.
+enregistre_fuf: wuro-masque-n2-fuf.m4a (3648ms)
 
 piste: n3
 histoire: Wuro et le masque de feuilles
@@ -30,6 +38,10 @@ intonation: interrogatif (proposée)
 texte: Wuro modèle un tertre, et un homme en sort, massif et silencieux. Que lui donne-t-il d'abord ?
 genre: adulte/homme
 duree: 7360ms (estimée)
+texte_dyu: Wuro k'a ta bonba dɔ lɔ, ka mɔgɔ dɔ bɔ kɛnɛ kan. O tigi tun ye jamaba le ye, a tun jera. A be mun lo di a ma fɔlɔ?
+enregistre_dyu: wuro-masque-n3-dyu.m4a (10388ms)
+texte_fuf: Wuro taƴii suudu maaru, nden kam o waɗani neɗɗo mo'o, mawɗo e suuɗiiɗum. Ko ɗume o hokkata mo arande?
+enregistre_fuf: wuro-masque-n3-fuf.m4a (7210ms)
 
 piste: maison
 histoire: Wuro et le masque de feuilles
@@ -40,6 +52,10 @@ intonation: solennel (proposée)
 texte: Une maison se bâtit. Prends d'abord le feu, et le marteau.
 genre: voix solennelle/libre
 duree: 4930ms (estimée)
+texte_dyu: U be boon dɔ lɔra. O kɔ, i ka tasuma ta fɔlɔ.
+enregistre_dyu: wuro-masque-maison-dyu.m4a (4794ms)
+texte_fuf: Ɓe ɗon nyiɓa wuro. Hooree kaŋko yiite, nden hooree.
+enregistre_fuf: wuro-masque-maison-fuf.m4a (3898ms)
 
 piste: feu
 histoire: Wuro et le masque de feuilles
@@ -50,6 +66,10 @@ intonation: posé (proposée)
 texte: L'homme frappe, et la première houe naît. Il est forgeron. Il donne une houe à chacun, le mil se lève, et Wuro s'éloigne dans le ciel. Mais sans lui, les hommes oublient vite.
 genre: adulte/homme
 duree: 14340ms (estimée)
+texte_dyu: O kɔ, a ka mɔgɔ dɔ bugɔ. A ye nɛgɛba baarakɛla le ye. A bɛ mɔgɔ kelen kelen bɛɛ ta sumanikɛminan dɔ di o ma, k'a fɔ ko: " Aw ye aw yɛrɛ bonya! " Nka, n'o tɛ, mɔgɔw be ɲinɛ o kɔ joona.
+enregistre_dyu: wuro-masque-feu-dyu.m4a (14664ms)
+texte_fuf: Yimɓe ɓe'e maɓɓitoo, ɓerɗe ɗiɗaɓere ummitoto. O neɗɗo huuwoowo leɗɗe. O hokki go'oto bee go'o, ɓikkoy maako ɗon nyaami. Wuro ɗon yaha dow. Ammaa to walaa mo, worɓe ɗon ciftora.
+enregistre_fuf: wuro-masque-feu-fuf.m4a (15864ms)
 
 piste: n4
 histoire: Wuro et le masque de feuilles
@@ -60,6 +80,10 @@ intonation: vif (proposée)
 texte: Recule ta houe, ce champ est à moi !
 genre: adulte/homme
 duree: 3870ms (estimée)
+texte_dyu: I ka kan k'i yɛrɛ minɛ, foro nin ye ne ta ye.
+enregistre_dyu: wuro-masque-n4-dyu.m4a (3872ms)
+texte_fuf: Ndaa ko'e mon, ɗum to am!
+enregistre_fuf: wuro-masque-n4-fuf.m4a (1696ms)
 
 piste: n5
 histoire: Wuro et le masque de feuilles
@@ -70,6 +94,10 @@ intonation: vif (proposée)
 texte: Ton champ s'arrête au piquet !
 genre: jeune/homme
 duree: 2580ms (estimée)
+texte_dyu: I ka foro be ban pewu!
+enregistre_dyu: wuro-masque-n5-dyu.m4a (1744ms)
+texte_fuf: Goomu maaɗa ɗon halki haa ɓernde!
+enregistre_fuf: wuro-masque-n5-fuf.m4a (2976ms)
 
 piste: n6
 histoire: Wuro et le masque de feuilles
@@ -80,6 +108,10 @@ intonation: posé (proposée)
 texte: Un tourbillon de poussière traverse le village, arrache le toit d'un grenier. Un enfant pleure.
 genre: adulte/homme
 duree: 6450ms (estimée)
+texte_dyu: Sanfɔɲɔba dɔ bɛ dugu kɔnɔ, buguriba dɔ b'a ta bonw bɛɛ kunna. Deen dɔ kasira.
+enregistre_dyu: wuro-masque-n6-dyu.m4a (6010ms)
+texte_fuf: Ɗu'um ɓeydaama nder gariiri ndin, o wurtina kaɓirɗe suudu. Ɓiɗɗo boo ɗon mboya.
+enregistre_fuf: wuro-masque-n6-fuf.m4a (6538ms)
 
 piste: n7
 histoire: Wuro et le masque de feuilles
@@ -90,6 +122,10 @@ intonation: interrogatif (proposée)
 texte: Cette nuit-là, le forgeron reste seul devant sa forge éteinte. Que fait-il ?
 genre: adulte/homme
 duree: 5690ms (estimée)
+texte_dyu: O lon su fɛ, nɛgɛtigɛbɔbaga kelen le tora a ta simangbasikɛnɛ kɔrɔ. A be mun lo kɛra?
+enregistre_dyu: wuro-masque-n7-dyu.m4a (6522ms)
+texte_fuf: Nder jemma maajum, maccuɗo jawdi jooɗoto tan yeeso mayru maako. Hol ko o waɗi?
+enregistre_fuf: wuro-masque-n7-fuf.m4a (6746ms)
 
 piste: dormir
 histoire: Wuro et le masque de feuilles
@@ -100,6 +136,10 @@ intonation: chuchoté (proposée)
 texte: Le lendemain, le tourbillon revient. Puis encore le lendemain. La forge reste froide, et on ne sait plus à qui le champ appartient.
 genre: adulte/homme
 duree: 9940ms (estimée)
+texte_dyu: O dugusagwɛ, fɔɲɔba segira ka na. O kɔ, o dugusagwɛ. O kɔ, u y'a fɔ a ye ko: "I tɛ se k'a lɔn jɔn lo ye foro nin tigi ye.
+enregistre_dyu: wuro-masque-dormir-dyu.m4a (11310ms)
+texte_fuf: Nyalnde keso, hendu mawngu warti. Nden balɗe go'o. Fuuɗal ngal ɓeydi masin, nden kam aɗa anndaa gooduɗo leydi ndii.
+enregistre_fuf: wuro-masque-dormir-fuf.m4a (8708ms)
 
 piste: appel
 histoire: Wuro et le masque de feuilles
@@ -110,6 +150,10 @@ intonation: vif (proposée)
 texte: Wuro ! Les hommes se déchirent. Réponds-moi !
 genre: adulte/homme
 duree: 3940ms (estimée)
+texte_dyu: Wuro ! Cɛɛw y'a daminɛ ka fara ɲɔgɔn kan. I ka ne jaabi!
+enregistre_dyu: wuro-masque-appel-dyu.m4a (5812ms)
+texte_fuf: Wuro ! Yimɓe ɓe'e ɗon cembiɗa. Jaabbo yam !
+enregistre_fuf: wuro-masque-appel-fuf.m4a (4788ms)
 
 piste: n8
 histoire: Wuro et le masque de feuilles
@@ -120,6 +164,10 @@ intonation: mystérieux (proposée)
 texte: Une étoile grossit, puis glisse vers le bois sacré. Le forgeron y entre. Les feuilles du grand arbre tombent et forment un costume, surmonté d'un masque de bois.
 genre: adulte/homme
 duree: 11840ms (estimée)
+texte_dyu: Lolo dɔ nana bonya, o kɔ, a girinna ka taga yiri saninman kan. Mɔgɔ min be baara kɛ ni nɛgɛ ye, ale le be don. O yiriba y'a furaburu dɔ bɔ k'a kɛ fani ye.
+enregistre_dyu: wuro-masque-n8-dyu.m4a (12244ms)
+texte_fuf: Ɗimleere mawnini, ɓaawo maajum o dilli dow leɗɗe ceniiɗe. Fuujoowo'en ɗon natti. Ɗu'um waɗi leɗɗe mawɗe, ɗe maɓɓiti ngam waɗugo ɓorgo.
+enregistre_fuf: wuro-masque-n8-fuf.m4a (10308ms)
 
 piste: n9
 histoire: Wuro et le masque de feuilles
@@ -130,6 +178,10 @@ intonation: solennel (proposée)
 texte: Voici mon fils, Dwo. Toi, forgeron, porte-le. Va. Rends-leur l'ordre.
 genre: voix solennelle/libre
 duree: 5450ms (estimée)
+texte_dyu: O ye ne dencɛ Dwo ye. E, nɛgɛbaarabaga, i k'a ta. I ka taga. I k'a fɔ u ye ko u ka taga.
+enregistre_dyu: wuro-masque-n9-dyu.m4a (8462ms)
+texte_fuf: Kanko woni ɓiɗɗo am, Dwo. Onon maccuɗo leɗɗe, hoo'u ɗum. Ndaa. Hokka ɓe umroore.
+enregistre_fuf: wuro-masque-n9-fuf.m4a (7854ms)
 
 piste: n10
 histoire: Wuro et le masque de feuilles
@@ -140,6 +192,10 @@ intonation: posé (proposée)
 texte: À l'aube, les feuilles frémissent au-dessus d'un toit. Dwo sort. Les villageois reculent. Mais l'Ancien s'avance, le reconnaît et s'incline.
 genre: adulte/homme
 duree: 9100ms (estimée)
+texte_dyu: Dugu gwɛra tuma na, yiriw be yɛrɛyɛrɛ boon sanfɛ. Fɛɛn fila be bɔ. Dugu mɔgɔw be tagara kɔfɛ. Nka Cɛkɔrɔba tagar'a lɔn, k'a kunbiri gwan a kɔrɔ.
+enregistre_dyu: wuro-masque-n10-dyu.m4a (13326ms)
+texte_fuf: Nde naange wurtata, leɗɗe ɗon ɓilla dow daande. Ɗi ɗiɗaɓu. Yimɓe gariiri'en ɗon njogii. Ammaa Nyaako Mawɗo wari, o anndi mo, o sujidani.
+enregistre_fuf: wuro-masque-n10-fuf.m4a (10110ms)
 
 piste: n11
 histoire: Wuro et le masque de feuilles
@@ -150,6 +206,10 @@ intonation: enlevé (proposée)
 texte: Dwo danse, et tout le village frappe dans ses mains. Suis la cadence !
 genre: adulte/homme
 duree: 6070ms (estimée)
+texte_dyu: Dɔɔni o kɔ, dugumɔgɔw bɛɛ y'a kaan kɔrɔta. I ka kan k'o kɛ!
+enregistre_dyu: wuro-masque-n11-dyu.m4a (5530ms)
+texte_fuf: Yimɓe ɗiɗo ɓe njooɗoto, nden gariiri fuu ɓe mbari juuɗe maako. Jaɓɓorgo Daartol!
+enregistre_fuf: wuro-masque-n11-fuf.m4a (6698ms)
 
 piste: n13
 histoire: Wuro et le masque de feuilles
@@ -160,6 +220,10 @@ intonation: posé (proposée)
 texte: Il secoue ses feuilles entre les deux querelleurs. Ils baissent les bras et se serrent la main. Le tourbillon revient : Dwo lui fait face, et le tourbillon s'éteint.
 genre: adulte/homme
 duree: 12220ms (estimée)
+texte_dyu: O kɔ, a y'a ka sɛbɛw yuguyugu ɲɔgɔn cɛ. U b'u bolo biri duguma ka ɲɔgɔn dɛmɛ. Sanfɔɲɔ bɛ sekɔ ka na tuun; fɔɲɔ fla bɛ o ɲa fɛ, fɔɲɔ fana bɛ ban.
+enregistre_dyu: wuro-masque-n13-dyu.m4a (11838ms)
+texte_fuf: O dartini leɗɗe nder hakkunde yimɓe ɗiɗo. Ɓe njooɗi juuɗe maɓɓe, ɓe kawti. Ɓooyaaki ɓaawo maako, ɗiɗo e yeeso maako, ɓooyaani.
+enregistre_fuf: wuro-masque-n13-fuf.m4a (9476ms)
 
 piste: n14
 histoire: Wuro et le masque de feuilles
@@ -170,6 +234,10 @@ intonation: posé (proposée)
 texte: Depuis ce jour, quand le désordre revient, on sort le masque de feuilles. Et là-haut, une étoile veille.
 genre: adulte/homme
 duree: 7890ms (estimée)
+texte_dyu: K'a ta o lon na, n'o koo tun ma diya an ye tugun, an tun be to k'an ka furaburuw bɔ. O kɔ, lolo dɔ be sanfɛ.
+enregistre_dyu: wuro-masque-n14-dyu.m4a (9578ms)
+texte_fuf: Gila nden wakkati, to wuttudu fuɗɗii, yimɓe ɓeen mbaɗata huutoreeji. E dow, koode boo ɗon wara.
+enregistre_fuf: wuro-masque-n14-fuf.m4a (6970ms)
 
 piste: film-001
 histoire: Wuro et le masque de feuilles
@@ -180,6 +248,8 @@ intonation: solennel (scénario)
 texte: Wuro et le masque de feuilles. Un mythe du pays bobo.
 genre: adulte/libre
 duree: 5000ms (mesurée sur le film)
+texte_dyu: Wuro ni furaburu ɲagaminin. O ye jamana kumakolon dɔ lo ye.
+texte_fuf: Wuro e maski leɗɗe. Gooto go'o nder lesdi boowo.
 
 piste: film-002
 histoire: Wuro et le masque de feuilles
@@ -190,6 +260,8 @@ intonation: posé (proposée)
 texte: Au commencement, il n'y avait que la nuit. Puis Wuro abaissa les mains, et la terre monta.
 genre: adulte/libre
 duree: 5900ms (mesurée sur le film)
+texte_dyu: A daminɛ na, suu dɔrɔn lo tun be yen. O kɔ, Wuro k'a boro fla majigi. Dugukolo yɛlɛnna.
+texte_fuf: Fuɗɗoode, jemma tan woni. Sey Wuro maɓɓiti juuɗe maako, duniyaaru ummi.
 
 piste: film-003
 histoire: Wuro et le masque de feuilles
@@ -200,6 +272,8 @@ intonation: posé (proposée)
 texte: Il lança une boule de feu vers l'horizon : ce fut le soleil.
 genre: adulte/libre
 duree: 4300ms (mesurée sur le film)
+texte_dyu: O kɔ, a ka tasuma cɛtigɛ k'a kɛ tere ye.
+texte_fuf: Sey o wurtini yiite dow le'i, ɗum laati naange.
 
 piste: film-004
 histoire: Wuro et le masque de feuilles
@@ -210,6 +284,8 @@ intonation: posé (proposée)
 texte: Les arbres poussèrent d'un seul coup. Et Wuro, le Créateur, posa le pied sur sa terre neuve.
 genre: adulte/libre
 duree: 7200ms (mesurée sur le film)
+texte_dyu: O y'a to yiriw tun be falen. O kɔ, Danbaga Wuro sigira a ta dugukolo kura kan.
+texte_fuf: Leɗɗe boo ɗon ɓesda. Nden Wuro, Mawɗo, nastini duniyaaru maako kesal.
 
 piste: film-005
 histoire: Wuro et le masque de feuilles
@@ -220,6 +296,8 @@ intonation: posé (proposée)
 texte: La terre était belle, mais personne ne la foulait. Wuro s'accroupit et modela un tertre.
 genre: adulte/libre
 duree: 6400ms (mesurée sur le film)
+texte_dyu: Dugukolo tun cɛ ka ɲi, nka mɔgɔ si tun tɛ se k'a dɔndɔn. Wuro y'a kunbiri gwan k'a ka boon lɔ.
+texte_fuf: Luttuɗum booɗɗum, ammaa walaa gaɗoowo. Wuro ɓooyii e hoore maako, o waɗi suudu mawngu.
 
 piste: film-006
 histoire: Wuro et le masque de feuilles
@@ -230,6 +308,8 @@ intonation: émerveillé (scénario)
 texte: Un homme en sortit, massif et silencieux. Il regarda ses mains, puis son Créateur.
 genre: adulte/libre
 duree: 6800ms (mesurée sur le film)
+texte_dyu: O kɔ, cɛ dɔ bɔra o kɔnɔ ka bɔ. A y'a janto a yɛrɛ bolow la ani k'a Danbaga filɛ.
+texte_fuf: Goɗɗo go'o wari daga nder mayre nden, mawɗo e mo suuɗii. O yi'i juuɗe maako, nden kam o yi'iri Duubaajo maako.
 
 piste: film-007
 histoire: Wuro et le masque de feuilles
@@ -240,6 +320,8 @@ intonation: posé (proposée)
 texte: Wuro lui donna le feu. Il fit surgir une enclume et lui tendit un marteau.
 genre: adulte/libre
 duree: 5600ms (mesurée sur le film)
+texte_dyu: Wuro ye tasuma don a la. O kɔ, a ka dingɛ dɔ lɔ, k'a kininboro gbasi.
+texte_fuf: Wuro waɗi yiite dow maako. O waɗi ko'e maɓɓaaje, o hokki mo cembal.
 
 piste: film-008
 histoire: Wuro et le masque de feuilles
@@ -250,6 +332,8 @@ intonation: posé (proposée)
 texte: L'homme frappa, les étincelles volèrent, et la première houe naquit. Il était forgeron.
 genre: adulte/libre
 duree: 6500ms (mesurée sur le film)
+texte_dyu: Adamaden ka mɔgɔ dɔ bugɔ; o kɔ, sanbɛrɛw wurira. Sanbɛrɛ fɔlɔ nana woro. A tun ye nɛgɛba baarakɛla ye.
+texte_fuf: Sey neɗɗo o'o wurtini nyaamo, nyaamdu maɓɓiti. Ɗuum waɗi nyaamo wurti. O ɗon huuwa kuuje njamndi.
 
 piste: film-009
 histoire: Wuro et le masque de feuilles
@@ -260,6 +344,8 @@ intonation: posé (proposée)
 texte: Les maisons de banco s'élevèrent une à une. Wuro ouvrit les bras, et d'autres hommes sortirent de terre.
 genre: adulte/libre
 duree: 6800ms (mesurée sur le film)
+texte_dyu: O boonw bɛɛ tun lɔra kelen kelen. Wuro y'a bolow dayɛlɛ, mɔgɔ wɛrɛw bɔra dugu kɔnɔ.
+texte_fuf: Duuɗe bankooje ɗon ɓadake go'oto gaɗa. Wuro udditiri juuɗe maako, nden yimɓe woɗɓe ngari daga lesdi.
 
 piste: film-010
 histoire: Wuro et le masque de feuilles
@@ -270,6 +356,8 @@ intonation: posé (proposée)
 texte: Le forgeron donna une houe à chacun. Tous cultivèrent, et le mil se leva.
 genre: adulte/libre
 duree: 5900ms (mesurée sur le film)
+texte_dyu: Kɛrɛkɛcɛ ye dɔ di u bɛɛ kelen kelen ma. O bɛɛ ye sɛnɛ kɛ, ka siman sɔrɔ.
+texte_fuf: Mawɗo jawdi hokki koo moye goɗɗum. Yimɓe fuu ɓe nganndi, ɓerɗe maɓɓe ɗon nyaamda.
 
 piste: film-011
 histoire: Wuro et le masque de feuilles
@@ -280,6 +368,8 @@ intonation: tendre (scénario)
 texte: Content de son œuvre, Wuro les salua et s'éloigna dans le ciel.
 genre: adulte/libre
 duree: 4500ms (mesurée sur le film)
+texte_dyu: Wuro tun ninsɔndiyanin lo a ka baara kosɔn. O kɔ, a tagara sankolo la.
+texte_fuf: Wuro hawti bee kuugal maako, o welliti ɓe, o yahri dow.
 
 piste: film-012
 histoire: Wuro et le masque de feuilles
@@ -290,6 +380,8 @@ intonation: inquiet (scénario)
 texte: Mais sans Wuro, les hommes oublièrent vite.
 genre: adulte/libre
 duree: 3400ms (mesurée sur le film)
+texte_dyu: Nka ni Wuro tun tɛ yen, mɔgɔw tun be ɲinɛ o kɔ joona.
+texte_fuf: Ammaa to walaa Wuro, yimɓe ɗon mbaadi.
 
 piste: film-013
 histoire: Wuro et le masque de feuilles
@@ -300,6 +392,8 @@ intonation: colère (scénario)
 texte: Recule ta houe, ce champ est à moi !
 genre: adulte/homme
 duree: 3100ms (mesurée sur le film)
+texte_dyu: I ka kan k'i yɛrɛ minɛ, foro nin ye ne ta ye.
+texte_fuf: Ndaa ko'e mon, ɗum to am!
 
 piste: film-014
 histoire: Wuro et le masque de feuilles
@@ -310,6 +404,8 @@ intonation: colère (scénario)
 texte: Ton champ s'arrête au piquet !
 genre: enfant/libre
 duree: 2600ms (mesurée sur le film)
+texte_dyu: I ka foro be ban pewu!
+texte_fuf: Goomu maaɗa ɗon halki haa ɓernde!
 
 piste: film-015
 histoire: Wuro et le masque de feuilles
@@ -320,6 +416,8 @@ intonation: posé (proposée)
 texte: Puis un tourbillon de poussière traversa le village. Il arracha le toit d'un grenier. Un enfant pleura.
 genre: adulte/libre
 duree: 7900ms (mesurée sur le film)
+texte_dyu: O kɔ, buguriba dɔ ye dugu lamini. O kɔ, a y'a ka boon sanfɛla bɔ. Deen dɔ kasira.
+texte_fuf: Caggal ɗuum, hayru leydi ɓeydii nder wuro ngoo. O dartini dariiɗo to suudu. Ɓiɗɗo boo ɗon mboya.
 
 piste: film-016
 histoire: Wuro et le masque de feuilles
@@ -330,6 +428,8 @@ intonation: posé (proposée)
 texte: Cette nuit-là, le forgeron resta seul devant sa forge éteinte.
 genre: adulte/libre
 duree: 4700ms (mesurée sur le film)
+texte_dyu: O suu nin na, nɛgɛbaara tun tora a kelen a ka nɛgɛbaaradugu kɔrɔ.
+texte_fuf: Nder jemma nde'e, maccuɗo jawdi jooɗii tan yeeso mayru maako.
 
 piste: film-017
 histoire: Wuro et le masque de feuilles
@@ -340,6 +440,8 @@ intonation: suppliant (scénario)
 texte: Wuro ! Les hommes se déchirent. Réponds-moi !
 genre: adulte/homme
 duree: 4200ms (mesurée sur le film)
+texte_dyu: Wuro ! Cɛɛw y'a daminɛ ka fara ɲɔgɔn kan. I ka ne jaabi!
+texte_fuf: Wuro ! Yimɓe ɓe'e ɗon cembiɗa. Jaabbo yam !
 
 piste: film-018
 histoire: Wuro et le masque de feuilles
@@ -350,6 +452,8 @@ intonation: posé (proposée)
 texte: Une étoile grossit, puis glissa vers le bois sacré.
 genre: adulte/libre
 duree: 4000ms (mesurée sur le film)
+texte_dyu: Lolo dɔ wurira, ka yɛlɛ yiri saninman kan.
+texte_fuf: Ɗoyre mawnini, ɓaawo maajum o dilli dow leɗɗe ceniiɗe.
 
 piste: film-019
 histoire: Wuro et le masque de feuilles
@@ -360,6 +464,8 @@ intonation: posé (proposée)
 texte: Le forgeron y entra. Une lumière tomba : Wuro était là.
 genre: adulte/libre
 duree: 5100ms (mesurée sur le film)
+texte_dyu: Nɛgɛtigɛbaga donna o yɔrɔ ra. A kɛra ten, Wuro tun be yen.
+texte_fuf: Mawɗo jawdi ɗon natti. Wuro wondi ton.
 
 piste: film-020
 histoire: Wuro et le masque de feuilles
@@ -370,6 +476,8 @@ intonation: mystérieux (scénario)
 texte: Wuro leva les bras vers le grand arbre. Les feuilles tombèrent et formèrent un costume, surmonté d'un masque de bois.
 genre: adulte/libre
 duree: 7500ms (mesurée sur le film)
+texte_dyu: Wuro y'a bolow kɔrɔta ka taga yiriba kɔrɔ. O yiriborow benna ka kɛ fani ye, ka fani dɔ biri a kun na.
+texte_fuf: Wuro ummi juuɗe maako haa leggal mawgal. Fuuɗeeji ɗi'e mbari, ɓe mbaɗi ɓorgo, ɗum ɓorni dow maaki.
 
 piste: film-021
 histoire: Wuro et le masque de feuilles
@@ -380,6 +488,8 @@ intonation: posé (proposée)
 texte: Il le toucha : c'était Dwo, son fils.
 genre: adulte/libre
 duree: 3900ms (mesurée sur le film)
+texte_dyu: A magara a ra; o tun ye a dencɛ Dwo le ye.
+texte_fuf: O meemi mo. Kanko woni ɓiɗɗo maako Dwo.
 
 piste: film-022
 histoire: Wuro et le masque de feuilles
@@ -390,6 +500,8 @@ intonation: grave, lent (scénario)
 texte: Voici mon fils. Toi, forgeron, porte-le.
 genre: esprit, créature : voix grave/libre
 duree: 5100ms (mesurée sur le film)
+texte_dyu: Ne dencɛ filɛ nin ye. E, nɛgɛbaarabaga, i k'a ta.
+texte_fuf: Kanko woni ɓiɗɗo am. Onon maccuɗo leɗɗe, hoo'u ɗum.
 
 piste: film-023
 histoire: Wuro et le masque de feuilles
@@ -400,6 +512,8 @@ intonation: posé (proposée)
 texte: Dwo tourna sur lui-même et redevint costume. Le forgeron le reçut dans ses bras.
 genre: adulte/libre
 duree: 6400ms (mesurée sur le film)
+texte_dyu: Dwo y'a yɛrɛ kunbiri gwan ani a kɛra fani ye tugun. Nɛgɛtigɛbaga y'a mina a boro.
+texte_fuf: Dwo wurtini hoore maako, o fuɗɗiti ɓorgo. Fuujoowo on jaɓi mo nder juuɗe muuɗum.
 
 piste: film-024
 histoire: Wuro et le masque de feuilles
@@ -410,6 +524,8 @@ intonation: doux (scénario)
 texte: Va. Rends-leur l'ordre.
 genre: esprit, créature : voix grave/libre
 duree: 3400ms (mesurée sur le film)
+texte_dyu: I ka taga. I k'a fɔ u ye ko u ka taga.
+texte_fuf: Ndaa. Hokka ɓe umroore.
 
 piste: film-025
 histoire: Wuro et le masque de feuilles
@@ -420,6 +536,8 @@ intonation: posé (proposée)
 texte: Wuro remonta au ciel, et le forgeron repartit, décidé.
 genre: adulte/libre
 duree: 4700ms (mesurée sur le film)
+texte_dyu: Wuro yɛlɛla sankolo la. O kɔ, a y'a latigɛ ka taga.
+texte_fuf: Wuro ƴetti haa asama, nden maccuɗo maɓɓiti.
 
 piste: film-026
 histoire: Wuro et le masque de feuilles
@@ -430,6 +548,8 @@ intonation: posé (proposée)
 texte: À l'aube, il passa derrière une case. Les feuilles frémirent au-dessus du toit.
 genre: adulte/libre
 duree: 6000ms (mesurée sur le film)
+texte_dyu: Dugu gwɛra tuma min na, a tɛmɛna boon dɔ kɔfɛ. Yiribolow tun be yɛrɛyɛrɛla boon sanfɛ.
+texte_fuf: Nde nyalawma fu, o yahdi to ɓaawo jaŋde. Fuuɗeeje ɗon hoosi dow daande.
 
 piste: film-027
 histoire: Wuro et le masque de feuilles
@@ -440,6 +560,8 @@ intonation: posé (proposée)
 texte: Dwo sortit. Les villageois reculèrent, effrayés.
 genre: adulte/libre
 duree: 5300ms (mesurée sur le film)
+texte_dyu: "Dwo" bɔra. O dugumɔgɔw siranna.
+texte_fuf: Dwo wurti. Yimɓe gariiri'en njogii, ɓe kulnii.
 
 piste: film-028
 histoire: Wuro et le masque de feuilles
@@ -450,6 +572,8 @@ intonation: apaisé (scénario)
 texte: Mais l'Ancien s'avança, reconnut le fils de Wuro et s'inclina.
 genre: adulte/libre
 duree: 4600ms (mesurée sur le film)
+texte_dyu: Nka Cɛkɔrɔba wurira ka Wuro dencɛ lɔn, k'a kinbiri gban.
+texte_fuf: Ammaa Allah Mawɗo wari, o yi'i ɓiɗɗo Wuro nden o mawnini mo.
 
 piste: film-029
 histoire: Wuro et le masque de feuilles
@@ -460,6 +584,8 @@ intonation: joyeux (scénario)
 texte: Dwo dansa, et le village frappa dans ses mains.
 genre: adulte/libre
 duree: 4000ms (mesurée sur le film)
+texte_dyu: Dwo ye dɔn kɛ, dugumɔgɔw y'a bolow gosi.
+texte_fuf: Dwo dancing, nden gariiri hokki haa juuɗe maako.
 
 piste: film-030
 histoire: Wuro et le masque de feuilles
@@ -470,6 +596,8 @@ intonation: posé (proposée)
 texte: Il secoua ses feuilles entre les deux querelleurs. Ils baissèrent les bras et se serrèrent la main.
 genre: adulte/libre
 duree: 6100ms (mesurée sur le film)
+texte_dyu: O kɔ, a k'a ka furaburuw yuguyugu ɲɔgɔn cɛ. O ka o boro fla biri dugu ma, ka ɲɔgɔn dɛmɛ.
+texte_fuf: O wurtini leɗɗe hakkunde worɓe ɗiɗo ɓen. Ɓe njooɗi juuɗe maɓɓe, ɓe kawti.
 
 piste: film-031
 histoire: Wuro et le masque de feuilles
@@ -480,6 +608,8 @@ intonation: posé (proposée)
 texte: Le tourbillon revint. Dwo lui fit face, les bras ouverts, et le tourbillon s'éteignit.
 genre: adulte/libre
 duree: 7200ms (mesurée sur le film)
+texte_dyu: Sanfɔɲɔba kɔsegira. Dwo nana a ɲa, a bolow dayɛlɛra, fɔɲɔba banna.
+texte_fuf: Hoolorgal ngal fuɗɗii. Dwo hawti bee maako, juuɗe maɓɓiti, nden kam hendu mawndu on timmi.
 
 piste: film-032
 histoire: Wuro et le masque de feuilles
@@ -490,6 +620,8 @@ intonation: joyeux (scénario)
 texte: Le mil sortit de terre, et tout le village dansa avec Dwo.
 genre: adulte/libre
 duree: 4600ms (mesurée sur le film)
+texte_dyu: A kɛra ten, mɔgɔ waga kelen bɔra dugu kɔnɔ. Dugu mɔgɔw bɛɛ tun bɛ dɔn kɛ ni Dwo ye.
+texte_fuf: Yimɓe nder gariiri fuu mbi'i Dwo.
 
 piste: film-033
 histoire: Wuro et le masque de feuilles
@@ -500,6 +632,8 @@ intonation: doux (scénario)
 texte: Le soir, Dwo rentra dans le bois. Le forgeron en ressortit seul.
 genre: adulte/libre
 duree: 6200ms (mesurée sur le film)
+texte_dyu: Loon dɔ sufɛ, Dwo kɔsegira yiritu kɔnɔ. A kɛra ten, nɛgɛtigɛbɔbaga kelen le bɔra.
+texte_fuf: Nder jemma maajum Dwo wari nder leɗɗe. Gooduɗo ceede'en ɗon wurta bee hoore maako.
 
 piste: film-034
 histoire: Wuro et le masque de feuilles
@@ -510,6 +644,8 @@ intonation: posé (proposée)
 texte: Depuis ce jour, quand le désordre revient, on sort le masque de feuilles.
 genre: adulte/libre
 duree: 5100ms (mesurée sur le film)
+texte_dyu: K'a ta o lon na, n'o koo tun ma diya an ye tugun, an tun be to k'an ka furaburuw bɔ.
+texte_fuf: Gila nden wakkati, to wuttudu fuɗɗii, yimɓe ɓeen mbaɗata huutoreeji.
 
 piste: film-035
 histoire: Wuro et le masque de feuilles
@@ -520,3 +656,5 @@ intonation: très doux (scénario)
 texte: Et là-haut, une étoile veille.
 genre: adulte/libre
 duree: 2900ms (mesurée sur le film)
+texte_dyu: O kɔ, lolo dɔ be sanfɛ.
+texte_fuf: E dow, koode boo ɗon wara.

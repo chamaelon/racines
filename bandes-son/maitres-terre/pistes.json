@@ -11,49 +11,121 @@
    "id": "titre",
    "type": "titre",
    "chemin": "titre",
-   "texte": "Les maîtres de la terre"
+   "texte": "Les maîtres de la terre",
+   "langues": {
+    "dyu": {
+     "texte": "Dugukolo tigiw",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Goonɗinɓe lesdi",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "presentation",
    "type": "presentation",
    "chemin": "presentation",
-   "texte": "Le chef des conquérants commande les hommes, mais la terre lui refuse ses fruits. Tu le conseilles : faut-il forcer, ou aller voir le vieil homme qui parle aux autels ?"
+   "texte": "Le chef des conquérants commande les hommes, mais la terre lui refuse ses fruits. Tu le conseilles : faut-il forcer, ou aller voir le vieil homme qui parle aux autels ?",
+   "langues": {
+    "dyu": {
+     "texte": "Fangatigi min bɛ se sɔrɔ mɔgɔw kan, ale le b'a to mɔgɔw ye sigi a nɔ ra; nka dugukolo tɛ sɔn k'a ta simanw di o ma. Yala i b'a fɛ k'a lasɔmi wa? Walima a ka kan ka taga cɛkɔrɔba dɔ fɛ min bɛ kuma ni sarakabɔnanw ye.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Laamiiɗo mawɗo ɗon umri yimɓe, ammaa lesdi wonaako nyaamdu. A wi'i mo: ko haani o wallina on, koo yahde to mawɗo mawɗo ɗon wolwugo bee sarɗiiji?",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "personnages.griot.nom",
    "type": "personnage",
    "chemin": "personnages.griot.nom",
-   "texte": "Le griot"
+   "texte": "Le griot",
+   "langues": {
+    "dyu": {
+     "texte": "Le griot"
+    },
+    "fuf": {
+     "texte": "Le griot"
+    }
+   }
   },
   {
    "id": "personnages.maitre.nom",
    "type": "personnage",
    "chemin": "personnages.maitre.nom",
-   "texte": "Le maître de la terre"
+   "texte": "Le maître de la terre",
+   "langues": {
+    "dyu": {
+     "texte": "Le maître de la terre"
+    },
+    "fuf": {
+     "texte": "Le maître de la terre"
+    }
+   }
   },
   {
    "id": "personnages.chef.nom",
    "type": "personnage",
    "chemin": "personnages.chef.nom",
-   "texte": "Le chef des cavaliers"
+   "texte": "Le chef des cavaliers",
+   "langues": {
+    "dyu": {
+     "texte": "Le chef des cavaliers"
+    },
+    "fuf": {
+     "texte": "Le chef des cavaliers"
+    }
+   }
   },
   {
    "id": "personnages.cavalier.nom",
    "type": "personnage",
    "chemin": "personnages.cavalier.nom",
-   "texte": "Un cavalier"
+   "texte": "Un cavalier",
+   "langues": {
+    "dyu": {
+     "texte": "Un cavalier"
+    },
+    "fuf": {
+     "texte": "Un cavalier"
+    }
+   }
   },
   {
    "id": "fins.canon",
    "type": "fin",
    "chemin": "fins.canon",
-   "texte": "Version du griot : sème, mon fils"
+   "texte": "Version du griot : sème, mon fils",
+   "langues": {
+    "dyu": {
+     "texte": "Gɛrɛkikan na: \"Sɛnɛ, ne dencɛ\"",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Winndannde caggalGriot: seed, ɓiɗɗo am",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "fins.force",
    "type": "fin",
    "chemin": "fins.force",
-   "texte": "Autre chemin : les champs restent vides"
+   "texte": "Autre chemin : les champs restent vides",
+   "langues": {
+    "dyu": {
+     "texte": "O cogo kelen na, forow tora yɔrɔlakolon",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "laawol gootol: leɗɗe njooɗoto",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "n1",
@@ -67,7 +139,23 @@
    "texte": "Le Nord est un pays de sable et de vent. La terre n'y donne rien sans raison. Le maître de la terre descend des premiers occupants. Il connaît les autels.",
    "genre": "adulte/homme",
    "duree_ms": 12600,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Sahiliyanfan ye cɛncɛn ni fɔɲɔ ka jamana ye. Dugukolo tɛ foyi di ni kuun t'a la. Dugukolo tigi ye dugutigi fɔlɔw le ye. A b'o sarakabɔyɔrɔw lɔn.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 11502,
+     "fichier": "maitres-terre-n1-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Kaŋko woni lesdi cembal e yahugo. Luttuɗo lesdi hokkata ɗum ngam daliila goɗɗum. Mawɗo leydi ndii ƴiwoyi daga yimɓe arandeeji. O anndi kuuje ceniiɗe.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 12782,
+     "fichier": "maitres-terre-n1-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n2",
@@ -81,7 +169,23 @@
    "texte": "Terre, reçois ceci, et donne-nous à manger.",
    "genre": "âgé/homme",
    "duree_ms": 3260,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Dugukolo, i ye nin ta k'a di an ma ka domuni kɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3920,
+     "fichier": "maitres-terre-n2-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Duniyaaru, jaɓa ɗum, hokke'en nyaamdu.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2848,
+     "fichier": "maitres-terre-n2-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n3",
@@ -95,7 +199,23 @@
    "texte": "Il fait l'offrande, et le mil pousse. Un jour, des cavaliers viennent d'ailleurs. Ils s'imposent par la force, et leur chef occupe le village.",
    "genre": "adulte/homme",
    "duree_ms": 10470,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "N'a ye suman di, a be falen. Loon dɔ, sotigi dɔw nana bɔ yɔrɔ wɛrɛ. O bɛ o yɛrɛ majigi ni fanga ye; o ta kuntigiw le bɛ dugu mina.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9998,
+     "fichier": "maitres-terre-n3-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "To o hokki ko'e muuɗum, ɓikkoy maako ɓeyi. Nde nyalnde go'oto, yimɓe ɗon njaha dow koyɗe. Ɓe ngaɗata hoore maɓɓe e sembe, laamiiɓe maɓɓe boo ɗon njooɗi gariiri.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 11108,
+     "fichier": "maitres-terre-n3-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n4",
@@ -109,7 +229,23 @@
    "texte": "Le chef fait semer ses champs. Mais la terre refuse ses fruits. Rien ne pousse, et ses cavaliers ont faim.",
    "genre": "adulte/homme",
    "duree_ms": 8650,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Kuntigi y'a ka foro sɛnɛ. Nka dugukolo ma den. Fanga t'a la, a ka sotigiw be kɔngɔtɔra.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7796,
+     "fichier": "maitres-terre-n4-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Mawɗo'en ɗon piya gese maako. Ammaa lesdi ɗon nyaamaako. Walaa kooɗume ɗon ɓanngina, e mooli'en maaruɓe nyaamoto.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8692,
+     "fichier": "maitres-terre-n4-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n5",
@@ -123,7 +259,23 @@
    "texte": "Mes hommes ont faim. Pourquoi rien ne pousse ?",
    "genre": "adulte/homme",
    "duree_ms": 4020,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Kɔngɔ be ne ka mɔgɔw la. Mun na fɛɛn si tɛ falen?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4298,
+     "fichier": "maitres-terre-n5-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Yimɓe am ɗon nyaamee. Ngam ɗume walaa ko maɓɓata?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4106,
+     "fichier": "maitres-terre-n5-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n6",
@@ -137,31 +289,87 @@
    "texte": "Toi qui le conseilles, que dis-tu ?",
    "genre": "adulte/homme",
    "duree_ms": 3110,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "E min b'a ladi, i be mun le fɔ?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2016,
+     "fichier": "maitres-terre-n6-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "On ɗon toro mo, ɗume mbi'oton?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2224,
+     "fichier": "maitres-terre-n6-fuf.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n6.choices.0.label",
    "type": "choix",
    "chemin": "nodes.n6.choices.0.label",
-   "texte": "« Va voir le vieil homme. »"
+   "texte": "« Va voir le vieil homme. »",
+   "langues": {
+    "dyu": {
+     "texte": "I ka taga cɛkɔrɔba fɛ. ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Ndaa mawɗo on. ",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n6.choices.0.tag",
    "type": "parcours",
    "chemin": "nodes.n6.choices.0.tag",
-   "texte": "conseil de paix"
+   "texte": "conseil de paix",
+   "langues": {
+    "dyu": {
+     "texte": "hɛrɛ ladili",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "jaɓɓorgo jam",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n6.choices.1.label",
    "type": "choix",
    "chemin": "nodes.n6.choices.1.label",
-   "texte": "« Fais semer deux fois plus, sous la menace. »"
+   "texte": "« Fais semer deux fois plus, sous la menace. »",
+   "langues": {
+    "dyu": {
+     "texte": "N'i b'a fɛ k'o kɛ, a to i ka suman ɲɔgɔn fila bɔ. ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Fuu ɓeydoo ɗiɗaɓu, ngam ɓe ngaɗata ɗum. ",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n6.choices.1.tag",
    "type": "parcours",
    "chemin": "nodes.n6.choices.1.tag",
-   "texte": "conseil de force"
+   "texte": "conseil de force",
+   "langues": {
+    "dyu": {
+     "texte": "ladili barikaman",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "hokkugol semmbe",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "force",
@@ -175,31 +383,87 @@
    "texte": "On sème deux fois plus. Il pousse deux fois rien. Le chef baisse-t-il enfin les yeux ?",
    "genre": "adulte/homme",
    "duree_ms": 7360,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "An be suman fila le dan. A ma foyi kɛ siɲɛ fila. Yala a kɛra i n'a fɔ kuntigi b'a ɲɛɛ tugu wa?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7428,
+     "fichier": "maitres-terre-force-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Ɗuum woni ɓeydi ɗiɗi. O wurtinaay ko'e ɗiɗo. Ko honɗun woni ko ardiiɗo ?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6212,
+     "fichier": "maitres-terre-force-fuf.m4a"
+    }
+   }
   },
   {
    "id": "nodes.force.choices.0.label",
    "type": "choix",
    "chemin": "nodes.force.choices.0.label",
-   "texte": "Oui, il va voir le vieil homme"
+   "texte": "Oui, il va voir le vieil homme",
+   "langues": {
+    "dyu": {
+     "texte": "Ɔnhɔn, a bena taga cɛkɔrɔba nin fɛ.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Ee, o ɗon yaha haa mawɗo",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.force.choices.0.tag",
    "type": "parcours",
    "chemin": "nodes.force.choices.0.tag",
-   "texte": "yeux baissés"
+   "texte": "yeux baissés",
+   "langues": {
+    "dyu": {
+     "texte": "ɲadenw tununa",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "gite maaje",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.force.choices.1.label",
    "type": "choix",
    "chemin": "nodes.force.choices.1.label",
-   "texte": "Non, il frappe plus fort"
+   "texte": "Non, il frappe plus fort",
+   "langues": {
+    "dyu": {
+     "texte": "Ayi, a b'a kaan bɔ ka tɛmɛ fɔlɔ kan.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Na, o ɗon ɓeyda bee sembe",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.force.choices.1.tag",
    "type": "parcours",
    "chemin": "nodes.force.choices.1.tag",
-   "texte": "obstination"
+   "texte": "obstination",
+   "langues": {
+    "dyu": {
+     "texte": "yɛrɛminɛli",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "hakkiilo",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "finforce",
@@ -213,7 +477,23 @@
    "texte": "Les cavaliers finissent par partir, le ventre vide. Le pouvoir se conquiert, la terre se respecte. Ce chef ne l'a pas compris.",
    "genre": "adulte/homme",
    "duree_ms": 9560,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Kɛrɛkɛsow tagara ni o kɔnɔbara lakolon ye. Fanga be sɔrɔ mɔgɔw kan. Dugukolo fana be bonya la ɲɔgɔn kan. O kuntigi ma o faamu.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 10190,
+     "fichier": "maitres-terre-finforce-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Nde ɓe ndilli, ɓerɗe maɓɓe ɗon cembiɗa. Fuu laamu heɓata, lesdi ɗon mawnina. Mawɗo on paamaayi ɗum.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7636,
+     "fichier": "maitres-terre-finforce-fuf.m4a"
+    }
+   }
   },
   {
    "id": "voir",
@@ -227,7 +507,23 @@
    "texte": "Vieux père, ta terre me refuse.",
    "genre": "adulte/homme",
    "duree_ms": 2730,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "N Faa kɔrɔ, i ka jamana banna ne la.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2880,
+     "fichier": "maitres-terre-voir-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Baabiraawo mawɗo, lesdi mon ɗon njaɓa yam.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2832,
+     "fichier": "maitres-terre-voir-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n7",
@@ -241,7 +537,23 @@
    "texte": "Elle ne te connaît pas encore.",
    "genre": "âgé/homme",
    "duree_ms": 2580,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "A t'i lɔn fɔlɔ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 1280,
+     "fichier": "maitres-terre-n7-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "O anndaa on haa jooni.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 1712,
+     "fichier": "maitres-terre-n7-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n8",
@@ -255,55 +567,151 @@
    "texte": "Présente-moi à elle.",
    "genre": "adulte/homme",
    "duree_ms": 1440,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "A to n' k'i yɛrɛ yira a la.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 1968,
+     "fichier": "maitres-terre-n8-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Wondini yam bee maako.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 1840,
+     "fichier": "maitres-terre-n8-fuf.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n9.question",
    "type": "jeu",
    "chemin": "nodes.n9.question",
-   "texte": "Quel partage conclut l'accord entre les deux hommes ?"
+   "texte": "Quel partage conclut l'accord entre les deux hommes ?",
+   "langues": {
+    "dyu": {
+     "texte": "O cɛ fila ye bɛn min sigi, o be mun lo yira?",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Ko honɗun woni ko yimɓe ɗiɗo ɓeen mbaɗi?",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n9.gagne",
    "type": "jeu",
    "chemin": "nodes.n9.gagne",
-   "texte": "C'est cela : tu commanderas les hommes, et je parlerai à la terre."
+   "texte": "C'est cela : tu commanderas les hommes, et je parlerai à la terre.",
+   "langues": {
+    "dyu": {
+     "texte": "A flɛ, i bɛna kuma mɔgɔw fɛ; ne bɛna kuma dugukolo kan.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "\"Ɗun woni ko'e mon: a umri yimɓe, ammaa mi wolwani duniyaaru.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n9.perdu",
    "type": "jeu",
    "chemin": "nodes.n9.perdu",
-   "texte": "Non : le chef commande les hommes, et seul le maître parle à la terre."
+   "texte": "Non : le chef commande les hommes, et seul le maître parle à la terre.",
+   "langues": {
+    "dyu": {
+     "texte": "O tɛ can ye dɛ! Kuntigi le bɛ mɔgɔw ta kuma fɔ, k'a sɔrɔ kuntigi kelenpe le bɛ kuma dunuɲa ra.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Naa' ngam mawɗo ɗon umri yimɓe, ammaa mawɗo tan ɗon metana yimɓe.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n9.reponses.0.label",
    "type": "jeu",
    "chemin": "nodes.n9.reponses.0.label",
-   "texte": "Le chef commande les hommes, le maître parle à la terre"
+   "texte": "Le chef commande les hommes, le maître parle à la terre",
+   "langues": {
+    "dyu": {
+     "texte": "Jamana kuntigi le bɛ mɔgɔw ta kuma fɔra; mɔgɔkɔrɔba le b'a fɔ dugukolo ye.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Laamiiɗo ɗon umri yimɓe, mawɗo ɗon wolwugo bee lesdi.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n9.reponses.1.label",
    "type": "jeu",
    "chemin": "nodes.n9.reponses.1.label",
-   "texte": "Le chef parle aux autels, le maître commande"
+   "texte": "Le chef parle aux autels, le maître commande",
+   "langues": {
+    "dyu": {
+     "texte": "Kuntigi bɛ kuma ni sarakabɔnanw ye, kuntigi b'a fɔ ko:",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Mawɗo ɗon wi'a bee kootoy, mawɗo ɗon umri.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n9.reponses.2.label",
    "type": "jeu",
    "chemin": "nodes.n9.reponses.2.label",
-   "texte": "Tous deux quittent le pays"
+   "texte": "Tous deux quittent le pays",
+   "langues": {
+    "dyu": {
+     "texte": "U fila bɛɛ bɔra jamana kɔnɔ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Yimɓe ɗiɗo ɓe njahi leydi",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n9.tags.win",
    "type": "parcours",
    "chemin": "nodes.n9.tags.win",
-   "texte": "bonne réponse"
+   "texte": "bonne réponse",
+   "langues": {
+    "dyu": {
+     "texte": "jaabili ɲuman",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "jaabawol gooŋga",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n9.tags.lose",
    "type": "parcours",
    "chemin": "nodes.n9.tags.lose",
-   "texte": "réponse manquée"
+   "texte": "réponse manquée",
+   "langues": {
+    "dyu": {
+     "texte": "a ma jaabi",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "jaabol maayi",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "n10",
@@ -317,7 +725,23 @@
    "texte": "Seul le maître de la terre parle aux autels. Ensemble, ils font l'offrande, et la pluie revient.",
    "genre": "adulte/homme",
    "duree_ms": 7360,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Dugukolo kuntigi kelenpe le bɛ kuma ni sarakabɔnanw ye. O ka saraka bɔ ɲɔgɔn fɛ, sanji nana.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7002,
+     "fichier": "maitres-terre-n10-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Kanko tan woni laamiiɗo duniyaaru. Ɓe fuu ɓe ɗon hokkata dokkal, nden kam ndiyam wara.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5802,
+     "fichier": "maitres-terre-n10-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n11",
@@ -331,7 +755,23 @@
    "texte": "La terre te reconnaît.",
    "genre": "âgé/homme",
    "duree_ms": 1820,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Dugukolo fana b'i lɔn.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 1824,
+     "fichier": "maitres-terre-n11-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Leydi anndi on.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 1648,
+     "fichier": "maitres-terre-n11-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n12",
@@ -345,7 +785,23 @@
    "texte": "Puis-je semer ?",
    "genre": "adulte/homme",
    "duree_ms": 1440,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Yala ne be se ka danni kɛ wa?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2176,
+     "fichier": "maitres-terre-n12-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Mi waawataa semde?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 1744,
+     "fichier": "maitres-terre-n12-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n13",
@@ -359,7 +815,23 @@
    "texte": "Sème, mon fils.",
    "genre": "âgé/homme",
    "duree_ms": 1590,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "A wolonwulanan, ne dencɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 1936,
+     "fichier": "maitres-terre-n13-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Joweego, ɓiɗɗo am.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 1376,
+     "fichier": "maitres-terre-n13-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n14",
@@ -373,7 +845,23 @@
    "texte": "Aujourd'hui encore, le chef consulte le maître de la terre.",
    "genre": "adulte/homme",
    "duree_ms": 4250,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Hali bi, kuntigi bɛ jamana kuntigi ɲininka.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2912,
+     "fichier": "maitres-terre-n14-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Haa nyalnde nde'e, laamiiɗo ɗon toro mawɗo lesdi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3104,
+     "fichier": "maitres-terre-n14-fuf.m4a"
+    }
+   }
   },
   {
    "id": "film-001",
@@ -389,7 +877,19 @@
    "texte": "Les maîtres de la terre. Une légende kurumba.",
    "genre": "adulte/libre",
    "duree_ms": 4500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Dugukolo tigiw. O ye kurumba ka maana dɔ ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Goonɗinɓe lesdi. Goomu kurumba.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-002",
@@ -405,7 +905,19 @@
    "texte": "Le Nord est un pays de sable et de vent. La terre n'y donne rien sans raison.",
    "genre": "adulte/libre",
    "duree_ms": 5500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Sahiliyanfan ye cɛncɛn ni fɔɲɔ ka jamana ye. Dugukolo tɛ foyi di ni kuun t'a la.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Kaŋko woni lesdi cembal e yahugo. Luttuɗo lesdi hokkata ɗum ngam daliila goɗɗum.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-003",
@@ -421,7 +933,19 @@
    "texte": "Le maître de la terre descend des premiers occupants. Il connaît les autels.",
    "genre": "adulte/libre",
    "duree_ms": 5500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Dugukolo tigi ye dugutigi fɔlɔw le ye. A b'o sarakabɔyɔrɔw lɔn.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Mawɗo leydi ndii ƴiwoyi daga yimɓe arandeeji. O anndi kuuje ceniiɗe.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-004",
@@ -437,7 +961,19 @@
    "texte": "Terre, reçois ceci, et donne-nous à manger.",
    "genre": "âgé/libre",
    "duree_ms": 4000,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Dugukolo, i ye nin ta k'a di an ma ka domuni kɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Duniyaaru, jaɓa ɗum, hokke'en nyaamdu.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-005",
@@ -453,7 +989,19 @@
    "texte": "Il fait l'offrande, et le mil pousse.",
    "genre": "adulte/libre",
    "duree_ms": 3200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "N'a ye suman di, a be falen.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "To o hokki ko'e muuɗum, ɓikkoy maako ɓeyi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-006",
@@ -469,7 +1017,19 @@
    "texte": "Un jour, des cavaliers viennent d'ailleurs, et ils s'imposent par la force.",
    "genre": "adulte/libre",
    "duree_ms": 5100,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Lon dɔ, sotigi dɔw bɔra dugu wɛrɛ ra ka na kɛrɛ kɛ ni o ta fanga ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Nder nyalnde go'oto, mawɓe koyɗe ngari, ɓe ngaɗani hoore maɓɓe sembe.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-007",
@@ -485,7 +1045,19 @@
    "texte": "Leur chef occupe le village. Les conquérants s'installent.",
    "genre": "adulte/libre",
    "duree_ms": 4900,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "U kuntigi lo be dugu kɔnɔ. Mɔgɔ minw tun b'a fɛ ka see sɔrɔ u kan, olu be sigi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Mawɗo maɓɓe ɗon jooɗi nder gariiri. Mawɓe ɗon njooɗoto.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-008",
@@ -501,7 +1073,19 @@
    "texte": "Il fait semer ses champs. Mais la terre refuse ses fruits.",
    "genre": "adulte/libre",
    "duree_ms": 4600,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "A b'a ka forow sɛnɛ. Nka dugukolo ma den.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "O ɗon haako gese maako. Ammaa lesdi ɗon nyaamaako.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-009",
@@ -517,7 +1101,19 @@
    "texte": "Rien ne pousse. Et ses cavaliers ont faim.",
    "genre": "adulte/libre",
    "duree_ms": 4100,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Fɛɛn si tɛ yiriwa. A ka sotigiw fana be kɔngɔ la.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Walaa ko ɓeyda. E ɓe ɗon njooɗii dow ko'e muuɗum'en e weelo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-010",
@@ -533,7 +1129,19 @@
    "texte": "Mes hommes ont faim. Pourquoi rien ne pousse ?",
    "genre": "adulte/homme",
    "duree_ms": 3300,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Kɔngɔ be ne ka mɔgɔw la. Mun na fɛɛn si tɛ falen?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Yimɓe am ɗon nyaamee. Ngam ɗume walaa ko maɓɓata?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-011",
@@ -549,7 +1157,19 @@
    "texte": "Le chef des conquérants baisse enfin les yeux. Il va voir le vieil homme.",
    "genre": "adulte/libre",
    "duree_ms": 5400,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "A laban, a y'a ɲɛɛ biri dugu ma. A bena taga cɛkɔrɔba fɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Ardiiɗo mawɓe'en ɓaawo maajum o laɓɓini gite maako. O yahi to mawɗo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-012",
@@ -565,7 +1185,19 @@
    "texte": "Vieux père, ta terre me refuse.",
    "genre": "adulte/homme",
    "duree_ms": 2800,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "N Faa kɔrɔ, i ka jamana banna ne la.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Baabiraawo mawɗo, lesdi mon ɗon njaɓa yam.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-013",
@@ -581,7 +1213,19 @@
    "texte": "Elle ne te connaît pas encore.",
    "genre": "âgé/libre",
    "duree_ms": 2600,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "A t'i lɔn fɔlɔ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "O anndaa on haa jooni.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-014",
@@ -597,7 +1241,19 @@
    "texte": "Présente-moi à elle.",
    "genre": "adulte/homme",
    "duree_ms": 2100,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "A to n' k'i yɛrɛ yira a la.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Wondini yam bee maako.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-015",
@@ -613,7 +1269,19 @@
    "texte": "Un accord est conclu.",
    "genre": "adulte/libre",
    "duree_ms": 2200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "An ye bɛnkan dɔ sigi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Ɗuum waɗi alkawal.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-016",
@@ -629,7 +1297,19 @@
    "texte": "Tu commanderas les hommes, et je parlerai à la terre.",
    "genre": "âgé/libre",
    "duree_ms": 4000,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "I bɛna kuma mɔgɔw fɛ, ne bɛna kuma dugukolo kan.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "A umri yimɓe, nden kam mi wolwata bee lesdi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-017",
@@ -645,7 +1325,19 @@
    "texte": "Seul le maître de la terre parle aux autels.",
    "genre": "adulte/libre",
    "duree_ms": 3200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Dugukolo kuntigi kelenpe le bɛ kuma ni sarakabɔnanw ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Kanko tan woni laamiiɗo duniyaaru.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-018",
@@ -661,7 +1353,19 @@
    "texte": "Ensemble, ils font l'offrande, et la pluie revient.",
    "genre": "adulte/libre",
    "duree_ms": 3900,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O ka saraka bɔ ɲɔgɔn fɛ, sanji nana.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Ɓe fuu ɓe ɗon hokkata dokkal, nden kam ndiyam wara.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-019",
@@ -677,7 +1381,19 @@
    "texte": "La terre te reconnaît.",
    "genre": "âgé/libre",
    "duree_ms": 2400,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Dugukolo fana b'i lɔn.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Leydi anndi on.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-020",
@@ -693,7 +1409,19 @@
    "texte": "Et le chef est intronisé, de la main même du maître de la terre.",
    "genre": "adulte/libre",
    "duree_ms": 4500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O kɔ, kuntigi dɔ sigira masaya ra; dugukolo tigi yɛrɛ boro.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Sey mawɗo laamiiɗo jooɗoto dow laamu, daga jungo ardiiɗo duuniyaaru.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-021",
@@ -709,7 +1437,19 @@
    "texte": "Puis-je semer ?",
    "genre": "adulte/homme",
    "duree_ms": 1900,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Yala ne be se ka danni kɛ wa?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Mi waawataa semde?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-022",
@@ -725,7 +1465,19 @@
    "texte": "Sème, mon fils.",
    "genre": "âgé/libre",
    "duree_ms": 2600,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "A wolonwulanan, ne dencɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Joweego, ɓiɗɗo am.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-023",
@@ -741,7 +1493,19 @@
    "texte": "Aujourd'hui encore, le chef consulte le maître de la terre.",
    "genre": "adulte/libre",
    "duree_ms": 4500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Hali bi, kuntigi bɛ jamana kuntigi ɲininka.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Haa nyalnde nde'e, laamiiɗo ɗon toro mawɗo lesdi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   }
  ]
 }

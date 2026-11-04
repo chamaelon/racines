@@ -10,6 +10,10 @@ intonation: joyeux (proposée)
 texte: Au dix-huitième siècle, Kong est une grande ville de commerce, et de guerre aussi. Famagan Ouattara y dirige des cavaliers.
 genre: adulte/homme
 duree: 8500ms (estimée)
+texte_fuf: Nder karnuwol sappo e joweetati, Kong laati gariiri kuuɓal mawɗo, nden boo nder konu. O'attara mo anndiraaɗo woni ardiiɗo konu.
+enregistre_fuf: famagan-n1-fuf.m4a (11354ms)
+texte_mos: Yʋʋm kob-gĩnd piig la a nii wã pʋgẽ, Kong ra yaa tẽn-kãsenga. A Ouattara yʋʋr sẽn boond t'a Maamã zãada so-pakdb n kẽng be.
+enregistre_mos: famagan-n1-mos.m4a (9594ms)
 
 piste: n2
 histoire: Famagan et le Gwiriko
@@ -20,6 +24,10 @@ intonation: joyeux (proposée)
 texte: Un jour, il mène sa troupe vers le nord-ouest. La route est longue.
 genre: adulte/homme
 duree: 5690ms (estimée)
+texte_fuf: Wakkati go'o, o yahdi bee jama'aare maako haa woyla hirnaange. Wonaa laawol gootol.
+enregistre_fuf: famagan-n2-fuf.m4a (6794ms)
+texte_mos: Daar a ye, a rɩka a tãb-biisã taoore. Yaa sor-kãsenga.
+enregistre_mos: famagan-n2-mos.m4a (4538ms)
 
 piste: n4
 histoire: Famagan et le Gwiriko
@@ -30,6 +38,10 @@ intonation: interrogatif (proposée)
 texte: Les voici dans la région de Bobo. Ici, la terre a déjà ses maîtres. Toi, tu observes Famagan. Sur quoi portes-tu ton attention ?
 genre: adulte/homme
 duree: 10620ms (estimée)
+texte_fuf: Ɗeen ngoni nder fannu Bobo. Ɗoon, leydi ndii ina jogii joomumɓe. On ɗon ndaara Famagan. Ko honɗun woni ɓernde mon?
+enregistre_fuf: famagan-n4-fuf.m4a (8446ms)
+texte_mos: Yaa b sẽn be Bobo soolmẽ wã. Tẽnga zoe n tara a zu-soben-dãmba. Yãmb geta a Famagan yelle. Bõe yell la y tagsdẽ?
+enregistre_mos: famagan-n4-mos.m4a (9550ms)
 
 piste: cavaliers
 histoire: Famagan et le Gwiriko
@@ -40,6 +52,10 @@ intonation: posé (proposée)
 texte: Ils restent à distance, en armes, et ils se taisent. Chacun comprend que l'on parle aussi avec cela. Mais écoute.
 genre: adulte/homme
 duree: 8800ms (estimée)
+texte_fuf: Ɓe ɗon njooɗi haa yaasi, ɓe ɗon maaya. Yimɓe fuu ɓe anndi wonde en ɗon mbi'a bee non boo. Amma nana.
+enregistre_fuf: famagan-cavaliers-fuf.m4a (9796ms)
+texte_mos: B zãaga b mens ne zab-teedã, la b sĩndame. Ned kam fãa miime tɩ yaa ne rẽ me la b gomda. La kelg-y.
+enregistre_mos: famagan-cavaliers-mos.m4a (8244ms)
 
 piste: parole
 histoire: Famagan et le Gwiriko
@@ -50,6 +66,10 @@ intonation: posé (proposée)
 texte: Je viens te saluer, gardien de cette terre.
 genre: adulte/homme
 duree: 3490ms (estimée)
+texte_fuf: Mi wari mi salmini ma, mawɗo leydi ndii.
+enregistre_fuf: famagan-parole-fuf.m4a (2672ms)
+texte_mos: Mam waame n na n pʋʋs foom, tẽng kãngã gũud.
+enregistre_mos: famagan-parole-mos.m4a (5104ms)
 
 piste: n5
 histoire: Famagan et le Gwiriko
@@ -60,6 +80,10 @@ intonation: interrogatif (proposée)
 texte: Tu viens en ami, ou en maître ?
 genre: âgé/homme
 duree: 3490ms (estimée)
+texte_fuf: On ɗon wari bana boowo, malla bana mawɗo?
+enregistre_fuf: famagan-n5-fuf.m4a (2480ms)
+texte_mos: Yãmb yaa zo-rãmb bɩ karen-saam-dãmba?
+enregistre_mos: famagan-n5-mos.m4a (2896ms)
 
 piste: n6
 histoire: Famagan et le Gwiriko
@@ -70,6 +94,10 @@ intonation: posé (proposée)
 texte: En allié.
 genre: adulte/homme
 duree: 1060ms (estimée)
+texte_fuf: O laati alkawal.
+enregistre_fuf: famagan-n6-fuf.m4a (1712ms)
+texte_mos: Yaa a Zeova zoa.
+enregistre_mos: famagan-n6-mos.m4a (1008ms)
 
 piste: n7
 histoire: Famagan et le Gwiriko
@@ -80,6 +108,10 @@ intonation: posé (proposée)
 texte: Le sabre est échangé contre la bénédiction de la terre. Une alliance est conclue. Mais tous n'acceptent pas.
 genre: adulte/homme
 duree: 7740ms (estimée)
+texte_fuf: Allah hokki yimɓe maako barkiɗinki nder lesdi. O waɗi alkawal. Ammaa naa yimɓe fuu njaɓaayi.
+enregistre_fuf: famagan-n7-fuf.m4a (8116ms)
+texte_mos: B sã n dɩk zabr sʋʋgã, b naaga tẽngã barkã. Yaa kaool la b maan-yã. La pa ned kam fãa n sak woto ye.
+enregistre_mos: famagan-n7-mos.m4a (9156ms)
 
 piste: n8
 histoire: Famagan et le Gwiriko
@@ -90,6 +122,10 @@ intonation: posé (proposée)
 texte: Un chef rival prend les armes. La charge est rude, et le combat dure.
 genre: adulte/homme
 duree: 6070ms (estimée)
+texte_fuf: Mawɗo mooliijo ɗon jeyaa e juuɗe. Ko'e mon, ko'e mooɗon e ɓerɗe mon fuu.
+enregistre_fuf: famagan-n8-fuf.m4a (6106ms)
+texte_mos: Neb nins sẽn zabd ne-a wã rɩka b sɩbgrã. Yaa tʋʋm-kãsemse, la koe-moondmã yaa toog wʋsgo.
+enregistre_mos: famagan-n8-mos.m4a (8586ms)
 
 piste: n9
 histoire: Famagan et le Gwiriko
@@ -100,6 +136,10 @@ intonation: posé (proposée)
 texte: Je me rends.
 genre: adulte/homme
 duree: 1440ms (estimée)
+texte_fuf: Mi hokkata.
+enregistre_fuf: famagan-n9-fuf.m4a (1312ms)
+texte_mos: M na n kõo m menga.
+enregistre_mos: famagan-n9-mos.m4a (1248ms)
 
 piste: n10
 histoire: Famagan et le Gwiriko
@@ -110,6 +150,10 @@ intonation: posé (proposée)
 texte: Le rival dépose ses armes. Un royaume naît autour de Bobo. Regarde ce qu'on annonce au tambour.
 genre: adulte/homme
 duree: 7360ms (estimée)
+texte_fuf: Hakkilantooɓe ɓe'e ɗon dari juuɗe muuɗum'en. Laamu ɗon jibina dow Bobo. Ndaa ko ɓe mbi'i dow tammbere.
+enregistre_fuf: famagan-n10-fuf.m4a (7748ms)
+texte_mos: Ned ning sẽn zabd ne-a wã basa a zab-teedã. Yaa Bobo poorẽ la b sigl rĩung. Ges-y bũmb ning b sẽn wilgã.
+enregistre_mos: famagan-n10-mos.m4a (9732ms)
 
 piste: n11
 histoire: Famagan et le Gwiriko
@@ -120,6 +164,10 @@ intonation: posé (proposée)
 texte: Ce pays sera en paix, et ses routes ouvertes.
 genre: adulte/homme
 duree: 3870ms (estimée)
+texte_fuf: O wi'i: "Luttuɓe nder lesdi ɗon ngi'a jam, laawol maɓɓe ɗon laaɓina.
+enregistre_fuf: famagan-n11-fuf.m4a (5530ms)
+texte_mos: Tẽnga na n yɩɩ bãane, la a sorã na n yɩ vẽenega.
+enregistre_mos: famagan-n11-mos.m4a (4528ms)
 
 piste: n12
 histoire: Famagan et le Gwiriko
@@ -130,6 +178,10 @@ intonation: joyeux (proposée)
 texte: Le grand marché s'anime : la cola, les étoffes et le sel passent de main en main.
 genre: adulte/homme
 duree: 7060ms (estimée)
+texte_fuf: Fuude mawnde ɗon ɓeyda: kola, limce e njamndi ɗon yahra bee juuɗe.
+enregistre_fuf: famagan-n12-fuf.m4a (4970ms)
+texte_mos: Zĩ-kãsemsã ra yaa wʋsgo. Koɛɛgã, futã la zu-loees ra lebgdame n paasdẽ.
+enregistre_mos: famagan-n12-mos.m4a (7418ms)
 
 piste: relire
 histoire: Famagan et le Gwiriko
@@ -140,6 +192,10 @@ intonation: posé (proposée)
 texte: Tu as bien chevauché, mais tu as mal écouté. Reprends la route avec moi.
 genre: adulte/femme
 duree: 6070ms (estimée)
+texte_fuf: On ɗon njaha, ammaa on ɗon nanaako. Ndaare bee am.
+enregistre_fuf: famagan-relire-fuf.m4a (4842ms)
+texte_mos: Fo ra kẽnda sõma, la fo pa kelg-m ye. Kẽng-y ne maam.
+enregistre_mos: famagan-relire-mos.m4a (4682ms)
 
 piste: bien
 histoire: Famagan et le Gwiriko
@@ -150,6 +206,10 @@ intonation: joyeux (proposée)
 texte: Aujourd'hui encore, les Ouattara de Bobo-Dioulasso se souviennent de cette histoire. Les royaumes naissent de rencontres, et de conquêtes.
 genre: adulte/homme
 duree: 8120ms (estimée)
+texte_fuf: Haa hande, Ouattara'en nder Bobo-Dioulasso ɗon siftora haala nden. Laamu ɗon umma daga haɓugo e heɓugo.
+enregistre_fuf: famagan-bien-fuf.m4a (7578ms)
+texte_mos: Baa rũndã-rũndã, Bobo-Dioulasso Ouattara rãmbã ket n tẽra gom-kãensã. Tẽns sã n dogd taab la b tõogd taaba, yaa rẽ n wat ne soolem dãmba.
+enregistre_mos: famagan-bien-mos.m4a (12890ms)
 
 piste: film-001
 histoire: Famagan et le Gwiriko
@@ -160,6 +220,8 @@ intonation: sobre (scénario)
 texte: Famagan et le Gwiriko. Un récit historique, simplifié pour l'image.
 genre: adulte/libre
 duree: 6100ms (mesurée sur le film)
+texte_fuf: Famagan e Gwiriko Ɗuum ko haala taariika, ɗum laaɓɓi ngam hollaago.
+texte_mos: A Famagan ne a Gwiriko. Bãngr-gomdã yaa bũmb sẽn zĩnd pĩnd wẽndẽ wã, la d tõe n yeelame tɩ yaa vẽenega.
 
 piste: film-002
 histoire: Famagan et le Gwiriko
@@ -170,6 +232,8 @@ intonation: posé (proposée)
 texte: Au dix-huitième siècle, Kong est une grande ville de commerce, et de guerre aussi.
 genre: adulte/libre
 duree: 5200ms (mesurée sur le film)
+texte_fuf: Nder karnuwol sappo e joweetati, Kong laati gariiri kuuɓal mawɗo, nden boo nder konu.
+texte_mos: Yʋʋm kob-gĩnd piig la a nii wã pʋgẽ, Kong ra yaa tẽn-kãsenga.
 
 piste: film-003
 histoire: Famagan et le Gwiriko
@@ -180,6 +244,8 @@ intonation: posé (proposée)
 texte: Famagan Ouattara y dirige des cavaliers.
 genre: adulte/libre
 duree: 3300ms (mesurée sur le film)
+texte_fuf: O'attara mo anndiraaɗo woni ardiiɗo konu.
+texte_mos: A Ouattara yʋʋr sẽn boond t'a Maamã zãada so-pakdb n kẽng be.
 
 piste: film-004
 histoire: Famagan et le Gwiriko
@@ -190,6 +256,8 @@ intonation: posé (proposée)
 texte: Il les entraîne à charger, à faire demi-tour, à saluer du sabre.
 genre: adulte/libre
 duree: 4800ms (mesurée sur le film)
+texte_fuf: O torraaɓe ɓe ngaɗata ko'e maɓɓe, ɓe ndaari, ɓe mbaɗi bee kaafahi.
+texte_mos: A zãmsda bãmb tɩ b tʋk ne sʋʋs la b wẽnemd b poorẽ, n pʋʋsd ne zabr sʋʋse.
 
 piste: film-005
 histoire: Famagan et le Gwiriko
@@ -200,6 +268,8 @@ intonation: posé (proposée)
 texte: Un jour, il mène sa troupe vers le nord-ouest. La route est longue.
 genre: adulte/libre
 duree: 5500ms (mesurée sur le film)
+texte_fuf: Wakkati go'o, o yahdi bee jama'aare maako haa woyla hirnaange. Wonaa laawol gootol.
+texte_mos: Daar a ye, a rɩka a tãb-biisã taoore. Yaa sor-kãsenga.
 
 piste: film-006
 histoire: Famagan et le Gwiriko
@@ -210,6 +280,8 @@ intonation: posé (proposée)
 texte: Ils passent les plaines et les rivières, sans s'arrêter.
 genre: adulte/libre
 duree: 3700ms (mesurée sur le film)
+texte_fuf: Ɓe ɗon yaha nder ladde e nder maayo, ɓe ɗon ndilli.
+texte_mos: B kẽeda tẽn-bɛdse, la kʋɩlgã pʋga, n ka bas ye.
 
 piste: film-007
 histoire: Famagan et le Gwiriko
@@ -220,6 +292,8 @@ intonation: posé (proposée)
 texte: Les voici dans la région de Bobo. Ici, la terre a déjà ses maîtres.
 genre: adulte/libre
 duree: 5900ms (mesurée sur le film)
+texte_fuf: Ɗeen ngoni nder fannu Bobo. Ɗoon, leydi ndii ina jogii joomumɓe.
+texte_mos: Yaa b sẽn be Bobo soolmẽ wã. Tẽnga zoe n tara a zu-soben-dãmba.
 
 piste: film-008
 histoire: Famagan et le Gwiriko
@@ -230,6 +304,8 @@ intonation: respectueux (scénario)
 texte: Je viens te saluer, gardien de cette terre.
 genre: adulte/homme
 duree: 3000ms (mesurée sur le film)
+texte_fuf: Mi wari mi salmini ma, mawɗo leydi ndii.
+texte_mos: Mam waame n na n pʋʋs foom, tẽng kãngã gũud.
 
 piste: film-009
 histoire: Famagan et le Gwiriko
@@ -240,6 +316,8 @@ intonation: prudent (scénario)
 texte: Tu viens en ami, ou en maître ?
 genre: âgé/libre
 duree: 2800ms (mesurée sur le film)
+texte_fuf: On ɗon wari bana boowo, malla bana mawɗo?
+texte_mos: Yãmb yaa zo-rãmb bɩ karen-saam-dãmba?
 
 piste: film-010
 histoire: Famagan et le Gwiriko
@@ -250,6 +328,8 @@ intonation: sincère (scénario)
 texte: En allié.
 genre: adulte/homme
 duree: 2100ms (mesurée sur le film)
+texte_fuf: O laati alkawal.
+texte_mos: Yaa a Zeova zoa.
 
 piste: film-011
 histoire: Famagan et le Gwiriko
@@ -260,6 +340,8 @@ intonation: posé (proposée)
 texte: Le sabre est échangé contre la bénédiction de la terre. Une alliance est conclue.
 genre: adulte/libre
 duree: 5900ms (mesurée sur le film)
+texte_fuf: Allah hokki yimɓe maako barkiɗinki nder lesdi. O waɗi alkawal.
+texte_mos: B sã n dɩk zabr sʋʋgã, b naaga tẽngã barkã. Yaa kaool la b maan-yã.
 
 piste: film-012
 histoire: Famagan et le Gwiriko
@@ -270,6 +352,8 @@ intonation: tendu (scénario)
 texte: Mais tous n'acceptent pas. Un chef rival prend les armes.
 genre: adulte/libre
 duree: 5000ms (mesurée sur le film)
+texte_fuf: Ammaa naa yimɓe fuu njaɓaayi. Mawɗo mooliijo ɗon jeyaa e juuɗe.
+texte_mos: La pa ned kam fãa n sak woto ye. Neb nins sẽn zabd ne-a wã rɩka b sɩbgrã.
 
 piste: film-013
 histoire: Famagan et le Gwiriko
@@ -280,6 +364,8 @@ intonation: posé (proposée)
 texte: La charge est rude, et le combat dure.
 genre: adulte/libre
 duree: 3200ms (mesurée sur le film)
+texte_fuf: Ko'e mon, ko'e mooɗon e ɓerɗe mon fuu.
+texte_mos: Yaa tʋʋm-kãsemse, la koe-moondmã yaa toog wʋsgo.
 
 piste: film-014
 histoire: Famagan et le Gwiriko
@@ -290,6 +376,8 @@ intonation: vaincu (scénario)
 texte: Je me rends.
 genre: adulte/homme
 duree: 2100ms (mesurée sur le film)
+texte_fuf: Mi hokkata.
+texte_mos: M na n kõo m menga.
 
 piste: film-015
 histoire: Famagan et le Gwiriko
@@ -300,6 +388,8 @@ intonation: posé (proposée)
 texte: Le rival dépose ses armes. Plus personne ne s'oppose à Famagan.
 genre: adulte/libre
 duree: 5400ms (mesurée sur le film)
+texte_fuf: Hakkilantooɓe ɓe'e ɗon dari juuɗe muuɗum'en. Walaa koo moye ɗon haɓɓa bee Famagan.
+texte_mos: Ned ning sẽn zabd ne-a wã basa a zab-teedã. Ned ka leb n zabd ne a Famagan ye.
 
 piste: film-016
 histoire: Famagan et le Gwiriko
@@ -310,6 +400,8 @@ intonation: posé (proposée)
 texte: Un royaume naît autour de Bobo : le Gwiriko.
 genre: adulte/libre
 duree: 3600ms (mesurée sur le film)
+texte_fuf: Laamu jibini dow Bobo: Gwiriko.
+texte_mos: B sẽn gũbg a Bobo wã, Gwiriko soolmã rogame.
 
 piste: film-017
 histoire: Famagan et le Gwiriko
@@ -320,6 +412,8 @@ intonation: solennel (scénario)
 texte: Ce pays sera en paix, et ses routes ouvertes.
 genre: adulte/homme
 duree: 3500ms (mesurée sur le film)
+texte_fuf: O wi'i: "Luttuɓe nder lesdi ɗon ngi'a jam, laawol maɓɓe ɗon laaɓina.
+texte_mos: Tẽnga na n yɩɩ bãane, la a sorã na n yɩ vẽenega.
 
 piste: film-018
 histoire: Famagan et le Gwiriko
@@ -330,6 +424,8 @@ intonation: posé (proposée)
 texte: Famagan est proclamé. La région entre dans une nouvelle ère.
 genre: adulte/libre
 duree: 5000ms (mesurée sur le film)
+texte_fuf: Famagan ɗon anndina. Luttuɗo leydi ndii ina fuɗɗii ɓeydaade.
+texte_mos: B yeel-b lame tɩ b na n sãama tẽngã. Rẽ n so t'a Zeova nin-buiidã na n paama sũ-noogo.
 
 piste: film-019
 histoire: Famagan et le Gwiriko
@@ -340,6 +436,8 @@ intonation: joyeux (scénario)
 texte: Le grand marché s'anime : la cola, les étoffes et le sel passent de main en main.
 genre: adulte/libre
 duree: 5300ms (mesurée sur le film)
+texte_fuf: Fuude mawnde ɗon ɓeyda: kola, limce e njamndi ɗon yahra bee juuɗe.
+texte_mos: Zĩ-kãsemsã ra yaa wʋsgo. Koɛɛgã, futã la zu-loees ra lebgdame n paasdẽ.
 
 piste: film-020
 histoire: Famagan et le Gwiriko
@@ -350,3 +448,5 @@ intonation: doux (scénario)
 texte: Aujourd'hui encore, les Ouattara de Bobo-Dioulasso se souviennent de cette histoire.
 genre: adulte/libre
 duree: 5600ms (mesurée sur le film)
+texte_fuf: Haa hande, Ouattara'en nder Bobo-Dioulasso ɗon siftora haala nden.
+texte_mos: Baa rũndã-rũndã, Bobo-Dioulasso Ouattara rãmbã ket n tẽra gom-kãensã.

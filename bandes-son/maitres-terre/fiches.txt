@@ -10,6 +10,10 @@ intonation: posé (proposée)
 texte: Le Nord est un pays de sable et de vent. La terre n'y donne rien sans raison. Le maître de la terre descend des premiers occupants. Il connaît les autels.
 genre: adulte/homme
 duree: 12600ms (estimée)
+texte_dyu: Sahiliyanfan ye cɛncɛn ni fɔɲɔ ka jamana ye. Dugukolo tɛ foyi di ni kuun t'a la. Dugukolo tigi ye dugutigi fɔlɔw le ye. A b'o sarakabɔyɔrɔw lɔn.
+enregistre_dyu: maitres-terre-n1-dyu.m4a (11502ms)
+texte_fuf: Kaŋko woni lesdi cembal e yahugo. Luttuɗo lesdi hokkata ɗum ngam daliila goɗɗum. Mawɗo leydi ndii ƴiwoyi daga yimɓe arandeeji. O anndi kuuje ceniiɗe.
+enregistre_fuf: maitres-terre-n1-fuf.m4a (12782ms)
 
 piste: n2
 histoire: Les maîtres de la terre
@@ -20,6 +24,10 @@ intonation: grave (proposée)
 texte: Terre, reçois ceci, et donne-nous à manger.
 genre: âgé/homme
 duree: 3260ms (estimée)
+texte_dyu: Dugukolo, i ye nin ta k'a di an ma ka domuni kɛ.
+enregistre_dyu: maitres-terre-n2-dyu.m4a (3920ms)
+texte_fuf: Duniyaaru, jaɓa ɗum, hokke'en nyaamdu.
+enregistre_fuf: maitres-terre-n2-fuf.m4a (2848ms)
 
 piste: n3
 histoire: Les maîtres de la terre
@@ -30,6 +38,10 @@ intonation: posé (proposée)
 texte: Il fait l'offrande, et le mil pousse. Un jour, des cavaliers viennent d'ailleurs. Ils s'imposent par la force, et leur chef occupe le village.
 genre: adulte/homme
 duree: 10470ms (estimée)
+texte_dyu: N'a ye suman di, a be falen. Loon dɔ, sotigi dɔw nana bɔ yɔrɔ wɛrɛ. O bɛ o yɛrɛ majigi ni fanga ye; o ta kuntigiw le bɛ dugu mina.
+enregistre_dyu: maitres-terre-n3-dyu.m4a (9998ms)
+texte_fuf: To o hokki ko'e muuɗum, ɓikkoy maako ɓeyi. Nde nyalnde go'oto, yimɓe ɗon njaha dow koyɗe. Ɓe ngaɗata hoore maɓɓe e sembe, laamiiɓe maɓɓe boo ɗon njooɗi gariiri.
+enregistre_fuf: maitres-terre-n3-fuf.m4a (11108ms)
 
 piste: n4
 histoire: Les maîtres de la terre
@@ -40,6 +52,10 @@ intonation: posé (proposée)
 texte: Le chef fait semer ses champs. Mais la terre refuse ses fruits. Rien ne pousse, et ses cavaliers ont faim.
 genre: adulte/homme
 duree: 8650ms (estimée)
+texte_dyu: Kuntigi y'a ka foro sɛnɛ. Nka dugukolo ma den. Fanga t'a la, a ka sotigiw be kɔngɔtɔra.
+enregistre_dyu: maitres-terre-n4-dyu.m4a (7796ms)
+texte_fuf: Mawɗo'en ɗon piya gese maako. Ammaa lesdi ɗon nyaamaako. Walaa kooɗume ɗon ɓanngina, e mooli'en maaruɓe nyaamoto.
+enregistre_fuf: maitres-terre-n4-fuf.m4a (8692ms)
 
 piste: n5
 histoire: Les maîtres de la terre
@@ -50,6 +66,10 @@ intonation: interrogatif (proposée)
 texte: Mes hommes ont faim. Pourquoi rien ne pousse ?
 genre: adulte/homme
 duree: 4020ms (estimée)
+texte_dyu: Kɔngɔ be ne ka mɔgɔw la. Mun na fɛɛn si tɛ falen?
+enregistre_dyu: maitres-terre-n5-dyu.m4a (4298ms)
+texte_fuf: Yimɓe am ɗon nyaamee. Ngam ɗume walaa ko maɓɓata?
+enregistre_fuf: maitres-terre-n5-fuf.m4a (4106ms)
 
 piste: n6
 histoire: Les maîtres de la terre
@@ -60,6 +80,10 @@ intonation: interrogatif (proposée)
 texte: Toi qui le conseilles, que dis-tu ?
 genre: adulte/homme
 duree: 3110ms (estimée)
+texte_dyu: E min b'a ladi, i be mun le fɔ?
+enregistre_dyu: maitres-terre-n6-dyu.m4a (2016ms)
+texte_fuf: On ɗon toro mo, ɗume mbi'oton?
+enregistre_fuf: maitres-terre-n6-fuf.m4a (2224ms)
 
 piste: force
 histoire: Les maîtres de la terre
@@ -70,6 +94,10 @@ intonation: interrogatif (proposée)
 texte: On sème deux fois plus. Il pousse deux fois rien. Le chef baisse-t-il enfin les yeux ?
 genre: adulte/homme
 duree: 7360ms (estimée)
+texte_dyu: An be suman fila le dan. A ma foyi kɛ siɲɛ fila. Yala a kɛra i n'a fɔ kuntigi b'a ɲɛɛ tugu wa?
+enregistre_dyu: maitres-terre-force-dyu.m4a (7428ms)
+texte_fuf: Ɗuum woni ɓeydi ɗiɗi. O wurtinaay ko'e ɗiɗo. Ko honɗun woni ko ardiiɗo ?
+enregistre_fuf: maitres-terre-force-fuf.m4a (6212ms)
 
 piste: finforce
 histoire: Les maîtres de la terre
@@ -80,6 +108,10 @@ intonation: posé (proposée)
 texte: Les cavaliers finissent par partir, le ventre vide. Le pouvoir se conquiert, la terre se respecte. Ce chef ne l'a pas compris.
 genre: adulte/homme
 duree: 9560ms (estimée)
+texte_dyu: Kɛrɛkɛsow tagara ni o kɔnɔbara lakolon ye. Fanga be sɔrɔ mɔgɔw kan. Dugukolo fana be bonya la ɲɔgɔn kan. O kuntigi ma o faamu.
+enregistre_dyu: maitres-terre-finforce-dyu.m4a (10190ms)
+texte_fuf: Nde ɓe ndilli, ɓerɗe maɓɓe ɗon cembiɗa. Fuu laamu heɓata, lesdi ɗon mawnina. Mawɗo on paamaayi ɗum.
+enregistre_fuf: maitres-terre-finforce-fuf.m4a (7636ms)
 
 piste: voir
 histoire: Les maîtres de la terre
@@ -90,6 +122,10 @@ intonation: posé (proposée)
 texte: Vieux père, ta terre me refuse.
 genre: adulte/homme
 duree: 2730ms (estimée)
+texte_dyu: N Faa kɔrɔ, i ka jamana banna ne la.
+enregistre_dyu: maitres-terre-voir-dyu.m4a (2880ms)
+texte_fuf: Baabiraawo mawɗo, lesdi mon ɗon njaɓa yam.
+enregistre_fuf: maitres-terre-voir-fuf.m4a (2832ms)
 
 piste: n7
 histoire: Les maîtres de la terre
@@ -100,6 +136,10 @@ intonation: grave (proposée)
 texte: Elle ne te connaît pas encore.
 genre: âgé/homme
 duree: 2580ms (estimée)
+texte_dyu: A t'i lɔn fɔlɔ.
+enregistre_dyu: maitres-terre-n7-dyu.m4a (1280ms)
+texte_fuf: O anndaa on haa jooni.
+enregistre_fuf: maitres-terre-n7-fuf.m4a (1712ms)
 
 piste: n8
 histoire: Les maîtres de la terre
@@ -110,6 +150,10 @@ intonation: posé (proposée)
 texte: Présente-moi à elle.
 genre: adulte/homme
 duree: 1440ms (estimée)
+texte_dyu: A to n' k'i yɛrɛ yira a la.
+enregistre_dyu: maitres-terre-n8-dyu.m4a (1968ms)
+texte_fuf: Wondini yam bee maako.
+enregistre_fuf: maitres-terre-n8-fuf.m4a (1840ms)
 
 piste: n10
 histoire: Les maîtres de la terre
@@ -120,6 +164,10 @@ intonation: posé (proposée)
 texte: Seul le maître de la terre parle aux autels. Ensemble, ils font l'offrande, et la pluie revient.
 genre: adulte/homme
 duree: 7360ms (estimée)
+texte_dyu: Dugukolo kuntigi kelenpe le bɛ kuma ni sarakabɔnanw ye. O ka saraka bɔ ɲɔgɔn fɛ, sanji nana.
+enregistre_dyu: maitres-terre-n10-dyu.m4a (7002ms)
+texte_fuf: Kanko tan woni laamiiɗo duniyaaru. Ɓe fuu ɓe ɗon hokkata dokkal, nden kam ndiyam wara.
+enregistre_fuf: maitres-terre-n10-fuf.m4a (5802ms)
 
 piste: n11
 histoire: Les maîtres de la terre
@@ -130,6 +178,10 @@ intonation: grave (proposée)
 texte: La terre te reconnaît.
 genre: âgé/homme
 duree: 1820ms (estimée)
+texte_dyu: Dugukolo fana b'i lɔn.
+enregistre_dyu: maitres-terre-n11-dyu.m4a (1824ms)
+texte_fuf: Leydi anndi on.
+enregistre_fuf: maitres-terre-n11-fuf.m4a (1648ms)
 
 piste: n12
 histoire: Les maîtres de la terre
@@ -140,6 +192,10 @@ intonation: interrogatif (proposée)
 texte: Puis-je semer ?
 genre: adulte/homme
 duree: 1440ms (estimée)
+texte_dyu: Yala ne be se ka danni kɛ wa?
+enregistre_dyu: maitres-terre-n12-dyu.m4a (2176ms)
+texte_fuf: Mi waawataa semde?
+enregistre_fuf: maitres-terre-n12-fuf.m4a (1744ms)
 
 piste: n13
 histoire: Les maîtres de la terre
@@ -150,6 +206,10 @@ intonation: grave (proposée)
 texte: Sème, mon fils.
 genre: âgé/homme
 duree: 1590ms (estimée)
+texte_dyu: A wolonwulanan, ne dencɛ.
+enregistre_dyu: maitres-terre-n13-dyu.m4a (1936ms)
+texte_fuf: Joweego, ɓiɗɗo am.
+enregistre_fuf: maitres-terre-n13-fuf.m4a (1376ms)
 
 piste: n14
 histoire: Les maîtres de la terre
@@ -160,6 +220,10 @@ intonation: posé (proposée)
 texte: Aujourd'hui encore, le chef consulte le maître de la terre.
 genre: adulte/homme
 duree: 4250ms (estimée)
+texte_dyu: Hali bi, kuntigi bɛ jamana kuntigi ɲininka.
+enregistre_dyu: maitres-terre-n14-dyu.m4a (2912ms)
+texte_fuf: Haa nyalnde nde'e, laamiiɗo ɗon toro mawɗo lesdi.
+enregistre_fuf: maitres-terre-n14-fuf.m4a (3104ms)
 
 piste: film-001
 histoire: Les maîtres de la terre
@@ -170,6 +234,8 @@ intonation: solennel (scénario)
 texte: Les maîtres de la terre. Une légende kurumba.
 genre: adulte/libre
 duree: 4500ms (mesurée sur le film)
+texte_dyu: Dugukolo tigiw. O ye kurumba ka maana dɔ ye.
+texte_fuf: Goonɗinɓe lesdi. Goomu kurumba.
 
 piste: film-002
 histoire: Les maîtres de la terre
@@ -180,6 +246,8 @@ intonation: posé (proposée)
 texte: Le Nord est un pays de sable et de vent. La terre n'y donne rien sans raison.
 genre: adulte/libre
 duree: 5500ms (mesurée sur le film)
+texte_dyu: Sahiliyanfan ye cɛncɛn ni fɔɲɔ ka jamana ye. Dugukolo tɛ foyi di ni kuun t'a la.
+texte_fuf: Kaŋko woni lesdi cembal e yahugo. Luttuɗo lesdi hokkata ɗum ngam daliila goɗɗum.
 
 piste: film-003
 histoire: Les maîtres de la terre
@@ -190,6 +258,8 @@ intonation: posé (proposée)
 texte: Le maître de la terre descend des premiers occupants. Il connaît les autels.
 genre: adulte/libre
 duree: 5500ms (mesurée sur le film)
+texte_dyu: Dugukolo tigi ye dugutigi fɔlɔw le ye. A b'o sarakabɔyɔrɔw lɔn.
+texte_fuf: Mawɗo leydi ndii ƴiwoyi daga yimɓe arandeeji. O anndi kuuje ceniiɗe.
 
 piste: film-004
 histoire: Les maîtres de la terre
@@ -200,6 +270,8 @@ intonation: recueilli (scénario)
 texte: Terre, reçois ceci, et donne-nous à manger.
 genre: âgé/libre
 duree: 4000ms (mesurée sur le film)
+texte_dyu: Dugukolo, i ye nin ta k'a di an ma ka domuni kɛ.
+texte_fuf: Duniyaaru, jaɓa ɗum, hokke'en nyaamdu.
 
 piste: film-005
 histoire: Les maîtres de la terre
@@ -210,6 +282,8 @@ intonation: posé (proposée)
 texte: Il fait l'offrande, et le mil pousse.
 genre: adulte/libre
 duree: 3200ms (mesurée sur le film)
+texte_dyu: N'a ye suman di, a be falen.
+texte_fuf: To o hokki ko'e muuɗum, ɓikkoy maako ɓeyi.
 
 piste: film-006
 histoire: Les maîtres de la terre
@@ -220,6 +294,8 @@ intonation: tendu (scénario)
 texte: Un jour, des cavaliers viennent d'ailleurs, et ils s'imposent par la force.
 genre: adulte/libre
 duree: 5100ms (mesurée sur le film)
+texte_dyu: Lon dɔ, sotigi dɔw bɔra dugu wɛrɛ ra ka na kɛrɛ kɛ ni o ta fanga ye.
+texte_fuf: Nder nyalnde go'oto, mawɓe koyɗe ngari, ɓe ngaɗani hoore maɓɓe sembe.
 
 piste: film-007
 histoire: Les maîtres de la terre
@@ -230,6 +306,8 @@ intonation: posé (proposée)
 texte: Leur chef occupe le village. Les conquérants s'installent.
 genre: adulte/libre
 duree: 4900ms (mesurée sur le film)
+texte_dyu: U kuntigi lo be dugu kɔnɔ. Mɔgɔ minw tun b'a fɛ ka see sɔrɔ u kan, olu be sigi.
+texte_fuf: Mawɗo maɓɓe ɗon jooɗi nder gariiri. Mawɓe ɗon njooɗoto.
 
 piste: film-008
 histoire: Les maîtres de la terre
@@ -240,6 +318,8 @@ intonation: posé (proposée)
 texte: Il fait semer ses champs. Mais la terre refuse ses fruits.
 genre: adulte/libre
 duree: 4600ms (mesurée sur le film)
+texte_dyu: A b'a ka forow sɛnɛ. Nka dugukolo ma den.
+texte_fuf: O ɗon haako gese maako. Ammaa lesdi ɗon nyaamaako.
 
 piste: film-009
 histoire: Les maîtres de la terre
@@ -250,6 +330,8 @@ intonation: posé (proposée)
 texte: Rien ne pousse. Et ses cavaliers ont faim.
 genre: adulte/libre
 duree: 4100ms (mesurée sur le film)
+texte_dyu: Fɛɛn si tɛ yiriwa. A ka sotigiw fana be kɔngɔ la.
+texte_fuf: Walaa ko ɓeyda. E ɓe ɗon njooɗii dow ko'e muuɗum'en e weelo.
 
 piste: film-010
 histoire: Les maîtres de la terre
@@ -260,6 +342,8 @@ intonation: interdit (scénario)
 texte: Mes hommes ont faim. Pourquoi rien ne pousse ?
 genre: adulte/homme
 duree: 3300ms (mesurée sur le film)
+texte_dyu: Kɔngɔ be ne ka mɔgɔw la. Mun na fɛɛn si tɛ falen?
+texte_fuf: Yimɓe am ɗon nyaamee. Ngam ɗume walaa ko maɓɓata?
 
 piste: film-011
 histoire: Les maîtres de la terre
@@ -270,6 +354,8 @@ intonation: posé (proposée)
 texte: Le chef des conquérants baisse enfin les yeux. Il va voir le vieil homme.
 genre: adulte/libre
 duree: 5400ms (mesurée sur le film)
+texte_dyu: A laban, a y'a ɲɛɛ biri dugu ma. A bena taga cɛkɔrɔba fɛ.
+texte_fuf: Ardiiɗo mawɓe'en ɓaawo maajum o laɓɓini gite maako. O yahi to mawɗo.
 
 piste: film-012
 histoire: Les maîtres de la terre
@@ -280,6 +366,8 @@ intonation: embarrassé (scénario)
 texte: Vieux père, ta terre me refuse.
 genre: adulte/homme
 duree: 2800ms (mesurée sur le film)
+texte_dyu: N Faa kɔrɔ, i ka jamana banna ne la.
+texte_fuf: Baabiraawo mawɗo, lesdi mon ɗon njaɓa yam.
 
 piste: film-013
 histoire: Les maîtres de la terre
@@ -290,6 +378,8 @@ intonation: calme (scénario)
 texte: Elle ne te connaît pas encore.
 genre: âgé/libre
 duree: 2600ms (mesurée sur le film)
+texte_dyu: A t'i lɔn fɔlɔ.
+texte_fuf: O anndaa on haa jooni.
 
 piste: film-014
 histoire: Les maîtres de la terre
@@ -300,6 +390,8 @@ intonation: humble (scénario)
 texte: Présente-moi à elle.
 genre: adulte/homme
 duree: 2100ms (mesurée sur le film)
+texte_dyu: A to n' k'i yɛrɛ yira a la.
+texte_fuf: Wondini yam bee maako.
 
 piste: film-015
 histoire: Les maîtres de la terre
@@ -310,6 +402,8 @@ intonation: posé (proposée)
 texte: Un accord est conclu.
 genre: adulte/libre
 duree: 2200ms (mesurée sur le film)
+texte_dyu: An ye bɛnkan dɔ sigi.
+texte_fuf: Ɗuum waɗi alkawal.
 
 piste: film-016
 histoire: Les maîtres de la terre
@@ -320,6 +414,8 @@ intonation: solennel (scénario)
 texte: Tu commanderas les hommes, et je parlerai à la terre.
 genre: âgé/libre
 duree: 4000ms (mesurée sur le film)
+texte_dyu: I bɛna kuma mɔgɔw fɛ, ne bɛna kuma dugukolo kan.
+texte_fuf: A umri yimɓe, nden kam mi wolwata bee lesdi.
 
 piste: film-017
 histoire: Les maîtres de la terre
@@ -330,6 +426,8 @@ intonation: posé (proposée)
 texte: Seul le maître de la terre parle aux autels.
 genre: adulte/libre
 duree: 3200ms (mesurée sur le film)
+texte_dyu: Dugukolo kuntigi kelenpe le bɛ kuma ni sarakabɔnanw ye.
+texte_fuf: Kanko tan woni laamiiɗo duniyaaru.
 
 piste: film-018
 histoire: Les maîtres de la terre
@@ -340,6 +438,8 @@ intonation: joyeux (scénario)
 texte: Ensemble, ils font l'offrande, et la pluie revient.
 genre: adulte/libre
 duree: 3900ms (mesurée sur le film)
+texte_dyu: O ka saraka bɔ ɲɔgɔn fɛ, sanji nana.
+texte_fuf: Ɓe fuu ɓe ɗon hokkata dokkal, nden kam ndiyam wara.
 
 piste: film-019
 histoire: Les maîtres de la terre
@@ -350,6 +450,8 @@ intonation: solennel (scénario)
 texte: La terre te reconnaît.
 genre: âgé/libre
 duree: 2400ms (mesurée sur le film)
+texte_dyu: Dugukolo fana b'i lɔn.
+texte_fuf: Leydi anndi on.
 
 piste: film-020
 histoire: Les maîtres de la terre
@@ -360,6 +462,8 @@ intonation: posé (proposée)
 texte: Et le chef est intronisé, de la main même du maître de la terre.
 genre: adulte/libre
 duree: 4500ms (mesurée sur le film)
+texte_dyu: O kɔ, kuntigi dɔ sigira masaya ra; dugukolo tigi yɛrɛ boro.
+texte_fuf: Sey mawɗo laamiiɗo jooɗoto dow laamu, daga jungo ardiiɗo duuniyaaru.
 
 piste: film-021
 histoire: Les maîtres de la terre
@@ -370,6 +474,8 @@ intonation: respectueux (scénario)
 texte: Puis-je semer ?
 genre: adulte/homme
 duree: 1900ms (mesurée sur le film)
+texte_dyu: Yala ne be se ka danni kɛ wa?
+texte_fuf: Mi waawataa semde?
 
 piste: film-022
 histoire: Les maîtres de la terre
@@ -380,6 +486,8 @@ intonation: amusé (scénario)
 texte: Sème, mon fils.
 genre: âgé/libre
 duree: 2600ms (mesurée sur le film)
+texte_dyu: A wolonwulanan, ne dencɛ.
+texte_fuf: Joweego, ɓiɗɗo am.
 
 piste: film-023
 histoire: Les maîtres de la terre
@@ -390,3 +498,5 @@ intonation: doux (scénario)
 texte: Aujourd'hui encore, le chef consulte le maître de la terre.
 genre: adulte/libre
 duree: 4500ms (mesurée sur le film)
+texte_dyu: Hali bi, kuntigi bɛ jamana kuntigi ɲininka.
+texte_fuf: Haa nyalnde nde'e, laamiiɗo ɗon toro mawɗo lesdi.

@@ -10,6 +10,10 @@ intonation: chuchoté (proposée)
 texte: Dans un village lyela, chacun connaît son voisin, et chacun croit tout savoir de lui. Ebéyé, une veuve, garde dans son grenier tout le mil de l'année. Cette nuit-là, une ombre vide le grenier.
 genre: adulte/homme
 duree: 14570ms (estimée)
+texte_fuf: Nder gariiri go'o, koo moye anndi bandiraawo maako, nden kam koo moye ɗon tammi anndugo koo ɗume dow maako. Mawɗo debbo mo'o maayi, ɗon cembiɗina nder ceede maako duuɓi ujune fuu. Nder jemma maajum, ɗii kammu ɓeydani suudu.
+enregistre_fuf: vur-n1-fuf.m4a (16788ms)
+texte_mos: Tẽng a yembr pʋgẽ, ned kam fãa mii a to. Ned kam fãa tagsdame t'a mii bũmb fãa yẽ zugu. Pʋg-kõorã sẽn yaa pʋg-paalã kogla a roogẽ bõn-buud fãa. Zĩ-kãng yʋngo, bi-bees sẽn da be roogã pʋgẽ wã ra pa le tarẽ ye.
+enregistre_mos: vur-n1-mos.m4a (15886ms)
 
 piste: n2
 histoire: Le mystère du vur
@@ -20,6 +24,10 @@ intonation: posé (proposée)
 texte: Au matin, le village s'assemble. Un berger de passage arrive.
 genre: adulte/homme
 duree: 4550ms (estimée)
+texte_fuf: Nde subaka, yimɓe gariiri ɗon mooɓta. Goonɗinɗo go'o ɗon wara.
+enregistre_fuf: vur-n2-fuf.m4a (5546ms)
+texte_mos: Vẽngrẽ wã, tẽn-tẽngã tigimdame. Kɩɩmb n wat be.
+enregistre_mos: vur-n2-mos.m4a (3402ms)
 
 piste: n3
 histoire: Le mystère du vur
@@ -30,6 +38,10 @@ intonation: vif (proposée)
 texte: C'est lui ! C'est forcément lui !
 genre: adulte/homme
 duree: 3260ms (estimée)
+texte_fuf: Kanko woni! Kanko woni ko o waɗi!
+enregistre_fuf: vur-n3-fuf.m4a (3050ms)
+texte_mos: Yaa yẽ! Yaa yẽ bal n tõe n maan woto!
+enregistre_mos: vur-n3-mos.m4a (2874ms)
 
 piste: n4
 histoire: Le mystère du vur
@@ -40,6 +52,10 @@ intonation: interrogatif (proposée)
 texte: Il a beau nier, personne ne l'écoute. Et toi, que dis-tu ?
 genre: adulte/homme
 duree: 5460ms (estimée)
+texte_fuf: Koo to o haɓɓi, walaa mo nana. E mon, ɗume mbi'oton?
+enregistre_fuf: vur-n4-fuf.m4a (3946ms)
+texte_mos: Baa a sã n kɩɩsda, ned baa a yen pa kelg-a ye. La yãmb me yetame tɩ bõe?
+enregistre_mos: vur-n4-mos.m4a (5802ms)
 
 piste: chasse
 histoire: Le mystère du vur
@@ -50,6 +66,10 @@ intonation: grave (proposée)
 texte: Sans preuve, on ne condamne personne. Tu le sais pourtant.
 genre: âgé/homme
 duree: 4550ms (estimée)
+texte_fuf: To walaa daliila, a waɗataa goɗɗo hakke. On andi non.
+enregistre_fuf: vur-chasse-fuf.m4a (4634ms)
+texte_mos: Ned sã n pa tar kaset, a ka tõe n kao ned bʋʋd ye. La yãmb mii rẽ.
+enregistre_mos: vur-chasse-mos.m4a (4778ms)
 
 piste: n5
 histoire: Le mystère du vur
@@ -60,6 +80,10 @@ intonation: interrogatif (proposée)
 texte: L'ancien te demande de redire ton avis devant tous. Le maintiens-tu ?
 genre: adulte/homme
 duree: 5160ms (estimée)
+texte_fuf: Mawɗo'en on ɗon toroo'on to yimɓe fuu mbi'a. On njogii mo naa?
+enregistre_fuf: vur-n5-fuf.m4a (5514ms)
+texte_mos: Kãsem-biigã kotame tɩ y lebs n togs y sẽn tagsdã nebã fãa taoore. Yãmb get-a lame bɩ?
+enregistre_mos: vur-n5-mos.m4a (7482ms)
 
 piste: injuste
 histoire: Le mystère du vur
@@ -70,6 +94,10 @@ intonation: posé (proposée)
 texte: La foule te suit. Le berger reprend la route sous les pierres. Mais le mil ne revient pas, et le voleur, lui, reste au village. Ce chemin n'est pas celui du récit.
 genre: adulte/homme
 duree: 13810ms (estimée)
+texte_fuf: Yimɓe ɗon tokki ma. Goonɗinjo on fuɗɗiti laawol nder kaaƴe. Ammaa ɓooyma naa' ɗum warti, ammaa ɓorkoowo jooɗoto nder gariiri. Ɗuum woni laawol haala.
+enregistre_fuf: vur-injuste-fuf.m4a (12190ms)
+texte_mos: Neb kʋʋngã tũuda yãmba. Pe-kɩɩmbã leb n kẽnda kugẽ wã. La bõn-buudã ka lebg n wa ye, la wagdrã kell n bee tẽn-kãng pʋgẽ. Woto pa sor ning b sẽn togsã ye.
+enregistre_mos: vur-injuste-mos.m4a (13774ms)
 
 piste: preuve
 histoire: Le mystère du vur
@@ -80,6 +108,10 @@ intonation: posé (proposée)
 texte: Les anciens se réunissent. Personne n'a rien vu, et chacun soupçonne l'autre. Ils décident de s'en remettre au vur.
 genre: adulte/homme
 duree: 8270ms (estimée)
+texte_fuf: Mawɓe ɗon kawta. Walaa go'oto yi'i kooɗume, nden kam ɓe fuu ɓe ɗon du'ana woɓɓe. Kamɓe ɓe njokki haala maɓɓe.
+enregistre_fuf: vur-preuve-fuf.m4a (8836ms)
+texte_mos: Kãsem dãmbã tigimdame. Ned pa yã bũmb ye, tɩ ned kam fãa tagsd a to yelle. B yãka yam n na n bas-a lame.
+enregistre_mos: vur-preuve-mos.m4a (8996ms)
 
 piste: n6
 histoire: Le mystère du vur
@@ -90,6 +122,10 @@ intonation: interrogatif (proposée)
 texte: Ils partent vers le lieu du vur. Veux-tu les suivre ?
 genre: adulte/homme
 duree: 4780ms (estimée)
+texte_fuf: Ɓe ɗon njaha haa nokkuure wooɗugo. A yiɗi tokkugo ɓe?
+enregistre_fuf: vur-n6-fuf.m4a (3898ms)
+texte_mos: B kẽnga tẽn-kʋdgã zĩigẽ. Yãmb dat n tũ-b lame bɩ?
+enregistre_mos: vur-n6-mos.m4a (4378ms)
 
 piste: voir
 histoire: Le mystère du vur
@@ -100,6 +136,10 @@ intonation: posé (proposée)
 texte: On n'en dira pas plus. Il n'y a rien à montrer : seulement le vent, une lumière, et le noir. Tu rentres sans rien avoir vu.
 genre: adulte/homme
 duree: 11230ms (estimée)
+texte_fuf: Walaa ko ɓe mbi'ata dow maajum. Walaa ko hollata, sey hendu, jayngol e nyiwre. On nji'ataa kooɗume.
+enregistre_fuf: vur-voir-fuf.m4a (7876ms)
+texte_mos: D pa na n le togs bũmb a to ye. La b ka tõe n wilg bũmb ye, yaa sobg bala, vẽenem la lik bala. Fo sã n wa, fo pa yãend bũmb ye.
+enregistre_mos: vur-voir-mos.m4a (9012ms)
 
 piste: reste
 histoire: Le mystère du vur
@@ -110,6 +150,10 @@ intonation: chuchoté (proposée)
 texte: Les nuits suivantes, un jeune homme ne dort plus. C'est lui qui a pris le mil. Une nuit, il rapporte le sac au pied du grenier. Mais Ebéyé est là.
 genre: adulte/homme
 duree: 12900ms (estimée)
+texte_fuf: Wakkati go'o, sukaajo mo ɗon ɗaani. Kanko woni jaɓɓi miliyaar. Wakkati go'oto, o wurtini ceede maako haa dammugal suudu. Ammaa Ebéyé ɗon.
+enregistre_fuf: vur-reste-fuf.m4a (11902ms)
+texte_mos: Vʋʋsem a yiib-n-soabã, bi-bɩɩg a ye ra pa tol n gõe ye. A rɩka koodã. Daar a ye yʋngo, a lebg n waa ne bugum roogẽ wã. La a Ebéyé beeme.
+enregistre_mos: vur-reste-mos.m4a (14110ms)
 
 piste: n7
 histoire: Le mystère du vur
@@ -120,6 +164,10 @@ intonation: chuchoté (proposée)
 texte: C'est moi. Pardonne-moi, je n'en peux plus.
 genre: adulte/homme
 duree: 3410ms (estimée)
+texte_fuf: Ɗuum woni am. A yaafana yam, mi waawataa ɓeydaago.
+enregistre_fuf: vur-n7-fuf.m4a (3930ms)
+texte_mos: Yaa maam. Bas-y maam, m pa le tõe n maan woto ye.
+enregistre_mos: vur-n7-mos.m4a (4682ms)
 
 piste: n8
 histoire: Le mystère du vur
@@ -130,6 +178,10 @@ intonation: doux (proposée)
 texte: Dis-le à ceux qui ont accusé le berger.
 genre: âgée/femme
 duree: 3340ms (estimée)
+texte_fuf: A wi'a yimɓe ɓe mbi'i mawɗo baali on.
+enregistre_fuf: vur-n8-fuf.m4a (3456ms)
+texte_mos: Wilg-y neb nins sẽn dõd pe-kɩɩmdã yellã.
+enregistre_mos: vur-n8-mos.m4a (2928ms)
 
 piste: n10
 histoire: Le mystère du vur
@@ -140,6 +192,10 @@ intonation: grave (proposée)
 texte: Tu l'as dit toi-même. C'est bien.
 genre: âgé/homme
 duree: 2880ms (estimée)
+texte_fuf: On mbi'i hoore mon. Ɗuum woni ko wooɗi.
+enregistre_fuf: vur-n10-fuf.m4a (3258ms)
+texte_mos: Fo meng n yeel-a lame. Woto yaa sõma.
+enregistre_mos: vur-n10-mos.m4a (3306ms)
 
 piste: n11
 histoire: Le mystère du vur
@@ -150,6 +206,10 @@ intonation: posé (proposée)
 texte: On présente des excuses au berger, qui reprend sa route. Et le voleur travaillera le champ de la veuve. Le vur veille, dit-on. La vérité finit toujours par se savoir.
 genre: adulte/homme
 duree: 12900ms (estimée)
+texte_fuf: Ngam maajum, ɓe njaafani gooduɗo nyaamdu. Sey ɓoymaajo maɓɓa gese debbo duɗuɗo. Ɓe ɗon mbi'a wonde wolde. Goonga ɗon anndina yeeso bee ɓaawo.
+enregistre_fuf: vur-n11-fuf.m4a (10430ms)
+texte_mos: B kosa pe-kɩɩmã sugri, t'a lebg n kẽng a sorẽ. Ned sã n wa soog pʋg-kõor pʋʋgẽ, B yetame t'a na n yɩɩ nin-buiida. Wakat ninga, nebã ra bãngda sɩdã.
+enregistre_mos: vur-n11-mos.m4a (14548ms)
 
 piste: film-001
 histoire: Le mystère du vur
@@ -160,6 +220,8 @@ intonation: sobre (scénario)
 texte: Le mystère du vur. Un récit imaginé, inspiré de la tradition lyela.
 genre: adulte/libre
 duree: 6200ms (mesurée sur le film)
+texte_fuf: Ɓernde wooru. Ɗum ko haala ɓaleejo, ɗum hollitii e aada liyela.
+texte_mos: Vur wã yel-solemdã. B sẽn yeelã yaa: "Neb nins b sẽn maandã, b maana wa b sẽn da tẽedã".
 
 piste: film-002
 histoire: Le mystère du vur
@@ -170,6 +232,8 @@ intonation: posé (proposée)
 texte: Dans un village lyela, chacun connaît son voisin. Et chacun croit tout savoir de lui.
 genre: adulte/libre
 duree: 6500ms (mesurée sur le film)
+texte_fuf: E nder wuro Lyela, koo moye anndi bandiraawo muuɗum. Ɓe fuu ɓe ngi'i ɓe andi koo ɗume dow maako.
+texte_mos: Tẽng a yembr pʋgẽ, ned fãa mii a to. La ned kam fãa tagsdame t'a mii bũmb fãa yẽ mengã zugu.
 
 piste: film-003
 histoire: Le mystère du vur
@@ -180,6 +244,8 @@ intonation: posé (proposée)
 texte: Ebéyé, une veuve, garde dans son grenier tout le mil de l'année.
 genre: adulte/libre
 duree: 4600ms (mesurée sur le film)
+texte_fuf: Mawɗo debbo mo'o maayi, ɗon cembiɗina nder ceede maako duuɓi ujune fuu.
+texte_mos: Pʋg-kõorã sẽn yaa pʋg-paalã kogla a roogẽ bõn-buud fãa.
 
 piste: film-004
 histoire: Le mystère du vur
@@ -190,6 +256,8 @@ intonation: chuchoté (scénario)
 texte: Cette nuit-là, une ombre se glisse dans sa cour, et vide le grenier.
 genre: adulte/libre
 duree: 5000ms (mesurée sur le film)
+texte_fuf: Nder jemma maajum, ɗerewol ɓadake nder suudu maako.
+texte_mos: Zĩ-kãnga yʋngo, sobg n kẽe a zakẽ wã, la b zãag ne kood roogã.
 
 piste: film-005
 histoire: Le mystère du vur
@@ -200,6 +268,8 @@ intonation: posé (proposée)
 texte: Au matin, Ebéyé découvre le vol. Le village s'assemble.
 genre: adulte/libre
 duree: 5500ms (mesurée sur le film)
+texte_fuf: Nde subaka, Ebéyé heɓii ɓoymaaku. Yimɓe nder gariiri ɗon mooɓta.
+texte_mos: Vẽkembeoogo, a Ebéyé bãngame tɩ b zãmb-a lame. Tẽngã tigimdame.
 
 piste: film-006
 histoire: Le mystère du vur
@@ -210,6 +280,8 @@ intonation: posé (proposée)
 texte: Un berger de passage arrive. Le coupable est trouvé.
 genre: adulte/libre
 duree: 4500ms (mesurée sur le film)
+texte_fuf: Goonɗinɗo go'o ɗon wara. Goɗɗo mo waɗani ɗum heɓii.
+texte_mos: Kɩɩmb n wat be. B yãee ned ning sẽn maan-a yel-wẽnã.
 
 piste: film-007
 histoire: Le mystère du vur
@@ -220,6 +292,8 @@ intonation: accusateur (scénario)
 texte: C'est lui ! C'est forcément lui !
 genre: adulte/femme
 duree: 4000ms (mesurée sur le film)
+texte_fuf: Kanko woni! Kanko woni ko o waɗi!
+texte_mos: Yaa yẽ! Yaa yẽ bal n tõe n maan woto!
 
 piste: film-008
 histoire: Le mystère du vur
@@ -230,6 +304,8 @@ intonation: posé (proposée)
 texte: Il a beau nier, personne ne l'écoute.
 genre: adulte/libre
 duree: 3300ms (mesurée sur le film)
+texte_fuf: Koo to o haɓɓi, walaa mo nana.
+texte_mos: Baa a sã n kɩɩsda, ned baa a yen pa kelg-a ye.
 
 piste: film-009
 histoire: Le mystère du vur
@@ -240,6 +316,8 @@ intonation: ferme (scénario)
 texte: Sans preuve, on ne condamne personne.
 genre: âgé/libre
 duree: 3300ms (mesurée sur le film)
+texte_fuf: To walaa daliila, a waɗataa goɗɗo hakke.
+texte_mos: Ned sã n pa tar kaset, a ka tõe n kao ned bʋʋd ye.
 
 piste: film-010
 histoire: Le mystère du vur
@@ -250,6 +328,8 @@ intonation: posé (proposée)
 texte: Les anciens se réunissent. Personne n'a rien vu, et chacun soupçonne l'autre.
 genre: adulte/libre
 duree: 6200ms (mesurée sur le film)
+texte_fuf: Mawɓe ɗon kawta. Walaa go'oto yi'i kooɗume, nden kam ɓe fuu ɓe ɗon du'ana woɓɓe.
+texte_mos: Kãsem dãmbã tigimdame. Ned pa yã bũmb ye, tɩ ned kam fãa tagsd a to yelle.
 
 piste: film-011
 histoire: Le mystère du vur
@@ -260,6 +340,8 @@ intonation: posé (proposée)
 texte: Ils décident de s'en remettre au vur.
 genre: adulte/libre
 duree: 3000ms (mesurée sur le film)
+texte_fuf: Kamɓe ɓe njokki haala maɓɓe.
+texte_mos: B yãka yam n na n bas-a lame.
 
 piste: film-012
 histoire: Le mystère du vur
@@ -270,6 +352,8 @@ intonation: mystérieux (scénario)
 texte: Ils partent vers le lieu du vur. On n'en dira pas plus.
 genre: adulte/libre
 duree: 4600ms (mesurée sur le film)
+texte_fuf: Ɓe ɗon njaha haa nokkuure wooɗugo. Walaa ko ɓe mbi'ata dow maajum.
+texte_mos: B kẽnga tẽn-kʋdgã zĩigẽ. D pa na n le togs bũmb a to ye.
 
 piste: film-013
 histoire: Le mystère du vur
@@ -280,6 +364,8 @@ intonation: chuchoté (scénario)
 texte: Il n'y a rien à montrer : seulement le vent, une lumière, et le noir.
 genre: adulte/libre
 duree: 5200ms (mesurée sur le film)
+texte_fuf: Walaa ko hollata, sey hendu, jayngol e nyiwre.
+texte_mos: La b ka tõe n wilg bũmb ye, yaa sobg bala, vẽenem la lik bala.
 
 piste: film-014
 histoire: Le mystère du vur
@@ -290,6 +376,8 @@ intonation: inquiet (scénario)
 texte: Les nuits suivantes, un jeune homme ne dort plus.
 genre: adulte/libre
 duree: 3400ms (mesurée sur le film)
+texte_fuf: Wakkati go'o, sukaajo mo ɗon ɗaani.
+texte_mos: Vʋʋsem a yiib-n-soabã, bi-bɩɩg a ye ra pa tol n gõe ye.
 
 piste: film-015
 histoire: Le mystère du vur
@@ -300,6 +388,8 @@ intonation: posé (proposée)
 texte: C'est lui qui a pris le mil. La peur et le remords le rongent.
 genre: adulte/libre
 duree: 5100ms (mesurée sur le film)
+texte_fuf: Kanko woni jaɓɓi miliyaar. Hakkiilo e ɓerɗe maako ɗon nyaami mo.
+texte_mos: A rɩka koodã. La rabeemã la a sũur sãamame.
 
 piste: film-016
 histoire: Le mystère du vur
@@ -310,6 +400,8 @@ intonation: posé (proposée)
 texte: Une nuit, il rapporte le sac, et il le dépose au pied du grenier. Mais Ebéyé est là.
 genre: adulte/libre
 duree: 6700ms (mesurée sur le film)
+texte_fuf: Nder jemma o wurtini ceede nden, o hoccani ɗum to hooseere wuro. Ammaa Ebéyé ɗon.
+texte_mos: Daar a ye yʋngo, a wʋka sakã n bĩng koglgã tẽngre. La a Ebéyé beeme.
 
 piste: film-017
 histoire: Le mystère du vur
@@ -320,6 +412,8 @@ intonation: honteux (scénario)
 texte: C'est moi. Pardonne-moi, je n'en peux plus.
 genre: adulte/homme
 duree: 3400ms (mesurée sur le film)
+texte_fuf: Ɗuum woni am. A yaafana yam, mi waawataa ɓeydaago.
+texte_mos: Yaa maam. Bas-y maam, m pa le tõe n maan woto ye.
 
 piste: film-018
 histoire: Le mystère du vur
@@ -330,6 +424,8 @@ intonation: honteux, à voix haute (scénario)
 texte: C'est moi qui ai volé. Pas le berger.
 genre: adulte/homme
 duree: 3100ms (mesurée sur le film)
+texte_fuf: Mi timmini. Walaa boowal mawɗo.
+texte_mos: Yaa maam n yibe. Pa pe-kɩɩmã ye.
 
 piste: film-019
 histoire: Le mystère du vur
@@ -340,6 +436,8 @@ intonation: sévère puis doux (scénario)
 texte: Tu l'as dit toi-même. C'est bien.
 genre: âgé/libre
 duree: 3600ms (mesurée sur le film)
+texte_fuf: On mbi'i hoore mon. Ɗuum woni ko wooɗi.
+texte_mos: Fo meng n yeel-a lame. Woto yaa sõma.
 
 piste: film-020
 histoire: Le mystère du vur
@@ -350,6 +448,8 @@ intonation: posé (proposée)
 texte: On présente des excuses au berger, qui reprend sa route.
 genre: adulte/libre
 duree: 4300ms (mesurée sur le film)
+texte_fuf: Ngam maajum, ɓe njaafani gooduɗo nyaamdu.
+texte_mos: B kosa pe-kɩɩmã sugri, t'a lebg n kẽng a sorẽ.
 
 piste: film-021
 histoire: Le mystère du vur
@@ -360,6 +460,8 @@ intonation: posé (proposée)
 texte: Et le voleur travaillera le champ de la veuve.
 genre: adulte/libre
 duree: 3200ms (mesurée sur le film)
+texte_fuf: Sey ɓoymaajo maɓɓa gese debbo duɗuɗo.
+texte_mos: Ned sã n wa soog pʋg-kõor pʋʋgẽ,
 
 piste: film-022
 histoire: Le mystère du vur
@@ -370,3 +472,5 @@ intonation: doux (scénario)
 texte: Le vur veille, dit-on. La vérité finit toujours par se savoir.
 genre: adulte/libre
 duree: 5900ms (mesurée sur le film)
+texte_fuf: Ɓe ɗon mbi'a wonde wolde. Goonga ɗon anndina yeeso bee ɓaawo.
+texte_mos: B yetame t'a na n yɩɩ nin-buiida. Wakat ninga, nebã ra bãngda sɩdã.

@@ -11,55 +11,135 @@
    "id": "titre",
    "type": "titre",
    "chemin": "titre",
-   "texte": "Zenuo, le premier Dagara"
+   "texte": "Zenuo, le premier Dagara",
+   "langues": {
+    "dyu": {
+     "texte": "Zenuo, Dagara fɔlɔ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "A Zenuo, Dagara pipi soabã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "presentation",
    "type": "presentation",
    "chemin": "presentation",
-   "texte": "Zenuo et Nyolé quittent un village de disputes, avec leur chien, pour chercher leur terre. À toi de lire les signes et de dire où s'arrêter."
+   "texte": "Zenuo et Nyolé quittent un village de disputes, avec leur chien, pour chercher leur terre. À toi de lire les signes et de dire où s'arrêter.",
+   "langues": {
+    "dyu": {
+     "texte": "Zenuo ni Nyolé bɔra dugu dennin dɔ la ka taga jamana ɲini n'u wulu ye. I ka ɲi k'a ɲini k'o tagamasiɲɛw kalan ani k'i lɔyɔrɔ yira.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "A Zenuo ne a Nyolé zãaga b zakã n yi tẽn-kʋdgẽ n na n bao b tẽngã. Yaa yãmb n segd n karemd makrã, la y wilg-b zĩig ning b sẽn na n basã.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "personnages.griot.nom",
    "type": "personnage",
    "chemin": "personnages.griot.nom",
-   "texte": "Le griot"
+   "texte": "Le griot",
+   "langues": {
+    "dyu": {
+     "texte": "Le griot"
+    },
+    "mos": {
+     "texte": "Le griot"
+    }
+   }
   },
   {
    "id": "personnages.zenuo.nom",
    "type": "personnage",
    "chemin": "personnages.zenuo.nom",
-   "texte": "Zenuo"
+   "texte": "Zenuo",
+   "langues": {
+    "dyu": {
+     "texte": "Zenuo"
+    },
+    "mos": {
+     "texte": "Zenuo"
+    }
+   }
   },
   {
    "id": "personnages.nyole.nom",
    "type": "personnage",
    "chemin": "personnages.nyole.nom",
-   "texte": "Nyolé"
+   "texte": "Nyolé",
+   "langues": {
+    "dyu": {
+     "texte": "Nyolé"
+    },
+    "mos": {
+     "texte": "Nyolé"
+    }
+   }
   },
   {
    "id": "personnages.ancien.nom",
    "type": "personnage",
    "chemin": "personnages.ancien.nom",
-   "texte": "L'ancien"
+   "texte": "L'ancien",
+   "langues": {
+    "dyu": {
+     "texte": "L'ancien"
+    },
+    "mos": {
+     "texte": "L'ancien"
+    }
+   }
   },
   {
    "id": "personnages.enfant.nom",
    "type": "personnage",
    "chemin": "personnages.enfant.nom",
-   "texte": "L'enfant"
+   "texte": "L'enfant",
+   "langues": {
+    "dyu": {
+     "texte": "L'enfant"
+    },
+    "mos": {
+     "texte": "L'enfant"
+    }
+   }
   },
   {
    "id": "fins.canon",
    "type": "fin",
    "chemin": "fins.canon",
-   "texte": "Version du griot : le premier foyer"
+   "texte": "Version du griot : le premier foyer",
+   "langues": {
+    "dyu": {
+     "texte": "Lɔnnikɛla ka fɔta: denbaya fɔlɔ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Grigot version: pipi roogã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "fins.trop",
    "type": "fin",
    "chemin": "fins.trop",
-   "texte": "Autre chemin : ils marchent encore"
+   "texte": "Autre chemin : ils marchent encore",
+   "langues": {
+    "dyu": {
+     "texte": "O kɔ, u be to ka tagama",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Bũmb a to: b ket n kẽndame",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "n1",
@@ -73,7 +153,23 @@
    "texte": "Zenuo était chasseur. Il connaissait la brousse mieux que personne. Mais au village, les familles ne s'entendent plus sur les limites des champs.",
    "genre": "adulte/homme",
    "duree_ms": 9790,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Zenuo tun ye jagokɛla ye. A tun b'o yiritu lɔn ka tɛmɛ mɔgɔ si kan. Nka, dugumɔgɔw tun tɛ se ka bɛn u ka foro daan na tugun.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 10148,
+     "fichier": "zenuo-n1-dyu.m4a"
+    },
+    "mos": {
+     "texte": "A Zenuo ra yaa zabd. A ra mii weoogã sõma n yɩɩd ned baa a yen. La zak rãmb sẽn be tẽn-kãng pʋgẽ wã, b pa le wʋmd taab t'a zemse.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 12340,
+     "fichier": "zenuo-n1-mos.m4a"
+    }
+   }
   },
   {
    "id": "n2",
@@ -87,7 +183,23 @@
    "texte": "Ce champ n'est pas à toi !",
    "genre": "âgé/homme",
    "duree_ms": 2960,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "O foro tɛ i ta ye!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 1728,
+     "fichier": "zenuo-n2-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Ka yãmb pʋʋgã ye!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 1648,
+     "fichier": "zenuo-n2-mos.m4a"
+    }
+   }
   },
   {
    "id": "n3",
@@ -101,31 +213,87 @@
    "texte": "Encore une dispute de terres. Que décident Zenuo et Nyolé ?",
    "genre": "adulte/homme",
    "duree_ms": 4780,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Fɛɛn dɔw koo la, u ye ɲɔgɔn sɔsɔ tugun. Zenuo ni Nyolé ye mun lo fɔ?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5130,
+     "fichier": "zenuo-n3-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Bũmb a to sẽn be tẽn-gãongã poorẽ. Bõe la a Zenuo ne a Nyolé yãk yam n na n maane?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6362,
+     "fichier": "zenuo-n3-mos.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n3.choices.0.label",
    "type": "choix",
    "chemin": "nodes.n3.choices.0.label",
-   "texte": "Partir chercher une terre ailleurs"
+   "texte": "Partir chercher une terre ailleurs",
+   "langues": {
+    "dyu": {
+     "texte": "Ka taga dugukolo ɲini yɔrɔ wɛrɛ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "B kẽnga tẽn-zẽng n na n bao tẽng",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n3.choices.0.tag",
    "type": "parcours",
    "chemin": "nodes.n3.choices.0.tag",
-   "texte": "départ"
+   "texte": "départ",
+   "langues": {
+    "dyu": {
+     "texte": "ka bɔ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "b yikame",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n3.choices.1.label",
    "type": "choix",
    "chemin": "nodes.n3.choices.1.label",
-   "texte": "Rester et discuter encore"
+   "texte": "Rester et discuter encore",
+   "langues": {
+    "dyu": {
+     "texte": "Ka to ka baro kɛ tugun",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "D kell n ket n sõsda",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n3.choices.1.tag",
    "type": "parcours",
    "chemin": "nodes.n3.choices.1.tag",
-   "texte": "discussion"
+   "texte": "discussion",
+   "langues": {
+    "dyu": {
+     "texte": "ka baro kɛ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "sõsda",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "rester",
@@ -139,7 +307,23 @@
    "texte": "Ils discutent toute une saison. Au bout du compte, chacun garde sa colère, et personne n'a plus envie de semer.",
    "genre": "adulte/homme",
    "duree_ms": 8500,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "U be baro kɛra saan kelen kɔnɔ. A laban, mɔgɔ bɛɛ b'a ta jusugban kɔrɔsi; mɔgɔ si t'a fɛ ka siman dan.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8036,
+     "fichier": "zenuo-rester-dyu.m4a"
+    },
+    "mos": {
+     "texte": "B sõsda wakat fãa. Ned kam fãa sũ-puugrã zãadame, la ned baa a yen ka na n bʋd bõn-buud ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7946,
+     "fichier": "zenuo-rester-mos.m4a"
+    }
+   }
   },
   {
    "id": "partir",
@@ -153,7 +337,23 @@
    "texte": "Ils prennent leurs affaires, et leur chien avec eux. Le soir, ils s'arrêtent près d'un feu et regardent les étoiles.",
    "genre": "adulte/homme",
    "duree_ms": 8500,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "U be taga n'u ka minanw ye. Wuladafɛ, u tun lɔnin be tasuma gɛrɛfɛ ka lolow filɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7530,
+     "fichier": "zenuo-partir-dyu.m4a"
+    },
+    "mos": {
+     "texte": "B rɩka b teedã, la b rɩkda b karen-biiga. La yʋngo, b ra bee bugum sɛɛgẽ n get ãdsã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8538,
+     "fichier": "zenuo-partir-mos.m4a"
+    }
+   }
   },
   {
    "id": "n4",
@@ -167,31 +367,87 @@
    "texte": "Un jour, un fleuve large leur barre la route : la Volta noire. Comment passer ?",
    "genre": "adulte/homme",
    "duree_ms": 6980,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Loon dɔ, baji belebeleba dɔ tun b'u bali ka taga. I be se ka tɛmɛ cogo di?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6362,
+     "fichier": "zenuo-n4-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Daar a ye, koom-koglg sẽn yaa kãenkãe n gɩdg b sorã: Volta sẽn ya wĩntoogã. Wãn to la d tõe n kẽ?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8180,
+     "fichier": "zenuo-n4-mos.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n4.choices.0.label",
    "type": "choix",
    "chemin": "nodes.n4.choices.0.label",
-   "texte": "Creuser une pirogue dans un tronc"
+   "texte": "Creuser une pirogue dans un tronc",
+   "langues": {
+    "dyu": {
+     "texte": "K'i ka kurun dɔ sogi dingɛ kɔnɔ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Ned sã n dig koom-koglgã koglg pʋgẽ",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n4.choices.0.tag",
    "type": "parcours",
    "chemin": "nodes.n4.choices.0.tag",
-   "texte": "pirogue"
+   "texte": "pirogue",
+   "langues": {
+    "dyu": {
+     "texte": "kurunboli",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "koom-koglgã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n4.choices.1.label",
    "type": "choix",
    "chemin": "nodes.n4.choices.1.label",
-   "texte": "Passer à la nage avec le chien"
+   "texte": "Passer à la nage avec le chien",
+   "langues": {
+    "dyu": {
+     "texte": "N' be jii ta ni wulu ye",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Ned sã n wa kogl ne a zakã,",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n4.choices.1.tag",
    "type": "parcours",
    "chemin": "nodes.n4.choices.1.tag",
-   "texte": "à la nage"
+   "texte": "à la nage",
+   "langues": {
+    "dyu": {
+     "texte": "ka bɔgɔ la",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "ne koomã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nage",
@@ -205,7 +461,23 @@
    "texte": "Le courant est trop fort. Ils reviennent sur la rive, trempés, et Zenuo prend sa hache : il creuse une pirogue.",
    "genre": "adulte/homme",
    "duree_ms": 9030,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Jii fanga ka bon kojugu. O sekɔra ka na fɔ bada ra, k'a sɔrɔ o bɛɛ tun sunɔgɔra. Zeno ka a ta wɔrɔsɔ ta; a ka kurun dɔ sogi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 10846,
+     "fichier": "zenuo-nage-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Tʋʋmã pãng yaa wʋsgo. B lebg n waa koom-koglgẽ, la a Zenuo rɩka a naandg t'a kogl koom-koakã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8666,
+     "fichier": "zenuo-nage-mos.m4a"
+    }
+   }
   },
   {
    "id": "pirogue",
@@ -219,55 +491,151 @@
    "texte": "Sur l'autre rive, tout est nouveau. Mais où s'arrêter ? Zenuo attend un signe. Observe bien.",
    "genre": "adulte/homme",
    "duree_ms": 7430,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "O yɔrɔ la, koo bɛɛ ye kura ye. Nka, an be se ka lɔ yɔrɔ juman? Zenuo be tagamasiyɛn dɔ kɔnɔna. I janto a la koɲuman.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9678,
+     "fichier": "zenuo-pirogue-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Tẽngã sẽn be tẽn-zẽngã, bũmb fãa yaa paalga. La zĩ-bʋs la d tõe n bas-a? Zenuo gũuda makre. Ges-y neere.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 10078,
+     "fichier": "zenuo-pirogue-mos.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n5.question",
    "type": "jeu",
    "chemin": "nodes.n5.question",
-   "texte": "Quel signe indique à Zenuo le lieu du foyer ?"
+   "texte": "Quel signe indique à Zenuo le lieu du foyer ?",
+   "langues": {
+    "dyu": {
+     "texte": "Mun lo b'a yira Zenuo la ko a ka soo be yɔrɔ min na?",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Bõe n wilgd a Zenuo t'a sẽn be zĩig ningã?",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n5.gagne",
    "type": "jeu",
    "chemin": "nodes.n5.gagne",
-   "texte": "Oui : les pintades tournent au-dessus du grand arbre. Le lieu est là."
+   "texte": "Oui : les pintades tournent au-dessus du grand arbre. Le lieu est là.",
+   "langues": {
+    "dyu": {
+     "texte": "Ɔnhɔn, o y'a sɔrɔ yiriba tun be sanfɛ. O yɔrɔ ye nin ye.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "N-ye, tɩɩgã zug n gilgdẽ. La zĩ-kãng bee be.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n5.perdu",
    "type": "jeu",
    "chemin": "nodes.n5.perdu",
-   "texte": "Regarde mieux : c'est un vol de pintades qui tourne au-dessus d'un grand arbre."
+   "texte": "Regarde mieux : c'est un vol de pintades qui tourne au-dessus d'un grand arbre.",
+   "langues": {
+    "dyu": {
+     "texte": "Aw k'a filɛ nin ye cogo min na: A kɛra i n'a fɔ yiriba dɔ sanfɛ, a be kolonkolon.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Ges-y-yã neere: yaa wa b sẽn digd tɩɩg n gilgd a zugu.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n5.reponses.0.label",
    "type": "jeu",
    "chemin": "nodes.n5.reponses.0.label",
-   "texte": "Un vol de pintades qui tourne au-dessus d'un grand arbre"
+   "texte": "Un vol de pintades qui tourne au-dessus d'un grand arbre",
+   "langues": {
+    "dyu": {
+     "texte": "Yiri belebeleba dɔ sanfɛ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Kẽer sẽn kẽed tɩɩg zugu",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n5.reponses.1.label",
    "type": "jeu",
    "chemin": "nodes.n5.reponses.1.label",
-   "texte": "Une étoile qui tombe dans le fleuve"
+   "texte": "Une étoile qui tombe dans le fleuve",
+   "langues": {
+    "dyu": {
+     "texte": "Lolo dɔ benna baji kan",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Bãngr sẽn lʋɩ kʋɩlgã pʋgẽ",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n5.reponses.2.label",
    "type": "jeu",
    "chemin": "nodes.n5.reponses.2.label",
-   "texte": "Un lion qui garde une colline"
+   "texte": "Un lion qui garde une colline",
+   "langues": {
+    "dyu": {
+     "texte": "Jara min be kulu dɔ kɔrɔsi",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Yaa gɩgemd sẽn gũud tãnga",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n5.tags.win",
    "type": "parcours",
    "chemin": "nodes.n5.tags.win",
-   "texte": "bonne réponse"
+   "texte": "bonne réponse",
+   "langues": {
+    "dyu": {
+     "texte": "jaabili ɲuman",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "leokr sẽn yaa sõma",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n5.tags.lose",
    "type": "parcours",
    "chemin": "nodes.n5.tags.lose",
-   "texte": "réponse manquée"
+   "texte": "réponse manquée",
+   "langues": {
+    "dyu": {
+     "texte": "a ma jaabi",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "sẽn pa leokã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "n6",
@@ -281,31 +649,87 @@
    "texte": "Que fait Zenuo devant cet arbre ?",
    "genre": "adulte/homme",
    "duree_ms": 2960,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Zenuo be mun le kɛra yiri nin kɔrɔ?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2512,
+     "fichier": "zenuo-n6-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Bõe la a Zenuo maand tɩɩgã taoore?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2432,
+     "fichier": "zenuo-n6-mos.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n6.choices.0.label",
    "type": "choix",
    "chemin": "nodes.n6.choices.0.label",
-   "texte": "Il plante son arc au pied de l'arbre"
+   "texte": "Il plante son arc au pied de l'arbre",
+   "langues": {
+    "dyu": {
+     "texte": "A b'a ta kalanw dan yiri jukɔrɔ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "A zẽkda a boog tɩɩgã taoore",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n6.choices.0.tag",
    "type": "parcours",
    "chemin": "nodes.n6.choices.0.tag",
-   "texte": "arc planté"
+   "texte": "arc planté",
+   "langues": {
+    "dyu": {
+     "texte": "bololanigɛ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "zũnd b sẽn yãgsã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n6.choices.1.label",
    "type": "choix",
    "chemin": "nodes.n6.choices.1.label",
-   "texte": "Il continue, il y a peut-être mieux plus loin"
+   "texte": "Il continue, il y a peut-être mieux plus loin",
+   "langues": {
+    "dyu": {
+     "texte": "A be to ka taga, n'a sɔrɔ a ka fisa kɔfɛ.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "A ket n maanda woto, la tõe tɩ yaa sõma n paase.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n6.choices.1.tag",
    "type": "parcours",
    "chemin": "nodes.n6.choices.1.tag",
-   "texte": "marche reprise"
+   "texte": "marche reprise",
+   "langues": {
+    "dyu": {
+     "texte": "tagama ka segi",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "kẽnã lebame",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "loin",
@@ -319,7 +743,23 @@
    "texte": "Ils marchent encore. Des arbres, ils en verront d'autres, mais plus de pintades. C'est une fin imaginée : la légende, elle, s'arrête à l'arbre.",
    "genre": "adulte/homme",
    "duree_ms": 10770,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "U bele be tagama. Yiri dɔw, u bena yiri wɛrɛw ye. Nka o tɛna kɛ yiriw ye tugu. O ye finko dɔ ye min tun b'a yɛrɛ kɔnɔna.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 10430,
+     "fichier": "zenuo-loin-dyu.m4a"
+    },
+    "mos": {
+     "texte": "B ket n kẽndame. B na n yãa tɩɩs a taaba, la b pa na n yãg-b ye. Yaa bõn-kãng n kɩt tɩ nebã tagsdẽ t'a yaa bũmb sẽn pa tõe n maan ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 11172,
+     "fichier": "zenuo-loin-mos.m4a"
+    }
+   }
   },
   {
    "id": "arc",
@@ -333,7 +773,23 @@
    "texte": "C'est ici, Nyolé. C'est ici.",
    "genre": "adulte/homme",
    "duree_ms": 2650,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "A be yan, Nyolé. A be yan.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2890,
+     "fichier": "zenuo-arc-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Yaa be, a Nyolé. Yaa be bala.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2234,
+     "fichier": "zenuo-arc-mos.m4a"
+    }
+   }
   },
   {
    "id": "n7",
@@ -347,7 +803,23 @@
    "texte": "Ensemble, ils bâtissent une case ronde et préparent le premier champ. D'autres familles arrivent. Un enfant naît. Le village a commencé.",
    "genre": "adulte/homme",
    "duree_ms": 9330,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "O ka o ta forow bɛɛ lɔ ɲɔgɔn fɛ, k'a kɛ yɔrɔɲumanw ye. Denmisɛn wɛrɛw be nana. Denɲɛnin dɔ be wolo. Dugu daminɛna.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 10782,
+     "fichier": "zenuo-n7-dyu.m4a"
+    },
+    "mos": {
+     "texte": "B ra tara taab n me zĩiga, la b segenda zĩig ning sẽn yaa pipi wã. Neb a taab n watame. Biiga rogdame. Tẽngã sɩngame.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 11406,
+     "fichier": "zenuo-n7-mos.m4a"
+    }
+   }
   },
   {
    "id": "n8",
@@ -361,7 +833,23 @@
    "texte": "Ainsi, dit la légende, naquit le peuple des descendants de Zenuo.",
    "genre": "adulte/homme",
    "duree_ms": 4780,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Lɔnnikɛla dɔ y'a fɔ ko Zenuw bɔnsɔnw lo sɔrɔla o la.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3584,
+     "fichier": "zenuo-n8-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Bãngr-gomdã yetame tɩ yaa woto la b dog a Zeno nebã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4464,
+     "fichier": "zenuo-n8-mos.m4a"
+    }
+   }
   },
   {
    "id": "film-001",
@@ -377,7 +865,19 @@
    "texte": "Zenuo, le premier Dagara. Une légende fondatrice.",
    "genre": "adulte/libre",
    "duree_ms": 5400,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Zenuo, min ye Dagara fɔlɔ ye. Ale lo ye Ala ka danbaga ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A Zenuo, a Dagara pipi soabã. Ned sẽn da yaa ned ning sẽn lugl-a tẽngã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-002",
@@ -393,7 +893,19 @@
    "texte": "Zenuo était chasseur. Il connaissait la brousse mieux que personne.",
    "genre": "adulte/libre",
    "duree_ms": 5500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Zenuo tun ye jagokɛla ye. A tun b'o yiritu lɔn ka tɛmɛ mɔgɔ si kan.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A Zenuo ra yaa zabd. A ra mii weoogã sõma n yɩɩd ned baa a yen.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-003",
@@ -409,7 +921,19 @@
    "texte": "Encore une dispute de terres.",
    "genre": "adulte/homme",
    "duree_ms": 2300,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Fɛɛn dɔw koo la, u ye ɲɔgɔn sɔsɔ tugun.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Bũmb a to sẽn be tẽn-gãongã poorẽ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-004",
@@ -425,7 +949,19 @@
    "texte": "Au village, les familles ne s'entendaient plus sur les limites des champs.",
    "genre": "adulte/libre",
    "duree_ms": 4500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Dugumɔgɔw tun tɛ se ka bɛn u ka foro daan na tugun.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Roagdbã sẽn da be tẽn-kãng pʋgẽ wã, b ra pa leb n wʋmd taab pʋʋg pʋse wɛɛngẽ ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-005",
@@ -441,7 +977,19 @@
    "texte": "Ce champ n'est pas à toi !",
    "genre": "âgé/libre",
    "duree_ms": 2400,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O foro tɛ i ta ye!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Ka yãmb pʋʋgã ye!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-006",
@@ -457,7 +1005,19 @@
    "texte": "Allons-nous-en.",
    "genre": "adulte/femme",
    "duree_ms": 2000,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "An ka taga.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Bɩ d kẽng.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-007",
@@ -473,7 +1033,19 @@
    "texte": "Allons chercher notre terre.",
    "genre": "adulte/homme",
    "duree_ms": 2100,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "An ka taga an ka dugukolo ɲini.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Bɩ d kẽng n tɩ bao tõnd tẽngã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-008",
@@ -489,7 +1061,19 @@
    "texte": "Zenuo et sa femme Nyolé prirent leurs affaires, et leur chien avec eux.",
    "genre": "adulte/libre",
    "duree_ms": 4500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Zenuo n'a muso Nyolé y'u ka minanw ta ani u ka wulu.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A Zenuo ne a pagã, a Nyolé, rɩka b teedã la b zaklã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-009",
@@ -505,7 +1089,19 @@
    "texte": "Ils marchèrent des jours durant, à travers la brousse.",
    "genre": "adulte/libre",
    "duree_ms": 3900,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "U ye tile damani kɛ tagama la yiritu kɔnɔ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "B kẽnga zĩ-kãng pʋgẽ rasem wʋsgo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-010",
@@ -521,7 +1117,19 @@
    "texte": "Le soir, ils s'arrêtaient près d'un feu, et ils regardaient les étoiles.",
    "genre": "adulte/libre",
    "duree_ms": 5200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Wuladafɛ, u tun lɔnin be tasuma daa la ka lolow filɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "La yʋngo, b ra bee bugum sɛɛgẽ n get ãdsã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-011",
@@ -537,7 +1145,19 @@
    "texte": "Un jour, un fleuve large leur barra la route : la Volta noire.",
    "genre": "adulte/libre",
    "duree_ms": 4600,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Loon dɔ, baji belebeleba dɔ y'u bali ka taga.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Daar a ye, koom-koglg sẽn yaa kãseng n da be b sorẽ wã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-012",
@@ -553,7 +1173,19 @@
    "texte": "Zenuo creusa une pirogue, et ils se lancèrent sur l'eau.",
    "genre": "adulte/libre",
    "duree_ms": 4000,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Zenuo ka kurun dɔ sogi; o tagara ji kan.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A Zenuo maana koom-koglgã, la b kẽe koomẽ wã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-013",
@@ -569,7 +1201,19 @@
    "texte": "Sur l'autre rive, tout était nouveau. Ils ne se retournèrent pas.",
    "genre": "adulte/libre",
    "duree_ms": 5300,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "K'an to baa kɔ fɛ, koo bɛɛ tun ye kura ye. U m'u ɲaa yɛlɛma.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Tẽngã sẽn da be tẽn-zẽngã, bũmb fãa ra yaa toor fasɩ. B pa wẽnemd b poorẽ ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-014",
@@ -585,7 +1229,19 @@
    "texte": "Mais où s'arrêter ? Zenuo attendait un signe.",
    "genre": "adulte/libre",
    "duree_ms": 4400,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Nka, an be se ka lɔ yɔrɔ juman? Zenuo tun b'a fɛ ka tagamasiyɛn dɔ kɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "La zĩ-bʋs la d tõe n bas-a? A Zenuo ra gũuda makrã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-015",
@@ -601,7 +1257,19 @@
    "texte": "Alors un vol de pintades se mit à tourner au-dessus d'un grand arbre.",
    "genre": "adulte/libre",
    "duree_ms": 4300,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O kɔ, o y'a daminɛ ka yiriba dɔ lamini.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Rẽ poore, tɩɩg-kãsenga zug n sɩng n gilgdẽ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-016",
@@ -617,7 +1285,19 @@
    "texte": "C'est ici, Nyolé. C'est ici.",
    "genre": "adulte/homme",
    "duree_ms": 3400,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "A be yan, Nyolé. A be yan.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Yaa be, a Nyolé. Yaa be bala.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-017",
@@ -633,7 +1313,19 @@
    "texte": "Zenuo planta son arc au pied de l'arbre. Ici serait le premier foyer.",
    "genre": "adulte/libre",
    "duree_ms": 5700,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Zenuo y'a ta kalanw dan yiri jukɔrɔ. O be kɛ an ka sigiyɔrɔ fɔlɔ ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A Zenuo zẽka a boogã tɩɩgã tẽngre. Rẽ n so t'a Zeova na n kɩtame tɩ d vɩɩmd wakat sẽn kõn sa.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-018",
@@ -649,7 +1341,19 @@
    "texte": "Ensemble, ils bâtirent une case ronde et préparèrent le premier champ.",
    "genre": "adulte/libre",
    "duree_ms": 4500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O ka bon dɔ lɔ ɲɔgɔn fɛ, k'a kɛ kogo ye, ka foro fɔlɔ labɛn.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "La bãmb ne b saam-biisã maana raag n segl pʋʋg ning sẽn dengã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-019",
@@ -665,7 +1369,19 @@
    "texte": "D'autres familles arrivèrent, et elles s'installèrent à leur tour.",
    "genre": "adulte/libre",
    "duree_ms": 4300,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O kɔ, denbaya wɛrɛw nana sigi yen.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Neb a taab n wa, tɩ b me zĩnd be.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-020",
@@ -681,7 +1397,19 @@
    "texte": "Un enfant naquit. Le village avait commencé.",
    "genre": "adulte/libre",
    "duree_ms": 4400,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Deen dɔ wolola. Dugumɔgɔw tun y'a daminɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Bi-ribla rogame. Tẽngã sɩngame.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-021",
@@ -697,7 +1425,19 @@
    "texte": "Ainsi, dit la légende, naquit le peuple des descendants de Zenuo.",
    "genre": "adulte/libre",
    "duree_ms": 5200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Lɔnnikɛla dɔ y'a fɔ ko Zenuw bɔnsɔnw lo sɔrɔla o la.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Bãngr-gomdã yetame tɩ yaa woto la b dog a Zeno nebã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   }
  ]
 }

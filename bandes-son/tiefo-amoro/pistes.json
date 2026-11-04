@@ -11,55 +11,135 @@
    "id": "titre",
    "type": "titre",
    "chemin": "titre",
-   "texte": "Tiéfo Amoro et la chute de Noumoudara (1897)"
+   "texte": "Tiéfo Amoro et la chute de Noumoudara (1897)",
+   "langues": {
+    "dyu": {
+     "texte": "Tiéfo Amoro ani Noumoudara ka saya (1897)",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Tiéfo Amoro e safaare Noumoudara (1897)",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "presentation",
    "type": "presentation",
    "chemin": "presentation",
-   "texte": "En 1897, Samory Touré avance vers la région de Bobo-Dioulasso. Tu vis le siège de Noumoudara auprès de Tiéfo Amoro. Le récit de sa fin ne repose que sur une source, et le jeu le dit. Tes choix changent ton regard, pas les faits."
+   "texte": "En 1897, Samory Touré avance vers la région de Bobo-Dioulasso. Tu vis le siège de Noumoudara auprès de Tiéfo Amoro. Le récit de sa fin ne repose que sur une source, et le jeu le dit. Tes choix changent ton regard, pas les faits.",
+   "langues": {
+    "dyu": {
+     "texte": "Saan 1897 la, Samory Touré tagara Bobo-Dioulasso mara la. Numuyara ka sigiyɔrɔ min be Tiéfo Amoro gɛrɛfɛ, i y'o ye. Bibulu b'a fɔ ko a laban ye min ye, o bɔra yɔrɔ dɔ lo la. I be koow latigɛ cogo min na, o lo b'a to i be yɛlɛmani don u la.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "E hitaande 1897, Samory Touré yahdi to diiwaan Bobo-Dioulasso. On ɗon yi'a laamorgo Noumoudara to Tiéfo Amoro. Ko ɗum waɗi nde o timmi, ɗum wi'i non. Hakkiilooji ɗi ngaɗata ɓernde ma, naa goonga.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "personnages.griot.nom",
    "type": "personnage",
    "chemin": "personnages.griot.nom",
-   "texte": "Le griot"
+   "texte": "Le griot",
+   "langues": {
+    "dyu": {
+     "texte": "Le griot"
+    },
+    "fuf": {
+     "texte": "Le griot"
+    }
+   }
   },
   {
    "id": "personnages.amoro.nom",
    "type": "personnage",
    "chemin": "personnages.amoro.nom",
-   "texte": "Tiéfo Amoro"
+   "texte": "Tiéfo Amoro",
+   "langues": {
+    "dyu": {
+     "texte": "Tiéfo Amoro"
+    },
+    "fuf": {
+     "texte": "Tiéfo Amoro"
+    }
+   }
   },
   {
    "id": "personnages.samory.nom",
    "type": "personnage",
    "chemin": "personnages.samory.nom",
-   "texte": "Samory Touré"
+   "texte": "Samory Touré",
+   "langues": {
+    "dyu": {
+     "texte": "Samory Touré"
+    },
+    "fuf": {
+     "texte": "Samory Touré"
+    }
+   }
   },
   {
    "id": "personnages.conferencier.nom",
    "type": "personnage",
    "chemin": "personnages.conferencier.nom",
-   "texte": "L'historien"
+   "texte": "L'historien",
+   "langues": {
+    "dyu": {
+     "texte": "L'historien"
+    },
+    "fuf": {
+     "texte": "L'historien"
+    }
+   }
   },
   {
    "id": "personnages.defenseur.nom",
    "type": "personnage",
    "chemin": "personnages.defenseur.nom",
-   "texte": "Le défenseur"
+   "texte": "Le défenseur",
+   "langues": {
+    "dyu": {
+     "texte": "Le défenseur"
+    },
+    "fuf": {
+     "texte": "Le défenseur"
+    }
+   }
   },
   {
    "id": "fins.canon",
    "type": "fin",
    "chemin": "fins.canon",
-   "texte": "Mémoire : Noumoudara, un récit à vérifier"
+   "texte": "Mémoire : Noumoudara, un récit à vérifier",
+   "langues": {
+    "dyu": {
+     "texte": "A ka maana: Noumoudara, an ka kan k'a sɛgɛsɛgɛ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Goomu: Noumoudara, haala nde waawi anndude",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "fins.source",
    "type": "fin",
    "chemin": "fins.source",
-   "texte": "Mémoire d'enquêteur : tu as demandé d'où vient ce récit"
+   "texte": "Mémoire d'enquêteur : tu as demandé d'où vient ce récit",
+   "langues": {
+    "dyu": {
+     "texte": "Sɛgɛsɛgɛrikɛla dɔ ka fɔta: I tun b'a fɛ k'a lɔn o kibaruya bɔra min na",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Deftere wiɗtoowo: a ƴamiima to ɗum ƴiwii",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "n1",
@@ -73,7 +153,23 @@
    "texte": "Noumoudara était le principal centre des Tiéfo, dans l'ouest de l'actuel Burkina Faso. À sa tête, à la fin du XIXe siècle, se trouvait Tiéfo Amoro.",
    "genre": "adulte/homme",
    "duree_ms": 10930,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Noumoudara tun ye Tiéfo dugumɔgɔw ka duguba dɔ ye. Saan 1800 wagati la, Tiéfo Amoro lo tun y'o jɛnkulu ɲɛminɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8554,
+     "fichier": "tiefo-amoro-n1-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Noumoudara woni wuro mawɗo yimɓe Tiéfo nder hirnaange Burkina Faso. Ko ndeen laamiiɗo, Tiéfo Amoro woni ardiiɗo mum haa sahaa 1800.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9658,
+     "fichier": "tiefo-amoro-n1-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n2",
@@ -87,7 +183,23 @@
    "texte": "Une conférence donnée à Bobo-Dioulasso en 2026 le présente comme le onzième chef des Tiéfo, né vers 1840.",
    "genre": "âgé/homme",
    "duree_ms": 7290,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Saan 2026 la, kalan dɔ kɛra Bobo-Dioulasso dugu kɔnɔ min b'a yira ko a ye Tiéfow ka kuntigi 11nan ye. A wolola saan 1840 wagati la.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9146,
+     "fichier": "tiefo-amoro-n2-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Goomu daraniiɗo to Bobo-Dioulasso e hitaande 2026 holli mo wonde ardiiɗo Tiéfo sappo e go'o, jibinaaɗo ko e 1840.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 10400,
+     "fichier": "tiefo-amoro-n2-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n3",
@@ -101,7 +213,23 @@
    "texte": "En 1897, Samory Touré progresse vers la région de Bobo-Dioulasso. Selon cette même conférence, Tiéfo Amoro lui oppose plusieurs combats, notamment à Bama et à Péni.",
    "genre": "adulte/homme",
    "duree_ms": 10930,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Saan 1897 la, Samory Touré tagara Bobo-Dioulasso mara la. Ka kɛɲɛ n'o kalan kelen ye, Tiéfo Amoro y'a kɛlɛ siɲɛ caaman.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8666,
+     "fichier": "tiefo-amoro-n3-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "E hitaande 1897, Samory Touré yahdi to diiwaan Bobo-Dioulasso. E wiyde kawtal ngal, Tiéfo Amoro hawti e haɓre keewɗe, haa teeŋti e Bama e Penni.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 12426,
+     "fichier": "tiefo-amoro-n3-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n4",
@@ -115,37 +243,103 @@
    "texte": "Frappe l'alerte qui appelle les combattants.",
    "genre": "adulte/homme",
    "duree_ms": 2580,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "I ka kan k'i ka kɛlɛdenw lasɔmi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2256,
+     "fichier": "tiefo-amoro-n4-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Handee ko'e mon ɗon wi'a.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2128,
+     "fichier": "tiefo-amoro-n4-fuf.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n5.consigne",
    "type": "jeu",
    "chemin": "nodes.n5.consigne",
-   "texte": "Les tambours appellent les combattants à Noumoudara. Reproduis l'appel."
+   "texte": "Les tambours appellent les combattants à Noumoudara. Reproduis l'appel.",
+   "langues": {
+    "dyu": {
+     "texte": "Dɔnkiliw be kɛlɛdenw wele ka na Noumoudara. N'a sɔrɔ i be se k'o fɔ tugun.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Dimbol ɗon nodda konu'en haa Noumoudara. Wurtina noddugo ma.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n5.gagne",
    "type": "jeu",
    "chemin": "nodes.n5.gagne",
-   "texte": "L'appel porte, et les combattants arrivent."
+   "texte": "L'appel porte, et les combattants arrivent.",
+   "langues": {
+    "dyu": {
+     "texte": "Kɛlɛkɛlaw be nana.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Wonde ɗon wara, yimɓe boo ɗon ngari.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n5.perdu",
    "type": "jeu",
    "chemin": "nodes.n5.perdu",
-   "texte": "L'appel se brouille, puis d'autres tambours le reprennent."
+   "texte": "L'appel se brouille, puis d'autres tambours le reprennent.",
+   "langues": {
+    "dyu": {
+     "texte": "N'o tɛ, n'a sɔrɔ a ka ɲi k'o kɛ.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Ɗuum ɓeydaani, ɓaawo maajum yimɓe feere ɓeen mbaɗi ɗum.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n5.tags.win",
    "type": "parcours",
    "chemin": "nodes.n5.tags.win",
-   "texte": "rythme tenu"
+   "texte": "rythme tenu",
+   "langues": {
+    "dyu": {
+     "texte": "a ka kɛcogo",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "ɓeydaaki",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n5.tags.lose",
    "type": "parcours",
    "chemin": "nodes.n5.tags.lose",
-   "texte": "rythme perdu"
+   "texte": "rythme perdu",
+   "langues": {
+    "dyu": {
+     "texte": "ka to k'o kɛ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "ɓeydaaki",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "n6",
@@ -159,31 +353,87 @@
    "texte": "Puis Samory assiège la forteresse. Où te tiens-tu pendant le siège ?",
    "genre": "adulte/homme",
    "duree_ms": 5160,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "O kɔ, Samori ye dugu lamini. I be lɔ yɔrɔ jumɛn k'a sɔrɔ o ye kɛlɛba dɔ ye?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6746,
+     "fichier": "tiefo-amoro-n6-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Caggal ɗuum, Samory taƴii wuro. Toonde a ɗon dari nder saa'i jooɗorde?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5610,
+     "fichier": "tiefo-amoro-n6-fuf.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n6.choices.0.label",
    "type": "choix",
    "chemin": "nodes.n6.choices.0.label",
-   "texte": "Sur les murs, avec les défenseurs"
+   "texte": "Sur les murs, avec les défenseurs",
+   "langues": {
+    "dyu": {
+     "texte": "K'u to dugu laminikogow kan n'u ka lafasabagaw ye",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "E walluuji, e gollaaɓe",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n6.choices.0.tag",
    "type": "parcours",
    "chemin": "nodes.n6.choices.0.tag",
-   "texte": "sur les murs"
+   "texte": "sur les murs",
+   "langues": {
+    "dyu": {
+     "texte": "kogow kan",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "dow walls",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n6.choices.1.label",
    "type": "choix",
    "chemin": "nodes.n6.choices.1.label",
-   "texte": "Près de Tiéfo Amoro"
+   "texte": "Près de Tiéfo Amoro",
+   "langues": {
+    "dyu": {
+     "texte": "Tiéfo Amoro gɛrɛfɛ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Haade Tiéfo Amoro",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n6.choices.1.tag",
    "type": "parcours",
    "chemin": "nodes.n6.choices.1.tag",
-   "texte": "près du chef"
+   "texte": "près du chef",
+   "langues": {
+    "dyu": {
+     "texte": "kuntigi gɛrɛfɛ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "ɓaawo hooreejo",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "murs",
@@ -197,7 +447,23 @@
    "texte": "Tiens bon. Il ne faut pas qu'ils trouvent une brèche.",
    "genre": "adulte/homme",
    "duree_ms": 4400,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "I k'a minɛ. An man kan k'a ɲini u fɛ k'o kɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3578,
+     "fichier": "tiefo-amoro-murs-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Jaɓɓorgo Fuuta. Ɓe mbaawaay heɓugo ɓocce.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4138,
+     "fichier": "tiefo-amoro-murs-fuf.m4a"
+    }
+   }
   },
   {
    "id": "chef",
@@ -211,7 +477,23 @@
    "texte": "Une cité se défend tant qu'il reste quelqu'un pour la défendre.",
    "genre": "adulte/homme",
    "duree_ms": 4480,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Dugu bɛ se k'a yɛrɛ tanga hali ni mɔgɔ dɔ tora min b'a kɛrɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4480,
+     "fichier": "tiefo-amoro-chef-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Too, gariiri ɗon haɓana hoore muuɗum to woodi goɗɗo ngam hisnugo gariiri.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5952,
+     "fichier": "tiefo-amoro-chef-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n7",
@@ -225,7 +507,23 @@
    "texte": "Cette parole est imaginée pour le jeu : aucune source ne la rapporte.",
    "genre": "adulte/homme",
    "duree_ms": 5390,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "O kuma ye tulogweren yɛrɛ le ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2272,
+     "fichier": "tiefo-amoro-n7-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Wolde nde'e nder ɗemngal ngal: walaa gootol anndi ɗum.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4154,
+     "fichier": "tiefo-amoro-n7-fuf.m4a"
+    }
+   }
   },
   {
    "id": "chute",
@@ -239,7 +537,23 @@
    "texte": "La forteresse tombe après environ une semaine, et Samory ordonne de la détruire pour montrer sa force.",
    "genre": "adulte/homme",
    "duree_ms": 6910,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Dugu barikaman nin benna ka ban lɔgɔkun kelen ɲɔgɔn kɔnɔ. O kɔ, Samori ko o ye dugu halaki k'a yira a ta fanga kosɔn.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9738,
+     "fichier": "tiefo-amoro-chute-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Caggal balɗe go'o, wuro ngo'ol maayi, Samori umri ɗum halki ngam hollude semmbe muuɗum.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6768,
+     "fichier": "tiefo-amoro-chute-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n8",
@@ -253,7 +567,23 @@
    "texte": "Selon l'historien cité lors de la conférence, une trahison aurait affaibli l'armée de Tiéfo Amoro, et celui-ci aurait choisi la mort plutôt que la reddition.",
    "genre": "âgé/homme",
    "duree_ms": 10100,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Lɔnnikɛla min kofɔra o kalan na, ale y'a fɔ ko n'u ye mɔgɔ dɔ janfa, o tun bena a to Tiéfo Amoro ka sɔrɔdasiw tora fanga la.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9616,
+     "fichier": "tiefo-amoro-n8-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Mawɗo taariika'en wi'i nder wolde nde'e wi'aay wonde luulndo waɗannoo konu Tiéfo Amoro ɓeydaaki, o yiɗiri maayde haa teeŋti e hokkugo hoore mum.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 12256,
+     "fichier": "tiefo-amoro-n8-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n9",
@@ -267,31 +597,87 @@
    "texte": "Que fais-tu de ce récit ?",
    "genre": "adulte/homme",
    "duree_ms": 2580,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "I be mun lo miiri o koo la?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2416,
+     "fichier": "tiefo-amoro-n9-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Hol ko a waɗata e haala ngol?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2416,
+     "fichier": "tiefo-amoro-n9-fuf.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n9.choices.0.label",
    "type": "choix",
    "chemin": "nodes.n9.choices.0.label",
-   "texte": "Le répéter tel quel, comme une certitude"
+   "texte": "Le répéter tel quel, comme une certitude",
+   "langues": {
+    "dyu": {
+     "texte": "I k'a fɔ a ye cogo min na, i ka la a la ko tiɲɛ lo.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Wurtina ɗum bana non, bana gooŋga.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n9.choices.0.tag",
    "type": "parcours",
    "chemin": "nodes.n9.choices.0.tag",
-   "texte": "répété tel quel"
+   "texte": "répété tel quel",
+   "langues": {
+    "dyu": {
+     "texte": "a tun y'a fɔ ko",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "hollude ko woni",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n9.choices.1.label",
    "type": "choix",
    "chemin": "nodes.n9.choices.1.label",
-   "texte": "Demander d'où il vient"
+   "texte": "Demander d'où il vient",
+   "langues": {
+    "dyu": {
+     "texte": "A bɔra min?",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Ndaa to o ƴamiri",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n9.choices.1.tag",
    "type": "parcours",
    "chemin": "nodes.n9.choices.1.tag",
-   "texte": "source demandée"
+   "texte": "source demandée",
+   "langues": {
+    "dyu": {
+     "texte": "yɔrɔ min ɲinina",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "ƴeewtaade",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "source",
@@ -305,7 +691,23 @@
    "texte": "Bonne question : nous n'avons trouvé qu'une seule source pour ce récit de sa fin. Il est donné ici comme tel, et il reste à valider.",
    "genre": "adulte/homme",
    "duree_ms": 10780,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Ɲiningali ɲuman: An ye gafe kelen dɔrɔn lo sɔrɔ a laban koo la. An y'a fɔ ko a be yen ani a ka kan ka kɛ tiɲɛ ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8948,
+     "fichier": "tiefo-amoro-source-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Jaɓɓorgo Kewuuji pinal: Foyre gootol tan en heɓii ngam anndingo haala maayde maako. O hokkataama ɗo bana non, nden kam o haaɓataa.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 11028,
+     "fichier": "tiefo-amoro-source-fuf.m4a"
+    }
+   }
   },
   {
    "id": "croire",
@@ -319,7 +721,23 @@
    "texte": "Prudence : une seule source rapporte cette fin. Ce qu'on sait, c'est qu'avant même la conquête coloniale, les peuples de l'Ouest ont dû défendre leurs cités contre de grands empires conquérants.",
    "genre": "adulte/homme",
    "duree_ms": 12830,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "O kama, an ka ɲi k'an yɛrɛ kɔrɔsi. An b'a lɔn ko hali sanni u ka taga fangatigiw kama, tileben fan fɛ mɔgɔw tun ka ɲi k'u ka duguw lafasa.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9802,
+     "fichier": "tiefo-amoro-croire-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Hakkiilo: Fooyre gootol tan ɗon wi'a non. Ko en anndi woni, ko ɓesngu leydi fuɗɗii ɗowtanaade leydi ndii, leyɗe hirnaange mbaɗi ngam haɓɓaade gure maɓɓe diga laamuji mawɗi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 13860,
+     "fichier": "tiefo-amoro-croire-fuf.m4a"
+    }
+   }
   }
  ]
 }

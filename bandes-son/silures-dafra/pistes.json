@@ -12,49 +12,121 @@
    "id": "titre",
    "type": "titre",
    "chemin": "titre",
-   "texte": "Les silures sacrés de Dafra"
+   "texte": "Les silures sacrés de Dafra",
+   "langues": {
+    "dyu": {
+     "texte": "Dafra ka jɛgɛ senumanw",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Dafra tẽn-sõamyã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "presentation",
    "type": "presentation",
    "chemin": "presentation",
-   "texte": "À Dafra, l'eau et les silures se protègent ensemble. Tu suis Awa jusqu'à la gorge, puis tu restes auprès de Mah, la gardienne, quand un pêcheur étranger arrive."
+   "texte": "À Dafra, l'eau et les silures se protègent ensemble. Tu suis Awa jusqu'à la gorge, puis tu restes auprès de Mah, la gardienne, quand un pêcheur étranger arrive.",
+   "langues": {
+    "dyu": {
+     "texte": "Dafra dugu la, jii ni kongosogow be ɲɔgɔn tanga. Aw ye Awa to yen fɔɔ ka taga se a dugudennin ma. O kɔ, aw ye sigi Mah fɛ, min ye a kɔrɔsibaga ye, n'a sɔrɔ jɛgɛminɛbaga dɔ bɔra jamana wɛrɛ la.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "A Dafra tẽngã pʋgẽ, koomã ne zĩmã kogend taaba. Yãmb yaa Awa, tɩ y ket n bee ne a Mah sẽn yaa gũudã, sã n wa tar zĩm-biisi.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "personnages.griot.nom",
    "type": "personnage",
    "chemin": "personnages.griot.nom",
-   "texte": "Le griot"
+   "texte": "Le griot",
+   "langues": {
+    "dyu": {
+     "texte": "Le griot"
+    },
+    "mos": {
+     "texte": "Le griot"
+    }
+   }
   },
   {
    "id": "personnages.awa.nom",
    "type": "personnage",
    "chemin": "personnages.awa.nom",
-   "texte": "Awa"
+   "texte": "Awa",
+   "langues": {
+    "dyu": {
+     "texte": "Awa"
+    },
+    "mos": {
+     "texte": "Awa"
+    }
+   }
   },
   {
    "id": "personnages.mah.nom",
    "type": "personnage",
    "chemin": "personnages.mah.nom",
-   "texte": "Mah, la gardienne"
+   "texte": "Mah, la gardienne",
+   "langues": {
+    "dyu": {
+     "texte": "Mah, la gardienne"
+    },
+    "mos": {
+     "texte": "Mah, la gardienne"
+    }
+   }
   },
   {
    "id": "personnages.pecheur.nom",
    "type": "personnage",
    "chemin": "personnages.pecheur.nom",
-   "texte": "Le pêcheur"
+   "texte": "Le pêcheur",
+   "langues": {
+    "dyu": {
+     "texte": "Le pêcheur"
+    },
+    "mos": {
+     "texte": "Le pêcheur"
+    }
+   }
   },
   {
    "id": "fins.canon",
    "type": "fin",
    "chemin": "fins.canon",
-   "texte": "Version du griot : l'eau revient à Dafra"
+   "texte": "Version du griot : l'eau revient à Dafra",
+   "langues": {
+    "dyu": {
+     "texte": "Lɔnnikɛla ka fɔta: Ji be kɔsegi Dafra",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Bãngr-gomd ning sẽn yet tɩ koomã lebg n ta Dafra wã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "fins.secheresse",
    "type": "fin",
    "chemin": "fins.secheresse",
-   "texte": "Autre chemin : personne n'a rendu le silure à temps"
+   "texte": "Autre chemin : personne n'a rendu le silure à temps",
+   "langues": {
+    "dyu": {
+     "texte": "O kɔ, mɔgɔ si ma jigɛ kɔsegi wagati la",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Bũmb a to: ned baa a yen pa lebs-a wakat sẽn zems ye",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "n1",
@@ -68,7 +140,23 @@
    "texte": "Dans une gorge, à la source du Houet, l'eau tombe en cascade depuis toujours. Sous sa surface vivent de grands poissons moustachus : les silures.",
    "genre": "adulte/homme",
    "duree_ms": 10550,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "K'a ta o wagati ra, ji tun bɛ jigi ka bɔ kɔda dɔ kɔnɔ Houet kɔda ra. O kɔ, u y'a fɔ a ye ko: \"N'i b'a fɛ k'o kɛ, n' be se k'i yɛrɛ tanga o ma\".",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 11892,
+     "fichier": "silures-dafra-n1-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Kẽer sẽn be Houet kʋɩlgã pʋgẽ wã, koomã ra yaa wa ko-kãseng wakat fãa. Kẽer yaa zĩm-dãmb sẽn tar gãn-kãsemse.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8058,
+     "fichier": "silures-dafra-n1-mos.m4a"
+    }
+   }
   },
   {
    "id": "n2",
@@ -82,7 +170,23 @@
    "texte": "Autour de cette source a grandi Sya, l'ancienne Bobo-Dioulasso. Regarde ce qu'on apporte ici.",
    "genre": "adulte/homme",
    "duree_ms": 6070,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "O kɔ, u y'a fɔ a ye ko ale lo tun be yen. A filɛ an be na ni min ye yan.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7322,
+     "fichier": "silures-dafra-n2-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Rẽ n so t'a Sya, b sẽn da boond tɩ Bobo-Dioulasso wã bɩtẽ. Ges-y bũmb nins d sẽn wat ne wã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7066,
+     "fichier": "silures-dafra-n2-mos.m4a"
+    }
+   }
   },
   {
    "id": "n3",
@@ -96,7 +200,23 @@
    "texte": "Silures de Dafra, je vous en prie, donnez-moi un enfant.",
    "genre": "adulte/femme",
    "duree_ms": 4400,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Aw ye den dɔ di ne ma.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 1776,
+     "fichier": "silures-dafra-n3-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Dafra Silures, m kot-y tɩ y kõ maam biiga.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3008,
+     "fichier": "silures-dafra-n3-mos.m4a"
+    }
+   }
   },
   {
    "id": "n4",
@@ -110,7 +230,23 @@
    "texte": "Fais ton vœu, et attends.",
    "genre": "âgée/femme",
    "duree_ms": 2350,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "I ka dajuru ta k'a makɔnɔ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2080,
+     "fichier": "silures-dafra-n4-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Tẽeg-y y pʋlengã, la y gũ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2000,
+     "fichier": "silures-dafra-n4-mos.m4a"
+    }
+   }
   },
   {
    "id": "n5",
@@ -124,31 +260,87 @@
    "texte": "Awa a le cœur lourd. Avant de partir, que laisse-t-elle au bord de l'eau ?",
    "genre": "adulte/homme",
    "duree_ms": 6450,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Awa dusu kasinin lo. Sanni a ka taga, a be mun lo to baji daa la?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6282,
+     "fichier": "silures-dafra-n5-dyu.m4a"
+    },
+    "mos": {
+     "texte": "A Awa sũur yaa toog wʋsgo. Sẽn deng a sẽn yi wã, bõe la a bas koomẽ wã?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6698,
+     "fichier": "silures-dafra-n5-mos.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n5.choices.0.label",
    "type": "choix",
    "chemin": "nodes.n5.choices.0.label",
-   "texte": "Une offrande pour nourrir les silures"
+   "texte": "Une offrande pour nourrir les silures",
+   "langues": {
+    "dyu": {
+     "texte": "Nili min kɛra walisa ka jɛgɛw balo",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Sẽn na yɩl n kõ rũmsã rɩɩb",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n5.choices.0.tag",
    "type": "parcours",
    "chemin": "nodes.n5.choices.0.tag",
-   "texte": "offrande"
+   "texte": "offrande",
+   "langues": {
+    "dyu": {
+     "texte": "saraka",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "kũunã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n5.choices.1.label",
    "type": "choix",
    "chemin": "nodes.n5.choices.1.label",
-   "texte": "Rien, elle a déjà tout dit"
+   "texte": "Rien, elle a déjà tout dit",
+   "langues": {
+    "dyu": {
+     "texte": "A ma foyi fɔ, a y'a bɛɛ fɔ ka ban",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Bũmb ka be ye, a zoe n togsa bũmb fãa",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n5.choices.1.tag",
    "type": "parcours",
    "chemin": "nodes.n5.choices.1.tag",
-   "texte": "sans offrande"
+   "texte": "sans offrande",
+   "langues": {
+    "dyu": {
+     "texte": "ni saraka tɛ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "sã n pa tar kũun ye",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "oubli",
@@ -162,7 +354,23 @@
    "texte": "On n'oublie pas de nourrir ceux qu'on implore. Reviens avec une poignée de nourriture.",
    "genre": "âgée/femme",
    "duree_ms": 5920,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "N'i ye dumuni di mɔgɔ min ma, i hakili b'a la k'o tigi ka ɲi ka dumuni kɛ. N'i kɔsegira n'i ka dumuni ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7914,
+     "fichier": "silures-dafra-oubli-dyu.m4a"
+    },
+    "mos": {
+     "texte": "D pa yĩm n na n dɩk neb nins d sẽn kosã ye. Bas-y n wa ne rɩɩb wʋsgo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5210,
+     "fichier": "silures-dafra-oubli-mos.m4a"
+    }
+   }
   },
   {
    "id": "offrande",
@@ -176,7 +384,23 @@
    "texte": "Un silure saute hors de l'eau. Le vœu est entendu. Et bientôt, Awa berce son enfant.",
    "genre": "adulte/homme",
    "duree_ms": 7130,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Jigɛ dɔ bɔra jii la. Ala ye layidu min ta, an y'o dafa. Wagati dɔɔni o kɔ, Awa y'a deen suu don.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8068,
+     "fichier": "silures-dafra-offrande-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Kẽer n yi koomẽ. B kelg-a lame. La ka la bilfu, Awa rɩka a bi-riblã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7012,
+     "fichier": "silures-dafra-offrande-mos.m4a"
+    }
+   }
   },
   {
    "id": "n6",
@@ -190,7 +414,23 @@
    "texte": "Mais un jour arrive un pêcheur étranger, un harpon sur l'épaule.",
    "genre": "adulte/homme",
    "duree_ms": 4630,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Nka loon dɔ, jɛgɛminɛbaga wɛrɛ nana. A tun b'a kun na ni gɔni ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5898,
+     "fichier": "silures-dafra-n6-dyu.m4a"
+    },
+    "mos": {
+     "texte": "La daar a ye, zĩm-biis sẽn da yaa tẽn-zẽmsã waame.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5216,
+     "fichier": "silures-dafra-n6-mos.m4a"
+    }
+   }
   },
   {
    "id": "n7",
@@ -204,7 +444,23 @@
    "texte": "Ici, personne ne pêche. Ces poissons sont sacrés.",
    "genre": "âgée/femme",
    "duree_ms": 3790,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Mɔgɔ si tɛ jɛgɛminɛ kɛ yan. O jɛgɛw ka senu.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4234,
+     "fichier": "silures-dafra-n7-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Ka ned sẽn baood zĩm-gãong ye. Rɩt-kãens yaa bõn-sõamyã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4426,
+     "fichier": "silures-dafra-n7-mos.m4a"
+    }
+   }
   },
   {
    "id": "n8",
@@ -218,7 +474,23 @@
    "texte": "Des poissons sacrés ! Ils finiront dans ma marmite.",
    "genre": "adulte/homme",
    "duree_ms": 4020,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Jigɛɲumanw! U bena to ne ka daga kɔnɔ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3418,
+     "fichier": "silures-dafra-n8-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Yaa zĩm-sõamyã. B na n kẽnga m pʋ-peemã pʋgẽ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3866,
+     "fichier": "silures-dafra-n8-mos.m4a"
+    }
+   }
   },
   {
    "id": "n9",
@@ -232,7 +504,23 @@
    "texte": "Il lance son harpon, prend un silure et repart, content de lui. Derrière lui, le ciel s'assombrit, et la cascade se tarit goutte après goutte.",
    "genre": "adulte/homme",
    "duree_ms": 10700,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "O kɔ, a k'a ta gɔni fiyɛ ka taga. A kɔ fɛ, sankolo kɛra dibi ye, ji jalenw tora ka ja.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8090,
+     "fichier": "silures-dafra-n9-dyu.m4a"
+    },
+    "mos": {
+     "texte": "A lobda a tãmbã, n dɩk zĩm n looge, t'a sũur noom ne-a. A Zezi poorẽ, saagã lebga lik la koom-koglgã kʋɩɩga.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9434,
+     "fichier": "silures-dafra-n9-mos.m4a"
+    }
+   }
   },
   {
    "id": "n10",
@@ -246,31 +534,87 @@
    "texte": "À Sya, les canaris restent vides. Toi qui as tout vu, que fais-tu ?",
    "genre": "adulte/homme",
    "duree_ms": 6220,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Nka, o tɛ foyi ye. Ele min ye koo bɛɛ ye, i be mun le kɛra?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4538,
+     "fichier": "silures-dafra-n10-dyu.m4a"
+    },
+    "mos": {
+     "texte": "A Sya pʋgẽ, b pa tar koom-koglgã ye. Fo sẽn yã bũmb nins fãa wã, fo maanda bõe?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7946,
+     "fichier": "silures-dafra-n10-mos.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n10.choices.0.label",
    "type": "choix",
    "chemin": "nodes.n10.choices.0.label",
-   "texte": "Tu pars chercher le pêcheur"
+   "texte": "Tu pars chercher le pêcheur",
+   "langues": {
+    "dyu": {
+     "texte": "I ka taga jɛgɛminɛbaga ta",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Fo kẽng n tɩ bao zĩm-biisi wã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n10.choices.0.tag",
    "type": "parcours",
    "chemin": "nodes.n10.choices.0.tag",
-   "texte": "pêcheur recherché"
+   "texte": "pêcheur recherché",
+   "langues": {
+    "dyu": {
+     "texte": "jɛgɛminɛbaga min ɲinina",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "b ra baood zĩm-biisi",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n10.choices.1.label",
    "type": "choix",
    "chemin": "nodes.n10.choices.1.label",
-   "texte": "Tu attends que les anciens décident"
+   "texte": "Tu attends que les anciens décident",
+   "langues": {
+    "dyu": {
+     "texte": "Yala i b'a fɛ diinan mɔgɔkɔrɔw ka desizɔnw ta wa?",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Yãmb gũuda kãsem-dãmbã tɩ b yãk yam",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n10.choices.1.tag",
    "type": "parcours",
    "chemin": "nodes.n10.choices.1.tag",
-   "texte": "attente"
+   "texte": "attente",
+   "langues": {
+    "dyu": {
+     "texte": "ka kɔnɔni kɛ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "gũuda",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "attendre",
@@ -284,7 +628,23 @@
    "texte": "Les jours passent. Les anciens parlent, l'eau ne revient pas. Le pêcheur, loin de là, tombe malade.",
    "genre": "adulte/homme",
    "duree_ms": 7810,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Tilew be tɛmɛ. Cɛkɔrɔbaw bɛ kuma, nka ji tɛ sekɔ. O kɔ, jɛgɛminɛbaga dɔ banana.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8836,
+     "fichier": "silures-dafra-attendre-dyu.m4a"
+    },
+    "mos": {
+     "texte": "La daarã loogdame. Kãsem-dãmbã gomda, la koomã ka lebgd ye. La zĩm-bi-kãsengã sẽn be zĩig zãra wã, a lebgame tɩ bãad.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 10180,
+     "fichier": "silures-dafra-attendre-mos.m4a"
+    }
+   }
   },
   {
    "id": "n11",
@@ -298,31 +658,87 @@
    "texte": "Il reste une chance : qu'il revienne de lui-même, ou qu'on aille le trouver.",
    "genre": "adulte/homme",
    "duree_ms": 5920,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "O kɔ, an k'a ɲini a fɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2304,
+     "fichier": "silures-dafra-n11-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Bũmb n ket n be: bɩ a lebg n wa, wall d kẽng n tɩ bao-a.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3674,
+     "fichier": "silures-dafra-n11-mos.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n11.choices.0.label",
    "type": "choix",
    "chemin": "nodes.n11.choices.0.label",
-   "texte": "Aller le trouver maintenant"
+   "texte": "Aller le trouver maintenant",
+   "langues": {
+    "dyu": {
+     "texte": "A ɲini k'a ye sisan",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "D kẽng n tɩ yã-a masã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n11.choices.0.tag",
    "type": "parcours",
    "chemin": "nodes.n11.choices.0.tag",
-   "texte": "pêcheur recherché"
+   "texte": "pêcheur recherché",
+   "langues": {
+    "dyu": {
+     "texte": "jɛgɛminɛbaga min ɲinina",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "b ra baood zĩm-biisi",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n11.choices.1.label",
    "type": "choix",
    "chemin": "nodes.n11.choices.1.label",
-   "texte": "Laisser faire le temps"
+   "texte": "Laisser faire le temps",
+   "langues": {
+    "dyu": {
+     "texte": "A to wagati ka tɛmɛ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Yãk-y n bas tɩ wakat ta",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n11.choices.1.tag",
    "type": "parcours",
    "chemin": "nodes.n11.choices.1.tag",
-   "texte": "laissé au temps"
+   "texte": "laissé au temps",
+   "langues": {
+    "dyu": {
+     "texte": "a to an ka wagati ta",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "b bas-a lame",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "seche",
@@ -336,7 +752,23 @@
    "texte": "On dit qu'en ce temps-là, la soif a vidé bien des cours de Sya, et que chacun a appris trop tard à quoi tenait la source.",
    "genre": "adulte/homme",
    "duree_ms": 10480,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "U b'a fɔ ko o wagati la, minnɔgɔ ye Sya ka lakɔli caaman ban. O kɔ, mɔgɔ bɛɛ sera k'a faamu fɛɛn min kama Ala tun y'o bɔyɔrɔ di u ma.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 10698,
+     "fichier": "silures-dafra-seche-dyu.m4a"
+    },
+    "mos": {
+     "texte": "B yeelame tɩ wakat kãnga, rã-yũudã kɩtame t'a Sya karen-biis wʋsg lebg zaalem.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6368,
+     "fichier": "silures-dafra-seche-mos.m4a"
+    }
+   }
   },
   {
    "id": "chercher",
@@ -350,7 +782,23 @@
    "texte": "Tu le trouves dans son campement, tremblant de fièvre, le silure encore entre ses mains. Il revient avec toi à la gorge.",
    "genre": "adulte/homme",
    "duree_ms": 9260,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "I k'a ye a ta fanibon kɔnɔ, farigban b'a ra ka yɛrɛyɛrɛ; sanbɛrɛ bɛ a boro halibi. A be segi ka na ni i ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9556,
+     "fichier": "silures-dafra-chercher-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Fo sã n yãend-a t'a be a logtorẽ wã, a gãnda yĩn-kãnga, la zĩmã ket n bee a nugẽ. A lebg n waa ne yãmba.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8458,
+     "fichier": "silures-dafra-chercher-mos.m4a"
+    }
+   }
   },
   {
    "id": "n12",
@@ -364,7 +812,23 @@
    "texte": "Pardonne-moi, gardienne. Je ne savais pas.",
    "genre": "adulte/homme",
    "duree_ms": 3030,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "N'i ka yafa ne ma, garadi. N' tun m'a lɔn.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3674,
+     "fichier": "silures-dafra-n12-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Bas-y maam, gũudã. M da pa mi ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3210,
+     "fichier": "silures-dafra-n12-mos.m4a"
+    }
+   }
   },
   {
    "id": "n13",
@@ -378,55 +842,151 @@
    "texte": "Il rend le poisson à l'eau. Mah nourrit les silures. Et l'eau revient.",
    "genre": "adulte/homme",
    "duree_ms": 5840,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "A be jigɛ bila jii la. A b'o jɛgɛw balo. O kɔ, jii segira ka na.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6340,
+     "fichier": "silures-dafra-n13-dyu.m4a"
+    },
+    "mos": {
+     "texte": "A kɩtdame tɩ zĩmã leb koomẽ. A Ma wãbda zĩm-dãmbã. La koomã leb n waame.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6980,
+     "fichier": "silures-dafra-n13-mos.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n14.question",
    "type": "jeu",
    "chemin": "nodes.n14.question",
-   "texte": "Que font encore les visiteurs de Dafra aujourd'hui ?"
+   "texte": "Que font encore les visiteurs de Dafra aujourd'hui ?",
+   "langues": {
+    "dyu": {
+     "texte": "Mɔgɔ minw be taga Dafra dugu la, olu be mun lo kɛra bi?",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Bõe la Dafra nebã ket n maand rũndã-rũndã?",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n14.gagne",
    "type": "jeu",
    "chemin": "nodes.n14.gagne",
-   "texte": "C'est cela : on nourrit les silures, et on leur confie ses vœux."
+   "texte": "C'est cela : on nourrit les silures, et on leur confie ses vœux.",
+   "langues": {
+    "dyu": {
+     "texte": "O le ye nin ye: o bɛ sagasiw baro, ka dajuru ta o fɛ.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Yaa woto: b rɩtgda zĩm-dãmba, la b kõt-b-la pʋlemde.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n14.perdu",
    "type": "jeu",
    "chemin": "nodes.n14.perdu",
-   "texte": "Non : à Dafra, on nourrit les silures, et on leur confie ses vœux."
+   "texte": "Non : à Dafra, on nourrit les silures, et on leur confie ses vœux.",
+   "langues": {
+    "dyu": {
+     "texte": "A tɛ! Dɔnkirilabagaw b'a fɔ jɛgɛw ye k'u ka dajuru dafa.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "A Dafra wã, b rɩtgd-b lame, la b kõt-b-la pʋlemde.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n14.reponses.0.label",
    "type": "jeu",
    "chemin": "nodes.n14.reponses.0.label",
-   "texte": "Ils nourrissent les silures et leur confient leurs vœux"
+   "texte": "Ils nourrissent les silures et leur confient leurs vœux",
+   "langues": {
+    "dyu": {
+     "texte": "O ka jɛgɛw balo, k'a to o ye dajuru ta",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "B rɩtga zĩm-dãmbã la b kɩs-b pʋlemde",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n14.reponses.1.label",
    "type": "jeu",
    "chemin": "nodes.n14.reponses.1.label",
-   "texte": "Ils pêchent le silure pour la fête"
+   "texte": "Ils pêchent le silure pour la fête",
+   "langues": {
+    "dyu": {
+     "texte": "U be jigɛ ɲinina ɲanagwɛ kama",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "B rɩka zĩm n na n maan kibsã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n14.reponses.2.label",
    "type": "jeu",
    "chemin": "nodes.n14.reponses.2.label",
-   "texte": "Ils remplissent des jarres pour la ville"
+   "texte": "Ils remplissent des jarres pour la ville",
+   "langues": {
+    "dyu": {
+     "texte": "U be dagaw fa dugu kɔnɔ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "B pidsda koom-koglgã tẽn-tẽngã yĩnga",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n14.tags.win",
    "type": "parcours",
    "chemin": "nodes.n14.tags.win",
-   "texte": "bonne réponse"
+   "texte": "bonne réponse",
+   "langues": {
+    "dyu": {
+     "texte": "jaabili ɲuman",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "leokr sẽn yaa sõma",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n14.tags.lose",
    "type": "parcours",
    "chemin": "nodes.n14.tags.lose",
-   "texte": "réponse manquée"
+   "texte": "réponse manquée",
+   "langues": {
+    "dyu": {
+     "texte": "a ma jaabi",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "sẽn pa leokã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "n15",
@@ -440,7 +1000,23 @@
    "texte": "On ne prend pas à la légère ce qu'une ville entière protège.",
    "genre": "adulte/homme",
    "duree_ms": 4860,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Mɔgɔ tɛ se k'a jati ko dugumɔgɔw bɛɛ b'u yɛrɛ latanga.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3760,
+     "fichier": "silures-dafra-n15-dyu.m4a"
+    },
+    "mos": {
+     "texte": "D sã n get tẽngã koglg yelle, d pa tõe n tall-a ne sik-m-meng ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4528,
+     "fichier": "silures-dafra-n15-mos.m4a"
+    }
+   }
   },
   {
    "id": "film-001",
@@ -456,7 +1032,19 @@
    "texte": "Les silures sacrés de Dafra. Une légende de Bobo-Dioulasso.",
    "genre": "adulte/libre",
    "duree_ms": 5400,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Dafra ka jɛgɛ senumanw. Bobo-Dioulasso ka maana dɔ lo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Yaa Dafra tẽn-sõamyã. Yaa Bobo-Dioulasso kibarã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-002",
@@ -472,7 +1060,19 @@
    "texte": "Dans une gorge, à la source du Houet, l'eau tombe en cascade depuis toujours.",
    "genre": "adulte/libre",
    "duree_ms": 5300,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "K'a ta o wagati ra, ji tun bɛ jigi ka bɔ kɔda dɔ kɔnɔ Houet kɔda ra.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Kẽer sẽn be Houet kʋɩlgã pʋgẽ wã, koomã ra yaa wa ko-kãseng wakat fãa.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-003",
@@ -488,7 +1088,19 @@
    "texte": "Sous sa surface vivent de grands poissons moustachus : les silures.",
    "genre": "adulte/libre",
    "duree_ms": 4400,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O kɔ, u y'a fɔ a ye ko: \"N'i b'a fɛ k'o kɛ, n' be se k'i yɛrɛ tanga o ma\".",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Kẽer yaa zĩm-dãmb sẽn tar gãn-kãsemse.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-004",
@@ -504,7 +1116,19 @@
    "texte": "Un jour, au temps des fondateurs, un chasseur assoiffé trouva ce lieu. Il but, et il laissa une offrande en remerciement.",
    "genre": "adulte/libre",
    "duree_ms": 8300,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Loon dɔ, dugumɔgɔw ka wagati la, jagokɛla dɔ tun b'a fɛ k'o yɔrɔ sɔrɔ. A ye duvɛn min, ka barika la Ala ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Daar a ye, b sẽn da wa n naan tẽngã, koglg ned sẽn da tar koomã yãee zĩ-kãng. A rɩka bõn-yũudr la a bas kũun n na n pʋʋs Wẽnnaam barka.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-005",
@@ -520,7 +1144,19 @@
    "texte": "Près de la source, une ville grandit : Sya, l'ancienne Bobo-Dioulasso.",
    "genre": "adulte/libre",
    "duree_ms": 5300,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O kɔ, a ye dugu dɔ lɔ jii bɔyɔrɔ gɛrɛfɛ min tɔgɔ ko Sya, o kɔrɔ ko Bobo Dioulasso.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Tẽnga sẽn be ko-kãsengã sɛɛgẽ wã yaa Sya, b sẽn da boond tɩ Bobo-Dioulasso.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-006",
@@ -536,7 +1172,19 @@
    "texte": "Ses habitants venaient chercher l'eau à Dafra, et ils n'oubliaient jamais de nourrir les silures.",
    "genre": "adulte/libre",
    "duree_ms": 5500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "A dugumɔgɔw tun bɛ to ka na ji min Dafra dugu kɔnɔ, o tun b'a fɛ k'a min. O tun tɛ ɲina jɛgɛw ta baro kɔ fiyewu.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Tẽngã neba ra wa n baooda koom Dafra, la b da pa yĩm ne zĩmã rɩɩb ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-007",
@@ -552,7 +1200,19 @@
    "texte": "Awa, une jeune femme de Sya, n'avait pas d'enfant. Son cœur était lourd.",
    "genre": "adulte/libre",
    "duree_ms": 6100,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Awa, min tun ye Sya muso dɔ ye, ale ma deen sɔrɔ. A dusu tun man di.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A Awa, a Sya pagã ra pa tar bi-ribl ye. A sũur yɩɩ toog wʋsgo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-008",
@@ -568,7 +1228,19 @@
    "texte": "Un matin, elle prit le chemin de la gorge.",
    "genre": "adulte/libre",
    "duree_ms": 3600,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Loon dɔ sɔgɔma, a ye sira ta ka taga n'a ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Daar a ye koabgẽ, a kẽnga koglgã pʋga.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-009",
@@ -584,7 +1256,19 @@
    "texte": "Mah, la gardienne de Dafra, l'y attendait.",
    "genre": "adulte/libre",
    "duree_ms": 4300,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Nka, Dafra dugu kɔrɔsibaga tun b'a kɔnɔna.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A Dafra gũudã ra gũuda yẽnda be.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-010",
@@ -600,7 +1284,19 @@
    "texte": "Silures de Dafra, je vous en prie, donnez-moi un enfant.",
    "genre": "adulte/femme",
    "duree_ms": 4500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Aw ye den dɔ di ne ma.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Dafra Silures, m kot-y tɩ y kõ maam biiga.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-011",
@@ -616,7 +1312,19 @@
    "texte": "Fais ton vœu, et attends.",
    "genre": "âgé/libre",
    "duree_ms": 2600,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "I ka dajuru ta k'a makɔnɔ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Tẽeg-y y pʋlengã, la y gũ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-012",
@@ -632,7 +1340,19 @@
    "texte": "Un silure sauta hors de l'eau. Le vœu était entendu.",
    "genre": "adulte/libre",
    "duree_ms": 4700,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Jigɛ dɔ bɔra jii la. Ala tun y'a daa di koo min na, a sɔnna o ma.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Kẽer n yi koomã pʋgẽ. B wʋma pʋlemdã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-013",
@@ -648,7 +1368,19 @@
    "texte": "Et bientôt, Awa berça son enfant. Elle revint à Dafra pour dire merci.",
    "genre": "adulte/libre",
    "duree_ms": 6000,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Wagati dɔɔni o kɔ, Awa y'a deen lamɔ. A segira ka na Dafra dugu la walisa k'a waleɲumanlɔn.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "La ka la bilfu, Awa rɩka a biigã. A leb n waame n na n pʋʋs a Zeova barka.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-014",
@@ -664,7 +1396,19 @@
    "texte": "Mais un jour arriva un pêcheur étranger, avec un harpon sur l'épaule.",
    "genre": "adulte/libre",
    "duree_ms": 4800,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Nka loon dɔ, jɛgɛminɛbaga wɛrɛ nana. A tun b'a ka fɔlikɛminan biri a kamankun kan.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "La daar a ye, zĩm-biisi sẽn yit tẽn-zẽnga waame.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-015",
@@ -680,7 +1424,19 @@
    "texte": "Ici, personne ne pêche. Ces poissons sont sacrés.",
    "genre": "âgé/libre",
    "duree_ms": 5100,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Mɔgɔ si tɛ jɛgɛminɛ kɛ yan. O jɛgɛw ka senu.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Ka ned sẽn baood zĩm-gãong ye. Rɩt-kãens yaa bõn-sõamyã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-016",
@@ -696,7 +1452,19 @@
    "texte": "Il éclata de rire. Il lança son harpon et prit un silure.",
    "genre": "adulte/libre",
    "duree_ms": 5200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "A yɛlɛla kosɔbɛ. A y'a ka fɔlikɛminan fili ani a ye jigɛ dɔ ta.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A yãgsame. A lob-a lame n dɩ zĩm a ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-017",
@@ -712,7 +1480,19 @@
    "texte": "Il repartit, content de lui. Derrière lui, le ciel s'assombrit.",
    "genre": "adulte/libre",
    "duree_ms": 6000,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O kɔ, a segira ka taga. A kɔ fɛ, sankolo kɛra dibi ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A kẽnga be, a sũur yɩɩ noog ne-a. A Zezi poore, saasẽ lebga lik.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-018",
@@ -728,7 +1508,19 @@
    "texte": "Alors la cascade se tarit, goutte après goutte.",
    "genre": "adulte/libre",
    "duree_ms": 3800,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O kɔ, jii bɔtɔ tora ka sumaya.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Rẽ n so tɩ koom-koglgã sa.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-019",
@@ -744,7 +1536,19 @@
    "texte": "À Sya, les canaris restèrent vides. Les habitants revenaient des puits les mains vides.",
    "genre": "adulte/libre",
    "duree_ms": 6300,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Nka, u tun b'a fɛ k'o kɛ. O dugumɔgɔw tun be bɔ kɔlɔnw kɔnɔ k'u bololakolon kɔsegi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A Sya pʋgẽ, b pa kõ-b bũmb ye. Neb nins sẽn da be tẽn-kãnga pʋgẽ wã yii koom koglgẽ n lebg n wa ne b nusã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-020",
@@ -760,7 +1564,19 @@
    "texte": "Et loin de là, dans son campement, le pêcheur tomba malade.",
    "genre": "adulte/libre",
    "duree_ms": 4500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O kɔ, jɛgɛminɛbaga dɔ banana.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "La zĩm-biisã sẽn da be zĩig sẽn zãre wã, bãaga yõk-b lame.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-021",
@@ -776,7 +1592,19 @@
    "texte": "Tremblant, il revint à la gorge avec le silure entre les mains.",
    "genre": "adulte/libre",
    "duree_ms": 4300,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "A yɛrɛyɛrɛtɔ kɔsegira ka na n'o jɛgɛ ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A Zezi sẽn wa n zãad ne b nugã, a lebgame.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-022",
@@ -792,7 +1620,19 @@
    "texte": "Pardonne-moi, gardienne. Je ne savais pas.",
    "genre": "adulte/homme",
    "duree_ms": 3800,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "N'i ka yafa ne ma, garadi. N' tun m'a lɔn.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Bas-y maam, gũudã. M da pa mi ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-023",
@@ -808,7 +1648,19 @@
    "texte": "Il rendit le poisson à l'eau. Mah nourrit les silures.",
    "genre": "adulte/libre",
    "duree_ms": 4900,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O kɔ, a ye jigɛ nin don jii la. A b'o jɛgɛw balo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A kɩtame tɩ zĩmã leb koomẽ. A Ma wãbda zĩm-dãmbã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-024",
@@ -824,7 +1676,19 @@
    "texte": "Et l'eau revint. Les habitants accoururent pour fêter son retour.",
    "genre": "adulte/libre",
    "duree_ms": 5200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O kɔ, jii segira ka na. O dugumɔgɔw nana joona joona walisa k'a ka kɔsegi ɲanagbɛ kɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "La koomã lebg n waame. Tẽngã neb waame tao-tao n na n maan sũ-noogo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-025",
@@ -840,7 +1704,19 @@
    "texte": "Aujourd'hui encore, à Dafra, les visiteurs nourrissent les silures, et ils leur confient leurs vœux.",
    "genre": "adulte/libre",
    "duree_ms": 6100,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Hali bi, mɔgɔ minw be taga Dafra dugu la, olu b'a to jɛgɛw ye dumuni kɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Rũndã-rũndã me, neb nins sẽn wa n be Dafra wã rɩtda rũmsã, la b kõt-b-la b pʋlemsã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   }
  ]
 }

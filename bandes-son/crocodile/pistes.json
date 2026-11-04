@@ -11,49 +11,121 @@
    "id": "titre",
    "type": "titre",
    "chemin": "titre",
-   "texte": "Le crocodile qui sauva l'ancêtre"
+   "texte": "Le crocodile qui sauva l'ancêtre",
+   "langues": {
+    "fuf": {
+     "texte": "Crocodile Ɓeydiyankooɓe",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Ko-kãnga sẽn fãag a yaabgã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "presentation",
    "type": "presentation",
    "chemin": "presentation",
-   "texte": "Abem suit une antilope trop loin, en pleine sécheresse. Quand sa gourde est vide, quelque chose bouge dans les herbes. Va-t-il tirer, ou faire confiance ?"
+   "texte": "Abem suit une antilope trop loin, en pleine sécheresse. Quand sa gourde est vide, quelque chose bouge dans les herbes. Va-t-il tirer, ou faire confiance ?",
+   "langues": {
+    "fuf": {
+     "texte": "Abem ɗon tokki antilop ɓurɗo yaasi. To ɓikkoy maako laato, ko'e maɓɓe ɗon maaro nder leɗɗe. Hol ko o waɗata, walla mo gomɗinan?",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "A Abem tũuda nin-buiid sẽn be zĩig sẽn zãre. A sã n pa tar bũmb a zugẽ, bũmb n yikd weoogẽ wã. A na n sɩnga bɩ a na n teeg-a lame?",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "personnages.griot.nom",
    "type": "personnage",
    "chemin": "personnages.griot.nom",
-   "texte": "Le griot"
+   "texte": "Le griot",
+   "langues": {
+    "fuf": {
+     "texte": "Le griot"
+    },
+    "mos": {
+     "texte": "Le griot"
+    }
+   }
   },
   {
    "id": "personnages.abem.nom",
    "type": "personnage",
    "chemin": "personnages.abem.nom",
-   "texte": "Abem"
+   "texte": "Abem",
+   "langues": {
+    "fuf": {
+     "texte": "Abem"
+    },
+    "mos": {
+     "texte": "Abem"
+    }
+   }
   },
   {
    "id": "personnages.crocodile.nom",
    "type": "personnage",
    "chemin": "personnages.crocodile.nom",
-   "texte": "Le crocodile"
+   "texte": "Le crocodile",
+   "langues": {
+    "fuf": {
+     "texte": "Le crocodile"
+    },
+    "mos": {
+     "texte": "Le crocodile"
+    }
+   }
   },
   {
    "id": "personnages.enfant.nom",
    "type": "personnage",
    "chemin": "personnages.enfant.nom",
-   "texte": "L'enfant"
+   "texte": "L'enfant",
+   "langues": {
+    "fuf": {
+     "texte": "L'enfant"
+    },
+    "mos": {
+     "texte": "L'enfant"
+    }
+   }
   },
   {
    "id": "fins.canon",
    "type": "fin",
    "chemin": "fins.canon",
-   "texte": "Version du griot : le serment d'Abem"
+   "texte": "Version du griot : le serment d'Abem",
+   "langues": {
+    "fuf": {
+     "texte": "Winndannde caggal: alkawal Abem",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Kibar ning b sẽn togsã: A Abem pʋlemdã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "fins.fleche",
    "type": "fin",
    "chemin": "fins.fleche",
-   "texte": "Autre chemin : personne pour montrer la mare"
+   "texte": "Autre chemin : personne pour montrer la mare",
+   "langues": {
+    "fuf": {
+     "texte": "Yiide wootere: hay gooto hollirta daande",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Bũmb a to: ned baa a yen sẽn na n wilg-a t'a yaa gãongo",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "n1",
@@ -67,31 +139,87 @@
    "texte": "Abem était chasseur, l'ancêtre d'une famille kassena. La grande sécheresse brûle la brousse, et le gibier se fait rare. Une antilope passe au loin. Que fais-tu ?",
    "genre": "adulte/homme",
    "duree_ms": 11760,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Abem laati mannguɗo, mawɗo saare Kassena. Duuɗeeje mawɗe ɗon halki le'i, e yiite ɗe ɗon ɓeyda. Antilope ɗon yaha haa yaasi. Ko honɗun waɗata?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 10718,
+     "fichier": "crocodile-n1-fuf.m4a"
+    },
+    "mos": {
+     "texte": "A Abem ra yaa zĩm-biisi, la a yaa Kassena zakã yaab. Kɩɩm-kãsengã rɩka bugum, la namsgã paoodame. Bãng-y t'a Antɩlopã kẽnda yɩɩga. Bõe la fo maanda?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 14350,
+     "fichier": "crocodile-n1-mos.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n1.choices.0.label",
    "type": "choix",
    "chemin": "nodes.n1.choices.0.label",
-   "texte": "Tu la suis, il faut nourrir les tiens"
+   "texte": "Tu la suis, il faut nourrir les tiens",
+   "langues": {
+    "fuf": {
+     "texte": "On ɗon tokka mo, sey on nyaama ɓikkoy mooɗon",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Fo tũuda-a lame, fo segd n dɩka f kambã rɩɩbo",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n1.choices.0.tag",
    "type": "parcours",
    "chemin": "nodes.n1.choices.0.tag",
-   "texte": "antilope suivie"
+   "texte": "antilope suivie",
+   "langues": {
+    "fuf": {
+     "texte": "antilope ɓaawo",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "antilope sẽn tũudã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n1.choices.1.label",
    "type": "choix",
    "chemin": "nodes.n1.choices.1.label",
-   "texte": "Tu rentres les mains vides"
+   "texte": "Tu rentres les mains vides",
+   "langues": {
+    "fuf": {
+     "texte": "On njaaraay bee juuɗe maagol",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Fo waame ne f nus fãa",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n1.choices.1.tag",
    "type": "parcours",
    "chemin": "nodes.n1.choices.1.tag",
-   "texte": "retour"
+   "texte": "retour",
+   "langues": {
+    "fuf": {
+     "texte": "warugo",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "lebg n wa",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "rentre",
@@ -105,7 +233,23 @@
    "texte": "Au village, les enfants ont faim. Le lendemain, tu repars, et l'antilope est encore là. Tu la suis.",
    "genre": "adulte/homme",
    "duree_ms": 8190,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Ɓiɓɓe nder gariiri ɗon njaafa. To ndeen, to a yehi, antilope ɗon haaje. On ɗon tokkimo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7172,
+     "fichier": "crocodile-rentre-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Tẽngã pʋgẽ, kom-bɩɩsã komdame. A vẽkembeoogo, fo sã n lebg n kẽngẽ, a ket n bee be. Fo tũuda-a lame.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9380,
+     "fichier": "crocodile-rentre-mos.m4a"
+    }
+   }
   },
   {
    "id": "suit",
@@ -119,7 +263,23 @@
    "texte": "Tu la suis de plus en plus loin. Quand tu t'arrêtes, tu ne reconnais plus rien. Le soleil est haut, et la soif te prend. Tu secoues ta gourde : elle est vide.",
    "genre": "adulte/homme",
    "duree_ms": 14190,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "A ɗon ɓeyda bee maako. To a ummi, a anndaa kooɗume. Ɗuum woni naange, nden kam yiite nyaamoto ma. On ɗon moƴƴina ko'e mon, ɗe meere.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 10542,
+     "fichier": "crocodile-suit-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Fo tũuda-a lame n paasdẽ. Fo sã n wa kaoose, fo pa le mi bũmb ye. Wĩndgã yikame, tɩ ko-yũud yõk foom. Fo sã n ning f gãndã, a ka tarẽ ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 14798,
+     "fichier": "crocodile-suit-mos.m4a"
+    }
+   }
   },
   {
    "id": "n2",
@@ -133,31 +293,87 @@
    "texte": "Tu marches encore un peu, puis tu tombes. Quelque chose bouge dans les herbes : un crocodile, loin de toute eau. Tes mains tremblent sur ton arc.",
    "genre": "adulte/homme",
    "duree_ms": 11610,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "A ɗon yaha yeeso, nden a ɗon maayi. Koo ɗume ɗon hooda nder leɗɗe, ko crocodile, yaasi ndiyam fuu. Juŋŋgo maaɗa ɗon hoosi dow maago maaɗa.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 10852,
+     "fichier": "crocodile-n2-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Y sã n ket n kẽnd bilf bɩ y lʋɩ. Bũmb n be we-kãnga pʋgẽ: bõn-buud sẽn zãr ne koomã. Yãmb nusã tãsdda y noore.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8670,
+     "fichier": "crocodile-n2-mos.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n2.choices.0.label",
    "type": "choix",
    "chemin": "nodes.n2.choices.0.label",
-   "texte": "Tu lâches l'arc et tu fermes les yeux"
+   "texte": "Tu lâches l'arc et tu fermes les yeux",
+   "langues": {
+    "fuf": {
+     "texte": "On acca ardiiɗo, on maɓɓita gite mon",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Yãmb basda bokã la y suld y ninã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n2.choices.0.tag",
    "type": "parcours",
    "chemin": "nodes.n2.choices.0.tag",
-   "texte": "arc lâché"
+   "texte": "arc lâché",
+   "langues": {
+    "fuf": {
+     "texte": "ɓeydaaki",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "boog sẽn looge",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n2.choices.1.label",
    "type": "choix",
    "chemin": "nodes.n2.choices.1.label",
-   "texte": "Tu tires quand même"
+   "texte": "Tu tires quand même",
+   "langues": {
+    "fuf": {
+     "texte": "On ɗon fota",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "La fo tog n talla toog me.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n2.choices.1.tag",
    "type": "parcours",
    "chemin": "nodes.n2.choices.1.tag",
-   "texte": "flèche tirée"
+   "texte": "flèche tirée",
+   "langues": {
+    "fuf": {
+     "texte": "fuɗnaaki",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "tãnsã sẽn bĩngd",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "tire",
@@ -171,7 +387,23 @@
    "texte": "Ta flèche part de travers, et le crocodile s'éloigne. Dans ce chemin imaginé, plus personne ne te montre la mare. On te retrouve bien tard, et ta famille n'a pas de serment à tenir.",
    "genre": "adulte/homme",
    "duree_ms": 14270,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Fuufaare maaɗa ɗon ƴiwoyi dow laawol laaɓal, dokkal boo ɗon dilli. Nder laawol ngol, walaa goɗɗo ɗon holla ma ko'e mon. Mi ɗon wara bee maaɗa haa ɓaawo wakkati, nden saare ma boo walaa alkawal.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 15220,
+     "fichier": "crocodile-tire-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Fo sã n na n zãag f sɩbgrã, bõn-naandgã na n loogame. Woto yĩnga, ned pa le tõe n wilg-f t'a yaa a soaba ye. D sã n wa yãend-y wakat sẽn kaoos, y zakã rãmb pa na n maan pʋlem ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 13764,
+     "fichier": "crocodile-tire-mos.m4a"
+    }
+   }
   },
   {
    "id": "confiance",
@@ -185,55 +417,151 @@
    "texte": "Le crocodile ne mord pas. Du museau, il te pousse doucement. Tu te relèves. Il avance, puis il se retourne, comme pour dire : suis-moi.",
    "genre": "adulte/homme",
    "duree_ms": 11300,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Krokodil naa nyaamataa. O ɓeydaani ma bee hakkiilo. A ɗon ummii. O yahi yeeso, o yaari, o wi'i: \"Taa yam\".",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9960,
+     "fichier": "crocodile-confiance-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Ko-kãnga pa wãbd ye. A naaga yãmb ne sũ-bʋgsem. Yãmb yikdame. A Zezi kẽngame n yaool n wẽnemd b poorẽ n yeel-b yaa: \"Bɩ y tũ maam\".",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 11256,
+     "fichier": "crocodile-confiance-mos.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n3.question",
    "type": "jeu",
    "chemin": "nodes.n3.question",
-   "texte": "Où le crocodile mène-t-il Abem ?"
+   "texte": "Où le crocodile mène-t-il Abem ?",
+   "langues": {
+    "fuf": {
+     "texte": "Toye ko crocodile ɗon waddata Abem?",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "A Abem kẽnga zĩ-bʋgo?",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n3.gagne",
    "type": "jeu",
    "chemin": "nodes.n3.gagne",
-   "texte": "Oui : une mare cachée, pleine d'eau claire."
+   "texte": "Oui : une mare cachée, pleine d'eau claire.",
+   "langues": {
+    "fuf": {
+     "texte": "Goonga: ndiyam ɓoyma, heewi ndiyam laaɓɗum.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "N-ye: koglg sẽn solg koom sẽn yaa vẽenega.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n3.perdu",
    "type": "jeu",
    "chemin": "nodes.n3.perdu",
-   "texte": "Non : c'est une mare cachée, derrière les arbres."
+   "texte": "Non : c'est une mare cachée, derrière les arbres.",
+   "langues": {
+    "fuf": {
+     "texte": "Walaa: ɗum ɓooyma dow leɗɗe.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "La yaa koom-koglg sẽn solg tɩɩsã poorẽ.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n3.reponses.0.label",
    "type": "jeu",
    "chemin": "nodes.n3.reponses.0.label",
-   "texte": "À une mare cachée derrière les arbres"
+   "texte": "À une mare cachée derrière les arbres",
+   "langues": {
+    "fuf": {
+     "texte": "To ndiyam ɓoymaago dow leɗɗe",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "D sã n wa be roogẽ, d tõe n yãame t'a Zeova nonga tõndo.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n3.reponses.1.label",
    "type": "jeu",
    "chemin": "nodes.n3.reponses.1.label",
-   "texte": "À un puits du village"
+   "texte": "À un puits du village",
+   "langues": {
+    "fuf": {
+     "texte": "Haa mayre nder gariiri",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Tẽngẽ wã koom-koglgã pʋgẽ",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n3.reponses.2.label",
    "type": "jeu",
    "chemin": "nodes.n3.reponses.2.label",
-   "texte": "Au grand fleuve"
+   "texte": "Au grand fleuve",
+   "langues": {
+    "fuf": {
+     "texte": "Nder maayo mawɗo",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Koɛɛg-kãsengã pʋgẽ",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n3.tags.win",
    "type": "parcours",
    "chemin": "nodes.n3.tags.win",
-   "texte": "bonne réponse"
+   "texte": "bonne réponse",
+   "langues": {
+    "fuf": {
+     "texte": "jaabawol gooŋga",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "leokr sẽn yaa sõma",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n3.tags.lose",
    "type": "parcours",
    "chemin": "nodes.n3.tags.lose",
-   "texte": "réponse manquée"
+   "texte": "réponse manquée",
+   "langues": {
+    "fuf": {
+     "texte": "jaabol maayi",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "sẽn pa leokã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "n4",
@@ -247,7 +575,23 @@
    "texte": "Abem boit, et la vie revient. Il se tourne vers le crocodile, et il s'incline devant lui.",
    "genre": "adulte/homme",
    "duree_ms": 7360,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Abem ɗon nyaama, nden nduumi. Sey o yaari haa ko'e maako, o sujidani mo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5482,
+     "fichier": "crocodile-n4-fuf.m4a"
+    },
+    "mos": {
+     "texte": "A Abem yũuda, t'a vɩɩmã lebgdẽ. A wẽnemdame n na n wõgemd a taoore.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5274,
+     "fichier": "crocodile-n4-mos.m4a"
+    }
+   }
   },
   {
    "id": "n5",
@@ -261,31 +605,87 @@
    "texte": "Que promet-il ?",
    "genre": "adulte/homme",
    "duree_ms": 1440,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Hol ko o wi'i?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 1344,
+     "fichier": "crocodile-n5-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Bõe la a kãab-yã?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 1152,
+     "fichier": "crocodile-n5-mos.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n5.choices.0.label",
    "type": "choix",
    "chemin": "nodes.n5.choices.0.label",
-   "texte": "« Jamais nous ne tuerons le crocodile. Ni moi, ni mes enfants. »"
+   "texte": "« Jamais nous ne tuerons le crocodile. Ni moi, ni mes enfants. »",
+   "langues": {
+    "fuf": {
+     "texte": "En mburtataa ko'e mum. Walaa mi, wala ɓiɓɓe am. ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "D pa na n kʋ bõn-buudã ye. Ne maam bɩ m kambã. ",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n5.choices.0.tag",
    "type": "parcours",
    "chemin": "nodes.n5.choices.0.tag",
-   "texte": "serment"
+   "texte": "serment",
+   "langues": {
+    "fuf": {
+     "texte": "alkawal",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "wẽename",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n5.choices.1.label",
    "type": "choix",
    "chemin": "nodes.n5.choices.1.label",
-   "texte": "« Je te donnerai la moitié de mon gibier. »"
+   "texte": "« Je te donnerai la moitié de mon gibier. »",
+   "langues": {
+    "fuf": {
+     "texte": "Mi hokkan ma feccere nyaamdu am. ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "M na n kõ-y-la m yãnde pʋɩ-sʋk. ",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n5.choices.1.tag",
    "type": "parcours",
    "chemin": "nodes.n5.choices.1.tag",
-   "texte": "gibier promis"
+   "texte": "gibier promis",
+   "langues": {
+    "fuf": {
+     "texte": "humpitooɗo",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "b sẽn pʋlem tɩ b na n yõg-a",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "gibier",
@@ -299,7 +699,23 @@
    "texte": "Le crocodile regarde ailleurs. Une dette de vie ne se paie pas en viande. Abem comprend, et il fait une autre promesse.",
    "genre": "adulte/homme",
    "duree_ms": 9410,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Crocodile ɗon ndaara feere. Jaɓɓorgo Kewuuji pinal. Abem faama, o waɗi alkawal feere.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6660,
+     "fichier": "crocodile-gibier-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Kẽer geta zĩig a to. Ned sã n tar yõor yaoodo, a ka tõe n lebs-a ne nam ye. A Abem wʋmame, la a maana kãabg a to.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 10436,
+     "fichier": "crocodile-gibier-mos.m4a"
+    }
+   }
   },
   {
    "id": "serment",
@@ -313,7 +729,23 @@
    "texte": "Et sa famille fit le serment.",
    "genre": "adulte/homme",
    "duree_ms": 2580,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "O wi'i yimɓe maako ɓe njokki alkawal ngal.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3456,
+     "fichier": "crocodile-serment-fuf.m4a"
+    },
+    "mos": {
+     "texte": "A zakã rãmb wẽename.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2160,
+     "fichier": "crocodile-serment-mos.m4a"
+    }
+   }
   },
   {
    "id": "n6",
@@ -327,7 +759,23 @@
    "texte": "Il ne nous mange pas ?",
    "genre": "enfant/libre",
    "duree_ms": 2580,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "O ɗon nyaama en naa?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 1632,
+     "fichier": "crocodile-n6-fuf.m4a"
+    },
+    "mos": {
+     "texte": "A pa na n dɩ tõnd sɩda?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 1792,
+     "fichier": "crocodile-n6-mos.m4a"
+    }
+   }
   },
   {
    "id": "n7",
@@ -341,7 +789,23 @@
    "texte": "Aujourd'hui encore, pour certaines familles kassena, le crocodile reste un totem sacré. On n'oublie pas celui qui nous a sauvés.",
    "genre": "adulte/homme",
    "duree_ms": 8500,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Haa hande, koo toɓɓe saare kassena'en ɗon ɗaɓɓa ko crocodile woni totem. On meeɗaay yi'ugo mo o hisni en.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8010,
+     "fichier": "crocodile-n7-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Hal baa rũndã-rũndã, kassena neb kẽer ket n getame t'a yaa bõn-sõngo. D pa tõe n yĩm ned ning sẽn fãag tõndã ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7402,
+     "fichier": "crocodile-n7-mos.m4a"
+    }
+   }
   },
   {
    "id": "film-001",
@@ -357,7 +821,19 @@
    "texte": "Le crocodile qui sauva l'ancêtre. Une légende kassena.",
    "genre": "adulte/libre",
    "duree_ms": 5200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Ko crocodiil mo o hisniri kaanankeejo. Fedde kassena.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Kẽerã sẽn fãag nin-buiida. Yaa kassena lagem-n-taar.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-002",
@@ -373,7 +849,19 @@
    "texte": "Abem était chasseur, l'ancêtre d'une famille kassena. Il partit, comme chaque jour, avec son arc.",
    "genre": "adulte/libre",
    "duree_ms": 7800,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Abem laati mannguɗo, mawɗo saare Kassena. O wurti, bana no o waɗata nder nyalawma fuu, bee kaŋŋe maako.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A Abem ra yaa zĩm-biisi, la a yaa Kassena zakã yaab. A ra zãada a boog n loogda, wa a sẽn da maand daar fãa wã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-003",
@@ -389,7 +877,19 @@
    "texte": "Mais la grande sécheresse brûlait la brousse. Le gibier se faisait rare.",
    "genre": "adulte/libre",
    "duree_ms": 5500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Ammaa leɗɗe ɗon halki ngam de'i mawɗi. Yiite ɗon ɓeyda.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "La kom-kãsengã kɩtame tɩ weoogã yõog bugum. B ra pa le yãgdẽ ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-004",
@@ -405,7 +905,19 @@
    "texte": "Abem suivit une antilope, de plus en plus loin. Et quand il s'arrêta, il ne reconnut plus rien.",
    "genre": "adulte/libre",
    "duree_ms": 7200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Abem ɗon tokki antelop, ɓeydaaki. Ammaa nde o ummii, walaa ko o anndi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A Abem ra tũuda nin-buiida, n paasdẽ. La a sẽn wa n bas-a wã, a pa le mi bũmb ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-005",
@@ -421,7 +933,19 @@
    "texte": "Le soleil était haut, et la soif le prit.",
    "genre": "adulte/libre",
    "duree_ms": 3300,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Nde naange wurtini, njaram maɓɓiti mo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Wĩndgã dag n zẽkame, tɩ ko-yũud yõk a Zezi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-006",
@@ -437,7 +961,19 @@
    "texte": "Il secoua sa gourde. Elle était vide.",
    "genre": "adulte/libre",
    "duree_ms": 4200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "O wurtini ko'e maako. O walaa goɗɗum.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A wa n zẽka a gãagã. A ra pa tar bũmb ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-007",
@@ -453,7 +989,19 @@
    "texte": "Il marcha encore un peu, puis il tomba.",
    "genre": "adulte/libre",
    "duree_ms": 3400,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "O tokki ɓeya, o waroyi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A sã n da ket n kẽnd bilfu, a lʋɩame.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-008",
@@ -469,7 +1017,19 @@
    "texte": "Quelque chose bougeait dans les herbes. Un crocodile, loin de toute eau.",
    "genre": "adulte/libre",
    "duree_ms": 5800,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Walaa ko ɗon hoosi nder leɗɗe. Ɗu'um woni kooɗume nder ndiyam.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Bũmb n da kẽnd weoogẽ wã. Koɛɛg sẽn zãr ne koomã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-009",
@@ -485,7 +1045,19 @@
    "texte": "Abem voulut prendre son arc, mais ses mains ne lui obéissaient plus. Il ferma les yeux.",
    "genre": "adulte/libre",
    "duree_ms": 6200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Abem yi'i yahugo maako, ammaa juŋŋgo maako tokki mo. O maaki gite maako.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A Abɛem ra baood n na n dɩka a boogã, la b nugã ka leb n sak-a ye. A ninga a ninã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-010",
@@ -501,7 +1073,19 @@
    "texte": "Le crocodile ne mordit pas. Du museau, il le poussa doucement.",
    "genre": "adulte/libre",
    "duree_ms": 5500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Krokodil naa nyaamataa. O jippini mo bee ɓernde laaɓɗum.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Ko-kãnga pa wãbd ye. A zẽka-a-la ne sũ-bʋgsem.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-011",
@@ -517,7 +1101,19 @@
    "texte": "Abem se releva. Le crocodile avança, puis il se retourna, comme pour dire : suis-moi.",
    "genre": "adulte/libre",
    "duree_ms": 7300,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Abem ummi. Go'oto ɓadake, o wayliti, o wi'i: \"Taa yam\".",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A Abem yikame. La bõn-bilã kolgame, n wẽnemd a meng n yeel-a t'a tũ-m.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-012",
@@ -533,7 +1129,19 @@
    "texte": "Derrière les arbres, il y avait une mare cachée, pleine d'eau claire.",
    "genre": "adulte/libre",
    "duree_ms": 4800,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Hakkiilo leɗɗe ɗon woodi ndiyam ɓoyma.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Kẽer poore, koomã ra pida ne koom sẽn yaa vẽenega.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-013",
@@ -549,7 +1157,19 @@
    "texte": "Abem but, et la vie revint.",
    "genre": "adulte/libre",
    "duree_ms": 2700,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Abem maɓɓiti, nden ndu ummi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "La a Abɛem yũu rãam n lebg n vɩ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-014",
@@ -565,7 +1185,19 @@
    "texte": "Il se tourna vers le crocodile, et il s'inclina devant lui.",
    "genre": "adulte/libre",
    "duree_ms": 4200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Sey o yaari haa ko'e maako, o sujidani ɗum.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A Zezi leb n wẽnemdame n wõgemd b taoore.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-015",
@@ -581,7 +1213,19 @@
    "texte": "Jamais nous ne tuerons le crocodile. Ni moi, ni mes enfants.",
    "genre": "adulte/homme",
    "duree_ms": 4800,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "En mburtataa ko'e mum. Walaa mi, wala ɓiɓɓe am.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "D pa na n kʋ bõn-buudã ye. Ne maam bɩ m kambã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-016",
@@ -597,7 +1241,19 @@
    "texte": "Et sa famille fit le serment.",
    "genre": "adulte/libre",
    "duree_ms": 2600,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "O wi'i yimɓe maako ɓe njokki alkawal ngal.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A zakã rãmb wẽename.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-017",
@@ -613,7 +1269,19 @@
    "texte": "Il ne nous mange pas ?",
    "genre": "enfant/libre",
    "duree_ms": 2200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "O ɗon nyaama en naa?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A pa na n dɩ tõnd sɩda?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-018",
@@ -629,7 +1297,19 @@
    "texte": "Aujourd'hui encore, pour certaines familles kassena, le crocodile reste un totem sacré.",
    "genre": "adulte/libre",
    "duree_ms": 6200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Haa hande, koo toɓɓe saare kassena'en ɗon ɗaɓɓa ko crocodile woni totem.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Hal baa rũndã-rũndã, kassena neb kẽer ket n getame t'a yaa bõn-sõngo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   }
  ]
 }

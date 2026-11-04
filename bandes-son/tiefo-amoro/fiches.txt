@@ -10,6 +10,10 @@ intonation: posé (proposée)
 texte: Noumoudara était le principal centre des Tiéfo, dans l'ouest de l'actuel Burkina Faso. À sa tête, à la fin du XIXe siècle, se trouvait Tiéfo Amoro.
 genre: adulte/homme
 duree: 10930ms (estimée)
+texte_dyu: Noumoudara tun ye Tiéfo dugumɔgɔw ka duguba dɔ ye. Saan 1800 wagati la, Tiéfo Amoro lo tun y'o jɛnkulu ɲɛminɛ.
+enregistre_dyu: tiefo-amoro-n1-dyu.m4a (8554ms)
+texte_fuf: Noumoudara woni wuro mawɗo yimɓe Tiéfo nder hirnaange Burkina Faso. Ko ndeen laamiiɗo, Tiéfo Amoro woni ardiiɗo mum haa sahaa 1800.
+enregistre_fuf: tiefo-amoro-n1-fuf.m4a (9658ms)
 
 piste: n2
 histoire: Tiéfo Amoro et la chute de Noumoudara (1897)
@@ -20,6 +24,10 @@ intonation: posé (proposée)
 texte: Une conférence donnée à Bobo-Dioulasso en 2026 le présente comme le onzième chef des Tiéfo, né vers 1840.
 genre: âgé/homme
 duree: 7290ms (estimée)
+texte_dyu: Saan 2026 la, kalan dɔ kɛra Bobo-Dioulasso dugu kɔnɔ min b'a yira ko a ye Tiéfow ka kuntigi 11nan ye. A wolola saan 1840 wagati la.
+enregistre_dyu: tiefo-amoro-n2-dyu.m4a (9146ms)
+texte_fuf: Goomu daraniiɗo to Bobo-Dioulasso e hitaande 2026 holli mo wonde ardiiɗo Tiéfo sappo e go'o, jibinaaɗo ko e 1840.
+enregistre_fuf: tiefo-amoro-n2-fuf.m4a (10400ms)
 
 piste: n3
 histoire: Tiéfo Amoro et la chute de Noumoudara (1897)
@@ -30,6 +38,10 @@ intonation: posé (proposée)
 texte: En 1897, Samory Touré progresse vers la région de Bobo-Dioulasso. Selon cette même conférence, Tiéfo Amoro lui oppose plusieurs combats, notamment à Bama et à Péni.
 genre: adulte/homme
 duree: 10930ms (estimée)
+texte_dyu: Saan 1897 la, Samory Touré tagara Bobo-Dioulasso mara la. Ka kɛɲɛ n'o kalan kelen ye, Tiéfo Amoro y'a kɛlɛ siɲɛ caaman.
+enregistre_dyu: tiefo-amoro-n3-dyu.m4a (8666ms)
+texte_fuf: E hitaande 1897, Samory Touré yahdi to diiwaan Bobo-Dioulasso. E wiyde kawtal ngal, Tiéfo Amoro hawti e haɓre keewɗe, haa teeŋti e Bama e Penni.
+enregistre_fuf: tiefo-amoro-n3-fuf.m4a (12426ms)
 
 piste: n4
 histoire: Tiéfo Amoro et la chute de Noumoudara (1897)
@@ -40,6 +52,10 @@ intonation: posé (proposée)
 texte: Frappe l'alerte qui appelle les combattants.
 genre: adulte/homme
 duree: 2580ms (estimée)
+texte_dyu: I ka kan k'i ka kɛlɛdenw lasɔmi.
+enregistre_dyu: tiefo-amoro-n4-dyu.m4a (2256ms)
+texte_fuf: Handee ko'e mon ɗon wi'a.
+enregistre_fuf: tiefo-amoro-n4-fuf.m4a (2128ms)
 
 piste: n6
 histoire: Tiéfo Amoro et la chute de Noumoudara (1897)
@@ -50,6 +66,10 @@ intonation: interrogatif (proposée)
 texte: Puis Samory assiège la forteresse. Où te tiens-tu pendant le siège ?
 genre: adulte/homme
 duree: 5160ms (estimée)
+texte_dyu: O kɔ, Samori ye dugu lamini. I be lɔ yɔrɔ jumɛn k'a sɔrɔ o ye kɛlɛba dɔ ye?
+enregistre_dyu: tiefo-amoro-n6-dyu.m4a (6746ms)
+texte_fuf: Caggal ɗuum, Samory taƴii wuro. Toonde a ɗon dari nder saa'i jooɗorde?
+enregistre_fuf: tiefo-amoro-n6-fuf.m4a (5610ms)
 
 piste: murs
 histoire: Tiéfo Amoro et la chute de Noumoudara (1897)
@@ -60,6 +80,10 @@ intonation: grave (proposée)
 texte: Tiens bon. Il ne faut pas qu'ils trouvent une brèche.
 genre: adulte/homme
 duree: 4400ms (estimée)
+texte_dyu: I k'a minɛ. An man kan k'a ɲini u fɛ k'o kɛ.
+enregistre_dyu: tiefo-amoro-murs-dyu.m4a (3578ms)
+texte_fuf: Jaɓɓorgo Fuuta. Ɓe mbaawaay heɓugo ɓocce.
+enregistre_fuf: tiefo-amoro-murs-fuf.m4a (4138ms)
 
 piste: chef
 histoire: Tiéfo Amoro et la chute de Noumoudara (1897)
@@ -70,6 +94,10 @@ intonation: grave (proposée)
 texte: Une cité se défend tant qu'il reste quelqu'un pour la défendre.
 genre: adulte/homme
 duree: 4480ms (estimée)
+texte_dyu: Dugu bɛ se k'a yɛrɛ tanga hali ni mɔgɔ dɔ tora min b'a kɛrɛ.
+enregistre_dyu: tiefo-amoro-chef-dyu.m4a (4480ms)
+texte_fuf: Too, gariiri ɗon haɓana hoore muuɗum to woodi goɗɗo ngam hisnugo gariiri.
+enregistre_fuf: tiefo-amoro-chef-fuf.m4a (5952ms)
 
 piste: n7
 histoire: Tiéfo Amoro et la chute de Noumoudara (1897)
@@ -80,6 +108,10 @@ intonation: grave (proposée)
 texte: Cette parole est imaginée pour le jeu : aucune source ne la rapporte.
 genre: adulte/homme
 duree: 5390ms (estimée)
+texte_dyu: O kuma ye tulogweren yɛrɛ le ye.
+enregistre_dyu: tiefo-amoro-n7-dyu.m4a (2272ms)
+texte_fuf: Wolde nde'e nder ɗemngal ngal: walaa gootol anndi ɗum.
+enregistre_fuf: tiefo-amoro-n7-fuf.m4a (4154ms)
 
 piste: chute
 histoire: Tiéfo Amoro et la chute de Noumoudara (1897)
@@ -90,6 +122,10 @@ intonation: grave (proposée)
 texte: La forteresse tombe après environ une semaine, et Samory ordonne de la détruire pour montrer sa force.
 genre: adulte/homme
 duree: 6910ms (estimée)
+texte_dyu: Dugu barikaman nin benna ka ban lɔgɔkun kelen ɲɔgɔn kɔnɔ. O kɔ, Samori ko o ye dugu halaki k'a yira a ta fanga kosɔn.
+enregistre_dyu: tiefo-amoro-chute-dyu.m4a (9738ms)
+texte_fuf: Caggal balɗe go'o, wuro ngo'ol maayi, Samori umri ɗum halki ngam hollude semmbe muuɗum.
+enregistre_fuf: tiefo-amoro-chute-fuf.m4a (6768ms)
 
 piste: n8
 histoire: Tiéfo Amoro et la chute de Noumoudara (1897)
@@ -100,6 +136,10 @@ intonation: posé (proposée)
 texte: Selon l'historien cité lors de la conférence, une trahison aurait affaibli l'armée de Tiéfo Amoro, et celui-ci aurait choisi la mort plutôt que la reddition.
 genre: âgé/homme
 duree: 10100ms (estimée)
+texte_dyu: Lɔnnikɛla min kofɔra o kalan na, ale y'a fɔ ko n'u ye mɔgɔ dɔ janfa, o tun bena a to Tiéfo Amoro ka sɔrɔdasiw tora fanga la.
+enregistre_dyu: tiefo-amoro-n8-dyu.m4a (9616ms)
+texte_fuf: Mawɗo taariika'en wi'i nder wolde nde'e wi'aay wonde luulndo waɗannoo konu Tiéfo Amoro ɓeydaaki, o yiɗiri maayde haa teeŋti e hokkugo hoore mum.
+enregistre_fuf: tiefo-amoro-n8-fuf.m4a (12256ms)
 
 piste: n9
 histoire: Tiéfo Amoro et la chute de Noumoudara (1897)
@@ -110,6 +150,10 @@ intonation: interrogatif (proposée)
 texte: Que fais-tu de ce récit ?
 genre: adulte/homme
 duree: 2580ms (estimée)
+texte_dyu: I be mun lo miiri o koo la?
+enregistre_dyu: tiefo-amoro-n9-dyu.m4a (2416ms)
+texte_fuf: Hol ko a waɗata e haala ngol?
+enregistre_fuf: tiefo-amoro-n9-fuf.m4a (2416ms)
 
 piste: source
 histoire: Tiéfo Amoro et la chute de Noumoudara (1897)
@@ -120,6 +164,10 @@ intonation: posé (proposée)
 texte: Bonne question : nous n'avons trouvé qu'une seule source pour ce récit de sa fin. Il est donné ici comme tel, et il reste à valider.
 genre: adulte/homme
 duree: 10780ms (estimée)
+texte_dyu: Ɲiningali ɲuman: An ye gafe kelen dɔrɔn lo sɔrɔ a laban koo la. An y'a fɔ ko a be yen ani a ka kan ka kɛ tiɲɛ ye.
+enregistre_dyu: tiefo-amoro-source-dyu.m4a (8948ms)
+texte_fuf: Jaɓɓorgo Kewuuji pinal: Foyre gootol tan en heɓii ngam anndingo haala maayde maako. O hokkataama ɗo bana non, nden kam o haaɓataa.
+enregistre_fuf: tiefo-amoro-source-fuf.m4a (11028ms)
 
 piste: croire
 histoire: Tiéfo Amoro et la chute de Noumoudara (1897)
@@ -130,3 +178,7 @@ intonation: posé (proposée)
 texte: Prudence : une seule source rapporte cette fin. Ce qu'on sait, c'est qu'avant même la conquête coloniale, les peuples de l'Ouest ont dû défendre leurs cités contre de grands empires conquérants.
 genre: adulte/homme
 duree: 12830ms (estimée)
+texte_dyu: O kama, an ka ɲi k'an yɛrɛ kɔrɔsi. An b'a lɔn ko hali sanni u ka taga fangatigiw kama, tileben fan fɛ mɔgɔw tun ka ɲi k'u ka duguw lafasa.
+enregistre_dyu: tiefo-amoro-croire-dyu.m4a (9802ms)
+texte_fuf: Hakkiilo: Fooyre gootol tan ɗon wi'a non. Ko en anndi woni, ko ɓesngu leydi fuɗɗii ɗowtanaade leydi ndii, leyɗe hirnaange mbaɗi ngam haɓɓaade gure maɓɓe diga laamuji mawɗi.
+enregistre_fuf: tiefo-amoro-croire-fuf.m4a (13860ms)

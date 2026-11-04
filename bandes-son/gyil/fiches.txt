@@ -10,6 +10,10 @@ intonation: posé (proposée)
 texte: Autrefois, les villages dagara n'avaient pas de gyil. Les fêtes étaient bien tristes : on se regardait, et on s'ennuyait.
 genre: adulte/homme
 duree: 8650ms (estimée)
+texte_fuf: Wakkati naane, gure dagara'en mbaawataa haayri. Nyalnde nden e woodi ɓernde kalluɗum. Yimɓe ɗon ngi'a hakkunde maɓɓe, ɓe ngaɗata ko wooɗi.
+enregistre_fuf: gyil-n1-fuf.m4a (9124ms)
+texte_mos: Pĩnd wẽndẽ, dagara tẽn-tẽnsã ra pa tar kʋʋdb ye. La kibsã ra yaa sũ-sãangre, tɩ nebã ra get taab la b basd taaba.
+enregistre_mos: gyil-n1-mos.m4a (9818ms)
 
 piste: n2
 histoire: Le gyil des génies
@@ -20,6 +24,10 @@ intonation: mystérieux (proposée)
 texte: Un jour, Bayuo s'éloigne trop dans la brousse. La nuit tombe. Soudain, il entend un son qu'il ne connaît pas : des kontomblé, les génies de la brousse, frappent sur des lames de bois.
 genre: adulte/homme
 duree: 14570ms (estimée)
+texte_fuf: Go'o go'o Bayuo ɗon yahda nder ladde. Nde jemma wara. Sey o nani kaayeefiiji ɗe o anndaa, ɓe mbi'i: "Koohooɓe, ruuhuuji nder ladde ɗon maaro dow leɗɗe.
+enregistre_fuf: gyil-n2-fuf.m4a (12062ms)
+texte_mos: Daar a ye, a Bayuo kẽnga weoogẽ. Yĩng n beẽ. A wʋma koɛɛg a sẽn da pa mi. B ra wẽnda wa tãb-biisi, la zĩn-dãmbã ra wẽeda tɩɩs bĩis zutu.
+enregistre_mos: gyil-n2-mos.m4a (12894ms)
 
 piste: n3
 histoire: Le gyil des génies
@@ -30,6 +38,10 @@ intonation: interrogatif (proposée)
 texte: Que fait-il ?
 genre: adulte/homme
 duree: 1440ms (estimée)
+texte_fuf: Hol ko o waɗi?
+enregistre_fuf: gyil-n3-fuf.m4a (1184ms)
+texte_mos: A maanda bõe?
+enregistre_mos: gyil-n3-mos.m4a (1232ms)
 
 piste: fuite
 histoire: Le gyil des génies
@@ -40,6 +52,10 @@ intonation: mystérieux (proposée)
 texte: Il rentre au matin, et il essaie de raconter ce qu'il a entendu. Personne ne le croit. Les fêtes restent tristes, et lui reste avec un air qu'il ne sait plus retrouver.
 genre: adulte/homme
 duree: 13360ms (estimée)
+texte_fuf: O warti haa jemmaare, o ɗaɓɓi haala maako. Walaa gooduɗo nuɗɗinki. Yimɓe boo ɓe ngalaa hakkiilo, nden kam o ɗon mbaawa yi'ugo ko'e maɓɓe.
+enregistre_fuf: gyil-fuite-fuf.m4a (11060ms)
+texte_mos: A waame n na n togs nebã bũmb nins a sẽn wʋmã. Ned pa tẽed-a ye. Tẽegrã ket n yaa sũ-sãanga, t'a pa le tõe n yãend a meng ye.
+enregistre_mos: gyil-fuite-mos.m4a (10324ms)
 
 piste: ecoute
 histoire: Le gyil des génies
@@ -50,6 +66,10 @@ intonation: mystérieux (proposée)
 texte: Il revient la nuit suivante, et la suivante encore. Ses mains, dans le vide, imitent les génies. À toi : retiens l'air.
 genre: adulte/homme
 duree: 9860ms (estimée)
+texte_fuf: O warti jemma go'o, nden boo jemma gaɗa. Hannde maako boo, nder meere, nandi bee jinnaaɓe. To maaɗa: njooɗee.
+enregistre_fuf: gyil-ecoute-fuf.m4a (9086ms)
+texte_mos: A lebg n waame yʋngo, t'a leb n wa. A nusã sẽn pa tar bũmbã wõnda zĩn-dãmbã. La f sã n wa tar-a, bɩ f gãneg f menga.
+enregistre_mos: gyil-ecoute-mos.m4a (10484ms)
 
 piste: n5
 histoire: Le gyil des génies
@@ -60,6 +80,10 @@ intonation: enlevé (proposée)
 texte: Une branche craque. Découvert !
 genre: adulte/homme
 duree: 2500ms (estimée)
+texte_fuf: Ɗerewol ɗon ɓilla. Wonaa !
+enregistre_fuf: gyil-n5-fuf.m4a (2490ms)
+texte_mos: Bãng-y tɩ b rũmsã sãame. B bãngame!
+enregistre_mos: gyil-n5-mos.m4a (3130ms)
 
 piste: n6
 histoire: Le gyil des génies
@@ -70,6 +94,10 @@ intonation: interrogatif (proposée)
 texte: Qui ose nous espionner ?
 genre: voix de génie/libre
 duree: 2200ms (estimée)
+texte_fuf: Honooɓe ɓe'e nana en?
+enregistre_fuf: gyil-n6-fuf.m4a (1840ms)
+texte_mos: Ãnd dãmb n tõe n gũnug-d lame?
+enregistre_mos: gyil-n6-mos.m4a (1888ms)
 
 piste: n7
 histoire: Le gyil des génies
@@ -80,6 +108,10 @@ intonation: interrogatif (proposée)
 texte: Que répond Bayuo ?
 genre: adulte/homme
 duree: 1820ms (estimée)
+texte_fuf: Hol ko Bayuo jaabi?
+enregistre_fuf: gyil-n7-fuf.m4a (1680ms)
+texte_mos: A Bayuo leokame tɩ bõe?
+enregistre_mos: gyil-n7-mos.m4a (1776ms)
 
 piste: perdu
 histoire: Le gyil des génies
@@ -90,6 +122,10 @@ intonation: interrogatif (proposée)
 texte: Tu mens : cela fait trois nuits que tes mains bougent derrière cet arbre. Qu'as-tu à offrir ?
 genre: voix de génie/libre
 duree: 7590ms (estimée)
+texte_fuf: On ɗon fewra, ngam nyalɗe joweego'en njooɗoto dow leggal ngol. Ko honɗun hokkata?
+enregistre_fuf: gyil-perdu-fuf.m4a (6138ms)
+texte_mos: Yãmb zãmbda: yãmb rɩka tɩɩgã zug yʋng a tãab masã. Bõe la y tõe n kõ-yã?
+enregistre_mos: gyil-perdu-mos.m4a (6132ms)
 
 piste: n8
 histoire: Le gyil des génies
@@ -100,6 +136,10 @@ intonation: mystérieux (proposée)
 texte: Il tend alors sa gourde de bière.
 genre: adulte/homme
 duree: 2960ms (estimée)
+texte_fuf: Sey o ɓanngini ko'e maako.
+enregistre_fuf: gyil-n8-fuf.m4a (2032ms)
+texte_mos: Rẽ poore, a kõ-a-la biiri.
+enregistre_mos: gyil-n8-mos.m4a (2800ms)
 
 piste: biere
 histoire: Le gyil des génies
@@ -110,6 +150,10 @@ intonation: mystérieux (proposée)
 texte: Les génies se regardent. Puis ils lui tendent les baguettes. Bayuo joue. Il a tout retenu. Regarde ce qu'il tient.
 genre: adulte/homme
 duree: 9100ms (estimée)
+texte_fuf: Genius'en ɗon ndaara bee maɓɓe. Caggal ɗum, ɓe ndilli e makko. Bayuo ɗon mooɓta. O hoo'i koo ɗume. Ndaa ko o woodi.
+enregistre_fuf: gyil-biere-fuf.m4a (10680ms)
+texte_mos: Vʋʋsem dãmbã getda taaba. Rẽ poore, b kõ-a lame. A Bayuo yɩɩla. A rɩka bũmba fãa. Ges-y bũmb ning a sẽn tarã.
+enregistre_mos: gyil-biere-mos.m4a (11160ms)
 
 piste: n9
 histoire: Le gyil des génies
@@ -120,6 +164,10 @@ intonation: mystérieux (proposée)
 texte: Taille les lames dans cet arbre. Partage.
 genre: voix de génie/libre
 duree: 3260ms (estimée)
+texte_fuf: Fulii lamɓe nder leggal ngal. Ɗaɓɓo.
+enregistre_fuf: gyil-n9-fuf.m4a (3210ms)
+texte_mos: Kẽng-y tɩɩgã pʋgẽ. D pʋɩ-a.
+enregistre_mos: gyil-n9-mos.m4a (2938ms)
 
 piste: n10
 histoire: Le gyil des génies
@@ -130,6 +178,10 @@ intonation: interrogatif (proposée)
 texte: Bayuo rentre. Il tient là un trésor. Qu'en fait-il ?
 genre: adulte/homme
 duree: 4700ms (estimée)
+texte_fuf: Bayuo ɗon wara. O jogii jawdi. Hol ko o waɗi?
+enregistre_fuf: gyil-n10-fuf.m4a (4372ms)
+texte_mos: A Bayuo waa be. A tara arzɛk wʋsgo. A maanda wãna?
+enregistre_mos: gyil-n10-mos.m4a (4804ms)
 
 piste: garde
 histoire: Le gyil des génies
@@ -140,6 +192,10 @@ intonation: posé (proposée)
 texte: Il joue seul, et il vend ses notes. Un soir, ses lames sonnent faux. Les génies avaient dit : partage. Dans ce chemin imaginé, le gyil se tait.
 genre: adulte/homme
 duree: 12440ms (estimée)
+texte_fuf: O ɗon jooɗa bee hoore maako, o ɗon feere kuuje maako. Nder jemma go'o, kuuje maako ɗon maaro. Genius'en mbi'i: "Ndaa". E nder laawol ngol fooyre, moodiyanke'en ɗon suuɗa.
+enregistre_fuf: gyil-garde-fuf.m4a (14152ms)
+texte_mos: A yɩɩla a yembre, la a koosda b notã. Daar a ye yʋngo, yɩɩl nins a sẽn gʋlsã ra pa sɩd ye. Neb nins sẽn da yaa bãngdba ra yeelame tɩ d segd n pʋɩta taaba. Sẽn na yɩl n tõog-b tɩ b bãng b sẽn tõe n maan to-to wã, ned sã n wa kʋ-a, a sĩnddame.
+enregistre_mos: gyil-garde-mos.m4a (20542ms)
 
 piste: partage
 histoire: Le gyil des génies
@@ -150,6 +206,10 @@ intonation: joyeux (proposée)
 texte: Il taille les lames et y accroche des calebasses. Dès les premières notes, les pieds se mettent à bouger, et tout le village danse.
 genre: adulte/homme
 duree: 10020ms (estimée)
+texte_fuf: O taƴi gacce ɗe, o hokki boobooje. Nde ɓe nganndi, koyɗe mum'en fuɗɗii ɓamtude, yimɓe wuro ngoo fuu njanngini.
+enregistre_fuf: gyil-partage-fuf.m4a (7546ms)
+texte_mos: A kẽesa b sʋʋsã, la a gãnegda a tãb-biisi. La b sẽn wa n yãendẽ wã, b yikame tɩ tẽn-kãng nebã fãa yɩɩ.
+enregistre_mos: gyil-partage-mos.m4a (10746ms)
 
 piste: n11
 histoire: Le gyil des génies
@@ -160,6 +220,10 @@ intonation: joyeux (proposée)
 texte: Depuis, le gyil accompagne les Dagara dans les fêtes, et aussi dans le deuil. Il accompagne la vie et la mort.
 genre: adulte/homme
 duree: 8880ms (estimée)
+texte_fuf: Diga saa'i maajum, Muritanko'en ɗon yahda bee Dagara'en nder juulde e boo nder rewo. O ɗon yahda bee mayde e yonki.
+enregistre_fuf: gyil-n11-fuf.m4a (8714ms)
+texte_mos: Rẽ n so t'a sɩnga Dagara rãmbã tɩ b maand kibsã, la b maan sũ-sãoong me. Yaa vɩɩm la kũum sʋka.
+enregistre_mos: gyil-n11-mos.m4a (8586ms)
 
 piste: film-001
 histoire: Le gyil des génies
@@ -170,6 +234,8 @@ intonation: malicieux (scénario)
 texte: Le gyil des génies. Une légende dagara.
 genre: adulte/libre
 duree: 4200ms (mesurée sur le film)
+texte_fuf: O ɗon wi'a ko o woni. Fedde dagara.
+texte_mos: Yaa yel-wẽn-maandb kʋʋdã. Yaa Dagara lagem-n-taar.
 
 piste: film-002
 histoire: Le gyil des génies
@@ -180,6 +246,8 @@ intonation: posé (proposée)
 texte: Autrefois, les villages dagara n'avaient pas de gyil. Les fêtes étaient bien tristes : on se regardait, et on s'ennuyait.
 genre: adulte/libre
 duree: 8100ms (mesurée sur le film)
+texte_fuf: Wakkati naane, gure dagara'en mbaawataa haayri. Nyalnde nden e woodi ɓernde kalluɗum. Yimɓe ɗon ngi'a hakkunde maɓɓe, ɓe ngaɗata ko wooɗi.
+texte_mos: Pĩnd wẽndẽ, dagara tẽn-tẽnsã ra pa tar kʋʋdb ye. La kibsã ra yaa sũ-sãangre, tɩ nebã ra get taab la b basd taaba.
 
 piste: film-003
 histoire: Le gyil des génies
@@ -190,6 +258,8 @@ intonation: posé (proposée)
 texte: Un jour, Bayuo, un chasseur, s'éloigna trop dans la brousse.
 genre: adulte/libre
 duree: 5100ms (mesurée sur le film)
+texte_fuf: Go'o go'o Bayuo, mawɗo geɗal, ɓeydi haa nder leɗɗe.
+texte_mos: Daar a ye, Bayuo sẽn da yaa zĩ-yũudd n kẽed weoogẽ wã n loogame.
 
 piste: film-004
 histoire: Le gyil des génies
@@ -200,6 +270,8 @@ intonation: inquiet (scénario)
 texte: La nuit tomba, et il ne retrouva plus son chemin.
 genre: adulte/libre
 duree: 3800ms (mesurée sur le film)
+texte_fuf: Nde jemma waɗi, o yi'i laawol.
+texte_mos: Zĩigã lebga yʋngo, t'a ra pa le tõe n paam a sor ye.
 
 piste: film-005
 histoire: Le gyil des génies
@@ -210,6 +282,8 @@ intonation: mystérieux (scénario)
 texte: Soudain, il entendit un son qu'il ne connaissait pas.
 genre: adulte/libre
 duree: 3800ms (mesurée sur le film)
+texte_fuf: Ɗoon o nani wolde mo anndaa.
+texte_mos: La tao-tao bala, a wʋma koɛɛg a sẽn da pa mi.
 
 piste: film-006
 histoire: Le gyil des génies
@@ -220,6 +294,8 @@ intonation: posé (proposée)
 texte: Derrière les arbres, des kontomblé, les génies de la brousse, frappaient sur des lames de bois.
 genre: adulte/libre
 duree: 6100ms (mesurée sur le film)
+texte_fuf: Ɓaawo leɗɗe, ruuhuuji nder ladde ɗon mbaroyi lekki.
+texte_mos: La tɩɩsã poore, zĩn-dãmbã ra wẽeda tɩɩgã.
 
 piste: film-007
 histoire: Le gyil des génies
@@ -230,6 +306,8 @@ intonation: émerveillé (scénario)
 texte: Bayuo oublia sa peur. Il n'avait jamais rien entendu d'aussi beau.
 genre: adulte/libre
 duree: 5500ms (mesurée sur le film)
+texte_fuf: Bayuo yejjiti kulol muuɗum. O meeɗaay nanugo ko ɓuri wooɗugo.
+texte_mos: A Bayuo basa rabeem ning a sẽn da tarã. A ra zɩ n wʋm bũmb sẽn yaa sõma woto ye.
 
 piste: film-008
 histoire: Le gyil des génies
@@ -240,6 +318,8 @@ intonation: chuchoté (scénario)
 texte: Il revint la nuit suivante, et la suivante encore, caché derrière un arbre.
 genre: adulte/libre
 duree: 5500ms (mesurée sur le film)
+texte_fuf: O warti haa jemma, nden kam o ɓoydi dow leggal.
+texte_mos: A waame yʋngo, t'a leb n solg-a-la tɩɩgã poorẽ.
 
 piste: film-009
 histoire: Le gyil des génies
@@ -250,6 +330,8 @@ intonation: posé (proposée)
 texte: La lune changeait de place. Et ses mains, dans le vide, imitaient de mieux en mieux les génies.
 genre: adulte/libre
 duree: 6700ms (mesurée sur le film)
+texte_fuf: Lewru ɗon wayla nokkuure maako. Ammaa juuɗe maako ɗe laatoy, ɗon ɓeyda ɓeydagol ruumiije.
+texte_mos: Sẽn paase, kiuugã ra toeemda a zĩiga. La a nusã sẽn da pa tar bũmbã ra rɩkda zĩn-dãmb togs-n-taare.
 
 piste: film-010
 histoire: Le gyil des génies
@@ -260,6 +342,8 @@ intonation: posé (proposée)
 texte: Une branche craqua. Découvert !
 genre: adulte/libre
 duree: 3400ms (mesurée sur le film)
+texte_fuf: Ɗerewol gootol ɓanngini. Wonaa !
+texte_mos: Tʋʋm-kãnga ra yikame. B bãngame!
 
 piste: film-011
 histoire: Le gyil des génies
@@ -270,6 +354,8 @@ intonation: menaçant (scénario)
 texte: Qui ose nous espionner ?
 genre: esprit, créature : voix grave/libre
 duree: 2300ms (mesurée sur le film)
+texte_fuf: Honooɓe ɓe'e nana en?
+texte_mos: Ãnd dãmb n tõe n gũnug-d lame?
 
 piste: film-012
 histoire: Le gyil des génies
@@ -280,6 +366,8 @@ intonation: tremblant (scénario)
 texte: Je vous offre cette bière. Laissez-moi jouer !
 genre: adulte/homme
 duree: 3500ms (mesurée sur le film)
+texte_fuf: Mi hokkata on beerol ngol. Hokka mi huutoroo!
+texte_mos: M kõt-y-la bi-kãnga. Bas-y tɩ m maan yɩɩr ye!
 
 piste: film-013
 histoire: Le gyil des génies
@@ -290,6 +378,8 @@ intonation: posé (proposée)
 texte: Les génies se regardèrent. Puis ils lui tendirent les baguettes.
 genre: adulte/libre
 duree: 5100ms (mesurée sur le film)
+texte_fuf: Mawɓe ɗon ndaara. Sey ɓe mbi'i mo: "Ndaa.
+texte_mos: Ninsaalbã gesa b taabã. Rẽ poore, b kõ-a lame.
 
 piste: film-014
 histoire: Le gyil des génies
@@ -300,6 +390,8 @@ intonation: ému (scénario)
 texte: Bayuo joua. Il avait tout retenu.
 genre: adulte/libre
 duree: 3900ms (mesurée sur le film)
+texte_fuf: Bayuo waɗi. O hoo'i kooɗume.
+texte_mos: A Bayuo yɩɩla. A ra zãmsa bũmb fãa.
 
 piste: film-015
 histoire: Le gyil des génies
@@ -310,6 +402,8 @@ intonation: voix profonde (scénario)
 texte: Taille les lames dans cet arbre. Partage.
 genre: esprit, créature : voix grave/libre
 duree: 4200ms (mesurée sur le film)
+texte_fuf: Fulii lamɓe nder leggal ngal. Ɗaɓɓo.
+texte_mos: Kẽng-y tɩɩgã pʋgẽ. D pʋɩ-a.
 
 piste: film-016
 histoire: Le gyil des génies
@@ -320,6 +414,8 @@ intonation: posé (proposée)
 texte: Au village, il tailla les lames, et il y accrocha des calebasses.
 genre: adulte/libre
 duree: 4800ms (mesurée sur le film)
+texte_fuf: Nde o wari nder gariiri ndin, o taƴi lamɓe, o hokki ɓe limce.
+texte_mos: La a Zozɛf kẽnga tẽn-tẽngẽ wã n yẽeg bĩisã, la a gãneg-b lame.
 
 piste: film-017
 histoire: Le gyil des génies
@@ -330,6 +426,8 @@ intonation: posé (proposée)
 texte: C'était le premier gyil des hommes.
 genre: adulte/libre
 duree: 2800ms (mesurée sur le film)
+texte_fuf: Kanko woni neɗɗo arandeeɗo worɓe.
+texte_mos: A ra yaa nin-kʋʋd ning pipi.
 
 piste: film-018
 histoire: Le gyil des génies
@@ -340,6 +438,8 @@ intonation: joyeux (scénario)
 texte: Dès les premières notes, les pieds se mirent à bouger. Tout le village dansa.
 genre: adulte/libre
 duree: 5800ms (mesurée sur le film)
+texte_fuf: Nde ɓe nganndi, koyɗe maɓɓe fuɗɗii ɓeydaade. Yimɓe nder gariiri fuu njogii.
+texte_mos: D sã n wa karemdẽ wã, d naoã sɩngame n yikdẽ. Tẽngã fãa ra dansame.
 
 piste: film-019
 histoire: Le gyil des génies
@@ -350,6 +450,8 @@ intonation: posé (proposée)
 texte: Au bord de la brousse, deux génies regardaient en souriant.
 genre: adulte/libre
 duree: 4000ms (mesurée sur le film)
+texte_fuf: Ɗon wakkati, yimɓe ɗiɗo ɗon ngi'a bee ɓerɗe maɓɓe.
+texte_mos: Neb a yiibu sẽn da be weoogẽ wã ra ges-a lame, la b yãenda sũ-noogo.
 
 piste: film-020
 histoire: Le gyil des génies
@@ -360,3 +462,5 @@ intonation: doux (scénario)
 texte: Depuis, le gyil accompagne les Dagara dans les fêtes, et aussi dans le deuil. Il accompagne la vie et la mort.
 genre: adulte/libre
 duree: 8100ms (mesurée sur le film)
+texte_fuf: Diga saa'i maajum, Muritanko'en ɗon yahda bee Dagara'en nder juulde e boo nder rewo. O ɗon yahda bee mayde e yonki.
+texte_mos: Rẽ n so t'a sɩnga Dagara rãmbã tɩ b maand kibsã, la b maan sũ-sãoong me. Yaa vɩɩm la kũum sʋka.

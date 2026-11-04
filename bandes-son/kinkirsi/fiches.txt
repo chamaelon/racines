@@ -10,6 +10,10 @@ intonation: posé (proposée)
 texte: Cette scène n'est pas un récit transmis : elle est inventée pour le jeu, à partir de descriptions publiées. Une vraie légende de Kaya reste à collecter.
 genre: adulte/homme
 duree: 11160ms (estimée)
+texte_dyu: O ye koo dɔ lo ye min kofɔra gafew kɔnɔ ani a kɛra sababu ye u y'o lakali. An ka ɲi k'a lɔn ko Kaya ye mɔgɔ sɔbɛ dɔ ye.
+enregistre_dyu: kinkirsi-n1-dyu.m4a (9770ms)
+texte_fuf: Ɗuum hollude ɗum wonaa haala ɓeydi-ɓeydi: ko ɗum waɗetee ngam fijirde ndee, gila e tinndinooje. Fedde goonga dow Kaya haa jooni.
+enregistre_fuf: kinkirsi-n1-fuf.m4a (9684ms)
 
 piste: n2
 histoire: Les kinkirsi, génies de la brousse
@@ -20,6 +24,10 @@ intonation: doux (proposée)
 texte: Quand on quitte le village à la tombée du jour, on n'est jamais tout à fait seul en brousse. Les kinkirsi y circulent.
 genre: âgée/femme
 duree: 9490ms (estimée)
+texte_dyu: N'i bɔra dugudennin na tile benna tuma min na, i t'a sɔrɔ i kelen lo kungo kɔnɔ. Kinkirisiw be taga yen.
+enregistre_dyu: kinkirsi-n2-dyu.m4a (8778ms)
+texte_fuf: To a wurtini gariiri nder hirnaange, a walaa go'oto nder ladde. Kinkirsi'en ɗon njahaa ton.
+enregistre_fuf: kinkirsi-n2-fuf.m4a (7226ms)
 
 piste: n3
 histoire: Les kinkirsi, génies de la brousse
@@ -30,6 +38,10 @@ intonation: interrogatif (proposée)
 texte: Un kinkirsi, c'est quoi ?
 genre: enfant/libre
 duree: 2350ms (estimée)
+texte_dyu: Kinkirisi ye mun lo ye?
+enregistre_dyu: kinkirsi-n3-dyu.m4a (1776ms)
+texte_fuf: Ko honɗun woni kinkirsi?
+enregistre_fuf: kinkirsi-n3-fuf.m4a (1776ms)
 
 piste: n4
 histoire: Les kinkirsi, génies de la brousse
@@ -40,6 +52,10 @@ intonation: doux (proposée)
 texte: Des génies, organisés en groupes. Chaque groupe porte le nom de son doyen. Prends ceci avant de partir.
 genre: âgée/femme
 duree: 7890ms (estimée)
+texte_dyu: Hakilitigi minw labɛnnin lo jɛnkuluw kɔnɔ. O jɛnkulu kelen kelen bɛɛ tɔgɔ bɔra u ka dekan dɔ tɔgɔ la. I k'o ta sani i ka taga.
+enregistre_dyu: kinkirsi-n4-dyu.m4a (9748ms)
+texte_fuf: Goonɗinɓe goɗɗi, ɓe keewaama nder kawtal. Koo go'o nder maɓɓe ina jogii innde gorko mawɗo. Jaɓɓorgo Fedde Ɓamtaare.
+enregistre_fuf: kinkirsi-n4-fuf.m4a (9684ms)
 
 piste: n5
 histoire: Les kinkirsi, génies de la brousse
@@ -50,6 +66,10 @@ intonation: interrogatif (proposée)
 texte: L'ancienne te tend un peu de nourriture pour la route. Que choisis-tu de garder ?
 genre: adulte/homme
 duree: 6300ms (estimée)
+texte_dyu: A kɔrɔmuso be dumuni dɔɔni di i ma sira kan. I b'a fɛ ka mun le mara?
+enregistre_dyu: kinkirsi-n5-dyu.m4a (5178ms)
+texte_fuf: Mawɗo'en ɗon hokkata ma nyaamdu dow laawol. Ko honɗun suɓataa?
+enregistre_fuf: kinkirsi-n5-fuf.m4a (4746ms)
 
 piste: sale
 histoire: Les kinkirsi, génies de la brousse
@@ -60,6 +80,10 @@ intonation: doux (proposée)
 texte: Comme tu veux. Mais les kinkirsi aiment ce qui est doux : le miel, le sésame, les gâteaux de haricots, l'arachide.
 genre: âgée/femme
 duree: 9180ms (estimée)
+texte_dyu: I b'a fɛ. Nka fɛnɲumanw le ka di o ye, i n'a fɔ li, ani sisamu, ani rɛzɛnji ŋɔmi, ani yiriden.
+enregistre_dyu: kinkirsi-sale-dyu.m4a (7978ms)
+texte_fuf: No yiɗi. Ammaa kiisiraaɓe ngiɗi nyaamdu, e woodi njaru, e ɓesngu, e geɗal leɗɗe, e cukalel.
+enregistre_fuf: kinkirsi-sale-fuf.m4a (7754ms)
 
 piste: doux
 histoire: Les kinkirsi, génies de la brousse
@@ -70,6 +94,10 @@ intonation: doux (proposée)
 texte: Tu as bien écouté. Ce qui est doux leur plaît : le miel, le sésame, les gâteaux de haricots, l'arachide.
 genre: âgée/femme
 duree: 8800ms (estimée)
+texte_dyu: I y'i tulo malɔ koɲuman. O b'a fɛ ka simankuraw le domu: li, ani sisamu, ani ŋɔmi, ani yiriden.
+enregistre_dyu: kinkirsi-doux-dyu.m4a (8788ms)
+texte_fuf: On ɗon nana. Ɓe ngiɗi nyaamdu njamndi, e cembiɗirɗe, e geese, e pecce.
+enregistre_fuf: kinkirsi-doux-fuf.m4a (5850ms)
 
 piste: route
 histoire: Les kinkirsi, génies de la brousse
@@ -80,6 +108,10 @@ intonation: mystérieux (proposée)
 texte: La nuit tombe. Un petit bruit dans les herbes, et une silhouette montée sur une bête sauvage passe entre les arbres.
 genre: adulte/homme
 duree: 8730ms (estimée)
+texte_dyu: Suu be ɲini ka don. Sankaba dɔ mankan bɔra binw cɛ ra, kongowara dɔ yɛlɛnin bɛ tɛmɛna yiriw cɛ ma.
+enregistre_dyu: kinkirsi-route-dyu.m4a (7466ms)
+texte_fuf: Nde jemma wara. Ɗuum woni ko ɓooyi nder leɗɗe. Ɗu'um woni bi'eteeɗo dabbaajo dow leɗɗe, o ɗon ƴiwo haa caka geese.
+enregistre_fuf: kinkirsi-route-fuf.m4a (9332ms)
 
 piste: n6
 histoire: Les kinkirsi, génies de la brousse
@@ -90,6 +122,10 @@ intonation: interrogatif (proposée)
 texte: Qui marche si fort sur notre chemin ?
 genre: voix de génie/libre
 duree: 3340ms (estimée)
+texte_dyu: Jɔn le be tɛmɛ an ka sira kan ten?
+enregistre_dyu: kinkirsi-n6-dyu.m4a (2144ms)
+texte_fuf: Moy ɗon yaha haa laawol amin?
+enregistre_fuf: kinkirsi-n6-fuf.m4a (1952ms)
 
 piste: n7
 histoire: Les kinkirsi, génies de la brousse
@@ -100,6 +136,10 @@ intonation: interrogatif (proposée)
 texte: Que fais-tu ?
 genre: adulte/homme
 duree: 1440ms (estimée)
+texte_dyu: I be mun le kɛra?
+enregistre_dyu: kinkirsi-n7-dyu.m4a (1280ms)
+texte_fuf: Ko honɗun waɗata?
+enregistre_fuf: kinkirsi-n7-fuf.m4a (1536ms)
 
 piste: hate
 histoire: Les kinkirsi, génies de la brousse
@@ -110,6 +150,10 @@ intonation: mystérieux (proposée)
 texte: Tu cours, tu trébuches, tu ne reconnais plus les arbres. Le sentier tourne, et tourne encore. Tu ne retrouves le village qu'au matin.
 genre: adulte/homme
 duree: 10090ms (estimée)
+texte_dyu: I bɛ bori, ka talon; i tɛ yiriw lɔn tuun. A ka sira be yɛlɛma, a be yɛlɛma tugu. I tɛ se ka dugumɔgɔw ye fɔ sɔgɔma.
+enregistre_dyu: kinkirsi-hate-dyu.m4a (9726ms)
+texte_fuf: On ɗon ndilli, on ɗon maɓɓa. On anndaa leɗɗe boo. Ndeke laawol ɗon tuuba, ɗon tuumba. A heɓan gariiri ndin haa subaka.
+enregistre_fuf: kinkirsi-hate-fuf.m4a (9390ms)
 
 piste: don
 histoire: Les kinkirsi, génies de la brousse
@@ -120,6 +164,10 @@ intonation: mystérieux (proposée)
 texte: Tu poses un peu de miel au pied d'un arbre, sans rien demander. La silhouette s'éloigne.
 genre: adulte/homme
 duree: 6830ms (estimée)
+texte_dyu: I bɛ li dɔɔnin bla yiri jukɔrɔ, k'a sɔrɔ i ma foyi daari. O cogo la, a tun be yɛlɛma ka taga yɔrɔ wɛrɛ.
+enregistre_dyu: kinkirsi-don-dyu.m4a (6938ms)
+texte_fuf: On ɗon ɗaɓɓita ko'e mooɗon nder leɗɗe, ammaa on torraako ɗe. Ɗuum ɗon ɓeyda.
+enregistre_fuf: kinkirsi-don-fuf.m4a (6394ms)
 
 piste: sans
 histoire: Les kinkirsi, génies de la brousse
@@ -130,6 +178,10 @@ intonation: mystérieux (proposée)
 texte: Tu n'as que du sel à offrir. Tu baisses les yeux, tu laisses passer, et la silhouette s'éloigne quand même.
 genre: adulte/homme
 duree: 8500ms (estimée)
+texte_dyu: I ye kɔgɔ dɔrɔn le di. I bɛ i ɲa biri dugu ma, k'a to a ye tɛmɛ; nka o bɛɛ n'a ta, a tɛ foyi ɲa.
+enregistre_dyu: kinkirsi-sans-dyu.m4a (8548ms)
+texte_fuf: Ko'e mon fuu, ko'e mooɗon ɗon nyaama. On ɗon yi'a dow, on ɗon acca, ammaa ɓandu maako ɗon yaawto.
+enregistre_fuf: kinkirsi-sans-fuf.m4a (7834ms)
 
 piste: jumeaux
 histoire: Les kinkirsi, génies de la brousse
@@ -140,6 +192,10 @@ intonation: doux (proposée)
 texte: Te voilà. On dit aussi que les kinkirsi sont liés à la venue des enfants, et surtout aux jumeaux.
 genre: âgée/femme
 duree: 7970ms (estimée)
+texte_dyu: A filɛ, i be yen. U y'a fɔ fana ko kinkiriziw be se ka kɛ sababu ye deenw be na.
+enregistre_dyu: kinkirsi-jumeaux-dyu.m4a (6234ms)
+texte_fuf: Ɗon wonii. Ɓe mbiyi kadi kinkirsi'en ɗon hawti e warugo ɓikkoy, haa teeŋti e ɓeynguure.
+enregistre_fuf: kinkirsi-jumeaux-fuf.m4a (5962ms)
 
 piste: n9
 histoire: Les kinkirsi, génies de la brousse
@@ -150,3 +206,7 @@ intonation: posé (proposée)
 texte: Le monde visible n'est pas seul : on y marche avec égards.
 genre: adulte/homme
 duree: 5010ms (estimée)
+texte_dyu: Nka, an be koow kɛ ni bonya ye.
+enregistre_dyu: kinkirsi-n9-dyu.m4a (2688ms)
+texte_fuf: Dunyaaji ɗi ngi'eteeɓe naa' tan.
+enregistre_fuf: kinkirsi-n9-fuf.m4a (2768ms)

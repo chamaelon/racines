@@ -1,0 +1,1353 @@
+{
+ "01-wuro-masque": {
+  "video": "films/01-wuro-masque/video.mp4",
+  "duree": 317,
+  "rendu": "stickman",
+  "pistes": [
+   {
+    "code": "fr",
+    "src": "films/01-wuro-masque/fr.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "dyu",
+    "src": "films/01-wuro-masque/dyu.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "fuf",
+    "src": "films/01-wuro-masque/fuf.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "zxx",
+    "src": "films/01-wuro-masque/zxx.m4a",
+    "provisoire": true
+   }
+  ],
+  "sousTitres": [
+   {
+    "code": "dyu",
+    "src": "films/01-wuro-masque/dyu.vtt"
+   },
+   {
+    "code": "fr",
+    "src": "films/01-wuro-masque/fr.vtt"
+   },
+   {
+    "code": "fuf",
+    "src": "films/01-wuro-masque/fuf.vtt"
+   }
+  ],
+  "cartons": []
+ },
+ "02-silures-dafra": {
+  "video": "films/02-silures-dafra/video.mp4",
+  "duree": 280.3,
+  "rendu": "stickman",
+  "pistes": [
+   {
+    "code": "fr",
+    "src": "films/02-silures-dafra/fr.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "dyu",
+    "src": "films/02-silures-dafra/dyu.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "mos",
+    "src": "films/02-silures-dafra/mos.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "zxx",
+    "src": "films/02-silures-dafra/zxx.m4a",
+    "provisoire": true
+   }
+  ],
+  "sousTitres": [
+   {
+    "code": "dyu",
+    "src": "films/02-silures-dafra/dyu.vtt"
+   },
+   {
+    "code": "fr",
+    "src": "films/02-silures-dafra/fr.vtt"
+   },
+   {
+    "code": "mos",
+    "src": "films/02-silures-dafra/mos.vtt"
+   }
+  ],
+  "cartons": []
+ },
+ "03-wuro-pilon": {
+  "video": "films/03-wuro-pilon/video.mp4",
+  "duree": 352,
+  "rendu": "3d",
+  "pistes": [
+   {
+    "code": "fr",
+    "src": "films/03-wuro-pilon/fr.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "dyu",
+    "src": "films/03-wuro-pilon/dyu.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "fuf",
+    "src": "films/03-wuro-pilon/fuf.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "zxx",
+    "src": "films/03-wuro-pilon/zxx.m4a",
+    "provisoire": true
+   }
+  ],
+  "sousTitres": [
+   {
+    "code": "dyu",
+    "src": "films/03-wuro-pilon/dyu.vtt"
+   },
+   {
+    "code": "fr",
+    "src": "films/03-wuro-pilon/fr.vtt"
+   },
+   {
+    "code": "fuf",
+    "src": "films/03-wuro-pilon/fuf.vtt"
+   }
+  ],
+  "cartons": [
+   {
+    "de": 2,
+    "a": 7,
+    "titre": "Wuro et le pilon",
+    "detail": "Un mythe du pays bwa",
+    "place": "centre"
+   },
+   {
+    "de": 24,
+    "a": 29,
+    "titre": "Wuro",
+    "detail": "le Créateur"
+   },
+   {
+    "de": 31,
+    "a": 36,
+    "titre": "Pays bwa, au commencement",
+    "detail": "quand le ciel touchait les toits"
+   },
+   {
+    "de": 41,
+    "a": 45,
+    "titre": "Tiko",
+    "detail": "un enfant du village"
+   },
+   {
+    "de": 52,
+    "a": 56,
+    "titre": "Bado",
+    "detail": "le forgeron"
+   },
+   {
+    "de": 77.5,
+    "a": 81,
+    "titre": "La cour de Hamé"
+   },
+   {
+    "de": 81.5,
+    "a": 85.5,
+    "titre": "Hamé",
+    "detail": "pile le mil"
+   },
+   {
+    "de": 175.5,
+    "a": 179,
+    "titre": "Sanou",
+    "detail": "un jeune cultivateur"
+   },
+   {
+    "de": 195.5,
+    "a": 199.5,
+    "titre": "Yéli",
+    "detail": "l'Ancien du village"
+   },
+   {
+    "de": 226,
+    "a": 231,
+    "titre": "Kwere",
+    "detail": "la foudre"
+   },
+   {
+    "de": 253,
+    "a": 257,
+    "titre": "La brousse"
+   },
+   {
+    "de": 266,
+    "a": 270.5,
+    "titre": "Soxo",
+    "detail": "l'esprit de la brousse"
+   },
+   {
+    "de": 291,
+    "a": 296,
+    "titre": "Dwo",
+    "detail": "le masque de feuilles"
+   },
+   {
+    "de": 343,
+    "a": 346,
+    "titre": "Fin",
+    "place": "centre"
+   },
+   {
+    "de": 346,
+    "a": 351.5,
+    "titre": "Wuro et le pilon",
+    "detail": "D'après un mythe bwaba (Burkina Faso). Adaptation libre, à vérifier auprès des conteurs. Racines, patrimoine oral du Burkina Faso.",
+    "place": "centre"
+   }
+  ]
+ },
+ "04-gazelle": {
+  "video": "films/04-gazelle/video.mp4",
+  "duree": 270,
+  "rendu": "stickman",
+  "pistes": [
+   {
+    "code": "fr",
+    "src": "films/04-gazelle/fr.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "dyu",
+    "src": "films/04-gazelle/dyu.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "mos",
+    "src": "films/04-gazelle/mos.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "zxx",
+    "src": "films/04-gazelle/zxx.m4a",
+    "provisoire": true
+   }
+  ],
+  "sousTitres": [
+   {
+    "code": "dyu",
+    "src": "films/04-gazelle/dyu.vtt"
+   },
+   {
+    "code": "fr",
+    "src": "films/04-gazelle/fr.vtt"
+   },
+   {
+    "code": "mos",
+    "src": "films/04-gazelle/mos.vtt"
+   }
+  ],
+  "cartons": []
+ },
+ "05-tenin-1915": {
+  "video": "films/05-tenin-1915/video.mp4",
+  "duree": 290.2,
+  "rendu": "stickman",
+  "pistes": [
+   {
+    "code": "fr",
+    "src": "films/05-tenin-1915/fr.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "dyu",
+    "src": "films/05-tenin-1915/dyu.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "mos",
+    "src": "films/05-tenin-1915/mos.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "zxx",
+    "src": "films/05-tenin-1915/zxx.m4a",
+    "provisoire": true
+   }
+  ],
+  "sousTitres": [
+   {
+    "code": "dyu",
+    "src": "films/05-tenin-1915/dyu.vtt"
+   },
+   {
+    "code": "fr",
+    "src": "films/05-tenin-1915/fr.vtt"
+   },
+   {
+    "code": "mos",
+    "src": "films/05-tenin-1915/mos.vtt"
+   }
+  ],
+  "cartons": []
+ },
+ "06-bona-1915": {
+  "video": "films/06-bona-1915/video.mp4",
+  "duree": 275.3,
+  "rendu": "stickman",
+  "pistes": [
+   {
+    "code": "fr",
+    "src": "films/06-bona-1915/fr.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "fuf",
+    "src": "films/06-bona-1915/fuf.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "mos",
+    "src": "films/06-bona-1915/mos.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "zxx",
+    "src": "films/06-bona-1915/zxx.m4a",
+    "provisoire": true
+   }
+  ],
+  "sousTitres": [
+   {
+    "code": "fr",
+    "src": "films/06-bona-1915/fr.vtt"
+   },
+   {
+    "code": "fuf",
+    "src": "films/06-bona-1915/fuf.vtt"
+   },
+   {
+    "code": "mos",
+    "src": "films/06-bona-1915/mos.vtt"
+   }
+  ],
+  "cartons": []
+ },
+ "07-pics-sindou": {
+  "video": "films/07-pics-sindou/video.mp4",
+  "duree": 268.2,
+  "rendu": "stickman",
+  "pistes": [
+   {
+    "code": "fr",
+    "src": "films/07-pics-sindou/fr.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "fuf",
+    "src": "films/07-pics-sindou/fuf.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "mos",
+    "src": "films/07-pics-sindou/mos.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "zxx",
+    "src": "films/07-pics-sindou/zxx.m4a",
+    "provisoire": true
+   }
+  ],
+  "sousTitres": [
+   {
+    "code": "fr",
+    "src": "films/07-pics-sindou/fr.vtt"
+   },
+   {
+    "code": "fuf",
+    "src": "films/07-pics-sindou/fuf.vtt"
+   },
+   {
+    "code": "mos",
+    "src": "films/07-pics-sindou/mos.vtt"
+   }
+  ],
+  "cartons": []
+ },
+ "08-tene-balafon": {
+  "video": "films/08-tene-balafon/video.mp4",
+  "duree": 280.8,
+  "rendu": "stickman",
+  "pistes": [
+   {
+    "code": "fr",
+    "src": "films/08-tene-balafon/fr.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "dyu",
+    "src": "films/08-tene-balafon/dyu.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "fuf",
+    "src": "films/08-tene-balafon/fuf.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "zxx",
+    "src": "films/08-tene-balafon/zxx.m4a",
+    "provisoire": true
+   }
+  ],
+  "sousTitres": [
+   {
+    "code": "dyu",
+    "src": "films/08-tene-balafon/dyu.vtt"
+   },
+   {
+    "code": "fr",
+    "src": "films/08-tene-balafon/fr.vtt"
+   },
+   {
+    "code": "fuf",
+    "src": "films/08-tene-balafon/fuf.vtt"
+   }
+  ],
+  "cartons": []
+ },
+ "09-thila-bateba": {
+  "video": "films/09-thila-bateba/video.mp4",
+  "duree": 280,
+  "rendu": "stickman",
+  "pistes": [
+   {
+    "code": "fr",
+    "src": "films/09-thila-bateba/fr.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "dyu",
+    "src": "films/09-thila-bateba/dyu.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "fuf",
+    "src": "films/09-thila-bateba/fuf.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "zxx",
+    "src": "films/09-thila-bateba/zxx.m4a",
+    "provisoire": true
+   }
+  ],
+  "sousTitres": [
+   {
+    "code": "dyu",
+    "src": "films/09-thila-bateba/dyu.vtt"
+   },
+   {
+    "code": "fr",
+    "src": "films/09-thila-bateba/fr.vtt"
+   },
+   {
+    "code": "fuf",
+    "src": "films/09-thila-bateba/fuf.vtt"
+   }
+  ],
+  "cartons": []
+ },
+ "10-dyoro": {
+  "video": "films/10-dyoro/video.mp4",
+  "duree": 280,
+  "rendu": "stickman",
+  "pistes": [
+   {
+    "code": "fr",
+    "src": "films/10-dyoro/fr.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "dyu",
+    "src": "films/10-dyoro/dyu.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "mos",
+    "src": "films/10-dyoro/mos.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "zxx",
+    "src": "films/10-dyoro/zxx.m4a",
+    "provisoire": true
+   }
+  ],
+  "sousTitres": [
+   {
+    "code": "dyu",
+    "src": "films/10-dyoro/dyu.vtt"
+   },
+   {
+    "code": "fr",
+    "src": "films/10-dyoro/fr.vtt"
+   },
+   {
+    "code": "mos",
+    "src": "films/10-dyoro/mos.vtt"
+   }
+  ],
+  "cartons": []
+ },
+ "11-loropeni": {
+  "video": "films/11-loropeni/video.mp4",
+  "duree": 260.2,
+  "rendu": "stickman",
+  "pistes": [
+   {
+    "code": "fr",
+    "src": "films/11-loropeni/fr.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "dyu",
+    "src": "films/11-loropeni/dyu.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "fuf",
+    "src": "films/11-loropeni/fuf.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "zxx",
+    "src": "films/11-loropeni/zxx.m4a",
+    "provisoire": true
+   }
+  ],
+  "sousTitres": [
+   {
+    "code": "dyu",
+    "src": "films/11-loropeni/dyu.vtt"
+   },
+   {
+    "code": "fr",
+    "src": "films/11-loropeni/fr.vtt"
+   },
+   {
+    "code": "fuf",
+    "src": "films/11-loropeni/fuf.vtt"
+   }
+  ],
+  "cartons": []
+ },
+ "12-obire": {
+  "video": "films/12-obire/video.mp4",
+  "duree": 278.4,
+  "rendu": "stickman",
+  "pistes": [
+   {
+    "code": "fr",
+    "src": "films/12-obire/fr.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "dyu",
+    "src": "films/12-obire/dyu.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "fuf",
+    "src": "films/12-obire/fuf.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "zxx",
+    "src": "films/12-obire/zxx.m4a",
+    "provisoire": true
+   }
+  ],
+  "sousTitres": [
+   {
+    "code": "dyu",
+    "src": "films/12-obire/dyu.vtt"
+   },
+   {
+    "code": "fr",
+    "src": "films/12-obire/fr.vtt"
+   },
+   {
+    "code": "fuf",
+    "src": "films/12-obire/fuf.vtt"
+   }
+  ],
+  "cartons": []
+ },
+ "13-zenuo": {
+  "video": "films/13-zenuo/video.mp4",
+  "duree": 274.2,
+  "rendu": "stickman",
+  "pistes": [
+   {
+    "code": "fr",
+    "src": "films/13-zenuo/fr.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "dyu",
+    "src": "films/13-zenuo/dyu.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "mos",
+    "src": "films/13-zenuo/mos.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "zxx",
+    "src": "films/13-zenuo/zxx.m4a",
+    "provisoire": true
+   }
+  ],
+  "sousTitres": [
+   {
+    "code": "dyu",
+    "src": "films/13-zenuo/dyu.vtt"
+   },
+   {
+    "code": "fr",
+    "src": "films/13-zenuo/fr.vtt"
+   },
+   {
+    "code": "mos",
+    "src": "films/13-zenuo/mos.vtt"
+   }
+  ],
+  "cartons": []
+ },
+ "14-gyil": {
+  "video": "films/14-gyil/video.mp4",
+  "duree": 274.7,
+  "rendu": "stickman",
+  "pistes": [
+   {
+    "code": "fr",
+    "src": "films/14-gyil/fr.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "fuf",
+    "src": "films/14-gyil/fuf.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "mos",
+    "src": "films/14-gyil/mos.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "zxx",
+    "src": "films/14-gyil/zxx.m4a",
+    "provisoire": true
+   }
+  ],
+  "sousTitres": [
+   {
+    "code": "fr",
+    "src": "films/14-gyil/fr.vtt"
+   },
+   {
+    "code": "fuf",
+    "src": "films/14-gyil/fuf.vtt"
+   },
+   {
+    "code": "mos",
+    "src": "films/14-gyil/mos.vtt"
+   }
+  ],
+  "cartons": []
+ },
+ "15-guimbi": {
+  "video": "films/15-guimbi/video.mp4",
+  "duree": 275,
+  "rendu": "stickman",
+  "pistes": [
+   {
+    "code": "fr",
+    "src": "films/15-guimbi/fr.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "dyu",
+    "src": "films/15-guimbi/dyu.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "fuf",
+    "src": "films/15-guimbi/fuf.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "zxx",
+    "src": "films/15-guimbi/zxx.m4a",
+    "provisoire": true
+   }
+  ],
+  "sousTitres": [
+   {
+    "code": "dyu",
+    "src": "films/15-guimbi/dyu.vtt"
+   },
+   {
+    "code": "fr",
+    "src": "films/15-guimbi/fr.vtt"
+   },
+   {
+    "code": "fuf",
+    "src": "films/15-guimbi/fuf.vtt"
+   }
+  ],
+  "cartons": []
+ },
+ "16-famagan": {
+  "video": "films/16-famagan/video.mp4",
+  "duree": 266,
+  "rendu": "stickman",
+  "pistes": [
+   {
+    "code": "fr",
+    "src": "films/16-famagan/fr.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "fuf",
+    "src": "films/16-famagan/fuf.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "mos",
+    "src": "films/16-famagan/mos.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "zxx",
+    "src": "films/16-famagan/zxx.m4a",
+    "provisoire": true
+   }
+  ],
+  "sousTitres": [
+   {
+    "code": "fr",
+    "src": "films/16-famagan/fr.vtt"
+   },
+   {
+    "code": "fuf",
+    "src": "films/16-famagan/fuf.vtt"
+   },
+   {
+    "code": "mos",
+    "src": "films/16-famagan/mos.vtt"
+   }
+  ],
+  "cartons": []
+ },
+ "17-landolo": {
+  "video": "films/17-landolo/video.mp4",
+  "duree": 276,
+  "rendu": "stickman",
+  "pistes": [
+   {
+    "code": "fr",
+    "src": "films/17-landolo/fr.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "dyu",
+    "src": "films/17-landolo/dyu.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "fuf",
+    "src": "films/17-landolo/fuf.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "zxx",
+    "src": "films/17-landolo/zxx.m4a",
+    "provisoire": true
+   }
+  ],
+  "sousTitres": [
+   {
+    "code": "dyu",
+    "src": "films/17-landolo/dyu.vtt"
+   },
+   {
+    "code": "fr",
+    "src": "films/17-landolo/fr.vtt"
+   },
+   {
+    "code": "fuf",
+    "src": "films/17-landolo/fuf.vtt"
+   }
+  ],
+  "cartons": []
+ },
+ "18-rakire": {
+  "video": "films/18-rakire/video.mp4",
+  "duree": 272.4,
+  "rendu": "stickman",
+  "pistes": [
+   {
+    "code": "fr",
+    "src": "films/18-rakire/fr.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "dyu",
+    "src": "films/18-rakire/dyu.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "mos",
+    "src": "films/18-rakire/mos.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "zxx",
+    "src": "films/18-rakire/zxx.m4a",
+    "provisoire": true
+   }
+  ],
+  "sousTitres": [
+   {
+    "code": "dyu",
+    "src": "films/18-rakire/dyu.vtt"
+   },
+   {
+    "code": "fr",
+    "src": "films/18-rakire/fr.vtt"
+   },
+   {
+    "code": "mos",
+    "src": "films/18-rakire/mos.vtt"
+   }
+  ],
+  "cartons": []
+ },
+ "19-vur": {
+  "video": "films/19-vur/video.mp4",
+  "duree": 270,
+  "rendu": "stickman",
+  "pistes": [
+   {
+    "code": "fr",
+    "src": "films/19-vur/fr.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "fuf",
+    "src": "films/19-vur/fuf.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "mos",
+    "src": "films/19-vur/mos.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "zxx",
+    "src": "films/19-vur/zxx.m4a",
+    "provisoire": true
+   }
+  ],
+  "sousTitres": [
+   {
+    "code": "fr",
+    "src": "films/19-vur/fr.vtt"
+   },
+   {
+    "code": "fuf",
+    "src": "films/19-vur/fuf.vtt"
+   },
+   {
+    "code": "mos",
+    "src": "films/19-vur/mos.vtt"
+   }
+  ],
+  "cartons": []
+ },
+ "20-ancetre-ciel": {
+  "video": "films/20-ancetre-ciel/video.mp4",
+  "duree": 270,
+  "rendu": "stickman",
+  "pistes": [
+   {
+    "code": "fr",
+    "src": "films/20-ancetre-ciel/fr.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "fuf",
+    "src": "films/20-ancetre-ciel/fuf.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "mos",
+    "src": "films/20-ancetre-ciel/mos.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "zxx",
+    "src": "films/20-ancetre-ciel/zxx.m4a",
+    "provisoire": true
+   }
+  ],
+  "sousTitres": [
+   {
+    "code": "fr",
+    "src": "films/20-ancetre-ciel/fr.vtt"
+   },
+   {
+    "code": "fuf",
+    "src": "films/20-ancetre-ciel/fuf.vtt"
+   },
+   {
+    "code": "mos",
+    "src": "films/20-ancetre-ciel/mos.vtt"
+   }
+  ],
+  "cartons": []
+ },
+ "21-crocodile": {
+  "video": "films/21-crocodile/video.mp4",
+  "duree": 271,
+  "rendu": "stickman",
+  "pistes": [
+   {
+    "code": "fr",
+    "src": "films/21-crocodile/fr.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "fuf",
+    "src": "films/21-crocodile/fuf.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "mos",
+    "src": "films/21-crocodile/mos.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "zxx",
+    "src": "films/21-crocodile/zxx.m4a",
+    "provisoire": true
+   }
+  ],
+  "sousTitres": [
+   {
+    "code": "fr",
+    "src": "films/21-crocodile/fr.vtt"
+   },
+   {
+    "code": "fuf",
+    "src": "films/21-crocodile/fuf.vtt"
+   },
+   {
+    "code": "mos",
+    "src": "films/21-crocodile/mos.vtt"
+   }
+  ],
+  "cartons": []
+ },
+ "22-babatou": {
+  "video": "films/22-babatou/video.mp4",
+  "duree": 270,
+  "rendu": "stickman",
+  "pistes": [
+   {
+    "code": "fr",
+    "src": "films/22-babatou/fr.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "dyu",
+    "src": "films/22-babatou/dyu.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "fuf",
+    "src": "films/22-babatou/fuf.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "zxx",
+    "src": "films/22-babatou/zxx.m4a",
+    "provisoire": true
+   }
+  ],
+  "sousTitres": [
+   {
+    "code": "dyu",
+    "src": "films/22-babatou/dyu.vtt"
+   },
+   {
+    "code": "fr",
+    "src": "films/22-babatou/fr.vtt"
+   },
+   {
+    "code": "fuf",
+    "src": "films/22-babatou/fuf.vtt"
+   }
+  ],
+  "cartons": []
+ },
+ "23-yennenga": {
+  "video": "films/23-yennenga/video.mp4",
+  "duree": 290,
+  "rendu": "stickman",
+  "pistes": [
+   {
+    "code": "fr",
+    "src": "films/23-yennenga/fr.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "fuf",
+    "src": "films/23-yennenga/fuf.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "mos",
+    "src": "films/23-yennenga/mos.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "zxx",
+    "src": "films/23-yennenga/zxx.m4a",
+    "provisoire": true
+   }
+  ],
+  "sousTitres": [
+   {
+    "code": "fr",
+    "src": "films/23-yennenga/fr.vtt"
+   },
+   {
+    "code": "fuf",
+    "src": "films/23-yennenga/fuf.vtt"
+   },
+   {
+    "code": "mos",
+    "src": "films/23-yennenga/mos.vtt"
+   }
+  ],
+  "cartons": []
+ },
+ "24-lingani": {
+  "video": "films/24-lingani/video.mp4",
+  "duree": 270,
+  "rendu": "stickman",
+  "pistes": [
+   {
+    "code": "fr",
+    "src": "films/24-lingani/fr.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "dyu",
+    "src": "films/24-lingani/dyu.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "mos",
+    "src": "films/24-lingani/mos.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "zxx",
+    "src": "films/24-lingani/zxx.m4a",
+    "provisoire": true
+   }
+  ],
+  "sousTitres": [
+   {
+    "code": "dyu",
+    "src": "films/24-lingani/dyu.vtt"
+   },
+   {
+    "code": "fr",
+    "src": "films/24-lingani/fr.vtt"
+   },
+   {
+    "code": "mos",
+    "src": "films/24-lingani/mos.vtt"
+   }
+  ],
+  "cartons": []
+ },
+ "25-jaba-lompo": {
+  "video": "films/25-jaba-lompo/video.mp4",
+  "duree": 276.4,
+  "rendu": "stickman",
+  "pistes": [
+   {
+    "code": "fr",
+    "src": "films/25-jaba-lompo/fr.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "fuf",
+    "src": "films/25-jaba-lompo/fuf.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "mos",
+    "src": "films/25-jaba-lompo/mos.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "zxx",
+    "src": "films/25-jaba-lompo/zxx.m4a",
+    "provisoire": true
+   }
+  ],
+  "sousTitres": [
+   {
+    "code": "fr",
+    "src": "films/25-jaba-lompo/fr.vtt"
+   },
+   {
+    "code": "fuf",
+    "src": "films/25-jaba-lompo/fuf.vtt"
+   },
+   {
+    "code": "mos",
+    "src": "films/25-jaba-lompo/mos.vtt"
+   }
+  ],
+  "cartons": []
+ },
+ "26-maitres-terre": {
+  "video": "films/26-maitres-terre/video.mp4",
+  "duree": 270.3,
+  "rendu": "stickman",
+  "pistes": [
+   {
+    "code": "fr",
+    "src": "films/26-maitres-terre/fr.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "dyu",
+    "src": "films/26-maitres-terre/dyu.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "fuf",
+    "src": "films/26-maitres-terre/fuf.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "zxx",
+    "src": "films/26-maitres-terre/zxx.m4a",
+    "provisoire": true
+   }
+  ],
+  "sousTitres": [
+   {
+    "code": "dyu",
+    "src": "films/26-maitres-terre/dyu.vtt"
+   },
+   {
+    "code": "fr",
+    "src": "films/26-maitres-terre/fr.vtt"
+   },
+   {
+    "code": "fuf",
+    "src": "films/26-maitres-terre/fuf.vtt"
+   }
+  ],
+  "cartons": []
+ },
+ "27-bilissi": {
+  "video": "films/27-bilissi/video.mp4",
+  "duree": 271.3,
+  "rendu": "stickman",
+  "pistes": [
+   {
+    "code": "fr",
+    "src": "films/27-bilissi/fr.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "dyu",
+    "src": "films/27-bilissi/dyu.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "fuf",
+    "src": "films/27-bilissi/fuf.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "zxx",
+    "src": "films/27-bilissi/zxx.m4a",
+    "provisoire": true
+   }
+  ],
+  "sousTitres": [
+   {
+    "code": "dyu",
+    "src": "films/27-bilissi/dyu.vtt"
+   },
+   {
+    "code": "fr",
+    "src": "films/27-bilissi/fr.vtt"
+   },
+   {
+    "code": "fuf",
+    "src": "films/27-bilissi/fuf.vtt"
+   }
+  ],
+  "cartons": []
+ },
+ "28-silamaka": {
+  "video": "films/28-silamaka/video.mp4",
+  "duree": 256.4,
+  "rendu": "stickman",
+  "pistes": [
+   {
+    "code": "fr",
+    "src": "films/28-silamaka/fr.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "fuf",
+    "src": "films/28-silamaka/fuf.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "mos",
+    "src": "films/28-silamaka/mos.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "zxx",
+    "src": "films/28-silamaka/zxx.m4a",
+    "provisoire": true
+   }
+  ],
+  "sousTitres": [
+   {
+    "code": "fr",
+    "src": "films/28-silamaka/fr.vtt"
+   },
+   {
+    "code": "fuf",
+    "src": "films/28-silamaka/fuf.vtt"
+   },
+   {
+    "code": "mos",
+    "src": "films/28-silamaka/mos.vtt"
+   }
+  ],
+  "cartons": []
+ },
+ "29-liptako": {
+  "video": "films/29-liptako/video.mp4",
+  "duree": 270,
+  "rendu": "stickman",
+  "pistes": [
+   {
+    "code": "fr",
+    "src": "films/29-liptako/fr.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "dyu",
+    "src": "films/29-liptako/dyu.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "mos",
+    "src": "films/29-liptako/mos.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "zxx",
+    "src": "films/29-liptako/zxx.m4a",
+    "provisoire": true
+   }
+  ],
+  "sousTitres": [
+   {
+    "code": "dyu",
+    "src": "films/29-liptako/dyu.vtt"
+   },
+   {
+    "code": "fr",
+    "src": "films/29-liptako/fr.vtt"
+   },
+   {
+    "code": "mos",
+    "src": "films/29-liptako/mos.vtt"
+   }
+  ],
+  "cartons": []
+ },
+ "30-crapaud": {
+  "video": "films/30-crapaud/video.mp4",
+  "duree": 272,
+  "rendu": "stickman",
+  "pistes": [
+   {
+    "code": "fr",
+    "src": "films/30-crapaud/fr.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "dyu",
+    "src": "films/30-crapaud/dyu.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "mos",
+    "src": "films/30-crapaud/mos.m4a",
+    "provisoire": true
+   },
+   {
+    "code": "zxx",
+    "src": "films/30-crapaud/zxx.m4a",
+    "provisoire": true
+   }
+  ],
+  "sousTitres": [
+   {
+    "code": "dyu",
+    "src": "films/30-crapaud/dyu.vtt"
+   },
+   {
+    "code": "fr",
+    "src": "films/30-crapaud/fr.vtt"
+   },
+   {
+    "code": "mos",
+    "src": "films/30-crapaud/mos.vtt"
+   }
+  ],
+  "cartons": []
+ }
+}

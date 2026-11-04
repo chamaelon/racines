@@ -10,6 +10,10 @@ intonation: grave (proposée)
 texte: Aujourd'hui, dans le sud-ouest du Burkina, de longs murs de pierre sortent de la brousse. Remontons le temps : les pierres se relèvent, une à une.
 genre: adulte/femme
 duree: 11080ms (estimée)
+texte_dyu: Bi, Burukina worodugu ni tileben fan fɛ, kogojanw be bɔ yiritu kɔnɔ. An k'a filɛ wagati min na: kabakuruw be lɔ kelen kelen.
+enregistre_dyu: loropeni-n1-dyu.m4a (10340ms)
+texte_fuf: Hannde, nder worgo hirnaange Burkina, cuuɗi mawɗi ɗi kaaƴe ɗon ƴiwo diga ladde. Ndaa no wakkati waɗi: kaaƴe ɗon ummitina, go'o gaɗa.
+enregistre_fuf: loropeni-n1-fuf.m4a (10244ms)
 
 piste: n2
 histoire: Les ruines de Loropéni
@@ -20,6 +24,10 @@ intonation: vif (proposée)
 texte: Plus haut, ce mur doit tenir des siècles !
 genre: adulte/homme
 duree: 3870ms (estimée)
+texte_dyu: N'a sɔrɔ o kogo ka kan ka to saan kɛmɛkulu caaman kɔnɔ.
+enregistre_dyu: loropeni-n2-dyu.m4a (3792ms)
+texte_fuf: Haa dow, wallol ngol footi jaŋgugo duuɓi ujuneeje!
+enregistre_fuf: loropeni-n2-fuf.m4a (3808ms)
 
 piste: n3
 histoire: Les ruines de Loropéni
@@ -30,6 +38,10 @@ intonation: interrogatif (proposée)
 texte: Les Lohron ou les Koulango, ancêtres des chefs Touna, occupent le lieu. Leurs murs de latérite montent, rangée après rangée. Que veux-tu voir d'abord ?
 genre: adulte/homme
 duree: 10850ms (estimée)
+texte_dyu: Lohurɔnkaw, minw ye Touna kuntigiw bɛmacɛw ye, olu lo tun siginin bɛ o yɔrɔ la. O ta kogow bɛ yɛlɛnna ɲɔgɔn kan ɲɔgɔn kɔ. I b'a fɛ ka mun lo ye fɔlɔ?
+enregistre_dyu: loropeni-n3-dyu.m4a (10916ms)
+texte_fuf: Yimɓe Lohron, koo Koolango, maama'en ardiiɓe Touna njooɗi nokkuure nden. Ɗu'um e ɓaawo maɓɓe, cuuɗi mum'en ɗon njaɓɓa. Ko honɗun yiɗi yi'ugo arande?
+enregistre_fuf: loropeni-n3-fuf.m4a (11332ms)
 
 piste: or
 histoire: Les ruines de Loropéni
@@ -40,6 +52,10 @@ intonation: posé (proposée)
 texte: On lave le gravier à la calebasse. Au fond, quelques paillettes brillent. C'est long et dur, mais ces grains font la richesse de tout un pays.
 genre: adulte/femme
 duree: 11080ms (estimée)
+texte_dyu: An b'a fɛ k'o kabakuruw ko. N'a sɔrɔ a be manamana. A ka jan, a ka gbɛlɛn; nka o simanw le bɛ jamana bɛɛ nafa.
+enregistre_dyu: loropeni-or-dyu.m4a (9582ms)
+texte_fuf: Eɗen mbaɗata limce e calbaas. Haa ɓaawo maajum, laaɓuɗe goɗɗe ɗon cembiɗa. Ɗu'um ɓeydi ɗuuɗugo, ammaa ɗi ɗon mari risku lesdi fuu.
+enregistre_fuf: loropeni-or-fuf.m4a (11332ms)
 
 piste: n4
 histoire: Les ruines de Loropéni
@@ -50,6 +66,10 @@ intonation: interrogatif (proposée)
 texte: Veux-tu voir aussi le marché ?
 genre: adulte/homme
 duree: 2580ms (estimée)
+texte_dyu: I b'a fɛ ka lɔgɔfiyɛ fana ye wa?
+enregistre_dyu: loropeni-n4-dyu.m4a (2144ms)
+texte_fuf: A yiɗi yi'ugo jaaynde boo?
+enregistre_fuf: loropeni-n4-fuf.m4a (2000ms)
 
 piste: echange
 histoire: Les ruines de Loropéni
@@ -60,6 +80,10 @@ intonation: joyeux (proposée)
 texte: Dans la forteresse, les orfèvres fondent l'or. Les marchands arrivent de loin, et ils échangent le sel et les étoffes contre l'or.
 genre: adulte/homme
 duree: 9260ms (estimée)
+texte_dyu: Dunuɲamɔgɔw bɛ sanin yeele dugu barakaman kɔnɔ. Jagokɛbagaw bɛ nana ka bɔ yɔrɔjan; o bɛ kɔgɔ ni faniw falen sanin na.
+enregistre_dyu: loropeni-echange-dyu.m4a (9236ms)
+texte_fuf: Nder berniwol mawɗo mo ummaatooje ɗuuɗake, yimɓe kuuje cembiɗɗe ɗon maɓɓita kaŋgeeri. Jaayndiyankooɓe ƴiwoyii daga woɗɗi, ɓe ngaddana ko'e maɓɓe bee ndema.
+enregistre_fuf: loropeni-echange-fuf.m4a (11178ms)
 
 piste: n5
 histoire: Les ruines de Loropéni
@@ -70,6 +94,10 @@ intonation: joyeux (proposée)
 texte: Touche-le : il est pur.
 genre: adulte/homme
 duree: 2350ms (estimée)
+texte_dyu: Aw ye maga a la, a saniyanin lo. "
+enregistre_dyu: loropeni-n5-dyu.m4a (2512ms)
+texte_fuf: To' on meemi mo, o laaɓɗo".
+enregistre_fuf: loropeni-n5-fuf.m4a (2032ms)
 
 piste: n6
 histoire: Les ruines de Loropéni
@@ -80,6 +108,10 @@ intonation: joyeux (proposée)
 texte: Beau, mais trop cher pour moi.
 genre: âgé/homme
 duree: 2730ms (estimée)
+texte_dyu: A ka ɲi, nka a sɔngɔ tun ka gwɛlɛ ne ma.
+enregistre_dyu: loropeni-n6-dyu.m4a (5296ms)
+texte_fuf: Ɗo'o booɗɗum, ammaa ɗum ceede masin ngam am.
+enregistre_fuf: loropeni-n6-fuf.m4a (3584ms)
 
 piste: n7
 histoire: Les ruines de Loropéni
@@ -90,6 +122,10 @@ intonation: vif (proposée)
 texte: Alors, plus de sel !
 genre: adulte/homme
 duree: 2350ms (estimée)
+texte_dyu: O tuma na, kɔgɔ kana kɛ yen tugu!
+enregistre_dyu: loropeni-n7-dyu.m4a (2400ms)
+texte_fuf: Ngam maajum, naa' masin!
+enregistre_fuf: loropeni-n7-fuf.m4a (2432ms)
 
 piste: abandon
 histoire: Les ruines de Loropéni
@@ -100,6 +136,10 @@ intonation: grave (proposée)
 texte: Puis la forteresse est abandonnée. Personne ne sait vraiment pourquoi. La brousse reprend les murs, et les arbres poussent entre les pierres.
 genre: adulte/femme
 duree: 9410ms (estimée)
+texte_dyu: O kɔ, u y'a to o yɔrɔ barikaman tora. Mɔgɔ si t'a lɔn fɛɛn min kama. Yirisunw bɛ kogow lɔ, yiriw bɛ falen kabakuruw cɛ ra.
+enregistre_dyu: loropeni-abandon-dyu.m4a (9444ms)
+texte_fuf: Nden gariiri mawndu ndu'u ɗon cembiɗina. Walaa mo anndi ngam ɗume. Le'i ɗon cembiɗina, lekki boo ɗon ɓanngina nder kaaƴe.
+enregistre_fuf: loropeni-abandon-fuf.m4a (10468ms)
 
 piste: relire
 histoire: Les ruines de Loropéni
@@ -110,6 +150,10 @@ intonation: grave (proposée)
 texte: Rien n'est perdu : les pierres ne bougeront pas d'ici. Tu peux recommencer l'enquête.
 genre: adulte/femme
 duree: 6070ms (estimée)
+texte_dyu: A ma foyi to yi; kabakuru si tɛna bɔ yan. I be se k'i ka ɲinini daminɛ kokura.
+enregistre_dyu: loropeni-relire-dyu.m4a (6516ms)
+texte_fuf: Walaa ko majjata: hayre ɗe'e ɓayataa. Aɗa waawi fuɗɗude ɗaɓɓitaade.
+enregistre_fuf: loropeni-relire-fuf.m4a (6148ms)
 
 piste: bien
 histoire: Les ruines de Loropéni
@@ -120,6 +164,10 @@ intonation: grave (proposée)
 texte: Le mystère reste entier. Mais les pierres sont toujours là, et elles gardent la mémoire de ceux qui les ont dressées.
 genre: adulte/femme
 duree: 8730ms (estimée)
+texte_dyu: O ye gundo lo ye. Nka o kabakuruw tora yi wagati bɛɛ; minw ka o lɔ, olugu hakiri bɛ to o ra.
+enregistre_dyu: loropeni-bien-dyu.m4a (8788ms)
+texte_fuf: Ɗuum ɓeydaani. Ammaa kaaƴe ɗe'e ɗon haa foroy, ɓe kuuwaaɓe ɗe.
+enregistre_fuf: loropeni-bien-fuf.m4a (5370ms)
 
 piste: film-001
 histoire: Les ruines de Loropéni
@@ -130,6 +178,8 @@ intonation: sobre (scénario)
 texte: Les ruines de Loropéni. Un récit historique, simplifié pour l'image.
 genre: adulte/libre
 duree: 5900ms (mesurée sur le film)
+texte_dyu: Loropeni dugu cɛnninw. O ye tarikiko dɔ lo ye.
+texte_fuf: Loropeni ɓadake. Ɗuum ko haala taariika, ɗum laaɓɓi ngam hollaago.
 
 piste: film-002
 histoire: Les ruines de Loropéni
@@ -140,6 +190,8 @@ intonation: posé (proposée)
 texte: Aujourd'hui, dans le sud-ouest du Burkina, de longs murs de pierre sortent de la brousse.
 genre: adulte/libre
 duree: 5700ms (mesurée sur le film)
+texte_dyu: Bi, Burukina worodugu ni tileben fan fɛ, kogojanw be bɔ yiritu kɔnɔ.
+texte_fuf: Hannde, nder worgo hirnaange Burkina, cuuɗi mawɗi ɗi kaaƴe ɗon ƴiwo diga ladde.
 
 piste: film-003
 histoire: Les ruines de Loropéni
@@ -150,6 +202,8 @@ intonation: posé (proposée)
 texte: Qui les a bâtis ? Et pourquoi ? Remontons le temps.
 genre: adulte/libre
 duree: 5500ms (mesurée sur le film)
+texte_dyu: Jɔn lo y'u lɔ? Mun na do? An k'a filɛ wagati be min na.
+texte_fuf: Mo waɗi ɗi? Ngam ɗume? Eɗen ndaara wakkati.
 
 piste: film-004
 histoire: Les ruines de Loropéni
@@ -160,6 +214,8 @@ intonation: mystérieux (scénario)
 texte: Les pierres se relèvent, une à une. La forteresse se dresse à nouveau, il y a plusieurs siècles.
 genre: adulte/libre
 duree: 7000ms (mesurée sur le film)
+texte_dyu: Ka fara o kan, kabakuruw be wili kelen kelen. O yɔrɔ barakaman lɔra kokura, san kɛmɛ caman tɛmɛnin kɔ.
+texte_fuf: Kamɓe ɗon ummii, gooto e go'oto. Duule mawɗe ɗe ɗowanteeje ɗon ummake, diga na'i ɗuɗɗi.
 
 piste: film-005
 histoire: Les ruines de Loropéni
@@ -170,6 +226,8 @@ intonation: posé (proposée)
 texte: Les Lohron ou les Koulango, ancêtres des chefs Touna, occupent le lieu. Leurs murs de latérite montent, rangée après rangée.
 genre: adulte/libre
 duree: 8000ms (mesurée sur le film)
+texte_dyu: Lohurɔnkaw, minw ye Touna kuntigiw bɛmacɛw ye, olu lo tun siginin bɛ o yɔrɔ la. O ta kogow bɛ yɛlɛnna ɲɔgɔn kan ɲɔgɔn kɔ.
+texte_fuf: Yimɓe Lohron, koo Koolango, maama'en ardiiɓe Touna njooɗi nokkuure nden. Ɗu'um e ɓaawo maɓɓe, cuuɗi mum'en ɗon njaɓɓa.
 
 piste: film-006
 histoire: Les ruines de Loropéni
@@ -180,6 +238,8 @@ intonation: ferme (scénario)
 texte: Plus haut, ce mur doit tenir des siècles !
 genre: adulte/homme
 duree: 3000ms (mesurée sur le film)
+texte_dyu: N'a sɔrɔ o kogo ka kan ka to saan kɛmɛkulu caaman kɔnɔ.
+texte_fuf: Haa dow, wallol ngol footi jaŋgugo duuɓi ujuneeje!
 
 piste: film-007
 histoire: Les ruines de Loropéni
@@ -190,6 +250,8 @@ intonation: posé (proposée)
 texte: Il protège ce que le pays a de plus précieux.
 genre: adulte/libre
 duree: 3400ms (mesurée sur le film)
+texte_dyu: A be jamana kɔnɔ fɛɛn nafamanbaw latanga.
+texte_fuf: O ɗon hisna ko leydi ndii jogori ɓurɗum daraja.
 
 piste: film-008
 histoire: Les ruines de Loropéni
@@ -200,6 +262,8 @@ intonation: posé (proposée)
 texte: L'or. On le tire de la terre et des rivières de la région.
 genre: adulte/libre
 duree: 4700ms (mesurée sur le film)
+texte_dyu: O ye sanu lo ye. U b'a sama ka bɔ o jamana yɔrɔ bɛɛ la ani bajiw kɔnɔ.
+texte_fuf: Jaŋde. Ɓe mbaɗata ɗum nder leydi ndii e nder maayoji.
 
 piste: film-009
 histoire: Les ruines de Loropéni
@@ -210,6 +274,8 @@ intonation: posé (proposée)
 texte: Les femmes lavent le gravier à la calebasse. Au fond, quelques paillettes brillent.
 genre: adulte/libre
 duree: 6100ms (mesurée sur le film)
+texte_dyu: Musow b'u ka kabakurulenninw ko. N'a sɔrɔ a be manamana.
+texte_fuf: Debbo'en ɗon laaɓta geɗal bee kaalabas. Haa ɓaawo maajum, laaɓuɗe goɗɗe ɗon cembiɗa.
 
 piste: film-010
 histoire: Les ruines de Loropéni
@@ -220,6 +286,8 @@ intonation: posé (proposée)
 texte: C'est long et dur, mais ces grains font la richesse de tout un pays.
 genre: adulte/libre
 duree: 4500ms (mesurée sur le film)
+texte_dyu: A ka jan, a ka gbɛlɛn; nka o simanw le bɛ jamana bɛɛ nafa.
+texte_fuf: Ɗu'um ɓeydi ɗuuɗugo, ammaa ɗi ɗon mari risku lesdi fuu.
 
 piste: film-011
 histoire: Les ruines de Loropéni
@@ -230,6 +298,8 @@ intonation: posé (proposée)
 texte: Dans la forteresse, les orfèvres fondent l'or et le travaillent.
 genre: adulte/libre
 duree: 4400ms (mesurée sur le film)
+texte_dyu: Dugu barakaman kɔnɔ, warigbɛtigiw bɛ sanin yeele k'a baara kɛ.
+texte_fuf: Nder berniwol mawɗo mo ummaatooje maɓɓitooɗi, yimɓe gooduɓe feyru ɓe ngaɗata kuuje ceede.
 
 piste: film-012
 histoire: Les ruines de Loropéni
@@ -240,6 +310,8 @@ intonation: posé (proposée)
 texte: Les marchands arrivent de loin. Ils échangent le sel et les étoffes contre l'or.
 genre: adulte/libre
 duree: 5600ms (mesurée sur le film)
+texte_dyu: Jagokɛlaw be nana ka bɔ yɔrɔjan. O bɛ kɔgɔ ni faniw falen sanin na.
+texte_fuf: Mawɓe jaayndiyankooɓe ɗon ngari diga naange. Kamɓe e yimɓe maɓɓe ɓe ngaddani ko'e maɓɓe, ɓe ngaɗana ɗum.
 
 piste: film-013
 histoire: Les ruines de Loropéni
@@ -250,6 +322,8 @@ intonation: fier (scénario)
 texte: Touche-le : il est pur.
 genre: âgé/libre
 duree: 2400ms (mesurée sur le film)
+texte_dyu: Aw ye maga a la, a saniyanin lo. "
+texte_fuf: To' on meemi mo, o laaɓɗo".
 
 piste: film-014
 histoire: Les ruines de Loropéni
@@ -260,6 +334,8 @@ intonation: négociateur (scénario)
 texte: Beau, mais trop cher pour moi.
 genre: adulte/homme
 duree: 2400ms (mesurée sur le film)
+texte_dyu: A ka ɲi, nka a sɔngɔ tun ka gwɛlɛ ne ma.
+texte_fuf: Ɗo'o booɗɗum, ammaa ɗum ceede masin ngam am.
 
 piste: film-015
 histoire: Les ruines de Loropéni
@@ -270,6 +346,8 @@ intonation: amusé (scénario)
 texte: Alors, plus de sel !
 genre: âgé/libre
 duree: 2800ms (mesurée sur le film)
+texte_dyu: O tuma na, kɔgɔ kana kɛ yen tugu!
+texte_fuf: Ngam maajum, naa' masin!
 
 piste: film-016
 histoire: Les ruines de Loropéni
@@ -280,6 +358,8 @@ intonation: joyeux (scénario)
 texte: Le chef reçoit l'or dans sa cour. Les tambours résonnent, et l'on danse.
 genre: adulte/libre
 duree: 6000ms (mesurée sur le film)
+texte_dyu: Kuntigi ye sanu sɔrɔ a ka lu kɔnɔ. O tuma na, an be to ka dansi.
+texte_fuf: Mawɗo'en keɓata kaŋgeeri nder suudu maako. Ɗuum woni ko ɓooyi, ɗum waɗi en njooɗi.
 
 piste: film-017
 histoire: Les ruines de Loropéni
@@ -290,6 +370,8 @@ intonation: grave (scénario)
 texte: Puis la forteresse est abandonnée. Personne ne sait vraiment pourquoi.
 genre: adulte/libre
 duree: 5200ms (mesurée sur le film)
+texte_dyu: O kɔ, u y'a to o yɔrɔ barikaman tora. Mɔgɔ si t'a lɔn fɛɛn min kama.
+texte_fuf: Nden gariiri mawndu ndu'u ɗon cembiɗina. Walaa mo anndi ngam ɗume.
 
 piste: film-018
 histoire: Les ruines de Loropéni
@@ -300,6 +382,8 @@ intonation: posé (proposée)
 texte: Peu à peu, la brousse reprend les murs, et les arbres poussent entre les pierres.
 genre: adulte/libre
 duree: 5200ms (mesurée sur le film)
+texte_dyu: Dɔɔni ni dɔɔnin, yirituw ka kogow lɔ kokura tuun; yiriw bɛ falen kabakuruw cɛ ra.
+texte_fuf: Wakkati ɓaawo ɗon, le'i ɗon cembiɗa, lekki boo ɗon maaro nder kaaƴe.
 
 piste: film-019
 histoire: Les ruines de Loropéni
@@ -310,6 +394,8 @@ intonation: posé (proposée)
 texte: En 2009, Loropéni devient le premier site du Burkina Faso inscrit au patrimoine mondial de l'UNESCO.
 genre: adulte/libre
 duree: 6900ms (mesurée sur le film)
+texte_dyu: Saan 2009 la, Loropeni kɛra Burkina Faso jamana ka yɔrɔ fɔlɔ ye min tɔgɔ lara UNESCO World Heritage site dɔ kan.
+texte_fuf: E hitaande 2009, Loropeni laati nokku arande Burkina Faso nder UNESCO.
 
 piste: film-020
 histoire: Les ruines de Loropéni
@@ -320,3 +406,5 @@ intonation: doux (scénario)
 texte: Le mystère reste entier. Mais les pierres sont toujours là.
 genre: adulte/libre
 duree: 5000ms (mesurée sur le film)
+texte_dyu: O ye gundo lo ye. Nka, kabakuruw bele be yen.
+texte_fuf: Ɗuum ɓeydaani. Ammaa kaaƴe ɗon haaje.

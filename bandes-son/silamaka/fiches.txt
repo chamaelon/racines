@@ -10,6 +10,10 @@ intonation: posé (proposée)
 texte: Silamaka, un héros peul. Et Poullori, son compagnon, à qui rien ne fait peur. Silamaka n'était encore qu'un enfant quand un serpent se dressa devant lui, dans la brousse.
 genre: adulte/homme
 duree: 12520ms (estimée)
+texte_fuf: Silamaama, laamiiɗo mawɗo. E Poullori, gooduɗo maako, mo walaa kulol. Siilaamaama o ɓeydi sukaajo nde hocci dow maako nder lekki.
+enregistre_fuf: silamaka-n1-fuf.m4a (10388ms)
+texte_mos: A Silamaka ra yaa nin-soaba. La a Poullori, a tũud-n-taagã sẽn pa yɛɛsd bũmb ye. A Silamãka ra yaa bi-bɩɩga, tɩ kiid n zĩnd a taoore weoogẽ.
+enregistre_mos: silamaka-n1-mos.m4a (12436ms)
 
 piste: n2
 histoire: Silamaka et Poullori
@@ -20,6 +24,10 @@ intonation: posé (proposée)
 texte: Il tend la main, et le serpent, au lieu de mordre, s'incline. Il devient son protecteur.
 genre: adulte/homme
 duree: 7130ms (estimée)
+texte_fuf: O ɓeydi juuɗe maako, ammaa haa o nyaami haykaliiru ndu'u. O laatoto jaɓoowo maako.
+enregistre_fuf: silamaka-n2-fuf.m4a (6506ms)
+texte_mos: A ra tara a nug n kõ-a, la gɩdgã ka sɩɩs-a ye. A lebgda a koglg soaba.
+enregistre_mos: silamaka-n2-mos.m4a (6906ms)
 
 piste: n3
 histoire: Silamaka et Poullori
@@ -30,6 +38,10 @@ intonation: posé (proposée)
 texte: Puis vient le roi de Ségou, qui exige un tribut de tous les campements. Ses envoyés arrivent, sûrs d'eux.
 genre: adulte/homme
 duree: 8120ms (estimée)
+texte_fuf: Nden laamiiɗo Ségou wari, o wi'i yimɓe fuu ɓe njaɓa ceede. Wurooɓe maako ngari, ɓe njogii.
+enregistre_fuf: silamaka-n3-fuf.m4a (7386ms)
+texte_mos: Rẽ poore, Ségou rĩmã waame n yeel tɩ b segd n yaooda kamb fãa. A tʋm-tʋmdbã waame, n kɩs sɩd ne b mensã.
+enregistre_mos: silamaka-n3-mos.m4a (8394ms)
 
 piste: n4
 histoire: Silamaka et Poullori
@@ -40,6 +52,10 @@ intonation: posé (proposée)
 texte: Le tribut. Ou l'armée de Ségou viendra le prendre.
 genre: adulte/homme
 duree: 4020ms (estimée)
+texte_fuf: Jaɓɓorgo Ganndal. Walaa boo jama'aare Ségou wari ngam hoɗugo mo.
+enregistre_fuf: silamaka-n4-fuf.m4a (4858ms)
+texte_mos: Sẽn na yɩl n paam yaoodã. Sã n ka rẽ, a Segou tãb-biisã na n waa n deeg-a lame.
+enregistre_mos: silamaka-n4-mos.m4a (5978ms)
 
 piste: n5
 histoire: Silamaka et Poullori
@@ -50,6 +66,10 @@ intonation: interrogatif (proposée)
 texte: Tout le campement se tait. On regarde Silamaka, et il te regarde. Que lui dis-tu ?
 genre: adulte/homme
 duree: 7130ms (estimée)
+texte_fuf: Yimɓe fuu ɗon suuɗa. En ɗon ndaara Silamayaama, o ɗon ndaari ma. Ko honɗun mbi'i mo?
+enregistre_fuf: silamaka-n5-fuf.m4a (6900ms)
+texte_mos: Neb nins fãa sẽn da be tãensã roogẽ wã sĩndame. D sã n get a Silamaka, a getda yãmba. Bõe la y yeel-a?
+enregistre_mos: silamaka-n5-mos.m4a (8212ms)
 
 piste: paye
 histoire: Silamaka et Poullori
@@ -60,6 +80,10 @@ intonation: interrogatif (proposée)
 texte: Tu dis cela, Poullori ? Toi ?
 genre: adulte/homme
 duree: 3410ms (estimée)
+texte_fuf: On ɗon wi'a non, Poullori? On ?
+enregistre_fuf: silamaka-paye-fuf.m4a (2906ms)
+texte_mos: Yaa woto bɩ, Poullori? Yaa yãmb laa?
+enregistre_mos: silamaka-paye-mos.m4a (2730ms)
 
 piste: n6
 histoire: Silamaka et Poullori
@@ -70,6 +94,10 @@ intonation: interrogatif (proposée)
 texte: Il te regarde encore. Tu maintiens ton conseil ?
 genre: adulte/homme
 duree: 4020ms (estimée)
+texte_fuf: O ɗon ndaara ma. On njogii gomɗinal mon?
+enregistre_fuf: silamaka-n6-fuf.m4a (3610ms)
+texte_mos: A ket n getda foom. Yãmb ket n tũuda y saglgã bɩ?
+enregistre_mos: silamaka-n6-mos.m4a (4266ms)
 
 piste: finpaye
 histoire: Silamaka et Poullori
@@ -80,6 +108,10 @@ intonation: posé (proposée)
 texte: Le campement paie. Il paiera l'an prochain aussi. Dans ce chemin imaginé, il n'y a pas d'épopée, et personne ne chante plus vos noms.
 genre: adulte/homme
 duree: 10320ms (estimée)
+texte_fuf: Kampaango ɗon ceede. O hokkata ceede hitaande toɗɗaaɗe boo. E nder laawol ngol, walaa ko waɗata yimɓe. Walaa koo moye ɓaŋganɗo innde mon.
+enregistre_fuf: silamaka-finpaye-fuf.m4a (11038ms)
+texte_mos: Zĩ-kãnga yaooda ligd wʋsgo. A na n yaooda yʋʋmd ning sẽn watã me. Yãmb sẽn na n maan bũmb ningã pʋgẽ, b pa le gomd yãmb yell ye.
+enregistre_mos: silamaka-finpaye-mos.m4a (10452ms)
 
 piste: avec
 histoire: Silamaka et Poullori
@@ -90,6 +122,10 @@ intonation: posé (proposée)
 texte: Dites à votre roi que nous ne paierons pas.
 genre: adulte/homme
 duree: 3720ms (estimée)
+texte_fuf: Yeccu laamiiɗo mon en njaɓataa ceede.
+enregistre_fuf: silamaka-avec-fuf.m4a (3072ms)
+texte_mos: Togs-y y rĩmã tɩ d pa na n yao ye.
+enregistre_mos: silamaka-avec-mos.m4a (3072ms)
 
 piste: n7
 histoire: Silamaka et Poullori
@@ -100,6 +136,10 @@ intonation: enlevé (proposée)
 texte: Les envoyés font demi-tour. Chacun sait ce qui va suivre. L'armée de Ségou arrive. En selle !
 genre: adulte/homme
 duree: 7660ms (estimée)
+texte_fuf: Wurooɓe ɓe'e ummii. Koo moye anndi ko nastata. Yimɓe Ségou ɗon wara. E nder suudu !
+enregistre_fuf: silamaka-n7-fuf.m4a (7326ms)
+texte_mos: B tʋm-tʋmdbã leb n wẽnga b poorẽ. Ned kam fãa miime tɩ b na n maana bõe. A Segou tãb-biisã watame. Yãk-y n tool-y neda!
+enregistre_mos: silamaka-n7-mos.m4a (10878ms)
 
 piste: n9
 histoire: Silamaka et Poullori
@@ -110,6 +150,10 @@ intonation: posé (proposée)
 texte: Quand un coup menace Silamaka, le serpent surgit entre vous. Personne n'ose l'approcher, et l'armée recule.
 genre: adulte/homme
 duree: 6980ms (estimée)
+texte_fuf: Nde Siilaama'a wari, haykaliiru wurtini hakkunde mooɗon. Walaa gooduɗo ɓerɗe maako, ngam maajum jama'aare maɓɓe ndilli.
+enregistre_fuf: silamaka-n9-fuf.m4a (8394ms)
+texte_mos: Y sã n wa paam sɩbgr n na n kʋ a Silamãm, bõn-vɩɩg n wat y sʋka. Ned baa a yen ka saag n kolg-a ye, t'a sodaasã lebg n basame.
+enregistre_mos: silamaka-n9-mos.m4a (9242ms)
 
 piste: n10
 histoire: Silamaka et Poullori
@@ -120,6 +164,10 @@ intonation: posé (proposée)
 texte: Le soir, les deux amis s'éloignent ensemble, dans la lumière. Certaines versions racontent une fin plus sombre. Toutes disent que Poullori ne le quitta jamais.
 genre: adulte/homme
 duree: 10700ms (estimée)
+texte_fuf: To jemma, goonɗinɓe ɗiɗo ɗon njaha nder jayngol. Baylitɗe goɗɗe mbi'i ɗum ɓeydaama. Yimɓe fuu mbi'i Poullori dillaay mo.
+enregistre_fuf: silamaka-n10-fuf.m4a (9604ms)
+texte_mos: Yĩngr wakate, b zo-rãmb a yiibã kẽnga vẽenemẽ. Bãngr-goam a taab pʋgẽ, baasg yaa toog wʋsgo. B fãa yetame t'a Poullori pa bas-a ye.
+enregistre_mos: silamaka-n10-mos.m4a (12404ms)
 
 piste: n11
 histoire: Silamaka et Poullori
@@ -130,6 +178,10 @@ intonation: enlevé (proposée)
 texte: Silamaka, fils du courage ! Poullori, fidèle ami ! Vos noms ne mourront pas, tant qu'un griot aura une voix !
 genre: adulte/homme
 duree: 9330ms (estimée)
+texte_fuf: Silamaama, ɓiɗɗo hakkiilo! Poullori, duɗal goonɗinɗo! Inɗe mon ɗon maaya, haa e woodi gooŋgaajo!
+enregistre_fuf: silamaka-n11-fuf.m4a (8708ms)
+texte_mos: A Silamaka yaa raood biiga! A Poullori, a zoa sẽn tũud sɩd! Yãmb yʋya ka na n ki ye, sã n yaa tɩ sõsg soab tara koɛɛg!
+enregistre_mos: silamaka-n11-mos.m4a (12020ms)
 
 piste: film-001
 histoire: Silamaka et Poullori
@@ -140,6 +192,8 @@ intonation: solennel (scénario)
 texte: Silamaka et Poullori. Une épopée peule, partagée avec le Mali.
 genre: adulte/libre
 duree: 6000ms (mesurée sur le film)
+texte_fuf: Silamaka e Poullori. Gooto go'o e Mali.
+texte_mos: A Silamaka ne a Poullori. B sẽn pʋɩ-b ne Mali wã, yaa yɩɩl a ye.
 
 piste: film-002
 histoire: Silamaka et Poullori
@@ -150,6 +204,8 @@ intonation: posé (proposée)
 texte: Silamaka, un héros peul. Et Poullori, son compagnon, à qui rien ne fait peur.
 genre: adulte/libre
 duree: 7000ms (mesurée sur le film)
+texte_fuf: Silamaama, laamiiɗo mawɗo. E Poullori, gooduɗo maako, mo walaa kulol.
+texte_mos: A Silamaka ra yaa nin-soaba. La a Poullori, a tũud-n-taagã sẽn pa yɛɛsd bũmb ye.
 
 piste: film-003
 histoire: Silamaka et Poullori
@@ -160,6 +216,8 @@ intonation: posé (proposée)
 texte: On ne les vit jamais l'un sans l'autre.
 genre: adulte/libre
 duree: 2800ms (mesurée sur le film)
+texte_fuf: On meeɗaa yi'ugo ɓe goɗɗum.
+texte_mos: Ned pa tõe n yã bãmb ned kam fãa sẽn ka tar a to ye.
 
 piste: film-004
 histoire: Silamaka et Poullori
@@ -170,6 +228,8 @@ intonation: posé (proposée)
 texte: Silamaka n'était encore qu'un enfant quand un serpent se dressa devant lui, dans la brousse.
 genre: adulte/libre
 duree: 5800ms (mesurée sur le film)
+texte_fuf: Siilaamaama o ɓeydi sukaajo nde hocci dow maako nder lekki.
+texte_mos: A Silamãka ra yaa bi-bɩɩga, tɩ kiid n zĩnd a taoore weoogẽ.
 
 piste: film-005
 histoire: Silamaka et Poullori
@@ -180,6 +240,8 @@ intonation: émerveillé (scénario)
 texte: Il tendit la main, et le serpent, au lieu de mordre, s'inclina.
 genre: adulte/libre
 duree: 4700ms (mesurée sur le film)
+texte_fuf: Sey o wurtini jungo maako, ammaa asama duumii.
+texte_mos: La a Zezi zẽka b nus n kõ-a, la bõn-yũudã ka namse ye.
 
 piste: film-006
 histoire: Silamaka et Poullori
@@ -190,6 +252,8 @@ intonation: posé (proposée)
 texte: Il devint son protecteur.
 genre: adulte/libre
 duree: 2700ms (mesurée sur le film)
+texte_fuf: O laatoowo maako.
+texte_mos: A lebga a koglg soaba.
 
 piste: film-007
 histoire: Silamaka et Poullori
@@ -200,6 +264,8 @@ intonation: posé (proposée)
 texte: Puis vint le roi de Ségou, qui exigeait un tribut de tous les campements.
 genre: adulte/libre
 duree: 4600ms (mesurée sur le film)
+texte_fuf: Sey laamiiɗo Segoo wari, o wurtini yimɓe fuu ceede.
+texte_mos: Dẽ poore, Segou rĩmã waame n na n kõ sodaasã fãa yaoodã.
 
 piste: film-008
 histoire: Silamaka et Poullori
@@ -210,6 +276,8 @@ intonation: tendu (scénario)
 texte: Ses envoyés arrivèrent, sûrs d'eux, et ils réclamèrent leur dû.
 genre: adulte/libre
 duree: 4500ms (mesurée sur le film)
+texte_fuf: Sey lilaaɓe maako ngari, ɓe njaɓii ko o wi'i.
+texte_mos: A tʋm-tʋmdbã waame n kɩs sɩd ne bãmbã, la b kos b sẽn segdã.
 
 piste: film-009
 histoire: Silamaka et Poullori
@@ -220,6 +288,8 @@ intonation: posé (proposée)
 texte: Tout le campement se tut, et l'on regarda Silamaka.
 genre: adulte/libre
 duree: 3900ms (mesurée sur le film)
+texte_fuf: Sey yimɓe fuu ndilli, ɓe ndaari Siilaama.
+texte_mos: La nebã fãa sĩndame n ges a Silamãma.
 
 piste: film-010
 histoire: Silamaka et Poullori
@@ -230,6 +300,8 @@ intonation: posé (proposée)
 texte: Silamaka s'avança à cheval.
 genre: adulte/libre
 duree: 3000ms (mesurée sur le film)
+texte_fuf: Silamaama ɓadake dow le'i.
+texte_mos: A Silamaka kẽnga tao-tao.
 
 piste: film-011
 histoire: Silamaka et Poullori
@@ -240,6 +312,8 @@ intonation: calme et fier (scénario)
 texte: Dites à votre roi que nous ne paierons pas.
 genre: adulte/homme
 duree: 2500ms (mesurée sur le film)
+texte_fuf: Yeccu laamiiɗo mon en njaɓataa ceede.
+texte_mos: Togs-y y rĩmã tɩ d pa na n yao ye.
 
 piste: film-012
 histoire: Silamaka et Poullori
@@ -250,6 +324,8 @@ intonation: posé (proposée)
 texte: Les envoyés firent demi-tour. Chacun savait ce qui allait suivre.
 genre: adulte/libre
 duree: 5500ms (mesurée sur le film)
+texte_fuf: Sey lilaaɓe ɓen ummii. Koo moye anndi ko wara.
+texte_mos: La tʋm-tʋmdbã lebg n lɛɛgame. B fãa ra mii bũmb ning sẽn da na n maane.
 
 piste: film-013
 histoire: Silamaka et Poullori
@@ -260,6 +336,8 @@ intonation: enlevé (scénario)
 texte: L'armée de Ségou arriva. Silamaka et Poullori la chargèrent, côte à côte.
 genre: adulte/libre
 duree: 5800ms (mesurée sur le film)
+texte_fuf: Yimɓe Ségou ngari. Silamaama e Poullori ɓe ngaddani mo, ɓe ndilli bee maako.
+texte_mos: A Segou tãb-biisã waa be. A Silamaka ne a Poullori n tall-a lame.
 
 piste: film-014
 histoire: Silamaka et Poullori
@@ -270,6 +348,8 @@ intonation: mystérieux (scénario)
 texte: Quand un coup menaça Silamaka, le serpent surgit entre eux.
 genre: adulte/libre
 duree: 4400ms (mesurée sur le film)
+texte_fuf: Nde Siilaama'en waɗi ko o wi'i, haykaliiru wari hakkunde maɓɓe.
+texte_mos: B sẽn wa n na n kʋ a Silamãma, bõn-yũudl yii b sʋka.
 
 piste: film-015
 histoire: Silamaka et Poullori
@@ -280,6 +360,8 @@ intonation: fort (scénario)
 texte: Personne n'osa l'approcher, et l'armée recula.
 genre: adulte/libre
 duree: 3700ms (mesurée sur le film)
+texte_fuf: Walaa gooduɗo ɓerɗe maɓɓe, ɓe ndilli.
+texte_mos: La ned baa a yen ka saag n kolg-a ye, tɩ sodaasã bas b poorẽ.
 
 piste: film-016
 histoire: Silamaka et Poullori
@@ -290,6 +372,8 @@ intonation: joyeux (scénario)
 texte: Silamaka était vainqueur, et Poullori toujours à ses côtés.
 genre: adulte/libre
 duree: 4500ms (mesurée sur le film)
+texte_fuf: Silamaama ɗon heɓa jaalorgal, Poullori boo ɗon haaje bee maako.
+texte_mos: A Silamaka tõoga, la a Poullori ket n bee ne-a.
 
 piste: film-017
 histoire: Silamaka et Poullori
@@ -300,6 +384,8 @@ intonation: doux (scénario)
 texte: Le soir, les deux amis s'éloignèrent ensemble, dans la lumière.
 genre: adulte/libre
 duree: 5000ms (mesurée sur le film)
+texte_fuf: Nder jemma, goonɗinɓe ɗiɗo ɓe njehi nder jayngol.
+texte_mos: Zĩ-sobendã wĩndgẽ, b zo-rãmb yii taab vẽenemẽ.
 
 piste: film-018
 histoire: Silamaka et Poullori
@@ -310,6 +396,8 @@ intonation: posé (proposée)
 texte: Certaines versions racontent une fin plus sombre. Toutes disent que Poullori ne le quitta jamais.
 genre: adulte/libre
 duree: 6300ms (mesurée sur le film)
+texte_fuf: Baylitɗe goɗɗe mbi'i ɗum ɓeydaama. Yimɓe fuu mbi'i Poullori dillaay mo.
+texte_mos: Bãngr-goam a taab pʋgẽ, baasg yaa toog wʋsgo. B fãa yetame t'a Poullori pa bas-a ye.
 
 piste: film-019
 histoire: Silamaka et Poullori
@@ -320,3 +408,5 @@ intonation: chanté (scénario)
 texte: Silamaka, fils du courage ! Poullori, fidèle ami ! Vos noms ne mourront pas, tant qu'un griot aura une voix !
 genre: griot, griotte/libre
 duree: 10300ms (mesurée sur le film)
+texte_fuf: Silamaama, ɓiɗɗo hakkiilo! Poullori, duɗal goonɗinɗo! Inɗe mon ɗon maaya, haa e woodi gooŋgaajo!
+texte_mos: A Silamaka yaa raood biiga! A Poullori, a zoa sẽn tũud sɩd! Yãmb yʋya ka na n ki ye, sã n yaa tɩ sõsg soab tara koɛɛg!

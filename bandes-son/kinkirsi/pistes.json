@@ -11,49 +11,121 @@
    "id": "titre",
    "type": "titre",
    "chemin": "titre",
-   "texte": "Les kinkirsi, génies de la brousse"
+   "texte": "Les kinkirsi, génies de la brousse",
+   "langues": {
+    "dyu": {
+     "texte": "Kinkirisiw, minw ye kungo kɔnɔ lɔnnikɛlaw ye",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Kinkirsi'en, ruuhuuji ladde",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "presentation",
    "type": "presentation",
    "chemin": "presentation",
-   "texte": "Le soir tombe et tu rentres seul par la brousse. Ce récit n'est pas une légende fixée : c'est une scène imaginée pour découvrir ce que la tradition mossi dit des kinkirsi."
+   "texte": "Le soir tombe et tu rentres seul par la brousse. Ce récit n'est pas une légende fixée : c'est une scène imaginée pour découvrir ce que la tradition mossi dit des kinkirsi.",
+   "langues": {
+    "dyu": {
+     "texte": "O kɔ, i be taga kongo kɔnɔ i kelen. O koo ma kɛ lasɔmini ye dɛ! Nka, u y'o lakali walisa k'a lɔn ko Musa ka landa b'a fɔ kinkirisiw koo la.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Nde jemma wurtata, a warti bee hoore maaɗa nder leɗɗe. Ɗuum taariika naa' ko haala gootol: ɗum hollitiiɗum ngam anndingo ko aada Mossi wi'i dow kinkirsi.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "personnages.griot.nom",
    "type": "personnage",
    "chemin": "personnages.griot.nom",
-   "texte": "Le griot"
+   "texte": "Le griot",
+   "langues": {
+    "dyu": {
+     "texte": "Le griot"
+    },
+    "fuf": {
+     "texte": "Le griot"
+    }
+   }
   },
   {
    "id": "personnages.ancienne.nom",
    "type": "personnage",
    "chemin": "personnages.ancienne.nom",
-   "texte": "L'ancienne"
+   "texte": "L'ancienne",
+   "langues": {
+    "dyu": {
+     "texte": "L'ancienne"
+    },
+    "fuf": {
+     "texte": "L'ancienne"
+    }
+   }
   },
   {
    "id": "personnages.kinkirga.nom",
    "type": "personnage",
    "chemin": "personnages.kinkirga.nom",
-   "texte": "Un kinkirga"
+   "texte": "Un kinkirga",
+   "langues": {
+    "dyu": {
+     "texte": "Un kinkirga"
+    },
+    "fuf": {
+     "texte": "Un kinkirga"
+    }
+   }
   },
   {
    "id": "personnages.enfant.nom",
    "type": "personnage",
    "chemin": "personnages.enfant.nom",
-   "texte": "L'enfant"
+   "texte": "L'enfant",
+   "langues": {
+    "dyu": {
+     "texte": "L'enfant"
+    },
+    "fuf": {
+     "texte": "L'enfant"
+    }
+   }
   },
   {
    "id": "fins.canon",
    "type": "fin",
    "chemin": "fins.canon",
-   "texte": "Tu as marché avec égards"
+   "texte": "Tu as marché avec égards",
+   "langues": {
+    "dyu": {
+     "texte": "I tun be bonya la mɔgɔw kan",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "A ɗon yaha bee hakkiilo",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "fins.hate",
    "type": "fin",
    "chemin": "fins.hate",
-   "texte": "Autre chemin : le sentier t'a égaré jusqu'au matin"
+   "texte": "Autre chemin : le sentier t'a égaré jusqu'au matin",
+   "langues": {
+    "dyu": {
+     "texte": "Foro wɛrɛ ye nin ye: sira min ka i janfa fɔ ka taga dugu gbɛ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Ɗerewol go'o: laawol woɗɗini on haa jemma",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "n1",
@@ -67,7 +139,23 @@
    "texte": "Cette scène n'est pas un récit transmis : elle est inventée pour le jeu, à partir de descriptions publiées. Une vraie légende de Kaya reste à collecter.",
    "genre": "adulte/homme",
    "duree_ms": 11160,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "O ye koo dɔ lo ye min kofɔra gafew kɔnɔ ani a kɛra sababu ye u y'o lakali. An ka ɲi k'a lɔn ko Kaya ye mɔgɔ sɔbɛ dɔ ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9770,
+     "fichier": "kinkirsi-n1-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Ɗuum hollude ɗum wonaa haala ɓeydi-ɓeydi: ko ɗum waɗetee ngam fijirde ndee, gila e tinndinooje. Fedde goonga dow Kaya haa jooni.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9684,
+     "fichier": "kinkirsi-n1-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n2",
@@ -81,7 +169,23 @@
    "texte": "Quand on quitte le village à la tombée du jour, on n'est jamais tout à fait seul en brousse. Les kinkirsi y circulent.",
    "genre": "âgée/femme",
    "duree_ms": 9490,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "N'i bɔra dugudennin na tile benna tuma min na, i t'a sɔrɔ i kelen lo kungo kɔnɔ. Kinkirisiw be taga yen.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8778,
+     "fichier": "kinkirsi-n2-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "To a wurtini gariiri nder hirnaange, a walaa go'oto nder ladde. Kinkirsi'en ɗon njahaa ton.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7226,
+     "fichier": "kinkirsi-n2-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n3",
@@ -95,7 +199,23 @@
    "texte": "Un kinkirsi, c'est quoi ?",
    "genre": "enfant/libre",
    "duree_ms": 2350,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Kinkirisi ye mun lo ye?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 1776,
+     "fichier": "kinkirsi-n3-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Ko honɗun woni kinkirsi?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 1776,
+     "fichier": "kinkirsi-n3-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n4",
@@ -109,7 +229,23 @@
    "texte": "Des génies, organisés en groupes. Chaque groupe porte le nom de son doyen. Prends ceci avant de partir.",
    "genre": "âgée/femme",
    "duree_ms": 7890,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Hakilitigi minw labɛnnin lo jɛnkuluw kɔnɔ. O jɛnkulu kelen kelen bɛɛ tɔgɔ bɔra u ka dekan dɔ tɔgɔ la. I k'o ta sani i ka taga.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9748,
+     "fichier": "kinkirsi-n4-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Goonɗinɓe goɗɗi, ɓe keewaama nder kawtal. Koo go'o nder maɓɓe ina jogii innde gorko mawɗo. Jaɓɓorgo Fedde Ɓamtaare.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9684,
+     "fichier": "kinkirsi-n4-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n5",
@@ -123,31 +259,87 @@
    "texte": "L'ancienne te tend un peu de nourriture pour la route. Que choisis-tu de garder ?",
    "genre": "adulte/homme",
    "duree_ms": 6300,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "A kɔrɔmuso be dumuni dɔɔni di i ma sira kan. I b'a fɛ ka mun le mara?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5178,
+     "fichier": "kinkirsi-n5-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Mawɗo'en ɗon hokkata ma nyaamdu dow laawol. Ko honɗun suɓataa?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4746,
+     "fichier": "kinkirsi-n5-fuf.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n5.choices.0.label",
    "type": "choix",
    "chemin": "nodes.n5.choices.0.label",
-   "texte": "Du miel et du sésame"
+   "texte": "Du miel et du sésame",
+   "langues": {
+    "dyu": {
+     "texte": "Li ni sesamu",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Fuuɗeeje e sesame",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n5.choices.0.tag",
    "type": "parcours",
    "chemin": "nodes.n5.choices.0.tag",
-   "texte": "miel et sésame"
+   "texte": "miel et sésame",
+   "langues": {
+    "dyu": {
+     "texte": "li ni sesamu",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "honey e sesame",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n5.choices.1.label",
    "type": "choix",
    "chemin": "nodes.n5.choices.1.label",
-   "texte": "Une galette de mil bien salée"
+   "texte": "Une galette de mil bien salée",
+   "langues": {
+    "dyu": {
+     "texte": "Kɛnɛkɛnɛ min ka ɲi ani kɔgɔ b'a la",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Koɗol ƴiiƴam goɗɗum",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n5.choices.1.tag",
    "type": "parcours",
    "chemin": "nodes.n5.choices.1.tag",
-   "texte": "galette salée"
+   "texte": "galette salée",
+   "langues": {
+    "dyu": {
+     "texte": "kεlεnnin",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "cukale njamndi",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "sale",
@@ -161,7 +353,23 @@
    "texte": "Comme tu veux. Mais les kinkirsi aiment ce qui est doux : le miel, le sésame, les gâteaux de haricots, l'arachide.",
    "genre": "âgée/femme",
    "duree_ms": 9180,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "I b'a fɛ. Nka fɛnɲumanw le ka di o ye, i n'a fɔ li, ani sisamu, ani rɛzɛnji ŋɔmi, ani yiriden.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7978,
+     "fichier": "kinkirsi-sale-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "No yiɗi. Ammaa kiisiraaɓe ngiɗi nyaamdu, e woodi njaru, e ɓesngu, e geɗal leɗɗe, e cukalel.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7754,
+     "fichier": "kinkirsi-sale-fuf.m4a"
+    }
+   }
   },
   {
    "id": "doux",
@@ -175,7 +383,23 @@
    "texte": "Tu as bien écouté. Ce qui est doux leur plaît : le miel, le sésame, les gâteaux de haricots, l'arachide.",
    "genre": "âgée/femme",
    "duree_ms": 8800,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "I y'i tulo malɔ koɲuman. O b'a fɛ ka simankuraw le domu: li, ani sisamu, ani ŋɔmi, ani yiriden.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8788,
+     "fichier": "kinkirsi-doux-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "On ɗon nana. Ɓe ngiɗi nyaamdu njamndi, e cembiɗirɗe, e geese, e pecce.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5850,
+     "fichier": "kinkirsi-doux-fuf.m4a"
+    }
+   }
   },
   {
    "id": "route",
@@ -189,7 +413,23 @@
    "texte": "La nuit tombe. Un petit bruit dans les herbes, et une silhouette montée sur une bête sauvage passe entre les arbres.",
    "genre": "adulte/homme",
    "duree_ms": 8730,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Suu be ɲini ka don. Sankaba dɔ mankan bɔra binw cɛ ra, kongowara dɔ yɛlɛnin bɛ tɛmɛna yiriw cɛ ma.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7466,
+     "fichier": "kinkirsi-route-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Nde jemma wara. Ɗuum woni ko ɓooyi nder leɗɗe. Ɗu'um woni bi'eteeɗo dabbaajo dow leɗɗe, o ɗon ƴiwo haa caka geese.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9332,
+     "fichier": "kinkirsi-route-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n6",
@@ -203,7 +443,23 @@
    "texte": "Qui marche si fort sur notre chemin ?",
    "genre": "voix de génie/libre",
    "duree_ms": 3340,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Jɔn le be tɛmɛ an ka sira kan ten?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2144,
+     "fichier": "kinkirsi-n6-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Moy ɗon yaha haa laawol amin?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 1952,
+     "fichier": "kinkirsi-n6-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n7",
@@ -217,31 +473,87 @@
    "texte": "Que fais-tu ?",
    "genre": "adulte/homme",
    "duree_ms": 1440,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "I be mun le kɛra?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 1280,
+     "fichier": "kinkirsi-n7-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Ko honɗun waɗata?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 1536,
+     "fichier": "kinkirsi-n7-fuf.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n7.choices.0.label",
    "type": "choix",
    "chemin": "nodes.n7.choices.0.label",
-   "texte": "Tu t'arrêtes et tu salues"
+   "texte": "Tu t'arrêtes et tu salues",
+   "langues": {
+    "dyu": {
+     "texte": "I be lɔ ka foli di",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "On ɗon dari, on ɗon mbi'a",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n7.choices.0.tag",
    "type": "parcours",
    "chemin": "nodes.n7.choices.0.tag",
-   "texte": "salutation"
+   "texte": "salutation",
+   "langues": {
+    "dyu": {
+     "texte": "ka foli kɛ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "weltaare",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n7.choices.1.label",
    "type": "choix",
    "chemin": "nodes.n7.choices.1.label",
-   "texte": "Tu cours sans te retourner"
+   "texte": "Tu cours sans te retourner",
+   "langues": {
+    "dyu": {
+     "texte": "I be boli n'i ma i ɲaa yɛlɛma",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "On ɗon ndilli, on ɗon ndaara.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n7.choices.1.tag",
    "type": "parcours",
    "chemin": "nodes.n7.choices.1.tag",
-   "texte": "fuite"
+   "texte": "fuite",
+   "langues": {
+    "dyu": {
+     "texte": "ka boli",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "fuɗugo",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "hate",
@@ -255,7 +567,23 @@
    "texte": "Tu cours, tu trébuches, tu ne reconnais plus les arbres. Le sentier tourne, et tourne encore. Tu ne retrouves le village qu'au matin.",
    "genre": "adulte/homme",
    "duree_ms": 10090,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "I bɛ bori, ka talon; i tɛ yiriw lɔn tuun. A ka sira be yɛlɛma, a be yɛlɛma tugu. I tɛ se ka dugumɔgɔw ye fɔ sɔgɔma.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9726,
+     "fichier": "kinkirsi-hate-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "On ɗon ndilli, on ɗon maɓɓa. On anndaa leɗɗe boo. Ndeke laawol ɗon tuuba, ɗon tuumba. A heɓan gariiri ndin haa subaka.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9390,
+     "fichier": "kinkirsi-hate-fuf.m4a"
+    }
+   }
   },
   {
    "id": "don",
@@ -269,7 +597,23 @@
    "texte": "Tu poses un peu de miel au pied d'un arbre, sans rien demander. La silhouette s'éloigne.",
    "genre": "adulte/homme",
    "duree_ms": 6830,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "I bɛ li dɔɔnin bla yiri jukɔrɔ, k'a sɔrɔ i ma foyi daari. O cogo la, a tun be yɛlɛma ka taga yɔrɔ wɛrɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6938,
+     "fichier": "kinkirsi-don-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "On ɗon ɗaɓɓita ko'e mooɗon nder leɗɗe, ammaa on torraako ɗe. Ɗuum ɗon ɓeyda.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6394,
+     "fichier": "kinkirsi-don-fuf.m4a"
+    }
+   }
   },
   {
    "id": "sans",
@@ -283,7 +627,23 @@
    "texte": "Tu n'as que du sel à offrir. Tu baisses les yeux, tu laisses passer, et la silhouette s'éloigne quand même.",
    "genre": "adulte/homme",
    "duree_ms": 8500,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "I ye kɔgɔ dɔrɔn le di. I bɛ i ɲa biri dugu ma, k'a to a ye tɛmɛ; nka o bɛɛ n'a ta, a tɛ foyi ɲa.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8548,
+     "fichier": "kinkirsi-sans-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Ko'e mon fuu, ko'e mooɗon ɗon nyaama. On ɗon yi'a dow, on ɗon acca, ammaa ɓandu maako ɗon yaawto.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7834,
+     "fichier": "kinkirsi-sans-fuf.m4a"
+    }
+   }
   },
   {
    "id": "jumeaux",
@@ -297,55 +657,151 @@
    "texte": "Te voilà. On dit aussi que les kinkirsi sont liés à la venue des enfants, et surtout aux jumeaux.",
    "genre": "âgée/femme",
    "duree_ms": 7970,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "A filɛ, i be yen. U y'a fɔ fana ko kinkiriziw be se ka kɛ sababu ye deenw be na.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6234,
+     "fichier": "kinkirsi-jumeaux-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Ɗon wonii. Ɓe mbiyi kadi kinkirsi'en ɗon hawti e warugo ɓikkoy, haa teeŋti e ɓeynguure.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5962,
+     "fichier": "kinkirsi-jumeaux-fuf.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n8.question",
    "type": "jeu",
    "chemin": "nodes.n8.question",
-   "texte": "Selon la tradition décrite ici, comment les jumeaux sont-ils regardés ?"
+   "texte": "Selon la tradition décrite ici, comment les jumeaux sont-ils regardés ?",
+   "langues": {
+    "dyu": {
+     "texte": "Ka kɛɲɛ ni Bibulu ka fɔta ye, u be deenw jati cogo di?",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Hol no ɗum hollitiri e nder aada ɗo, ko honɗun ɓe ndaarata ɓerɗe?",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n8.gagne",
    "type": "jeu",
    "chemin": "nodes.n8.gagne",
-   "texte": "Oui : ils passent pour proches des génies, et certains pour savoir leur parler."
+   "texte": "Oui : ils passent pour proches des génies, et certains pour savoir leur parler.",
+   "langues": {
+    "dyu": {
+     "texte": "Tiɲɛn lo ko u b'a miiri k'u ye jinɛw ka mɔgɔ sɔbɛw ye.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Goonga: Ɓe mbi'a ɓe ɓadiiɓe jinnaaɓe, woɓɓe boo mbaawataa wolwugo bee maɓɓe.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n8.perdu",
    "type": "jeu",
    "chemin": "nodes.n8.perdu",
-   "texte": "Non : on les regarde leur vie durant comme proches des génies."
+   "texte": "Non : on les regarde leur vie durant comme proches des génies.",
+   "langues": {
+    "dyu": {
+     "texte": "Ayi, an b'u jati mɔgɔ hakilitigiw ye u ka ɲɛnamaya kɔnɔ.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Aayi: nder nguurndam mum'en, a ɗon ɗaɓɓa ɓe ɓadiiɓe ruuhuuji.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n8.reponses.0.label",
    "type": "jeu",
    "chemin": "nodes.n8.reponses.0.label",
-   "texte": "Comme proches des génies, leur vie durant"
+   "texte": "Comme proches des génies, leur vie durant",
+   "langues": {
+    "dyu": {
+     "texte": "I n'a fɔ mɔgɔ minw tun ka surun u la,",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Bana ɓadiiɓe geni'en, nder nguurndam maɓɓe",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n8.reponses.1.label",
    "type": "jeu",
    "chemin": "nodes.n8.reponses.1.label",
-   "texte": "Comme les chefs du village"
+   "texte": "Comme les chefs du village",
+   "langues": {
+    "dyu": {
+     "texte": "I n'a fɔ dugu kuntigiw",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Bana ardiiɓe gariiri",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n8.reponses.2.label",
    "type": "jeu",
    "chemin": "nodes.n8.reponses.2.label",
-   "texte": "Comme des étrangers"
+   "texte": "Comme des étrangers",
+   "langues": {
+    "dyu": {
+     "texte": "I ko lonanw,",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Bana yimɓe ɓeen",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n8.tags.win",
    "type": "parcours",
    "chemin": "nodes.n8.tags.win",
-   "texte": "bonne réponse"
+   "texte": "bonne réponse",
+   "langues": {
+    "dyu": {
+     "texte": "jaabili ɲuman",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "jaabawol gooŋga",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n8.tags.lose",
    "type": "parcours",
    "chemin": "nodes.n8.tags.lose",
-   "texte": "réponse manquée"
+   "texte": "réponse manquée",
+   "langues": {
+    "dyu": {
+     "texte": "a ma jaabi",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "jaabol maayi",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "n9",
@@ -359,7 +815,23 @@
    "texte": "Le monde visible n'est pas seul : on y marche avec égards.",
    "genre": "adulte/homme",
    "duree_ms": 5010,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Nka, an be koow kɛ ni bonya ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2688,
+     "fichier": "kinkirsi-n9-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Dunyaaji ɗi ngi'eteeɓe naa' tan.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2768,
+     "fichier": "kinkirsi-n9-fuf.m4a"
+    }
+   }
   }
  ]
 }

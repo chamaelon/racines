@@ -12,67 +12,163 @@
    "id": "titre",
    "type": "titre",
    "chemin": "titre",
-   "texte": "Wuro et le masque de feuilles"
+   "texte": "Wuro et le masque de feuilles",
+   "langues": {
+    "dyu": {
+     "texte": "Wuro ni furaburu ɲagaminin",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Wuro e Maski leɗɗe",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "presentation",
    "type": "presentation",
    "chemin": "presentation",
-   "texte": "Wuro a créé la terre, puis il s'est éloigné. Les hommes se déchirent et le forgeron reste seul devant sa forge éteinte. C'est à toi de le guider jusqu'au masque de feuilles."
+   "texte": "Wuro a créé la terre, puis il s'est éloigné. Les hommes se déchirent et le forgeron reste seul devant sa forge éteinte. C'est à toi de le guider jusqu'au masque de feuilles.",
+   "langues": {
+    "dyu": {
+     "texte": "Wuro ye dugukolo dan, o kɔ, a tagara yɔrɔjan. O cɛw bɛɛ faranna ɲɔgɔn na, k'a sɔrɔ nɛgɛbaarakɛla kelen dɔrɔn le tora a ta nɛgɛbaara kɔrɔ. I ka kan k'a to a be taga ni furaburuw ye.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Wuro tagi duniyaaru, nden o dilli. Yimɓe ɓen feccitii, marɗo jawdi o jooɗii tan yeeso mayri maako. On njaara mo haa ɓandu leɗɗe.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "personnages.griot.nom",
    "type": "personnage",
    "chemin": "personnages.griot.nom",
-   "texte": "Le griot"
+   "texte": "Le griot",
+   "langues": {
+    "dyu": {
+     "texte": "Le griot"
+    },
+    "fuf": {
+     "texte": "Le griot"
+    }
+   }
   },
   {
    "id": "personnages.wuro.nom",
    "type": "personnage",
    "chemin": "personnages.wuro.nom",
-   "texte": "Wuro"
+   "texte": "Wuro",
+   "langues": {
+    "dyu": {
+     "texte": "Wuro"
+    },
+    "fuf": {
+     "texte": "Wuro"
+    }
+   }
   },
   {
    "id": "personnages.forgeron.nom",
    "type": "personnage",
    "chemin": "personnages.forgeron.nom",
-   "texte": "Le forgeron"
+   "texte": "Le forgeron",
+   "langues": {
+    "dyu": {
+     "texte": "Le forgeron"
+    },
+    "fuf": {
+     "texte": "Le forgeron"
+    }
+   }
   },
   {
    "id": "personnages.jeune.nom",
    "type": "personnage",
    "chemin": "personnages.jeune.nom",
-   "texte": "Le jeune"
+   "texte": "Le jeune",
+   "langues": {
+    "dyu": {
+     "texte": "Le jeune"
+    },
+    "fuf": {
+     "texte": "Le jeune"
+    }
+   }
   },
   {
    "id": "personnages.cultivateur.nom",
    "type": "personnage",
    "chemin": "personnages.cultivateur.nom",
-   "texte": "Le cultivateur"
+   "texte": "Le cultivateur",
+   "langues": {
+    "dyu": {
+     "texte": "Le cultivateur"
+    },
+    "fuf": {
+     "texte": "Le cultivateur"
+    }
+   }
   },
   {
    "id": "personnages.dwo.nom",
    "type": "personnage",
    "chemin": "personnages.dwo.nom",
-   "texte": "Dwo"
+   "texte": "Dwo",
+   "langues": {
+    "dyu": {
+     "texte": "Dwo"
+    },
+    "fuf": {
+     "texte": "Dwo"
+    }
+   }
   },
   {
    "id": "personnages.ancien.nom",
    "type": "personnage",
    "chemin": "personnages.ancien.nom",
-   "texte": "L'Ancien"
+   "texte": "L'Ancien",
+   "langues": {
+    "dyu": {
+     "texte": "L'Ancien"
+    },
+    "fuf": {
+     "texte": "L'Ancien"
+    }
+   }
   },
   {
    "id": "fins.canon",
    "type": "fin",
    "chemin": "fins.canon",
-   "texte": "Version du griot : le masque rend l'ordre"
+   "texte": "Version du griot : le masque rend l'ordre",
+   "langues": {
+    "dyu": {
+     "texte": "Grigot ka kumaden: masiri be koo bɛɛ labɛn",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Winndannde caggalGriot: maski hokkata darnde",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "fins.seul",
    "type": "fin",
    "chemin": "fins.seul",
-   "texte": "Autre chemin : la forge reste éteinte"
+   "texte": "Autre chemin : la forge reste éteinte",
+   "langues": {
+    "dyu": {
+     "texte": "Fɛɛrɛ wɛrɛ: Sɛnɛkɛyɔrɔ ma bɔ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Wayde feere: forge ɗon maaya",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "n1",
@@ -86,7 +182,23 @@
    "texte": "Au commencement, il n'y avait que la nuit. Puis Wuro abaissa les mains, et la terre monta. Il lança une boule de feu vers l'horizon : ce fut le soleil.",
    "genre": "adulte/homme",
    "duree_ms": 12750,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "A daminɛ na, suu dɔrɔn lo tun be yen. O kɔ, Wuro k'a boro fla majigi. Dugukolo yɛlɛnna. O kɔ, a ka tasuma cɛtigɛ k'a kɛ tere ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 12558,
+     "fichier": "wuro-masque-n1-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Fuɗɗoode, jemma tan woni. Sey Wuro maɓɓiti juuɗe maako, duniyaaru ummi. Sey o wurtini yiite dow le'i, ɗum laati naange.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9300,
+     "fichier": "wuro-masque-n1-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n2",
@@ -100,7 +212,23 @@
    "texte": "La terre est belle, mais personne ne la foule.",
    "genre": "voix solennelle/libre",
    "duree_ms": 3870,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Dugukolo ka ɲi, nka mɔgɔ si tɛ se k'a sɛnɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3376,
+     "fichier": "wuro-masque-n2-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Luttuɗum booɗɗum, ammaa walaa gooduɗo mo'o.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3648,
+     "fichier": "wuro-masque-n2-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n3",
@@ -114,31 +242,87 @@
    "texte": "Wuro modèle un tertre, et un homme en sort, massif et silencieux. Que lui donne-t-il d'abord ?",
    "genre": "adulte/homme",
    "duree_ms": 7360,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Wuro k'a ta bonba dɔ lɔ, ka mɔgɔ dɔ bɔ kɛnɛ kan. O tigi tun ye jamaba le ye, a tun jera. A be mun lo di a ma fɔlɔ?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 10388,
+     "fichier": "wuro-masque-n3-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Wuro taƴii suudu maaru, nden kam o waɗani neɗɗo mo'o, mawɗo e suuɗiiɗum. Ko ɗume o hokkata mo arande?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7210,
+     "fichier": "wuro-masque-n3-fuf.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n3.choices.0.label",
    "type": "choix",
    "chemin": "nodes.n3.choices.0.label",
-   "texte": "Le feu et l'enclume"
+   "texte": "Le feu et l'enclume",
+   "langues": {
+    "dyu": {
+     "texte": "Tasuma ni sumaya",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Yiite e yiite",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n3.choices.0.tag",
    "type": "parcours",
    "chemin": "nodes.n3.choices.0.tag",
-   "texte": "le feu reçu"
+   "texte": "le feu reçu",
+   "langues": {
+    "dyu": {
+     "texte": "tasuma min bɔra",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "yiite nde ɓe njaɓi",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n3.choices.1.label",
    "type": "choix",
    "chemin": "nodes.n3.choices.1.label",
-   "texte": "Une maison toute faite"
+   "texte": "Une maison toute faite",
+   "langues": {
+    "dyu": {
+     "texte": "So min lɔra ka ban",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Duuɗal gaɗngal",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n3.choices.1.tag",
    "type": "parcours",
    "chemin": "nodes.n3.choices.1.tag",
-   "texte": "une maison demandée"
+   "texte": "une maison demandée",
+   "langues": {
+    "dyu": {
+     "texte": "so min ɲinina",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "wuro gootol",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "maison",
@@ -152,7 +336,23 @@
    "texte": "Une maison se bâtit. Prends d'abord le feu, et le marteau.",
    "genre": "voix solennelle/libre",
    "duree_ms": 4930,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "U be boon dɔ lɔra. O kɔ, i ka tasuma ta fɔlɔ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4794,
+     "fichier": "wuro-masque-maison-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Ɓe ɗon nyiɓa wuro. Hooree kaŋko yiite, nden hooree.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3898,
+     "fichier": "wuro-masque-maison-fuf.m4a"
+    }
+   }
   },
   {
    "id": "feu",
@@ -166,7 +366,23 @@
    "texte": "L'homme frappe, et la première houe naît. Il est forgeron. Il donne une houe à chacun, le mil se lève, et Wuro s'éloigne dans le ciel. Mais sans lui, les hommes oublient vite.",
    "genre": "adulte/homme",
    "duree_ms": 14340,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "O kɔ, a ka mɔgɔ dɔ bugɔ. A ye nɛgɛba baarakɛla le ye. A bɛ mɔgɔ kelen kelen bɛɛ ta sumanikɛminan dɔ di o ma, k'a fɔ ko: \" Aw ye aw yɛrɛ bonya! \" Nka, n'o tɛ, mɔgɔw be ɲinɛ o kɔ joona.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 14664,
+     "fichier": "wuro-masque-feu-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Yimɓe ɓe'e maɓɓitoo, ɓerɗe ɗiɗaɓere ummitoto. O neɗɗo huuwoowo leɗɗe. O hokki go'oto bee go'o, ɓikkoy maako ɗon nyaami. Wuro ɗon yaha dow. Ammaa to walaa mo, worɓe ɗon ciftora.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 15864,
+     "fichier": "wuro-masque-feu-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n4",
@@ -180,7 +396,23 @@
    "texte": "Recule ta houe, ce champ est à moi !",
    "genre": "adulte/homme",
    "duree_ms": 3870,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "I ka kan k'i yɛrɛ minɛ, foro nin ye ne ta ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3872,
+     "fichier": "wuro-masque-n4-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Ndaa ko'e mon, ɗum to am!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 1696,
+     "fichier": "wuro-masque-n4-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n5",
@@ -194,7 +426,23 @@
    "texte": "Ton champ s'arrête au piquet !",
    "genre": "jeune/homme",
    "duree_ms": 2580,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "I ka foro be ban pewu!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 1744,
+     "fichier": "wuro-masque-n5-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Goomu maaɗa ɗon halki haa ɓernde!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2976,
+     "fichier": "wuro-masque-n5-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n6",
@@ -208,7 +456,23 @@
    "texte": "Un tourbillon de poussière traverse le village, arrache le toit d'un grenier. Un enfant pleure.",
    "genre": "adulte/homme",
    "duree_ms": 6450,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Sanfɔɲɔba dɔ bɛ dugu kɔnɔ, buguriba dɔ b'a ta bonw bɛɛ kunna. Deen dɔ kasira.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6010,
+     "fichier": "wuro-masque-n6-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Ɗu'um ɓeydaama nder gariiri ndin, o wurtina kaɓirɗe suudu. Ɓiɗɗo boo ɗon mboya.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6538,
+     "fichier": "wuro-masque-n6-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n7",
@@ -222,31 +486,87 @@
    "texte": "Cette nuit-là, le forgeron reste seul devant sa forge éteinte. Que fait-il ?",
    "genre": "adulte/homme",
    "duree_ms": 5690,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "O lon su fɛ, nɛgɛtigɛbɔbaga kelen le tora a ta simangbasikɛnɛ kɔrɔ. A be mun lo kɛra?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6522,
+     "fichier": "wuro-masque-n7-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Nder jemma maajum, maccuɗo jawdi jooɗoto tan yeeso mayru maako. Hol ko o waɗi?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6746,
+     "fichier": "wuro-masque-n7-fuf.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n7.choices.0.label",
    "type": "choix",
    "chemin": "nodes.n7.choices.0.label",
-   "texte": "Il appelle Wuro"
+   "texte": "Il appelle Wuro",
+   "langues": {
+    "dyu": {
+     "texte": "A be Wuro wele",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "O noddi Wuro",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n7.choices.0.tag",
    "type": "parcours",
    "chemin": "nodes.n7.choices.0.tag",
-   "texte": "Wuro appelé"
+   "texte": "Wuro appelé",
+   "langues": {
+    "dyu": {
+     "texte": "Wuro wele",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Wuro noddi",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n7.choices.1.label",
    "type": "choix",
    "chemin": "nodes.n7.choices.1.label",
-   "texte": "Il va dormir, ce n'est plus son affaire"
+   "texte": "Il va dormir, ce n'est plus son affaire",
+   "langues": {
+    "dyu": {
+     "texte": "A be taga sinɔgɔ, o tɛ a ka koo ye tugun",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "O ɗon ɗaana, ɗum walaa nder kuuɗe maako",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n7.choices.1.tag",
    "type": "parcours",
    "chemin": "nodes.n7.choices.1.tag",
-   "texte": "abandon"
+   "texte": "abandon",
+   "langues": {
+    "dyu": {
+     "texte": "k'i to yen",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "ɓeydaaki",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "dormir",
@@ -260,7 +580,23 @@
    "texte": "Le lendemain, le tourbillon revient. Puis encore le lendemain. La forge reste froide, et on ne sait plus à qui le champ appartient.",
    "genre": "adulte/homme",
    "duree_ms": 9940,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "O dugusagwɛ, fɔɲɔba segira ka na. O kɔ, o dugusagwɛ. O kɔ, u y'a fɔ a ye ko: \"I tɛ se k'a lɔn jɔn lo ye foro nin tigi ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 11310,
+     "fichier": "wuro-masque-dormir-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Nyalnde keso, hendu mawngu warti. Nden balɗe go'o. Fuuɗal ngal ɓeydi masin, nden kam aɗa anndaa gooduɗo leydi ndii.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8708,
+     "fichier": "wuro-masque-dormir-fuf.m4a"
+    }
+   }
   },
   {
    "id": "appel",
@@ -274,7 +610,23 @@
    "texte": "Wuro ! Les hommes se déchirent. Réponds-moi !",
    "genre": "adulte/homme",
    "duree_ms": 3940,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Wuro ! Cɛɛw y'a daminɛ ka fara ɲɔgɔn kan. I ka ne jaabi!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5812,
+     "fichier": "wuro-masque-appel-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Wuro ! Yimɓe ɓe'e ɗon cembiɗa. Jaabbo yam !",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4788,
+     "fichier": "wuro-masque-appel-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n8",
@@ -288,7 +640,23 @@
    "texte": "Une étoile grossit, puis glisse vers le bois sacré. Le forgeron y entre. Les feuilles du grand arbre tombent et forment un costume, surmonté d'un masque de bois.",
    "genre": "adulte/homme",
    "duree_ms": 11840,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Lolo dɔ nana bonya, o kɔ, a girinna ka taga yiri saninman kan. Mɔgɔ min be baara kɛ ni nɛgɛ ye, ale le be don. O yiriba y'a furaburu dɔ bɔ k'a kɛ fani ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 12244,
+     "fichier": "wuro-masque-n8-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Ɗimleere mawnini, ɓaawo maajum o dilli dow leɗɗe ceniiɗe. Fuujoowo'en ɗon natti. Ɗu'um waɗi leɗɗe mawɗe, ɗe maɓɓiti ngam waɗugo ɓorgo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 10308,
+     "fichier": "wuro-masque-n8-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n9",
@@ -302,7 +670,23 @@
    "texte": "Voici mon fils, Dwo. Toi, forgeron, porte-le. Va. Rends-leur l'ordre.",
    "genre": "voix solennelle/libre",
    "duree_ms": 5450,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "O ye ne dencɛ Dwo ye. E, nɛgɛbaarabaga, i k'a ta. I ka taga. I k'a fɔ u ye ko u ka taga.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8462,
+     "fichier": "wuro-masque-n9-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Kanko woni ɓiɗɗo am, Dwo. Onon maccuɗo leɗɗe, hoo'u ɗum. Ndaa. Hokka ɓe umroore.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7854,
+     "fichier": "wuro-masque-n9-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n10",
@@ -316,7 +700,23 @@
    "texte": "À l'aube, les feuilles frémissent au-dessus d'un toit. Dwo sort. Les villageois reculent. Mais l'Ancien s'avance, le reconnaît et s'incline.",
    "genre": "adulte/homme",
    "duree_ms": 9100,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Dugu gwɛra tuma na, yiriw be yɛrɛyɛrɛ boon sanfɛ. Fɛɛn fila be bɔ. Dugu mɔgɔw be tagara kɔfɛ. Nka Cɛkɔrɔba tagar'a lɔn, k'a kunbiri gwan a kɔrɔ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 13326,
+     "fichier": "wuro-masque-n10-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Nde naange wurtata, leɗɗe ɗon ɓilla dow daande. Ɗi ɗiɗaɓu. Yimɓe gariiri'en ɗon njogii. Ammaa Nyaako Mawɗo wari, o anndi mo, o sujidani.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 10110,
+     "fichier": "wuro-masque-n10-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n11",
@@ -330,37 +730,103 @@
    "texte": "Dwo danse, et tout le village frappe dans ses mains. Suis la cadence !",
    "genre": "adulte/homme",
    "duree_ms": 6070,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Dɔɔni o kɔ, dugumɔgɔw bɛɛ y'a kaan kɔrɔta. I ka kan k'o kɛ!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5530,
+     "fichier": "wuro-masque-n11-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Yimɓe ɗiɗo ɓe njooɗoto, nden gariiri fuu ɓe mbari juuɗe maako. Jaɓɓorgo Daartol!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6698,
+     "fichier": "wuro-masque-n11-fuf.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n12.consigne",
    "type": "jeu",
    "chemin": "nodes.n12.consigne",
-   "texte": "Frappe le rythme de la danse de Dwo."
+   "texte": "Frappe le rythme de la danse de Dwo.",
+   "langues": {
+    "dyu": {
+     "texte": "I ka kan k'a kɛ Dwo ka dɔnkiliw be taga ɲɔgɔn fɛ.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Ɗo'o ɓannginiri bee dental Dwo.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n12.gagne",
    "type": "jeu",
    "chemin": "nodes.n12.gagne",
-   "texte": "Le village entier suit la danse."
+   "texte": "Le village entier suit la danse.",
+   "langues": {
+    "dyu": {
+     "texte": "Dugumɔgɔw bɛɛ tun b'o dɔnkiliw lamɛnna.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Yimɓe nder wuro fuu ɗon ndaara.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n12.perdu",
    "type": "jeu",
    "chemin": "nodes.n12.perdu",
-   "texte": "Le rythme hésite, mais Dwo danse quand même."
+   "texte": "Le rythme hésite, mais Dwo danse quand même.",
+   "langues": {
+    "dyu": {
+     "texte": "N'a sɔrɔ a ka fɔta be sigasigara, nka o bɛɛ n'a ta, Dwo be dan.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Ɗuum ɗon ɓeyda, ammaa Dwo boo ɗon dansa.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n12.tags.win",
    "type": "parcours",
    "chemin": "nodes.n12.tags.win",
-   "texte": "rythme tenu"
+   "texte": "rythme tenu",
+   "langues": {
+    "dyu": {
+     "texte": "a ka kɛcogo",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "ɓeydaaki",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n12.tags.lose",
    "type": "parcours",
    "chemin": "nodes.n12.tags.lose",
-   "texte": "rythme perdu"
+   "texte": "rythme perdu",
+   "langues": {
+    "dyu": {
+     "texte": "ka to k'o kɛ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "ɓeydaaki",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "n13",
@@ -374,7 +840,23 @@
    "texte": "Il secoue ses feuilles entre les deux querelleurs. Ils baissent les bras et se serrent la main. Le tourbillon revient : Dwo lui fait face, et le tourbillon s'éteint.",
    "genre": "adulte/homme",
    "duree_ms": 12220,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "O kɔ, a y'a ka sɛbɛw yuguyugu ɲɔgɔn cɛ. U b'u bolo biri duguma ka ɲɔgɔn dɛmɛ. Sanfɔɲɔ bɛ sekɔ ka na tuun; fɔɲɔ fla bɛ o ɲa fɛ, fɔɲɔ fana bɛ ban.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 11838,
+     "fichier": "wuro-masque-n13-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "O dartini leɗɗe nder hakkunde yimɓe ɗiɗo. Ɓe njooɗi juuɗe maɓɓe, ɓe kawti. Ɓooyaaki ɓaawo maako, ɗiɗo e yeeso maako, ɓooyaani.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9476,
+     "fichier": "wuro-masque-n13-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n14",
@@ -388,7 +870,23 @@
    "texte": "Depuis ce jour, quand le désordre revient, on sort le masque de feuilles. Et là-haut, une étoile veille.",
    "genre": "adulte/homme",
    "duree_ms": 7890,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "K'a ta o lon na, n'o koo tun ma diya an ye tugun, an tun be to k'an ka furaburuw bɔ. O kɔ, lolo dɔ be sanfɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9578,
+     "fichier": "wuro-masque-n14-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Gila nden wakkati, to wuttudu fuɗɗii, yimɓe ɓeen mbaɗata huutoreeji. E dow, koode boo ɗon wara.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6970,
+     "fichier": "wuro-masque-n14-fuf.m4a"
+    }
+   }
   },
   {
    "id": "film-001",
@@ -404,7 +902,19 @@
    "texte": "Wuro et le masque de feuilles. Un mythe du pays bobo.",
    "genre": "adulte/libre",
    "duree_ms": 5000,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Wuro ni furaburu ɲagaminin. O ye jamana kumakolon dɔ lo ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Wuro e maski leɗɗe. Gooto go'o nder lesdi boowo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-002",
@@ -420,7 +930,19 @@
    "texte": "Au commencement, il n'y avait que la nuit. Puis Wuro abaissa les mains, et la terre monta.",
    "genre": "adulte/libre",
    "duree_ms": 5900,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "A daminɛ na, suu dɔrɔn lo tun be yen. O kɔ, Wuro k'a boro fla majigi. Dugukolo yɛlɛnna.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Fuɗɗoode, jemma tan woni. Sey Wuro maɓɓiti juuɗe maako, duniyaaru ummi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-003",
@@ -436,7 +958,19 @@
    "texte": "Il lança une boule de feu vers l'horizon : ce fut le soleil.",
    "genre": "adulte/libre",
    "duree_ms": 4300,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O kɔ, a ka tasuma cɛtigɛ k'a kɛ tere ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Sey o wurtini yiite dow le'i, ɗum laati naange.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-004",
@@ -452,7 +986,19 @@
    "texte": "Les arbres poussèrent d'un seul coup. Et Wuro, le Créateur, posa le pied sur sa terre neuve.",
    "genre": "adulte/libre",
    "duree_ms": 7200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O y'a to yiriw tun be falen. O kɔ, Danbaga Wuro sigira a ta dugukolo kura kan.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Leɗɗe boo ɗon ɓesda. Nden Wuro, Mawɗo, nastini duniyaaru maako kesal.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-005",
@@ -468,7 +1014,19 @@
    "texte": "La terre était belle, mais personne ne la foulait. Wuro s'accroupit et modela un tertre.",
    "genre": "adulte/libre",
    "duree_ms": 6400,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Dugukolo tun cɛ ka ɲi, nka mɔgɔ si tun tɛ se k'a dɔndɔn. Wuro y'a kunbiri gwan k'a ka boon lɔ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Luttuɗum booɗɗum, ammaa walaa gaɗoowo. Wuro ɓooyii e hoore maako, o waɗi suudu mawngu.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-006",
@@ -484,7 +1042,19 @@
    "texte": "Un homme en sortit, massif et silencieux. Il regarda ses mains, puis son Créateur.",
    "genre": "adulte/libre",
    "duree_ms": 6800,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O kɔ, cɛ dɔ bɔra o kɔnɔ ka bɔ. A y'a janto a yɛrɛ bolow la ani k'a Danbaga filɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Goɗɗo go'o wari daga nder mayre nden, mawɗo e mo suuɗii. O yi'i juuɗe maako, nden kam o yi'iri Duubaajo maako.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-007",
@@ -500,7 +1070,19 @@
    "texte": "Wuro lui donna le feu. Il fit surgir une enclume et lui tendit un marteau.",
    "genre": "adulte/libre",
    "duree_ms": 5600,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Wuro ye tasuma don a la. O kɔ, a ka dingɛ dɔ lɔ, k'a kininboro gbasi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Wuro waɗi yiite dow maako. O waɗi ko'e maɓɓaaje, o hokki mo cembal.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-008",
@@ -516,7 +1098,19 @@
    "texte": "L'homme frappa, les étincelles volèrent, et la première houe naquit. Il était forgeron.",
    "genre": "adulte/libre",
    "duree_ms": 6500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Adamaden ka mɔgɔ dɔ bugɔ; o kɔ, sanbɛrɛw wurira. Sanbɛrɛ fɔlɔ nana woro. A tun ye nɛgɛba baarakɛla ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Sey neɗɗo o'o wurtini nyaamo, nyaamdu maɓɓiti. Ɗuum waɗi nyaamo wurti. O ɗon huuwa kuuje njamndi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-009",
@@ -532,7 +1126,19 @@
    "texte": "Les maisons de banco s'élevèrent une à une. Wuro ouvrit les bras, et d'autres hommes sortirent de terre.",
    "genre": "adulte/libre",
    "duree_ms": 6800,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O boonw bɛɛ tun lɔra kelen kelen. Wuro y'a bolow dayɛlɛ, mɔgɔ wɛrɛw bɔra dugu kɔnɔ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Duuɗe bankooje ɗon ɓadake go'oto gaɗa. Wuro udditiri juuɗe maako, nden yimɓe woɗɓe ngari daga lesdi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-010",
@@ -548,7 +1154,19 @@
    "texte": "Le forgeron donna une houe à chacun. Tous cultivèrent, et le mil se leva.",
    "genre": "adulte/libre",
    "duree_ms": 5900,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Kɛrɛkɛcɛ ye dɔ di u bɛɛ kelen kelen ma. O bɛɛ ye sɛnɛ kɛ, ka siman sɔrɔ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Mawɗo jawdi hokki koo moye goɗɗum. Yimɓe fuu ɓe nganndi, ɓerɗe maɓɓe ɗon nyaamda.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-011",
@@ -564,7 +1182,19 @@
    "texte": "Content de son œuvre, Wuro les salua et s'éloigna dans le ciel.",
    "genre": "adulte/libre",
    "duree_ms": 4500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Wuro tun ninsɔndiyanin lo a ka baara kosɔn. O kɔ, a tagara sankolo la.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Wuro hawti bee kuugal maako, o welliti ɓe, o yahri dow.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-012",
@@ -580,7 +1210,19 @@
    "texte": "Mais sans Wuro, les hommes oublièrent vite.",
    "genre": "adulte/libre",
    "duree_ms": 3400,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Nka ni Wuro tun tɛ yen, mɔgɔw tun be ɲinɛ o kɔ joona.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Ammaa to walaa Wuro, yimɓe ɗon mbaadi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-013",
@@ -596,7 +1238,19 @@
    "texte": "Recule ta houe, ce champ est à moi !",
    "genre": "adulte/homme",
    "duree_ms": 3100,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "I ka kan k'i yɛrɛ minɛ, foro nin ye ne ta ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Ndaa ko'e mon, ɗum to am!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-014",
@@ -612,7 +1266,19 @@
    "texte": "Ton champ s'arrête au piquet !",
    "genre": "enfant/libre",
    "duree_ms": 2600,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "I ka foro be ban pewu!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Goomu maaɗa ɗon halki haa ɓernde!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-015",
@@ -628,7 +1294,19 @@
    "texte": "Puis un tourbillon de poussière traversa le village. Il arracha le toit d'un grenier. Un enfant pleura.",
    "genre": "adulte/libre",
    "duree_ms": 7900,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O kɔ, buguriba dɔ ye dugu lamini. O kɔ, a y'a ka boon sanfɛla bɔ. Deen dɔ kasira.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Caggal ɗuum, hayru leydi ɓeydii nder wuro ngoo. O dartini dariiɗo to suudu. Ɓiɗɗo boo ɗon mboya.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-016",
@@ -644,7 +1322,19 @@
    "texte": "Cette nuit-là, le forgeron resta seul devant sa forge éteinte.",
    "genre": "adulte/libre",
    "duree_ms": 4700,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O suu nin na, nɛgɛbaara tun tora a kelen a ka nɛgɛbaaradugu kɔrɔ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Nder jemma nde'e, maccuɗo jawdi jooɗii tan yeeso mayru maako.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-017",
@@ -660,7 +1350,19 @@
    "texte": "Wuro ! Les hommes se déchirent. Réponds-moi !",
    "genre": "adulte/homme",
    "duree_ms": 4200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Wuro ! Cɛɛw y'a daminɛ ka fara ɲɔgɔn kan. I ka ne jaabi!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Wuro ! Yimɓe ɓe'e ɗon cembiɗa. Jaabbo yam !",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-018",
@@ -676,7 +1378,19 @@
    "texte": "Une étoile grossit, puis glissa vers le bois sacré.",
    "genre": "adulte/libre",
    "duree_ms": 4000,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Lolo dɔ wurira, ka yɛlɛ yiri saninman kan.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Ɗoyre mawnini, ɓaawo maajum o dilli dow leɗɗe ceniiɗe.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-019",
@@ -692,7 +1406,19 @@
    "texte": "Le forgeron y entra. Une lumière tomba : Wuro était là.",
    "genre": "adulte/libre",
    "duree_ms": 5100,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Nɛgɛtigɛbaga donna o yɔrɔ ra. A kɛra ten, Wuro tun be yen.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Mawɗo jawdi ɗon natti. Wuro wondi ton.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-020",
@@ -708,7 +1434,19 @@
    "texte": "Wuro leva les bras vers le grand arbre. Les feuilles tombèrent et formèrent un costume, surmonté d'un masque de bois.",
    "genre": "adulte/libre",
    "duree_ms": 7500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Wuro y'a bolow kɔrɔta ka taga yiriba kɔrɔ. O yiriborow benna ka kɛ fani ye, ka fani dɔ biri a kun na.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Wuro ummi juuɗe maako haa leggal mawgal. Fuuɗeeji ɗi'e mbari, ɓe mbaɗi ɓorgo, ɗum ɓorni dow maaki.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-021",
@@ -724,7 +1462,19 @@
    "texte": "Il le toucha : c'était Dwo, son fils.",
    "genre": "adulte/libre",
    "duree_ms": 3900,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "A magara a ra; o tun ye a dencɛ Dwo le ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "O meemi mo. Kanko woni ɓiɗɗo maako Dwo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-022",
@@ -740,7 +1490,19 @@
    "texte": "Voici mon fils. Toi, forgeron, porte-le.",
    "genre": "esprit, créature : voix grave/libre",
    "duree_ms": 5100,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Ne dencɛ filɛ nin ye. E, nɛgɛbaarabaga, i k'a ta.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Kanko woni ɓiɗɗo am. Onon maccuɗo leɗɗe, hoo'u ɗum.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-023",
@@ -756,7 +1518,19 @@
    "texte": "Dwo tourna sur lui-même et redevint costume. Le forgeron le reçut dans ses bras.",
    "genre": "adulte/libre",
    "duree_ms": 6400,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Dwo y'a yɛrɛ kunbiri gwan ani a kɛra fani ye tugun. Nɛgɛtigɛbaga y'a mina a boro.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Dwo wurtini hoore maako, o fuɗɗiti ɓorgo. Fuujoowo on jaɓi mo nder juuɗe muuɗum.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-024",
@@ -772,7 +1546,19 @@
    "texte": "Va. Rends-leur l'ordre.",
    "genre": "esprit, créature : voix grave/libre",
    "duree_ms": 3400,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "I ka taga. I k'a fɔ u ye ko u ka taga.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Ndaa. Hokka ɓe umroore.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-025",
@@ -788,7 +1574,19 @@
    "texte": "Wuro remonta au ciel, et le forgeron repartit, décidé.",
    "genre": "adulte/libre",
    "duree_ms": 4700,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Wuro yɛlɛla sankolo la. O kɔ, a y'a latigɛ ka taga.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Wuro ƴetti haa asama, nden maccuɗo maɓɓiti.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-026",
@@ -804,7 +1602,19 @@
    "texte": "À l'aube, il passa derrière une case. Les feuilles frémirent au-dessus du toit.",
    "genre": "adulte/libre",
    "duree_ms": 6000,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Dugu gwɛra tuma min na, a tɛmɛna boon dɔ kɔfɛ. Yiribolow tun be yɛrɛyɛrɛla boon sanfɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Nde nyalawma fu, o yahdi to ɓaawo jaŋde. Fuuɗeeje ɗon hoosi dow daande.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-027",
@@ -820,7 +1630,19 @@
    "texte": "Dwo sortit. Les villageois reculèrent, effrayés.",
    "genre": "adulte/libre",
    "duree_ms": 5300,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "\"Dwo\" bɔra. O dugumɔgɔw siranna.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Dwo wurti. Yimɓe gariiri'en njogii, ɓe kulnii.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-028",
@@ -836,7 +1658,19 @@
    "texte": "Mais l'Ancien s'avança, reconnut le fils de Wuro et s'inclina.",
    "genre": "adulte/libre",
    "duree_ms": 4600,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Nka Cɛkɔrɔba wurira ka Wuro dencɛ lɔn, k'a kinbiri gban.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Ammaa Allah Mawɗo wari, o yi'i ɓiɗɗo Wuro nden o mawnini mo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-029",
@@ -852,7 +1686,19 @@
    "texte": "Dwo dansa, et le village frappa dans ses mains.",
    "genre": "adulte/libre",
    "duree_ms": 4000,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Dwo ye dɔn kɛ, dugumɔgɔw y'a bolow gosi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Dwo dancing, nden gariiri hokki haa juuɗe maako.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-030",
@@ -868,7 +1714,19 @@
    "texte": "Il secoua ses feuilles entre les deux querelleurs. Ils baissèrent les bras et se serrèrent la main.",
    "genre": "adulte/libre",
    "duree_ms": 6100,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O kɔ, a k'a ka furaburuw yuguyugu ɲɔgɔn cɛ. O ka o boro fla biri dugu ma, ka ɲɔgɔn dɛmɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "O wurtini leɗɗe hakkunde worɓe ɗiɗo ɓen. Ɓe njooɗi juuɗe maɓɓe, ɓe kawti.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-031",
@@ -884,7 +1742,19 @@
    "texte": "Le tourbillon revint. Dwo lui fit face, les bras ouverts, et le tourbillon s'éteignit.",
    "genre": "adulte/libre",
    "duree_ms": 7200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Sanfɔɲɔba kɔsegira. Dwo nana a ɲa, a bolow dayɛlɛra, fɔɲɔba banna.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Hoolorgal ngal fuɗɗii. Dwo hawti bee maako, juuɗe maɓɓiti, nden kam hendu mawndu on timmi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-032",
@@ -900,7 +1770,19 @@
    "texte": "Le mil sortit de terre, et tout le village dansa avec Dwo.",
    "genre": "adulte/libre",
    "duree_ms": 4600,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "A kɛra ten, mɔgɔ waga kelen bɔra dugu kɔnɔ. Dugu mɔgɔw bɛɛ tun bɛ dɔn kɛ ni Dwo ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Yimɓe nder gariiri fuu mbi'i Dwo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-033",
@@ -916,7 +1798,19 @@
    "texte": "Le soir, Dwo rentra dans le bois. Le forgeron en ressortit seul.",
    "genre": "adulte/libre",
    "duree_ms": 6200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Loon dɔ sufɛ, Dwo kɔsegira yiritu kɔnɔ. A kɛra ten, nɛgɛtigɛbɔbaga kelen le bɔra.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Nder jemma maajum Dwo wari nder leɗɗe. Gooduɗo ceede'en ɗon wurta bee hoore maako.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-034",
@@ -932,7 +1826,19 @@
    "texte": "Depuis ce jour, quand le désordre revient, on sort le masque de feuilles.",
    "genre": "adulte/libre",
    "duree_ms": 5100,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "K'a ta o lon na, n'o koo tun ma diya an ye tugun, an tun be to k'an ka furaburuw bɔ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Gila nden wakkati, to wuttudu fuɗɗii, yimɓe ɓeen mbaɗata huutoreeji.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-035",
@@ -948,7 +1854,19 @@
    "texte": "Et là-haut, une étoile veille.",
    "genre": "adulte/libre",
    "duree_ms": 2900,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O kɔ, lolo dɔ be sanfɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "E dow, koode boo ɗon wara.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   }
  ]
 }

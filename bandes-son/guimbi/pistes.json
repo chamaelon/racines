@@ -11,61 +11,149 @@
    "id": "titre",
    "type": "titre",
    "chemin": "titre",
-   "texte": "Guimbi Ouattara, la reine de Bobo"
+   "texte": "Guimbi Ouattara, la reine de Bobo",
+   "langues": {
+    "dyu": {
+     "texte": "Guimbi Ouattara, Bobo ka masamuso",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Guimbi Ouattara, laamiiɗo Bobo",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "presentation",
    "type": "presentation",
    "chemin": "presentation",
-   "texte": "À Sya, on écoute Guimbi Ouattara. Tu es l'un de ses envoyés : tu assistes à l'accueil d'un explorateur, puis à l'ultimatum de Tiéba. Tes choix changent ce que tu retiens, pas ce qui s'est passé."
+   "texte": "À Sya, on écoute Guimbi Ouattara. Tu es l'un de ses envoyés : tu assistes à l'accueil d'un explorateur, puis à l'ultimatum de Tiéba. Tes choix changent ce que tu retiens, pas ce qui s'est passé.",
+   "langues": {
+    "dyu": {
+     "texte": "Sya dugu la, an be Guimbi Ouattara lamɛnna. I ye a ta ciradenw dɔ le ye; i bɛ taga jamana yaalabaga dɔ kunbɛn, ka taga Tiba dugu lakari. I ye koo minw latigɛ, u be nɔɔ to i ka miiriyaw kan.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Haa Sya, en ɗon nana Guimbi Ouattara. On ɗonno nder lilaaɓe maako, on ɗonno haa yimɓe ɓe njaɓata nder lesdi Tiba. Hakkiilooji ɗi ngaɗata fuu waylii ko mbaɗaani, naa' ko waɗi.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "personnages.griot.nom",
    "type": "personnage",
    "chemin": "personnages.griot.nom",
-   "texte": "Le griot"
+   "texte": "Le griot",
+   "langues": {
+    "dyu": {
+     "texte": "Le griot"
+    },
+    "fuf": {
+     "texte": "Le griot"
+    }
+   }
   },
   {
    "id": "personnages.guimbi.nom",
    "type": "personnage",
    "chemin": "personnages.guimbi.nom",
-   "texte": "Guimbi Ouattara"
+   "texte": "Guimbi Ouattara",
+   "langues": {
+    "dyu": {
+     "texte": "Guimbi Ouattara"
+    },
+    "fuf": {
+     "texte": "Guimbi Ouattara"
+    }
+   }
   },
   {
    "id": "personnages.explorateur.nom",
    "type": "personnage",
    "chemin": "personnages.explorateur.nom",
-   "texte": "L'explorateur"
+   "texte": "L'explorateur",
+   "langues": {
+    "dyu": {
+     "texte": "L'explorateur"
+    },
+    "fuf": {
+     "texte": "L'explorateur"
+    }
+   }
   },
   {
    "id": "personnages.envoye.nom",
    "type": "personnage",
    "chemin": "personnages.envoye.nom",
-   "texte": "L'envoyé de Tiéba"
+   "texte": "L'envoyé de Tiéba",
+   "langues": {
+    "dyu": {
+     "texte": "L'envoyé de Tiéba"
+    },
+    "fuf": {
+     "texte": "L'envoyé de Tiéba"
+    }
+   }
   },
   {
    "id": "personnages.griotte.nom",
    "type": "personnage",
    "chemin": "personnages.griotte.nom",
-   "texte": "La griotte"
+   "texte": "La griotte",
+   "langues": {
+    "dyu": {
+     "texte": "La griotte"
+    },
+    "fuf": {
+     "texte": "La griotte"
+    }
+   }
   },
   {
    "id": "personnages.plaignant.nom",
    "type": "personnage",
    "chemin": "personnages.plaignant.nom",
-   "texte": "Le plaignant"
+   "texte": "Le plaignant",
+   "langues": {
+    "dyu": {
+     "texte": "Le plaignant"
+    },
+    "fuf": {
+     "texte": "Le plaignant"
+    }
+   }
   },
   {
    "id": "fins.canon",
    "type": "fin",
    "chemin": "fins.canon",
-   "texte": "Mémoire : celle qui a tenu tête à un roi"
+   "texte": "Mémoire : celle qui a tenu tête à un roi",
+   "langues": {
+    "dyu": {
+     "texte": "Mɔgɔ min y'a yɛrɛ di masacɛ dɔ ma",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Kuftorgal: Kanjum ɗon haɓɓa bee laamiiɗo",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "fins.oubli",
    "type": "fin",
    "chemin": "fins.oubli",
-   "texte": "Mémoire à reprendre : réécoute la griotte"
+   "texte": "Mémoire à reprendre : réécoute la griotte",
+   "langues": {
+    "dyu": {
+     "texte": "N' ka kan k'i hakili to a la ko:",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Fedde ɓeydaande: reewondirtee fawaade",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "n1",
@@ -79,7 +167,23 @@
    "texte": "Fin du dix-neuvième siècle. Sya, que l'on appelle aujourd'hui Bobo-Dioulasso. Une femme y compte plus que beaucoup d'hommes.",
    "genre": "adulte/homme",
    "duree_ms": 7890,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Saan kɛmɛkulu 19nan laban na. Sya, an b'a wele bi ko Bobo-Dioulasso. Muso kelen lo kɔrɔtanin lo o koo la ka tɛmɛ cɛɛ caaman kan.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 10596,
+     "fichier": "guimbi-n1-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Ɓaawo karnijum 19th Sya, biyeteeɗo Bobo-Dioulasso hannde. Debbo ɓuri worɓe ɗuuɗɓe.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6378,
+     "fichier": "guimbi-n1-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n2",
@@ -93,7 +197,23 @@
    "texte": "Vous partagerez ce champ, et chacun gardera sa part.",
    "genre": "adulte/femme",
    "duree_ms": 3870,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Aw ka kan k'a taran ɲɔgɔn na, mɔgɔ kelen kelen bɛɛ ye a ta yɔrɔ sɔrɔ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4272,
+     "fichier": "guimbi-n2-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "\"Onon yimɓe ɓe'e keɓan ko'e maɓɓe nder lesdi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3600,
+     "fichier": "guimbi-n2-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n3",
@@ -107,7 +227,23 @@
    "texte": "On vient la voir pour régler les disputes, et on l'écoute. Un jour, un explorateur européen arrive à Sya, épuisé.",
    "genre": "adulte/homme",
    "duree_ms": 8650,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "An b'an janto a la walisa ka bɛnbaliyakow ɲɛnabɔ ani k'a lamɛn. Loon dɔ, Erɔpikaw tun be taga Ɛsi jamana na.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9754,
+     "fichier": "guimbi-n3-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Eɗen njahi to maako ngam ɓe cuɓɓa haala maɓɓe, nden kam en keewi mo. Nder nyalnde go'o, tawtoreejo Orop wari to Sya.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8426,
+     "fichier": "guimbi-n3-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n4",
@@ -121,31 +257,87 @@
    "texte": "Tu dois lui porter ce qu'elle a ordonné. C'est l'accueil dû à un visiteur. Que lui portes-tu ?",
    "genre": "adulte/homme",
    "duree_ms": 7740,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "A ye min fɔ, i ka na n'o ye. N'i ye mɔgɔ dɔ weele ka na bɔ i ka soo, o lo b'a to i be se k'o tigi ladon. I be mun le di a ma?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 11764,
+     "fichier": "guimbi-n4-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "On njaara mo ko o wi'i. Ɗuum woni jaɓɓorgo boowo. Ko honɗun waɗi e makko?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6164,
+     "fichier": "guimbi-n4-fuf.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n4.choices.0.label",
    "type": "choix",
    "chemin": "nodes.n4.choices.0.label",
-   "texte": "De l'eau et de la cola"
+   "texte": "De l'eau et de la cola",
+   "langues": {
+    "dyu": {
+     "texte": "Jii ni kola",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "ndiyam e cola",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n4.choices.0.tag",
    "type": "parcours",
    "chemin": "nodes.n4.choices.0.tag",
-   "texte": "accueil"
+   "texte": "accueil",
+   "langues": {
+    "dyu": {
+     "texte": "ka sɔn",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "weltaare",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n4.choices.1.label",
    "type": "choix",
    "chemin": "nodes.n4.choices.1.label",
-   "texte": "Rien, c'est un inconnu"
+   "texte": "Rien, c'est un inconnu",
+   "langues": {
+    "dyu": {
+     "texte": "O tɛ foyi ye, mɔgɔ wɛrɛ lo",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Walaa, o goɗɗo mo anndaa",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n4.choices.1.tag",
    "type": "parcours",
    "chemin": "nodes.n4.choices.1.tag",
-   "texte": "hésitation"
+   "texte": "hésitation",
+   "langues": {
+    "dyu": {
+     "texte": "sigasigara",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "hakkiilo",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "rien",
@@ -159,7 +351,23 @@
    "texte": "Ici, l'étranger est sous ma protection. Porte-lui de l'eau et de la cola.",
    "genre": "adulte/femme",
    "duree_ms": 5690,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "O yɔrɔ la, n' be lonanw tanga. I ka na ni ji ni kola ye a fɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4970,
+     "fichier": "guimbi-rien-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Haa ɗo, aadiyankeejo ɗon haaje bee am. Hokka mo ndiyam e cola.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5626,
+     "fichier": "guimbi-rien-fuf.m4a"
+    }
+   }
   },
   {
    "id": "bon",
@@ -173,7 +381,23 @@
    "texte": "Madame, je vous remercie de votre accueil. J'écrirai ce que j'ai vu.",
    "genre": "adulte/homme",
    "duree_ms": 5310,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "N b'a fɛ k'aw fo kosɔbɛ. Ne ye min ye, n bena o sɛbɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4442,
+     "fichier": "guimbi-bon-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Maami, miɗo yetta on ngam jaɓɓorgo mon. Mi winnda ko mi yi'i.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4650,
+     "fichier": "guimbi-bon-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n5",
@@ -187,7 +411,23 @@
    "texte": "Mais un danger s'approche : Tiéba, le roi de Sikasso, veut étendre son pouvoir. Il envoie un émissaire au galop.",
    "genre": "adulte/homme",
    "duree_ms": 8650,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Nka, faratiba dɔ tun b'a kan: Sikasso masacɛ Teba tun be a fɛ k'a ka fanga bonya. A b'a ka lasigiden dɔ ci ka taga.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 10788,
+     "fichier": "guimbi-n5-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Ammaa halleende ɗon ɓadake: Laamiiɗo Sikasso Tieba yiɗi ɓeydude laamu maako. O wurtini goɗɗo nder gariiri.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8164,
+     "fichier": "guimbi-n5-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n6",
@@ -201,7 +441,23 @@
    "texte": "Tiéba exige ta soumission.",
    "genre": "adulte/homme",
    "duree_ms": 1820,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Tiba b'a fɛ i k'i yɛrɛ majigi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2064,
+     "fichier": "guimbi-n6-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Tieba e yiɗi a ɗowtana mo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2432,
+     "fichier": "guimbi-n6-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n7",
@@ -215,7 +471,23 @@
    "texte": "Dis à ton maître que Bobo ne plie pas.",
    "genre": "adulte/femme",
    "duree_ms": 3720,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "I k'a fɔ i kuntigi ye ko Bobo tɛ sɔn ka biri.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4032,
+     "fichier": "guimbi-n7-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Yeccu joomiraawo ma, Bobo ɗon moƴƴaay.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2688,
+     "fichier": "guimbi-n7-fuf.m4a"
+    }
+   }
   },
   {
    "id": "n8",
@@ -229,31 +501,87 @@
    "texte": "Silence dans la cour. Chacun sait ce que veut dire ce refus. Où vas-tu te placer ? Le récit, lui, restera le même.",
    "genre": "adulte/homme",
    "duree_ms": 10240,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Mɔgɔ si kana kuma kɛnɛma. Mɔgɔ bɛɛ b'a lɔn ko n'u banna, o kɔrɔ ye min ye. I bena taga yɔrɔ jumɛn? Nka, Bibulu ka maana tɛna yɛlɛma.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 12110,
+     "fichier": "guimbi-n8-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Ɗuum e nder suudu. Gooto fuu anndi ko jaɓugo ɗum firti. Toye a laato hoore ma? Ko ɗum waɗi boo, haala ma'a ɗon haa foroy.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9902,
+     "fichier": "guimbi-n8-fuf.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n8.choices.0.label",
    "type": "choix",
    "chemin": "nodes.n8.choices.0.label",
-   "texte": "Sur les murs, avec les défenseurs"
+   "texte": "Sur les murs, avec les défenseurs",
+   "langues": {
+    "dyu": {
+     "texte": "K'u to dugu laminikogow kan n'u ka lafasabagaw ye",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "E walluuji, e gollaaɓe",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n8.choices.0.tag",
    "type": "parcours",
    "chemin": "nodes.n8.choices.0.tag",
-   "texte": "sur les murs"
+   "texte": "sur les murs",
+   "langues": {
+    "dyu": {
+     "texte": "kogow kan",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "dow walls",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n8.choices.1.label",
    "type": "choix",
    "chemin": "nodes.n8.choices.1.label",
-   "texte": "Près de Guimbi, dans la cour"
+   "texte": "Près de Guimbi, dans la cour",
+   "langues": {
+    "dyu": {
+     "texte": "Guimbi gɛrɛfɛ, lukɛnɛ kɔnɔ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Haade Guimbi, nder suudu",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n8.choices.1.tag",
    "type": "parcours",
    "chemin": "nodes.n8.choices.1.tag",
-   "texte": "dans la cour"
+   "texte": "dans la cour",
+   "langues": {
+    "dyu": {
+     "texte": "kititigɛyɔrɔ la",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "nder suudu",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "murs",
@@ -267,7 +595,23 @@
    "texte": "Les cavaliers arrivent devant la ville. Depuis les murs, tu vois les flèches pleuvoir et les assauts se briser. Enfin, les cavaliers reculent.",
    "genre": "adulte/homme",
    "duree_ms": 9940,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Sotigiw tagara se dugu kɔrɔ. I bɛ biɲɛw lajigi ka bɔ kogo ra, k'a ye ko kɛrɛkɛmuruw benna. A laban, sotigiw be tagara kɔfɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 10980,
+     "fichier": "guimbi-murs-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Sooreeɓe koyɗeeji ngari yeeso gariiri. A ɗon yi'a daga nder mahol haa dow maɓɓaaji, a yi'i fiyruɗi ɗi mburtii. Ko ɗum waɗi, sooji'en ɓe ɗon hoola.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 11940,
+     "fichier": "guimbi-murs-fuf.m4a"
+    }
+   }
   },
   {
    "id": "cour",
@@ -281,7 +625,23 @@
    "texte": "Dans la cour, on entend les cris venus des murs. Les défenseurs tiennent bon, et les assauts se brisent. Enfin, les cavaliers reculent.",
    "genre": "adulte/homme",
    "duree_ms": 10090,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Mɔgɔw tun bɛ kulekanw mɛn kɛnɛma kogow kan. Mɔgɔ minw bɛ lɔ kɛrɛ kama, olugu nɔrɔnin lo; mɔgɔ minw b'a fɛ ka ben mɔgɔw kan, o tɛ se ka foyi kɛ. A laban, sotigiw be tagara kɔfɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 14622,
+     "fichier": "guimbi-cour-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "E nder suudu, ɓe nani ɓeynguure ƴiwoyɗe nder cuuɗi. Yimɓe ɗowanteeɓe ɓe'e ɗon cembiɗina, yimɓe boo ɗon nyaamata. Ko ɗum waɗi, sooji'en ɓe ɗon hoola.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 12212,
+     "fichier": "guimbi-cour-fuf.m4a"
+    }
+   }
   },
   {
    "id": "bilan",
@@ -295,55 +655,151 @@
    "texte": "Guimbi ! Celle qui a tenu tête à un roi.",
    "genre": "adulte/femme",
    "duree_ms": 4400,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Guimbi! Ale min y'a yɛrɛ di masacɛ dɔ ma.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3674,
+     "fichier": "guimbi-bilan-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "Guimbi ! O ɗon haɓɓa bee laamiiɗo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3466,
+     "fichier": "guimbi-bilan-fuf.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n9.question",
    "type": "jeu",
    "chemin": "nodes.n9.question",
-   "texte": "À quel roi Guimbi Ouattara a-t-elle tenu tête ?"
+   "texte": "À quel roi Guimbi Ouattara a-t-elle tenu tête ?",
+   "langues": {
+    "dyu": {
+     "texte": "Guimbi Ouattara ye masacɛ juman lo kɛlɛ?",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Moy laamiiɗo Guimbi Ouattara ?",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n9.gagne",
    "type": "jeu",
    "chemin": "nodes.n9.gagne",
-   "texte": "Oui : Tiéba, le roi de Sikasso. Bobo est sauve, et la ville acclame Guimbi."
+   "texte": "Oui : Tiéba, le roi de Sikasso. Bobo est sauve, et la ville acclame Guimbi.",
+   "langues": {
+    "dyu": {
+     "texte": "Ɔnhɔn: Tibe, Sikasso masacɛ. Bobo kisira ani dugumɔgɔw ye Guimbi tando.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Goonga: Tiiba, laamiiɗo Sikasso. Bobo wurtinaama, nden gariiri boo teddini Guimbi.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n9.perdu",
    "type": "jeu",
    "chemin": "nodes.n9.perdu",
-   "texte": "C'était Tiéba, le roi de Sikasso. Écoute encore la griotte."
+   "texte": "C'était Tiéba, le roi de Sikasso. Écoute encore la griotte.",
+   "langues": {
+    "dyu": {
+     "texte": "A tɔgɔ tun ye ko Tiba, min tun ye Sikasso masacɛ ye. I ka kan k'a lamɛn tugun.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Kanko woni Laaba, laamiiɗo Sikasso. Non boo, nana ko o ɗon wi'a.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n9.reponses.0.label",
    "type": "jeu",
    "chemin": "nodes.n9.reponses.0.label",
-   "texte": "Tiéba, le roi de Sikasso"
+   "texte": "Tiéba, le roi de Sikasso",
+   "langues": {
+    "dyu": {
+     "texte": "Tayiba, min tun ye Sikaso masacɛ ye",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Tebaa, laamiiɗo Sikasso",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n9.reponses.1.label",
    "type": "jeu",
    "chemin": "nodes.n9.reponses.1.label",
-   "texte": "Samory Touré"
+   "texte": "Samory Touré",
+   "langues": {
+    "dyu": {
+     "texte": "Samory Toure",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Samory Touré",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n9.reponses.2.label",
    "type": "jeu",
    "chemin": "nodes.n9.reponses.2.label",
-   "texte": "Naaba Wobgo"
+   "texte": "Naaba Wobgo",
+   "langues": {
+    "dyu": {
+     "texte": "Naaba Wobgo ka koo",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "Naaba Wobgo",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n9.tags.win",
    "type": "parcours",
    "chemin": "nodes.n9.tags.win",
-   "texte": "bonne réponse"
+   "texte": "bonne réponse",
+   "langues": {
+    "dyu": {
+     "texte": "jaabili ɲuman",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "jaabawol gooŋga",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n9.tags.lose",
    "type": "parcours",
    "chemin": "nodes.n9.tags.lose",
-   "texte": "réponse manquée"
+   "texte": "réponse manquée",
+   "langues": {
+    "dyu": {
+     "texte": "a ma jaabi",
+     "relecture": "traduction automatique, non relue"
+    },
+    "fuf": {
+     "texte": "jaabol maayi",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "relire",
@@ -357,7 +813,23 @@
    "texte": "Reviens m'écouter : un nom se garde en le répétant.",
    "genre": "adulte/femme",
    "duree_ms": 4250,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Aw ye sekɔ ka na ne lamɛn, sabu aw bɛ o tɔgɔ kelen le fɔ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4416,
+     "fichier": "guimbi-relire-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "To'o, nanammi. Goonga dow ko'e mon boɗɗum.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3626,
+     "fichier": "guimbi-relire-fuf.m4a"
+    }
+   }
   },
   {
    "id": "bien",
@@ -371,7 +843,23 @@
    "texte": "À Bobo-Dioulasso, on se souvient encore de son nom.",
    "genre": "adulte/homme",
    "duree_ms": 3870,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Bobo-Dioulasso dugu la, mɔgɔw bele b'a tɔgɔ lɔn.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4000,
+     "fichier": "guimbi-bien-dyu.m4a"
+    },
+    "fuf": {
+     "texte": "To Bobo-Dioulasso, yimɓe ɗon nji'a innde maako haa jooni.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3600,
+     "fichier": "guimbi-bien-fuf.m4a"
+    }
+   }
   },
   {
    "id": "film-001",
@@ -387,7 +875,19 @@
    "texte": "Guimbi Ouattara. Un récit historique, simplifié pour l'image.",
    "genre": "adulte/libre",
    "duree_ms": 5600,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Guimbi Ouattara. O ye tarikiko dɔ lo ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Guimbi Ouattara. Ɗuum ko haala taariika, ɗum laaɓɓi ngam hollaago.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-002",
@@ -403,7 +903,19 @@
    "texte": "Fin du dix-neuvième siècle. Sya, que l'on appelle aujourd'hui Bobo-Dioulasso.",
    "genre": "adulte/libre",
    "duree_ms": 6200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Saan kɛmɛkulu 19nan laban na. Sya, an b'a wele bi ko Bobo-Dioulasso.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Ɓaawo karnijum 19th Sya, biyeteeɗo Bobo-Dioulasso hannde.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-003",
@@ -419,7 +931,19 @@
    "texte": "Une femme y compte plus que beaucoup d'hommes : Guimbi Ouattara.",
    "genre": "adulte/libre",
    "duree_ms": 4100,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Muso kelen lo be yen ka tɛmɛ cɛɛ caaman kan: Guimbi Ouattara.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Debbo gooto ɓuri worɓe ɗuuɗɓe: Guimbi Ouattara.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-004",
@@ -435,7 +959,19 @@
    "texte": "Vous partagerez ce champ, et chacun gardera sa part.",
    "genre": "adulte/femme",
    "duree_ms": 4200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Aw ka kan k'a taran ɲɔgɔn na, mɔgɔ kelen kelen bɛɛ ye a ta yɔrɔ sɔrɔ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "\"Onon yimɓe ɓe'e keɓan ko'e maɓɓe nder lesdi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-005",
@@ -451,7 +987,19 @@
    "texte": "On vient la voir pour régler les disputes, et on l'écoute.",
    "genre": "adulte/libre",
    "duree_ms": 4100,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "An b'an janto a la walisa ka bɛnbaliyakow ɲɛnabɔ ani k'a lamɛn.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Eɗen njahi to maako ngam ɓe cuɓɓa haala maɓɓe, nden kam en keewi mo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-006",
@@ -467,7 +1015,19 @@
    "texte": "Un jour, un explorateur européen arrive à Sya, épuisé.",
    "genre": "adulte/libre",
    "duree_ms": 4700,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Loon dɔ, Erɔpikaw tun be taga Ɛsi jamana na.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Nder nyalnde go'o, tawtoreejo Orop wari to Sya.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-007",
@@ -483,7 +1043,19 @@
    "texte": "Elle lui fait porter de l'eau et de la cola : c'est l'accueil dû à un visiteur.",
    "genre": "adulte/libre",
    "duree_ms": 4700,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "A y'a fɔ a ye ko a ka na n'a ye jii ni kola ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "O hokki mo ndiyam e cola, ngam o jaɓii boowo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-008",
@@ -499,7 +1071,19 @@
    "texte": "Madame, je vous remercie de votre accueil.",
    "genre": "adulte/homme",
    "duree_ms": 3000,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "N b'a fɛ k'aw fo kosɔbɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Maami, miɗo yetta on ngam jaɓɓorgo mon.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-009",
@@ -515,7 +1099,19 @@
    "texte": "Ici, l'étranger est sous ma protection.",
    "genre": "adulte/femme",
    "duree_ms": 3500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O yɔrɔ la, n' be lonanw tanga.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Haa ɗo, aadiyankeejo ɗon haaje bee am.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-010",
@@ -531,7 +1127,19 @@
    "texte": "J'écrirai ce que j'ai vu.",
    "genre": "adulte/homme",
    "duree_ms": 2100,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Ne ye min ye, n bena o sɛbɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Mi winnda ko mi yi'i.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-011",
@@ -547,7 +1155,19 @@
    "texte": "Mais un danger s'approche. Tiéba, le roi de Sikasso, veut étendre son pouvoir.",
    "genre": "adulte/libre",
    "duree_ms": 6900,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Nka, faratiba dɔ b'an kan. Sikasɔ masacɛ Teba tun b'a fɛ ka dɔ fara a ta fanga kan.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Ammaa halleende ɗon ɓadito. Laamiiɗo Sikasso bi'eteeɗo Tieba yiɗi ɓeydaago laamu maako.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-012",
@@ -563,7 +1183,19 @@
    "texte": "Bobo se soumettra. Porte-lui mon message.",
    "genre": "adulte/homme",
    "duree_ms": 4800,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Bobo bena sɔn. A fɔ a ye n' ka kuma na.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Bobo hokkata hoore mum. Wurtina mo habaruuji am.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-013",
@@ -579,7 +1211,19 @@
    "texte": "Un émissaire part au galop.",
    "genre": "adulte/libre",
    "duree_ms": 2500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Mɔgɔ dɔ b'a fɛ k'o kɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Mawɗo wootere ɗon yahda to galop.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-014",
@@ -595,7 +1239,19 @@
    "texte": "Tiéba exige ta soumission.",
    "genre": "adulte/homme",
    "duree_ms": 2400,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Tiba b'a fɛ i k'i yɛrɛ majigi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Tieba e yiɗi a ɗowtana mo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-015",
@@ -611,7 +1267,19 @@
    "texte": "Guimbi se lève.",
    "genre": "adulte/libre",
    "duree_ms": 2200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Guimbi be wili.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Guimbi ummii.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-016",
@@ -627,7 +1295,19 @@
    "texte": "Dis à ton maître que Bobo ne plie pas.",
    "genre": "adulte/femme",
    "duree_ms": 2900,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "I k'a fɔ i kuntigi ye ko Bobo tɛ sɔn ka biri.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Yeccu joomiraawo ma, Bobo ɗon moƴƴaay.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-017",
@@ -643,7 +1323,19 @@
    "texte": "Silence dans la cour. Chacun sait ce que veut dire ce refus.",
    "genre": "adulte/libre",
    "duree_ms": 5100,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Mɔgɔ si kana kuma kɛnɛma. Mɔgɔ bɛɛ b'a lɔn ko n'u banna, o kɔrɔ ye min ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Ɗuum e nder suudu. Gooto fuu anndi ko jaɓugo ɗum firti.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-018",
@@ -659,7 +1351,19 @@
    "texte": "Les cavaliers arrivent devant la ville. Sur les murs, les défenseurs tiennent bon.",
    "genre": "adulte/libre",
    "duree_ms": 5900,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Sotigiw tagara se dugu kɔrɔ. K'u to kogow kan, u ka lafasabagaw b'u yɛrɛ tanga.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Sooreeɓe koyɗeeji ngari yeeso gariiri. Wurooɓe ɗon cembiɗina dow mahol.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-019",
@@ -675,7 +1379,19 @@
    "texte": "Les flèches pleuvent. Les assauts se brisent.",
    "genre": "adulte/libre",
    "duree_ms": 4200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Sanbɛrɛw be ben. O kama, mɔgɔ tɛ se k'a yɛrɛ minɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Fooje ɗon wara. Hakkiilo'en ɗon timmina.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-020",
@@ -691,7 +1407,19 @@
    "texte": "Enfin, les cavaliers reculent.",
    "genre": "adulte/libre",
    "duree_ms": 3200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "A laban, sotigiw be tagara kɔfɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Ko ɗum waɗi, sooji'en ɓe ɗon hoola.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-021",
@@ -707,7 +1435,19 @@
    "texte": "Bobo est sauve, et la ville acclame Guimbi.",
    "genre": "adulte/libre",
    "duree_ms": 3500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Bobo kisira ani dugumɔgɔw ye Guimbi tando.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Bobo wurtinaama, nden gariiri boo teddini Guimbi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-022",
@@ -723,7 +1463,19 @@
    "texte": "Guimbi ! Celle qui a tenu tête à un roi.",
    "genre": "griot, griotte/libre",
    "duree_ms": 4900,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Guimbi! Ale min y'a yɛrɛ di masacɛ dɔ ma.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "Guimbi ! O ɗon haɓɓa bee laamiiɗo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-023",
@@ -739,7 +1491,19 @@
    "texte": "À Bobo-Dioulasso, on se souvient encore de son nom.",
    "genre": "adulte/libre",
    "duree_ms": 4000,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Bobo-Dioulasso dugu la, mɔgɔw bele b'a tɔgɔ lɔn.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "fuf": {
+     "texte": "To Bobo-Dioulasso, yimɓe ɗon nji'a innde maako haa jooni.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   }
  ]
 }

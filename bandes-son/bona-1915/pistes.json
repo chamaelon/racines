@@ -12,61 +12,149 @@
    "id": "titre",
    "type": "titre",
    "chemin": "titre",
-   "texte": "Le soulèvement de Bona"
+   "texte": "Le soulèvement de Bona",
+   "langues": {
+    "fuf": {
+     "texte": "Bona'en ummotooɓe",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Bona kɩɩsgã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "presentation",
    "type": "presentation",
    "chemin": "presentation",
-   "texte": "1915. Le prédicateur de Datomon annonce la fin d'un pouvoir, et l'administration vient chercher des soldats. Tu suis cela depuis un village marka, jusqu'au serment de Bona. Tes choix changent ton regard, pas les faits."
+   "texte": "1915. Le prédicateur de Datomon annonce la fin d'un pouvoir, et l'administration vient chercher des soldats. Tu suis cela depuis un village marka, jusqu'au serment de Bona. Tes choix changent ton regard, pas les faits.",
+   "langues": {
+    "fuf": {
+     "texte": "1915. Goonɗinɗo Datomon anndini laamu maako timmi, nden ardiiɓe leydi ndii ngari ngam ɗaɓɓita jawdi. A laati bana non diga gariiri marki, haa e alkawal Bona. Hakkiilooji ɗi ngaɗata ɓernde ma, naa goonga.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Yʋʋmd 1915. A Datomon koe-moondã wa n togsa nebã tɩ b pa le tar naam ye, la kom-bɩɩsã waame n na n bool sodaasã. Yãmb yaa woto, tɩ sɩng ne Markã tẽn-tẽng n tãag a Bona pʋlengã. Fo sẽn yãk yam n na n maan bũmb ninsã pa kɩtd tɩ f toeem f tagsgo.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "personnages.griot.nom",
    "type": "personnage",
    "chemin": "personnages.griot.nom",
-   "texte": "Le griot"
+   "texte": "Le griot",
+   "langues": {
+    "fuf": {
+     "texte": "Le griot"
+    },
+    "mos": {
+     "texte": "Le griot"
+    }
+   }
   },
   {
    "id": "personnages.predicateur.nom",
    "type": "personnage",
    "chemin": "personnages.predicateur.nom",
-   "texte": "Le prédicateur"
+   "texte": "Le prédicateur",
+   "langues": {
+    "fuf": {
+     "texte": "Le prédicateur"
+    },
+    "mos": {
+     "texte": "Le prédicateur"
+    }
+   }
   },
   {
    "id": "personnages.chefv.nom",
    "type": "personnage",
    "chemin": "personnages.chefv.nom",
-   "texte": "Le chef"
+   "texte": "Le chef",
+   "langues": {
+    "fuf": {
+     "texte": "Le chef"
+    },
+    "mos": {
+     "texte": "Le chef"
+    }
+   }
   },
   {
    "id": "personnages.commandant.nom",
    "type": "personnage",
    "chemin": "personnages.commandant.nom",
-   "texte": "Le commandant"
+   "texte": "Le commandant",
+   "langues": {
+    "fuf": {
+     "texte": "Le commandant"
+    },
+    "mos": {
+     "texte": "Le commandant"
+    }
+   }
   },
   {
    "id": "personnages.mere.nom",
    "type": "personnage",
    "chemin": "personnages.mere.nom",
-   "texte": "Une mère"
+   "texte": "Une mère",
+   "langues": {
+    "fuf": {
+     "texte": "Une mère"
+    },
+    "mos": {
+     "texte": "Une mère"
+    }
+   }
   },
   {
    "id": "personnages.ancien.nom",
    "type": "personnage",
    "chemin": "personnages.ancien.nom",
-   "texte": "L'ancien"
+   "texte": "L'ancien",
+   "langues": {
+    "fuf": {
+     "texte": "L'ancien"
+    },
+    "mos": {
+     "texte": "L'ancien"
+    }
+   }
   },
   {
    "id": "fins.canon",
    "type": "fin",
    "chemin": "fins.canon",
-   "texte": "Mémoire : nos pères ont dit non"
+   "texte": "Mémoire : nos pères ont dit non",
+   "langues": {
+    "fuf": {
+     "texte": "Caggal ɗum: ardiiɓe men mbi'i ɓe meeɗaa",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Tẽeg-y: d yaab rãmbã yeelame tɩ pa rẽ ye",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "fins.relire",
    "type": "fin",
    "chemin": "fins.relire",
-   "texte": "Mémoire à reprendre : retourne à Bona"
+   "texte": "Mémoire à reprendre : retourne à Bona",
+   "langues": {
+    "fuf": {
+     "texte": "Gootooji ngam jaɓugo: warde Bona",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Tẽeg-y tɩ y lebg n kẽng Bona",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "n1",
@@ -80,7 +168,23 @@
    "texte": "1915. À Datomon, la mosquée se dresse au cœur du pays marka. La guerre des Blancs est loin. Mais ses exigences arrivent jusqu'ici.",
    "genre": "adulte/homme",
    "duree_ms": 10090,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "1915. Haa Datomon, juulirde nden woni nder ɓernde lesdi marka. Warugo yimɓe laamiiɓe ɓe'e ɗon haa yaasi. Ammaa ko o wi'i ɗum waɗata.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 10238,
+     "fichier": "bona-1915-n1-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Yʋʋmd 1915. Datomon wã meziizã bee Mark tẽnga pʋga. Neb nins sẽn yaa nin-tũusdsã zab n be zĩig zãra. La a sẽn datã yaa woto.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 10478,
+     "fichier": "bona-1915-n1-mos.m4a"
+    }
+   }
   },
   {
    "id": "n2",
@@ -94,7 +198,23 @@
    "texte": "Écoutez ! Un messie viendra. Le pouvoir des Blancs prendra fin.",
    "genre": "âgé/homme",
    "duree_ms": 5080,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Njaŋge ! Masiihijo ɗon wara. Laamuuji laamiiɓe ɓaleeɓe ɗon timmina.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6452,
+     "fichier": "bona-1915-n2-fuf.m4a"
+    },
+    "mos": {
+     "texte": "D kelg-y! Mesi n na n wa. Neb nins sẽn yaa nin-tũusdsã pãng na n saame.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5700,
+     "fichier": "bona-1915-n2-mos.m4a"
+    }
+   }
   },
   {
    "id": "n3",
@@ -108,31 +228,87 @@
    "texte": "Un prédicateur parle chaque jour devant la mosquée. La foule l'écoute et commence à espérer. Et toi, tu restes l'écouter, ou tu vas voir ce qui se passe plus loin ?",
    "genre": "adulte/homme",
    "duree_ms": 12980,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Mawɗo diina ɗon wolwana yeeso juulirde fuu. Yimɓe ɗon nana ko o wi'i, ɓe ngaɗi tammunde. On ɗon nana ko o wi'i, malla on ɗon ngi'a ko waɗata?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 11364,
+     "fichier": "bona-1915-n3-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Koe-moond a yembr gomda daar fãa meziizã taoore. Nebã sẽn kelgd-a wã, b tẽedame t'a Zeova na n sõng-b lame. Yãmb ket n kelgd-a lame, wall y na n gesa bũmb ning sẽn watã?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 13700,
+     "fichier": "bona-1915-n3-mos.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n3.choices.0.label",
    "type": "choix",
    "chemin": "nodes.n3.choices.0.label",
-   "texte": "Tu restes écouter la foule"
+   "texte": "Tu restes écouter la foule",
+   "langues": {
+    "fuf": {
+     "texte": "On ɗon nana yimɓe",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Fo ket n kelgdame",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n3.choices.0.tag",
    "type": "parcours",
    "chemin": "nodes.n3.choices.0.tag",
-   "texte": "parmi la foule"
+   "texte": "parmi la foule",
+   "langues": {
+    "fuf": {
+     "texte": "nder yimɓe",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "neb kʋʋngã sʋka",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n3.choices.1.label",
    "type": "choix",
    "chemin": "nodes.n3.choices.1.label",
-   "texte": "Tu vas au village, où l'on parle de recrutement"
+   "texte": "Tu vas au village, où l'on parle de recrutement",
+   "langues": {
+    "fuf": {
+     "texte": "On njahi nder gariiri, ɓe ɗon mbi'a ɗum hawrugo yimɓe",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Yãmb kẽngda tẽn-tẽnga, tɩ b gomd neb nins sẽn na n paam lisgã yelle.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n3.choices.1.tag",
    "type": "parcours",
    "chemin": "nodes.n3.choices.1.tag",
-   "texte": "vers le village"
+   "texte": "vers le village",
+   "langues": {
+    "fuf": {
+     "texte": "haa gariiri",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "ne tẽn-gãaga",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "foule",
@@ -146,7 +322,23 @@
    "texte": "« Quand viendra-t-il ? Dis-nous quand ! » Tout le monde veut une date. Puis une autre nouvelle arrive : on recrute.",
    "genre": "adulte/homme",
    "duree_ms": 9710,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Ndeye o wari? Winen en wakkati! Yimɓe fuu ɓe ngiɗi yahugo. Ɓaawo ɗuum, goɗɗum ɓeydi-ɓeydi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7918,
+     "fichier": "bona-1915-foule-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Wakat bʋg la a na n wa? Wilg-y tõnd wakat ninga! Ned kam fãa rat n paama kibay. Rẽ poore, koe-moond a ye n wa: b rɩkda neb nins b sẽn na n tʋmã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 12120,
+     "fichier": "bona-1915-foule-mos.m4a"
+    }
+   }
   },
   {
    "id": "recrut",
@@ -160,7 +352,23 @@
    "texte": "Ils partiront. Ce sont les ordres.",
    "genre": "adulte/homme",
    "duree_ms": 2880,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Ɓe ndilli. Ɗuum woni umrooje.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2746,
+     "fichier": "bona-1915-recrut-fuf.m4a"
+    },
+    "mos": {
+     "texte": "B na n loogame. Yaa noor-dãmbã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2842,
+     "fichier": "bona-1915-recrut-mos.m4a"
+    }
+   }
   },
   {
    "id": "n4",
@@ -174,7 +382,23 @@
    "texte": "Nos fils sont nos bras pour les champs.",
    "genre": "âgé/homme",
    "duree_ms": 3340,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Ɓiɓɓe meeɗen ngoni juuɗe amin ngam gese.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2832,
+     "fichier": "bona-1915-n4-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Tõnd kom-bõonegã yaa tõnd pãng pʋʋgẽ wã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3536,
+     "fichier": "bona-1915-n4-mos.m4a"
+    }
+   }
   },
   {
    "id": "n5",
@@ -188,7 +412,23 @@
    "texte": "Les gardes emmènent les jeunes hommes. Les mères pleurent au bord du chemin.",
    "genre": "adulte/homme",
    "duree_ms": 5540,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Gardiiɓe ɗon njahaa suka'en. Mammadu'en ɗon ngi'a haa laawol.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4554,
+     "fichier": "bona-1915-n5-fuf.m4a"
+    },
+    "mos": {
+     "texte": "B gũuda bi-bɩɩsã tɩ b kẽng be. Ma-rãmbã yãbda sorã noore.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5450,
+     "fichier": "bona-1915-n5-mos.m4a"
+    }
+   }
   },
   {
    "id": "n6",
@@ -202,7 +442,23 @@
    "texte": "Une nuit, à Bona, les anciens se réunissent autour de l'autel. Ils tendent la main au-dessus de lui, et ils font serment.",
    "genre": "adulte/homme",
    "duree_ms": 9410,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Wakkati go'oto nder jemma, mawɓe Yahuudu'en mooɓti haa nokkuure ceniinde. Ɓe mbelti juuɗe maɓɓe dow maako, ɓe njokki alkawal.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9386,
+     "fichier": "bona-1915-n6-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Daar a ye yʋngo, kãsem dãmbã tigma taab n gũbg tẽn-kugrã. La b zẽka b nus n wẽen ne bãmba.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9770,
+     "fichier": "bona-1915-n6-mos.m4a"
+    }
+   }
   },
   {
    "id": "n7",
@@ -216,37 +472,103 @@
    "texte": "Dans le noir, les tambours de guerre commencent à parler. Écoute.",
    "genre": "adulte/homme",
    "duree_ms": 4930,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Nder nyiwre, ɓooyi konu fuɗɗi wolwugo. Njaŋge.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3866,
+     "fichier": "bona-1915-n7-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Zĩigã pʋgẽ, tãmb nins sẽn zabd ne zabrã sɩngame n gomda. Dɩlla kelg-y.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6730,
+     "fichier": "bona-1915-n7-mos.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n8.consigne",
    "type": "jeu",
    "chemin": "nodes.n8.consigne",
-   "texte": "Reproduis le rythme des tambours de guerre de Bona."
+   "texte": "Reproduis le rythme des tambours de guerre de Bona.",
+   "langues": {
+    "fuf": {
+     "texte": "Hono non boo, ngaɗee ko ɓe mbi'i Bana.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Maan-y wa b sẽn da boond tɩ Bona wã.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n8.gagne",
    "type": "jeu",
    "chemin": "nodes.n8.gagne",
-   "texte": "Les tambours portent la nouvelle dans la nuit."
+   "texte": "Les tambours portent la nouvelle dans la nuit.",
+   "langues": {
+    "fuf": {
+     "texte": "Dimbol ɗon hokkata bolle nder jemma.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Zĩ-kãsems nins b sẽn boond tɩ bobã tara koe-moonegã yʋngo.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n8.perdu",
    "type": "jeu",
    "chemin": "nodes.n8.perdu",
-   "texte": "Le rythme se cherche, mais les tambours continuent."
+   "texte": "Le rythme se cherche, mais les tambours continuent.",
+   "langues": {
+    "fuf": {
+     "texte": "Ɗu'um ɗon ɗaɓɓa ko o yiɗi, ammaa ɓooyi ɗon tokki.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "D sã n bao d sẽn tõe n maan to-to wã, d ket n nongdame.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n8.tags.win",
    "type": "parcours",
    "chemin": "nodes.n8.tags.win",
-   "texte": "rythme tenu"
+   "texte": "rythme tenu",
+   "langues": {
+    "fuf": {
+     "texte": "ɓeydaaki",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "b sẽn maand to-to wã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n8.tags.lose",
    "type": "parcours",
    "chemin": "nodes.n8.tags.lose",
-   "texte": "rythme perdu"
+   "texte": "rythme perdu",
+   "langues": {
+    "fuf": {
+     "texte": "ɓeydaaki",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "b sẽn wa n paame",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "n9",
@@ -260,37 +582,103 @@
    "texte": "Le 17 novembre 1915, l'insurrection éclate à Bona. Les flèches répondent aux fusils, derrière le muret de banco, et la colonne recule. La nouvelle court de village en village, et des cavaliers portent le message.",
    "genre": "adulte/homme",
    "duree_ms": 14800,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Ko ñalnde 17 Noofambar 1915, feccere fuɗɗii e Bona. Fooje ɗon kaɓɓi pucci, ɓaawo mahol bankooji, nden kolonna'en ɗon hoosi. Ko'e maɓɓe ɓe ndilli haa wuro go'o, ɓe mbi'i: \"Ndaa!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 14046,
+     "fichier": "bona-1915-n9-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Yʋʋmd 1915, noob kiuug rasem 17 wã, kɩɩsgã yikame. B sẽn da wa n zabd ne bugumã, b ra yaa tãb-biisi. Zĩ-kãsems n moond koe-noogã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 10692,
+     "fichier": "bona-1915-n9-mos.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n10.consigne",
    "type": "jeu",
    "chemin": "nodes.n10.consigne",
-   "texte": "Porte le message ! Tape vite sur ESPACE ou sur l'écran pour galoper de village en village."
+   "texte": "Porte le message ! Tape vite sur ESPACE ou sur l'écran pour galoper de village en village.",
+   "langues": {
+    "fuf": {
+     "texte": "Jaɓɓorgo Fuuta! Tappi SPACE bee saffugo malla dow laabi ngam yahrugo diga gariiri haa gariiri",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Tall-y sõn-kãnga! Yãk-y ESPACE bɩ y ges-a tao-tao, n na n kẽng tẽn-tẽnga.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n10.gagne",
    "type": "jeu",
    "chemin": "nodes.n10.gagne",
-   "texte": "Le message est passé."
+   "texte": "Le message est passé.",
+   "langues": {
+    "fuf": {
+     "texte": "Ɗuum woni ko mbinndi.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Zĩ-kãnga loogame.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n10.perdu",
    "type": "jeu",
    "chemin": "nodes.n10.perdu",
-   "texte": "D'autres cavaliers prennent le relais."
+   "texte": "D'autres cavaliers prennent le relais.",
+   "langues": {
+    "fuf": {
+     "texte": "Yimɓe woɗɓe ɗon njooɗoto.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Neb a taab sẽn zãmbd so-pakrã rɩka sorã.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n10.tags.win",
    "type": "parcours",
    "chemin": "nodes.n10.tags.win",
-   "texte": "course gagnée"
+   "texte": "course gagnée",
+   "langues": {
+    "fuf": {
+     "texte": "ɓeydaaki",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "zoees sẽn paamã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n10.tags.lose",
    "type": "parcours",
    "chemin": "nodes.n10.tags.lose",
-   "texte": "course perdue"
+   "texte": "course perdue",
+   "langues": {
+    "fuf": {
+     "texte": "ɓeydaaki",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "zoees ning b sẽn sãamã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "n11",
@@ -304,7 +692,23 @@
    "texte": "Le soulèvement s'étend aux villages marka et bwa. Mais en 1916, la révolte est réprimée. À Bona, il ne reste que des ruines. Le pays a payé très cher ce refus.",
    "genre": "adulte/homme",
    "duree_ms": 13280,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Yimɓe ummotooɓe ɓe'e ɓadake haa gure marka e bwa. Ammaa nder hitaande 1916, yimɓe ɓe'e ummii. Haa Bona, laana tan woni. Luttuɓe leydi ndii mbaɗi ceede masin.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 12846,
+     "fichier": "bona-1915-n11-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Tʋʋm-kãsems nins b sẽn maan n wilg tɩ b yaa nin-tɩrsã yĩnga, b kɩtame t'a Zeova raabã pidsi. La yʋʋmd 1916 wã, b tõdg-a lame. Bãng-y tɩ sã n wa be Bona, bũmb a ye bal n ketẽ. Tẽngã sã n da pa sak n deeg b sẽn kõ-a wã, a ra baooda ligd wʋsgo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 18734,
+     "fichier": "bona-1915-n11-mos.m4a"
+    }
+   }
   },
   {
    "id": "n12",
@@ -318,55 +722,151 @@
    "texte": "Nos pères ont dit non.",
    "genre": "adulte/homme",
    "duree_ms": 2200,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Baabiraaɓe meeɗen mbi'i ɓe mbaawataa.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3408,
+     "fichier": "bona-1915-n12-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Tõnd ba-rãmbã yeelame tɩ pa rẽ ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2368,
+     "fichier": "bona-1915-n12-mos.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n13.question",
    "type": "jeu",
    "chemin": "nodes.n13.question",
-   "texte": "À quelle date l'insurrection éclate-t-elle à Bona ?"
+   "texte": "À quelle date l'insurrection éclate-t-elle à Bona ?",
+   "langues": {
+    "fuf": {
+     "texte": "Ndee sahaa nde feccere fuɗɗii e Bona?",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Wakat bʋg la b sẽn wa n zabd ne Bona wã sɩngame?",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n13.gagne",
    "type": "jeu",
    "chemin": "nodes.n13.gagne",
-   "texte": "Oui, le 17 novembre 1915."
+   "texte": "Oui, le 17 novembre 1915.",
+   "langues": {
+    "fuf": {
+     "texte": "Haa, ñalnde 17 Noofambar 1915.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "N-ye, yʋʋmd 1915 novanm rasem 17 wã.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n13.perdu",
    "type": "jeu",
    "chemin": "nodes.n13.perdu",
-   "texte": "C'était le 17 novembre 1915."
+   "texte": "C'était le 17 novembre 1915.",
+   "langues": {
+    "fuf": {
+     "texte": "Ɗum waɗi ko ñalnde 17 Noofambar 1915.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Yaa yʋʋmd 1915 novanm kiuug rasem 17 wã.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n13.reponses.0.label",
    "type": "jeu",
    "chemin": "nodes.n13.reponses.0.label",
-   "texte": "Le 17 novembre 1915"
+   "texte": "Le 17 novembre 1915",
+   "langues": {
+    "fuf": {
+     "texte": "Nyannde 17 Noofambar 1915",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Yʋʋmd 1915 novanm kiuug rasem 17",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n13.reponses.1.label",
    "type": "jeu",
    "chemin": "nodes.n13.reponses.1.label",
-   "texte": "Le 5 août 1960"
+   "texte": "Le 5 août 1960",
+   "langues": {
+    "fuf": {
+     "texte": "Nyannde 5 noowammbar 1960",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Yʋʋmd 1960 August rasem 5",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n13.reponses.2.label",
    "type": "jeu",
    "chemin": "nodes.n13.reponses.2.label",
-   "texte": "Le 1er janvier 1916"
+   "texte": "Le 1er janvier 1916",
+   "langues": {
+    "fuf": {
+     "texte": "1 lewru janvier 1916",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Yʋʋmd 1916 yʋʋm-vẽkr kiuug rasem a 1",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n13.tags.win",
    "type": "parcours",
    "chemin": "nodes.n13.tags.win",
-   "texte": "bonne réponse"
+   "texte": "bonne réponse",
+   "langues": {
+    "fuf": {
+     "texte": "jaabawol gooŋga",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "leokr sẽn yaa sõma",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n13.tags.lose",
    "type": "parcours",
    "chemin": "nodes.n13.tags.lose",
-   "texte": "réponse manquée"
+   "texte": "réponse manquée",
+   "langues": {
+    "fuf": {
+     "texte": "jaabol maayi",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "sẽn pa leokã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "relire",
@@ -380,7 +880,23 @@
    "texte": "Reviens à Bona. Une date se garde comme un serment.",
    "genre": "adulte/homme",
    "duree_ms": 4400,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Wota to Bona. Nyalnde ɗon haalde bana alkawal.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3514,
+     "fichier": "bona-1915-relire-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Bas-y n wa tɩ Bona nengẽ. D sã n dat kibayã, yaa wa d wẽename.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5930,
+     "fichier": "bona-1915-relire-mos.m4a"
+    }
+   }
   },
   {
    "id": "bien",
@@ -394,7 +910,23 @@
    "texte": "Ne l'oublions pas.",
    "genre": "adulte/homme",
    "duree_ms": 1440,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Ngam en meeɗaay yi'ugo ɗum.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2336,
+     "fichier": "bona-1915-bien-fuf.m4a"
+    },
+    "mos": {
+     "texte": "D pa segd n yĩm-a ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 1296,
+     "fichier": "bona-1915-bien-mos.m4a"
+    }
+   }
   },
   {
    "id": "film-001",
@@ -410,7 +942,19 @@
    "texte": "Le soulèvement de Bona. Un récit du pays marka, simplifié pour l'image.",
    "genre": "adulte/libre",
    "duree_ms": 6200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Hakkillo Bona. Haala lesdi marka, ɗum laaɓɓi ngam hollaago.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A Bona kɩɩsgã. Yaa marka tẽnga kibar sẽn yɩll n sõng ned t'a bãnge.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-002",
@@ -426,7 +970,19 @@
    "texte": "1915. À Datomon, la mosquée se dresse au cœur du pays marka.",
    "genre": "adulte/libre",
    "duree_ms": 5200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "1915. Haa Datomon, juulirde nden woni nder ɓernde lesdi marka.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Yʋʋmd 1915. Datomon wã meziizã bee Mark tẽnga pʋga.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-003",
@@ -442,7 +998,19 @@
    "texte": "La guerre des Blancs est loin. Mais ses exigences arrivent jusqu'ici.",
    "genre": "adulte/libre",
    "duree_ms": 5100,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Warugo yimɓe laamiiɓe ɓe'e ɗon haa yaasi. Ammaa ko o wi'i ɗum waɗata.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Neb nins sẽn yaa nin-tũusdsã zab n be zĩig zãra. La a sẽn datã yaa woto.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-004",
@@ -458,7 +1026,19 @@
    "texte": "Écoutez ! Un messie viendra. Le pouvoir des Blancs prendra fin.",
    "genre": "âgé/libre",
    "duree_ms": 6300,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Njaŋge ! Masiihijo ɗon wara. Laamuuji laamiiɓe ɓaleeɓe ɗon timmina.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "D kelg-y! Mesi n na n wa. Neb nins sẽn yaa nin-tũusdsã pãng na n saame.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-005",
@@ -474,7 +1054,19 @@
    "texte": "Un prédicateur parle chaque jour devant la mosquée. La foule l'écoute et commence à espérer.",
    "genre": "adulte/libre",
    "duree_ms": 6400,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Mawɗo diina ɗon wolwana yeeso juulirde fuu. Yimɓe ɗon nana ko o wi'i, ɓe ngaɗi tammunde.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Koe-moond a yembr gomda daar fãa meziizã taoore. Nebã sẽn kelgd-a wã, b tẽedame t'a Zeova na n sõng-b lame.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-006",
@@ -490,7 +1082,19 @@
    "texte": "Quand viendra-t-il ? Dis-nous quand !",
    "genre": "adulte/femme",
    "duree_ms": 3800,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Ndeye o wari? Winen en wakkati!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Wakat bʋg la a na n wa? Wilg-y tõnd wakat ninga!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-007",
@@ -506,7 +1110,19 @@
    "texte": "Puis arrive le recrutement. L'administration veut des soldats pour sa guerre.",
    "genre": "adulte/libre",
    "duree_ms": 5800,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Caggal ɗum, ɓe mbaɗata ceede. Dowlaaji ɗii ina ɗaɓɓita jawdi ngam konu maɓɓe.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Rẽ poore, b na n yãka neb tɩ b wa tigim taaba. Goosneema wã ratame tɩ b paam sodaas n kẽng zabrã pʋgẽ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-008",
@@ -522,7 +1138,19 @@
    "texte": "Nos fils sont nos bras pour les champs.",
    "genre": "âgé/libre",
    "duree_ms": 2500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Ɓiɓɓe meeɗen ngoni juuɗe amin ngam gese.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Tõnd kom-bõonegã yaa tõnd pãng pʋʋgẽ wã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-009",
@@ -538,7 +1166,19 @@
    "texte": "Ils partiront. Ce sont les ordres.",
    "genre": "adulte/homme",
    "duree_ms": 3200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Ɓe ndilli. Ɗuum woni umrooje.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "B na n loogame. Yaa noor-dãmbã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-010",
@@ -554,7 +1194,19 @@
    "texte": "Les gardes emmènent les jeunes hommes. Les mères pleurent au bord du chemin.",
    "genre": "adulte/libre",
    "duree_ms": 5200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Gardiiɓe ɗon njahaa suka'en. Mammadu'en ɗon ngi'a haa laawol.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "B gũuda bi-bɩɩsã tɩ b kẽng be. Ma-rãmbã yãbda sorã noore.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-011",
@@ -570,7 +1222,19 @@
    "texte": "Une nuit, à Bona, les anciens se réunissent autour de l'autel.",
    "genre": "adulte/libre",
    "duree_ms": 4700,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Wakkati go'oto nder jemma, mawɓe Yahuudu'en mooɓti haa nokkuure ceniinde.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Daar a ye yʋngo, kãsem dãmbã tigma taab n gũbg tẽn-kugrã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-012",
@@ -586,7 +1250,19 @@
    "texte": "Ils tendent la main au-dessus de lui, et ils font serment.",
    "genre": "adulte/libre",
    "duree_ms": 3800,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Ɓe mbelti juuɗe maɓɓe dow maako, ɓe njokki alkawal.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "La b zẽka b nus n wẽen ne bãmba.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-013",
@@ -602,7 +1278,19 @@
    "texte": "Dans le noir, les tambours de guerre commencent à parler.",
    "genre": "adulte/libre",
    "duree_ms": 4000,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Nder nyiwre, ɓooyi konu fuɗɗi wolwugo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Zĩigã pʋgẽ, tãmb nins sẽn zabd ne zabrã sɩngame n gomda.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-014",
@@ -618,7 +1306,19 @@
    "texte": "Le 17 novembre 1915, l'insurrection éclate à Bona.",
    "genre": "adulte/libre",
    "duree_ms": 4900,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Ko ñalnde 17 Noofambar 1915, feccere fuɗɗii e Bona.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Yʋʋmd 1915, noob kiuug rasem 17 wã, kɩɩsgã yikame.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-015",
@@ -634,7 +1334,19 @@
    "texte": "La colonne arrive. Les flèches répondent aux fusils derrière le muret de banco.",
    "genre": "adulte/libre",
    "duree_ms": 5800,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Kolonnaaji ɗon wara. Feeje ɗon kolli pucci ɓaawo mahol bankooji.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Nebã watame. B sẽn da tar sɩbgrã, b ra yaa tãb-biis n zabd ne-ba.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-016",
@@ -650,7 +1362,19 @@
    "texte": "Les défenseurs franchissent le muret, et la colonne recule.",
    "genre": "adulte/libre",
    "duree_ms": 4400,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Yimɓe ɗon haɓana yimɓe ɓe'e ndilli dow mahol, kolonnaare boo ɗon cembiɗa.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Neb nins sẽn zabd ne nin-kãsemsã sã n kẽed wallẽ wã, b kolgdame.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-017",
@@ -666,7 +1390,19 @@
    "texte": "La nouvelle court de village en village. Des cavaliers portent le message.",
    "genre": "adulte/libre",
    "duree_ms": 5700,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Goomu goomu gooduɗo wuro. Yimɓe ɗon njooɗoto bee ko'e maɓɓe.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Yaa tẽn-paal sẽn yaa paalga. Bãngr-gomdã bee ne so-pakdb.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-018",
@@ -682,7 +1418,19 @@
    "texte": "Le soulèvement s'étend aux villages marka et bwa.",
    "genre": "adulte/libre",
    "duree_ms": 3400,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Yimɓe ummotooɓe ɓe'e ɓadake haa gure marka e bwa.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Tʋʋm-kãsems nins b sẽn maan n wilg tɩ b yaa nin-tɩrsã yĩnga, b kɩtame t'a Zeova raabã pidsi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-019",
@@ -698,7 +1446,19 @@
    "texte": "Mais en 1916, la révolte est réprimée. À Bona, il ne reste que des ruines.",
    "genre": "adulte/libre",
    "duree_ms": 6900,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Ammaa nder hitaande 1916, yimɓe ɓe'e ummii. Haa Bona, laana tan woni.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "La yʋʋmd 1916 wã, b tõdg-a lame. Bãng-y tɩ sã n wa be Bona, bũmb a ye bal n ketẽ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-020",
@@ -714,7 +1474,19 @@
    "texte": "Le pays a payé très cher ce refus.",
    "genre": "adulte/libre",
    "duree_ms": 3100,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Luttuɓe leydi ndii mbaɗi ceede masin.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Tẽngã sã n da pa sak n deeg b sẽn kõ-a wã, a ra baooda ligd wʋsgo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-021",
@@ -730,7 +1502,19 @@
    "texte": "Nos pères ont dit non.",
    "genre": "âgé/libre",
    "duree_ms": 2200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Baabiraaɓe meeɗen mbi'i ɓe mbaawataa.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Tõnd ba-rãmbã yeelame tɩ pa rẽ ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-022",
@@ -746,7 +1530,19 @@
    "texte": "Ne l'oublions pas.",
    "genre": "âgé/libre",
    "duree_ms": 2100,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Ngam en meeɗaay yi'ugo ɗum.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "D pa segd n yĩm-a ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   }
  ]
 }

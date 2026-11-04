@@ -11,49 +11,121 @@
    "id": "titre",
    "type": "titre",
    "chemin": "titre",
-   "texte": "Pourquoi le crapaud chante la nuit"
+   "texte": "Pourquoi le crapaud chante la nuit",
+   "langues": {
+    "dyu": {
+     "texte": "Mun na dingɛ be dɔnkili la sufɛ?",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Bõe yĩng t'a rãamã yɩɩnd yʋngo",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "presentation",
    "type": "presentation",
    "chemin": "presentation",
-   "texte": "Le crapaud a la plus grosse voix de la mare, et il le fait savoir. L'éléphant organise un concours, l'araignée tisse sa toile. De quel côté seras-tu ?"
+   "texte": "Le crapaud a la plus grosse voix de la mare, et il le fait savoir. L'éléphant organise un concours, l'araignée tisse sa toile. De quel côté seras-tu ?",
+   "langues": {
+    "dyu": {
+     "texte": "Kɔnɔbara kumakan ka bon dan na. A b'o fɔ mɔgɔw ye. Elefan bɛ ɲɔgɔndan dɔ labɛn, safinɛ b'a ta jesew lalaga. I bena mun lo kɛ?",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Bãng-y tɩ buudu tara koɛɛg sẽn tar pãng n yɩɩd buuda fãa. Zĩ-kãnga maanda pʋɩɩr, la bõn-naandã maand a zĩiga. Yãmb na n yɩɩ wãn to?",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "personnages.griot.nom",
    "type": "personnage",
    "chemin": "personnages.griot.nom",
-   "texte": "Le griot"
+   "texte": "Le griot",
+   "langues": {
+    "dyu": {
+     "texte": "Le griot"
+    },
+    "mos": {
+     "texte": "Le griot"
+    }
+   }
   },
   {
    "id": "personnages.crapaud.nom",
    "type": "personnage",
    "chemin": "personnages.crapaud.nom",
-   "texte": "Le crapaud"
+   "texte": "Le crapaud",
+   "langues": {
+    "dyu": {
+     "texte": "Le crapaud"
+    },
+    "mos": {
+     "texte": "Le crapaud"
+    }
+   }
   },
   {
    "id": "personnages.elephant.nom",
    "type": "personnage",
    "chemin": "personnages.elephant.nom",
-   "texte": "L'éléphant"
+   "texte": "L'éléphant",
+   "langues": {
+    "dyu": {
+     "texte": "L'éléphant"
+    },
+    "mos": {
+     "texte": "L'éléphant"
+    }
+   }
   },
   {
    "id": "personnages.araignee.nom",
    "type": "personnage",
    "chemin": "personnages.araignee.nom",
-   "texte": "L'araignée"
+   "texte": "L'araignée",
+   "langues": {
+    "dyu": {
+     "texte": "L'araignée"
+    },
+    "mos": {
+     "texte": "L'araignée"
+    }
+   }
   },
   {
    "id": "fins.canon",
    "type": "fin",
    "chemin": "fins.canon",
-   "texte": "Version du griot : le crapaud chante la nuit"
+   "texte": "Version du griot : le crapaud chante la nuit",
+   "langues": {
+    "dyu": {
+     "texte": "Dɔnkililabaga ka maana: Fanga be dɔnkiri la sufɛ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Kibar ning b sẽn gʋlsã pʋgẽ: Zĩiga yɩɩnd yʋngo",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "fins.ami",
    "type": "fin",
    "chemin": "fins.ami",
-   "texte": "Autre chemin : le concours sans moquerie"
+   "texte": "Autre chemin : le concours sans moquerie",
+   "langues": {
+    "dyu": {
+     "texte": "Fɛɛrɛ wɛrɛ: Ɲɛnamaya sen fɛ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Bũmb a to la d tõe n maan-yã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "n1",
@@ -67,7 +139,23 @@
    "texte": "Jadis, tous les animaux chantaient le jour, et la brousse était une grande fête. Le crapaud avait la plus grosse voix de la mare. Et surtout, la plus grande bouche.",
    "genre": "adulte/homme",
    "duree_ms": 12750,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Wagati tɛmɛninw na, kongosogow bɛɛ tun bɛ dɔnkirila tere fɛ; yiritu tun ye ɲanagbɛba le ye. A kumakan tun ka bon kosɔbɛ. Min yɛrɛ kɔrɔtanin lo, o ye a daa belebeleba ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 13406,
+     "fichier": "crapaud-n1-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Pĩnd wẽndẽ wã, rũmsã fãa ra yɩɩnda ne sũ-noogo, la weoogã ra yaa kibsre. A ra tara koɛɛg sẽn tar pãng n yɩɩd a taabã fãa. Sẽn yɩɩd fãa, yaa noorã sẽn yaa kãsenga.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 14820,
+     "fichier": "crapaud-n1-mos.m4a"
+    }
+   }
   },
   {
    "id": "n2",
@@ -81,7 +169,23 @@
    "texte": "Je suis le meilleur ! Écoutez plutôt !",
    "genre": "voix de conte/libre",
    "duree_ms": 3640,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Ne ka fisa ni tɔw bɛɛ ye! Aw k'aw tulo malɔ ka ɲa.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4474,
+     "fichier": "crapaud-n2-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Mam yaa sõma n yɩɩda! Dɩlla kelg-y!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3530,
+     "fichier": "crapaud-n2-mos.m4a"
+    }
+   }
   },
   {
    "id": "n3",
@@ -95,7 +199,23 @@
    "texte": "Il gonfle sa gorge, et il couvre le chant de tous les autres.",
    "genre": "adulte/homme",
    "duree_ms": 5390,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "A k'a kɔfɛmuru funu, ka mɔgɔ tɔw bɛɛ ta dɔnkirila kumaw datugu.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4912,
+     "fichier": "crapaud-n3-dyu.m4a"
+    },
+    "mos": {
+     "texte": "A sã n zẽkd a gãagã, a kɩtdame tɩ neb a taabã yɩɩl pa noom ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5616,
+     "fichier": "crapaud-n3-mos.m4a"
+    }
+   }
   },
   {
    "id": "n4",
@@ -109,7 +229,23 @@
    "texte": "Un grand concours de chant ! Tous ensemble !",
    "genre": "voix de conte/libre",
    "duree_ms": 4020,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Dɔnkilila ɲɔgɔndanba! Aw bɛɛ ka taga ɲɔgɔn fɛ!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4202,
+     "fichier": "crapaud-n4-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Yaa yɩɩl kibsre! B fãa bee taabẽ!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3802,
+     "fichier": "crapaud-n4-mos.m4a"
+    }
+   }
   },
   {
    "id": "n5",
@@ -123,37 +259,103 @@
    "texte": "Chacun s'entraîne : le lièvre, le chien, et même l'hyène. Le crapaud, lui, ne s'entraîne pas. Il est sûr de gagner.",
    "genre": "adulte/homme",
    "duree_ms": 9630,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Mɔgɔw bɛɛ b'u yɛrɛ degi: waraw, wuluw ani hali jaraw. N'a sɔrɔ i ka ɲi k'i yɛrɛ degi. A lanin b'a la ko a bena see sɔrɔ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 10302,
+     "fichier": "crapaud-n5-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Ned kam fãa zãmsda a meng: gɩgemdã, wũndã, la baa we-rũngã. La sã n yaa tɩrsã, a pa maand zãmsg ye. A sɩd na n tõogame.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 10782,
+     "fichier": "crapaud-n5-mos.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n6.consigne",
    "type": "jeu",
    "chemin": "nodes.n6.consigne",
-   "texte": "Toi aussi, entraîne-toi avec les autres : reproduis la chanson."
+   "texte": "Toi aussi, entraîne-toi avec les autres : reproduis la chanson.",
+   "langues": {
+    "dyu": {
+     "texte": "Ele fana, i yɛrɛ degi ni mɔgɔ tɔw ye.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Yãmb me, zãms-y y mens ne neb a taabã.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n6.gagne",
    "type": "jeu",
    "chemin": "nodes.n6.gagne",
-   "texte": "Bien chanté ! La brousse t'applaudit."
+   "texte": "Bien chanté ! La brousse t'applaudit.",
+   "langues": {
+    "dyu": {
+     "texte": "O ye dɔnkili ɲuman ye! Yirisun b'i fo.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Yɩɩn-sõngo! Kẽerã pẽgda yãmba.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n6.perdu",
    "type": "jeu",
    "chemin": "nodes.n6.perdu",
-   "texte": "Encore un effort. Tu as au moins essayé, toi."
+   "texte": "Encore un effort. Tu as au moins essayé, toi.",
+   "langues": {
+    "dyu": {
+     "texte": "N' tun b'a fɛ k'o kɛ tugun. N'a sɔrɔ i y'a ɲini k'o kɛ.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "D maoodame n paase. Yaa sɩd tɩ y maana bũmbu.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n6.tags.win",
    "type": "parcours",
    "chemin": "nodes.n6.tags.win",
-   "texte": "rythme tenu"
+   "texte": "rythme tenu",
+   "langues": {
+    "dyu": {
+     "texte": "a ka kɛcogo",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "b sẽn maand to-to wã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n6.tags.lose",
    "type": "parcours",
    "chemin": "nodes.n6.tags.lose",
-   "texte": "rythme perdu"
+   "texte": "rythme perdu",
+   "langues": {
+    "dyu": {
+     "texte": "ka to k'o kɛ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "b sẽn wa n paame",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "n7",
@@ -167,7 +369,23 @@
    "texte": "L'araignée a tout entendu, et elle est fatiguée de ce vantard. Elle s'approche de toi.",
    "genre": "adulte/homme",
    "duree_ms": 6450,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "O kɔ, a y'a fɔ ko: \"N b'a fɛ i k'i yɛrɛ bonya. A be gwɛrɛ i la.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6116,
+     "fichier": "crapaud-n7-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Kẽerã wʋma bũmb nins fãa b sẽn yetã, la a zoe n zoee ne gom-kãensã. A kolga foom.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7866,
+     "fichier": "crapaud-n7-mos.m4a"
+    }
+   }
   },
   {
    "id": "n8",
@@ -181,7 +399,23 @@
    "texte": "Je vais tisser ma toile au-dessus de la mare. Le laisserons-nous faire le malin ?",
    "genre": "voix de conte/libre",
    "duree_ms": 6300,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Ne bena n ka fani dilan a sanfɛ. Yala an b'a to a ka kɛ hakilitigi ye wa?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5562,
+     "fichier": "crapaud-n8-dyu.m4a"
+    },
+    "mos": {
+     "texte": "La mam na n kɩtame tɩ m tʋbgã gãe zĩ-kãnga zugu. D na n bas-a lame t'a maan wẽnga bɩ?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7322,
+     "fichier": "crapaud-n8-mos.m4a"
+    }
+   }
   },
   {
    "id": "n9",
@@ -195,31 +429,87 @@
    "texte": "Que réponds-tu ?",
    "genre": "adulte/homme",
    "duree_ms": 1440,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "I b'a jaabi cogo di?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 1584,
+     "fichier": "crapaud-n9-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Yãmb leokda bõe?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 1488,
+     "fichier": "crapaud-n9-mos.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n9.choices.0.label",
    "type": "choix",
    "chemin": "nodes.n9.choices.0.label",
-   "texte": "« Fais donc, il l'a bien cherché. »"
+   "texte": "« Fais donc, il l'a bien cherché. »",
+   "langues": {
+    "dyu": {
+     "texte": "O kama, a y'a ɲini k'a lɔn. ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Woto yĩnga, bɩ y maan-a neere. ",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n9.choices.0.tag",
    "type": "parcours",
    "chemin": "nodes.n9.choices.0.tag",
-   "texte": "toile tissée"
+   "texte": "toile tissée",
+   "langues": {
+    "dyu": {
+     "texte": "fani min dilanna",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "b sẽn tolg toogã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n9.choices.1.label",
    "type": "choix",
    "chemin": "nodes.n9.choices.1.label",
-   "texte": "« Non, je vais d'abord le prévenir. »"
+   "texte": "« Non, je vais d'abord le prévenir. »",
+   "langues": {
+    "dyu": {
+     "texte": "Ayi, n' bena a fɔ a ye fɔlɔ. ",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "N-ye, m na n deng n togs-a lame. ",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n9.choices.1.tag",
    "type": "parcours",
    "chemin": "nodes.n9.choices.1.tag",
-   "texte": "avertissement"
+   "texte": "avertissement",
+   "langues": {
+    "dyu": {
+     "texte": "lasɔmini",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "saglg",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "prevenir",
@@ -233,7 +523,23 @@
    "texte": "Moi ? M'entraîner ? Prendre garde ? Laisse-moi rire !",
    "genre": "voix de conte/libre",
    "duree_ms": 5000,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Ne be se ka mun lo kɛ? N' ka fɔrɔmasɔn? I k'i yɛrɛ kɔrɔsi wa? A to ne ka yɛlɛ!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7454,
+     "fichier": "crapaud-prevenir-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Yaa maam laa? Yãk-y n zãms maam? Y na n gũusame bɩ? Bas-y tɩ m yãge!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6670,
+     "fichier": "crapaud-prevenir-mos.m4a"
+    }
+   }
   },
   {
    "id": "n10",
@@ -247,31 +553,87 @@
    "texte": "Il n'écoute pas. Vas-tu insister ?",
    "genre": "adulte/homme",
    "duree_ms": 2880,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "A tɛ mɛnni kɛ. Yala i b'a fɛ ka to o kan wa?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4058,
+     "fichier": "crapaud-n10-dyu.m4a"
+    },
+    "mos": {
+     "texte": "A pa kelgd-m ye. Rẽ yĩnga y na n modgame?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 3914,
+     "fichier": "crapaud-n10-mos.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n10.choices.0.label",
    "type": "choix",
    "chemin": "nodes.n10.choices.0.label",
-   "texte": "Oui, tu lui répètes jusqu'à ce qu'il comprenne"
+   "texte": "Oui, tu lui répètes jusqu'à ce qu'il comprenne",
+   "langues": {
+    "dyu": {
+     "texte": "I be to k'o fɔ a ye fɔɔ a k'a faamu",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Yaa woto, fo leb n togsdame t'a wʋmd a võore",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n10.choices.0.tag",
    "type": "parcours",
    "chemin": "nodes.n10.choices.0.tag",
-   "texte": "crapaud convaincu"
+   "texte": "crapaud convaincu",
+   "langues": {
+    "dyu": {
+     "texte": "kunkurunin lanin b'a la",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "gãagã tẽeme",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n10.choices.1.label",
    "type": "choix",
    "chemin": "nodes.n10.choices.1.label",
-   "texte": "Non, tant pis pour lui"
+   "texte": "Non, tant pis pour lui",
+   "langues": {
+    "dyu": {
+     "texte": "Ayi, o ye bɔnɛ ye a fɛ.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "N-ye, rẽ sãamda a sũur wʋsgo.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n10.choices.1.tag",
    "type": "parcours",
    "chemin": "nodes.n10.choices.1.tag",
-   "texte": "toile tissée"
+   "texte": "toile tissée",
+   "langues": {
+    "dyu": {
+     "texte": "fani min dilanna",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "b sẽn tolg toogã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "ecoute",
@@ -285,7 +647,23 @@
    "texte": "Il finit par s'entraîner en grognant. Le jour du concours, il chante à son tour, sans sauter, et personne ne rit. Mais ce n'est pas ce que dit le conte : là, on n'expliquerait pas pourquoi il chante la nuit !",
    "genre": "adulte/homme",
    "duree_ms": 17230,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "A laban, a b'a yɛrɛ degi n'a be ŋuna. O bɛ dɔnkiri la o yɛrɛ ta ɲanagbɛ lon na, nka o tɛ bori; mɔgɔ si tɛ yɛlɛmisɛn kɛ. Nka, o tɛ se k'a to an b'a faamu fɛɛn min kama a be dɔnkili lara sufɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 15262,
+     "fichier": "crapaud-ecoute-dyu.m4a"
+    },
+    "mos": {
+     "texte": "A wa n zãmsda a meng ne sũ-sãanga. B yɩɩndame, la b ka zẽkd b zut ye; ned ka yãgd-b ye. Sã n yaa ne rẽ, ned pa tõe n wilg bũmb ning sẽn kɩt t'a yɩɩnd yʋngo ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 13150,
+     "fichier": "crapaud-ecoute-mos.m4a"
+    }
+   }
   },
   {
    "id": "toile",
@@ -299,7 +677,23 @@
    "texte": "Le jour du concours, la pintade chante, puis le chien. Vient le tour du crapaud. Il gonfle, gonfle, gonfle encore. Il monte, et il se prend dans la toile. Et patatras !",
    "genre": "adulte/homme",
    "duree_ms": 14410,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "O ɲɔgɔndan loon na, pikiribaga be dɔnkili lara. N'a sɔrɔ a ka ɲi k'o kɛ. A b'a fari funu, a be funu ani a b'o kɛ tugu. O kɔ, a yɛlɛla k'a yɛrɛ minɛ. O kɔ, a ka kɛ i n'a fɔ mɔgɔ dɔ ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 16648,
+     "fichier": "crapaud-toile-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Zʋg-n-taarã, piisã yɩɩla, tɩ bi-riblã yaool n yɩɩ. B sẽn na n maan bũmb ningã yaa tɩlɛ. A yikdame, a yikda, a leb n yikda. A zẽka a meng n kẽe zĩm-gãongã pʋgẽ. La a paasa!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 17000,
+     "fichier": "crapaud-toile-mos.m4a"
+    }
+   }
   },
   {
    "id": "n11",
@@ -313,7 +707,23 @@
    "texte": "Tout le monde éclate de rire. La honte ! Le crapaud plonge, et il se cache sous l'eau.",
    "genre": "adulte/homme",
    "duree_ms": 7890,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Mɔgɔw bɛɛ yɛlɛla. O ye maloya ye dɛ! O kɔ, a b'a yɛrɛ dogo ji jukɔrɔ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6484,
+     "fichier": "crapaud-n11-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Nebã fãa yãgda. Yaa yãnde! Kẽer kẽe koomẽ, n solg b mens koomẽ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6052,
+     "fichier": "crapaud-n11-mos.m4a"
+    }
+   }
   },
   {
    "id": "n12",
@@ -327,7 +737,23 @@
    "texte": "La nuit venue, il remonte tout doucement. Il regarde autour de lui : personne. Alors il chante, tout bas. La lune s'approche pour l'écouter.",
    "genre": "adulte/homme",
    "duree_ms": 10770,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "Su kora tuma min na, a tora ka yɛlɛ dɔɔni dɔɔni. A be filɛli kɛ a lamini na: mɔgɔ si. O tuma na, a be dɔnkili lara. Kalo be surunyana k'a lamɛn.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 12408,
+     "fichier": "crapaud-n12-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Zĩigã sẽn wa n tãagẽ wã, a yikame ne sũ-bʋgsem. A gesa a taabã: ned ka be ye. Rẽ n so t'a yɩɩla. Maan-kãsengã kolgame n na n kelg-a.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 12632,
+     "fichier": "crapaud-n12-mos.m4a"
+    }
+   }
   },
   {
    "id": "n13",
@@ -341,7 +767,23 @@
    "texte": "Depuis ce jour, le crapaud chante la nuit, quand plus personne ne peut se moquer de lui.",
    "genre": "adulte/homme",
    "duree_ms": 7060,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "dyu": {
+     "texte": "K'a ta o lon na ka taga a bla fɔ su fɛ, mɔgɔ si tɛ se k'a lɔgɔbɔ tuun.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5360,
+     "fichier": "crapaud-n13-dyu.m4a"
+    },
+    "mos": {
+     "texte": "Sẽn sɩng ne bõn-naandgã yɩɩla yʋngo, tɩ ned ka le tõe n yãg-a ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5152,
+     "fichier": "crapaud-n13-mos.m4a"
+    }
+   }
   },
   {
    "id": "film-001",
@@ -357,7 +799,19 @@
    "texte": "Pourquoi le crapaud chante la nuit. Un conte songhaï.",
    "genre": "adulte/libre",
    "duree_ms": 4700,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Mun na kongosogow be dɔnkili la sufɛ? O ye Songhai ka maana dɔ ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Bõe yĩng t'a rã-yũudã yɩɩnd yʋngo? A Songhai kibarã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-002",
@@ -373,7 +827,19 @@
    "texte": "Jadis, tous les animaux chantaient le jour, et la brousse était une grande fête.",
    "genre": "adulte/libre",
    "duree_ms": 5500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Wagati tɛmɛninw na, kongosogow bɛɛ tun bɛ dɔnkirila tere fɛ; yiritu tun ye ɲanagbɛba le ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Pĩnd wẽndẽ wã, rũmsã fãa ra yɩɩnda ne sũ-noogo, la weoogã ra yaa kibsre.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-003",
@@ -389,7 +855,19 @@
    "texte": "Le crapaud avait la plus grosse voix de la mare. Et surtout, la plus grande bouche.",
    "genre": "adulte/libre",
    "duree_ms": 6400,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "A kumakan tun ka bon kosɔbɛ. Min yɛrɛ kɔrɔtanin lo, o ye a daa belebeleba ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A ra tara koɛɛg sẽn tar pãng n yɩɩd a taabã fãa. Sẽn yɩɩd fãa, yaa noorã sẽn yaa kãsenga.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-004",
@@ -405,7 +883,19 @@
    "texte": "Je suis le meilleur ! Écoutez plutôt !",
    "genre": "adulte/homme",
    "duree_ms": 4400,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Ne ka fisa ni tɔw bɛɛ ye! Aw k'aw tulo malɔ ka ɲa.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Mam yaa sõma n yɩɩda! Dɩlla kelg-y!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-005",
@@ -421,7 +911,19 @@
    "texte": "Il gonflait sa gorge, et il couvrait le chant de tous les autres.",
    "genre": "adulte/libre",
    "duree_ms": 4500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "A tun b'a kan mina k'a fɔ ko: \"Aw ye to ka dɔnkiri la. \"",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A ra tara sũ-sãanga, t'a kɩt tɩ neb a taabã yɩɩl pa noom ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-006",
@@ -437,7 +939,19 @@
    "texte": "Les autres avaient beau se plaindre, il chantait encore plus fort.",
    "genre": "adulte/libre",
    "duree_ms": 4400,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Hali ni mɔgɔ tɔw tun be ŋunuŋununa, a tun b'a kaan bɔ ka tɛmɛ fɔlɔ kan.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Neb a taabã sẽn da yẽgemd to-to wã, a yɩɩla ne pãng n paase.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-007",
@@ -453,7 +967,19 @@
    "texte": "L'éléphant, le roi des animaux, décida d'y mettre bon ordre.",
    "genre": "adulte/libre",
    "duree_ms": 4800,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Elefan, min tun ye kongosogow ka masacɛ ye, ale y'a latigɛ k'o yɔrɔ labɛn.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Wão wã sẽn yaa rũmsã rĩmã yãka yam n na n maan bũmb tɩ yɩ sõma.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-008",
@@ -469,7 +995,19 @@
    "texte": "Un grand concours de chant ! Tous ensemble !",
    "genre": "esprit, créature : voix grave/libre",
    "duree_ms": 4200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Dɔnkilila ɲɔgɔndanba! Aw bɛɛ ka taga ɲɔgɔn fɛ!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Yaa yɩɩl kibsre! B fãa bee taabẽ!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-009",
@@ -485,7 +1023,19 @@
    "texte": "Chacun s'entraîna : le lièvre, le chien, et même l'hyène.",
    "genre": "adulte/libre",
    "duree_ms": 4500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "U bɛɛ tun b'u yɛrɛ degi: waraw, wuluw ani hali kɔnɔw.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Ned kam fãa ra zãmsda a meng: gɩgemdã, wũnda, la baa we-rũngã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-010",
@@ -501,7 +1051,19 @@
    "texte": "Le crapaud, lui, ne s'entraîna pas. Il était sûr de gagner.",
    "genre": "adulte/libre",
    "duree_ms": 5500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O kɔ, u y'a fɔ a ye ko: \"I ka kan k'i yɛrɛ degi. A tun lanin b'a la ko ale bena see sɔrɔ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "La sã n yaa ne bugumã, a pa zãms ye. A ra miime t'a na n tõoga.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-011",
@@ -517,7 +1079,19 @@
    "texte": "Mais l'araignée avait tout entendu, et elle était fatiguée de ce vantard.",
    "genre": "adulte/libre",
    "duree_ms": 4800,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Nka o bɛɛ n'a ta, a ka o kuma mɛn minkɛ dɔrɔn, o nana kɛ sababu ye k'a sɛgɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "La bõn-naandgã wʋma bũmb nins fãa a sẽn yetã, t'a ra zoe n yɛɛsame.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-012",
@@ -533,7 +1107,19 @@
    "texte": "Sans bruit, elle descendit au bout de son fil et tissa sa toile au-dessus de la mare.",
    "genre": "adulte/libre",
    "duree_ms": 5500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "A jigira ka jigi a ta jese kan, k'a ta deregeba lalaga.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "La a yii n sigl-a lame, t'a gãneg a peendã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-013",
@@ -549,7 +1135,19 @@
    "texte": "Le jour du concours, la pintade chanta, puis le chien.",
    "genre": "adulte/libre",
    "duree_ms": 4400,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O ɲɔgɔndan loon na, piyɔniye dɔ y'a daminɛ ka dɔnkili la.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Zĩigã ra yɩɩndame, la bi-riblã me.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-014",
@@ -565,7 +1163,19 @@
    "texte": "Vint le tour du crapaud. Il gonfla, gonfla, gonfla encore.",
    "genre": "adulte/libre",
    "duree_ms": 5400,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "A kɛra i n'a fɔ a tun b'a fɛ cogo min na. A y'a fari funu, ka fara a kan.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "B sẽn wa n na n maan bũmb ningã, b paama sũ-noogo. A tõoga, a tõoga n paase.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-015",
@@ -581,7 +1191,19 @@
    "texte": "Il monta, et il se prit dans la toile. Et patatras !",
    "genre": "adulte/libre",
    "duree_ms": 5000,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O kɔ, a yɛlɛnna k'a yɛrɛ don fanibugu kɔnɔ. O kɔ, a ka kɛ i n'a fɔ mɔgɔ dɔ ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A zẽka a meng n kẽe zĩm-gãongã pʋgẽ. La a paasa!",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-016",
@@ -597,7 +1219,19 @@
    "texte": "Tout le monde éclata de rire.",
    "genre": "adulte/libre",
    "duree_ms": 2600,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Mɔgɔw bɛɛ yɛlɛla.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Nebã fãa sega.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-017",
@@ -613,7 +1247,19 @@
    "texte": "La honte. Le crapaud plongea, et il se cacha sous l'eau.",
    "genre": "adulte/libre",
    "duree_ms": 5200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O ye maloya lo ye. O kɔ, tɔrisenjan jigira ka taga dogo ji kɔrɔ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A yãndã. Kẽerã kẽe koomẽ n solg b mens koomẽ wã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-018",
@@ -629,7 +1275,19 @@
    "texte": "Les autres rentrèrent chez eux, et le soir tomba.",
    "genre": "adulte/libre",
    "duree_ms": 3700,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "U bɛɛ kɔsegira u ka soo wulafɛ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "La neb a taabã kẽnga b zakẽ, tɩ wĩntoog zoe n sa.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-019",
@@ -645,7 +1303,19 @@
    "texte": "La nuit venue, il remonta tout doucement. Il regarda autour de lui : personne.",
    "genre": "adulte/libre",
    "duree_ms": 6900,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Su kora tuma min na, a yɛlɛla san fɛ dɔɔni dɔɔni. A ye filɛli kɛ a lamini na: mɔgɔ si ma sɔrɔ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Zĩigã sẽn ta, a yikame ne sũ-bʋgsem. A gesa a sẽn gũbg-a wã: ned ka be ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-020",
@@ -661,7 +1331,19 @@
    "texte": "Alors il chanta, tout bas. La lune s'approcha pour l'écouter, et les étoiles se mirent à briller.",
    "genre": "adulte/libre",
    "duree_ms": 7300,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "O kɔ, a y'a daminɛ ka dɔnkili la. Ayiwa, karo gbarara ka na a lamɛn; lolow ka yeelen bɔ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Rẽ n so t'a yɩɩl ne a sũur fãa. Maan-kãseng kolgame n na n kelg bãmba, la ãdsã sɩngame n yãgd ne vẽenem.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-021",
@@ -677,7 +1359,19 @@
    "texte": "Des lucioles dansaient autour de lui.",
    "genre": "adulte/libre",
    "duree_ms": 3000,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "Sanbɛrɛw tun b'a lamini.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Zĩigã ra yɩɩlda a poorẽ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-022",
@@ -693,7 +1387,19 @@
    "texte": "Depuis ce jour, le crapaud chante la nuit, quand plus personne ne peut se moquer de lui.",
    "genre": "adulte/libre",
    "duree_ms": 6000,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "dyu": {
+     "texte": "K'a ta o lon na ka taga a bla fɔ su fɛ, mɔgɔ si tɛ se k'a lɔgɔbɔ tuun.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Sẽn sɩng ne bõn-naandgã yɩɩla yʋngo, tɩ ned ka le tõe n yãg-a ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   }
  ]
 }

@@ -10,6 +10,10 @@ intonation: posé (proposée)
 texte: Dans le pays samo, la vie suivait son cours. Jusqu'à ce jour-là, où des cavaliers mossi approchent dans un nuage de poussière.
 genre: adulte/homme
 duree: 9260ms (estimée)
+texte_dyu: Samoa jamana na, mɔgɔw tun be ɲɛnamaya kɛ cogo nɔgɔman na. fɔ ka taga se o lon ma. O lon na, sotigi dɔw bɛna na ni buguri ye sankaba ra.
+enregistre_dyu: rakire-n1-dyu.m4a (11668ms)
+texte_mos: Saam-bi-poak sẽn da be Samõ wã, vɩɩmã ra yaa to-to. Hal tɩ ta daar ning b sẽn na n yãt tãb-biis sẽn be bugum pʋgẽ wã.
+enregistre_mos: rakire-n1-mos.m4a (8986ms)
 
 piste: n2
 histoire: Le rakiré entre Samo et Mossi
@@ -20,6 +24,10 @@ intonation: posé (proposée)
 texte: Cette terre est désormais à nous.
 genre: adulte/homme
 duree: 2580ms (estimée)
+texte_dyu: O dugukolo ye an ta ye sisan.
+enregistre_dyu: rakire-n2-dyu.m4a (2496ms)
+texte_mos: Yaa tõnd n so tẽngã.
+enregistre_mos: rakire-n2-mos.m4a (1776ms)
 
 piste: n3
 histoire: Le rakiré entre Samo et Mossi
@@ -30,6 +38,10 @@ intonation: posé (proposée)
 texte: Le chef samo appelle ses archers. Les flèches contre les chevaux. On se bat toute la journée, et personne ne gagne.
 genre: adulte/homme
 duree: 9030ms (estimée)
+texte_dyu: Jamana kuntigi Samo b'a ka kalanbonbagaw wele. Aw ye biɲɛw ta ka taga soow kama. An ye kɛlɛ kɛ tile bɛɛ, nka mɔgɔ si ma see sɔrɔ.
+enregistre_dyu: rakire-n3-dyu.m4a (10836ms)
+texte_mos: Saam-bi-poakã boola a zabdbã. Sagls nins sẽn zabd ne wed-rãmbã. Tõnd zabda ne taab daar fãa, la ned baa a yen ka tõogd ye.
+enregistre_mos: rakire-n3-mos.m4a (9796ms)
 
 piste: n4
 histoire: Le rakiré entre Samo et Mossi
@@ -40,6 +52,10 @@ intonation: interrogatif (proposée)
 texte: La nuit tombe. Il ne reste que des blessés, des deux camps, tous abandonnés. Un archer et un cavalier se regardent. L'archer a encore de l'eau. Que fait-il ?
 genre: adulte/homme
 duree: 12820ms (estimée)
+texte_dyu: Suu be ɲini ka don. Mɔgɔ minw mandiminin tora, o bɛɛ bɔra fan fla ra. Sotigi ni kalanbɔbaga be ɲɔgɔn filɛra. Ji bele be kalanbaga fɛ. A be mun lo kɛra?
+enregistre_dyu: rakire-n4-dyu.m4a (12552ms)
+texte_mos: Yĩng n beẽ. Sẽn ket-b lame yaa neb nins b sẽn maan kaalem to-to wã bala. B fãa basame. Zĩ-bõonegã ne a soaalã geta taaba. Koɛɛgã ket n tara koomã. A maanda bõe?
+enregistre_mos: rakire-n4-mos.m4a (14402ms)
 
 piste: garde
 histoire: Le rakiré entre Samo et Mossi
@@ -50,6 +66,10 @@ intonation: interrogatif (proposée)
 texte: Le cavalier gémit toute la nuit. Une femme samo arrive, s'arrête devant lui, hésite. Va-t-elle le soigner ?
 genre: adulte/homme
 duree: 8040ms (estimée)
+texte_dyu: Mɔgɔ min tun yɛlɛnin be soo kan, ale ye kulo suu bɛɛ. Samusɔn muso dɔ nana, a lɔra a kɔrɔ ka sigasigara. Yala a bena o furakɛ wa?
+enregistre_dyu: rakire-garde-dyu.m4a (12116ms)
+texte_mos: Sẽn zao-a wã kelemda yʋngo fãa. Saam-bi-poak a ye n wa, t'a na n kẽng n tɩ zĩnd ne-a. A na n gesa a yell bɩ?
+enregistre_mos: rakire-garde-mos.m4a (10036ms)
 
 piste: rancune
 histoire: Le rakiré entre Samo et Mossi
@@ -60,6 +80,10 @@ intonation: chuchoté (proposée)
 texte: Au matin, chacun compte ses morts, et chacun jure de les venger. Trop de sang pour rien. Ce n'est pas la fin que l'on raconte, heureusement.
 genre: adulte/homme
 duree: 11230ms (estimée)
+texte_dyu: O bɛ o mɔgɔ faganinw jate sɔgɔmada joona fɛ, k'a fɔ ko o bɛna wuri o kama. Joli tun ka ca. An be min fɔra, o tɛ laban ye.
+enregistre_dyu: rakire-rancune-dyu.m4a (10980ms)
+texte_mos: Sã n ya rũnna, ned kam fãa getda a nin-buiida la b wẽeneda tɩ b na n sɩbg-b lame. Yaa zɩɩm wʋsg n pa tõe n maan bũmb ye. La sũ-noogo, d sẽn yetã pa baasg ye.
+enregistre_mos: rakire-rancune-mos.m4a (13812ms)
 
 piste: gourde
 histoire: Le rakiré entre Samo et Mossi
@@ -70,6 +94,10 @@ intonation: chuchoté (proposée)
 texte: Une femme samo arrive, s'arrête devant un cavalier mossi. Elle hésite, puis elle le soigne.
 genre: adulte/homme
 duree: 6600ms (estimée)
+texte_dyu: Samusɔn muso dɔ nana, a lɔra sotigi dɔ ɲɛfɛ. O kɔ, a y'a janto a la.
+enregistre_dyu: rakire-gourde-dyu.m4a (6618ms)
+texte_mos: Saam-bi-poak a ye waame, t'a zĩndi n na n yãgẽ. A yɛɛsame t'a na n sõng-a lame.
+enregistre_mos: rakire-gourde-mos.m4a (7930ms)
 
 piste: soin
 histoire: Le rakiré entre Samo et Mossi
@@ -80,6 +108,10 @@ intonation: chuchoté (proposée)
 texte: Un cavalier, à son tour, panse un archer samo. Plus personne ne se souvient du camp de l'autre.
 genre: adulte/homme
 duree: 7740ms (estimée)
+texte_dyu: O kɔ, a y'a fɔ u ye ko: "Aw k'aw yɛrɛ majigi. Mɔgɔ si tɛ se k'a hakili to a tɔɲɔgɔn ka sigiyɔrɔ la tugun.
+enregistre_dyu: rakire-soin-dyu.m4a (9460ms)
+texte_mos: Sã n yaa ne so-rʋʋda, a sẽbda Samõ nin-tũudu. Ned pa le tẽr a taabã logtoogã ye.
+enregistre_mos: rakire-soin-mos.m4a (6042ms)
 
 piste: n5
 histoire: Le rakiré entre Samo et Mossi
@@ -90,6 +122,10 @@ intonation: posé (proposée)
 texte: Trop de sang pour rien.
 genre: adulte/homme
 duree: 2200ms (estimée)
+texte_dyu: Joli tun ka ca.
+enregistre_dyu: rakire-n5-dyu.m4a (1552ms)
+texte_mos: Yaa zɩɩm wʋsg n pa tõe n maan bũmb ye.
+enregistre_mos: rakire-n5-mos.m4a (2224ms)
 
 piste: n6
 histoire: Le rakiré entre Samo et Mossi
@@ -100,6 +136,10 @@ intonation: posé (proposée)
 texte: Plus jamais de sang entre nous.
 genre: adulte/homme
 duree: 2580ms (estimée)
+texte_dyu: An tɛ se ka joli bɔn tugun.
+enregistre_dyu: rakire-n6-dyu.m4a (2144ms)
+texte_mos: Tõnd sʋka, zɩɩm kõn le zĩnd ye.
+enregistre_mos: rakire-n6-mos.m4a (3024ms)
 
 piste: n7
 histoire: Le rakiré entre Samo et Mossi
@@ -110,6 +150,10 @@ intonation: posé (proposée)
 texte: Ils boivent, l'un après l'autre, dans la même calebasse. Regarde ce qui les relie.
 genre: adulte/homme
 duree: 6220ms (estimée)
+texte_dyu: O bɛɛ kelen kelen bɛ ji min o dɔ ra. An k'a filɛ fɛɛn min b'u cɛ.
+enregistre_dyu: rakire-n7-dyu.m4a (5450ms)
+texte_mos: B rɩka bõn-yũudl a yembre, la b yũuda. Ges-y bũmb ning sẽn kɩt tɩ b zems taaba.
+enregistre_mos: rakire-n7-mos.m4a (5818ms)
 
 piste: n8
 histoire: Le rakiré entre Samo et Mossi
@@ -120,6 +164,10 @@ intonation: joyeux (proposée)
 texte: Le temps a passé. Au marché, un Samo et un Mossi se croisent. À toi de lancer la plaisanterie.
 genre: adulte/homme
 duree: 8270ms (estimée)
+texte_dyu: Waati tɛmɛna. O kɔ, u ye Samɔ ni Mosisi kunbɛn lɔgɔfiyɛ la. I ka yɛlɛmisɛn kɛ.
+enregistre_dyu: rakire-n8-dyu.m4a (7540ms)
+texte_mos: Wakatã loogame. Zĩ-gũudẽ wã, Samõ ne Mossi kẽnga taaba. Yaa yãmb n na n maan burkĩndã.
+enregistre_mos: rakire-n8-mos.m4a (7652ms)
 
 piste: froid
 histoire: Le rakiré entre Samo et Mossi
@@ -130,6 +178,10 @@ intonation: vif (proposée)
 texte: Comment ? Pas un mot ? Tu veux donc que je croie que vous êtes fâchés ? Vous, les Samo, vous parlez trop !
 genre: adulte/homme
 duree: 10620ms (estimée)
+texte_dyu: Mun na do? A ma kuma i fɛ wa? I b'a fɛ ne k'a miiri ko aw diminin lo wa? Aw Samow, aw be kuma ka ca!
+enregistre_dyu: rakire-froid-dyu.m4a (8734ms)
+texte_mos: Wãn to la y tõe n maan woto? Pa gomd baa a yen ye? Yãmb datame tɩ m tẽ tɩ y sũur sãamame? Yãmb Samo rãmbã gomda wʋsgo.
+enregistre_mos: rakire-froid-mos.m4a (10206ms)
 
 piste: n9
 histoire: Le rakiré entre Samo et Mossi
@@ -140,6 +192,10 @@ intonation: vif (proposée)
 texte: Et vous, les Mossi, vous mangez trop !
 genre: adulte/homme
 duree: 3640ms (estimée)
+texte_dyu: Aw Musaw kɔni, aw be dumuni kɛ kojugu!
+enregistre_dyu: rakire-n9-dyu.m4a (2976ms)
+texte_mos: La yãmb Mossi wã rɩta wʋsgo.
+enregistre_mos: rakire-n9-mos.m4a (2128ms)
 
 piste: blague
 histoire: Le rakiré entre Samo et Mossi
@@ -150,6 +206,10 @@ intonation: vif (proposée)
 texte: Et vous, les Samo, vous parlez trop !
 genre: adulte/homme
 duree: 3640ms (estimée)
+texte_dyu: Aw Samow kɔni, aw be kuma ka ca!
+enregistre_dyu: rakire-blague-dyu.m4a (2896ms)
+texte_mos: Sã n yaa ne yãmba, Samo rãmbã gomda wʋsgo.
+enregistre_mos: rakire-blague-mos.m4a (3360ms)
 
 piste: fin
 histoire: Le rakiré entre Samo et Mossi
@@ -160,6 +220,10 @@ intonation: joyeux (proposée)
 texte: Depuis ce temps, ils se moquent les uns des autres, et personne ne se fâche. C'est le rakiré : une façon de se dire « plus jamais la guerre ».
 genre: adulte/homme
 duree: 12450ms (estimée)
+texte_dyu: Kabini o wagati ra, o bɛ ɲɔgɔn lɔgɔbɔra; mɔgɔ si tɛ dimi tuun. O kɔrɔ ko, an man kan k'a fɔ tugun ko an be kɛlɛ kɛra.
+enregistre_dyu: rakire-fin-dyu.m4a (10996ms)
+texte_mos: Sẽn sɩng ne wakat kãnga, b yaalda taaba, la ned ka yikd sũ-yikri ye. Yaa raare: ned sã n pa le tõe n yeel a meng t'a ka na n leb n zab ye.
+enregistre_mos: rakire-fin-mos.m4a (11684ms)
 
 piste: film-001
 histoire: Le rakiré entre Samo et Mossi
@@ -170,6 +234,8 @@ intonation: malicieux (scénario)
 texte: Le rakiré. Une légende des Samo et des Mossi.
 genre: adulte/libre
 duree: 4500ms (mesurée sur le film)
+texte_dyu: A ye min fɔ, a y'o kɛ. O ye Samow ni Musaw ka maana dɔ ye.
+texte_mos: A raaga ne-a. Saam-bi-rãmbã la Mossi rãmbã lagem-n-taar.
 
 piste: film-002
 histoire: Le rakiré entre Samo et Mossi
@@ -180,6 +246,8 @@ intonation: posé (proposée)
 texte: Dans le pays samo, la vie suivait son cours, jusqu'à ce jour-là.
 genre: adulte/libre
 duree: 4900ms (mesurée sur le film)
+texte_dyu: Samoa jamana na, mɔgɔw tun be ɲɛnamaya kɛ cogo nɔgɔman na fɔɔ ka taga se o loon ma.
+texte_mos: Sã n yaa ne Samõ wã, vɩɩmã yɩɩ wa b sẽn da ratã hal tɩ ta rũndã.
 
 piste: film-003
 histoire: Le rakiré entre Samo et Mossi
@@ -190,6 +258,8 @@ intonation: tendu (scénario)
 texte: Des cavaliers mossi approchaient, dans un nuage de poussière.
 genre: adulte/libre
 duree: 4400ms (mesurée sur le film)
+texte_dyu: Mɔgɔ minw tun bɛ yɛlɛn so kan, olugu nana ni buguri ye sankaba kɔnɔ.
+texte_mos: Neb nins sẽn zʋʋgd malɛgsã ra gũuda ne bugum sawadga.
 
 piste: film-004
 histoire: Le rakiré entre Samo et Mossi
@@ -200,6 +270,8 @@ intonation: hautain (scénario)
 texte: Cette terre est désormais à nous.
 genre: adulte/homme
 duree: 2400ms (mesurée sur le film)
+texte_dyu: O dugukolo ye an ta ye sisan.
+texte_mos: Yaa tõnd n so tẽngã.
 
 piste: film-005
 histoire: Le rakiré entre Samo et Mossi
@@ -210,6 +282,8 @@ intonation: posé (proposée)
 texte: Le chef samo ne répondit pas. Il appela ses archers.
 genre: adulte/libre
 duree: 4800ms (mesurée sur le film)
+texte_dyu: Jamana kuntigi ma foyi fɔ. A y'a ka kalanbonbagaw wele.
+texte_mos: A Samo taoor soab pa leok ye. A boola a tãb-biisi.
 
 piste: film-006
 histoire: Le rakiré entre Samo et Mossi
@@ -220,6 +294,8 @@ intonation: posé (proposée)
 texte: Et la guerre commença. Les flèches contre les chevaux.
 genre: adulte/libre
 duree: 4600ms (mesurée sur le film)
+texte_dyu: O kɔ, kɛlɛ daminɛna. Aw ye biɲɛw ta ka taga soow kama.
+texte_mos: La zabr sɩngame. Sagls nins sẽn zabd ne wed-rãmbã.
 
 piste: film-007
 histoire: Le rakiré entre Samo et Mossi
@@ -230,6 +306,8 @@ intonation: posé (proposée)
 texte: On se battit toute la journée, et personne ne gagna.
 genre: adulte/libre
 duree: 3900ms (mesurée sur le film)
+texte_dyu: An tora kɛrɛ ra lon bɛɛ, nka mɔgɔ si ma se sɔrɔ.
+texte_mos: Tõnd zabame daar fãa, la ned baa a yen ka tõog ye.
 
 piste: film-008
 histoire: Le rakiré entre Samo et Mossi
@@ -240,6 +318,8 @@ intonation: grave (scénario)
 texte: La nuit tomba sur le champ de bataille.
 genre: adulte/libre
 duree: 3100ms (mesurée sur le film)
+texte_dyu: Su donna kɛlɛkɛyɔrɔ la.
+texte_mos: Zĩ-kãnga ra lebga yʋngo.
 
 piste: film-009
 histoire: Le rakiré entre Samo et Mossi
@@ -250,6 +330,8 @@ intonation: posé (proposée)
 texte: Il ne restait que des blessés, des deux camps, tous abandonnés.
 genre: adulte/libre
 duree: 4500ms (mesurée sur le film)
+texte_dyu: Mɔgɔ minw tun tora, o tun ye mɔgɔ mandimininw dɔrɔn le ye.
+texte_mos: Neb nins b sẽn da yã wã ra yaa nin-buiid bal n kell n zĩnd be.
 
 piste: film-010
 histoire: Le rakiré entre Samo et Mossi
@@ -260,6 +342,8 @@ intonation: ému (scénario)
 texte: Deux ennemis se regardèrent. Puis l'un tendit sa gourde à l'autre.
 genre: adulte/libre
 duree: 5200ms (mesurée sur le film)
+texte_dyu: Kɛlɛden fila y'u ɲɛɛ sin ɲɔgɔn ma. O kɔ, u kelen kelen bɛɛ y'u ka dɔrɔ di ɲɔgɔn ma.
+texte_mos: Neb a yiib n gesa taaba. Rẽ poore, ned a yembr kõ-a-la a to wã.
 
 piste: film-011
 histoire: Le rakiré entre Samo et Mossi
@@ -270,6 +354,8 @@ intonation: posé (proposée)
 texte: Une femme samo arriva, et elle s'arrêta devant un cavalier mossi.
 genre: adulte/libre
 duree: 4600ms (mesurée sur le film)
+texte_dyu: Samusɔn muso dɔ nana, a lɔra sotigi dɔ ɲɛfɛ.
+texte_mos: Saam-bi-poak a ye n wa, t'a tɩ yals moosã soabg taoore.
 
 piste: film-012
 histoire: Le rakiré entre Samo et Mossi
@@ -280,6 +366,8 @@ intonation: ému (scénario)
 texte: Elle hésita, puis elle le soigna. Un cavalier, à son tour, pansa un archer samo.
 genre: adulte/libre
 duree: 7000ms (mesurée sur le film)
+texte_dyu: A tun be sigasigara ani a y'a janto a la. Sotigi dɔ fana ye Samusɔn kɛlɛbaga dɔ faga.
+texte_mos: A yɛɛsame, la a wa n gesa biigã. Ned a ye sẽn da lʋɩt so-kãsengã zug n na n zab ne Samõ tãb-biisi.
 
 piste: film-013
 histoire: Le rakiré entre Samo et Mossi
@@ -290,6 +378,8 @@ intonation: posé (proposée)
 texte: Plus personne ne se souvenait du camp de l'autre.
 genre: adulte/libre
 duree: 3200ms (mesurée sur le film)
+texte_dyu: Mɔgɔ si tun tɛ se k'a hakili to a tɔɲɔgɔn ka yɔrɔ la tugun.
+texte_mos: Ned pa leb n tẽr a taabã logtoogã ye.
 
 piste: film-014
 histoire: Le rakiré entre Samo et Mossi
@@ -300,6 +390,8 @@ intonation: grave (scénario)
 texte: Trop de sang pour rien.
 genre: adulte/homme
 duree: 2500ms (mesurée sur le film)
+texte_dyu: Joli tun ka ca.
+texte_mos: Yaa zɩɩm wʋsg n pa tõe n maan bũmb ye.
 
 piste: film-015
 histoire: Le rakiré entre Samo et Mossi
@@ -310,6 +402,8 @@ intonation: grave (scénario)
 texte: Plus jamais de sang entre nous.
 genre: adulte/homme
 duree: 2100ms (mesurée sur le film)
+texte_dyu: An tɛ se ka joli bɔn tugun.
+texte_mos: Tõnd sʋka, zɩɩm kõn le zĩnd ye.
 
 piste: film-016
 histoire: Le rakiré entre Samo et Mossi
@@ -320,6 +414,8 @@ intonation: recueilli (scénario)
 texte: Ils burent, l'un après l'autre, dans la même calebasse.
 genre: adulte/libre
 duree: 4400ms (mesurée sur le film)
+texte_dyu: O bɛɛ kelen kelen tun bɛ duvɛn min o kelen na.
+texte_mos: La bãmb ned kam fãa ra yũuda koom-koglg a yembre.
 
 piste: film-017
 histoire: Le rakiré entre Samo et Mossi
@@ -330,6 +426,8 @@ intonation: posé (proposée)
 texte: Et ils se serrèrent dans les bras. La paix était scellée.
 genre: adulte/libre
 duree: 4400ms (mesurée sur le film)
+texte_dyu: O kɔ, u ye ɲɔgɔn kunbɛn. Hɛɛrɛ tun be yen.
+texte_mos: La b yõka taab ne taab. La laafɩ wã ra pa le be ye.
 
 piste: film-018
 histoire: Le rakiré entre Samo et Mossi
@@ -340,6 +438,8 @@ intonation: moqueur (scénario)
 texte: Vous, les Mossi, vous mangez trop !
 genre: adulte/homme
 duree: 3500ms (mesurée sur le film)
+texte_dyu: Aw Musaw, aw be dumuni kɛ kojugu!
+texte_mos: Yãmb Mossi wã rɩta wʋsgo!
 
 piste: film-019
 histoire: Le rakiré entre Samo et Mossi
@@ -350,6 +450,8 @@ intonation: hilare (scénario)
 texte: Et vous, les Samo, vous parlez trop !
 genre: adulte/homme
 duree: 2800ms (mesurée sur le film)
+texte_dyu: Aw Samow kɔni, aw be kuma ka ca!
+texte_mos: Sã n yaa ne yãmba, Samo rãmbã gomda wʋsgo.
 
 piste: film-020
 histoire: Le rakiré entre Samo et Mossi
@@ -360,6 +462,8 @@ intonation: joyeux (scénario)
 texte: Depuis ce temps, ils se moquent les uns des autres, et personne ne se fâche. C'est le rakiré.
 genre: adulte/libre
 duree: 6900ms (mesurée sur le film)
+texte_dyu: Kabini o wagati ra, o bɛ ɲɔgɔn lɔgɔbɔra; mɔgɔ si tɛ dimi tuun. O ye kuncɛbayakow lo ye.
+texte_mos: Sẽn sɩng ne wakat kãnga, b yaalda taaba, la ned ka yikd sũ-yikri ye. Yaa a Zeova n yeel-a woto.
 
 piste: film-021
 histoire: Le rakiré entre Samo et Mossi
@@ -370,3 +474,5 @@ intonation: doux (scénario)
 texte: Aujourd'hui encore, la parenté à plaisanterie est une façon de se dire : plus jamais la guerre.
 genre: adulte/libre
 duree: 6400ms (mesurée sur le film)
+texte_dyu: Hali bi, an be se k'a fɔ ko: "Kɛlɛ tɛna kɛ tugun".
+texte_mos: Rũndã-rũndã me, d sã n gomd zak rãmb yelle, d tõe n yeelame tɩ zabr pa na n le zĩnd ye.

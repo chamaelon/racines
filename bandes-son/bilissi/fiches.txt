@@ -10,6 +10,10 @@ intonation: posé (proposée)
 texte: Au Macina, autrefois, les troupeaux couvraient la plaine. Ce pays aurait pu être heureux, s'il n'avait pas eu Bilissi.
 genre: adulte/homme
 duree: 8270ms (estimée)
+texte_dyu: Wagati tɛmɛninw na, Makina dugu kɔnɔ, sagaw ni baw tun be to ka mara kɛnɛgbɛ la. Ni Bilisi tun tɛ yen, o jamana tun be se ka kɛ hɛɛrɛ la.
+enregistre_dyu: bilissi-n1-dyu.m4a (11706ms)
+texte_fuf: Wakkati mawɗi nder lesdi Makina, yimɓe ɓe'e keewi bee leɗɗe. Luttuɗo leydi ndin heɓan belɗum to Bilissi walaa.
+enregistre_fuf: bilissi-n1-fuf.m4a (9162ms)
 
 piste: n2
 histoire: La part de Bilissi
@@ -20,6 +24,10 @@ intonation: posé (proposée)
 texte: La part la plus charnue revient à Bilissi. C'est sa loi.
 genre: adulte/homme
 duree: 4780ms (estimée)
+texte_dyu: A kɛra ten, mɔgɔ minw tun ka kan k'a ta baaraw bɛɛ kɛ, olugu tun ye Bilisi le ye. O ye a ka sariya ye.
+enregistre_dyu: bilissi-n2-dyu.m4a (8954ms)
+texte_fuf: Ammaa ɓurɗo yiite fuu Bilisi. Kanjum woni sariyaaji maako.
+enregistre_fuf: bilissi-n2-fuf.m4a (4810ms)
 
 piste: n3
 histoire: La part de Bilissi
@@ -30,6 +38,10 @@ intonation: interrogatif (proposée)
 texte: Les gardes ne laissent presque rien aux familles. Hamadi regarde les enfants de son campement maigrir. Que fait-il ?
 genre: adulte/homme
 duree: 8120ms (estimée)
+texte_dyu: Kɔlɔsilikɛbagaw tɛ foyi to u ka denbayaw ye. Hamadi tun b'a ɲasin a ta mɔgɔw ma, k'a ye ko o ka denmisɛnw fari fagara. A be mun lo kɛra?
+enregistre_dyu: bilissi-n3-dyu.m4a (12084ms)
+texte_fuf: Gardiiɓe ɗon acca ko'e maɓɓe. Hamadi ɗon yi'a ɓikkoy nder suudu maako ɓe mbaɗi nyaamo. Hol ko o waɗi?
+enregistre_fuf: bilissi-n3-fuf.m4a (8996ms)
 
 piste: plainte
 histoire: La part de Bilissi
@@ -40,6 +52,10 @@ intonation: posé (proposée)
 texte: Te plaindre ? Encore un mot, et ta bête aussi sera pour lui.
 genre: adulte/homme
 duree: 5690ms (estimée)
+texte_dyu: Yala i b'i yɛrɛ jalaki wa? Ni a ka kuma kelen fɔ tuun, i ta bɛgan fana bɛna kɛ a ta ye.
+enregistre_dyu: bilissi-plainte-dyu.m4a (6954ms)
+texte_fuf: Ma'ajugo? Ɗo'ol wolde go'oto, ngam maajum dabbaaji maaɗa boo keɓan maako.
+enregistre_fuf: bilissi-plainte-fuf.m4a (6170ms)
 
 piste: n4
 histoire: La part de Bilissi
@@ -50,6 +66,10 @@ intonation: posé (proposée)
 texte: La force ne l'aidera pas. Il faut autre chose.
 genre: adulte/homme
 duree: 4020ms (estimée)
+texte_dyu: Fanga tɛna se k'a dɛmɛ. An mako be fɛɛn wɛrɛ la.
+enregistre_dyu: bilissi-n4-dyu.m4a (3994ms)
+texte_fuf: Nguurndam waawataa wallude mo. Ɗu'um ɗon yiɗi feere.
+enregistre_fuf: bilissi-n4-fuf.m4a (3962ms)
 
 piste: ruse
 histoire: La part de Bilissi
@@ -60,6 +80,10 @@ intonation: posé (proposée)
 texte: Il aime la meilleure part ? Il va l'avoir.
 genre: jeune/homme
 duree: 4020ms (estimée)
+texte_dyu: A b'a fɛ ka koo bɛɛ kɛ a ɲɛɛ na wa? A bena a sɔrɔ.
+enregistre_dyu: bilissi-ruse-dyu.m4a (4586ms)
+texte_fuf: O yiɗi ɓurɗum? O heɓan mo.
+enregistre_fuf: bilissi-ruse-fuf.m4a (2810ms)
 
 piste: n5
 histoire: La part de Bilissi
@@ -70,6 +94,10 @@ intonation: chuchoté (proposée)
 texte: Dans la nuit, ils préparent un morceau magnifique. Regarde ce qu'il y a dans la cour.
 genre: adulte/homme
 duree: 6830ms (estimée)
+texte_dyu: Sɔgɔma, u be dumuniba labɛn. A filɛ, fɛɛn min be luu kɔnɔ.
+enregistre_dyu: bilissi-n5-dyu.m4a (5354ms)
+texte_fuf: Nder jemma, ɓe mbaɗata kuugal mawnde. Ndaa ko woni nder suudu.
+enregistre_fuf: bilissi-n5-fuf.m4a (4506ms)
 
 piste: n6
 histoire: La part de Bilissi
@@ -80,6 +108,10 @@ intonation: interrogatif (proposée)
 texte: Avec quoi Hamadi remplit-il le morceau ?
 genre: adulte/homme
 duree: 2960ms (estimée)
+texte_dyu: Hamadi be mun lo kɛ k'o yɔrɔ fa?
+enregistre_dyu: bilissi-n6-dyu.m4a (2672ms)
+texte_fuf: Ko honɗun Hamadi ƴuurata ?
+enregistre_fuf: bilissi-n6-fuf.m4a (2288ms)
 
 piste: cailloux
 histoire: La part de Bilissi
@@ -90,6 +122,10 @@ intonation: chuchoté (proposée)
 texte: Des cailloux ? Il les sentira à la première bouchée, et il saura qui les a mis. Prends plutôt du piment, et couvre-le de beurre.
 genre: adulte/femme
 duree: 10700ms (estimée)
+texte_dyu: Yala kabakuruw lo? Ni a kɔnna ka o domu tuma min na, a bɛna o ye. A bɛna a lɔn ko jɔn le k'a bla. Nka, i ka pikiri dɔ ta k'a kɛ mugu ye.
+enregistre_dyu: bilissi-cailloux-dyu.m4a (11870ms)
+texte_fuf: Kamɓe ? Nde o fuɗɗi nyaamugo ɗi, o anndi ko waɗi ɗe. Ammaa hoo'u peppere, ɓooyi ɗum bee ƴiiƴam.
+enregistre_fuf: bilissi-cailloux-fuf.m4a (8420ms)
 
 piste: n7
 histoire: La part de Bilissi
@@ -100,6 +136,10 @@ intonation: interrogatif (proposée)
 texte: Veux-tu l'écouter ?
 genre: adulte/homme
 duree: 1440ms (estimée)
+texte_dyu: Yala i b'a fɛ k'a lamɛn wa?
+enregistre_dyu: bilissi-n7-dyu.m4a (2192ms)
+texte_fuf: A yiɗi nanugo haala maako?
+enregistre_fuf: bilissi-n7-fuf.m4a (2128ms)
 
 piste: casse
 histoire: La part de Bilissi
@@ -110,6 +150,10 @@ intonation: posé (proposée)
 texte: Bilissi mord, crache une dent, et fait battre le campement. On ne rit pas. Le tyran reste, et désormais il fait goûter tout ce qu'on lui sert.
 genre: adulte/homme
 duree: 11610ms (estimée)
+texte_dyu: Bilisi y'a kin, k'a ɲin dɔ bɔ a kaan na. An tɛ yɛlɛko kɛ. O tuma ra, mɔgɔjugu nin tora a yɛrɛ kɔrɔ, k'a to an ye fɛn o fɛn di a ma k'o domu.
+enregistre_dyu: bilissi-casse-dyu.m4a (13140ms)
+texte_fuf: Bilissi nyaami, o maɓɓi cukalel, nden o waɗani yimɓe ɓe'e. En njettaa. O ɗon jooɗoto, ammaa daga jooni o ɗon hokkamo ko'e maako fuu.
+enregistre_fuf: bilissi-casse-fuf.m4a (11828ms)
 
 piste: piment
 histoire: La part de Bilissi
@@ -120,6 +164,10 @@ intonation: interrogatif (proposée)
 texte: Et s'il comprend ?
 genre: adulte/femme
 duree: 1820ms (estimée)
+texte_dyu: N'a y'o faamu, mun lo bena kɛ do?
+enregistre_dyu: bilissi-piment-dyu.m4a (2400ms)
+texte_fuf: To o faami?
+enregistre_fuf: bilissi-piment-fuf.m4a (1104ms)
 
 piste: n8
 histoire: La part de Bilissi
@@ -130,6 +178,10 @@ intonation: chuchoté (proposée)
 texte: Il ne regarde que la viande.
 genre: jeune/homme
 duree: 2580ms (estimée)
+texte_dyu: A be sogo dɔrɔn lo filɛ.
+enregistre_dyu: bilissi-n8-dyu.m4a (1856ms)
+texte_fuf: O ɗon ɗaɓɓa tan nyaamdu.
+enregistre_fuf: bilissi-n8-fuf.m4a (1808ms)
 
 piste: n9
 histoire: La part de Bilissi
@@ -140,6 +192,10 @@ intonation: posé (proposée)
 texte: Le jour du grand sacrifice, les tambours donnent la cadence du cortège. Hamadi doit avancer au rythme, les yeux baissés.
 genre: adulte/homme
 duree: 8500ms (estimée)
+texte_dyu: Ayiwa, sarakaba lon na, burufiyɛkanw le bɛ kɛ sababu ye ka jama ta ɲɔgɔnlajɛn sabati. Hamadi ka kan k'a ɲɛ biri duguma.
+enregistre_dyu: bilissi-n9-dyu.m4a (10202ms)
+texte_fuf: Nder nyalnde sembe kalluɗum, ɓooyaari ɗon kolli ko'e maɓɓe. Hamadi waawi ɓeydaade yeeso, e gite mum'en dow.
+enregistre_fuf: bilissi-n9-fuf.m4a (8122ms)
 
 piste: n11
 histoire: La part de Bilissi
@@ -150,6 +206,10 @@ intonation: vif (proposée)
 texte: Donne ! C'est ma part !
 genre: adulte/homme
 duree: 2880ms (estimée)
+texte_dyu: N'a sɔrɔ i be se k'o kɛ. O ye ne ta le ye!
+enregistre_dyu: bilissi-n11-dyu.m4a (3818ms)
+texte_fuf: Hokka! Ɗuum woni kuugal am!
+enregistre_fuf: bilissi-n11-fuf.m4a (2522ms)
 
 piste: n12
 histoire: La part de Bilissi
@@ -160,6 +220,10 @@ intonation: enlevé (proposée)
 texte: Bilissi l'engloutit d'un seul coup, sans même mâcher. Le piment ! Il devient rouge, il saute, il hurle. Et pour la première fois, tout le monde ose rire de lui.
 genre: adulte/homme
 duree: 13200ms (estimée)
+texte_dyu: Bilisi k'a domu o yɔrɔnin bɛɛ, a ma foyi kɛ. O ye pikiri ye! A fari wulenna, a be sanfɛla don ani ka kule. A siɲɛ fɔlɔ la, mɔgɔ bɛɛ y'a daminɛ ka yɛlɛ a ma.
+enregistre_dyu: bilissi-n12-dyu.m4a (15230ms)
+texte_fuf: Bilissi nyaami mo nder wakkati go'o, ammaa o maayi. Peppi ! O ɓooyli, o jippini, o boowi. Bana nde fuɗɗoode, yimɓe fuu mbaɗi mo.
+enregistre_fuf: bilissi-n12-fuf.m4a (10782ms)
 
 piste: n13
 histoire: La part de Bilissi
@@ -170,6 +234,10 @@ intonation: posé (proposée)
 texte: Un tyran dont on se moque ne fait plus peur. Bilissi, ridiculisé, quitte le pays, et on partage enfin la viande entre toutes les familles.
 genre: adulte/homme
 duree: 10550ms (estimée)
+texte_dyu: Mɔgɔjugu min koo man di mɔgɔ ye, o tigi tɛ siran tugun. O bɛɛ n'a ta, o ka kan k'o sogo di denbaya bɛɛ ma.
+enregistre_dyu: bilissi-n13-dyu.m4a (9578ms)
+texte_fuf: Luttuɗo mo ɓe njogii ɗon hulɓinaay. Ɓe njanngini mo, ɓe mbi'i: "Ndaa, aɗa anndi ma".
+enregistre_fuf: bilissi-n13-fuf.m4a (6500ms)
 
 piste: n14
 histoire: La part de Bilissi
@@ -180,6 +248,10 @@ intonation: posé (proposée)
 texte: Depuis, on dit : la part de Bilissi. C'est la part que prend un puissant, sans la mériter.
 genre: adulte/homme
 duree: 7890ms (estimée)
+texte_dyu: Kabi o tuma, u b'a fɔ ko: "Bilisi ta ye". Fanga be mɔgɔ min na, o tigi b'o le ta.
+enregistre_dyu: bilissi-n14-dyu.m4a (7092ms)
+texte_fuf: Gila ndeen, ɓe mbi'i: darnde Bilissi. Kanjum woni ko mawɗo waɗata, ammaa o heɓataa.
+enregistre_fuf: bilissi-n14-fuf.m4a (7700ms)
 
 piste: film-001
 histoire: La part de Bilissi
@@ -190,6 +262,8 @@ intonation: malicieux (scénario)
 texte: La part de Bilissi. Une légende peule.
 genre: adulte/libre
 duree: 4200ms (mesurée sur le film)
+texte_dyu: Bilisi ye min kɛ. O tun ye maana dɔ ye.
+texte_fuf: Fedde Bilissi. Gooto gootol.
 
 piste: film-002
 histoire: La part de Bilissi
@@ -200,6 +274,8 @@ intonation: posé (proposée)
 texte: Au Macina, autrefois, les troupeaux couvraient la plaine.
 genre: adulte/libre
 duree: 4300ms (mesurée sur le film)
+texte_dyu: Wagati tɛmɛninw na, Makina dugu kɔnɔ, sagaw ni baw tun be to ka mara kɛnɛgbɛ la.
+texte_fuf: Wakkati mawɗi nder lesdi Makina, yimɓe ɓe'e keewi bee leɗɗe.
 
 piste: film-003
 histoire: La part de Bilissi
@@ -210,6 +286,8 @@ intonation: posé (proposée)
 texte: Ce pays aurait pu être heureux, s'il n'avait pas eu Bilissi.
 genre: adulte/libre
 duree: 4100ms (mesurée sur le film)
+texte_dyu: Ni Bilisi tun tɛ yen, o jamana tun be se ka kɛ hɛɛrɛ la.
+texte_fuf: Luttuɗo leydi ndin heɓan belɗum to Bilissi walaa.
 
 piste: film-004
 histoire: La part de Bilissi
@@ -220,6 +298,8 @@ intonation: posé (proposée)
 texte: Bilissi était un tyran. Gros, content de lui, il se faisait servir toute la journée.
 genre: adulte/libre
 duree: 6900ms (mesurée sur le film)
+texte_dyu: Bilisi tun ye mɔgɔ fariman dɔ ye. A tun ka fisa n'a ye ani a tun be baara kɛ n'u ye tile kɔnɔ.
+texte_fuf: Bilissi laati mawɗo. Ɗuum ɓeydaama, eɗen nganndi ɗum.
 
 piste: film-005
 histoire: La part de Bilissi
@@ -230,6 +310,8 @@ intonation: ironique (scénario)
 texte: Il mangeait, il mangeait, et ensuite, il mangeait encore.
 genre: adulte/libre
 duree: 4700ms (mesurée sur le film)
+texte_dyu: A tun be dumuni kɛra, ka dumuni kɛ. O kɔ, a tun b'a fɛ ka dumuni wɛrɛ kɛ fana.
+texte_fuf: O nyaami, o nyaami.
 
 piste: film-006
 histoire: La part de Bilissi
@@ -240,6 +322,8 @@ intonation: posé (proposée)
 texte: Et il avait fait sa loi.
 genre: adulte/libre
 duree: 2300ms (mesurée sur le film)
+texte_dyu: A y'a ka sariya labato.
+texte_fuf: O waɗi tawreeta maako.
 
 piste: film-007
 histoire: La part de Bilissi
@@ -250,6 +334,8 @@ intonation: grave (scénario)
 texte: Quand on sacrifiait une bête, la part la plus charnue lui revenait.
 genre: adulte/libre
 duree: 4400ms (mesurée sur le film)
+texte_dyu: Ni mɔgɔ tun b'a fɛ ka begɛn dɔ faga, a tun ka kan k'a ninyɔrɔ sɔrɔ.
+texte_fuf: To goɗɗo sakkitii dabbaaji, o heɓata ko ɓurɗo fuu.
 
 piste: film-008
 histoire: La part de Bilissi
@@ -260,6 +346,8 @@ intonation: posé (proposée)
 texte: Ses gardes passaient partout, et ils ne laissaient presque rien aux familles, qui avaient faim.
 genre: adulte/libre
 duree: 5400ms (mesurée sur le film)
+texte_dyu: A ta baaradenw tun bɛ yaala fan bɛɛ ra, o ma foyi to kɔngɔtɔw ye.
+texte_fuf: Gardiiɓe maako ndilli haa nokkuure fuu, ɓe accaay kooɗume ngam nyaamdu.
 
 piste: film-009
 histoire: La part de Bilissi
@@ -270,6 +358,8 @@ intonation: posé (proposée)
 texte: Hamadi, un jeune berger, regardait les enfants de son campement maigrir.
 genre: adulte/libre
 duree: 5300ms (mesurée sur le film)
+texte_dyu: Hamadi tun ye sagagbɛnbaga kanbelen dɔ le ye. A tun b'a ta fanibon kɔnɔ, a tun bɛ den fitininw fari fagako flɛra.
+texte_fuf: Hamadi, mawɗo lamɓe, o ɗon yi'i ɓikkoy nder suudu maako ɓe ngaɗata.
 
 piste: film-010
 histoire: La part de Bilissi
@@ -280,6 +370,8 @@ intonation: malicieux (scénario)
 texte: Et soudain, il eut une idée.
 genre: adulte/libre
 duree: 2800ms (mesurée sur le film)
+texte_dyu: O kɔ, a ye miiriya dɔ sɔrɔ.
+texte_fuf: Ɗon e ɗon o heɓii miijo.
 
 piste: film-011
 histoire: La part de Bilissi
@@ -290,6 +382,8 @@ intonation: malicieux (scénario)
 texte: Il aime la meilleure part ? Il va l'avoir.
 genre: adulte/homme
 duree: 3300ms (mesurée sur le film)
+texte_dyu: A b'a fɛ ka koo bɛɛ kɛ a ɲɛɛ na wa? A bena a sɔrɔ.
+texte_fuf: O yiɗi ɓurɗum? O heɓan mo.
 
 piste: film-012
 histoire: La part de Bilissi
@@ -300,6 +394,8 @@ intonation: chuchoté (scénario)
 texte: Dans la nuit, ils préparèrent un morceau magnifique, et ils le remplirent de piment.
 genre: adulte/libre
 duree: 5400ms (mesurée sur le film)
+texte_dyu: Nka su fɛ, o ka domuniba dɔ tobi k'a fa simankisɛ ra.
+texte_fuf: Nde jemma waɗi, ɓe cuɓii ceede mawnde, ɓe keewi ɗum.
 
 piste: film-013
 histoire: La part de Bilissi
@@ -310,6 +406,8 @@ intonation: posé (proposée)
 texte: Puis ils le couvrirent de beurre doré. Il paraissait encore plus beau.
 genre: adulte/libre
 duree: 5100ms (mesurée sur le film)
+texte_dyu: O kɔ, o ka turu kasadiman dɔ kɛ a ra. A tun ka ɲi yɛrɛ le.
+texte_fuf: Sey ɓe mbi'i: "Ndaa! O ɗon yi'i ɓeydaago boo.
 
 piste: film-014
 histoire: La part de Bilissi
@@ -320,6 +418,8 @@ intonation: effrayé (scénario)
 texte: Et s'il comprend ?
 genre: adulte/femme
 duree: 1900ms (mesurée sur le film)
+texte_dyu: N'a y'o faamu, mun lo bena kɛ do?
+texte_fuf: To o faami?
 
 piste: film-015
 histoire: La part de Bilissi
@@ -330,6 +430,8 @@ intonation: sûr de lui (scénario)
 texte: Il ne regarde que la viande.
 genre: adulte/homme
 duree: 2200ms (mesurée sur le film)
+texte_dyu: A be sogo dɔrɔn lo filɛ.
+texte_fuf: O ɗon ɗaɓɓa tan nyaamdu.
 
 piste: film-016
 histoire: La part de Bilissi
@@ -340,6 +442,8 @@ intonation: posé (proposée)
 texte: Le jour du grand sacrifice, Hamadi présenta la part de Bilissi, les yeux baissés.
 genre: adulte/libre
 duree: 5900ms (mesurée sur le film)
+texte_dyu: Ayiwa, lon min na o tun bɛ sarakaba bɔ Matigi Ala ye, Hamadi k'a ɲa biri dugu ma ka Bilisi ta siman di.
+texte_fuf: Nder nyalnde sarru mawndu, Hamadi wurtini Bilissi jawdi maako.
 
 piste: film-017
 histoire: La part de Bilissi
@@ -350,6 +454,8 @@ intonation: ironique (scénario)
 texte: Bilissi l'engloutit d'un seul coup, sans même mâcher.
 genre: adulte/libre
 duree: 4000ms (mesurée sur le film)
+texte_dyu: Bilisi k'a domu o yɔrɔnin bɛɛ, a ma foyi kɛ.
+texte_fuf: Bilissi nyaami mo nder wakkati go'o, ammaa o maayi.
 
 piste: film-018
 histoire: La part de Bilissi
@@ -360,6 +466,8 @@ intonation: enlevé (scénario)
 texte: Le piment ! Il devint rouge, il sauta, il hurla.
 genre: adulte/libre
 duree: 4800ms (mesurée sur le film)
+texte_dyu: O ye pikiri ye! A kɛra i n'a fɔ a wulenna.
+texte_fuf: Peppi ! O jeyaa, o jippii, o boowi.
 
 piste: film-019
 histoire: La part de Bilissi
@@ -370,6 +478,8 @@ intonation: joyeux (scénario)
 texte: Et pour la première fois, tout le monde osa rire de lui.
 genre: adulte/libre
 duree: 3800ms (mesurée sur le film)
+texte_dyu: A siɲɛ fɔlɔ la, mɔgɔ bɛɛ y'a daminɛ ka yɛlɛ a ma.
+texte_fuf: E nde fuɗɗoode, yimɓe fuu ɓe njetta mo.
 
 piste: film-020
 histoire: La part de Bilissi
@@ -380,6 +490,8 @@ intonation: posé (proposée)
 texte: Un tyran dont on se moque ne fait plus peur.
 genre: adulte/libre
 duree: 3400ms (mesurée sur le film)
+texte_dyu: Mɔgɔjugu min koo man di mɔgɔ ye, o tigi tɛ siran tugun.
+texte_fuf: Luttuɗo mo ɓe njogii ɗon hulɓinaay.
 
 piste: film-021
 histoire: La part de Bilissi
@@ -390,6 +502,8 @@ intonation: posé (proposée)
 texte: Bilissi, ridiculisé, quitta le pays.
 genre: adulte/libre
 duree: 4100ms (mesurée sur le film)
+texte_dyu: U y'a lɔgɔbɔ ani a bɔra jamana na.
+texte_fuf: Bilissi, ɓe njogii mo, o dilli leydi ndi.
 
 piste: film-022
 histoire: La part de Bilissi
@@ -400,6 +514,8 @@ intonation: joyeux (scénario)
 texte: Ce jour-là, on partagea enfin la viande comme il faut, entre toutes les familles.
 genre: adulte/libre
 duree: 5400ms (mesurée sur le film)
+texte_dyu: Ayiwa, o lon yɛrɛ ra, an ka sogo taran ka kaɲa ni sariya ye, k'a di denbaya bɛɛ ma.
+texte_fuf: Nder nyalnde nde'e ɓe keɓi nyaamdu dow yimɓe fuu.
 
 piste: film-023
 histoire: La part de Bilissi
@@ -410,3 +526,5 @@ intonation: doux (scénario)
 texte: Depuis, on dit : la part de Bilissi. C'est la part que prend un puissant, sans la mériter.
 genre: adulte/libre
 duree: 7300ms (mesurée sur le film)
+texte_dyu: Kabi o tuma, u b'a fɔ ko: "Bilisi ta ye". Fanga be mɔgɔ min na, o tigi b'o le ta.
+texte_fuf: Gila ndeen, ɓe mbi'i: darnde Bilissi. Kanjum woni ko mawɗo waɗata, ammaa o heɓataa.

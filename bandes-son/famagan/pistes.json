@@ -11,55 +11,135 @@
    "id": "titre",
    "type": "titre",
    "chemin": "titre",
-   "texte": "Famagan et le Gwiriko"
+   "texte": "Famagan et le Gwiriko",
+   "langues": {
+    "fuf": {
+     "texte": "Famagan e Gwiriko",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "A Famagan ne a Gwiriko",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "presentation",
    "type": "presentation",
    "chemin": "presentation",
-   "texte": "Au XVIIIe siècle, Famagan Ouattara quitte Kong avec ses cavaliers. Tu chevauches dans sa troupe et tu assistes à la naissance du Gwiriko. Tes choix changent ce que tu vois, pas les faits."
+   "texte": "Au XVIIIe siècle, Famagan Ouattara quitte Kong avec ses cavaliers. Tu chevauches dans sa troupe et tu assistes à la naissance du Gwiriko. Tes choix changent ce que tu vois, pas les faits.",
+   "langues": {
+    "fuf": {
+     "texte": "Nder karnuwol 18th, Famagan Ouattara e ardiiɓe mum njahi Kong. On ɗon njooɗi nder jama'aare maako, on ɗon ngi'i danygol Gwiriko. Yiɗuki ma ɗon wayli ko ngi'ataa, naa goonga.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Yʋʋm kob-gĩnd 18 soabã pʋgẽ, a Ouattara sẽn boond t'a Famagan wã ne b tãb-biisã yii Kong. Yãmb kẽnga a sodaasã sʋka, la y yãnda Gwiriko rogmã. Y sẽn yãkd bũmb ningã pa toeem yɛlã ye.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "personnages.griot.nom",
    "type": "personnage",
    "chemin": "personnages.griot.nom",
-   "texte": "Le griot"
+   "texte": "Le griot",
+   "langues": {
+    "fuf": {
+     "texte": "Le griot"
+    },
+    "mos": {
+     "texte": "Le griot"
+    }
+   }
   },
   {
    "id": "personnages.famagan.nom",
    "type": "personnage",
    "chemin": "personnages.famagan.nom",
-   "texte": "Famagan Ouattara"
+   "texte": "Famagan Ouattara",
+   "langues": {
+    "fuf": {
+     "texte": "Famagan Ouattara"
+    },
+    "mos": {
+     "texte": "Famagan Ouattara"
+    }
+   }
   },
   {
    "id": "personnages.chef.nom",
    "type": "personnage",
    "chemin": "personnages.chef.nom",
-   "texte": "Le chef de la terre"
+   "texte": "Le chef de la terre",
+   "langues": {
+    "fuf": {
+     "texte": "Le chef de la terre"
+    },
+    "mos": {
+     "texte": "Le chef de la terre"
+    }
+   }
   },
   {
    "id": "personnages.rival.nom",
    "type": "personnage",
    "chemin": "personnages.rival.nom",
-   "texte": "Le rival"
+   "texte": "Le rival",
+   "langues": {
+    "fuf": {
+     "texte": "Le rival"
+    },
+    "mos": {
+     "texte": "Le rival"
+    }
+   }
   },
   {
    "id": "personnages.griotte.nom",
    "type": "personnage",
    "chemin": "personnages.griotte.nom",
-   "texte": "La griotte"
+   "texte": "La griotte",
+   "langues": {
+    "fuf": {
+     "texte": "La griotte"
+    },
+    "mos": {
+     "texte": "La griotte"
+    }
+   }
   },
   {
    "id": "fins.canon",
    "type": "fin",
    "chemin": "fins.canon",
-   "texte": "Mémoire : le Gwiriko et ses routes ouvertes"
+   "texte": "Mémoire : le Gwiriko et ses routes ouvertes",
+   "langues": {
+    "fuf": {
+     "texte": "Kuftol: Gwiriko e laawol mum",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Tẽegre: Gwiriko la a teedã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "fins.relire",
    "type": "fin",
    "chemin": "fins.relire",
-   "texte": "Mémoire à reprendre : l'histoire demande une autre écoute"
+   "texte": "Mémoire à reprendre : l'histoire demande une autre écoute",
+   "langues": {
+    "fuf": {
+     "texte": "Caggal ko ɓeydaani: taariika ina ɗaɓɓita nanondiral feere",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Tẽeb sẽn segd n leb n zĩndame: kibarã baoodame tɩ b kelg a to",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "n1",
@@ -73,7 +153,23 @@
    "texte": "Au dix-huitième siècle, Kong est une grande ville de commerce, et de guerre aussi. Famagan Ouattara y dirige des cavaliers.",
    "genre": "adulte/homme",
    "duree_ms": 8500,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Nder karnuwol sappo e joweetati, Kong laati gariiri kuuɓal mawɗo, nden boo nder konu. O'attara mo anndiraaɗo woni ardiiɗo konu.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 11354,
+     "fichier": "famagan-n1-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Yʋʋm kob-gĩnd piig la a nii wã pʋgẽ, Kong ra yaa tẽn-kãsenga. A Ouattara yʋʋr sẽn boond t'a Maamã zãada so-pakdb n kẽng be.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9594,
+     "fichier": "famagan-n1-mos.m4a"
+    }
+   }
   },
   {
    "id": "n2",
@@ -87,37 +183,103 @@
    "texte": "Un jour, il mène sa troupe vers le nord-ouest. La route est longue.",
    "genre": "adulte/homme",
    "duree_ms": 5690,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Wakkati go'o, o yahdi bee jama'aare maako haa woyla hirnaange. Wonaa laawol gootol.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6794,
+     "fichier": "famagan-n2-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Daar a ye, a rɩka a tãb-biisã taoore. Yaa sor-kãsenga.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4538,
+     "fichier": "famagan-n2-mos.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n3.consigne",
    "type": "jeu",
    "chemin": "nodes.n3.consigne",
-   "texte": "En route vers le nord-ouest ! Tape vite sur ESPACE ou sur l'écran pour garder le rythme de la troupe."
+   "texte": "En route vers le nord-ouest ! Tape vite sur ESPACE ou sur l'écran pour garder le rythme de la troupe.",
+   "langues": {
+    "fuf": {
+     "texte": "E nder laawol haa woyla hirnaange! Ɗaɓɓita dow SPACE malla dow laabi ngam waɗugo ko yimɓe mbi'ata.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "B sẽn dabd n dabd rɩtg-wũndã! Yãk-y n tool-y neda SPACE, wall y tik-y bĩngrã zug tɩ y tõog n tũ neb nins sẽn be be zĩig ningã.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n3.gagne",
    "type": "jeu",
    "chemin": "nodes.n3.gagne",
-   "texte": "Tu tiens le rang."
+   "texte": "Tu tiens le rang.",
+   "langues": {
+    "fuf": {
+     "texte": "On ɗon njooɗoto.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Yaa yãmb n so.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n3.perdu",
    "type": "jeu",
    "chemin": "nodes.n3.perdu",
-   "texte": "Tu arrives dernier, mais tu arrives."
+   "texte": "Tu arrives dernier, mais tu arrives.",
+   "langues": {
+    "fuf": {
+     "texte": "On ɗon ɓaawo, ammaa on ɗon wari.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Yãmb yaa poorẽ soaba, la y yaool n waame.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n3.tags.win",
    "type": "parcours",
    "chemin": "nodes.n3.tags.win",
-   "texte": "course gagnée"
+   "texte": "course gagnée",
+   "langues": {
+    "fuf": {
+     "texte": "ɓeydaaki",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "zoees sẽn paamã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n3.tags.lose",
    "type": "parcours",
    "chemin": "nodes.n3.tags.lose",
-   "texte": "course perdue"
+   "texte": "course perdue",
+   "langues": {
+    "fuf": {
+     "texte": "ɓeydaaki",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "zoees ning b sẽn sãamã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "n4",
@@ -131,31 +293,87 @@
    "texte": "Les voici dans la région de Bobo. Ici, la terre a déjà ses maîtres. Toi, tu observes Famagan. Sur quoi portes-tu ton attention ?",
    "genre": "adulte/homme",
    "duree_ms": 10620,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Ɗeen ngoni nder fannu Bobo. Ɗoon, leydi ndii ina jogii joomumɓe. On ɗon ndaara Famagan. Ko honɗun woni ɓernde mon?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8446,
+     "fichier": "famagan-n4-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Yaa b sẽn be Bobo soolmẽ wã. Tẽnga zoe n tara a zu-soben-dãmba. Yãmb geta a Famagan yelle. Bõe yell la y tagsdẽ?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9550,
+     "fichier": "famagan-n4-mos.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n4.choices.0.label",
    "type": "choix",
    "chemin": "nodes.n4.choices.0.label",
-   "texte": "Sur ses paroles au gardien de la terre"
+   "texte": "Sur ses paroles au gardien de la terre",
+   "langues": {
+    "fuf": {
+     "texte": "Ko o wi'i laamiiɗo lesdi",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "A sẽn yeel tẽngã gũudã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n4.choices.0.tag",
    "type": "parcours",
    "chemin": "nodes.n4.choices.0.tag",
-   "texte": "ce qui se dit"
+   "texte": "ce qui se dit",
+   "langues": {
+    "fuf": {
+     "texte": "ko ɗum wi'i",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "b sẽn yetã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n4.choices.1.label",
    "type": "choix",
    "chemin": "nodes.n4.choices.1.label",
-   "texte": "Sur les cavaliers derrière lui"
+   "texte": "Sur les cavaliers derrière lui",
+   "langues": {
+    "fuf": {
+     "texte": "Hakkiilo hawrotooɓe dow maako",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "B sẽn zao b poorẽ wã,",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n4.choices.1.tag",
    "type": "parcours",
    "chemin": "nodes.n4.choices.1.tag",
-   "texte": "la troupe"
+   "texte": "la troupe",
+   "langues": {
+    "fuf": {
+     "texte": "jama'aare",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "tãb-bãmba",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "cavaliers",
@@ -169,7 +387,23 @@
    "texte": "Ils restent à distance, en armes, et ils se taisent. Chacun comprend que l'on parle aussi avec cela. Mais écoute.",
    "genre": "adulte/homme",
    "duree_ms": 8800,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Ɓe ɗon njooɗi haa yaasi, ɓe ɗon maaya. Yimɓe fuu ɓe anndi wonde en ɗon mbi'a bee non boo. Amma nana.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9796,
+     "fichier": "famagan-cavaliers-fuf.m4a"
+    },
+    "mos": {
+     "texte": "B zãaga b mens ne zab-teedã, la b sĩndame. Ned kam fãa miime tɩ yaa ne rẽ me la b gomda. La kelg-y.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8244,
+     "fichier": "famagan-cavaliers-mos.m4a"
+    }
+   }
   },
   {
    "id": "parole",
@@ -183,7 +417,23 @@
    "texte": "Je viens te saluer, gardien de cette terre.",
    "genre": "adulte/homme",
    "duree_ms": 3490,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Mi wari mi salmini ma, mawɗo leydi ndii.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2672,
+     "fichier": "famagan-parole-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Mam waame n na n pʋʋs foom, tẽng kãngã gũud.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5104,
+     "fichier": "famagan-parole-mos.m4a"
+    }
+   }
   },
   {
    "id": "n5",
@@ -197,7 +447,23 @@
    "texte": "Tu viens en ami, ou en maître ?",
    "genre": "âgé/homme",
    "duree_ms": 3490,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "On ɗon wari bana boowo, malla bana mawɗo?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2480,
+     "fichier": "famagan-n5-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Yãmb yaa zo-rãmb bɩ karen-saam-dãmba?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 2896,
+     "fichier": "famagan-n5-mos.m4a"
+    }
+   }
   },
   {
    "id": "n6",
@@ -211,7 +477,23 @@
    "texte": "En allié.",
    "genre": "adulte/homme",
    "duree_ms": 1060,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "O laati alkawal.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 1712,
+     "fichier": "famagan-n6-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Yaa a Zeova zoa.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 1008,
+     "fichier": "famagan-n6-mos.m4a"
+    }
+   }
   },
   {
    "id": "n7",
@@ -225,7 +507,23 @@
    "texte": "Le sabre est échangé contre la bénédiction de la terre. Une alliance est conclue. Mais tous n'acceptent pas.",
    "genre": "adulte/homme",
    "duree_ms": 7740,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Allah hokki yimɓe maako barkiɗinki nder lesdi. O waɗi alkawal. Ammaa naa yimɓe fuu njaɓaayi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8116,
+     "fichier": "famagan-n7-fuf.m4a"
+    },
+    "mos": {
+     "texte": "B sã n dɩk zabr sʋʋgã, b naaga tẽngã barkã. Yaa kaool la b maan-yã. La pa ned kam fãa n sak woto ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9156,
+     "fichier": "famagan-n7-mos.m4a"
+    }
+   }
   },
   {
    "id": "n8",
@@ -239,7 +537,23 @@
    "texte": "Un chef rival prend les armes. La charge est rude, et le combat dure.",
    "genre": "adulte/homme",
    "duree_ms": 6070,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Mawɗo mooliijo ɗon jeyaa e juuɗe. Ko'e mon, ko'e mooɗon e ɓerɗe mon fuu.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 6106,
+     "fichier": "famagan-n8-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Neb nins sẽn zabd ne-a wã rɩka b sɩbgrã. Yaa tʋʋm-kãsemse, la koe-moondmã yaa toog wʋsgo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 8586,
+     "fichier": "famagan-n8-mos.m4a"
+    }
+   }
   },
   {
    "id": "n9",
@@ -253,7 +567,23 @@
    "texte": "Je me rends.",
    "genre": "adulte/homme",
    "duree_ms": 1440,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Mi hokkata.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 1312,
+     "fichier": "famagan-n9-fuf.m4a"
+    },
+    "mos": {
+     "texte": "M na n kõo m menga.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 1248,
+     "fichier": "famagan-n9-mos.m4a"
+    }
+   }
   },
   {
    "id": "n10",
@@ -267,7 +597,23 @@
    "texte": "Le rival dépose ses armes. Un royaume naît autour de Bobo. Regarde ce qu'on annonce au tambour.",
    "genre": "adulte/homme",
    "duree_ms": 7360,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Hakkilantooɓe ɓe'e ɗon dari juuɗe muuɗum'en. Laamu ɗon jibina dow Bobo. Ndaa ko ɓe mbi'i dow tammbere.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7748,
+     "fichier": "famagan-n10-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Ned ning sẽn zabd ne-a wã basa a zab-teedã. Yaa Bobo poorẽ la b sigl rĩung. Ges-y bũmb ning b sẽn wilgã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 9732,
+     "fichier": "famagan-n10-mos.m4a"
+    }
+   }
   },
   {
    "id": "n11",
@@ -281,7 +627,23 @@
    "texte": "Ce pays sera en paix, et ses routes ouvertes.",
    "genre": "adulte/homme",
    "duree_ms": 3870,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "O wi'i: \"Luttuɓe nder lesdi ɗon ngi'a jam, laawol maɓɓe ɗon laaɓina.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 5530,
+     "fichier": "famagan-n11-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Tẽnga na n yɩɩ bãane, la a sorã na n yɩ vẽenega.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4528,
+     "fichier": "famagan-n11-mos.m4a"
+    }
+   }
   },
   {
    "id": "n12",
@@ -295,55 +657,151 @@
    "texte": "Le grand marché s'anime : la cola, les étoffes et le sel passent de main en main.",
    "genre": "adulte/homme",
    "duree_ms": 7060,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Fuude mawnde ɗon ɓeyda: kola, limce e njamndi ɗon yahra bee juuɗe.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4970,
+     "fichier": "famagan-n12-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Zĩ-kãsemsã ra yaa wʋsgo. Koɛɛgã, futã la zu-loees ra lebgdame n paasdẽ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7418,
+     "fichier": "famagan-n12-mos.m4a"
+    }
+   }
   },
   {
    "id": "nodes.n13.question",
    "type": "jeu",
    "chemin": "nodes.n13.question",
-   "texte": "Comment s'appelle le royaume né autour de Bobo ?"
+   "texte": "Comment s'appelle le royaume né autour de Bobo ?",
+   "langues": {
+    "fuf": {
+     "texte": "Ko honɗun woni innde laamuuji ɗi Bobo jibini?",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Bobo sẽn dog tẽngã zugã yʋʋr la bõe?",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n13.gagne",
    "type": "jeu",
    "chemin": "nodes.n13.gagne",
-   "texte": "Oui, le Gwiriko."
+   "texte": "Oui, le Gwiriko.",
+   "langues": {
+    "fuf": {
+     "texte": "Ee, Gwiriko.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Yaa Gwiriko.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n13.perdu",
    "type": "jeu",
    "chemin": "nodes.n13.perdu",
-   "texte": "C'était le Gwiriko."
+   "texte": "C'était le Gwiriko.",
+   "langues": {
+    "fuf": {
+     "texte": "Kanko woni Gwiriko.",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Yaa Gwiriko.",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n13.reponses.0.label",
    "type": "jeu",
    "chemin": "nodes.n13.reponses.0.label",
-   "texte": "Le Gwiriko"
+   "texte": "Le Gwiriko",
+   "langues": {
+    "fuf": {
+     "texte": "Gwiriko",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Gwiriko wã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n13.reponses.1.label",
    "type": "jeu",
    "chemin": "nodes.n13.reponses.1.label",
-   "texte": "Le Liptako"
+   "texte": "Le Liptako",
+   "langues": {
+    "fuf": {
+     "texte": "Liptako",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "Liptako wã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n13.reponses.2.label",
    "type": "jeu",
    "chemin": "nodes.n13.reponses.2.label",
-   "texte": "Le Gulmu"
+   "texte": "Le Gulmu",
+   "langues": {
+    "fuf": {
+     "texte": "Gulmu",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "A Gulmu",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n13.tags.win",
    "type": "parcours",
    "chemin": "nodes.n13.tags.win",
-   "texte": "bonne réponse"
+   "texte": "bonne réponse",
+   "langues": {
+    "fuf": {
+     "texte": "jaabawol gooŋga",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "leokr sẽn yaa sõma",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "nodes.n13.tags.lose",
    "type": "parcours",
    "chemin": "nodes.n13.tags.lose",
-   "texte": "réponse manquée"
+   "texte": "réponse manquée",
+   "langues": {
+    "fuf": {
+     "texte": "jaabol maayi",
+     "relecture": "traduction automatique, non relue"
+    },
+    "mos": {
+     "texte": "sẽn pa leokã",
+     "relecture": "traduction automatique, non relue"
+    }
+   }
   },
   {
    "id": "relire",
@@ -357,7 +815,23 @@
    "texte": "Tu as bien chevauché, mais tu as mal écouté. Reprends la route avec moi.",
    "genre": "adulte/femme",
    "duree_ms": 6070,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "On ɗon njaha, ammaa on ɗon nanaako. Ndaare bee am.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4842,
+     "fichier": "famagan-relire-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Fo ra kẽnda sõma, la fo pa kelg-m ye. Kẽng-y ne maam.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 4682,
+     "fichier": "famagan-relire-mos.m4a"
+    }
+   }
   },
   {
    "id": "bien",
@@ -371,7 +845,23 @@
    "texte": "Aujourd'hui encore, les Ouattara de Bobo-Dioulasso se souviennent de cette histoire. Les royaumes naissent de rencontres, et de conquêtes.",
    "genre": "adulte/homme",
    "duree_ms": 8120,
-   "duree_statut": "estimée"
+   "duree_statut": "estimée",
+   "langues": {
+    "fuf": {
+     "texte": "Haa hande, Ouattara'en nder Bobo-Dioulasso ɗon siftora haala nden. Laamu ɗon umma daga haɓugo e heɓugo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 7578,
+     "fichier": "famagan-bien-fuf.m4a"
+    },
+    "mos": {
+     "texte": "Baa rũndã-rũndã, Bobo-Dioulasso Ouattara rãmbã ket n tẽra gom-kãensã. Tẽns sã n dogd taab la b tõogd taaba, yaa rẽ n wat ne soolem dãmba.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "enregistre",
+     "duree_ms": 12890,
+     "fichier": "famagan-bien-mos.m4a"
+    }
+   }
   },
   {
    "id": "film-001",
@@ -387,7 +877,19 @@
    "texte": "Famagan et le Gwiriko. Un récit historique, simplifié pour l'image.",
    "genre": "adulte/libre",
    "duree_ms": 6100,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Famagan e Gwiriko Ɗuum ko haala taariika, ɗum laaɓɓi ngam hollaago.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A Famagan ne a Gwiriko. Bãngr-gomdã yaa bũmb sẽn zĩnd pĩnd wẽndẽ wã, la d tõe n yeelame tɩ yaa vẽenega.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-002",
@@ -403,7 +905,19 @@
    "texte": "Au dix-huitième siècle, Kong est une grande ville de commerce, et de guerre aussi.",
    "genre": "adulte/libre",
    "duree_ms": 5200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Nder karnuwol sappo e joweetati, Kong laati gariiri kuuɓal mawɗo, nden boo nder konu.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Yʋʋm kob-gĩnd piig la a nii wã pʋgẽ, Kong ra yaa tẽn-kãsenga.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-003",
@@ -419,7 +933,19 @@
    "texte": "Famagan Ouattara y dirige des cavaliers.",
    "genre": "adulte/libre",
    "duree_ms": 3300,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "O'attara mo anndiraaɗo woni ardiiɗo konu.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A Ouattara yʋʋr sẽn boond t'a Maamã zãada so-pakdb n kẽng be.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-004",
@@ -435,7 +961,19 @@
    "texte": "Il les entraîne à charger, à faire demi-tour, à saluer du sabre.",
    "genre": "adulte/libre",
    "duree_ms": 4800,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "O torraaɓe ɓe ngaɗata ko'e maɓɓe, ɓe ndaari, ɓe mbaɗi bee kaafahi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A zãmsda bãmb tɩ b tʋk ne sʋʋs la b wẽnemd b poorẽ, n pʋʋsd ne zabr sʋʋse.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-005",
@@ -451,7 +989,19 @@
    "texte": "Un jour, il mène sa troupe vers le nord-ouest. La route est longue.",
    "genre": "adulte/libre",
    "duree_ms": 5500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Wakkati go'o, o yahdi bee jama'aare maako haa woyla hirnaange. Wonaa laawol gootol.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Daar a ye, a rɩka a tãb-biisã taoore. Yaa sor-kãsenga.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-006",
@@ -467,7 +1017,19 @@
    "texte": "Ils passent les plaines et les rivières, sans s'arrêter.",
    "genre": "adulte/libre",
    "duree_ms": 3700,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Ɓe ɗon yaha nder ladde e nder maayo, ɓe ɗon ndilli.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "B kẽeda tẽn-bɛdse, la kʋɩlgã pʋga, n ka bas ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-007",
@@ -483,7 +1045,19 @@
    "texte": "Les voici dans la région de Bobo. Ici, la terre a déjà ses maîtres.",
    "genre": "adulte/libre",
    "duree_ms": 5900,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Ɗeen ngoni nder fannu Bobo. Ɗoon, leydi ndii ina jogii joomumɓe.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Yaa b sẽn be Bobo soolmẽ wã. Tẽnga zoe n tara a zu-soben-dãmba.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-008",
@@ -499,7 +1073,19 @@
    "texte": "Je viens te saluer, gardien de cette terre.",
    "genre": "adulte/homme",
    "duree_ms": 3000,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Mi wari mi salmini ma, mawɗo leydi ndii.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Mam waame n na n pʋʋs foom, tẽng kãngã gũud.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-009",
@@ -515,7 +1101,19 @@
    "texte": "Tu viens en ami, ou en maître ?",
    "genre": "âgé/libre",
    "duree_ms": 2800,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "On ɗon wari bana boowo, malla bana mawɗo?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Yãmb yaa zo-rãmb bɩ karen-saam-dãmba?",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-010",
@@ -531,7 +1129,19 @@
    "texte": "En allié.",
    "genre": "adulte/homme",
    "duree_ms": 2100,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "O laati alkawal.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Yaa a Zeova zoa.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-011",
@@ -547,7 +1157,19 @@
    "texte": "Le sabre est échangé contre la bénédiction de la terre. Une alliance est conclue.",
    "genre": "adulte/libre",
    "duree_ms": 5900,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Allah hokki yimɓe maako barkiɗinki nder lesdi. O waɗi alkawal.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "B sã n dɩk zabr sʋʋgã, b naaga tẽngã barkã. Yaa kaool la b maan-yã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-012",
@@ -563,7 +1185,19 @@
    "texte": "Mais tous n'acceptent pas. Un chef rival prend les armes.",
    "genre": "adulte/libre",
    "duree_ms": 5000,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Ammaa naa yimɓe fuu njaɓaayi. Mawɗo mooliijo ɗon jeyaa e juuɗe.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "La pa ned kam fãa n sak woto ye. Neb nins sẽn zabd ne-a wã rɩka b sɩbgrã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-013",
@@ -579,7 +1213,19 @@
    "texte": "La charge est rude, et le combat dure.",
    "genre": "adulte/libre",
    "duree_ms": 3200,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Ko'e mon, ko'e mooɗon e ɓerɗe mon fuu.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Yaa tʋʋm-kãsemse, la koe-moondmã yaa toog wʋsgo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-014",
@@ -595,7 +1241,19 @@
    "texte": "Je me rends.",
    "genre": "adulte/homme",
    "duree_ms": 2100,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Mi hokkata.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "M na n kõo m menga.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-015",
@@ -611,7 +1269,19 @@
    "texte": "Le rival dépose ses armes. Plus personne ne s'oppose à Famagan.",
    "genre": "adulte/libre",
    "duree_ms": 5400,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Hakkilantooɓe ɓe'e ɗon dari juuɗe muuɗum'en. Walaa koo moye ɗon haɓɓa bee Famagan.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Ned ning sẽn zabd ne-a wã basa a zab-teedã. Ned ka leb n zabd ne a Famagan ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-016",
@@ -627,7 +1297,19 @@
    "texte": "Un royaume naît autour de Bobo : le Gwiriko.",
    "genre": "adulte/libre",
    "duree_ms": 3600,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Laamu jibini dow Bobo: Gwiriko.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "B sẽn gũbg a Bobo wã, Gwiriko soolmã rogame.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-017",
@@ -643,7 +1325,19 @@
    "texte": "Ce pays sera en paix, et ses routes ouvertes.",
    "genre": "adulte/homme",
    "duree_ms": 3500,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "O wi'i: \"Luttuɓe nder lesdi ɗon ngi'a jam, laawol maɓɓe ɗon laaɓina.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Tẽnga na n yɩɩ bãane, la a sorã na n yɩ vẽenega.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-018",
@@ -659,7 +1353,19 @@
    "texte": "Famagan est proclamé. La région entre dans une nouvelle ère.",
    "genre": "adulte/libre",
    "duree_ms": 5000,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Famagan ɗon anndina. Luttuɗo leydi ndii ina fuɗɗii ɓeydaade.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "B yeel-b lame tɩ b na n sãama tẽngã. Rẽ n so t'a Zeova nin-buiidã na n paama sũ-noogo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-019",
@@ -675,7 +1381,19 @@
    "texte": "Le grand marché s'anime : la cola, les étoffes et le sel passent de main en main.",
    "genre": "adulte/libre",
    "duree_ms": 5300,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Fuude mawnde ɗon ɓeyda: kola, limce e njamndi ɗon yahra bee juuɗe.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Zĩ-kãsemsã ra yaa wʋsgo. Koɛɛgã, futã la zu-loees ra lebgdame n paasdẽ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   },
   {
    "id": "film-020",
@@ -691,7 +1409,19 @@
    "texte": "Aujourd'hui encore, les Ouattara de Bobo-Dioulasso se souviennent de cette histoire.",
    "genre": "adulte/libre",
    "duree_ms": 5600,
-   "duree_statut": "mesurée sur le film"
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Haa hande, Ouattara'en nder Bobo-Dioulasso ɗon siftora haala nden.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Baa rũndã-rũndã, Bobo-Dioulasso Ouattara rãmbã ket n tẽra gom-kãensã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   }
  ]
 }
