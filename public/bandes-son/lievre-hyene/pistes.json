@@ -1322,6 +1322,398 @@
      "fichier": "lievre-hyene-tamtamKO-mos.m4a"
     }
    }
+  },
+  {
+   "id": "film-001",
+   "type": "film",
+   "partie": "Film d'animation, de 00:02.0 à 00:06.0",
+   "horodatage": {
+    "debut_ms": 2000,
+    "fin_ms": 6000
+   },
+   "personnage": "Narrateur",
+   "intonation": "solennel",
+   "intonation_statut": "scénario",
+   "texte": "Le lièvre et l'hyène. Un conte.",
+   "genre": "adulte/libre",
+   "duree_ms": 4000,
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Wuro e hyenya. Ko haala.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Dɩt-yãangã ne dĩisã. Yaa kibarã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "film-002",
+   "type": "film",
+   "partie": "Film d'animation, de 00:07.0 à 00:13.2",
+   "horodatage": {
+    "debut_ms": 7000,
+    "fin_ms": 13200
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Il y a longtemps, quand les bêtes parlaient encore, la saison sèche fut si dure que les greniers sonnaient creux.",
+   "genre": "adulte/libre",
+   "duree_ms": 6200,
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Wakkati ɗu'um, to dabbaaji ɗon mbi'a, saa'i sahaa naaŋge ɗon kaɓɓi masin, haa cuuɗi nyaamdu njokki.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Yʋʋm wʋsg sẽn looge, rũmsã sã n da ket n gomda, kom-kɩɩmdã ra yaa toogo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "film-003",
+   "type": "film",
+   "partie": "Film d'animation, de 00:16.0 à 00:22.1",
+   "horodatage": {
+    "debut_ms": 16000,
+    "fin_ms": 22100
+   },
+   "personnage": "Narrateur",
+   "intonation": "inquiet",
+   "intonation_statut": "scénario",
+   "texte": "L'hyène, qui avait toujours faim et jamais envie de travailler, attrapa le lièvre sur le sentier.",
+   "genre": "adulte/libre",
+   "duree_ms": 6100,
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Henna on ɗon nana nyaamdu, o yiɗataa huuwugo. Sey o hocci kaama nder laawol.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Zĩigã sẽn da tar kom wakat fãa, la a ra pa rat n tʋm ye, yõk-a lame.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "film-004",
+   "type": "film",
+   "partie": "Film d'animation, de 00:24.0 à 00:27.7",
+   "horodatage": {
+    "debut_ms": 24000,
+    "fin_ms": 27700
+   },
+   "personnage": "HYENE",
+   "intonation": "menaçant",
+   "intonation_statut": "scénario",
+   "texte": "Trouve-moi à manger, ou c'est toi que je mange.",
+   "genre": "esprit, créature : voix grave/libre",
+   "duree_ms": 3700,
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Hokka yam nyaamdu, malla mi nyaama ma.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Sã n ka rẽ, mam na n dɩka yãmba.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "film-005",
+   "type": "film",
+   "partie": "Film d'animation, de 00:29.0 à 00:32.0",
+   "horodatage": {
+    "debut_ms": 29000,
+    "fin_ms": 32000
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Le lièvre ne perdit pas son calme.",
+   "genre": "adulte/libre",
+   "duree_ms": 3000,
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Luttuɗo'en ɗon moƴƴa.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A ra pa basd a sũur ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "film-006",
+   "type": "film",
+   "partie": "Film d'animation, de 00:33.0 à 00:43.4",
+   "horodatage": {
+    "debut_ms": 33000,
+    "fin_ms": 43400
+   },
+   "personnage": "LIEVRE",
+   "intonation": "malicieux",
+   "intonation_statut": "scénario",
+   "texte": "Cultivons un champ ensemble. Je travaille, tu surveilles, et nous partageons : à toi ce qui pousse au-dessus de la terre, ou ce qui pousse au-dessous, comme il te plaira.",
+   "genre": "adulte/homme",
+   "duree_ms": 10400,
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "En njooɗoto bee maɓɓe. Mi ɗon kuugal, a ɗon hakkiilo, min ɗon hokkata ma ko woni nder lesdi, koo ko woni dow leydi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Bɩ d naag taab n bɩɩs pʋʋgo. Mam tʋmda, la yãmb gũuda, la tõnd pʋɩta foom bũmb nins sẽn yi tẽngã zugu, wall bõn-naands nins sẽn yit tẽngre, tɩ f tʋlg n maan ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "film-007",
+   "type": "film",
+   "partie": "Film d'animation, de 00:46.0 à 00:49.8",
+   "horodatage": {
+    "debut_ms": 46000,
+    "fin_ms": 49800
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "L'hyène choisit le dessus, et s'endormit à l'ombre.",
+   "genre": "adulte/libre",
+   "duree_ms": 3800,
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Bi'i ɗon suɓaa ko woni dow, o ɗaani nder nyiwre.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Zĩigã baooda a sẽn be yĩngri, n gãe zĩ-sobendẽ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "film-008",
+   "type": "film",
+   "partie": "Film d'animation, de 00:52.0 à 00:59.7",
+   "horodatage": {
+    "debut_ms": 52000,
+    "fin_ms": 59700
+   },
+   "personnage": "Narrateur",
+   "intonation": "amusé",
+   "intonation_statut": "scénario",
+   "texte": "Le lièvre sema des arachides. À la récolte, l'hyène reçut des feuilles, le lièvre des paniers pleins de graines.",
+   "genre": "adulte/libre",
+   "duree_ms": 7700,
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Le'i ɗon piyaa peeje. Nde hiine nyaami, o heɓan leɗɗe, nden kam haayre hokkan kooseeje keewɗe ɓikkoy.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Gẽesã bʋta bõn-buudu. A sã n wa tigsdẽ, b kõt-a-la sɛbã, la a rɩt-a lame t'a wʋk bõn-buudu.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "film-009",
+   "type": "film",
+   "partie": "Film d'animation, de 01:02.0 à 01:06.2",
+   "horodatage": {
+    "debut_ms": 62000,
+    "fin_ms": 66200
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "L'année suivante, furieuse, elle exigea le dessous.",
+   "genre": "adulte/libre",
+   "duree_ms": 4200,
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "E hitaande ɓaawo nden, o fuɗɗiti wi'ugo ɗum.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Yʋʋmd ning sẽn pʋglã, a sũur sãamame n kos tɩ b yiis-a.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "film-010",
+   "type": "film",
+   "partie": "Film d'animation, de 01:08.0 à 01:12.6",
+   "horodatage": {
+    "debut_ms": 68000,
+    "fin_ms": 72600
+   },
+   "personnage": "Narrateur",
+   "intonation": "amusé",
+   "intonation_statut": "scénario",
+   "texte": "Le lièvre sema du mil : elle n'eut que des racines, et lui les épis.",
+   "genre": "adulte/libre",
+   "duree_ms": 4600,
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Neɗɗo ɓannginii leɗɗe, ammaa ko o waɗi to ɓikkoy maako tan, kanko boo o waɗani ɗe.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Kẽer sã n bʋd bõn-buudã, a yẽgdame, la a yẽgemda.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "film-011",
+   "type": "film",
+   "partie": "Film d'animation, de 01:15.0 à 01:20.7",
+   "horodatage": {
+    "debut_ms": 75000,
+    "fin_ms": 80700
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Elle l'attendit alors sur le chemin du marché, et lui posa une devinette pour le prendre en faute.",
+   "genre": "adulte/libre",
+   "duree_ms": 5700,
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Sey o wari to laawol, o torra mo. O wi'i ɗum ngam o hocca mo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A ra gũuda a Eli sorẽ wã, n na n maan yel-solemd t'a paam-a.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "film-012",
+   "type": "film",
+   "partie": "Film d'animation, de 01:23.0 à 01:26.4",
+   "horodatage": {
+    "debut_ms": 83000,
+    "fin_ms": 86400
+   },
+   "personnage": "Narrateur",
+   "intonation": "enlevé",
+   "intonation_statut": "scénario",
+   "texte": "Le lièvre répondit, et s'en tira encore.",
+   "genre": "adulte/libre",
+   "duree_ms": 3400,
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Luttuɗo on nootii, o fuɗɗiti.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Tã-kẽengã leokame n leb n loogame.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "film-013",
+   "type": "film",
+   "partie": "Film d'animation, de 01:28.0 à 01:34.2",
+   "horodatage": {
+    "debut_ms": 88000,
+    "fin_ms": 94200
+   },
+   "personnage": "Narrateur",
+   "intonation": "doux",
+   "intonation_statut": "scénario",
+   "texte": "Depuis ce temps, dit-on, l'hyène rôde la nuit en ricanant, et le lièvre dort d'un œil.",
+   "genre": "adulte/libre",
+   "duree_ms": 6200,
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Diga nden ɗon, yimɓe mbi'a: \"Kooɗeeje njogii nder jemma, e ɓeynguure ɗaanii\".",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Sẽn sɩng ne wakat kãnga, b yetame tɩ zũndã kẽnd yʋngo n kɩdgdẽ, la gɩgemdã gãeeda.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "film-014",
+   "type": "film",
+   "partie": "Film d'animation, de 01:36.0 à 01:42.6",
+   "horodatage": {
+    "debut_ms": 96000,
+    "fin_ms": 102600
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "scénario",
+   "texte": "Version libre d'un motif de conte très répandu. Elle reste à valider auprès d'un conteur mossi.",
+   "genre": "adulte/libre",
+   "duree_ms": 6600,
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Ɗuum woni hollitugol haala gootol. Ɗuum ɓeydi hollaago to goɗɗo mo wi'eteeɗo Musa.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Bãngr-gomdã sẽn yaa to-to wã võor wʋmb pa be ye. A kell n kɩsa sɩd t'a Moyiis togsd-b-la koe-noogã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   }
  ]
 }

@@ -1,0 +1,74 @@
+# Les quatre récits qui n'avaient pas encore de film. La narration reprend le texte de leur fiche (public/data/textes).
+
+=== 31-lievre-hyene
+#roles HYENE=c LIEVRE=h2
+@amb 0:00 savane; 1:15 village; 1:28 nuit
+@mus 0:00 conte; 1:28 doux
+@sfx 0:23 impact
+0:02|N|solennel|Le lièvre et l'hyène. Un conte.
+0:07|N||Il y a longtemps, quand les bêtes parlaient encore, la saison sèche fut si dure que les greniers sonnaient creux.
+0:16|N|inquiet|L'hyène, qui avait toujours faim et jamais envie de travailler, attrapa le lièvre sur le sentier.
+0:24|HYENE|menaçant|Trouve-moi à manger, ou c'est toi que je mange.
+0:29|N||Le lièvre ne perdit pas son calme.
+0:33|LIEVRE|malicieux|Cultivons un champ ensemble. Je travaille, tu surveilles, et nous partageons : à toi ce qui pousse au-dessus de la terre, ou ce qui pousse au-dessous, comme il te plaira.
+0:46|N||L'hyène choisit le dessus, et s'endormit à l'ombre.
+0:52|N|amusé|Le lièvre sema des arachides. À la récolte, l'hyène reçut des feuilles, le lièvre des paniers pleins de graines.
+1:02|N||L'année suivante, furieuse, elle exigea le dessous.
+1:08|N|amusé|Le lièvre sema du mil : elle n'eut que des racines, et lui les épis.
+1:15|N||Elle l'attendit alors sur le chemin du marché, et lui posa une devinette pour le prendre en faute.
+1:23|N|enlevé|Le lièvre répondit, et s'en tira encore.
+1:28|N|doux|Depuis ce temps, dit-on, l'hyène rôde la nuit en ricanant, et le lièvre dort d'un œil.
+1:36|N|posé|Version libre d'un motif de conte très répandu. Elle reste à valider auprès d'un conteur mossi.
+?arret 0:46|Que choisit l'hyène ?|*Ce qui pousse au-dessus de la terre|Ce qui pousse au-dessous de la terre
+?quiz Que sème le lièvre la première année ?|*Des arachides|Du mil|Du sésame|Les arachides laissent les feuilles à l'hyène et les graines au lièvre.
+
+=== 32-naaba-wobgo
+@amb 0:00 village; 0:38 savane; 0:46 nuit; 1:05 savane
+@mus 0:00 conte; 0:38 mystere; 0:57 triste
+@sfx 0:46 impact
+0:02|N|solennel|Naaba Wobgo et la résistance de 1896.
+0:07|N||À la fin du XIXe siècle, Ouagadougou est la capitale d'un royaume mossi ancien.
+0:14|N||Son souverain, Boukary Koutou, a pris à son avènement le nom de Naaba Wobgo.
+0:22|N||En 1894, il signe un traité d'amitié avec George Ekem Ferguson, envoyé des Britanniques.
+0:30|N||Les Français contestent cet accord, car ils convoitent eux aussi la région.
+0:38|N|grave|En 1896, la colonne de Paul Voulet et Julien Chanoine marche sur le pays mossi.
+0:46|N|grave|Naaba Wobgo tente de résister, et sa ville est incendiée.
+0:52|N|grave|Voulet s'empare de Ouagadougou.
+0:57|N||Le souverain est déposé en 1897, et Voulet installe à sa place son frère Sighiri.
+1:05|N||Naaba Wobgo demande de l'aide aux Britanniques, sans succès.
+1:11|N|triste|Il se réfugie en Gold Coast, l'actuel Ghana, et il y meurt en 1904.
+1:19|N|posé|Les sources ne s'accordent pas sur tous les détails, en particulier sur la date exacte de sa déposition et les conditions de sa fuite. Ce texte reste à valider.
+?arret 0:38|Qui marche sur le pays mossi en 1896 ?|*La colonne de Voulet et Chanoine|Les envoyés de Ferguson
+?quiz Avec qui Naaba Wobgo signe-t-il un traité d'amitié en 1894 ?|*George Ekem Ferguson|Paul Voulet|Julien Chanoine|Ferguson est l'envoyé des Britanniques.
+
+=== 33-tiefo-amoro
+@amb 0:00 savane; 0:49 nuit; 1:02 savane
+@mus 0:00 conte; 0:31 mystere; 1:02 triste
+@sfx 0:49 impact
+0:02|N|solennel|Tiéfo Amoro et Noumoudara.
+0:07|N||Noumoudara était le principal centre des Tiéfo, dans l'ouest de l'actuel Burkina Faso.
+0:14|N||À sa tête, à la fin du XIXe siècle, se trouvait Tiéfo Amoro.
+0:20|N||Une conférence donnée à Bobo-Dioulasso en 2026 le présente comme le onzième chef des Tiéfo, né vers 1840.
+0:31|N|grave|En 1897, Samory Touré progresse vers la région de Bobo-Dioulasso.
+0:38|N|grave|Selon cette même conférence, Tiéfo Amoro lui oppose plusieurs combats, notamment à Bama et à Péni, puis à Noumoudara.
+0:49|N|grave|Samory assiège la forteresse.
+0:53|N|grave|Elle tombe après environ une semaine, et il ordonne de la détruire pour montrer sa force.
+1:02|N||Selon l'historien cité lors de la conférence, une trahison aurait affaibli l'armée de Tiéfo Amoro, et celui-ci aurait choisi la mort plutôt que la reddition.
+1:16|N|posé|Nous n'avons trouvé qu'une seule source pour ce récit de sa fin : il est donné ici comme tel, et il reste à valider.
+?arret 0:49|Que fait Samory à Noumoudara ?|*Il assiège la forteresse|Il signe un traité
+?quiz Où Tiéfo Amoro combat-il d'abord, selon la conférence ?|*À Bama et à Péni|À Ouagadougou|À Kaya|Puis le combat se poursuit à Noumoudara.
+
+=== 34-kinkirsi
+@amb 0:00 nuit
+@mus 0:00 mystere; 0:46 doux
+0:02|N|solennel|Les kinkirsi, génies de la brousse.
+0:07|N|mystérieux|Quand on quitte le village à la tombée du jour, disent les anciens, on n'est jamais tout à fait seul en brousse.
+0:16|N|mystérieux|Les kinkirsi y circulent, parfois montés sur des animaux sauvages.
+0:22|N||Au singulier, on dit kinkirga.
+0:26|N||Selon la tradition mossi décrite par l'ethnologue Doris Bonnet, ces génies sont organisés en groupes, chacun portant le nom de son doyen.
+0:37|N|doux|Ils aiment ce qui est doux : le miel, le sésame, les gâteaux de haricots, l'arachide.
+0:46|N|doux|On les associe aussi à la venue des enfants, et tout particulièrement aux jumeaux, regardés leur vie durant comme proches des génies.
+0:57|N|doux|Certains d'entre eux passent pour savoir leur parler.
+1:03|N|posé|Ce texte résume des descriptions publiées. Il ne raconte pas encore une légende précise de Kaya : c'est à collecter auprès d'un conteur de la région.
+?arret 0:37|Qu'aiment les kinkirsi ?|*Ce qui est doux|Ce qui est amer
+?quiz Comment dit-on « kinkirsi » au singulier ?|*Kinkirga|Kinkir|Kirsi|Kinkirga désigne un seul génie.

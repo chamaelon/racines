@@ -93,4 +93,6 @@ animations/    anciens films stickman, scripts de voix et sons (voir animations/
 
 Contours : geoBoundaries (CC BY 4.0) et Natural Earth (domaine public). Les sources de chaque récit sont citées sur sa fiche.
 
+Le code est sous licence MIT et nos modèles 3D sous licence CC BY 4.0 : voir [LICENSE.md](LICENSE.md).
+
 Réalisé par TIROUDA Leila, ZAPRE Malika, OUEDRAOGO Boris et SOME Enock.

@@ -1,10 +1,9 @@
-/* La fiche d'un récit : texte, audio, morale, lexique, sources, et le bouton pour le vivre. */
+/* La fiche d'une histoire : deux façons de la découvrir, le jeu et le film, puis la morale, le lexique et les sources. */
 import { carteRecit } from '../components/carte-recit.js';
 import { chargerCarte, creerSvg } from '../components/carte-svg.js';
-import { monterLecteur } from '../components/lecteur-audio.js';
 import * as data from '../data.js';
-import { store } from '../store.js';
-import { bandeauProvisoire, definirPage, esc, mdHtml, TYPES } from '../ui.js';
+import { formaterTemps } from '../engine/film.js';
+import { bandeauProvisoire, definirPage, esc, TYPES } from '../ui.js';
 
 async function rendre(el, id) {
   const [recits, localites, regions, patrimoine, langues, films] = await Promise.all([data.recits(), data.localites(), data.regions(), data.patrimoine(), data.langues(), data.films()]);
@@ -15,7 +14,6 @@ async function rendre(el, id) {
     return () => {};
   }
   definirPage({ titre: r.titre, description: r.resume });
-  const texteFr = await data.texte(r.texte);
   const lieux = r.localites.map((l) => localites.find((x) => x.id === l));
   const region = regions.find((g) => g.id === lieux[0].region);
   const nomRegion = Object.fromEntries(regions.map((g) => [g.id, g.nom]));
@@ -28,7 +26,7 @@ async function rendre(el, id) {
     .sort((a, b) => b.score - a.score)
     .slice(0, 3)
     .map((v) => v.x);
-  const dureeAudio = Object.values(r.audio)[0]?.duree;
+  const film = films[r.film];
 
   el.innerHTML = `<article class="page fiche-recit">
     <p class="fil"><a href="#/catalogue">Catalogue</a> › <span>${esc(TYPES[r.type].nom)}</span></p>
@@ -40,30 +38,18 @@ async function rendre(el, id) {
         <dl class="fiche-infos">
           <div><dt>Lieu</dt><dd>${lieux.map((l) => `<a href="#/carte/${l.id}">${esc(l.nom)}</a>`).join(', ')}, région ${esc(region.nom)}</dd></div>
           <div><dt>Peuple</dt><dd>${esc(r.peuple)}</dd></div>
-          <div><dt>Durée</dt><dd>${r.lecture} min de lecture${dureeAudio ? `, ${Math.ceil(dureeAudio / 60)} min d'écoute` : ''}</dd></div>
+          ${film ? `<div><dt>Durée du film</dt><dd>${formaterTemps(film.duree)}</dd></div>` : ''}
         </dl>
-        <div class="rangee">
-          ${r.jouable ? `<a class="bouton fort" href="#/jouer/${r.id}">▶ Vivre l'histoire</a>` : ''}
-          ${films[r.film] ? `<a class="bouton" href="#/film/${r.film}">▶ Voir le film</a>` : ''}
+        <div class="fiche-options">
+          <a class="bouton fort grand" href="#/jouer/${r.id}">▶ Jouer l'histoire</a>
+          ${film ? `<a class="bouton fort grand" href="#/film/${r.film}">▶ Voir le film</a>` : ''}
         </div>
+        ${r.statut === 'a_valider' ? bandeauProvisoire() : ''}
       </div>
       <div class="mini-carte" role="img" aria-label="Situation de ${esc(lieux[0].nom)} sur la carte du Burkina Faso"></div>
     </header>
 
-    <div class="fiche-colonnes">
-      <div class="fiche-texte">
-        <section aria-labelledby="t-ecouter">
-          <h2 id="t-ecouter">Écouter</h2>
-          <div data-lecteur></div>
-        </section>
-        <section aria-labelledby="t-lire">
-          <h2 id="t-lire">Lire</h2>
-          ${r.statut === 'a_valider' ? bandeauProvisoire() : ''}
-          <div class="texte-recit">${mdHtml(texteFr)}</div>
-          <div data-fin-lecture></div>
-        </section>
-        ${Object.entries(r.texteLocal || {}).length ? `<section><h2>En langue nationale</h2><p class="meta">Traduction automatique, non relue par un locuteur : des erreurs sont probables.</p>${(await Promise.all(Object.entries(r.texteLocal).map(async ([c, t]) => `<h3>${esc(langues[c])}</h3><div class="texte-recit" lang="${c}">${mdHtml(await data.texte(t))}</div>`))).join('')}</section>` : ''}
-      </div>
+    <div class="fiche-infos-bas">
       <aside class="fiche-cote">
         <section class="encart"><h2>Morale</h2><p>${esc(r.morale)}</p></section>
         ${r.personnages?.length ? `<section class="encart"><h2>Personnages</h2><p>${esc(r.personnages.join(', '))}</p></section>` : ''}
@@ -73,10 +59,8 @@ async function rendre(el, id) {
       </aside>
     </div>
 
-    ${voisins.length ? `<section class="voisins"><h2>À lire aussi</h2><ul class="grille-recits">${voisins.map((x) => carteRecit(x, { regionNom: nomRegion[locParId[x.localites[0]].region], langues })).join('')}</ul></section>` : ''}
+    ${voisins.length ? `<section class="voisins"><h2>À découvrir aussi</h2><ul class="grille-recits">${voisins.map((x) => carteRecit(x, { regionNom: nomRegion[locParId[x.localites[0]].region], langues })).join('')}</ul></section>` : ''}
   </article>`;
-
-  const fermerLecteur = monterLecteur(el.querySelector('[data-lecteur]'), r, langues);
 
   chargerCarte().then(({ svg, projeter }) => {
     const zone = el.querySelector('.mini-carte');
@@ -88,12 +72,7 @@ async function rendre(el, id) {
     zone.append(svg);
   });
 
-  // Le récit compte comme lu quand on arrive au bout du texte.
-  const obs = new IntersectionObserver((e) => {
-    if (e.some((x) => x.isIntersecting)) { store.marquer(r.id, 'lu'); obs.disconnect(); }
-  }, { threshold: 1 });
-  obs.observe(el.querySelector('[data-fin-lecture]'));
-  return () => { obs.disconnect(); fermerLecteur(); };
+  return () => {};
 }
 
 export async function monter(el, ctx) {

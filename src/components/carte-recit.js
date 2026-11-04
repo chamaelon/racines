@@ -42,7 +42,7 @@ export function illustration(r) {
 }
 
 export function carteRecit(r, { regionNom, langues }) {
-  const audio = Object.keys(r.audio).map((l) => langues[l]).join(', ');
+  const voix = ['français', ...Object.keys(r.texteLocal || {}).map((l) => langues[l])].join(', ');
   const fini = store.estTermine(r.id);
   return `<li class="carte-recit">
     <a href="#/recit/${r.id}">
@@ -51,7 +51,7 @@ export function carteRecit(r, { regionNom, langues }) {
         <p class="etiquettes"><span class="etiquette type-${r.type}">${TYPES[r.type].nom}</span>${r.jouable ? '<span class="etiquette jouable">▶ Jouable</span>' : ''}${fini ? '<span class="etiquette fini">✓ Terminé</span>' : ''}</p>
         <h2>${esc(r.titre)}</h2>
         <p class="meta">${esc(regionNom)} · ${esc(r.peuple)}</p>
-        ${audio ? `<p class="meta">Audio : ${esc(audio)}</p>` : ''}
+        <p class="meta">Langues : ${esc(voix)}</p>
       </div>
     </a>
   </li>`;

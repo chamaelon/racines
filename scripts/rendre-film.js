@@ -58,7 +58,7 @@ async function rendreTranche(page, de, a, sortie) {
   renameSync(provisoire, sortie);
 }
 
-const serveur = await createServer({ server: { port: 5199, strictPort: false }, logLevel: 'error' });
+const serveur = await createServer({ server: { port: 5199, strictPort: false, watch: { ignored: ['**/dist/**', '**/dist-depot-films/**', '**/montage/**', '**/animations/**', '**/public/films/**'] } }, optimizeDeps: { entries: ['films3d/index.html'] }, logLevel: 'error' });
 await serveur.listen();
 const base = serveur.resolvedUrls.local[0];
 const navigateur = await chromium.launch({ channel: process.env.CI ? undefined : 'msedge', args: ['--use-angle=d3d11', '--enable-gpu', '--ignore-gpu-blocklist', '--enable-webgl', '--disable-gpu-vsync', '--disable-frame-rate-limit'] });

@@ -890,6 +890,342 @@
      "fichier": "naaba-wobgo-bien-mos.m4a"
     }
    }
+  },
+  {
+   "id": "film-001",
+   "type": "film",
+   "partie": "Film d'animation, de 00:02.0 à 00:06.5",
+   "horodatage": {
+    "debut_ms": 2000,
+    "fin_ms": 6500
+   },
+   "personnage": "Narrateur",
+   "intonation": "solennel",
+   "intonation_statut": "scénario",
+   "texte": "Naaba Wobgo et la résistance de 1896.",
+   "genre": "adulte/libre",
+   "duree_ms": 4500,
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Naaba Wobgo e haɓre 1896.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Naaba Wobgo ne yʋʋmd 1896 kɩɩsgã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "film-002",
+   "type": "film",
+   "partie": "Film d'animation, de 00:07.0 à 00:12.6",
+   "horodatage": {
+    "debut_ms": 7000,
+    "fin_ms": 12600
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "À la fin du XIXe siècle, Ouagadougou est la capitale d'un royaume mossi ancien.",
+   "genre": "adulte/libre",
+   "duree_ms": 5600,
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Haa fuɗɗam karnijum 19, Ouagadougou laati laamorgo laamu Moosi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Yʋʋm kobs 19 wã saabẽ, a Ouagadougou ra yaa Mozi soolmã tẽn-kãsengã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "film-003",
+   "type": "film",
+   "partie": "Film d'animation, de 00:14.0 à 00:19.4",
+   "horodatage": {
+    "debut_ms": 14000,
+    "fin_ms": 19400
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Son souverain, Boukary Koutou, a pris à son avènement le nom de Naaba Wobgo.",
+   "genre": "adulte/libre",
+   "duree_ms": 5400,
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Laamiiɗo maako, Boukary Koutou, fuɗɗii innde Naaba Wobgo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A Buukary Koutou sẽn wa n yaa rĩmã, a pʋdame t'a Naaba Wobgo.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "film-004",
+   "type": "film",
+   "partie": "Film d'animation, de 00:22.0 à 00:29.4",
+   "horodatage": {
+    "debut_ms": 22000,
+    "fin_ms": 29400
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "En 1894, il signe un traité d'amitié avec George Ekem Ferguson, envoyé des Britanniques.",
+   "genre": "adulte/libre",
+   "duree_ms": 7400,
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "E hitaande 1894, o saini alkawal goɗɗum e George Ekem Ferguson, gardiiɗo leydi Britaniya.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Yʋʋmd 1894 wã, a sigla taab ne Britãnsã tʋm-tʋmd a George Ekem Ferguson.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "film-005",
+   "type": "film",
+   "partie": "Film d'animation, de 00:30.0 à 00:34.8",
+   "horodatage": {
+    "debut_ms": 30000,
+    "fin_ms": 34800
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Les Français contestent cet accord, car ils convoitent eux aussi la région.",
+   "genre": "adulte/libre",
+   "duree_ms": 4800,
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Farayse'en ɗon haɓɓa haala nde, ngam ɓe boo ɓe ngiɗi nokkuure nden.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A Frans nebã kɩɩsame, bala bãmb me rat n dɩka tẽn-kãnga.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "film-006",
+   "type": "film",
+   "partie": "Film d'animation, de 00:38.0 à 00:44.2",
+   "horodatage": {
+    "debut_ms": 38000,
+    "fin_ms": 44200
+   },
+   "personnage": "Narrateur",
+   "intonation": "grave",
+   "intonation_statut": "scénario",
+   "texte": "En 1896, la colonne de Paul Voulet et Julien Chanoine marche sur le pays mossi.",
+   "genre": "adulte/libre",
+   "duree_ms": 6200,
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Nder hitaande 1896, kolonne Paul Voulet e Julien Chanoine ɗon yaha lesdi Mossi.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Yʋʋmd 1896 wã, Paul Voulet ne a Julien Chanoine sull n kẽnga Mossi tẽngẽ.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "film-007",
+   "type": "film",
+   "partie": "Film d'animation, de 00:46.0 à 00:50.4",
+   "horodatage": {
+    "debut_ms": 46000,
+    "fin_ms": 50400
+   },
+   "personnage": "Narrateur",
+   "intonation": "grave",
+   "intonation_statut": "scénario",
+   "texte": "Naaba Wobgo tente de résister, et sa ville est incendiée.",
+   "genre": "adulte/libre",
+   "duree_ms": 4400,
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Naaba Wobgo ɗon ɗaɓɓa haɓre, nden gariiri maako ɗon halki.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A Naaba Wobgo sẽn modgd n na n tõoge, b yõoga a tẽngã bugum.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "film-008",
+   "type": "film",
+   "partie": "Film d'animation, de 00:52.0 à 00:54.7",
+   "horodatage": {
+    "debut_ms": 52000,
+    "fin_ms": 54700
+   },
+   "personnage": "Narrateur",
+   "intonation": "grave",
+   "intonation_statut": "scénario",
+   "texte": "Voulet s'empare de Ouagadougou.",
+   "genre": "adulte/libre",
+   "duree_ms": 2700,
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Voulet jaɓan lesdi Ouagadougou",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A Voulet rɩka Ouagadougou.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "film-009",
+   "type": "film",
+   "partie": "Film d'animation, de 00:57.0 à 01:03.1",
+   "horodatage": {
+    "debut_ms": 57000,
+    "fin_ms": 63100
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Le souverain est déposé en 1897, et Voulet installe à sa place son frère Sighiri.",
+   "genre": "adulte/libre",
+   "duree_ms": 6100,
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Laamiiɗo maɓɓiti nder hitaande 1897, Voulet taƴi mo bandiraawo maako Sighiri.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Yʋʋmd 1897 wã, a Voulet kɩtame t'a saam-biig a Sighiri lʋɩ a naamã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "film-010",
+   "type": "film",
+   "partie": "Film d'animation, de 01:05.0 à 01:09.3",
+   "horodatage": {
+    "debut_ms": 65000,
+    "fin_ms": 69300
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "proposée",
+   "texte": "Naaba Wobgo demande de l'aide aux Britanniques, sans succès.",
+   "genre": "adulte/libre",
+   "duree_ms": 4300,
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Naaba Wobgo noddi yimɓe Britiyankooɓe ngam wallugo mo, ammaa ɓe mbaawataa.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A Naaba Wobgo kosa Britani wã tɩ b sõng-a, n pa tõog ye.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "film-011",
+   "type": "film",
+   "partie": "Film d'animation, de 01:11.0 à 01:16.7",
+   "horodatage": {
+    "debut_ms": 71000,
+    "fin_ms": 76700
+   },
+   "personnage": "Narrateur",
+   "intonation": "triste",
+   "intonation_statut": "scénario",
+   "texte": "Il se réfugie en Gold Coast, l'actuel Ghana, et il y meurt en 1904.",
+   "genre": "adulte/libre",
+   "duree_ms": 5700,
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "O dilli haa Gold Coast, to Ghana hannde, o maayi ton nder 1904.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "A zoe n kẽnga Gold Coast, sẽn yaa Ghana rũndã-rũndã wã.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
+  },
+  {
+   "id": "film-012",
+   "type": "film",
+   "partie": "Film d'animation, de 01:19.0 à 01:29.1",
+   "horodatage": {
+    "debut_ms": 79000,
+    "fin_ms": 89100
+   },
+   "personnage": "Narrateur",
+   "intonation": "posé",
+   "intonation_statut": "scénario",
+   "texte": "Les sources ne s'accordent pas sur tous les détails, en particulier sur la date exacte de sa déposition et les conditions de sa fuite. Ce texte reste à valider.",
+   "genre": "adulte/libre",
+   "duree_ms": 10100,
+   "duree_statut": "mesurée sur le film",
+   "langues": {
+    "fuf": {
+     "texte": "Fuuɓe ɗon njaɓɓa feere-feere dow kooɗume, ɓurna fuu dow sahaa gooŋgaaɗum nde o waɗi defte maako e dow ko'e haala mo wurtini. Ɗuum winndannde ina haani wonde.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    },
+    "mos": {
+     "texte": "Sẽn yɩɩd fãa, b pa sak n deeg bũmb nins fãa a sẽn yeelã ye. Yaa sɩd t'a goamã ket n yaa sɩda.",
+     "relecture": "traduction automatique, non relue",
+     "statut": "a_enregistrer"
+    }
+   }
   }
  ]
 }

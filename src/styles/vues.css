@@ -322,3 +322,7 @@
 .film-choix { display: inline-flex; align-items: center; gap: 6px; }
 .film-choix select { min-height: 40px; max-width: 220px; border-radius: 8px; background: var(--nuit-2); color: var(--papier); border: 1px solid var(--ocre); }
 .film-note { min-height: 1.4em; margin: 8px 0; }
+
+/* Une fiche, deux façons de découvrir l'histoire : le jeu et le film. */
+.fiche-options { display: flex; flex-wrap: wrap; gap: 12px; margin: 14px 0; }
+.fiche-infos-bas .fiche-cote { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 16px; }

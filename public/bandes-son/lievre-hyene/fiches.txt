@@ -364,3 +364,171 @@ texte_fuf: Go'oto ɗon jooɗa bee hoore maako nder caka gariiri, haa o yi'i. Hye
 enregistre_fuf: lievre-hyene-tamtamKO-fuf.m4a (7370ms)
 texte_mos: A bee zĩig ning b sẽn yã wã sʋka. Yãk-y n tool-y neda.
 enregistre_mos: lievre-hyene-tamtamKO-mos.m4a (5434ms)
+
+piste: film-001
+histoire: Le lièvre et l'hyène
+partie: Film d'animation, de 00:02.0 à 00:06.0
+personnage: Narrateur
+fichier: lievre-hyene-film-001-<langue>.m4a
+intonation: solennel (scénario)
+texte: Le lièvre et l'hyène. Un conte.
+genre: adulte/libre
+duree: 4000ms (mesurée sur le film)
+texte_fuf: Wuro e hyenya. Ko haala.
+texte_mos: Dɩt-yãangã ne dĩisã. Yaa kibarã.
+
+piste: film-002
+histoire: Le lièvre et l'hyène
+partie: Film d'animation, de 00:07.0 à 00:13.2
+personnage: Narrateur
+fichier: lievre-hyene-film-002-<langue>.m4a
+intonation: posé (proposée)
+texte: Il y a longtemps, quand les bêtes parlaient encore, la saison sèche fut si dure que les greniers sonnaient creux.
+genre: adulte/libre
+duree: 6200ms (mesurée sur le film)
+texte_fuf: Wakkati ɗu'um, to dabbaaji ɗon mbi'a, saa'i sahaa naaŋge ɗon kaɓɓi masin, haa cuuɗi nyaamdu njokki.
+texte_mos: Yʋʋm wʋsg sẽn looge, rũmsã sã n da ket n gomda, kom-kɩɩmdã ra yaa toogo.
+
+piste: film-003
+histoire: Le lièvre et l'hyène
+partie: Film d'animation, de 00:16.0 à 00:22.1
+personnage: Narrateur
+fichier: lievre-hyene-film-003-<langue>.m4a
+intonation: inquiet (scénario)
+texte: L'hyène, qui avait toujours faim et jamais envie de travailler, attrapa le lièvre sur le sentier.
+genre: adulte/libre
+duree: 6100ms (mesurée sur le film)
+texte_fuf: Henna on ɗon nana nyaamdu, o yiɗataa huuwugo. Sey o hocci kaama nder laawol.
+texte_mos: Zĩigã sẽn da tar kom wakat fãa, la a ra pa rat n tʋm ye, yõk-a lame.
+
+piste: film-004
+histoire: Le lièvre et l'hyène
+partie: Film d'animation, de 00:24.0 à 00:27.7
+personnage: HYENE
+fichier: lievre-hyene-film-004-<langue>.m4a
+intonation: menaçant (scénario)
+texte: Trouve-moi à manger, ou c'est toi que je mange.
+genre: esprit, créature : voix grave/libre
+duree: 3700ms (mesurée sur le film)
+texte_fuf: Hokka yam nyaamdu, malla mi nyaama ma.
+texte_mos: Sã n ka rẽ, mam na n dɩka yãmba.
+
+piste: film-005
+histoire: Le lièvre et l'hyène
+partie: Film d'animation, de 00:29.0 à 00:32.0
+personnage: Narrateur
+fichier: lievre-hyene-film-005-<langue>.m4a
+intonation: posé (proposée)
+texte: Le lièvre ne perdit pas son calme.
+genre: adulte/libre
+duree: 3000ms (mesurée sur le film)
+texte_fuf: Luttuɗo'en ɗon moƴƴa.
+texte_mos: A ra pa basd a sũur ye.
+
+piste: film-006
+histoire: Le lièvre et l'hyène
+partie: Film d'animation, de 00:33.0 à 00:43.4
+personnage: LIEVRE
+fichier: lievre-hyene-film-006-<langue>.m4a
+intonation: malicieux (scénario)
+texte: Cultivons un champ ensemble. Je travaille, tu surveilles, et nous partageons : à toi ce qui pousse au-dessus de la terre, ou ce qui pousse au-dessous, comme il te plaira.
+genre: adulte/homme
+duree: 10400ms (mesurée sur le film)
+texte_fuf: En njooɗoto bee maɓɓe. Mi ɗon kuugal, a ɗon hakkiilo, min ɗon hokkata ma ko woni nder lesdi, koo ko woni dow leydi.
+texte_mos: Bɩ d naag taab n bɩɩs pʋʋgo. Mam tʋmda, la yãmb gũuda, la tõnd pʋɩta foom bũmb nins sẽn yi tẽngã zugu, wall bõn-naands nins sẽn yit tẽngre, tɩ f tʋlg n maan ye.
+
+piste: film-007
+histoire: Le lièvre et l'hyène
+partie: Film d'animation, de 00:46.0 à 00:49.8
+personnage: Narrateur
+fichier: lievre-hyene-film-007-<langue>.m4a
+intonation: posé (proposée)
+texte: L'hyène choisit le dessus, et s'endormit à l'ombre.
+genre: adulte/libre
+duree: 3800ms (mesurée sur le film)
+texte_fuf: Bi'i ɗon suɓaa ko woni dow, o ɗaani nder nyiwre.
+texte_mos: Zĩigã baooda a sẽn be yĩngri, n gãe zĩ-sobendẽ.
+
+piste: film-008
+histoire: Le lièvre et l'hyène
+partie: Film d'animation, de 00:52.0 à 00:59.7
+personnage: Narrateur
+fichier: lievre-hyene-film-008-<langue>.m4a
+intonation: amusé (scénario)
+texte: Le lièvre sema des arachides. À la récolte, l'hyène reçut des feuilles, le lièvre des paniers pleins de graines.
+genre: adulte/libre
+duree: 7700ms (mesurée sur le film)
+texte_fuf: Le'i ɗon piyaa peeje. Nde hiine nyaami, o heɓan leɗɗe, nden kam haayre hokkan kooseeje keewɗe ɓikkoy.
+texte_mos: Gẽesã bʋta bõn-buudu. A sã n wa tigsdẽ, b kõt-a-la sɛbã, la a rɩt-a lame t'a wʋk bõn-buudu.
+
+piste: film-009
+histoire: Le lièvre et l'hyène
+partie: Film d'animation, de 01:02.0 à 01:06.2
+personnage: Narrateur
+fichier: lievre-hyene-film-009-<langue>.m4a
+intonation: posé (proposée)
+texte: L'année suivante, furieuse, elle exigea le dessous.
+genre: adulte/libre
+duree: 4200ms (mesurée sur le film)
+texte_fuf: E hitaande ɓaawo nden, o fuɗɗiti wi'ugo ɗum.
+texte_mos: Yʋʋmd ning sẽn pʋglã, a sũur sãamame n kos tɩ b yiis-a.
+
+piste: film-010
+histoire: Le lièvre et l'hyène
+partie: Film d'animation, de 01:08.0 à 01:12.6
+personnage: Narrateur
+fichier: lievre-hyene-film-010-<langue>.m4a
+intonation: amusé (scénario)
+texte: Le lièvre sema du mil : elle n'eut que des racines, et lui les épis.
+genre: adulte/libre
+duree: 4600ms (mesurée sur le film)
+texte_fuf: Neɗɗo ɓannginii leɗɗe, ammaa ko o waɗi to ɓikkoy maako tan, kanko boo o waɗani ɗe.
+texte_mos: Kẽer sã n bʋd bõn-buudã, a yẽgdame, la a yẽgemda.
+
+piste: film-011
+histoire: Le lièvre et l'hyène
+partie: Film d'animation, de 01:15.0 à 01:20.7
+personnage: Narrateur
+fichier: lievre-hyene-film-011-<langue>.m4a
+intonation: posé (proposée)
+texte: Elle l'attendit alors sur le chemin du marché, et lui posa une devinette pour le prendre en faute.
+genre: adulte/libre
+duree: 5700ms (mesurée sur le film)
+texte_fuf: Sey o wari to laawol, o torra mo. O wi'i ɗum ngam o hocca mo.
+texte_mos: A ra gũuda a Eli sorẽ wã, n na n maan yel-solemd t'a paam-a.
+
+piste: film-012
+histoire: Le lièvre et l'hyène
+partie: Film d'animation, de 01:23.0 à 01:26.4
+personnage: Narrateur
+fichier: lievre-hyene-film-012-<langue>.m4a
+intonation: enlevé (scénario)
+texte: Le lièvre répondit, et s'en tira encore.
+genre: adulte/libre
+duree: 3400ms (mesurée sur le film)
+texte_fuf: Luttuɗo on nootii, o fuɗɗiti.
+texte_mos: Tã-kẽengã leokame n leb n loogame.
+
+piste: film-013
+histoire: Le lièvre et l'hyène
+partie: Film d'animation, de 01:28.0 à 01:34.2
+personnage: Narrateur
+fichier: lievre-hyene-film-013-<langue>.m4a
+intonation: doux (scénario)
+texte: Depuis ce temps, dit-on, l'hyène rôde la nuit en ricanant, et le lièvre dort d'un œil.
+genre: adulte/libre
+duree: 6200ms (mesurée sur le film)
+texte_fuf: Diga nden ɗon, yimɓe mbi'a: "Kooɗeeje njogii nder jemma, e ɓeynguure ɗaanii".
+texte_mos: Sẽn sɩng ne wakat kãnga, b yetame tɩ zũndã kẽnd yʋngo n kɩdgdẽ, la gɩgemdã gãeeda.
+
+piste: film-014
+histoire: Le lièvre et l'hyène
+partie: Film d'animation, de 01:36.0 à 01:42.6
+personnage: Narrateur
+fichier: lievre-hyene-film-014-<langue>.m4a
+intonation: posé (scénario)
+texte: Version libre d'un motif de conte très répandu. Elle reste à valider auprès d'un conteur mossi.
+genre: adulte/libre
+duree: 6600ms (mesurée sur le film)
+texte_fuf: Ɗuum woni hollitugol haala gootol. Ɗuum ɓeydi hollaago to goɗɗo mo wi'eteeɗo Musa.
+texte_mos: Bãngr-gomdã sẽn yaa to-to wã võor wʋmb pa be ye. A kell n kɩsa sɩd t'a Moyiis togsd-b-la koe-noogã.

@@ -9424,5 +9424,35 @@
   "retour": "Il y a beaucoup de monde autour de Jsus.",
   "score": 0.6071,
   "variante": 0
+ },
+ "Le lièvre et l'hyène.": {
+  "texte": "Dɩt-yãangã ne dĩisã.",
+  "retour": "Le soleil levant et le soleil couchant.",
+  "score": 0.45,
+  "variante": 0
+ },
+ "Un conte.": {
+  "texte": "Yaa kibarã.",
+  "retour": "C'est une histoire.",
+  "score": 0.45,
+  "variante": 0
+ },
+ "Cultivons un champ ensemble.": {
+  "texte": "Bɩ d naag taab n bɩɩs pʋʋgo.",
+  "retour": "Alors, travaillons ensemble pour construire la communaut.",
+  "score": 0.5722,
+  "variante": 0
+ },
+ "Version libre d'un motif de conte très répandu.": {
+  "texte": "Bãngr-gomdã sẽn yaa to-to wã võor wʋmb pa be ye.",
+  "retour": "Mais on ne peut pas le connatre clairement.",
+  "score": 0.45,
+  "variante": 0
+ },
+ "Naaba Wobgo et la résistance de 1896.": {
+  "texte": "Naaba Wobgo ne yʋʋmd 1896 kɩɩsgã.",
+  "retour": "Le prince Wobgo et la révolte de 1896.",
+  "score": 0.6333,
+  "variante": 0
  }
 }

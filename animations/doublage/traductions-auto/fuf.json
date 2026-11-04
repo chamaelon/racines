@@ -10882,5 +10882,47 @@
   "retour": "Une nuit, deux de ses disciples sont alls dans une rue.",
   "score": 0.6192,
   "variante": 1
+ },
+ "Le lièvre et l'hyène.": {
+  "texte": "Wuro e hyenya.",
+  "retour": "La ville est vide.",
+  "score": 0.45,
+  "variante": 0
+ },
+ "Un conte.": {
+  "texte": "Ko haala.",
+  "retour": "C'est une question.",
+  "score": 0.45,
+  "variante": 0
+ },
+ "Cultivons un champ ensemble.": {
+  "texte": "En njooɗoto bee maɓɓe.",
+  "retour": "Nous vivrons avec eux.",
+  "score": 0.45,
+  "variante": 0
+ },
+ "Version libre d'un motif de conte très répandu.": {
+  "texte": "Ɗuum woni hollitugol haala gootol.",
+  "retour": "Voil une histoire vraie.",
+  "score": 0.45,
+  "variante": 0
+ },
+ "Naaba Wobgo et la résistance de 1896.": {
+  "texte": "Naaba Wobgo e haɓre 1896.",
+  "retour": "La guerre de Wobgo et la guerre de 1896.",
+  "score": 0.6333,
+  "variante": 0
+ },
+ "Tiéfo Amoro et Noumoudara.": {
+  "texte": "Tiéfo Amoro e Noumoudara.",
+  "retour": "Tiéfo Amoro et Noumoudara.",
+  "score": 1.0,
+  "variante": 0
+ },
+ "Les kinkirsi, génies de la brousse.": {
+  "texte": "Kinkirsi'en, ruuhuuji nder ladde.",
+  "retour": "Des esprits mauvais dans le dsert.",
+  "score": 0.6071,
+  "variante": 1
  }
 }

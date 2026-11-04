@@ -33,7 +33,9 @@
 ## Audio
 
 - Aucune voix en langue nationale n'est encore enregistrée. Les fichiers actuels sont des MP3 muets (`scripts/bouche-trous.js`), signalés par « audio à venir ». La liste complète est dans `ENREGISTREMENTS.md`.
-- La voix de synthèse des films n'est pas reprise sur les fiches : le cahier exclut le doublage généré par IA.
+- **Doublage par IA :** l'énoncé du TP ne l'exclut pas. C'est notre cahier des charges du 1er novembre qui le plaçait hors périmètre. L'équipe a levé cette exclusion le 3 novembre.
+- **Deux options par histoire (décision du 4 novembre) :** chaque fiche propose seulement le jeu et le film. Les sections « Écouter » et « Lire » du cahier (F3, F4) sont retirées de l'affichage ; le « mode lecture » du jeu reste comme secours d'accessibilité (sans WebGL, mouvement réduit). Les textes restent dans `public/data/textes`, et `src/components/lecteur-audio.js` n'est plus affiché.
+- **Licences :** voir `LICENSE.md`. NLLB-200 et MMS-TTS appartiennent à Meta (CC BY-NC 4.0) : l'équipe ne peut pas les relicencier.
 
 ## Technique
 
@@ -94,7 +96,7 @@
 - **Liste des phrases :** l'interface est extraite du code par `scripts/medias.js`. Une phrase composée à l'affichage peut y échapper, et reste alors en français.
 - **Sous-titres :** ceux du lecteur audio ne passent par ce fichier que s'ils reprennent exactement une phrase de la fiche.
 - **Anglais :** traduction de travail, partielle, pour montrer le résultat : l'interface principale, Yennenga et La gazelle.
-- **Langues nationales (décision de l'équipe du 2026-11-03, faute de temps) :** chaque histoire est traduite et dite automatiquement dans deux langues tirées au sort parmi le mooré, le dioula et le fulfulde : film, sous-titres, texte de la fiche et jeu (`scripts/voix_mms.py`, tirage dans `animations/doublage/traductions-auto/tirage.json`). Aucun locuteur n'a relu. La retraduction du pilote montrait de nombreux contresens ; les reformulations et le choix par retraduction les réduisent sans les supprimer. Le fulfulde est celui du Nigeria côté traduction. Le modèle mooré n'a pas de « h ». Une seule voix par langue. Une traduction humaine écrite dans `traduction.csv` prime : il faut alors relancer le script.
+- **Langues nationales (décision de l'équipe du 2026-11-03, faute de temps) :** chaque histoire est traduite et dite automatiquement dans deux langues tirées au sort parmi le mooré, le dioula et le fulfulde : film, sous-titres et jeu (`scripts/voix_mms.py`, tirage dans `animations/doublage/traductions-auto/tirage.json`). Aucun locuteur n'a relu. La retraduction du pilote montrait de nombreux contresens ; les reformulations et le choix par retraduction les réduisent sans les supprimer. Le fulfulde est celui du Nigeria côté traduction. Le modèle mooré n'a pas de « h ». Une seule voix par langue. Une traduction humaine écrite dans `traduction.csv` prime : il faut alors relancer le script.
 - **Voix :** `<histoire>-<partie>-<langue>.m4a`, à enregistrer avec Audacity une fois l'idée validée par l'équipe. Aucune n'existe encore.
 - **Intonation, âge, sexe, durée :** proposés automatiquement pour le jeu, à ajuster par le directeur de doublage. Les films gardent le ton et le minutage de leur script.
 

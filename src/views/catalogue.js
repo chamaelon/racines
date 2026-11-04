@@ -10,7 +10,7 @@ export async function monter(el, ctx) {
   const localitesParId = Object.fromEntries(localites.map((l) => [l.id, l]));
   const nomRegion = Object.fromEntries(regions.map((r) => [r.id, r.nom]));
   const peuples = [...new Set(recits.map((r) => r.peuple))].sort((a, b) => a.localeCompare(b));
-  const codes = [...new Set(recits.flatMap((r) => [...r.langues, ...Object.keys(r.audio), ...Object.keys(r.texteLocal || {})]))].sort((a, b) => langues[a].localeCompare(langues[b]));
+  const codes = [...new Set(['fr', ...recits.flatMap((r) => Object.keys(r.texteLocal || {}))])].sort((a, b) => langues[a].localeCompare(langues[b]));
   const regionsAvec = regions.filter((g) => localites.some((l) => l.region === g.id)).sort((a, b) => a.nom.localeCompare(b.nom));
   const options = (l) => l.map(([v, t]) => `<option value="${esc(v)}">${esc(t)}</option>`).join('');
 
@@ -22,7 +22,6 @@ export async function monter(el, ctx) {
       <label class="champ">Région<select name="region"><option value="">Toutes</option>${options(regionsAvec.map((g) => [g.id, g.nom]))}</select></label>
       <label class="champ">Peuple<select name="peuple"><option value="">Tous</option>${options(peuples.map((p) => [p, p]))}</select></label>
       <label class="champ">Langue<select name="langue"><option value="">Toutes</option>${options(codes.map((c) => [c, langues[c]]))}</select></label>
-      <label class="case"><input type="checkbox" name="audio">Avec audio</label>
       <button type="reset" class="bouton discret">Tout effacer</button>
     </form>
     <p class="resultat" role="status"></p>
@@ -34,12 +33,10 @@ export async function monter(el, ctx) {
 
   const lire = () => ({
     q: form.q.value.trim(), type: form.type.value, region: form.region.value, peuple: form.peuple.value, langue: form.langue.value,
-    audio: form.audio.checked,
   });
   function remplir(q) {
     form.q.value = q.q || ''; form.type.value = q.type || ''; form.region.value = q.region || '';
     form.peuple.value = q.peuple || ''; form.langue.value = q.langue || '';
-    form.audio.checked = !!q.audio;
   }
   function rendre() {
     const f = lire();

@@ -1,6 +1,7 @@
 {
   "name": "racines",
   "private": true,
+  "license": "MIT",
   "version": "1.0.0",
   "description": "Plateforme web multimédia et carte interactive des contes et légendes du Burkina Faso",
   "type": "module",

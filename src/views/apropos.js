@@ -17,7 +17,7 @@ export async function monter(el) {
     <p>Chaque récit se vit aussi en jouant. Dans un conte ou une légende, la fin « Version du griot » suit le texte de la fiche, et les fins « Autre chemin » sont inventées pour le jeu. Dans un récit historique, les choix changent ce que l'on regarde, jamais les faits ; le témoin joué et certaines répliques sont imaginés. Ce qui relève du secret, comme le Dyoro ou le vur, n'est pas montré.</p>
 
     <h2>Les voix</h2>
-    <p>Les bandes sonores sont pensées en mooré, dioula et fulfulde, avec des sous-titres français. Les voix sont enregistrées par des personnes, pas générées. Tant qu'un enregistrement manque, le lecteur affiche « audio à venir ».</p>
+    <p>Chaque histoire se joue en 3D et se regarde en film, en français et dans deux langues nationales. Ces voix sont générées par des modèles automatiques : aucune n'est encore enregistrée par un locuteur.</p>
 
     <h2>La carte</h2>
     <p>La carte suit les <strong>17 régions</strong> créées en juillet 2025 : les 45 provinces de geoBoundaries (2017) y sont regroupées d'après les listes publiées par <a href="https://www.sidwaya.info/reorganisation-administrative-du-territoire-les-toponymes-des-17-regions-et-leur-signification/" target="_blank" rel="noreferrer">Sidwaya</a>. Les deux provinces créées en 2025 (Karo-Peli et Dyamongou) n'y sont donc pas séparées, ce qui ne change pas les contours des régions. Les points marqués « indicatif » désignent une aire culturelle plutôt qu'un lieu précis.</p>
@@ -32,8 +32,11 @@ export async function monter(el) {
     </ul>
 
     <h2>Les films d'animation</h2>
-    <p>Trente de ces récits existent aussi en film. Les films sont animés en 3D avec les personnages du jeu, exportés en vidéo, puis montés avec leurs pistes sonores. Une seule image pour toutes les langues : c'est la piste audio qui change. Les films pas encore refaits en 3D restent, pour l'instant, dans leur ancienne version stickman, avec une voix de synthèse provisoire.</p>
-    <p>Chaque histoire existe aussi dans deux langues nationales tirées au sort parmi le mooré, le dioula et le fulfulde : film, sous-titres, texte et jeu. Ces versions sont produites par des modèles automatiques (NLLB-200 pour la traduction, MMS-TTS pour la voix, tous deux de Meta, sous licence non commerciale). Aucun locuteur ne les a relues : elles contiennent des erreurs et ne remplacent pas un vrai doublage. Le français reste la version de référence.</p>
+    <p>Toutes les histoires existent aussi en film. Les films sont animés en 3D avec les personnages du jeu, exportés en vidéo, puis montés avec leurs pistes sonores. Une seule image pour toutes les langues : c'est la piste audio qui change. Cinq films sont en 3D. Les autres restent, pour l'instant, dans leur ancienne version stickman. La voix française est une voix de synthèse.</p>
+    <p>Chaque histoire existe aussi dans deux langues nationales tirées au sort parmi le mooré, le dioula et le fulfulde : film, sous-titres et jeu. Ces versions sont produites par des modèles automatiques (NLLB-200 pour la traduction, MMS-TTS pour la voix, tous deux de Meta, sous licence non commerciale). Aucun locuteur ne les a relues : elles contiennent des erreurs et ne remplacent pas un vrai doublage. Le français reste la version de référence.</p>
+
+    <h2>Licences</h2>
+    <p>Le code est sous licence MIT, et nos modèles 3D sous licence CC BY 4.0. Le détail est dans le fichier LICENSE.md du dépôt.</p>
 
     <h2>Crédits</h2>
     <ul>

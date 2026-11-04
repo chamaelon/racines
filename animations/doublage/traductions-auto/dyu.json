@@ -9568,5 +9568,17 @@
   "retour": "Il était entouré de neige.",
   "score": 0.45,
   "variante": 0
+ },
+ "Tiéfo Amoro et Noumoudara.": {
+  "texte": "Tiéfo Amoro ni Noumoudara.",
+  "retour": "Théfo Amoro et Noumoudara.",
+  "score": 0.8167,
+  "variante": 0
+ },
+ "Les kinkirsi, génies de la brousse.": {
+  "texte": "Kinkirisiw, minw ye kungo kɔnɔ lɔnnikɛlaw ye.",
+  "retour": "Les grenouilles, les savants de la forêt.",
+  "score": 0.6333,
+  "variante": 0
  }
 }

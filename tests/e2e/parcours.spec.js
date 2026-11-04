@@ -59,9 +59,9 @@ test('accueil, localité, fiche, jeu, fin, sans erreur', async ({ page }, info) 
   await expect(page.locator('h1')).toHaveText('La légende de Yennenga');
   await expect(page.locator('.encart', { hasText: 'Morale' })).toBeVisible();
   await expect(page.locator('.lexique')).toContainText('naaba');
-  await expect(page.locator('.sous-titres button').first()).toBeVisible();
+  await expect(page.locator('.fiche-options a')).toHaveCount(2);
 
-  await page.getByRole('link', { name: "Vivre l'histoire" }).click();
+  await page.getByRole('link', { name: "Jouer l'histoire" }).click();
   await page.getByRole('button', { name: /Commencer/ }).click();
   await expect(page.locator('.j-boite')).toBeVisible();
   await page.locator('[data-moteur]').click();

@@ -129,7 +129,10 @@ def verifier(films):
 
 def scenes_film(id_):
     """Le découpage en scènes, relevé dans scenes.js (pour le menu de la version vidéo)."""
-    src = open(os.path.join(RACINE, 'histoires', id_, 'scenes.js'), encoding='utf8').read()
+    chemin = os.path.join(RACINE, 'histoires', id_, 'scenes.js')
+    if not os.path.exists(chemin):  # film 3D : son découpage est dans films3d/decoupages
+        return []
+    src = open(chemin, encoding='utf8').read()
     t, res = 0.0, []
     for nom, duree in re.findall(r"R\.scene\('((?:[^'\\]|\\.)*)',\s*([\d.]+)", src):
         res.append({'nom': nom.replace("\\'", "'"), 'd': round(t, 2)})

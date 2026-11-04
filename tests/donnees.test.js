@@ -54,13 +54,12 @@ describe('validation des graphes', () => {
 describe('filtres du catalogue', () => {
   const f = (o) => filtrer(recits, o, { localitesParId: parId }).map((r) => r.id);
   it('sans filtre, tout passe', () => { expect(f({}).length).toBe(recits.length); });
-  it('filtre par type, région, langue, audio', () => {
+  it('filtre par type, région et langue', () => {
     expect(filtrer(recits, { type: 'histoire' }, {}).every((r) => r.type === 'histoire')).toBe(true);
     expect(f({ region: 'nakambe' })).toContain('yennenga');
     expect(f({ region: 'nakambe' })).not.toContain('silures-dafra');
     expect(f({ langue: 'dyu' })).toContain('tiefo-amoro');
-    expect(f({ audio: true })).toContain('naaba-wobgo');
-    expect(f({ audio: true })).not.toContain('kinkirsi');
+    expect(f({ langue: 'fr' }).length).toBe(recits.length);
   });
   it('combine les filtres', () => { expect(f({ type: 'conte', q: 'lievre' })).toEqual(['lievre-hyene']); });
   it('cherche sans tenir compte des accents ni de la casse', () => {

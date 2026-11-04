@@ -44,7 +44,7 @@ function rendre(el, id, films, recits, langues) {
     ${film.rendu === 'stickman' ? '<p class="meta">Version provisoire en attendant le film en 3D.</p>' : ''}
     <div class="rangee">
       ${recit?.jouable ? `<a class="bouton fort" href="#/jouer/${recit.id}">▶ Vivre l'histoire</a>` : ''}
-      ${recit ? `<a class="bouton" href="#/recit/${recit.id}">Lire le récit</a>` : ''}
+      ${recit ? `<a class="bouton" href="#/recit/${recit.id}">Fiche de l'histoire</a>` : ''}
     </div>
   </article>`;
 
@@ -112,7 +112,7 @@ function rendre(el, id, films, recits, langues) {
   // Un média absent ou illisible (pas encore publié, coupure) se dit au visiteur, au lieu d'un bouton qui ne fait rien.
   video.addEventListener('error', () => {
     lancer.classList.add('cache');
-    note.textContent = 'Ce film ne peut pas être lu pour l\'instant. Le récit reste à lire et à jouer.';
+    note.textContent = 'Ce film ne peut pas être lu pour l\'instant. L\'histoire reste à jouer.';
   });
   audio.addEventListener('error', () => {
     if (audio.getAttribute('src')) note.textContent = 'Cette piste audio ne peut pas être lue pour l\'instant : essayez une autre langue.';
@@ -140,7 +140,10 @@ function rendre(el, id, films, recits, langues) {
   video.addEventListener('playing', () => { caler(); if (audio.src) audio.play().catch(() => {}); });
   // Le son en retard retient l'image, pour ne pas faire parler les personnages à côté de leur voix.
   audio.addEventListener('waiting', () => { if (!video.paused) { sonEnAttente = true; video.pause(); } });
-  audio.addEventListener('canplay', () => { if (sonEnAttente) { sonEnAttente = false; video.play().catch(() => {}); } });
+  const reprendreImage = () => { if (sonEnAttente) { sonEnAttente = false; video.play().catch(() => {}); } };
+  audio.addEventListener('canplay', reprendreImage);
+  // Le son peut repartir sans repasser par canplay : l'image ne doit pas rester figée.
+  audio.addEventListener('playing', reprendreImage);
   temps.addEventListener('input', () => { video.currentTime = Number(temps.value); });
   cadre.querySelector('[data-volume]').addEventListener('input', (e) => { audio.volume = Number(e.target.value); });
   choix.addEventListener('change', () => { store.definirPref('langueVoix', choix.value); poserPiste(choix.value); });

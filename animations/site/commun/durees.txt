@@ -28,3 +28,7 @@
 28-silamaka 256.45
 29-liptako 270
 30-crapaud 272
+31-lievre-hyene 106
+32-naaba-wobgo 96
+33-tiefo-amoro 90
+34-kinkirsi 79
